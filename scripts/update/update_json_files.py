@@ -26,9 +26,9 @@ import collections
 from pathlib import Path
 
 import config
-from osrsbox import items_api
-from osrsbox import monsters_api
-from osrsbox import prayers_api
+from osrsreboxed import items_api
+from osrsreboxed import monsters_api
+from osrsreboxed import prayers_api
 
 
 def generate_items_complete():

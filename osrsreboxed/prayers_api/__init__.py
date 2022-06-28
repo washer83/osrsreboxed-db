@@ -18,7 +18,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ###############################################################################
 """
-from osrsbox.prayers_api import all_prayers
+from osrsreboxed.prayers_api import all_prayers
 
 
 def load() -> all_prayers.AllPrayers:

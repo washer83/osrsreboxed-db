@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 import os
 from pathlib import Path
 
-from osrsbox.items_api import all_items
+from osrsreboxed.items_api import all_items
 
 # The current number of items being loaded from the db
 NUMBER_OF_ITEMS = 24735

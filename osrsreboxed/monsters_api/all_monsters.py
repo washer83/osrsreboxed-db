@@ -25,7 +25,7 @@ from typing import List
 from typing import Union
 from typing import Generator
 
-from osrsbox.monsters_api.monster_properties import MonsterProperties
+from osrsreboxed.monsters_api.monster_properties import MonsterProperties
 
 PATH_TO_MONSTERS_COMPLETE = Path(__file__).absolute().parent / ".." / ".." / "docs" / "monsters-complete.json"
 if not PATH_TO_MONSTERS_COMPLETE.is_file():

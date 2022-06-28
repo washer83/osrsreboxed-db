@@ -22,7 +22,7 @@ import json
 from pathlib import Path
 from typing import Dict, List, Union, Generator
 
-from osrsbox.prayers_api.prayer_properties import PrayerProperties
+from osrsreboxed.prayers_api.prayer_properties import PrayerProperties
 
 PATH_TO_PRAYERS_COMPLETE_JSON = Path(__file__).absolute().parent / ".." / ".." / "docs" / "prayers-complete.json"
 if not PATH_TO_PRAYERS_COMPLETE_JSON.is_file():

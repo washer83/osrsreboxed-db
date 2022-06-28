@@ -18,7 +18,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ###############################################################################
 """
-from osrsbox.items_api import all_items
+from osrsreboxed.items_api import all_items
 
 
 def load() -> all_items.AllItems:

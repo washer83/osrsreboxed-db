@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 import os
 from pathlib import Path
 
-from osrsbox.prayers_api import all_prayers
+from osrsreboxed.prayers_api import all_prayers
 
 # The current number of prayers being loaded from the db
 NUMBER_OF_PRAYERS = 29

@@ -30,7 +30,7 @@ from collections import defaultdict
 import requests
 
 import config
-from osrsbox import items_api
+from osrsreboxed import items_api
 from scripts.wiki.wikitext_parser import WikitextTemplateParser
 
 

@@ -32,7 +32,7 @@ import config
 import validator
 from builders.monsters import infobox_cleaner
 from scripts.wiki.wikitext_parser import WikitextTemplateParser
-from osrsbox.monsters_api.monster_properties import MonsterProperties
+from osrsreboxed.monsters_api.monster_properties import MonsterProperties
 
 
 class BuildMonster:

@@ -25,8 +25,8 @@ from dataclasses import dataclass
 from typing import Dict
 from typing import Optional
 
-from osrsbox.items_api.item_equipment import ItemEquipment
-from osrsbox.items_api.item_weapon import ItemWeapon
+from osrsreboxed.items_api.item_equipment import ItemEquipment
+from osrsreboxed.items_api.item_weapon import ItemWeapon
 
 
 @dataclass

@@ -22,7 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ###############################################################################
 """
 
-from osrsbox import monsters_api
+from osrsreboxed import monsters_api
 
 
 if __name__ == "__main__":

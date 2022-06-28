@@ -23,7 +23,7 @@ import json
 from pathlib import Path
 from typing import Dict, List, Union, Generator
 
-from osrsbox.items_api.item_properties import ItemProperties
+from osrsreboxed.items_api.item_properties import ItemProperties
 
 PATH_TO_ITEMS_COMPLETE_JSON = Path(__file__).absolute().parent / ".." / ".." / "docs" / "items-complete.json"
 if not PATH_TO_ITEMS_COMPLETE_JSON.is_file():

@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 import os
 from pathlib import Path
 
-from osrsbox.monsters_api import all_monsters
+from osrsreboxed.monsters_api import all_monsters
 
 # The current number of monsters being loaded from the db
 NUMBER_OF_MONSTERS = 3000

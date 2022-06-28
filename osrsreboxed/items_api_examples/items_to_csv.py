@@ -26,7 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import csv
 
-from osrsbox import items_api
+from osrsreboxed import items_api
 
 
 if __name__ == "__main__":

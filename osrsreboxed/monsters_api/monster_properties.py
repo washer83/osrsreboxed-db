@@ -26,7 +26,7 @@ from pathlib import Path
 from dataclasses import asdict
 from dataclasses import dataclass
 
-from osrsbox.monsters_api.monster_drop import MonsterDrop
+from osrsreboxed.monsters_api.monster_drop import MonsterDrop
 
 
 @dataclass
