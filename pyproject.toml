@@ -3,9 +3,9 @@ name = "osrs-reboxed"
 version = "2.2.4"
 description = "A complete and up-to-date database of Old School Runescape (OSRS) items, monsters and prayers accessible using a Python API. Up to date version of osrsbox by PH01L"
 readme="README.md"
-homepage = "https://github.com/0xNeffarion/osrsbox-db"
-repository = "https://github.com/0xNeffarion/osrsbox-db"
-authors = ["Neffarion <main@neffware.com>"]
+homepage = "https://github.com/0xNeffarion/osrsreboxed-db"
+repository = "https://github.com/0xNeffarion/osrsreboxed-db"
+authors = ["Neffarion <main@neffware.com>", "PH01L <phoil@osrsbox.com>"]
 license = "GPL-3.0-only"
 
 [tool.poetry.dependencies]

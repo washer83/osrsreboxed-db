@@ -1,4 +1,4 @@
-# osrsbox-db 
+# osrsreboxed-db 
 
 ![build](https://img.shields.io/github/workflow/status/osrsbox/osrsbox-db/Build%20and%20Deploy%20to%20PyPI) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/osrsbox.svg) 
 
