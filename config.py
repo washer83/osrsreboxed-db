@@ -30,7 +30,7 @@ PROJECT_ROOT_PATH = Path(__file__).parent
 BUILDERS_PATH = Path(PROJECT_ROOT_PATH / "builders")
 DATA_PATH = Path(PROJECT_ROOT_PATH / "data")
 DOCS_PATH = Path(PROJECT_ROOT_PATH / "docs")
-PACKAGE_PATH = Path(PROJECT_ROOT_PATH / "osrsbox")
+PACKAGE_PATH = Path(PROJECT_ROOT_PATH / "osrsreboxed")
 SCRIPTS_PATH = Path(PROJECT_ROOT_PATH / "scripts")
 TEST_PATH = Path(PROJECT_ROOT_PATH / "test")
 
