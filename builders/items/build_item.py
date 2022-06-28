@@ -33,7 +33,7 @@ import config
 import validator
 from builders.items import infobox_cleaner
 from scripts.wiki.wikitext_parser import WikitextTemplateParser
-from osrsbox.items_api.item_properties import ItemProperties
+from osrsreboxed.items_api.item_properties import ItemProperties
 
 
 class BuildItem:

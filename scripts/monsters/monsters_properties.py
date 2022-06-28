@@ -26,6 +26,7 @@ import sys
 import json
 import itertools
 import collections
+import re
 from pathlib import Path
 from datetime import datetime
 from datetime import timedelta
@@ -39,7 +40,7 @@ from scripts.wiki.wikitext_parser import WikitextIDParser
 OSRS_WIKI_API_URL = "https://oldschool.runescape.wiki/api.php"
 TITLES_FP = Path(config.DATA_MONSTERS_PATH / "monsters-wiki-page-titles.json")
 TEXT_FP = Path(config.DATA_MONSTERS_PATH / "monsters-wiki-page-text.json")
-
+RG = r" \+[0-9]{4}"
 
 def fetch():
     """Get all the wiki category page titles and page text."""
@@ -48,8 +49,7 @@ def fetch():
         stream = os.popen(f"git log -1 --format='%ad' {TITLES_FP}")
         last_extraction_date = stream.read()
         last_extraction_date = last_extraction_date.strip()
-        last_extraction_date = last_extraction_date.replace(" +1200", "")
-        last_extraction_date = last_extraction_date.replace(" +1300", "")
+        last_extraction_date = re.sub(RG, '', last_extraction_date)
         last_extraction_date = datetime.strptime(last_extraction_date, "%a %b %d %H:%M:%S %Y")
         last_extraction_date = last_extraction_date - timedelta(days=3)
     else:
