@@ -518,6 +518,7 @@ class BuildItem:
         infobox_combat_parser = WikitextTemplateParser(self.item_wikitext)
         has_infobox = infobox_combat_parser.extract_infobox("combatstyles")
 
+
         if has_infobox:
             # There is a combatstyles infobox, parse it
             # Set the infobox bonuses template
@@ -528,7 +529,7 @@ class BuildItem:
             try:
                 self.item_dict["weapon"]["stances"] = self.weapon_stances[weapon_type]
             except KeyError:
-                print("populate_from_wiki_data_equipment: Weapon type error 1")
+                print("populate_from_wiki_data_equipment: Weapon type error 1 | " + weapon_type)
                 exit(1)
 
         else:
@@ -542,6 +543,7 @@ class BuildItem:
             except KeyError:
                 print("populate_from_wiki_data_equipment: Weapon type error 2")
                 exit(1)
+
 
         # Finally, set the equipable_weapon property to true
         self.item_dict["equipable_weapon"] = True

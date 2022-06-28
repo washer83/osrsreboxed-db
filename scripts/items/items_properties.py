@@ -29,6 +29,7 @@ import collections
 from pathlib import Path
 from datetime import datetime
 from datetime import timedelta
+from dateutil import parser
 
 import config
 from scripts.wiki.wiki_page_titles import WikiPageTitles
@@ -49,6 +50,7 @@ def fetch():
         last_extraction_date = stream.read()
         last_extraction_date = last_extraction_date.strip()
         last_extraction_date = last_extraction_date.replace(" +1200", "")
+        last_extraction_date = last_extraction_date.replace(" +1300", "")
         last_extraction_date = datetime.strptime(last_extraction_date, "%a %b %d %H:%M:%S %Y")
         last_extraction_date = last_extraction_date - timedelta(days=3)
     else:

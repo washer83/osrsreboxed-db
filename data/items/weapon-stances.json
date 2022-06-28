@@ -144,6 +144,36 @@
             "boosts": null
         }
     ],
+    "partisan": [
+        {
+            "combat_style": "stab",
+            "attack_type": "stab",
+            "attack_style": "accurate",
+            "experience": "attack",
+            "boosts": null
+        },
+        {
+            "combat_style": "lunge",
+            "attack_type": "stab",
+            "attack_style": "aggressive",
+            "experience": "strength",
+            "boosts": null
+        },
+        {
+            "combat_style": "pound",
+            "attack_type": "crush",
+            "attack_style": "aggressive",
+            "experience": "strength",
+            "boosts": null
+        },
+        {
+            "combat_style": "block",
+            "attack_type": "stab",
+            "attack_style": "defensive",
+            "experience": "defence",
+            "boosts": null
+        }
+    ],
     "pickaxe": [
         {
             "combat_style": "spike",

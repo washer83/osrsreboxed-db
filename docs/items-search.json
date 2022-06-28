@@ -1741,7 +1741,7 @@
     },
     "291": {
         "id": 291,
-        "name": "Notes",
+        "name": "Research notes",
         "type": "normal",
         "duplicate": false
     },
@@ -8654,6 +8654,18 @@
     "1449": {
         "id": 1449,
         "name": "Mind talisman",
+        "type": "noted",
+        "duplicate": true
+    },
+    "1450": {
+        "id": 1450,
+        "name": "Blood talisman",
+        "type": "normal",
+        "duplicate": false
+    },
+    "1451": {
+        "id": 1451,
+        "name": "Blood talisman",
         "type": "noted",
         "duplicate": true
     },
@@ -18703,25 +18715,25 @@
     },
     "3179": {
         "id": 3179,
-        "name": "Monkey bones",
+        "name": "Small ninja monkey bones",
         "type": "normal",
         "duplicate": false
     },
     "3180": {
         "id": 3180,
-        "name": "Monkey bones",
+        "name": "Medium ninja monkey bones",
         "type": "normal",
         "duplicate": false
     },
     "3181": {
         "id": 3181,
-        "name": "Monkey bones",
+        "name": "Gorilla bones",
         "type": "normal",
         "duplicate": false
     },
     "3182": {
         "id": 3182,
-        "name": "Monkey bones",
+        "name": "Bearded gorilla bones",
         "type": "normal",
         "duplicate": false
     },
@@ -18739,13 +18751,13 @@
     },
     "3185": {
         "id": 3185,
-        "name": "Monkey bones",
+        "name": "Small zombie monkey bones",
         "type": "normal",
         "duplicate": false
     },
     "3186": {
         "id": 3186,
-        "name": "Monkey bones",
+        "name": "Large zombie monkey bones",
         "type": "normal",
         "duplicate": false
     },
@@ -21121,7 +21133,7 @@
     },
     "3685": {
         "id": 3685,
-        "name": "Shoe.",
+        "name": "Shoe",
         "type": "normal",
         "duplicate": false
     },
@@ -26209,7 +26221,7 @@
     },
     "4622": {
         "id": 4622,
-        "name": "Black mushroom ink",
+        "name": "Black dye",
         "type": "normal",
         "duplicate": false
     },
@@ -26491,7 +26503,7 @@
     },
     "4693": {
         "id": 4693,
-        "name": "Full bucket",
+        "name": "Bucket of saltwater",
         "type": "normal",
         "duplicate": false
     },
@@ -31520,6 +31532,18 @@
     "5548": {
         "id": 5548,
         "name": "Death tiara",
+        "type": "noted",
+        "duplicate": true
+    },
+    "5549": {
+        "id": 5549,
+        "name": "Blood tiara",
+        "type": "normal",
+        "duplicate": false
+    },
+    "5550": {
+        "id": 5550,
+        "name": "Blood tiara",
         "type": "noted",
         "duplicate": true
     },
@@ -44413,13 +44437,13 @@
     },
     "7804": {
         "id": 7804,
-        "name": "Zaros mjolnir",
+        "name": "Ancient mjolnir",
         "type": "normal",
         "duplicate": false
     },
     "7805": {
         "id": 7805,
-        "name": "Zaros mjolnir",
+        "name": "Ancient mjolnir",
         "type": "noted",
         "duplicate": true
     },
@@ -51589,38 +51613,38 @@
     },
     "9044": {
         "id": 9044,
-        "name": "Pharaoh's sceptre (3)",
+        "name": "Pharaoh's sceptre",
         "type": "normal",
         "duplicate": false
     },
     "9045": {
         "id": 9045,
-        "name": "Pharaoh's sceptre (3)",
-        "type": "noted",
-        "duplicate": true
+        "name": "Pharaoh's sceptre",
+        "type": "normal",
+        "duplicate": false
     },
     "9046": {
         "id": 9046,
-        "name": "Pharaoh's sceptre (2)",
+        "name": "Pharaoh's sceptre",
         "type": "normal",
         "duplicate": false
     },
     "9047": {
         "id": 9047,
-        "name": "Pharaoh's sceptre (2)",
-        "type": "noted",
+        "name": "Pharaoh's sceptre",
+        "type": "normal",
         "duplicate": true
     },
     "9048": {
         "id": 9048,
-        "name": "Pharaoh's sceptre (1)",
+        "name": "Pharaoh's sceptre",
         "type": "normal",
         "duplicate": false
     },
     "9049": {
         "id": 9049,
-        "name": "Pharaoh's sceptre (1)",
-        "type": "noted",
+        "name": "Pharaoh's sceptre",
+        "type": "normal",
         "duplicate": true
     },
     "9050": {
@@ -51632,7 +51656,7 @@
     "9051": {
         "id": 9051,
         "name": "Pharaoh's sceptre",
-        "type": "noted",
+        "type": "normal",
         "duplicate": true
     },
     "9052": {
@@ -58305,7 +58329,7 @@
         "id": 10260,
         "name": "Clue scroll (medium)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "10261": {
         "id": 10261,
@@ -61273,7 +61297,7 @@
     },
     "10966": {
         "id": 10966,
-        "name": "Grubs \u00e0 la mode",
+        "name": "Grubs ? la mode",
         "type": "normal",
         "duplicate": false
     },
@@ -67341,7 +67365,7 @@
         "id": 12179,
         "name": "Clue scroll (easy)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "12180": {
         "id": 12180,
@@ -72703,31 +72727,31 @@
     },
     "13074": {
         "id": 13074,
-        "name": "Pharaoh's sceptre (8)",
+        "name": "Pharaoh's sceptre",
         "type": "normal",
         "duplicate": false
     },
     "13075": {
         "id": 13075,
-        "name": "Pharaoh's sceptre (7)",
+        "name": "Pharaoh's sceptre",
         "type": "normal",
         "duplicate": false
     },
     "13076": {
         "id": 13076,
-        "name": "Pharaoh's sceptre (6)",
+        "name": "Pharaoh's sceptre",
         "type": "normal",
         "duplicate": false
     },
     "13077": {
         "id": 13077,
-        "name": "Pharaoh's sceptre (5)",
+        "name": "Pharaoh's sceptre",
         "type": "normal",
         "duplicate": false
     },
     "13078": {
         "id": 13078,
-        "name": "Pharaoh's sceptre (4)",
+        "name": "Pharaoh's sceptre",
         "type": "normal",
         "duplicate": false
     },
@@ -91021,8 +91045,8 @@
     },
     "16176": {
         "id": 16176,
-        "name": "Pharaoh's sceptre (8)",
-        "type": "placeholder",
+        "name": "Pharaoh's sceptre",
+        "type": "normal",
         "duplicate": true
     },
     "16177": {
@@ -96019,7 +96043,7 @@
     },
     "17009": {
         "id": 17009,
-        "name": "Full bucket",
+        "name": "Bucket of saltwater",
         "type": "placeholder",
         "duplicate": true
     },
@@ -100351,7 +100375,7 @@
     },
     "17732": {
         "id": 17732,
-        "name": "Notes",
+        "name": "Research notes",
         "type": "placeholder",
         "duplicate": true
     },
@@ -100957,7 +100981,7 @@
     },
     "17833": {
         "id": 17833,
-        "name": "Black mushroom ink",
+        "name": "Black dye",
         "type": "placeholder",
         "duplicate": true
     },
@@ -101599,37 +101623,37 @@
     },
     "17940": {
         "id": 17940,
-        "name": "Monkey bones",
+        "name": "Small ninja monkey bones",
         "type": "placeholder",
         "duplicate": true
     },
     "17941": {
         "id": 17941,
-        "name": "Monkey bones",
+        "name": "Medium ninja monkey bones",
         "type": "placeholder",
         "duplicate": true
     },
     "17942": {
         "id": 17942,
-        "name": "Monkey bones",
+        "name": "Gorilla bones",
         "type": "placeholder",
         "duplicate": true
     },
     "17943": {
         "id": 17943,
-        "name": "Monkey bones",
+        "name": "Bearded gorilla bones",
         "type": "placeholder",
         "duplicate": true
     },
     "17944": {
         "id": 17944,
-        "name": "Monkey bones",
+        "name": "Small zombie monkey bones",
         "type": "placeholder",
         "duplicate": true
     },
     "17945": {
         "id": 17945,
-        "name": "Monkey bones",
+        "name": "Large zombie monkey bones",
         "type": "placeholder",
         "duplicate": true
     },
@@ -104419,7 +104443,7 @@
     },
     "18410": {
         "id": 18410,
-        "name": "Grubs \u00e0 la mode",
+        "name": "Grubs ? la mode",
         "type": "placeholder",
         "duplicate": true
     },
@@ -112539,7 +112563,7 @@
         "id": 19764,
         "name": "Clue scroll (medium)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "19765": {
         "id": 19765,
@@ -120435,7 +120459,7 @@
         "id": 21205,
         "name": "Elder maul",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "21206": {
         "id": 21206,
@@ -121717,14 +121741,14 @@
     },
     "21445": {
         "id": 21445,
-        "name": "Pharaoh's sceptre (1)",
-        "type": "placeholder",
+        "name": "Pharaoh's sceptre",
+        "type": "normal",
         "duplicate": true
     },
     "21446": {
         "id": 21446,
         "name": "Pharaoh's sceptre",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "21447": {
@@ -128071,13 +128095,13 @@
     },
     "22517": {
         "id": 22517,
-        "name": "Verzik's crystal shard",
+        "name": "Escape crystal",
         "type": "normal",
         "duplicate": false
     },
     "22518": {
         "id": 22518,
-        "name": "Verzik's crystal shard",
+        "name": "Escape crystal",
         "type": "placeholder",
         "duplicate": true
     },
@@ -147335,1078 +147359,10 @@
         "type": "placeholder",
         "duplicate": true
     },
-    "25977": {
-        "id": 25977,
-        "name": "Osmumten's khopesh",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25978": {
-        "id": 25978,
-        "name": "Osmumten's khopesh",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "25979": {
         "id": 25979,
         "name": "Keris partisan",
         "type": "normal",
         "duplicate": false
-    },
-    "25980": {
-        "id": 25980,
-        "name": "Keris partisan",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "25981": {
-        "id": 25981,
-        "name": "Keris partisan of breaching",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25982": {
-        "id": 25982,
-        "name": "Keris partisan of breaching",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "25983": {
-        "id": 25983,
-        "name": "Elidinis' broken ward",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25984": {
-        "id": 25984,
-        "name": "Elidinis' broken ward",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "25985": {
-        "id": 25985,
-        "name": "Elidinis' ward",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25986": {
-        "id": 25986,
-        "name": "Elidinis' ward",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "25987": {
-        "id": 25987,
-        "name": "Tumeken's heka",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25988": {
-        "id": 25988,
-        "name": "Tumeken's heka",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "25989": {
-        "id": 25989,
-        "name": "Tumeken's heka (uncharged)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25990": {
-        "id": 25990,
-        "name": "Sigil of resilience",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25991": {
-        "id": 25991,
-        "name": "Sigil of resilience",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25992": {
-        "id": 25992,
-        "name": "Sigil of resilience",
-        "type": "noted",
-        "duplicate": true
-    },
-    "25993": {
-        "id": 25993,
-        "name": "Sigil of consistency",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25994": {
-        "id": 25994,
-        "name": "Sigil of consistency",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25995": {
-        "id": 25995,
-        "name": "Sigil of consistency",
-        "type": "noted",
-        "duplicate": true
-    },
-    "25996": {
-        "id": 25996,
-        "name": "Sigil of the formidable fighter",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25997": {
-        "id": 25997,
-        "name": "Sigil of the formidable fighter",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25998": {
-        "id": 25998,
-        "name": "Sigil of the formidable fighter",
-        "type": "noted",
-        "duplicate": true
-    },
-    "25999": {
-        "id": 25999,
-        "name": "Sigil of the rigorous ranger",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26000": {
-        "id": 26000,
-        "name": "Sigil of the rigorous ranger",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26001": {
-        "id": 26001,
-        "name": "Sigil of the rigorous ranger",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26002": {
-        "id": 26002,
-        "name": "Sigil of the meticulous mage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26003": {
-        "id": 26003,
-        "name": "Sigil of the meticulous mage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26004": {
-        "id": 26004,
-        "name": "Sigil of the meticulous mage",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26005": {
-        "id": 26005,
-        "name": "Sigil of fortification",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26006": {
-        "id": 26006,
-        "name": "Sigil of fortification",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26007": {
-        "id": 26007,
-        "name": "Sigil of fortification",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26008": {
-        "id": 26008,
-        "name": "Sigil of barrows",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26009": {
-        "id": 26009,
-        "name": "Sigil of barrows",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26010": {
-        "id": 26010,
-        "name": "Sigil of barrows",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26011": {
-        "id": 26011,
-        "name": "Sigil of deft strikes",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26012": {
-        "id": 26012,
-        "name": "Sigil of deft strikes",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26013": {
-        "id": 26013,
-        "name": "Sigil of deft strikes",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26014": {
-        "id": 26014,
-        "name": "Sigil of freedom",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26015": {
-        "id": 26015,
-        "name": "Sigil of freedom",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26016": {
-        "id": 26016,
-        "name": "Sigil of freedom",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26017": {
-        "id": 26017,
-        "name": "Sigil of enhanced harvest",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26018": {
-        "id": 26018,
-        "name": "Sigil of enhanced harvest",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26019": {
-        "id": 26019,
-        "name": "Sigil of enhanced harvest",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26020": {
-        "id": 26020,
-        "name": "Sigil of storage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26021": {
-        "id": 26021,
-        "name": "Sigil of storage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26022": {
-        "id": 26022,
-        "name": "Sigil of storage",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26023": {
-        "id": 26023,
-        "name": "Sigil of the smith",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26024": {
-        "id": 26024,
-        "name": "Sigil of the smith",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26025": {
-        "id": 26025,
-        "name": "Sigil of the smith",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26026": {
-        "id": 26026,
-        "name": "Sigil of the alchemist",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26027": {
-        "id": 26027,
-        "name": "Sigil of the alchemist",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26028": {
-        "id": 26028,
-        "name": "Sigil of the alchemist",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26029": {
-        "id": 26029,
-        "name": "Sigil of the fletcher",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26030": {
-        "id": 26030,
-        "name": "Sigil of the fletcher",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26031": {
-        "id": 26031,
-        "name": "Sigil of the fletcher",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26032": {
-        "id": 26032,
-        "name": "Sigil of the chef",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26033": {
-        "id": 26033,
-        "name": "Sigil of the chef",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26034": {
-        "id": 26034,
-        "name": "Sigil of the chef",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26035": {
-        "id": 26035,
-        "name": "Sigil of the craftsman",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26036": {
-        "id": 26036,
-        "name": "Sigil of the craftsman",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26037": {
-        "id": 26037,
-        "name": "Sigil of the craftsman",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26038": {
-        "id": 26038,
-        "name": "Sigil of the abyss",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26039": {
-        "id": 26039,
-        "name": "Sigil of the abyss",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26040": {
-        "id": 26040,
-        "name": "Sigil of the abyss",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26041": {
-        "id": 26041,
-        "name": "Sigil of stamina",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26042": {
-        "id": 26042,
-        "name": "Sigil of stamina",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26043": {
-        "id": 26043,
-        "name": "Sigil of stamina",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26044": {
-        "id": 26044,
-        "name": "Sigil of the potion master",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26045": {
-        "id": 26045,
-        "name": "Sigil of the potion master",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26046": {
-        "id": 26046,
-        "name": "Sigil of the potion master",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26047": {
-        "id": 26047,
-        "name": "Sigil of the eternal jeweller",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26048": {
-        "id": 26048,
-        "name": "Sigil of the eternal jeweller",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26049": {
-        "id": 26049,
-        "name": "Sigil of the eternal jeweller",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26050": {
-        "id": 26050,
-        "name": "Sigil of the treasure hunter",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26051": {
-        "id": 26051,
-        "name": "Sigil of the treasure hunter",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26052": {
-        "id": 26052,
-        "name": "Sigil of the treasure hunter",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26053": {
-        "id": 26053,
-        "name": "Sigil of mobility",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26054": {
-        "id": 26054,
-        "name": "Sigil of mobility",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26055": {
-        "id": 26055,
-        "name": "Sigil of mobility",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26056": {
-        "id": 26056,
-        "name": "Sigil of exaggeration",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26057": {
-        "id": 26057,
-        "name": "Sigil of exaggeration",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26058": {
-        "id": 26058,
-        "name": "Sigil of exaggeration",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26059": {
-        "id": 26059,
-        "name": "Sigil of specialised strikes",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26060": {
-        "id": 26060,
-        "name": "Sigil of specialised strikes",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26061": {
-        "id": 26061,
-        "name": "Sigil of specialised strikes",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26062": {
-        "id": 26062,
-        "name": "Sigil of the porcupine",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26063": {
-        "id": 26063,
-        "name": "Sigil of the porcupine",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26064": {
-        "id": 26064,
-        "name": "Sigil of the porcupine",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26065": {
-        "id": 26065,
-        "name": "Sigil of binding",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26066": {
-        "id": 26066,
-        "name": "Sigil of binding",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26067": {
-        "id": 26067,
-        "name": "Sigil of binding",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26068": {
-        "id": 26068,
-        "name": "Sigil of escaping",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26069": {
-        "id": 26069,
-        "name": "Sigil of escaping",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26070": {
-        "id": 26070,
-        "name": "Sigil of escaping",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26071": {
-        "id": 26071,
-        "name": "Sigil of the ruthless ranger",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26072": {
-        "id": 26072,
-        "name": "Sigil of the ruthless ranger",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26073": {
-        "id": 26073,
-        "name": "Sigil of the ruthless ranger",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26074": {
-        "id": 26074,
-        "name": "Sigil of the feral fighter",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26075": {
-        "id": 26075,
-        "name": "Sigil of the feral fighter",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26076": {
-        "id": 26076,
-        "name": "Sigil of the feral fighter",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26077": {
-        "id": 26077,
-        "name": "Sigil of the menacing mage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26078": {
-        "id": 26078,
-        "name": "Sigil of the menacing mage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26079": {
-        "id": 26079,
-        "name": "Sigil of the menacing mage",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26080": {
-        "id": 26080,
-        "name": "Sigil of prosperity",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26081": {
-        "id": 26081,
-        "name": "Sigil of prosperity",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26082": {
-        "id": 26082,
-        "name": "Sigil of prosperity",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26083": {
-        "id": 26083,
-        "name": "Sigil of the dwarves",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26084": {
-        "id": 26084,
-        "name": "Sigil of the dwarves",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26085": {
-        "id": 26085,
-        "name": "Sigil of the dwarves",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26086": {
-        "id": 26086,
-        "name": "Sigil of the elves",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26087": {
-        "id": 26087,
-        "name": "Sigil of the elves",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26088": {
-        "id": 26088,
-        "name": "Sigil of the elves",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26089": {
-        "id": 26089,
-        "name": "Sigil of the barbarians",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26090": {
-        "id": 26090,
-        "name": "Sigil of the barbarians",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26091": {
-        "id": 26091,
-        "name": "Sigil of the barbarians",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26092": {
-        "id": 26092,
-        "name": "Sigil of the gnomes",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26093": {
-        "id": 26093,
-        "name": "Sigil of the gnomes",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26094": {
-        "id": 26094,
-        "name": "Sigil of the gnomes",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26095": {
-        "id": 26095,
-        "name": "Sigil of nature",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26096": {
-        "id": 26096,
-        "name": "Sigil of nature",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26097": {
-        "id": 26097,
-        "name": "Sigil of nature",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26098": {
-        "id": 26098,
-        "name": "Sigil of devotion",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26099": {
-        "id": 26099,
-        "name": "Sigil of devotion",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26100": {
-        "id": 26100,
-        "name": "Sigil of devotion",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26101": {
-        "id": 26101,
-        "name": "Sigil of the forager",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26102": {
-        "id": 26102,
-        "name": "Sigil of the forager",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26103": {
-        "id": 26103,
-        "name": "Sigil of the forager",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26104": {
-        "id": 26104,
-        "name": "Sigil of garments",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26105": {
-        "id": 26105,
-        "name": "Sigil of garments",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26106": {
-        "id": 26106,
-        "name": "Sigil of garments",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26107": {
-        "id": 26107,
-        "name": "Sigil of slaughter",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26108": {
-        "id": 26108,
-        "name": "Sigil of slaughter",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26109": {
-        "id": 26109,
-        "name": "Sigil of slaughter",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26110": {
-        "id": 26110,
-        "name": "Sigil of the fortune farmer",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26111": {
-        "id": 26111,
-        "name": "Sigil of the fortune farmer",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26112": {
-        "id": 26112,
-        "name": "Sigil of the fortune farmer",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26113": {
-        "id": 26113,
-        "name": "Sigil of versatility",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26114": {
-        "id": 26114,
-        "name": "Sigil of versatility",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26115": {
-        "id": 26115,
-        "name": "Sigil of versatility",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26116": {
-        "id": 26116,
-        "name": "Sigil of the serpent",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26117": {
-        "id": 26117,
-        "name": "Sigil of the serpent",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26118": {
-        "id": 26118,
-        "name": "Sigil of the serpent",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26119": {
-        "id": 26119,
-        "name": "Sigil of supreme stamina",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26120": {
-        "id": 26120,
-        "name": "Sigil of supreme stamina",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26121": {
-        "id": 26121,
-        "name": "Sigil of supreme stamina",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26122": {
-        "id": 26122,
-        "name": "Sigil of preservation",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26123": {
-        "id": 26123,
-        "name": "Sigil of preservation",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26124": {
-        "id": 26124,
-        "name": "Sigil of preservation",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26125": {
-        "id": 26125,
-        "name": "Sigil of finality",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26126": {
-        "id": 26126,
-        "name": "Sigil of finality",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26127": {
-        "id": 26127,
-        "name": "Sigil of finality",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26128": {
-        "id": 26128,
-        "name": "Sigil of pious protection",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26129": {
-        "id": 26129,
-        "name": "Sigil of pious protection",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26130": {
-        "id": 26130,
-        "name": "Sigil of pious protection",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26131": {
-        "id": 26131,
-        "name": "Sigil of aggression",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26132": {
-        "id": 26132,
-        "name": "Sigil of aggression",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26133": {
-        "id": 26133,
-        "name": "Sigil of aggression",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26134": {
-        "id": 26134,
-        "name": "Sigil of rampage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26135": {
-        "id": 26135,
-        "name": "Sigil of rampage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26136": {
-        "id": 26136,
-        "name": "Sigil of rampage",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26137": {
-        "id": 26137,
-        "name": "Sigil of the skiller",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26138": {
-        "id": 26138,
-        "name": "Sigil of the skiller",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26139": {
-        "id": 26139,
-        "name": "Sigil of the skiller",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26140": {
-        "id": 26140,
-        "name": "Sigil of remote storage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26141": {
-        "id": 26141,
-        "name": "Sigil of remote storage",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26142": {
-        "id": 26142,
-        "name": "Sigil of remote storage",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26143": {
-        "id": 26143,
-        "name": "Sigil of last recall",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26144": {
-        "id": 26144,
-        "name": "Sigil of last recall",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26145": {
-        "id": 26145,
-        "name": "Sigil of last recall",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26146": {
-        "id": 26146,
-        "name": "Sigil of the guardian angel",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26147": {
-        "id": 26147,
-        "name": "Sigil of the guardian angel",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26148": {
-        "id": 26148,
-        "name": "Sigil of the guardian angel",
-        "type": "noted",
-        "duplicate": true
-    },
-    "26149": {
-        "id": 26149,
-        "name": "Tuna",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26150": {
-        "id": 26150,
-        "name": "Combat potion(4)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26151": {
-        "id": 26151,
-        "name": "Combat potion(3)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26152": {
-        "id": 26152,
-        "name": "Combat potion(2)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26153": {
-        "id": 26153,
-        "name": "Combat potion(1)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26154": {
-        "id": 26154,
-        "name": "Mount karuulm diary",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26155": {
-        "id": 26155,
-        "name": "Mount karuulm diary",
-        "type": "placeholder",
-        "duplicate": true
     }
 }

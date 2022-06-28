@@ -25,6 +25,8 @@ import re
 
 import dateparser
 
+from dateutil.parser import parse as date_parse
+
 
 def clean_wikitext(value: str) -> str:
     """Generic infobox property cleaner.
@@ -68,9 +70,12 @@ def members(value: str) -> bool:
     :param value: Template value extracted from raw wikitext.
     :return value: Template value converted into a boolean.
     """
-    if value.lower() in ["true", "yes"]:
-        return True
-    else:
+    try:
+        if value.lower() in ["true", "yes"]:
+            return True
+        else:
+            return False
+    except (AttributeError):
         return False
 
 
@@ -90,7 +95,7 @@ def release_date(value: str) -> str:
     value = value.replace("[", "").replace("]", "")
 
     try:
-        return dateparser.parse(value).date().isoformat()
+        return date_parse(value).date().isoformat()
     except (ValueError, AttributeError):
         return None
 

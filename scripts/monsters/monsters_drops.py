@@ -107,13 +107,17 @@ def fetch():
     for condition in conditions_set:
         print(f"  > Processing {count}/{len(conditions_set)}: {condition}")
 
+
         params["query"] = f"{condition}{selection}"
 
-        r = requests.get(api_url,
-                         headers=config.custom_agent,
-                         params=params)
+        try:
+            r = requests.get(api_url,
+                            headers=config.custom_agent,
+                            params=params)
 
-        data = r.json()
+            data = r.json()
+        except (ValueError):
+            print('Found error in json. Skipping monster')
 
         Path(config.DATA_MONSTERS_PATH / "monsters-drops-raw").mkdir(parents=True, exist_ok=True)
 
@@ -324,7 +328,7 @@ def process_one(data: dict) -> dict:
 
             if "#" in name:
                 name = name.replace("#", "")
-        except (KeyError):
+        except (KeyError, IndexError):
             name = None
 
         # Skip if drop has no name

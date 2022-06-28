@@ -1,7 +1,7 @@
 {
     "id": 4043,
     "name": "Pirate",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-06-28",
     "incomplete": true,
     "members": true,
     "release_date": "2006-02-07",
@@ -13,7 +13,7 @@
         "slash"
     ],
     "attack_speed": null,
-    "aggressive": false,
+    "aggressive": true,
     "poisonous": false,
     "venomous": false,
     "immune_poison": false,

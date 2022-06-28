@@ -1,7 +1,7 @@
 {
     "id": 5238,
     "name": "Spider",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-06-28",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-06",
@@ -13,7 +13,7 @@
         "slash"
     ],
     "attack_speed": 6,
-    "aggressive": true,
+    "aggressive": false,
     "poisonous": true,
     "venomous": false,
     "immune_poison": false,

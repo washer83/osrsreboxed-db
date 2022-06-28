@@ -1,7 +1,7 @@
 {
     "id": 5243,
     "name": "Jungle spider",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-06-28",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-06",
@@ -13,7 +13,7 @@
         "stab"
     ],
     "attack_speed": 4,
-    "aggressive": true,
+    "aggressive": false,
     "poisonous": true,
     "venomous": false,
     "immune_poison": false,

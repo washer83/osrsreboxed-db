@@ -26,6 +26,8 @@ from datetime import datetime
 
 import dateparser
 
+from dateutil.parser import parse as date_parse
+
 
 # Source: runelite/runelite-wiki-scraper
 WEIGHT_REDUCTION_EXTRACTOR = re.compile(
@@ -370,7 +372,7 @@ def release_date(value: str) -> str:
         pass
 
     try:
-        release_date = dateparser.parse(release_date)
+        release_date = date_parse(release_date)
         release_date = release_date.date().isoformat()
     except (ValueError, TypeError, AttributeError):
         return None
@@ -481,6 +483,9 @@ def weapon_type(value: str) -> str:
     :return value: A cleaned weapon type value.
     """
     if not value:
+        return None
+
+    if value == "partisan":
         return None
 
     value = value.replace("{", "").replace("}", "")

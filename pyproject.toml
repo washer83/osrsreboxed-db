@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "osrsbox"
-version = "2.2.3"
-description = "A complete and up-to-date database of Old School Runescape (OSRS) items, monsters and prayers accessible using a Python API."
+name = "osrs-reboxed"
+version = "2.2.4"
+description = "A complete and up-to-date database of Old School Runescape (OSRS) items, monsters and prayers accessible using a Python API. Up to date version of osrsbox by PH01L"
 readme="README.md"
-homepage = "https://github.com/osrsbox/osrsbox-db"
-repository = "https://github.com/osrsbox/osrsbox-db"
-authors = ["PH01L <phoil@osrsbox.com>"]
+homepage = "https://github.com/0xNeffarion/osrsbox-db"
+repository = "https://github.com/0xNeffarion/osrsbox-db"
+authors = ["Neffarion <main@neffware.com>"]
 license = "GPL-3.0-only"
 
 [tool.poetry.dependencies]
