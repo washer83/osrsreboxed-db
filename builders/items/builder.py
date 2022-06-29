@@ -142,11 +142,14 @@ class Builder:
         # Start processing every item!
         for item_id in self.all_items_cache_data:
 
-            # if int(item_id) < 25800:
-            #     continue
+            #if int(item_id) < 25800:
+             #   continue
 
             # Skip any beta items
             if "(beta" in self.all_items_cache_data[item_id]["name"]:
+                continue
+
+            if "(null)" in self.all_items_cache_data[item_id]["name"]:
                 continue
 
             # Initialize the BuildItem class, used for all items
@@ -206,7 +209,7 @@ if __name__ == "__main__":
                         help='A boolean of whether to test the builder process.')
     args = parser.parse_args()
 
-    builder = Builder(verbose=args.verbose,
+    builder = Builder(verbose=True,
                       compare=args.compare,
                       export=args.export,
                       validate=args.validate)

@@ -154,7 +154,7 @@ if __name__ == "__main__":
                         help='A boolean of whether to test the builder process.')
     args = parser.parse_args()
 
-    builder = Builder(verbose=args.verbose,
+    builder = Builder(verbose=True,
                       compare=args.compare,
                       export=args.export,
                       validate=args.validate)

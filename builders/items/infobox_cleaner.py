@@ -231,6 +231,39 @@ unequipable = [
     25243,  # Red icon
     25987,  # Tumeken's heka
     25989,  # Tumeken's heka (uncharged)
+    26184,
+    26185,
+    26806,
+    26186,
+    26188,
+    26189,
+    26187,
+    26190,
+    26191,
+    26192,
+    26193,
+    26194,
+    26195,
+    26196,
+    26197,
+    26198,
+    26199,
+    26200,
+    26201,
+    26202,
+    26203,
+    26204,
+    26205,
+    26206,
+    26207,
+    26208,
+    26209,
+    26210,
+    26211,
+    26212,
+    26213,
+    26214,
+    26215
 ]
 
 
@@ -483,9 +516,6 @@ def weapon_type(value: str) -> str:
     :return value: A cleaned weapon type value.
     """
     if not value:
-        return None
-
-    if value == "partisan":
         return None
 
     value = value.replace("{", "").replace("}", "")

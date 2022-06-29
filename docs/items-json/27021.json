@@ -1,0 +1,84 @@
+{
+    "id": 27021,
+    "name": "Colossal blade",
+    "last_updated": "2022-06-29",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27022,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 225000,
+    "lowalch": 90000,
+    "highalch": 135000,
+    "weight": 30.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-06-08",
+    "duplicate": false,
+    "examine": "It takes a lot of guts to wield a blade this big.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4XuXW30oCURAGcM+b+AjdRBAFkbAkbEuJbFImsqlhGSZLVEgI/YFugt74xMzy7Z49bV21M0IDH17ouj9m5rg2Gv+3jC2iVgXi7fE6jzCqGoE8LS74vY1mUwL1HfF6P+U8300YIwgy9mN1y3lfzjguaj46KWHEQHRzH7SYnHJUuoMRAZVO+zlGHOTuDIUwiOC4TA7wR0R7UwXyv+EPq8As5wkHGIAQURAwsyTmuCC3czWDqjGIO0b6bM37U8ZcDbs5BKcJI3IhNWGozK8YAYj7pP4ZIwChMqXTQgEGIP83piYIythVOmYI3RwQYPyu+FfXUBmIAJfnHTs6O7KDOORXwa64lYEIE7UPbBgEDKKOAeRfIVCmhEl6h5ogY8dxyybdff6ThSiBDEMIhOV1I747g+M9jr+8Kovcj3Y5Cp3wKxvHGmAySNzetr1wx3aCLY2lRWXPp4ebISdqbep35/MlZQwdZ/qtUewOSvVIV5fSkV7v+gK6Iif5GZ+LPwAAAABJRU5ErkJggg==",
+    "wiki_name": "Colossal blade",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Colossal_blade",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": 98,
+        "attack_crush": 65,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": -1,
+        "melee_strength": 100,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

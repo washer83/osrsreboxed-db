@@ -1,0 +1,84 @@
+{
+    "id": 26708,
+    "name": "Dragon claws (or)",
+    "last_updated": "2022-06-29",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 205,
+    "lowalch": 82,
+    "highalch": 123,
+    "weight": 0.907,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-03-16",
+    "duplicate": false,
+    "examine": "A set of pretty fighting claws.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADdUlEQVR4Xu2WX4RUcRTH5/d4H+7Dfbhcl8s8JD2tHtqHGGKIjRWT2miTKStGJivbP5W2TFYms1atypZN/2zSX2lZkmKJFZFIRCKJRCLxG073e36dvbNrZu6dds1Ge/i5v7l7728+53u+58ymUsvxf4Wi+mtJQlGHlaKdFxzaM+HSwKRLm0s2rciklgJKUc6xqNu2qCe89j9w6fBTj07MeLQqK0Btg1LU51qUD0FwPfPep1OvfYYZeuNT5YNP574E5ARtU0pRIQQZ12m+nn4bAW0Zsum+7qVJXaRLPwPaPuIstlr1zKqo6Np0Ra9kNQBz8qVHx194dGzaY2UqgUPPqiW6qTNUfucvVK0IIBOativ0CRYMLPf7PZvu6R46/y2g0iuPhj/6rMgt3cVKZQsWDfk2zVTHWLGDTzx+b3U63SqU4mxxwL5H7qxxd191uBz4oiAVgUElUQWfocwdvYkh8bzcQ3n7xqV8LYXiEhyYchkKHQSYvXddvqK91/VZs0BQAaqgdGh53CuF96aq+9ng2yoOw05Xh1nNFlVSNPo14BYGEDKHSvIZcwZAuUGbMvkIqhwqAACogGQAMBhCARblW180oI91gUvbgkqKO2Zr2aEdow5nDRDMFxj2yHOPCjdc2jBgvgCZmmwjqLEfJiHcAxSMjfdkWKKcgE4ApThDqLK216KsnaKznwMq3nZ5EuPvyBYlmAsTvY/1UOdp5JMplUDhHhKTZy7/SlQ6xcMMAOgmAEHeyIiKfQTYRoeJWhM6y/6RsgIK5hflULpGZ9SE4nmBzDr/tDcmsAw2lBJKSes3P0zRdd05p/uw4E/5vCYnHqwbimcFALr6jT+w0LqznRPu4S2BaQ6EUHRNdzCUnAePwZfYo1maJGbMhoelI7BgRhgY2cI/G49GZp5/Qv1QPCxroZC4mLpJYqbu8IwAAU6ywPwAXMwhDUKxyaNEFDdLTGKm5nhQgJAFZg72aGXpkiaHNAlTclEJ3RxzllEIpgMQ9pg70u5oU3RfzCExoea0fozSxkNQAntIjJfltwhm3zUWGXr+28kjAok5xygkUkJelKv7kAHCpE6QVaJI+L7xEJZIK5MW5hYvJTxsMULRxe+mXFi1v1dodxmObQWSgYUlAxDr79t9QWH+KROI2mmNfznarI5ErQqN9m2O2i9ttF+OfyF+A2QqMzCXhzXgAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon claws (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_claws_(or)",
+    "equipment": {
+        "attack_stab": 41,
+        "attack_slash": 57,
+        "attack_crush": -4,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 13,
+        "defence_slash": 26,
+        "defence_crush": 7,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 56,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "claw",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

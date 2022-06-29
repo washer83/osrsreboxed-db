@@ -1,0 +1,77 @@
+{
+    "id": 26710,
+    "name": "Dragon warhammer (or)",
+    "last_updated": "2022-06-29",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120,
+    "lowalch": 48,
+    "highalch": 72,
+    "weight": 2.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-03-16",
+    "duplicate": false,
+    "examine": "Spikey and stylish, close combat weapon.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4Xt2VP0scURTF55VbTLHFwDCwsJVlsNAiEskiCEZUUNANbhTdGGFdV1dc/y0KBlwsDBGLQJqQKpXfQAhWVvkGgYAIfoeAxXHOfTxnXNekcf7ggcODeQP3xz33vWdZz1MK2qmQwouMhQUnkwYohS7LQimbwbZrC1B3Pp8klMKUD9PwYXY9G/uehmr/K0YpzIWATm9GxcFMtTtSKYz7MDXHFqDvN3nxt7858ac/HnbOXfmH0JyzCKEUcv7sGKCTaw/HVx4+X3oCcvTbw9ZPFyN2RiLlnMUwY0oKDtgWPv5yxXsXrnRl88wREAIThh0k0Jd8NsouUQqv/CgYB1354WD+a1ZAhmwNY04hY6Mj71KvD0KzMGOk2TUDxO4YmJNcFke5GLpkoFYWFwWIXeNacfQJJAgvTuOIu0Qp1CsVbNSWpZgBYnSMi2BcaQMTIZDCerV6B6ML6VNoTtmhFwx05DAHzeY9mKCYflYM1MP9SKTw/l0JH2ZnHpmL4JaOBWav0fhvQfO9094TSmGwUMDbiYl/wsQkhdd9fShNTsraOarYpPCyp0dgwnOTKBBh5qen0wEz9mYIM8WinKzEo+K8tMMkCsR3KjVREYS38dbqSpJRBbcsQXbW6kl2R2Ggvx/jw8MyN8etVpIwRhqKQEvlcpJRhaWfiBR0J6xUwWilCiZu3QLieISxBcGLOgAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon warhammer (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_warhammer_(or)",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 95,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 85,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

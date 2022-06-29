@@ -1,0 +1,77 @@
+{
+    "id": 26712,
+    "name": "Heavy ballista (or)",
+    "last_updated": "2022-06-29",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 950,
+    "lowalch": 380,
+    "highalch": 570,
+    "weight": 6.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-03-16",
+    "duplicate": false,
+    "examine": "A powerful and good looking weapon forged from the wreckage of an airship.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADpklEQVR4Xu2WXUhTcRjGPZdd7OJcHDgcOHAYY8gYY4hDFEVRFJUpKvOD2URTJ5KIiNWFBAWFhGFESYWB0Qd4FQRBEHQTdNVNEEEEQQQRQQQRdLOLJ5/3+J9nx1ku8yPwhZeznX38f//nef7vVlZ2VEf1X5QGtw9Faehub5c+BGAaBnp6BCbZ0oLaqiqUh8MHBaUh098vMI11dWhuaEAiHoeh6wIUd5z9gnJtGR/KYH5+FhXxGDrbWgWKMPsMpGFkOI2+vi6MHh/EdDaLgYEeAfLD7BvQxMSwAM3MTCKV6hDLUh0dewWzXRhdm2jL9HQWU1NjGB/PIJNxMxQKBvcGJh5yd+m/z6zwNNXX1KC1qUkU4WOCWKa529yoWVHYlnFMeusXu68zJzxJBOIRd2w7D7QLdTRceGXi7AsTc08MnFwzcGJFR9gxUBGLFQFy1aEtnDHMzmBvr0AQjgE/NTeF+vqaIsr+sdyd3v5pY/mrjSsfLSy8sXD+pSnyc0HOkWgkUqAcYTjs+B42wZklQnU1RFEbD8I0AgWf8a9cpDTcy8WwmnOw8sPGjW82rn+xMbaqY/axIRZwx1yIYNWVlQKmLOldCEiG1CTmvUwygWRdRIAiIQshx0TECeRV9hP4SkN/vByDFREMJ6JYyzXifi6BO7kwrn6y8gvNPDLEyjPPXEt4n1BDyzrSS7qA+RVU7YXZQZ40pGJhdEVDcvXCsbkwc0X7mDFaqYBo0fRDQ2AZaD5X2SNk97kA2uZKgmG5CrWGHSQjwQIwAl16a2Hpg4Vrn107mTMFRNDL7y2xlj8XVIhwkw8MjNzU0b+oI6gH8jnaAQxrE6g+aKPasVC5viMJqxmQ+4RUgNnqWB5o8Z0lB4BQBCfM6aeGqJa9q6Pc0GEFSlKH5QJRnaaQLRBtti5AvPIeX6NqtHK0Kopb320BoH3si6/dpqXzz92xUWmbW4D8K29TmxlqtnR0Ojp6goaoRLiRdFr+SvB08WhzEqsNKIvVY6qplN41EJswqglFhQhDCE5jBpd28b1cmIsSXH2ecFSUtsdMQ/JDIAXlX3mb2gRSX+oNNmcMZxBheBWVNoC4cPV6YKkkmwr7gdhUqmSV/K3A1FBUlvGqgBQElaSqfO4FIgibSpYIVFamTsHmaSgEVEAqJ2wvDC32K+SHKQmoWP0OUJ08lT0CiUobgSbQP4UpVsUAvXOKY0EBUaU9hSlWXjA1r9Rw3XcYbxWz9MBgvOW19G9gfgHH+TIHfLzexAAAAABJRU5ErkJggg==",
+    "wiki_name": "Heavy ballista (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Heavy_ballista_(or)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 125,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 15,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "crossbow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

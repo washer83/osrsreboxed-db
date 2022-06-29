@@ -1,1 +1,1 @@
-include LICENSE osrsbox/docs/items-complete.json osrsbox/docs/monsters-complete.json osrsbox/docs/prayers-complete.json README.md
+include LICENSE ./osrsreboxed/docs/items-complete.json ./osrsreboxed/docs/monsters-complete.json ./osrsreboxed/docs/prayers-complete.json README.md
