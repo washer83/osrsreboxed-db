@@ -42,7 +42,7 @@ def get_md5(file_path):
 
 def main():
     # Set path for item icon files and glob PNGs
-    fis = Path(config.DOCS_PATH / "items-icons").glob("*")
+    fis = Path(config.DOCS_PATH / "items-icons").glob("*.png")
 
     # Set output dictionary for JSON export
     all_icons = dict()
@@ -50,7 +50,11 @@ def main():
     # Sort icon files numerically
     item_ids = [x.stem for x in fis]
     item_ids = sorted(item_ids)
+    item_count = len(item_ids);
 
+    print(f"Total items: {item_count}")
+
+    converted = 0
     # Loop all item IDs, and process each PNG
     for item_id in item_ids:
         # Set the image file location
@@ -68,7 +72,9 @@ def main():
             b64_data = base64.b64encode(f.read())
             b64_image = b64_data.decode()
             all_icons[item_id] = b64_image
+            converted += 1
 
+    print(f"Converted icons: {converted}");
     # Export all converted PNG images to a JSON file to docs folder
     out = Path(config.DATA_PATH / "icons" / "icons-items-complete.json")
     with open(out, "w") as f:

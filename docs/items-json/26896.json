@@ -1,7 +1,7 @@
 {
     "id": 26896,
     "name": "Portal talisman (cosmic)",
-    "last_updated": "2022-06-29",
+    "last_updated": "2022-07-06",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A talisman bound to the Cosmic Altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPklEQVR4XtWXS0oDQRCGZ67hyiN4B0EiiDs3cSW4CUYQjCLxGWPiI2qCL2KCuomCK/Eo4oFa/g6VrqnO9LycoAU/ZKanqr5UV3Umnvc/zVfJlZv5aqVYTKwcoXw1eOyqq3o9tghoZno6DyhfvfV7VlKXJgKEKnFtrq2NJNdyBoIFGxaAHMj0jBFgcgTyPJPABlpeWgpA/BKMa2yDa4DYKJVGPbMwN6cV199et8webePk6+QQQLbWy4EG/v6a0irMzmqoxfmCFveXsWMcC8HR5j3xcNnSkiASiINB8OVbzCc1RtMPgdqNhpYEur84DwC4oHANIFMlA3R+dBioUCTQ7dmZFgeSMFFAfPskUGNvNzkQAOBQXl3VwjVVTlYiDOr0YH8EhQlMDdRpNlX3+mrkBCBA4r6sgguIV4liAQigiYH6nY7qtdsajPoHUDIhh2od13R/8LWTalXVdnbU4fa22q9UtFIBAQRAMrlLgEEybAm/TyAQwBI3NYBQEdpziColISBeHQBJGJxbPFYqIJqy9+cnLdq2cTCuLaOflaebm2xAEDlA1EOysaOamoAQg4AAngho3MH4MRhoGD72EkYCcZhMQBRcAgGGJ3bBEJBJmAFo/AvWEEpCuIDwBcYBUewYQLDg6wEeNg7De5+vr6Ew+EwgYf7h8UOMHrIfNoEARXq5u9Oi3pMJjb8dW64nMPt9BuUnGEiumx7MxdIDZaiCy/7g3yB+JMTRRICSKGcgmD22Uco4SdEmRzaOZIw49gPDx+bfa+d0LQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPUlEQVR4XtWXzUrDQBDHkzfx5tWHKYiC4KmXehI8SCsIail+tWpta6tWq1i/DlrwpA8ivszKf8tkJ7PNJmmM6MAfmmxm5tfZmW3qef/TfJVeuZmvVkul1MoRylevwzvVOz5OLAKam5nJA8pXo/uhldSlXwFClbi2yuVAci1nIFi4YQHIgUzPGAEmRyDPMwlsoJViMQTxQzCusQ2vAWJzfT3omaX5ea2k/va6ZfZoGydfJ4cAsrNRCTXw1+es1kKhoKGWFxe0uL+MneBYCI8274nbXldLgkggDgbBl28xn9QETT8Gumg2tSTQzVknBOCCwjWATJUMUKdRD1UoFui63dbiQBImDohvnwQ63d9LDwQAOFTW1rRwTZWTlYiCah0eBFCYwKmB+q2WujvvBU4AAiTuyyq4gHiVKBaAAJoa6KHfV8PLCw1G/QMomZBDdY8auj/42snurmrUaqperaqD7W2tqYAAAiCZ3CXAIBm2hN8nEAhgqZsaQKgI7TlElZIQEK8OgCQMzi0eayogmrK3p0ct2rZJMK4to5+Vx6urbEAQOUDUQ7Kx45qagBCDgACeCmjSwfj+8qJh+NhLGAnEYTIBUXAJBBie2AVDQCZhBqDJL1hjKAnhAsIXmAREsRMAwcKvB3jYOIzvfYxGkTD4TCBR/tHxI4wesh82gQBFeh4MtKj3ZELjb8eW6ynMfp9B+QkGkuumB3Ox6YEyVMFlf/BvED8SkuhXgNIoZyCYPbZxyjhJ8SZHNolkjCT2DX4sOb5gHyUZAAAAAElFTkSuQmCC",
     "wiki_name": "Portal talisman (cosmic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_talisman_(cosmic)",
     "equipment": null,

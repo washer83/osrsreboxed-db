@@ -1,7 +1,7 @@
 {
     "id": 1450,
     "name": "Blood talisman",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-07-06",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCElEQVR4Xu2X7StDURzHd/4Jb7xZeeHtUpK0Ii0pLaLVJvLQTMzCDHugTeQpz0ySkpQkSZIkSZJE8h/99L23o7vr7I66597Iqd/b06ff9+Ge63D8jcNIPLYcRpPeVhqua6agu55ayt1UU+qikqJiu6AYXQ5N03FvgnY7h2jFH1IAI54mBcjldFoNxegmNkfnkQwdheKfUNPNHXYAMXqIL9Pd2CJdDc/QaXiCDoKjtNMxqEBBQgtlY/SUXKX78SW6HV2g6+isIt1JfyoHqtxZagUUo9f0VkGgtUAfNbgqrJAuP5BWts3WMHVWeewHOuwZU8ydbRuwKm2MXiY3DIH2uqLKllABlgLxlCH6PGmI/373iLIlyGYr0NlAWilJ+AhbgmySgRi9Z7YNgZA0yIYtQTZ/RbXM6BsDobG5bNgSZAvXemVuSQVCyp5T6/SYyDX2xeDUp2xac0sFektnhRv6B1KPWop6uTgQukhk7MayShnGzu8fIyAYu62yVsaWjIEwAELSAKQtSP4UMR1I5B8Mh8oHJCn6X4GwISMg3kWxep8cIK1cIiBROSJpyYaA2UBf/VMISPtNyzS2m/2kLQyEARC6SA807+s220e5/tECaaE4kL4c8b7Gv5tUINGWRG2NpOFdJMVHGEim35IISN/WHMZEIIdDvUz/D/+9MR1Ge/jlPx39Pb/ufACw8/HhSmDDdwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYklEQVR4Xs2X3U4TQRzFd9+Aq970pgkXJiYmvgAJXBBuCAmRSCqR8BGRSCUiRsQAqaQg8iEVsSBoqlRrwMZoovHxDj2z/XdnhpKCzm45yUmzbXf72zNnZrae50Q+Al8J+Ti4nsTG8nINquVgIZC4xWABkLgxWKxwIZAOYzsmqDCB/LXEGQhxb5unHCFUAJGdn8ezmRlMT04iMzGhXnn86kVWAUhyAnMzlVK2r/YP0u/Mx+HODl5ml7A0N4enj6YVyP3RUYzcSeN2fz96e3qs/jiG0Qt68CaPrVwOK4sLCoiJPJ6awoPxcYwNDSE9MIDuzk4DwjmMAB0Xi3i7vq6AmBCH7PnsLBZTCTVk94aHcXdwUKUkQPYV/0M+Pmkzh8eVoyOU3u8jv7am3mNKhKH1lAiVSiZrqTrTWaDfJ8f49a2M/fw2tldX6zC03iVCCZDDlHyUb5hAfysV/Pz6BcVCAYXXW3UYGbonDzNq6PSEIgX68/0EP0ollD8c4uPuroKy+0QoFjs2IPaIQJ/39hTUu82Nep8465iQXmqHQJSPkgWlA3E9YkpScvaIM+1WX1+t0JHsY2a5aQKxR1yTCMOVmUPGUrM/XR0dxvcjgWJSelrNnE60KUc0dFS4SDZzJhkzjOzem9Udns61hyaM2OEsMzfGRkD2543sKJ3mQ6P/WDPbV7+kgvLqWwJ9HpB9dgSqPnRVe0CfB6ND2WdHoBCItiE4c1qSEm0/tLPIOlCMKVHmXxuB0YHG3E7riyhMSoB4zA2XMOIYU/K84O7NtUWA5NjR9L6czHXFBIkdppGuDEgcOgXynSiUOaNccQAAAABJRU5ErkJggg==",
     "wiki_name": "Blood talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blood_talisman",
     "equipment": null,

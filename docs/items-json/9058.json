@@ -1,7 +1,7 @@
 {
     "id": 9058,
     "name": "Purple goblin mail",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-07-06",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-17",
     "duplicate": false,
     "examine": "Some purple armour designed to fit goblins.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xu2W70taURzGPf+Br3rTm6AXghCIEBIhGCIiShhJYWFkYcZmkatWixXGXGstV9vIVfsVNHJrNdqP2GB/3LOe7+Xo1azZWr6ZDzz4g3vO/dznOffca7E01ND/I4XqvkyVx9YypiYpdNjDcLZ60dbihq3ZBbczDJ8reskJFJy2Lrjsfjm+tcmBZqtNfPGYmqTQ755DyDUOT1sUbntE3OeblIkdLS3iylGGFNptgaJ5MdeAMuLt6Uwj0jlThPI742KvI1YEqhxpSKGrPSLJ8gJ4MdWhagJTSHVbEfNaEe5IFYFo/qYJlwgvXzChkjo1CB1oT8gnATWUvcVyBmm5YI4yKaR7rBjxG0BMiTCDXYuIehbkOyHp2Vi+yoQKwU4jRW3OQyh+l9rbLOI/1y5SuNdvRTJYAtIpxX0PMOTNCBx/DwXnMRiYNcVvwDANXS/T5LGcR9ceclngc5aAKgmqyEiJtcmJzyASgbWiCWaGivrvyELvdiekLgIxDabCY0b8KzKGCRMs6rGit/OKQJlYE2YjVoFJBnKYDL88g9wV8wT8nydgemYgguhkaB430b0lHg9uFpdDjXWZpZCNNwmYuZL1qW+4HXpeBqXrYCK0Xvz8P9mbLRu/ONAkN80V0jHLmKR0JQq59ClmIntytebqzBDahIt4U+fm+It0Sjo/kIu+INWZofSdp+9CwnEtcYevTOP8nNeSATTf917WFdeXrs68LXAdcTO8Vhq1qTwhfdcRijURRD9muAlWpnMDUmXJMJHU2Bj6enoQ8vulIv0g5kO1LkCFt2/wLp9H/mkOuWwWC9PTSMbjGBkcRKy/X+B8Hg+cjjoBff1QwOHeHvZ3trH7bBOPlzOYT6cxM5HC5Pg4bo2OIjE0hOEB4xXlhoEohdNPh/i8v4+D168kqUeZJTxcvI+luTlJ7O5ULa8o/0QKOwvDUtnP42N8KRxIUlvrT/BibQ0bKyuSTjgYrF86BGIq25sbAsLKmAzNyriOuIZam/Uuf+NS+HVyIgn9ODqS+r4ffhRAwrG+zdXVelWmVXo+XeQ6whjSJ7zMlWMaaqie+g36KuPK5gdPigAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xu2W7UuaURjGPf+Bn/rSF6EPghBIIBIhGBISSihJUmFk0Qthket1bYVtrlVby23kqr0FjdxajfYSG+yPu9Z1Pzv6aNZsLb/MCy4yOed+fue6zzmPFktNNf0/Uijvy1Q6tpI5FUnB5wihucEHl80DZ70bvqYQAu7uSx6g4La3osXhl/H2OidsVrv44jkVSWHYM4ce9yiCjd3wOyLivrYJKey02cSlswwpeO3teXMx14Ay4o23JDHYMp2H6myKi0POWB6odKYhBb8rIslyAVxMeaiKwBQSHVbEfGduTuSBaP5PE248tHxBQSXt1CB01DUkfwmooRw2C1x2ywU1iqSQDFsx4DeAmBJhEq2LGPMuyGdC0qlYtkxBhc4WI0Vt1iEUPxPU02gR/7ntIoXbUStGAgUgnVKy7T4mfCmBk9QC8xhsnzHFb8AwDd1epsmxrKPbHnRb0NZUAColKCMjJbaNxQgx276eN8HMUHH/LdnoXZ4haReBmAZT4Zhp/4rMYcIE6/Zaz8CvCJSK1WEmYhWY+fYN3Au9QDq8K+YD+D0fwPTMQATRydAcl+rYEt8JZPLbocJ2maWQjtcJmLkl25NfsRh8VgSl28FEaL35+f1kZ7po/mJPnRyaK6RjllGksBKF3eQp1iJ7xmpNrTNDaBOu15c4V+Mv0ino/ESFTDQnrTND6ZOnTyHhuJd4w5emcb7mtWQAbXS9k33F/aVbZ74WuI94GV4rjcpUnJA+dYRim+RY/37N8BIsTecGpIqSkUtzeBhd4TCCfr+0SL+I+VKtClDuzWu8zWaRfbKBjXQaC1NTGInHMdDbi1g0KnBtXi+anFUC+vI+h8O9PezvbGP3aQZry2d3VTKJ6fEEJkZHMTY4iKG+PvT3GD9RbhiIUjj9eIhP+/s4ePVSknqYWsKDxbtYmpuTxGYnK/mJ8k+ksLPQLy37cXyMz7kDSWrr8SM8X1/H5sqKpBMKBKqXDoGYynZmU0DYMiZDs2XcR9xDDfX6lr9xKfw8OZGEvh8dSfu+HX4QQMKxfZnV1Wq1TKvwfrrIVYQxpB94mUvn1FRTNfULsxLuKt4jq84AAAAASUVORK5CYII=",
     "wiki_name": "Purple goblin mail",
     "wiki_url": "https://oldschool.runescape.wiki/w/Purple_goblin_mail",
     "equipment": null,

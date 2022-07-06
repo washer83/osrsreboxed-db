@@ -1,14 +1,14 @@
 {
     "id": 4050,
     "name": "Pirate",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-07-06",
     "incomplete": true,
     "members": true,
     "release_date": "2006-02-07",
     "combat_level": 57,
     "size": 1,
     "hitpoints": null,
-    "max_hit": null,
+    "max_hit": 6,
     "attack_type": [
         "slash"
     ],

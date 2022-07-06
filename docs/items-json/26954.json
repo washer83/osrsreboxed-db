@@ -1,7 +1,7 @@
 {
     "id": 26954,
     "name": "Stone tablet",
-    "last_updated": "2022-06-29",
+    "last_updated": "2022-07-06",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-04-27",
     "duplicate": false,
     "examine": "Some writing has been carved into it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmUlEQVR4XtXX0WqDQBAF0OxvBAqSh1KCD1IaiiFSaajQ0hYCoQ/9///YcpVxx3E2mrirdGBIQjAe7owxWa3+fxnb78XK2Pwp7XSW3i8FM7bcP9qqzO1XVdjz52v9iNeAbZL1nKgu5vRethj0sdjV76cPmzlQDvNx3LcgPOcgQu2ybUxUg8HJCEQYH4g6AsrYw3PWgigdtARpKByfJUlIVAPi6RBIQ0kQjg2cUndcfJnHoAgUKCV9XABxFIEIFTGl7rgIg+8eH4qnJEEBUnLjonSA4SCJAualuOuNLUBKblw8nZ/vtx5KS0kb20SUGxdPByCJ0kDa2HBrmTC6/m2CMBIkUdFAMp3fU1U3R3GQb2Q0rmAgSmcKiH6mRAPJkeX5ehBEN9ybQfjgMSBgOIgue7k/QUD86vKBLi0035/FQNq4ooF8Cz0EAmYyiC55vkM+kFxobX/oj8BsoKH9Acj9O7m6xoHGjKsBuEZCN6dEIADGLjQwGoC3PNMVZQZBwPhSCADQyvRAwFwCREDI6iagIeQR0UsCFkEsVX+9Fpq/PWIuGQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABm0lEQVR4XtXXwWqDQBAG4Oyb5BYoFLyEUrxYSiiSIpWGCi0tJVB66PufN/zKuOM4G03cVTowJCEYP/4ZY7Ja/f8ytt+LlbH5Y9rpLN0uBTO23D/YqsztV1XYn8/X+hGvAUtuN3Oiupjje9li0IdiV7+f3iVzoBzm47BvQXjOQYTaZfcxUQ0GJyMQYXwg6ggoY5+fshZE6aAlSEPh+GS9DolqQDwdAmkoCcKxgVPqjosv8xgUgQKlpI8LII4iEKEiptQdF2Hw3eND8ZQkKEBKblyUDjAcJFHAvBQ3vbEFSMmNi6fz+/3WQ2kpaWObiHLj4ukAJFEaSBsbbi0TRte/TRBGgiQqGkim83es6uYoDvKNjMYVDETpTAHRz5RoIDmyPN8MguiGezUIHzwGBAwH0WUv9ycIiF9dPtC5heb7sxhIG1c0kG+hh0DATAbRJc93yAeSC63tD/0RmA00tD8AuX8nF9c40JhxNQDXSOjqlAgEwNiFBkYD8JZnuqDMIAgYXwoBAFqZHgiYc4AICFndBDSEPCJ6ScAiiKXqBKTg8rX+NpgkAAAAAElFTkSuQmCC",
     "wiki_name": "Stone tablet (Beneath Cursed Sands)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_tablet_(Beneath_Cursed_Sands)",
     "equipment": null,

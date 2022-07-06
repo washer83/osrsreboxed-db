@@ -1,7 +1,7 @@
 {
     "id": 2419,
     "name": "Wig",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-07-06",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-28",
     "duplicate": false,
     "examine": "A wig that has been dyed blonde.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClUlEQVR4Xu3UzUtUYRTH8bn/QSs3sxFaDAwIgxAyiDAyDDJMRBEIuYjIRYGrCAKhhRAUFEURvYAUghQVvdALgoj0hkghIiW9iZRITBLRQvenvs/leM9cb81LNuNiDhzuyOC9n/md89xYrFnNalZDy5OgG16e3B7Z4fruaIeBNQQXYLRHh9vl2uV2Gb6YqjduI0YbzKWzKblwuk3OnEjKqaHk/8Z5MjXRJc/GumTiUaeM3UvLw1sdcv9Ghxvbzet+UiNXg7SGBhMyeDQhRwa2bzbMk9mX3e6GFjX5pFPGH6QjccBAkRhpgTrc37oZqXnyfia7fpNXTzMyN9UtM88zMj2ZkRfjpak9vpN2MMYIjLQYJWM8fsxP60BfXPr3W1zF5cnn+R73T6lW/wYLczkH/BMqnBgw0rpy3kcxQjDgtKtMLcAsveuRxTc5+Tibk7fTWTdGEmOMUSjSUhhJnTvZFgnaiCtTClr+kHeJAZp/HaQURtndAsVeKYiHRoF698SlrzduplG2PPn6Ke9S0rGRkh1dFAqQvhZ0ZCy3xewutNQGKi7kXUo6NkUxujDKglhudojTBgiAYvK5ltpBK4uF9bEpitFZlI5PQewQ7ydOGiDSSSZiDpPNbCsBcfqqAn3/UnBjUxSjs/tkl1xBLDSnDJCOi3uFMaRTNejHUsGhaNKiGSMNKgrEQgPSdAD4J8nvfwKtfTskq8V9JRiuAEkNlAVxygCF0+GB2gqrEXTwN2iv/FzeuQ4hNf7mMyeQfbIgm47F2DtbWNT3fyn7RvVflPp5tbjL4dgt9omjrwvNCavkYeW+j6xw3HpdWxlwV0bHorNPHP8af3ntFTwkwCnIQuqCCZfFMbYAuSWqjmOqtLYUplmNqF/Rzac87LNQiQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACd0lEQVR4Xu3V3StkcRgHcOc/2Ku9cTM1F3OlpKRpmxpJ02baRqadmEzYlAu7RTaJxGa3tJskRBIS+yKR9k0SWdKGJEna9mKTUv6IZ/s+0++cZ868OsMcF/PUrzPTcM7H93meUVCQr3zly9bSyDi2l0bTgxX6sRkXi8GZGPDSSK+Hhns8ucbFY9QB5kPXE3rb4aY37WXU3Vp63ziNfsw8o7UpPy2PP6VPIz6aH6rkA9DUu3JOaqzfSOt1cwm9jBRRS7jormEabS5U8w0lanWySsctDkeBCgcYUEgMaQHVGHTdRWoa7S8H9ZtszAdo+2M1A9fnAvRt2h8Hm30fO1uDnW7qe1XKiQEWDrhMuIxLo6O1EP9SscPB14PVEAN3PtcwColJ1JdRo52AqbQwX5ittqZiBgGnzi1TMzAn32sZ+HvlOe0uBfWUkqFUGwFDUslA8bg0pUCnP+vo+GutDpKtS4VSW5gKVONzUsjvFN1IWxqdrYcZJNsGFOYqGQogtA0gzBFAmB+J8Zc7rINk2+QsJUIpEIYbMwQQvgZ8nkIdg9eWQecbYb1tSEm1zoySIMwQQNg0rD/ScTkfMcZbVpgd6GKzXk9Jts48TxKEgcaWAYR01Lq7Sx5nD/qzFWEUDtLCARBHbp0ZhA1T6QAQ3aToyQp0c9hMV/tNMSAcvEdqQEkQtgwbZk4HD1RHwSyBrg9e0OVeI/3dNpJCauo92oh5kiCZjsTIO0tYos9TlPxG1RigXv/71cA4bCDmCf/v5IZl8rB0nycsc9zqenPUwle0DtuHeUJSFv9y62U8xMABhJQkJCcYc0mcBMX+lG2VwzZlWg8Kky876j++e4kQXFdgZAAAAABJRU5ErkJggg==",
     "wiki_name": "Wig (Dyed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wig#Dyed",
     "equipment": null,

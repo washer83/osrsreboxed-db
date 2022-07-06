@@ -1,7 +1,7 @@
 {
     "id": 26397,
     "name": "Ancient ceremonial legs",
-    "last_updated": "2022-06-29",
+    "last_updated": "2022-07-06",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-05",
     "duplicate": true,
     "examine": "Some ceremonial robes dedicated to an ancient god.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMElEQVR4Xs3W/UtTURgH8O1P8AdhCIMxYsQYMkQZG0kjcaQ0WCMNZPrDkqJcRUlGmVFREUQviEU1CitBKUkUTEyxF6L3lz/pye+5PPO5Z2dz193EAw+7u/fcnc99nnvOmcez85uXzGG6/t+bl15MnKLJ8YKKZ/eHqHj3hApGLE1fosWpi7Tw8oIBpT9E3XALxCiAOHTM/PPzNPv0nG1gfMc1PewoR0gvTT04XYbCJyAcDHpdHKbpR2dUX3yaQOgv0b9WJ+j78p2toRiEY84Og+YmRxSI+1YC4b6fK+P05/1j+vuhqEAYIxoIqNBH15qVdn5qBmFQCZJPLMMEWp4Zs4FwzCB9dK15bWUAgl9ufGcQ+nUnExSPRigZa6GDnUny+xqpsaFBXdNBq7NX3ANxlnBOgtId7QozejyrjoP+JoUygdbeXC2BEI5A/F7oIJRCggr9I9SfPUbRcMjCxVMUCUWNoI9z12ygH+/u1Q/CeYAQ6Hdo/z7qSLRRKBigvnRKlRA4E+jT/HV3QQiUkjH5njT1dndSqj1Ou4JBymW6FAgl1EHI6JfFmyXQ77WHJYxjkEThx3UQELtDIWqLRtV3lM4E+vr2lhGkj16hWdN35snZTUHAICLhsMoSSmcCfVu6vVWQtY4gQ9VAe2IxamluVhAEoxAooUThHgmSi6I+utasKW8CISQIGAahXIwCJuD3l0DIjqsgRiEwAFZczhAi3tqqYltAMkv4xADoA0AlEDBNPp8NtPLqcgmEVZoxNYEww0wg3p/QZ28iUQaS2QGItxBkB9uGzFCN2UHbAOnvEc7rIMbwO1QJhG3DNRCjcJ63jEogWTIJwiotQYzSRzc0C2QqWzUQr0UmECbB54UbJRDWIAfrkB0kyyZBcspzZiq9Q3WDMMs2A6FECAmTIA5XQXrZcJ5BJ4+M0VB+lI6u//0YzA3TQG+B+tb/hhzODFJPOk/ZAwOU6cqpvpjyEoQ1yPE6ZCobg3hhrCXQ1xWQqWwShGvybwmOeTVHP95iXAChlT+pKSRGhg7CoihBHA5AHg8v69VCB8rg/QvZcQVUa9ORtWA5NvpuU9ORptDv2dHtH4GOohCZDIs0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xs3W/UtTURgH8O3v8JfBfhAGwghGDBEmImMspJE4UhqskQYyEZb04opKUsqMoiioKLFoWliJmL0oTEx7I3qT/p2nfc/lmc89O5u77iYeeNjdvefufO7z3HPOPJ7937xkDtP1/9689GrmAs1P51W8eDxKcw/PqWDE2uJ1Ki5co9XXVw0o/SEahlsgRgHEoWNWXk7Q2+dXbAPjO67pYUc5Qnpp4cnFChQ+AeFg0PLcGC0+u6T64tMEQn+J3tqcoV/rD3aHYhCOOTsMej8/rkDctxoI9/3ZmKa/XwqlmFUgjBH0+VToo2vNSjs/NYMwqATJJ5ZhAq0vTdlAOGaQPrrWvLYyAMEvN74zCP36EnGKRVopEW2n4z0JCvh95GtqUtd00ObyTfdAnCWck6BUd5fCTJ7NqONgoFmhTKDP7ySo4AzE74UOQikkKD80TkOZMxQJhyxcLEmtoYgR9PXDLRvo98dHjYNwHiAE+p04eoS6450UCrbQYCqpSgicCfRt5ba7IARKyZhcf4oG+noo2RWjA8EgZdO9CoQS6iBk9Efxbhm09elpGeMYJFH4cR0ExMFQiDojEfUdpTOBfhbvGUH66FWaNX2XCpd3BAGDaA2HVZZQOiNo7f5uQdY6ggzVAh2KRqm9rU1BEIxCoIQShXtsILEo6qNrzZryJhBCgoBhEMrFKGBaAoEyCNlxFcQoBAbAissZQsQ6OlTsCUhmCZ8YAH0AqAYCptnvt4E23twQoNkypi4QZpgJxPsT+hyOxytAMjsA8RaC7GDbkBmqMzto2yD9PcJ5HcQYfoeqgbBtuAZiFM7zllENJEsmQVilJYhR+uiGZoFMZasF4rXIBMIk+L56pwzCGuRgHbKDZNkkSE55zky1d6hhEGbZTiCUCCFhEsThKkgvG84z6PypKRrNTdLp0t+PkewYDQ/kabD0N+RkeoT6UznKHBumdG9W9cWUt4FKa5DjdchUNgbxwlhPoK8rIFPZJAjX5N8SHPNqjn68xbgAQqt8UlNIjAwdhEVRgjgcgDweXtZrhQ6UwfsXsuMKqN6mI+vBcmz33aOmI02h37Ov2z8iOv34qUBMugAAAABJRU5ErkJggg==",
     "wiki_name": "Ancient ceremonial legs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_ceremonial_legs",
     "equipment": null,

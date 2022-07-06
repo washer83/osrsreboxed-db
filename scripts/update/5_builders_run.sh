@@ -30,11 +30,15 @@ python3 -m venv venv
 source venv/bin/activate
 
 echo -e ">>> Updating item database"
-rm $odb/docs/items-json/*
+rm -R $odb/docs/items-json/
+mkdir $odb/docs/items-json/
+
 cd $odb/builders/items/
 python3 builder.py --export=True
 
 echo -e ">>> Updating monster database"
-rm $odb/docs/monsters-json/*
+rm -R $odb/docs/monsters-json/
+mkdir $odb/docs/monsters-json/
+
 cd $odb/builders/monsters/
 python3 builder.py --export=True

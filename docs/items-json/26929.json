@@ -1,7 +1,7 @@
 {
     "id": 26929,
     "name": "Blunt scimitars",
-    "last_updated": "2022-06-29",
+    "last_updated": "2022-07-06",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-04-13",
     "duplicate": false,
     "examine": "Not the sharpest tools in the shed.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu2Vy2tTQRjFM8suusjiQumqCxEXLrKwFEKDpWCJxUotfUGshFojsQ9jG2Of9pGmjcTW0KIEgiiK0IUIrgRBXPk/+N8cOTN+l3tvUkzSmzYLP7jcm8kw85tzzswEAv+rqaXgbbnAUlifb0cLQAmAwpeShWSs7SKhFAorwb8ACr9/dOJyZ8D+7e1b2eZ7KbzOGqBQV5d+f3tv4cNh0AFq+n0qWtjPNN1ShXcFN9CrXA5P5+cwOTKC+Kix7+dJB0q5ILZS7c2GUoiG2lw2HefzWFtcxNTEhN12cmwhnRAQA28W4HspjIfdQKXDA2xmMnhwbwq3b0bRfzWA7kvmfwFpGsz3j5ZePXNEO9hWLhaxu7qKuZkZjA8Po/eaG8Y7io+l8OtzBw6yWSzNzurJ2Ua7Xmxt6jbadqOvzwbyjuBzKbw9OkJufU2rcWdwUId5IZHAo+lprDxJ2badDiRHQcMhdw6g8OZlwZUXgvE7Njam223benqqTKrwtWzpXeo+ImoqA8BV86EtfPhNVe7fjeHWwIB+jw4NaVAq57XN+TB/5XwQu0sme3VkTGH/+QY20mkbRkBSyaR+V5uUOXr2eMGGZRsPR14tPCp6rwTsu68OGJbSweXOIYyA0A6qwG9a1B+J2IMLEPs/jMd1vqgW80VVohG57xqA4cDMA1WRQRlaZmV7eVn/5ql8PRy2JyF0YWdbq8r/mSOCUUnCCVDdMFSAq6T0ogoHJiBVEwUY6O5QSPcjNPsKkCjotbRuGK5esuIciA/vK+ZKQsuMCAwV4fUhlrHNmSMBqQNGqtpqFIp7e7aNVIx2cTKnggIsmaPF3H0ylnemmqtyNUpbIeoxRwIkMFRDFkLLqBxVo21nBnKXucnlCKAVTiDCVFNUNoOA+gSktEW0S6ygRU6g0/Nhdh1t8xGIZfIjO49AXLVcqpUgzvIq51uZo4A2MBdOG/41US19GiilT+xqQN6e51hK7xzuqlrVaXIZoBaBkWopGFMtBXOe9QcW1PUEaBTE1AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xu2VTWsTQRzGM9+gp15yWeihVxHEg5eAlB5SgqVgicViLX1BYjHUGmNfiG2MfbUxbRNJKmlRAhFFkR4UvAiCePEj+FUeeWb8L7ubFLNx0+bgH5bdTIaZ3zzPMzOh0P/qaCl4W86xFLaXe9EFUAKg8LlmIZ3oOU8ohfJG+A+Awq/v/bjUH7J/e/s2tgVeCq8KBuiCZen313cW3h+GHaCm38eqhWKu45YqvC27gV7u7+PJ8hLuTE4iOWXs+3HSh9pBGPlMb6ehFOKRHpdNx6UStlZXMTc7a7edHFvIpgTEwJsFBF4KM1E3UO2wgt1cDg/uzeHWjThGroQwcNH8LyAdg/n2wdKrZ45oB9vq1Sr2NjextLCAmYkJDF11w3hHCbAUfn7qQ6VQwNriop6cbbTrRX5Xt9G268PDNpB3hIBL4c3REQ62t7Qat8fGdJhXUik8mp/HxuOMbdvpQHIUtB1y5wAKrytlV14Ixu/E9LRut20bHGwyqcKXuqV3qfuIaKkMAFfNh7bw4TdVuX83gZujo/o9NT6uQamc1zbnw/zVS2HsrZns+ciYQvHZDnayWRtGQDLptH43m5Q5eppZsWHZxsORVwuPiqHLIfvu8wHDUjq43DmEERDaQRX4TYtGYjF7cAFi/4fJpM4X1WK+qEo8JvddGzAcmHmgKjIoQ8us5NfX9W+eyteiUXsSQpef57Wq/J85IhiVJJwA+YahAlwlpRdVODABqZoowEAPRCK6H6HZV4BEQa+lvmG4esmKcyA+vK+YKwktMyIwVITXh1jGNmeOBMQHjFSz1ShUi0XbRipGuziZU0EBlszRYu4+Gcs7U8vVuBqlrRD1mCMBEhiqIQuhZVSOqtG2fwZyl7nJ5QigFU4gwjRTVDaDgAYEpLRFtEusoEVOoNPzYXYdbQsQiGXyIzuPQFy1XKqNIM7yKhdYmaOANjAXThv+NlErfdoopU/sZkDenmdYSu8c7qpW1elwGaAugZHqKhhTXQVzlvUb81wj2v3iKI0AAAAASUVORK5CYII=",
     "wiki_name": "Blunt scimitars",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blunt_scimitars",
     "equipment": null,

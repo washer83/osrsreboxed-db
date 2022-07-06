@@ -35,14 +35,12 @@ def main():
     exit(0)
 
 def fetch_icon(item_id, dir_path):
-    print(f"> Checking {item_id} icon...")
     file_name = f"{item_id}" + ".png"
     file_path = dir_path / file_name
     if file_path.is_file():
-        print(f">> Icon exists. Skipping")
         return
 
-    print(f">> Fetching icon...")
+    print(f"> Fetching icon {item_id}")
     target_url = RUNELITE_ICON_URL + file_name
     try:
         with open(file_path, 'wb') as out_file:
@@ -54,7 +52,6 @@ def fetch_icon(item_id, dir_path):
 
     md5 = get_md5(file_path)
     if md5 == BLANK:
-        print("Found blank icon")
         file_path.unlink()
 
 

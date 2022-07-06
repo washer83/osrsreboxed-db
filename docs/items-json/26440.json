@@ -1,7 +1,7 @@
 {
     "id": 26440,
     "name": "Shattered hood (t2)",
-    "last_updated": "2022-06-29",
+    "last_updated": "2022-07-06",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": true,
     "examine": "The headgear of a Shattered Relic Hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZElEQVR4Xs3W3UvTYRQH8O3Siy52sRshGF7sQiRGOGJDYWwwTGYsGRUrvRBJ0FDsZVHYK71Br4hFNQorQSlJFExMsRei95c/6cT3Gefn+R2fX23uV/jAYfP3e+bz2XnOc34LBLb+CJI9bPf/+QjS04lhmhw/YuLxnSEq3xo0wYil6TFanDpNC89OWVD6S9QNr4AYBRCHxsw/OUmzj064FsbfuKfDjaoJGaSpuyMbUHgFhINBL8rHaPr+qJmLVxsI8yX6++oEfVm+uTkUg/Ces8OgucmSAWEuPuMFwue+rYzTzzcP6NfbsgFhfiwSMaFXV6OSdv7WDMKiNtDMw6Pmn0ejMc8tW5454wLhPYP06moEXdsABBc3/tYgrp+WlgQ1NbV4glZnz/sH4izhmgZhfjyeoebmOEUiUQqFwk6dSNDaywsOCFETiOtCg/DNJQhz29u7aGdrymxXY2OTAXFI1Lu5iy7Q19e36wfhOkAIzBvqaqOD6VbK7Wo22wVQOLx9Awbxfv6SvyAEtpIxY8UsDXQmDQjbxSBbdpDNj4tXHNCPtXsOpmaQRHHNFIujdLyQdkBc0Azi4pagT6+uWUF6dY9RKUocZxvo3KEOFygWa/trhj4vXd8sqHJskSENwr3u7gEq7cuY+mEQilqCJAaBbZYg2RT16mpUjrwNhHv7D4xQtqNoTlT/7gT1ZOIbMqSLGtnxFcQo3Ova02cWBigcCplAD7KBGOUrSGYJ99LpglkYwaBkstMpajRGnSWAVp6fdUDo0oypCoQT5gVCNrAw6gdZYVQikTVZkygGITt4bMgMVZkdjHWQriPcQzbQcxDD+XZTR6ihQtsOkyVcBwwoZIlBeGz4BmIUruM+g3p6S2YLectw0pA1GwhdWoIYpVe3jArItm0adONw3rQAnDo8z7BtQMmujfn42fFh4bIDQg+qoQ+5QXLbGJRK7TWvV/tyVCgMUj7fT7lcr8kUQLJrNzRsM3PrAuGUeYH4Cc8dWwayhKIHSF6vO0MM0tuG6wBhAYD41ySCGycHz0X94MhLEHpQzX3Itm0ShPcaxA9ifI47NOb6ArJtmwThnvxZIkGYx88vH0AY7trwComRoUFoihLEUQMoEOC2/qfQQBmyfnwBVTs0shosx/rc/zQ00hb6M1t6/Aaq1KBfzecGxwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYElEQVR4Xs3W70tTYRQH8O0/8FVv9mbvhEDYG18MCQwZMSbCmCAmGy0ZRSsRRBIN0X4Yhf2iMMgosWhaWImY/VCYmPaLyEr6d05+n8u5nnt8bm3uFj5w2Lz3mc9n5znPuQuF9v8Ikz1s9//5CNOL6WGamzpn4tnDIZq9P2iCEasL41Sev0orL69YUPpL1Ax3QIwCiENjlp9fptdPL3kWxt+4p8OLqgoZpvlHI7tQeAWEg0FLsxdo4cmomYtXGwjzJXprY5q+r03uDcUgvOfsMOjt3JgBYS4+4wfC536uT9GvT6XtmDEgzI9Foyb06mo4aedvzSAsagMtls6bf97Y2Oy7ZWuL1zwgvGeQXl2NsGcbgODixt8axPXT1JSkWKzJF7SxdDM4EGcJ1zQI8xOJdorHE9TQ0EiRCBZw6kSCPr6RoFJ1IK4LDcI3lyDMbWvL0eGWtNmu+vqYAXFI1Od3tzygH+8f1A7CdYAQmDeUa6XTmRbKHomb7QIoGj24C4P4snw7WBACW8mY8WIHDXSlDAjbxSBbdpDNb+UJF7T14bGLqRokUVwzxeIoXSxkXBAXNIO4uCVos3zXCtKr+wynKHGcbaAbZzo9oObm1r9maHP13l5BzrFFhjQI97q7B2jsRLupHwahqCVIYhDYZg9INEW9uhrOkbeBcO/kqRHq6CyaE9V/NEk97YldGdJFjewECmIU7uWO9ZmFAYpGIibQg2wgRgUKklnCvUymYBZGMCiV6nKLGo1RZwmg9VfXBWjGxVQEwgnzAyEbWBj1g6wwKpnsMFmTKAYhO3hsyAxVmB2MHZCuI9xDNtBzEMP5NlNHqKFC6yGTJVwHDChkiUF4bAQGYhSu4z6DenrHzBbyluGkIWs2ELq0BDFKr24ZDsi2bRo0eTZvWgBOHZ5n2DagZNfGfPzs+LpyxwWhB1XRh7wguW0MSqePm9eJviwVCoOUz/dTNttrMgWQ7Np1dQfM3JpAOGV+IH7Cc8eWgSyh6AGS12vOEIP0tuE6QFgAIP41ieDGycFzUT848h7Qdg+qug/Ztk2C8F6D+EGMz3GHxtxAQLZtkyDckz9LJAjz+PkVAAjDWxt+ITEyNAhNUYI4qgCFQtzW/xQaKEPWTyCgSodGVoLl2Jn7n4ZG2kJ/Zl+P34QA/C2/cJkAAAAAAElFTkSuQmCC",
     "wiki_name": "Shattered hood (t2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shattered_hood_(t2)",
     "equipment": null,
