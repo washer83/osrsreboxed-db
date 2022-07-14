@@ -153631,13 +153631,13 @@
     },
     "27035": {
         "id": 27035,
-        "name": "Rainbow flower crown",
+        "name": "Flower crown",
         "type": "normal",
         "duplicate": false
     },
     "27036": {
         "id": 27036,
-        "name": "Rainbow flower crown",
+        "name": "Flower crown",
         "type": "placeholder",
         "duplicate": true
     },
@@ -153939,7 +153939,7 @@
         "id": 27086,
         "name": "Rune pouch",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27089": {
         "id": 27089,
@@ -154250,6 +154250,102 @@
     "27140": {
         "id": 27140,
         "name": "Salve amulet(ei)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27141": {
+        "id": 27141,
+        "name": "Flower crown",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27142": {
+        "id": 27142,
+        "name": "Flower crown",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27143": {
+        "id": 27143,
+        "name": "Flower crown",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27144": {
+        "id": 27144,
+        "name": "Flower crown",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27145": {
+        "id": 27145,
+        "name": "Flower crown",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27146": {
+        "id": 27146,
+        "name": "Flower crown",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27147": {
+        "id": 27147,
+        "name": "Flower crown",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27148": {
+        "id": 27148,
+        "name": "Flower crown",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27149": {
+        "id": 27149,
+        "name": "Flower crown",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27150": {
+        "id": 27150,
+        "name": "Flower crown",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27151": {
+        "id": 27151,
+        "name": "Flower crown",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27152": {
+        "id": 27152,
+        "name": "Flower crown",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27153": {
+        "id": 27153,
+        "name": "Flower crown",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27154": {
+        "id": 27154,
+        "name": "Flower crown",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27155": {
+        "id": 27155,
+        "name": "Flower crown",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27156": {
+        "id": 27156,
+        "name": "Flower crown",
         "type": "placeholder",
         "duplicate": true
     }
