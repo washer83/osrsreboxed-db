@@ -1,7 +1,7 @@
 {
     "id": 7530,
     "name": "Vespula",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-08-02",
     "incomplete": true,
     "members": true,
     "release_date": "2017-01-05",
@@ -18,7 +18,7 @@
     "poisonous": true,
     "venomous": false,
     "immune_poison": true,
-    "immune_venom": true,
+    "immune_venom": false,
     "attributes": [
         "xerician"
     ],

@@ -1,7 +1,7 @@
 {
     "id": 26219,
     "name": "Osmumten's fang",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-08-02",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -23,9 +23,9 @@
     "weight": 1.814,
     "buy_limit": null,
     "quest_item": false,
-    "release_date": "2021-08-12",
+    "release_date": "2022-08-24",
     "duplicate": false,
-    "examine": "A deadly curved sword created long ago.",
+    "examine": "",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYUlEQVR4Xs2WzytFQRTH3/wHs5rNbE7df+BtLWVrYaVsbd4/4C0UpSiK4iWSDSEiohch5Ef0QsmKP+erM9Nc902yuzPnW9Ot986tT59zz8w0GrVHIf4lUxhE4ZZu3DP+N3EUju0R7ukOj/TggJpEuaAUdu2OM/NZfJQwmYAUVk0Hp/YEveIFr0VPjp334k2WncwwnF87z/SUv1XBTnWqsgKxnWu6kgHzl524KmG8nXPqyrHDu7IImDkz6+xwu0S0iu3s2z05drbtFi7pQo4dBhJjZ9NuSIDhKKyY5T6guCJhvB1uV2Y7/jrKa8HM54fhjY+PhWkzhSWzmLtVfqK6dCbnJG/rifK8ClBxVeIojA/qEipcwOKqRFEYG9BoD2vMjBoc2gO3O4dralxdczxMa0hjckSXkxZW4m9JYd2suVvgd/HVB1Bd8Vs1xgPxyFeB4qqE8dMlYFeuJsu38n9Sw/wAMdxG/hPc58gAAAAASUVORK5CYII=",
     "wiki_name": "Osmumten's fang",
     "wiki_url": "https://oldschool.runescape.wiki/w/Osmumten's_fang",
@@ -49,13 +49,20 @@
     },
     "weapon": {
         "attack_speed": 5,
-        "weapon_type": "slash_sword",
+        "weapon_type": "stab_sword",
         "stances": [
             {
-                "combat_style": "chop",
-                "attack_type": "slash",
+                "combat_style": "stab",
+                "attack_type": "stab",
                 "attack_style": "accurate",
                 "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
                 "boosts": null
             },
             {
@@ -66,15 +73,8 @@
                 "boosts": null
             },
             {
-                "combat_style": "lunge",
-                "attack_type": "stab",
-                "attack_style": "controlled",
-                "experience": "shared",
-                "boosts": null
-            },
-            {
                 "combat_style": "block",
-                "attack_type": "slash",
+                "attack_type": "stab",
                 "attack_style": "defensive",
                 "experience": "defence",
                 "boosts": null
