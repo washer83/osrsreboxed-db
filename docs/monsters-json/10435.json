@@ -1,7 +1,7 @@
 {
     "id": 10435,
     "name": "Sourhog",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-09-13",
     "incomplete": true,
     "members": true,
     "release_date": "2020-09-10",
@@ -13,7 +13,7 @@
         "crush",
         "ranged"
     ],
-    "attack_speed": null,
+    "attack_speed": 5,
     "aggressive": true,
     "poisonous": false,
     "venomous": false,

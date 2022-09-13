@@ -1,7 +1,7 @@
 {
     "id": 1369,
     "name": "Air elemental",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-09-13",
     "incomplete": true,
     "members": true,
     "release_date": "2004-06-02",
@@ -25,7 +25,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "An air elemental",
+    "examine": "An air elemental.",
     "wiki_name": "Air elemental",
     "wiki_url": "https://oldschool.runescape.wiki/w/Air_elemental",
     "attack_level": 40,

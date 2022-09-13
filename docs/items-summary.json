@@ -48999,18 +48999,6 @@
         "id": 25968,
         "name": "Hespori bark"
     },
-    "25969": {
-        "id": 25969,
-        "name": "Masori chestplate"
-    },
-    "25971": {
-        "id": 25971,
-        "name": "Masori chainskirt"
-    },
-    "25973": {
-        "id": 25973,
-        "name": "Masori amulet"
-    },
     "25975": {
         "id": 25975,
         "name": "Lightbearer"
@@ -49023,21 +49011,9 @@
         "id": 25981,
         "name": "Keris partisan of breaching"
     },
-    "25983": {
-        "id": 25983,
-        "name": "Elidinis' broken ward"
-    },
     "25985": {
         "id": 25985,
         "name": "Elidinis' ward"
-    },
-    "25987": {
-        "id": 25987,
-        "name": "Tumeken's heka"
-    },
-    "25989": {
-        "id": 25989,
-        "name": "Tumeken's heka (uncharged)"
     },
     "25990": {
         "id": 25990,
@@ -49670,10 +49646,6 @@
     "26215": {
         "id": 26215,
         "name": "Red icon"
-    },
-    "26217": {
-        "id": 26217,
-        "name": "Masori headdress"
     },
     "26219": {
         "id": 26219,
@@ -51746,5 +51718,485 @@
     "27155": {
         "id": 27155,
         "name": "Flower crown"
+    },
+    "27157": {
+        "id": 27157,
+        "name": "Dragon knife"
+    },
+    "27158": {
+        "id": 27158,
+        "name": "Mystic robe top (dark)"
+    },
+    "27159": {
+        "id": 27159,
+        "name": "Mystic robe bottom (dark)"
+    },
+    "27160": {
+        "id": 27160,
+        "name": "Mystic robe top (light)"
+    },
+    "27161": {
+        "id": 27161,
+        "name": "Mystic robe bottom (light)"
+    },
+    "27162": {
+        "id": 27162,
+        "name": "Wizard boots"
+    },
+    "27163": {
+        "id": 27163,
+        "name": "Guthix halo"
+    },
+    "27164": {
+        "id": 27164,
+        "name": "Zamorak halo"
+    },
+    "27165": {
+        "id": 27165,
+        "name": "Saradomin halo"
+    },
+    "27166": {
+        "id": 27166,
+        "name": "Ghostly hood"
+    },
+    "27167": {
+        "id": 27167,
+        "name": "Ghostly robe"
+    },
+    "27168": {
+        "id": 27168,
+        "name": "Ghostly robe"
+    },
+    "27169": {
+        "id": 27169,
+        "name": "Berserker helm"
+    },
+    "27170": {
+        "id": 27170,
+        "name": "Infinity boots"
+    },
+    "27171": {
+        "id": 27171,
+        "name": "Tormented bracelet"
+    },
+    "27172": {
+        "id": 27172,
+        "name": "Necklace of anguish"
+    },
+    "27173": {
+        "id": 27173,
+        "name": "Amulet of torture"
+    },
+    "27174": {
+        "id": 27174,
+        "name": "Elder chaos top"
+    },
+    "27175": {
+        "id": 27175,
+        "name": "Elder chaos robe"
+    },
+    "27176": {
+        "id": 27176,
+        "name": "Elder chaos hood"
+    },
+    "27177": {
+        "id": 27177,
+        "name": "Fremennik kilt"
+    },
+    "27178": {
+        "id": 27178,
+        "name": "Spiked manacles"
+    },
+    "27179": {
+        "id": 27179,
+        "name": "Rangers' tunic"
+    },
+    "27180": {
+        "id": 27180,
+        "name": "Guthix chaps"
+    },
+    "27181": {
+        "id": 27181,
+        "name": "Zamorak chaps"
+    },
+    "27182": {
+        "id": 27182,
+        "name": "Saradomin chaps"
+    },
+    "27183": {
+        "id": 27183,
+        "name": "3rd age mage hat"
+    },
+    "27184": {
+        "id": 27184,
+        "name": "Ancient godsword"
+    },
+    "27185": {
+        "id": 27185,
+        "name": "Rune defender"
+    },
+    "27186": {
+        "id": 27186,
+        "name": "Zaryte crossbow"
+    },
+    "27187": {
+        "id": 27187,
+        "name": "Bow of faerdhinen"
+    },
+    "27188": {
+        "id": 27188,
+        "name": "Light ballista"
+    },
+    "27189": {
+        "id": 27189,
+        "name": "Verac's flail"
+    },
+    "27190": {
+        "id": 27190,
+        "name": "Verac's brassard"
+    },
+    "27191": {
+        "id": 27191,
+        "name": "Unholy book"
+    },
+    "27192": {
+        "id": 27192,
+        "name": "Opal dragon bolts (e)"
+    },
+    "27193": {
+        "id": 27193,
+        "name": "Ancestral robe top"
+    },
+    "27194": {
+        "id": 27194,
+        "name": "Ancestral robe bottom"
+    },
+    "27195": {
+        "id": 27195,
+        "name": "Inquisitor's great helm"
+    },
+    "27196": {
+        "id": 27196,
+        "name": "Inquisitor's hauberk"
+    },
+    "27197": {
+        "id": 27197,
+        "name": "Inquisitor's plateskirt"
+    },
+    "27198": {
+        "id": 27198,
+        "name": "Inquisitor's mace"
+    },
+    "27199": {
+        "id": 27199,
+        "name": "3rd age range top"
+    },
+    "27200": {
+        "id": 27200,
+        "name": "3rd age range legs"
+    },
+    "27201": {
+        "id": 27201,
+        "name": "3rd age range coif"
+    },
+    "27202": {
+        "id": 27202,
+        "name": "Menaphite remedy(4)"
+    },
+    "27205": {
+        "id": 27205,
+        "name": "Menaphite remedy(3)"
+    },
+    "27208": {
+        "id": 27208,
+        "name": "Menaphite remedy(2)"
+    },
+    "27211": {
+        "id": 27211,
+        "name": "Menaphite remedy(1)"
+    },
+    "27214": {
+        "id": 27214,
+        "name": "Scarab dung"
+    },
+    "27216": {
+        "id": 27216,
+        "name": "Fossilised dung"
+    },
+    "27219": {
+        "id": 27219,
+        "name": "Fang"
+    },
+    "27221": {
+        "id": 27221,
+        "name": "Big banana"
+    },
+    "27223": {
+        "id": 27223,
+        "name": "Eldritch ashes"
+    },
+    "27225": {
+        "id": 27225,
+        "name": "Grain"
+    },
+    "27226": {
+        "id": 27226,
+        "name": "Masori mask"
+    },
+    "27229": {
+        "id": 27229,
+        "name": "Masori body"
+    },
+    "27232": {
+        "id": 27232,
+        "name": "Masori chaps"
+    },
+    "27235": {
+        "id": 27235,
+        "name": "Masori mask (f)"
+    },
+    "27238": {
+        "id": 27238,
+        "name": "Masori body (f)"
+    },
+    "27241": {
+        "id": 27241,
+        "name": "Masori chaps (f)"
+    },
+    "27246": {
+        "id": 27246,
+        "name": "Osmumten's fang (or)"
+    },
+    "27248": {
+        "id": 27248,
+        "name": "Cursed phalanx"
+    },
+    "27251": {
+        "id": 27251,
+        "name": "Elidinis' ward (f)"
+    },
+    "27253": {
+        "id": 27253,
+        "name": "Elidinis' ward (or)"
+    },
+    "27255": {
+        "id": 27255,
+        "name": "Menaphite ornament kit"
+    },
+    "27257": {
+        "id": 27257,
+        "name": "Icthlarin's shroud (tier 1)"
+    },
+    "27259": {
+        "id": 27259,
+        "name": "Icthlarin's shroud (tier 2)"
+    },
+    "27261": {
+        "id": 27261,
+        "name": "Icthlarin's shroud (tier 3)"
+    },
+    "27263": {
+        "id": 27263,
+        "name": "Icthlarin's shroud (tier 4)"
+    },
+    "27265": {
+        "id": 27265,
+        "name": "Icthlarin's shroud (tier 5)"
+    },
+    "27267": {
+        "id": 27267,
+        "name": "Icthlarin's hood (tier 5)"
+    },
+    "27269": {
+        "id": 27269,
+        "name": "Armadylean plate"
+    },
+    "27272": {
+        "id": 27272,
+        "name": "Lily of the sands"
+    },
+    "27275": {
+        "id": 27275,
+        "name": "Tumeken's shadow"
+    },
+    "27277": {
+        "id": 27277,
+        "name": "Tumeken's shadow (uncharged)"
+    },
+    "27279": {
+        "id": 27279,
+        "name": "Thread of elidinis"
+    },
+    "27281": {
+        "id": 27281,
+        "name": "Divine rune pouch"
+    },
+    "27283": {
+        "id": 27283,
+        "name": "Breach of the scarab"
+    },
+    "27285": {
+        "id": 27285,
+        "name": "Eye of the corruptor"
+    },
+    "27287": {
+        "id": 27287,
+        "name": "Keris partisan of corruption"
+    },
+    "27289": {
+        "id": 27289,
+        "name": "Jewel of the sun"
+    },
+    "27291": {
+        "id": 27291,
+        "name": "Keris partisan of the sun"
+    },
+    "27293": {
+        "id": 27293,
+        "name": "Cache of runes"
+    },
+    "27295": {
+        "id": 27295,
+        "name": "Water container"
+    },
+    "27296": {
+        "id": 27296,
+        "name": "Mirror"
+    },
+    "27297": {
+        "id": 27297,
+        "name": "Neutralising potion"
+    },
+    "27298": {
+        "id": 27298,
+        "name": "Maisa's message"
+    },
+    "27299": {
+        "id": 27299,
+        "name": "Antique lamp"
+    },
+    "27300": {
+        "id": 27300,
+        "name": "Akila's journal"
+    },
+    "27302": {
+        "id": 27302,
+        "name": "Het's capture"
+    },
+    "27304": {
+        "id": 27304,
+        "name": "Apmeken's capture"
+    },
+    "27306": {
+        "id": 27306,
+        "name": "Scabaras' capture"
+    },
+    "27308": {
+        "id": 27308,
+        "name": "Crondis' capture"
+    },
+    "27310": {
+        "id": 27310,
+        "name": "The wardens"
+    },
+    "27312": {
+        "id": 27312,
+        "name": "The jackal's torch"
+    },
+    "27314": {
+        "id": 27314,
+        "name": "Supplies"
+    },
+    "27315": {
+        "id": 27315,
+        "name": "Nectar (4)"
+    },
+    "27317": {
+        "id": 27317,
+        "name": "Nectar (3)"
+    },
+    "27319": {
+        "id": 27319,
+        "name": "Nectar (2)"
+    },
+    "27321": {
+        "id": 27321,
+        "name": "Nectar (1)"
+    },
+    "27323": {
+        "id": 27323,
+        "name": "Silk dressing (2)"
+    },
+    "27325": {
+        "id": 27325,
+        "name": "Silk dressing (1)"
+    },
+    "27327": {
+        "id": 27327,
+        "name": "Tears of elidinis (4)"
+    },
+    "27329": {
+        "id": 27329,
+        "name": "Tears of elidinis (3)"
+    },
+    "27331": {
+        "id": 27331,
+        "name": "Tears of elidinis (2)"
+    },
+    "27333": {
+        "id": 27333,
+        "name": "Tears of elidinis (1)"
+    },
+    "27335": {
+        "id": 27335,
+        "name": "Blessed crystal scarab (2)"
+    },
+    "27337": {
+        "id": 27337,
+        "name": "Blessed crystal scarab (1)"
+    },
+    "27339": {
+        "id": 27339,
+        "name": "Liquid adrenaline"
+    },
+    "27341": {
+        "id": 27341,
+        "name": "Liquid adrenaline (1)"
+    },
+    "27343": {
+        "id": 27343,
+        "name": "Smelling salts (2)"
+    },
+    "27345": {
+        "id": 27345,
+        "name": "Smelling salts (1)"
+    },
+    "27347": {
+        "id": 27347,
+        "name": "Ambrosia"
+    },
+    "27349": {
+        "id": 27349,
+        "name": "Ambrosia (1)"
+    },
+    "27351": {
+        "id": 27351,
+        "name": "Honey locust"
+    },
+    "27352": {
+        "id": 27352,
+        "name": "Tumeken's guardian"
+    },
+    "27354": {
+        "id": 27354,
+        "name": "Elidinis' guardian"
+    },
+    "27355": {
+        "id": 27355,
+        "name": "Masori armour set (f)"
+    },
+    "27358": {
+        "id": 27358,
+        "name": "Tome of fire"
     }
 }

@@ -1,7 +1,7 @@
 {
     "id": 3066,
     "name": "Barbarian",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-09-13",
     "incomplete": true,
     "members": false,
     "release_date": "2006-02-20",
@@ -25,7 +25,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "Adelino, a barbarian warrior with a big axe",
+    "examine": "Adelino, a barbarian warrior with a big axe.",
     "wiki_name": "Barbarian (Level 10 (Adelino))",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barbarian#Level_10_(Adelino)",
     "attack_level": 8,

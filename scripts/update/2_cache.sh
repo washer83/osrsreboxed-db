@@ -61,6 +61,7 @@ rm -r $odb/data/cache/objects/
 
 # Dump the cache
 echo -e "  > Dumping cache using RuneLite cache tool..."
+echo -e "Jarfile: $jar_file"
 java -classpath $jar_file net.runelite.cache.Cache \
 -cache $odb/data/cache/cache-data \
 -items $odb/data/cache/items

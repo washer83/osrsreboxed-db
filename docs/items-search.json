@@ -16809,7 +16809,7 @@
         "id": 2841,
         "name": "Clue scroll (medium)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "2842": {
         "id": 2842,
@@ -112599,7 +112599,7 @@
         "id": 19770,
         "name": "Clue scroll (medium)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "19771": {
         "id": 19771,
@@ -147311,42 +147311,6 @@
         "type": "normal",
         "duplicate": false
     },
-    "25969": {
-        "id": 25969,
-        "name": "Masori chestplate",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25970": {
-        "id": 25970,
-        "name": "Masori chestplate",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "25971": {
-        "id": 25971,
-        "name": "Masori chainskirt",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25972": {
-        "id": 25972,
-        "name": "Masori chainskirt",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "25973": {
-        "id": 25973,
-        "name": "Masori amulet",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25974": {
-        "id": 25974,
-        "name": "Masori amulet",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "25975": {
         "id": 25975,
         "name": "Lightbearer",
@@ -147383,18 +147347,6 @@
         "type": "placeholder",
         "duplicate": true
     },
-    "25983": {
-        "id": 25983,
-        "name": "Elidinis' broken ward",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25984": {
-        "id": 25984,
-        "name": "Elidinis' broken ward",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "25985": {
         "id": 25985,
         "name": "Elidinis' ward",
@@ -147406,24 +147358,6 @@
         "name": "Elidinis' ward",
         "type": "placeholder",
         "duplicate": true
-    },
-    "25987": {
-        "id": 25987,
-        "name": "Tumeken's heka",
-        "type": "normal",
-        "duplicate": false
-    },
-    "25988": {
-        "id": 25988,
-        "name": "Tumeken's heka",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "25989": {
-        "id": 25989,
-        "name": "Tumeken's heka (uncharged)",
-        "type": "normal",
-        "duplicate": false
     },
     "25990": {
         "id": 25990,
@@ -148779,18 +148713,6 @@
         "id": 26215,
         "name": "Red icon",
         "type": "normal",
-        "duplicate": true
-    },
-    "26217": {
-        "id": 26217,
-        "name": "Masori headdress",
-        "type": "normal",
-        "duplicate": false
-    },
-    "26218": {
-        "id": 26218,
-        "name": "Masori headdress",
-        "type": "placeholder",
         "duplicate": true
     },
     "26219": {
@@ -154347,6 +154269,288 @@
         "id": 27156,
         "name": "Flower crown",
         "type": "placeholder",
+        "duplicate": true
+    },
+    "27157": {
+        "id": 27157,
+        "name": "Dragon knife",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27158": {
+        "id": 27158,
+        "name": "Mystic robe top (dark)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27159": {
+        "id": 27159,
+        "name": "Mystic robe bottom (dark)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27160": {
+        "id": 27160,
+        "name": "Mystic robe top (light)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27161": {
+        "id": 27161,
+        "name": "Mystic robe bottom (light)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27162": {
+        "id": 27162,
+        "name": "Wizard boots",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27163": {
+        "id": 27163,
+        "name": "Guthix halo",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27164": {
+        "id": 27164,
+        "name": "Zamorak halo",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27165": {
+        "id": 27165,
+        "name": "Saradomin halo",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27166": {
+        "id": 27166,
+        "name": "Ghostly hood",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27167": {
+        "id": 27167,
+        "name": "Ghostly robe",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27168": {
+        "id": 27168,
+        "name": "Ghostly robe",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27169": {
+        "id": 27169,
+        "name": "Berserker helm",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27170": {
+        "id": 27170,
+        "name": "Infinity boots",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27171": {
+        "id": 27171,
+        "name": "Tormented bracelet",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27172": {
+        "id": 27172,
+        "name": "Necklace of anguish",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27173": {
+        "id": 27173,
+        "name": "Amulet of torture",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27174": {
+        "id": 27174,
+        "name": "Elder chaos top",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27175": {
+        "id": 27175,
+        "name": "Elder chaos robe",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27176": {
+        "id": 27176,
+        "name": "Elder chaos hood",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27177": {
+        "id": 27177,
+        "name": "Fremennik kilt",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27178": {
+        "id": 27178,
+        "name": "Spiked manacles",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27179": {
+        "id": 27179,
+        "name": "Rangers' tunic",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27180": {
+        "id": 27180,
+        "name": "Guthix chaps",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27181": {
+        "id": 27181,
+        "name": "Zamorak chaps",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27182": {
+        "id": 27182,
+        "name": "Saradomin chaps",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27183": {
+        "id": 27183,
+        "name": "3rd age mage hat",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27184": {
+        "id": 27184,
+        "name": "Ancient godsword",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27185": {
+        "id": 27185,
+        "name": "Rune defender",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27186": {
+        "id": 27186,
+        "name": "Zaryte crossbow",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27187": {
+        "id": 27187,
+        "name": "Bow of faerdhinen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27188": {
+        "id": 27188,
+        "name": "Light ballista",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27189": {
+        "id": 27189,
+        "name": "Verac's flail",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27190": {
+        "id": 27190,
+        "name": "Verac's brassard",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27191": {
+        "id": 27191,
+        "name": "Unholy book",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27192": {
+        "id": 27192,
+        "name": "Opal dragon bolts (e)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27193": {
+        "id": 27193,
+        "name": "Ancestral robe top",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27194": {
+        "id": 27194,
+        "name": "Ancestral robe bottom",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27195": {
+        "id": 27195,
+        "name": "Inquisitor's great helm",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27196": {
+        "id": 27196,
+        "name": "Inquisitor's hauberk",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27197": {
+        "id": 27197,
+        "name": "Inquisitor's plateskirt",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27198": {
+        "id": 27198,
+        "name": "Inquisitor's mace",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27199": {
+        "id": 27199,
+        "name": "3rd age range top",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27200": {
+        "id": 27200,
+        "name": "3rd age range legs",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27201": {
+        "id": 27201,
+        "name": "3rd age range coif",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27202": {
+        "id": 27202,
+        "name": "Menaphite remedy(4)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27203": {
+        "id": 27203,
+        "name": "Menaphite remedy(4)",
+        "type": "noted",
         "duplicate": true
     }
 }

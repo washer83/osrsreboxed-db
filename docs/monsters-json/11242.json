@@ -1,7 +1,7 @@
 {
     "id": 11242,
     "name": "Jelly",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-09-13",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-26",
@@ -27,6 +27,7 @@
     "slayer_level": 52,
     "slayer_xp": 75.0,
     "slayer_masters": [
+        "krystilia",
         "vannaka",
         "chaeldar",
         "konar"

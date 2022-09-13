@@ -1,7 +1,7 @@
 {
     "id": 7249,
     "name": "Dust devil",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-09-13",
     "incomplete": true,
     "members": true,
     "release_date": "2016-06-09",
@@ -27,6 +27,7 @@
     "slayer_level": 65,
     "slayer_xp": 130.0,
     "slayer_masters": [
+        "krystilia",
         "vannaka",
         "chaeldar",
         "konar",

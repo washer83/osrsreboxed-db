@@ -1,7 +1,7 @@
 {
     "id": 2476,
     "name": "Catablepon",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-09-13",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -10,7 +10,8 @@
     "hitpoints": 50,
     "max_hit": 7,
     "attack_type": [
-        "stab"
+        "stab",
+        "magic"
     ],
     "attack_speed": 4,
     "aggressive": true,

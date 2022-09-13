@@ -1,7 +1,7 @@
 {
     "id": 1612,
     "name": "Battle mage",
-    "last_updated": "2020-12-25",
+    "last_updated": "2022-09-13",
     "incomplete": true,
     "members": true,
     "release_date": "2003-09-22",
@@ -25,7 +25,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "Kills in the name of Guthix.",
+    "examine": "He kills in the name of Guthix.",
     "wiki_name": "Battle mage (Guthix)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Battle_mage#Guthix",
     "attack_level": 1,

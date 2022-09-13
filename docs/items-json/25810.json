@@ -1,7 +1,7 @@
 {
     "id": 25810,
     "name": "Damp key",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-09-13",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -20,7 +20,7 @@
     "cost": 30,
     "lowalch": null,
     "highalch": null,
-    "weight": null,
+    "weight": 0.01,
     "buy_limit": null,
     "quest_item": true,
     "release_date": "2021-06-16",

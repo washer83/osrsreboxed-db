@@ -1,7 +1,7 @@
 {
     "id": 11240,
     "name": "Greater Nechryael",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-09-13",
     "incomplete": false,
     "members": true,
     "release_date": "2016-06-09",
@@ -28,6 +28,7 @@
     "slayer_level": 80,
     "slayer_xp": 210.0,
     "slayer_masters": [
+        "krystilia",
         "vannaka",
         "chaeldar",
         "konar",

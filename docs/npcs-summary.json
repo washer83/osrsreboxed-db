@@ -36275,42 +36275,6 @@
         "id": 10877,
         "name": "Mysterious Stranger"
     },
-    "10878": {
-        "id": 10878,
-        "name": "Lesser ghostly thrall"
-    },
-    "10879": {
-        "id": 10879,
-        "name": "Superior ghostly thrall"
-    },
-    "10880": {
-        "id": 10880,
-        "name": "Greater ghostly thrall"
-    },
-    "10881": {
-        "id": 10881,
-        "name": "Lesser skeletal thrall"
-    },
-    "10882": {
-        "id": 10882,
-        "name": "Superior skeletal thrall"
-    },
-    "10883": {
-        "id": 10883,
-        "name": "Greater skeletal thrall"
-    },
-    "10884": {
-        "id": 10884,
-        "name": "Lesser zombified thrall"
-    },
-    "10885": {
-        "id": 10885,
-        "name": "Superior zombified thrall"
-    },
-    "10886": {
-        "id": 10886,
-        "name": "Greater zombified thrall"
-    },
     "10887": {
         "id": 10887,
         "name": "Town Crier"
@@ -38763,9 +38727,57 @@
         "id": 11650,
         "name": "Lanthus"
     },
+    "11651": {
+        "id": 11651,
+        "name": "Hannibal"
+    },
+    "11652": {
+        "id": 11652,
+        "name": "Tumeken's Guardian"
+    },
+    "11653": {
+        "id": 11653,
+        "name": "Elidinis' Guardian"
+    },
+    "11654": {
+        "id": 11654,
+        "name": "Apmeken"
+    },
+    "11655": {
+        "id": 11655,
+        "name": "Apmeken"
+    },
+    "11656": {
+        "id": 11656,
+        "name": "Apmeken"
+    },
+    "11657": {
+        "id": 11657,
+        "name": "Crondis"
+    },
     "11658": {
         "id": 11658,
         "name": "Gilbert"
+    },
+    "11659": {
+        "id": 11659,
+        "name": "Crondis"
+    },
+    "11660": {
+        "id": 11660,
+        "name": "Crondis"
+    },
+    "11661": {
+        "id": 11661,
+        "name": "Scabaras"
+    },
+    "11662": {
+        "id": 11662,
+        "name": "Scabaras"
+    },
+    "11663": {
+        "id": 11663,
+        "name": "Scabaras"
     },
     "11664": {
         "id": 11664,
@@ -38846,5 +38858,357 @@
     "11683": {
         "id": 11683,
         "name": "Fighter"
+    },
+    "11686": {
+        "id": 11686,
+        "name": "Het"
+    },
+    "11687": {
+        "id": 11687,
+        "name": "Het"
+    },
+    "11688": {
+        "id": 11688,
+        "name": "Het"
+    },
+    "11689": {
+        "id": 11689,
+        "name": "Osmumten"
+    },
+    "11690": {
+        "id": 11690,
+        "name": "Osmumten"
+    },
+    "11691": {
+        "id": 11691,
+        "name": "Spirit"
+    },
+    "11692": {
+        "id": 11692,
+        "name": "Osmumten"
+    },
+    "11693": {
+        "id": 11693,
+        "name": "Osmumten"
+    },
+    "11694": {
+        "id": 11694,
+        "name": "Helpful Spirit"
+    },
+    "11695": {
+        "id": 11695,
+        "name": "Ghost"
+    },
+    "11696": {
+        "id": 11696,
+        "name": "Amascut"
+    },
+    "11697": {
+        "id": 11697,
+        "name": "Scarab"
+    },
+    "11705": {
+        "id": 11705,
+        "name": "Crocodile"
+    },
+    "11709": {
+        "id": 11709,
+        "name": "Baboon Brawler"
+    },
+    "11710": {
+        "id": 11710,
+        "name": "Baboon Thrower"
+    },
+    "11711": {
+        "id": 11711,
+        "name": "Baboon Mage"
+    },
+    "11712": {
+        "id": 11712,
+        "name": "Baboon Brawler"
+    },
+    "11713": {
+        "id": 11713,
+        "name": "Baboon Thrower"
+    },
+    "11714": {
+        "id": 11714,
+        "name": "Baboon Mage"
+    },
+    "11715": {
+        "id": 11715,
+        "name": "Baboon Shaman"
+    },
+    "11716": {
+        "id": 11716,
+        "name": "Volatile Baboon"
+    },
+    "11717": {
+        "id": 11717,
+        "name": "Cursed Baboon"
+    },
+    "11718": {
+        "id": 11718,
+        "name": "Baboon Thrall"
+    },
+    "11719": {
+        "id": 11719,
+        "name": "Kephri"
+    },
+    "11720": {
+        "id": 11720,
+        "name": "Kephri"
+    },
+    "11721": {
+        "id": 11721,
+        "name": "Kephri"
+    },
+    "11722": {
+        "id": 11722,
+        "name": "Kephri"
+    },
+    "11723": {
+        "id": 11723,
+        "name": "Scarab Swarm"
+    },
+    "11724": {
+        "id": 11724,
+        "name": "Soldier Scarab"
+    },
+    "11725": {
+        "id": 11725,
+        "name": "Spitting Scarab"
+    },
+    "11726": {
+        "id": 11726,
+        "name": "Arcane Scarab"
+    },
+    "11727": {
+        "id": 11727,
+        "name": "Agile Scarab"
+    },
+    "11730": {
+        "id": 11730,
+        "name": "Zebak"
+    },
+    "11731": {
+        "id": 11731,
+        "name": "Zebak's Tail"
+    },
+    "11732": {
+        "id": 11732,
+        "name": "Zebak"
+    },
+    "11733": {
+        "id": 11733,
+        "name": "Zebak"
+    },
+    "11734": {
+        "id": 11734,
+        "name": "Zebak's Tail"
+    },
+    "11740": {
+        "id": 11740,
+        "name": "Crocodile"
+    },
+    "11741": {
+        "id": 11741,
+        "name": "Crocodile"
+    },
+    "11742": {
+        "id": 11742,
+        "name": "Blood Cloud"
+    },
+    "11743": {
+        "id": 11743,
+        "name": "Blood Cloud"
+    },
+    "11746": {
+        "id": 11746,
+        "name": "Elidinis' Warden"
+    },
+    "11747": {
+        "id": 11747,
+        "name": "Tumeken's Warden"
+    },
+    "11748": {
+        "id": 11748,
+        "name": "Elidinis' Warden"
+    },
+    "11749": {
+        "id": 11749,
+        "name": "Tumeken's Warden"
+    },
+    "11753": {
+        "id": 11753,
+        "name": "Elidinis' Warden"
+    },
+    "11754": {
+        "id": 11754,
+        "name": "Elidinis' Warden"
+    },
+    "11755": {
+        "id": 11755,
+        "name": "Elidinis' Warden"
+    },
+    "11756": {
+        "id": 11756,
+        "name": "Tumeken's Warden"
+    },
+    "11757": {
+        "id": 11757,
+        "name": "Tumeken's Warden"
+    },
+    "11758": {
+        "id": 11758,
+        "name": "Tumeken's Warden"
+    },
+    "11759": {
+        "id": 11759,
+        "name": "Elidinis' Warden"
+    },
+    "11760": {
+        "id": 11760,
+        "name": "Tumeken's Warden"
+    },
+    "11761": {
+        "id": 11761,
+        "name": "Elidinis' Warden"
+    },
+    "11762": {
+        "id": 11762,
+        "name": "Tumeken's Warden"
+    },
+    "11763": {
+        "id": 11763,
+        "name": "Elidinis' Warden"
+    },
+    "11764": {
+        "id": 11764,
+        "name": "Tumeken's Warden"
+    },
+    "11774": {
+        "id": 11774,
+        "name": "Zebak's Phantom"
+    },
+    "11775": {
+        "id": 11775,
+        "name": "Ba-Ba's Phantom"
+    },
+    "11776": {
+        "id": 11776,
+        "name": "Kephri's Phantom"
+    },
+    "11777": {
+        "id": 11777,
+        "name": "Akkha's Phantom"
+    },
+    "11778": {
+        "id": 11778,
+        "name": "Ba-Ba"
+    },
+    "11779": {
+        "id": 11779,
+        "name": "Ba-Ba"
+    },
+    "11780": {
+        "id": 11780,
+        "name": "Ba-Ba"
+    },
+    "11781": {
+        "id": 11781,
+        "name": "Baboon"
+    },
+    "11789": {
+        "id": 11789,
+        "name": "Akkha"
+    },
+    "11790": {
+        "id": 11790,
+        "name": "Akkha"
+    },
+    "11791": {
+        "id": 11791,
+        "name": "Akkha"
+    },
+    "11792": {
+        "id": 11792,
+        "name": "Akkha"
+    },
+    "11793": {
+        "id": 11793,
+        "name": "Akkha"
+    },
+    "11794": {
+        "id": 11794,
+        "name": "Akkha"
+    },
+    "11795": {
+        "id": 11795,
+        "name": "Akkha"
+    },
+    "11796": {
+        "id": 11796,
+        "name": "Akkha"
+    },
+    "11797": {
+        "id": 11797,
+        "name": "Akkha's Shadow"
+    },
+    "11798": {
+        "id": 11798,
+        "name": "Akkha's Shadow"
+    },
+    "11799": {
+        "id": 11799,
+        "name": "Akkha's Shadow"
+    },
+    "11806": {
+        "id": 11806,
+        "name": "Bank Camel"
+    },
+    "11807": {
+        "id": 11807,
+        "name": "Maisa"
+    },
+    "11808": {
+        "id": 11808,
+        "name": "Maisa"
+    },
+    "11809": {
+        "id": 11809,
+        "name": "Apmeken"
+    },
+    "11810": {
+        "id": 11810,
+        "name": "Crondis"
+    },
+    "11811": {
+        "id": 11811,
+        "name": "Het"
+    },
+    "11812": {
+        "id": 11812,
+        "name": "Tumeken's Guardian"
+    },
+    "11813": {
+        "id": 11813,
+        "name": "Elidinis' Guardian"
+    },
+    "11814": {
+        "id": 11814,
+        "name": "Messenger"
+    },
+    "11815": {
+        "id": 11815,
+        "name": "Messenger"
+    },
+    "11816": {
+        "id": 11816,
+        "name": "Messenger"
+    },
+    "11817": {
+        "id": 11817,
+        "name": "Messenger"
     }
 }
