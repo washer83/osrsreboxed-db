@@ -1,7 +1,7 @@
 {
     "id": 1564,
     "name": "Pet cat",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-28",
     "duplicate": false,
     "examine": "This cat definitely likes you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXklEQVR4Xu3VQUsbQRQH8Mw32JMXL4EchEAgCEFCCURCkWKQQoUQQheraIOmwWhTjZQignfpSbCi2E+jl+qhiWKl9DtoE3J57Zvt2528nWyzcU0s9A9/MAGZH495k1Do34sA/s0QI+BiPw+PCCXg60EBGp8KjwUl4PrIlL05Nv+geAcaAd9P5mR/fJ6Dp+m07GQqJfskmRw0TEB2akr2WSYjy0HYiURiEDABz6enbRCh1CmpIOx4PP5QMAujgtQJdZsSgrCxaDRIlIMhEGF0IEIRCDFU9wL0tQydoFar5cL0AhqLRGC/nIaD1Um7h2sZuz2irEusgtrtNjTv7jxR3UDYvdcp2Y/LTvGceDgsywUselCr2YSft7fai81BhCLQjjkBu6+Sdn1gMG6Qbsturi7hW6MB1/X6X0Hh0VHYzI3L+sRgnHeHl79B9fMvcHF2Buenp67V56BiNgbRkGGD+Kke0YN0j6K68nz1CYQYtT5BAt5Xq672glGnExCoE/NhY0OWQLpLzKei27B7gQihYrAIefumBGsrK7C8sOA5FS+Mb9DW+jps12ou0GalAu9WyzZovlCwMd3eHg7pA4QR8nAC4GeC4mecUmlpSYLys7O+JqNifIAwzm8N3hX6G5EEWjRNeJnLwYuZGe2K69onxor1TxaIUOViUU6JQDghfDRVTC8gfpbPiI7Ly6dDbxQ/nPde03FHuDZJNw2vSQU0HTXWPVIvLx22PZKAmhGHihGDkhGFeWMM8kYEsiELEvB0nNC94kVM9XdVDIcEjlGjHtINORCIVzhyaJD/GVZ+AS2+gLpPczkCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2UlEQVR4Xu3W70tTURgH8J2X94Uv9mIgg8FlDBkyxkWuyGSiNBpzbENBVBjGKjGSimEpIRUjC5LEfmBBBBEEEfSX9CLoTUTQ//LU99yec4/Hu9Vdt82gB77gFLkfnvM85y4W+/dKkPmbIZagD/sVOkUoQR8PqvTpsHpaUII+P67LfHla/4kyM9AS9PWoIfPtWYOe3zhLR1slOrx2hh5sztLeenHQMEFv7tTo9a0qvdqdpxc75ROg260C7TSnBgET9O5und526grVC9Redmmjkf9bMA+jg9ChlzcrEoWjM1HXVydpc9GRqJVSNkqUj2EQHxmD0KUnba9TD6/MUefCtOzS1aUJuljLUWs+R83yeMAC9LUMPuj9vQYl4vFjIB5sgIDhLu2uFdSxAYQu7a85dHBuQuXReVflN1FCdsQEITzU+qYBdH9jRnYIID42BtWm09RZzsvsrfrBcxzbljEFRvkgYHQQdwoo/bhMEB8bQAszGdqqZ2l7YVwlBAblrTljEHPLANGR5qahQwBhhgCadVJ0qZyRCYlBeSAgOIzB/OCo0BVER3UDLc2NSdBK0aZUzFIg86k9SsiHc3QMZocxGGQeZhwXQDzU5gwVcknKZxKUTIQGCTm4ZhijbxXmRscEdQfHVZmyKZ0ckZiQoGAMUnBdmnQcGRPSDYOjQndKbkphIgMBwt0BhDcKkF9hMD99g7BBfAHq0d9f6A5DsOJhMCFBKKEuPQSfGWqCgMB9E4TB3ADjZkcVBHPUx8qj/HeN/l2HhxozhOMCBpvUCwMEkrXj/WK88v5JqFsYP2OzdBA6AwhjeKMYAwSCdUdCHlW38rrErwTGYG741YAAgbsGEJ4d/oz8UXdOljj25YsvPO4IA/j3erf4bxF1Ry9vjoLmpT0yRpetNLUsm5pWihatJFWsUSrGvLmJuDt+8VyZAWb9R3SMCYkco5f+kG7IgUB6lYkcGuR/Dau+A7yeyYjPBTWkAAAAAElFTkSuQmCC",
     "wiki_name": "Cat (Black)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cat#Black",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 25203,
     "name": "Potion of power(4)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": false,
     "examine": "Gives a helpful boost.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xt2X60+SYRjGff4BvvCBL4w5xh9A66PN7OBhoKjZSEWMyMksjyEygcxlaW5kmWWl1XSdtFKzQFvHddparbVa69+5eg48Ly8vfmmDh617u8bGGM+P677u+3kpK/s/iiBXJS2Cy+fcGI8ewFCoAn6vs9RQBB/TIbx/1s21cKkZk4naUkIRDebNxnFcTzZhYrSaAznLy1VDicxIoFdrQVyb9vD2lSBPBH5/EIFAl+bO9moAV6bqcXp4H9zuRngaW1RCEYRCJ/LU4T+GI61+HGppRXWNS2XrCPoHBrkGBoY0+XwBeL0+uFweVOzZqxZoZCSqaTgygnB4GG3tnWjwtKCq6iCcu3arBGJFsLb+FOn0NlKpLTxPpXm7amrdWqgZjFKg3t5+xGJxJBIJLtauurqGUsCwIrRNEcTjCS4JxPKjuFWyCBx/NrlDsbgQa5m7vgmVlftVjjwrAvvnu3D83siKwlmXJmBJnoI5fFSlSwS21FU4fq3nANk252BdPg/LbBTmWBfMfe2qXKLufLkvgKQYEIW0PpyGZW4U5vEeVS5Rd7bm4fjxKBeIir1vfXwRlptjME+cVOVSJjs/nwjpgV7cgG1jFtbbZ2G5MAjzWKjYLlF3Xi7A8X01C6QTB5I5mokIl6JBmHq8xXKJuvNpWbSLyQhEYTnQvSkebM2lwY5iuCTcsX99kAUygNleL4pgryRhmU+I8S+eS9Sdd3dEu4xAGdnf3uLBtq3PwLp4Rrg02V8Ml8Rk8VFnQHrpgSiwFmy2IKVLbAUwl/raCuUS4b/e/m0lH0gHxoFkjmiwc1xiK6BwLokwMyCpPCAq+4clAZRZkHz89S7RFWDqPlxAl3RAO4ExaC3YdEHy8adLkq8AmiNTZ0EfS8R1wUUnTZMekC5MLdgyRwyGtsvULG7/AsHIEk+B/GAjnATKBJu3i8FkclMEGFHiC+V/LoNr7JUCyavDCFJwGH1lD8jCGaUEZKfSH2yU8bP/Wn8B+qpDMS8mT2wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xt2X/UtTURjHPf9CUFAoKq5cmxvbcOTybYiKOp0ZaiUYlaKhZNpKTbfKokKSohd6AaHCXsQMUVEpMkREpERs+v98u8+5nrt77+qHYDuDHvj+cjd2Pnyf7/Oc3bS0/6MYjEppMdwabEZvVy3OtvhRW+lJNRTD0nQYC1NDmJu8jtGRVly7fCKVUEyDmXnXj7uRFu4WPXdlZcmGUjMjgD69CeHO0Gn0dNSkIk8MJSXH4fcXae58HO/jeepur4LL5YDH45QJxVBeXoqKCr9BxcU++HxeeL1u2O1Wma1jCAQq4lRUVICCgnw4nXZYLNlygRoaAprq62tQV1eFwsJjvFVW62Gkpx+SCUTFMDDQg0gkhHA4hOHhK7xdeXlHtVATjFSg6upyNDbWoampnova5XDYUgFDxRAMVitAQS4BRPmR3CpRDLs7nRoQiVpGI5+ba5E58lQM0V+l2I22GfR+woaxsRz09abLdIlh5btLAThngFledmFq0oYnjy0Y6M/Axc6DslxS3ImW7QHFRJCzMw68eG5BJJyJnktSXGJYXXErAGcUtRqA6PnCvAOvx624PZIpyyWRHYIxam3VjS9LTky8teLBaI4MlxjW19zYiZ7UORQTffbtqxOTH2x49DCHu3Q1lIH2tqS5pLiz7d2DidfGuocHe3rKjmdPLbh/LxtDgxnJckl1JxoNKIc378kI9GPDowX71csjfPyT6BLD1ma+DiZemz89PNiLi04ebL1L3V0qUIJcUieLRp3yo5cZSASbFqRw6eYN1aXOjoS5xHg7zDBmkYMi2LQgySVakklwiUbdpxwa/ItUoO2tfC3YM5/tfPz1LtF1cuH8gcS5FA9iFE2gCPb8rIOPv3CJdtKp5v2aQ4lxScmQqkqdAjEpLopgixyJe602sC+RMKLUf4F0MG1rIyABlWrBJhhajmIHJQFGLfUHxTuXeo3EoMp4sMXVYQZJOIy+YgfE4MySAvKn0h9slvm7/1q/Ae2YZm7/FtZIAAAAAElFTkSuQmCC",
     "wiki_name": "Potion of power (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Potion_of_power#4_dose",
     "equipment": null,

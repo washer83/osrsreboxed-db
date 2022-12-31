@@ -1,7 +1,7 @@
 {
     "id": 20232,
     "name": "War blessing",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "The blood of the soldier makes the glory of the general.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZElEQVR4Xu3UYUtaURgH8M436JWv+wj7EmMMQwpFcaLUwhWIo81p0zJ0ZtnSst10tbsmosxyxdpaIgwhiF7sU/2357mc6731bnDPhbEHDteryPnxf855Jib+179bAsZytSRCIBL0IvnsiZsogaeRWYYEfA8R8j9GYiHEoAdTU6pRAunkPJaXooyIx/yIhX1ugQReLy+gsLKEXCpugy3OB/k7hW0TvDmBitkESqtJfq6lF/m7VCLGT4Up2UGVwgvsFFPYzD9nnEwtEvCqTckK2itneNVKr/idYLQUpkQlbKBGdZXX/tYKv1Nq8ahfZUpUgkGEeL+7Bn2/gKP6On/WtrMMM0CKURJ0rBXRbm4gGgkhHA4gGJyF3+/DZCarHiVBhJGgyZdpxsilHGUF3cW4hiKMJ5c3Vr5grOIGZma8mJ5+pP7mMaRcgadShadat50lK+ruPx0qwWkwpq7ZzhOhrLNKwe2zYLQmb0aYubmwbRzQrJIjgWaV86g/yYzPiYHqHG7yOGg1SnzwJVAOUofTMjDjgysY09O3cXK8g+6Higkk3H2YA2W/RYKTIUi/VcN5p85PwhGScPQ7pUYtdTgtWYI3JshFt47vvQN8+/yOcWftXTM5a2oOowwQbUwIAg3PDjHoN204Ah/V1qFtGQPU4XkluEWUCAEIM7rQOTFK5vrkLW4HXfwa9fldAYhKmG27Om1wm0bnuom5HXY4yfsXw7ESZtsIdPXpDYbtMm6+1HD9o8VAhRhZgtvW2ctg0GtyQjeXbW6nCxhZAj+/6rj8WMTpQc686i5hZMl5M4a4iDHqbyG/ATKAlHKxkYhbAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrElEQVR4Xu3WbUuTURgHcM9H8EUggSAR0cs+QJA0CImQGrVEcdjMjZwtxac0l6YtTTPFzFjD1FK0rKRlxlpPhpb5sLUxVkzxRQTVp/jXdY1zb2vvgvvcEF1wOLt3M86P/7nOYTk5/+vfLYHkMLQkQuDgIRvMJy8YiRIoOuJkyP4DJSg0WXHMcp5B+woKVKMESq0enCh14+jxRhwudsFUVGUUSMB6+hoqz9xARdUAyk51w1LWwRjC0TuF2yZ4cVrUXnML1bU+nm2OQZTbrqKkvEsDKUopE1RTP45zTZM8O1y3OTV6t2t3hdqUJMjVcBf1rbM86pqn+ZlSc9bdUZkSlcgAtXT4eTS55/iZUtuz16kyJSrBoMa2h2jtfIaO7pe46Amireu5hkuCFKMIRIhLPa/h6V/CjtzcjBEMVKtHSVA6ZGHBwRg5lKM6exc1zPxTO14FnRkgQ1CEWXzrwvJSLdZW67Gx3oBwqFGDKj95hIlF2xGP9yLxZTirnyTqz1/qVALRSAtjNhPeLEj6XaXg9AlEPjUzZntrnBeTELoO3J6Adh00tz/RcLqjKJlUnyRRV66/5+vgct87PokSSDi6MnROK4lJNa5gzMDIKo++oRX0DH7g7+hU0kVKlyqlphsq8xQJToYgI6Mb8I6FeB7yrjGQcPSeUqMt1TktWYIXHvatY2wqgsn7UZ5H74UZSDgCU2q0pZSazijBfUSJ+CbCmJqN4bH/Mx7MxfnzxHSEvydwocn/++/wTFof6lYC/Tc/ciKUEIEWXmxyUpRMQX4+nGd/IhT5zs8KQFSC+4cQlA5tk9nyTcMsr3zlJLMPhm4luF+od2YexbAzL48HgYJvtrnPFGJkCe4XghSbtzihSvsP3k4DMLIE5gMJLSF51A3CyJL3TQpiICZZfwv5BR5fl7B9zOjLAAAAAElFTkSuQmCC",
     "wiki_name": "War blessing",
     "wiki_url": "https://oldschool.runescape.wiki/w/War_blessing",
     "equipment": {

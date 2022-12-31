@@ -1,7 +1,7 @@
 {
     "id": 21183,
     "name": "Bracelet of slaughter",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-02",
     "duplicate": false,
     "examine": "Occasionally prevents slayer kill count being decremented.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEElEQVR4Xu2VuU4CURSGvc9hY2Jh6zvZWUlnoY1RYiRGExPBuICgIogbgrhAANnCIsoSkM1g4XMc858RHJbSO1DMn5zMZXKH+81/lpmY0KVL11hJ0GCMTIIs21t0bDZTfnq9GyOCEmTd3aWzg/0emO8ZMwPNTk1pCSXIeXRIHrudbp1nXZjStImBXJMLWrokyG2zkffcSQ+XlxT0eocCaQglyOd2MUj0IUCJYLAHRg2kAZQgl9XKMLHHR8q8RCmfSjGMGgiB2jKtrND83JxMKME104EpZDJULRSoVipRo1Kh0muOsrEYxZ+feQ8cRAcuGgyyoAQ9XV8PwNTLZQaqFov0nk4zFPbkEnEOFP/a8pI8qGEwzWqVr5X3NyrmsgwFQOxD4EV2NjbkQfXDtGoffMU9uAOIr1aL0tEI1xl+h/1+2jIaZUAJfns1zGe9xlccfnN6wo6ghlLhMN8r5/Mc/gs3ba6uyoGCSwACTLvRYCBAYEYFPB6KBO4VoGSSCx77AYpnMcklTHMFCjDtZpNrBzBwAQcjRWogpPPK4egC9f/bP0nwQagXDEnHnoXd6Rmcv0BoBowByUCQ4LThYDjQcQfzCA6h9QGEtcR09UtJX+f7BneSoVB3miOdId+dFu50pLiECY1Wx4BEq6PoscZ9fAM1BIL+hiY6Dmulvf9Co3SpNRxAHf1PSNfIAXTpGnf9AJRBvY8B6IVkAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABS0lEQVR4Xu3UYWoCMRAFYHMLEYRFRIoUWYoiSsWlUvBOPUEvUTxC8RC91sqb4a1jjP86WX9k4LHRuPLtJJvBoFSpUk9Vob1PbxXal9lM8vuz79ITSjGv8/kN5u98FFBdVTlRQSDI22LRYc6nRkDfX3XOLikGkFVdS1KgjKjQYTbLpcRiLCgDSrtDzPt6LQHGghD8bjqZtKPh0BOl3SFmv91KPna79rNpZEwkA1g1HnuhgnQnxhCEK7+3wUOgW26oGEMQUQjQdh4PgmPCDZXCMMRwGTE+Hg6y1E6degwCwG56u8fYKVdU3B1AHoEQzOFenOQOp/ktihuY51MMwhXzBMX/9k+lKOwRvub2jLIgjDHvDEKFuw6lQPjsuFxxaad4TqXOKkAzdIelXUp1BmNu9owglB6aFqKv9zWZlstWGmAT3+FevQNKlXr2ugDvIrGaLa+kHAAAAABJRU5ErkJggg==",
     "wiki_name": "Bracelet of slaughter",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bracelet_of_slaughter",
     "equipment": {

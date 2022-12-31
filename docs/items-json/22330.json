@@ -1,7 +1,7 @@
 {
     "id": 22330,
     "name": "Deadman starter pack",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-03-17",
     "duplicate": false,
     "examine": "Contains some useful supplies.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADs0lEQVR4Xt3WW0sbQRTAcf0GfcqLL4E8LAiBEJAQQsAgEoIhJBiUKBGjeCFVsd5RK1prrbSlF0Ra+mFP+Z/0JOOwoZtabenAoe52M+e3Z2ZnZmjo/2jD0gn7+6+1DuT98ayc7czr3/mxuIN7staBvN6dlpONsuyvlmRjYUJWZvPSrGVlvhz8RLmV++Otl+DiRVWO1qdkqzWpiEYlEwqrl8akXEh5uLCI3Ho/erNf14oAWZ8b12TADAKO+y7E0Nxv1XMKp3pcg+Yez0dE9RAkPtuqaALmC/cNs7Nc1KpYwupkWp/lPknB8TsXbc9mUzEJ4s8UlIoz9/q2Ybk8WJD2Ylk+nK/K1VFLPp425OZwpgt0Me59rv3q+cOYDjqIteaU1EqdCkUGba/U5KBdl5Ptht6zAGGVsuqRNGyiW+Xo1/o832vK8lxxcBBvsblUkd216S6Mzqjau9NlfY574IDZ0FhF6GtxZlKjOV3oYj5drCmoPJmJBiIhmEZ1XDtzYUebnXUHzNvjJR3WL5dtTUTC2WJC6uX8vTBMIh7TeNkuaL+RQSSiQqkgJt+vWxo+xqrE295ePdd79eKoZNOBlApjGhO5lGIM4oN4JjKIimSSI12QHy7m682WVgjQaBBXFBgf4oKARgaRDBBbgQ/pFwbyk/uRDEbkeG1cQaAjgZgXjPlENqFrD8Gn7yOigkAQY8m45NIJBTE/BwIxZ0r5QL8gCz73fsAwkCEMUsgGUsyPdkH5THIwULUwqslZbwjWGcIHggPUmEreg4BwIWwprEmHK52vLzKIycq6A4hkVhU3XCQ4F0RyF8C/XAMjDMTkjwziEwd0ez4vn8/mNMC54QJdkAugQlSLqtlQAmLIfgv07WpR7l41NcC5QBfqgvpBuOb/9pZyCkonE9FArLxsCYC4Zq6QFFwYkHBB/SBUjg0WEJ/9QCBWZAOxeTJf/K/MBQJqVnqLISCqxNAxj9hkOXqwzxmIRXQgEJ8xHXCO4bjBTs4kdmHuHDKQC6EibLTs/my8vBwbMVvHQCC+MobANlY6A+XDLFyQDQ0QXojg9/TJ3CTY7Xk2Eoitg82VBGDsXERHzC3e0A5h7mdvIBseA9EX/VjQH3kM8wsQrXeetrOQ7fQktqOHvzC2amkFUR1QzBPCzkRuvwaJgOm03sO9TkjKsQOM7fYMLzu+gWKxZ3rOITgR2qnQR0SGhLUwnGHurje6xw+rEAuebQs+xO/7wS0MZ9Uz0JNAwtr9hA+YH4/V/hnIY7Uf0Bpd3tauF28AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xt3W4WvaQBjHcfuyL3zRF4IIAQkSgkgQUUSxKMqKHU7a4ebo1rGNjf3/f8Ft34tPfHI9bTLbbuzghyaau08ud7mrVP6PcmbSyPe/VlLIets1q7dD+73eOFe4FyspZHnTMYtV28yWsRlNW2YwCU13GJhmVNmhdM89edk3AEQQAOJO3Qvr9Br2tzzOl8Jlf9HrTZJBaJCGdA9dLqIHEN95eo9jOUcKovYI3TDjRc5zjgalpwQi52mUc1znw9WDig1tdZvNY6gzc/thYqaLxGw/z+z324/9gxh9nmMac/8jOMCCGM/app0AKQGaL7vm1apnrteDFLaLi5NHyblDPScI6mRW/hGIi1zY+v3Y/i69R+UA3cEOhLr6oyiLYLi2NIgLqGQ4iXMwUBaxg737dGnuvs3tMb9HScV0+2EugqnVqzajed3WG7VT9KMgGgHAi+7u+8hGesnFcLf3Pxb2uNWumkZQsw1JwAjkSUFuBEPvfPl5ZZGAaFBQLuQkED1yDORGg3yhLgkgeq4wiDsHFLTOzZttnMVFFAFpCAnCtIcAha109hUCMV4AXW+iXA4BXZAPIjkJxJS+umnl4gNq0CEIacUX5UEMVA3yxQVqkAbwUiRhVMsiIAZ/YRDvG0Cb+4FdOnRcnI0CaUDQvLDR4+ok0Pbr0AaYxAVapAL5IPL49CMrBeIFCIhjGSuCc4Ek98gOQOKkZpJ+PXsPFQbx5tWg6bKZjRU9yzQQULt7HNIbNcxwGmQg/lcKxB2zilPReBEchMksE5ALsb3ye9ElLMDsCEqDmGWAWFgJlbGtcGESDdIY2ZRxPXXKroE6C4N4D7GW0YCs8noLwh2S+SrMTXsBAZEtCJ+yW5BQF+0I5hEQZb+f1hB368GGTE97Acm7R++FeES6XoEUwKRl/+d9JTQqGL3ay34IULV6nm092IDJJsxFFIb4ig8nGMYb0T3EdJZlwYW4dZ9cfDjpPQG9CMRX8g2eMD6eq/wzkOcqvwCGhmaXNLAgtgAAAABJRU5ErkJggg==",
     "wiki_name": "Deadman starter pack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Deadman_starter_pack",
     "equipment": null,

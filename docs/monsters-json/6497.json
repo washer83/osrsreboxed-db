@@ -1,7 +1,7 @@
 {
     "id": 6497,
     "name": "Dagannoth Prime",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2015-12-03",
@@ -34,7 +34,7 @@
         "duradel"
     ],
     "duplicate": false,
-    "examine": "A legendary Dagannoth King, rumoured to fly on the north winds.",
+    "examine": "A legendary dagannoth king, rumoured to fly on the North winds.",
     "wiki_name": "Dagannoth Prime (PvM Arena)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dagannoth_Prime#PvM_Arena",
     "attack_level": 255,

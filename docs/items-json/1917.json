@@ -1,7 +1,7 @@
 {
     "id": 1917,
     "name": "Beer",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A glass of frothy ale.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACX0lEQVR4Xu3WS08aURwFcOdzdEPShUlXbhq/Ulcs3XTXNKYpMRhLWxK0tNpobLEaGkQLBBCF8CiRR6U8pAQSoIBSXm5P87+TgemVKsJITcpJTi53Mpn5Ze6dCVNTkygSAYN1LBGwbliH8ZUReq0ei88WoXmiwcLTBWjntWz+4vkSXmp044AJsJqssHywYOf9NjaNm1jTr8KwZMCKboUh371+y47RSJ19OHtbKAFuqxuuXRecFiccnx3Y29qDecMM06qJ9dPaFoNS6bd0XP1IrTRKQNATRMAdgN/lh8/pg9fhxZH9iAFtOzZ82d5no91s784JTE+U2lvCkSMgHo4jEU2wMRqM4th/jLAvjLD3K0KHIQYkHCEl6KHNw0bP/gF7WnSdGZWKlb/DDSMgm8wil/6BfDbPxkwig2QsiUTkhCFjoRhDRgIRNtI8FU8xNMHm1HNdEH/1ISOgWq6i9rOGs8oZKqUKSoUSCrkCcpkcTr+fIn2SZiPN6TiBCEdv3PLje7I3TqFl87+5j3azjeavJhr1Buq1Os6r5wxJ2HKxzKAElkD0xAhDtetU3SoAE0FSW40WKwGpnVaH9aJ9gWK+yJaM3kQJQ+24H1zqCKg/QamP030rP4c6CGjIfTU6SFqmluuOgah3BlTane72n4PkEH4f8XcbIAJ8y8OD+mGk5Rvy6y2CJBQPuQ50FWQIDKUHon7b6F/5OVQ5SCGIlJuD+A2tEESeHoqHXAUaYZ9cl9FA/NUUyAQ0SEQUD/kb6Bb3jzzi68tjeNCYMGLEm8j/AV7u2DDyyL8t/cqfP8l/kd/Nt7pvgvM+TwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXElEQVR4Xu3WUU9SYRwGcM8H6LKtS9dF86ILv41XXDW/QHOtxYyY4WSLyUqbyzXMyjIoBmMQiBCQymCEJENiyQZJyDSF9P5p/z87eDwiIedIbvFsz17es7Nzfjvve87o6+tFlQhor12JgBnTDMzjZhh1Rujv6qG9rcXoyCh0d3Q8f3hvDAatoRswAVaLFYvPF/Hy6TxmzbOYNk7BNGbCpGGSkU8mHvMxGqkDNwYuCiXAY/PA/c4N11sXnG+csM3ZsPBsAZYpC/fF9BxDqfRbPK4Z0qiNEhD2hhHyhBB0BxFwBeB3+rHkWGKg/ZUd9vkPPDpeOxpzAtMTpR4voeIISKwksB5b5zEWjmEtuIbVwCpW/J8R8UUYSDhCilCf3cuj9/1Hflp0ncH+fq78DueMgOzXLHLpb9jKbvGYSWaQiqeQjCYZGY/EGRkNRXmk+UZig9EEG9YMN0Dyq3cYAeUfZeyUdlD5WUGpWEIxX0Q+l0cuk8NmahPpL2keaU7HCUQ4euMeDF2RvHEqLZt15Cpq1RoOfh1gf28fe5U97JZ3GUnY7cI2QwksguiJEYb66Nb1RlWA1UFiq/tVLgGph7VD7tHvIxS+F3jJ6E0UMdRPE4OnqgB1ErSsv9a00nOo7YA63FfKQeIyLY9fMhD10oCc9282+s9BUoh8H8nv1kaUgZphxOXr8OutDNQK0gGGchLk0zVvK5BKEDHnB8k3tEoQaY5RckgrkIJ98rcoA8mvpkJ6oHZSR8khZ4EucP9IU3995Rg5qEuYeuo3kf4DPN2uYaSRfluaVX5+L/9F/gDpAVW0ZyYlvQAAAABJRU5ErkJggg==",
     "wiki_name": "Beer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beer",
     "equipment": null,

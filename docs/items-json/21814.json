@@ -1,7 +1,7 @@
 {
     "id": 21814,
     "name": "Ancient statuette",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-11-23",
     "duplicate": true,
     "examine": "A mysterious artifact of ancient times, of substantial value to emblem traders.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xs3WW08TQRQH8PabkPjGkx/OJzXGS9RovBGNJmKU4KWgohKCWKFJAUFRgd5SFQJC0aKFAhUvj2P/s/lvzx6mpKWrYZKT3c7Odn49Z3a2kcj+b1HjDtf1f96i5mn3MdPXddTGoztHTO+twzaIGB24YJL9503i2TkHSv+IluEeiCiAGBoz8uSsefHwdGBifMY1HUFUU8io6b97fAcKR0AYBA31njIDD07YsTi6QBgv0bnJbpMe79wbiiCcMzsEvew7Y0EcWw+E+7ITXSY/FatGjwVhjoNtbTb07Kp5aeevJgiTukCDsZM+COcu0PjgxQAI5wTp2VWLBsqAibi48ZkgjMNEXD8sbz3Q5NCV8EDMEvoAwpjixrq/HuKZ9z4KIGRNg97EJSjWHIjrQoPwyyWIqJHcjMkWFu15PdDb4Y4AKPPqdusg9GsQIplP+yDer0HvRq6GC0KglAARVapsme0/v81cccXMfp63fZ+KBXuUGKy52eR1H5R7fc/HNA2SKHw5MVzYACGYnXqgVPKGE6Rnr9O8L8d60CD0fy17a4eYhkCjN/cK8vYgZKgeaKm0amPsV8k8/jhmj12VJdvnAiGrAZDYFPXsqnmPvAuEkKDEz28Wwoj9KJiOzQV7TYKQnVBBRCEwAXZcloeo9s2MObSer/WrcoUGklnCUYJWymsWlASonDL5L8u2H/do0MTzSwLU42MaAuEJc4H4OiCGARRBROn1g9eGzFCD2UGrgfQ64mYnS8ayta/N+J9lhlguvDZCAxGFfkxAEF+qw1XQgWw8iFQg7NISRJSe3dE8kKtsBGHM/Yr3aC9+X7VxeWPeHtHPawThB0wnrvkg7EFN7ENBkCybzlBqacGP9PKCfZfxfSbXT8sgPGW7gTCmvF0xq1tlU1gv2cxgMwRmenHOTM1/sGNYrtBAumzolxnaLTgWIDzyAVB1D2p6H3KVTYJwjieP/wKwi3Pz5NPIsaGAXGWTIFyTf0skCOPk+mkRhLazBK6QGBkahE1RghhNgCIRbuu7hQbKkOsnFFCjTSMbwTJqY/9T00hX6Hv2dfsLoczIs6BwJ0IAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs3WXWsTQRQG4ORfeBPoT/CPKCpaxS/UqheCUBAErwQvRRRFKVREiiJFDaWhH8aK+EUIja0GmlBDGoPVttYQNUVvj7yzvJvZ09myabbSgcNOZmczT87MziSR2P4lKe5w3d/ykpSRG3slfX2PiSfXdsvw1V0miMg9OCrvho7Im/uHHSj9I7qGeyCiAGJozKt7h2RqsDcwMD7jno4gqiNkUjK39q1D4QoIg6DsQK+M3d5v+uLqAqG/ja5l+6U6dnZzKIJQZ3YIenn3oAGxbxgIzy1MnpfPUxel/uKSAWGMnT09JvToqnhp568mCIO6QBN3Dvgg1F2g/MNjARDqBOnRVUkGpgEDEYTPBKEfBuL64fSGgQqPjscHYpYwGEDos9hY9ddDevqtj0IfZE2DZobbIERHIK4LDUKbDSJq9H1OCtV5Uw8DfXh8IgCqTpzrHoR2DUKMz+Z9EJ/XoLn0qfhBmEp7Da38akrr7x8pLdYlXymbtrkvNXO1MehfHunzQbXsBR8TCwh9iAIIweyEgeZHTztBevSQ4n051oONwpejvb66EsBEAVUyZzYL8vYgZCgMVFlaNPF8bVmGillzvdmsmLZooPamqEdXxXvlXSCEDRpf+2YgjMGfC3KlUTb3bBAwmObYQbhiAK4hBFGpxrT0rcz67To7WwJC3QZhHQH0bG1JUt/z8rFeNe14ToNwbBCEXZqYSCC8YQTZKA5EDAMogojSIBwbdoYiZgclHMTzyZ4yTltqOed/1hlCfxwbXYP0tGkQD9VM66vsKKQDSL1+ik9PBkBE6dEdJRzE4wB9Bpre1PD1v/yjZK5o5z0bhGODIOxBHexDHsieNg1ihnBUMHCOzdQqJlwZihVElJ2hRuu3LDUbZlFzMwQm96kkr8tFHwUM3rCuQHjtNwLpRe0KOzvrQf2d70OudWSDUMc08l8iN057amMH6XWkQTzfNAjP2yDsQV2AUNZPgStsjB0EMTsaxOgAlEhwW98oNNAOe7piAUUtGhkFy2j3/U9FI12hn9nW5R/S01DGMZMPkAAAAABJRU5ErkJggg==",
     "wiki_name": "Ancient statuette",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_statuette",
     "equipment": null,

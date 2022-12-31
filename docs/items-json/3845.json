@@ -1,7 +1,7 @@
 {
     "id": 3845,
     "name": "Journal",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-17",
     "duplicate": false,
     "examine": "A daily journal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACU0lEQVR4Xu3WTWsTURQG4Nw/0XUgi0KgEAqllBBICSEERVx004ULkaKgCNJiNaQlobWLFg0YXIRu6i6gCwVd5Nddec/lzZxe7k1npvkQ8cBhQgszD+8581Eo/K9/v4xNeuVl7MH2ln26tSm9YpyxL3a2BUTUk82K9H5lY9kwY19VdwREFFMiCL23UV5Wag5EVCwloh6XXS8IZ+ybWlVapzSZjKatUQAR1V5fl26USvPCGXtUr0oTRJQG6fZTIghdKxalc6KMPd6tScdQGJsP0h1D4dwVOWYqYzuN+i1UaHR6wTUmNDqNyQgy9qS5KyCiZqU0665jSkjn3fGzPOkY22s1BERUmpRCd51Oqdt9bjudA/XMSlXGnrWbAiIqllIIFUsJ6QCE35W1tSwpORBRsZTuGp1OCbvT77+cwjLskLEXD1rSfkohVNqULj68lpHxKZ4ac/mwLU2Qj4qNLpYSGukABFwGDMrYj48cKITKmhIaiVxdHgomx7PH7Q4gBIVGF0vJRwExGLy99cLNkA7KPZVxMVwYACZ0V0qh0WFnAMLYcmBQyTsLT1kcfeAslE4JqQyH72VsOTGoBEQMXwG4kA+MjQ6I0ehUkuHnRw4Myt3yuJi+CH7//vVFGqNAAhqoU8L/sC+85e+RDst9q2CpsTdIQMN+/vg8bR+HBuT6uid/nwPGlTtB8iHFhWYKOALx/dsnaSAwJgC/3pzPF6MrOaGDAcKF1rDx+GravN3vsTfpyk8NEC44YXz+LCSdWPmpoYEgcKkYv0K4lWH8IuSvwCyi/gAiFuZ0htpuFgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xu3WW0sCURAH8M6HCEIIJELCB4kopDCSoiiwHnqQCJMysId6SLogdIGC3rpAQS9CfdQT/znM7jS46tnVjGhgcL2w+/N/Zi8jI//198vYsIdexs6u5OxMMUs9ZJyx+fVpAjEqV5iizs5nfhrmMBqkUd9hA8UZu1Ca6YhiUGZ2gnoylx4UzmG4GfX5cRu0Tkmi0tkUdZ9wxha25qg7gWRrkESlJsfs2PhoXJSxS9t56igUlk2DZOuUAEJj39NpLKlX9QaSs6QxOiWJ8QQZu1xeoPZBdZularUUJx1jV3cKAagbSqfUDgVQ7WCTQOGloacydq2ySCCJ6gSKQkkQ0gEI2zzUPabkQHFR7VJCOkf17QDmMUPGblSLiUAaBdDJSTmYJS9MqbZMoH6hAEI6AGHbA4NqD/JFSRASaTR2KSW5VPrIEeVmh0FJU0Iilxd7wVB7poMKL4I4KABJUgLi7KxCScXAoMJ7Fq6yeJW4KBCjJAipNJv7BIuJQYUgxvAtAAeSQI2SKSGRm+vDYIY850aWO+WRgjwItlutK2r8e06Cv5MoToevQQnS4XLPKjzQSEHC3t+bQWM5GMi/AeL+rk6f9wHjyu0gfJDigeYU8ArE2+s5NZaGT/WHh+P+YmSFO3QwOT8S9vLcsE+Pp9R8uieYm95KpwaInB+85yUcSDpRpVND8xwB9qMYXe1wQ8PoYsivwAyivgDGI5FCV02MsgAAAABJRU5ErkJggg==",
     "wiki_name": "Journal (Horror from the Deep)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Journal_(Horror_from_the_Deep)",
     "equipment": null,

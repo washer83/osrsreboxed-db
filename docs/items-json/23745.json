@@ -1,7 +1,7 @@
 {
     "id": 23745,
     "name": "Divine magic potion(4)",
-    "last_updated": "2021-09-30",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "4 doses of divine magic potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAD0klEQVR4XuVW6U4TURh13oRH8BGMPzQRN0QKgkpDgQIiKVBWsa7gEhAFKwERqYhUghBKrbVsYkBRVBAf6Njvjnfu0mmHsvzyJCdtZ+5899zzLdNDh/4fGNCvHCBoM5k6DJxxX0xzb1fIFMjAq2fnEXxwGl0dx9Fef8RmYyHocE5Ohlg7gtPpDPxcrMXG/BXGt8MXMNSbp6030Pz4oUOcHcPpdIYl5mu8ChNDhRjoPqutN2NkjuMIURNyMEGxhgtai3nxesDF0qevk8XsQpAQQSS7ueWyuIqKKni9NZY7K5FKVk99906iwFWMoqJLyqG4IHkf8d0RTg4ZqKvzKQyOjMBT7kWp24OSEjfy8lySCN0dp9q0AQ+k282vNzY2we9PsqkZTUkOj7+Gx+PF5VIPzhcU48QJM3VchO6OvWuOSPeggba2doWtrW0oK6tkqTp1Oh9Hjx6zfY6T4j4Mh6zfYk1apLqj35+biyKRSCQ5j4/JT7e7HHnnCq1N7NIkkwRlMRLSuSPuNzT4EQgELFK68vOLbMSIZ2SHSIy9+BSIh+Qg+hpKky6I6if9IZxq0xbCWt7ynKooA39WlxRBlDKXqwS5uWdsDiDDyf0U2DskTmLgR2QS258XFS52t2AqUINBX+kONnNMkwq+sWwpv7YWCmJ7ZUERs/qyD0s97Zi5UYvh+jL015SkOKq7tmMxMrgIcSX5Qo1Nm4Ikro72Y/lJALM36zDq92Dg6mXFXbWbMqXTEWrqvowPYns5YVISRK59enoH0Ts+jLVUYsjnRqij1qo/3uL29ZgVVEHMHS5IIglaCXYi1lmPibaqFJd4o/DfWdWPCWE3D/b1zRB+L8UVckFfxgbwefAB4l0NmOyotlzqqzbHQBZtbgd1qnKb3yci+LAcZ9SFUSpXn/dg4b6fFTa5NNJYZrmUZZvbQXVoLjqJrcVYCknM93djpqAXvaz1I7d9zKVQc7ni0i6cUcE7jARtzIaxtZAqiLgxM87SyVs/dteH6cAVy6VgrfnfaE9iBAxE5t6aYuz4T9B6eJgJotanOqL25y7RoOQu6dF3geTf1JkJbM5HLeqi6D4TRLOo7xarI+7SeKt3v10yFDE6maBkOtfDI1brUx1xl8LXhEu9VRf2z6Vf8VlsfoyY1ESRoG+To0wQtT6ljVyiIUlpo1cJF7PnwhagoTjDSOJkgfSi/TYVYrOIWn/p0XWWMnKHuqzHm+k/0p6QfMtHp9i0lsXRJy9s6jJyhjqMxHRXuHC9+NR+1Y8dxHyShZFLfAZRIcvrDsgdARFc3dROgEw9jhP+As+L98iiBUubAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4XuWUz2sTQRTHM6ccAiKFioEW+geIeFCKqNRWG5rENqTGxGZbk7YJEgxik1iTIAHxJ1T8hQhBPOjJgyBEPJiAeBD/rWcm27cz83Y2k8Tk5Bce2czOvPeZ77xZn+//EQM6MkHxYnJQMVhJJz3ejaR+iRi8fnQJHt47D+XCGdhNn9AUFkCn5ub65BpIpt0x+PN9E363rF68f7ECz+4vkPkMik8fGPIMLNPumAPz6+t1aB6E4HHtAplv5+ifxyjRE3IyEWIOAv38koK3T+zjo/NkmBGABAQPbjdaLsNt7+Qhl7vpuPPjc9Lpp7VYAtbXU8qmEEiuI56NMjnE4FbxthIvm03IZnNgWRm4lrQgHF6TIKg7pt7UCBNRu3G8VKpAudyNyl2oVPah+ekjZDK7sLFxA1ZXr8LFxWUJCPOhvFwzymshg2q1BrVaHWr1eu+5Wq3C1tY2xOMpuLwcgfn5c9p1GDxv48M757+Y4ym3O/R9q/UN2u0OdDqd7m8brM0sRCIxp4jumOTgQEN8ErzcEe/39krQaDScSKczEL0S18CINbJDHEYP75JYJCehc/gxUSDeP96bMPWmVsJavPIYKhSD2f2AAsSPjF/5xaWQZgOyTO67pHdI7ITBTDEAs2UpunDTKT9MRf1wZME/QDHjManCwrKlOBbcITDd4GMyUOCsz+UodW1gGFkIIUY07lCgJeEShnqb+h2nUerR6dxBoGOWH6ZjAuh4+KjTf3jF9f04lFQgnTsUaCrkdgkvCv4fqn9sCbsxWTDvBnEBJVQg7KUhrrlO6lcVbU6+siD5xo6ZOxqgTMAGigooHRCtNqBUhxLPbQhdBAveQLJLIzijCm9Y77gKbhAtUOqwjxCKANEaI4hB4sDbHQco7wFEXKLZRxDr644WKCGgKNAYXGIuABoyEN40rUunx+gS//444QHkXH3ZJeyjQ5h/bmwhAiXBKUByH00OBuUBVRRQOpjAybH1j07i+0ShZBh53oTcERLJ1aI6ADloHpP+Au8Lrm9mZgIgAAAAAElFTkSuQmCC",
     "wiki_name": "Divine magic potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Divine_magic_potion#4_dose",
     "equipment": null,

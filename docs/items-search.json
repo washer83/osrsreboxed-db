@@ -4291,7 +4291,7 @@
     },
     "716": {
         "id": 716,
-        "name": "Bull roarer",
+        "name": "Bullroarer",
         "type": "normal",
         "duplicate": false
     },
@@ -4369,7 +4369,7 @@
     },
     "729": {
         "id": 729,
-        "name": "Shamans tome",
+        "name": "Shaman's tome",
         "type": "normal",
         "duplicate": false
     },
@@ -31856,12 +31856,6 @@
     "5605": {
         "id": 5605,
         "name": "Knife",
-        "type": "normal",
-        "duplicate": false
-    },
-    "5606": {
-        "id": 5606,
-        "name": "Makeover voucher",
         "type": "normal",
         "duplicate": false
     },
@@ -65397,7 +65391,7 @@
         "id": 11851,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "11852": {
         "id": 11852,
@@ -65409,7 +65403,7 @@
         "id": 11853,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "11854": {
         "id": 11854,
@@ -65421,7 +65415,7 @@
         "id": 11855,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "11856": {
         "id": 11856,
@@ -65433,7 +65427,7 @@
         "id": 11857,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "11858": {
         "id": 11858,
@@ -65445,7 +65439,7 @@
         "id": 11859,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "11860": {
         "id": 11860,
@@ -65457,7 +65451,7 @@
         "id": 11861,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "11862": {
         "id": 11862,
@@ -70645,7 +70639,7 @@
     },
     "12727": {
         "id": 12727,
-        "name": "Event rpg",
+        "name": "Goblin paint cannon",
         "type": "normal",
         "duplicate": false
     },
@@ -75603,7 +75597,7 @@
         "id": 13580,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13581": {
         "id": 13581,
@@ -75615,7 +75609,7 @@
         "id": 13582,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13583": {
         "id": 13583,
@@ -75627,7 +75621,7 @@
         "id": 13584,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13585": {
         "id": 13585,
@@ -75639,7 +75633,7 @@
         "id": 13586,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13587": {
         "id": 13587,
@@ -75651,7 +75645,7 @@
         "id": 13588,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13589": {
         "id": 13589,
@@ -75663,7 +75657,7 @@
         "id": 13590,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13591": {
         "id": 13591,
@@ -75675,7 +75669,7 @@
         "id": 13592,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13593": {
         "id": 13593,
@@ -75687,7 +75681,7 @@
         "id": 13594,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13595": {
         "id": 13595,
@@ -75699,7 +75693,7 @@
         "id": 13596,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13597": {
         "id": 13597,
@@ -75711,7 +75705,7 @@
         "id": 13598,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13599": {
         "id": 13599,
@@ -75723,7 +75717,7 @@
         "id": 13600,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13601": {
         "id": 13601,
@@ -75735,7 +75729,7 @@
         "id": 13602,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13603": {
         "id": 13603,
@@ -75747,7 +75741,7 @@
         "id": 13604,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13605": {
         "id": 13605,
@@ -75759,7 +75753,7 @@
         "id": 13606,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13607": {
         "id": 13607,
@@ -75771,7 +75765,7 @@
         "id": 13608,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13609": {
         "id": 13609,
@@ -75783,7 +75777,7 @@
         "id": 13610,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13611": {
         "id": 13611,
@@ -75795,7 +75789,7 @@
         "id": 13612,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13613": {
         "id": 13613,
@@ -75807,7 +75801,7 @@
         "id": 13614,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13615": {
         "id": 13615,
@@ -75819,7 +75813,7 @@
         "id": 13616,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13617": {
         "id": 13617,
@@ -75831,7 +75825,7 @@
         "id": 13618,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13619": {
         "id": 13619,
@@ -75843,7 +75837,7 @@
         "id": 13620,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13621": {
         "id": 13621,
@@ -75855,7 +75849,7 @@
         "id": 13622,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13623": {
         "id": 13623,
@@ -75867,7 +75861,7 @@
         "id": 13624,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13625": {
         "id": 13625,
@@ -75879,7 +75873,7 @@
         "id": 13626,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13627": {
         "id": 13627,
@@ -75891,7 +75885,7 @@
         "id": 13628,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13629": {
         "id": 13629,
@@ -75903,7 +75897,7 @@
         "id": 13630,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13631": {
         "id": 13631,
@@ -75915,7 +75909,7 @@
         "id": 13632,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13633": {
         "id": 13633,
@@ -75927,7 +75921,7 @@
         "id": 13634,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13635": {
         "id": 13635,
@@ -75939,7 +75933,7 @@
         "id": 13636,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13637": {
         "id": 13637,
@@ -75951,7 +75945,7 @@
         "id": 13638,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13639": {
         "id": 13639,
@@ -76119,7 +76113,7 @@
         "id": 13668,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13669": {
         "id": 13669,
@@ -76131,7 +76125,7 @@
         "id": 13670,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13671": {
         "id": 13671,
@@ -76143,7 +76137,7 @@
         "id": 13672,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13673": {
         "id": 13673,
@@ -76155,7 +76149,7 @@
         "id": 13674,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13675": {
         "id": 13675,
@@ -76167,7 +76161,7 @@
         "id": 13676,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13677": {
         "id": 13677,
@@ -76179,7 +76173,7 @@
         "id": 13678,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "13679": {
         "id": 13679,
@@ -94705,7 +94699,7 @@
     },
     "16786": {
         "id": 16786,
-        "name": "Bull roarer",
+        "name": "Bullroarer",
         "type": "placeholder",
         "duplicate": true
     },
@@ -94777,7 +94771,7 @@
     },
     "16798": {
         "id": 16798,
-        "name": "Shamans tome",
+        "name": "Shaman's tome",
         "type": "placeholder",
         "duplicate": true
     },
@@ -97328,12 +97322,6 @@
     "17223": {
         "id": 17223,
         "name": "Sailing book",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "17224": {
-        "id": 17224,
-        "name": "Makeover voucher",
         "type": "placeholder",
         "duplicate": true
     },
@@ -102721,7 +102709,7 @@
     },
     "18123": {
         "id": 18123,
-        "name": "Event rpg",
+        "name": "Goblin paint cannon",
         "type": "placeholder",
         "duplicate": true
     },
@@ -119607,7 +119595,7 @@
         "id": 21063,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "21064": {
         "id": 21064,
@@ -119625,7 +119613,7 @@
         "id": 21066,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "21067": {
         "id": 21067,
@@ -119643,7 +119631,7 @@
         "id": 21069,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "21070": {
         "id": 21070,
@@ -119661,7 +119649,7 @@
         "id": 21072,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "21073": {
         "id": 21073,
@@ -119679,7 +119667,7 @@
         "id": 21075,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "21076": {
         "id": 21076,
@@ -119697,7 +119685,7 @@
         "id": 21078,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "21079": {
         "id": 21079,
@@ -140487,7 +140475,7 @@
         "id": 24745,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "24746": {
         "id": 24746,
@@ -140505,7 +140493,7 @@
         "id": 24748,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "24749": {
         "id": 24749,
@@ -140523,7 +140511,7 @@
         "id": 24751,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "24752": {
         "id": 24752,
@@ -140541,7 +140529,7 @@
         "id": 24754,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "24755": {
         "id": 24755,
@@ -140559,7 +140547,7 @@
         "id": 24757,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "24758": {
         "id": 24758,
@@ -140577,7 +140565,7 @@
         "id": 24760,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "24761": {
         "id": 24761,
@@ -142341,7 +142329,7 @@
         "id": 25071,
         "name": "Graceful hood",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "25072": {
         "id": 25072,
@@ -142359,7 +142347,7 @@
         "id": 25074,
         "name": "Graceful cape",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "25075": {
         "id": 25075,
@@ -142377,7 +142365,7 @@
         "id": 25077,
         "name": "Graceful top",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "25078": {
         "id": 25078,
@@ -142395,7 +142383,7 @@
         "id": 25080,
         "name": "Graceful legs",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "25081": {
         "id": 25081,
@@ -142413,7 +142401,7 @@
         "id": 25083,
         "name": "Graceful gloves",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "25084": {
         "id": 25084,
@@ -142431,7 +142419,7 @@
         "id": 25086,
         "name": "Graceful boots",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "25087": {
         "id": 25087,
@@ -144610,6 +144598,60 @@
         "name": "Runescroll of bloodbark",
         "type": "placeholder",
         "duplicate": true
+    },
+    "25484": {
+        "id": 25484,
+        "name": "Webweaver bow (u)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "25485": {
+        "id": 25485,
+        "name": "Webweaver bow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "25486": {
+        "id": 25486,
+        "name": "Ursine chainmace (u)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "25487": {
+        "id": 25487,
+        "name": "Ursine chainmace",
+        "type": "normal",
+        "duplicate": false
+    },
+    "25488": {
+        "id": 25488,
+        "name": "Accursed sceptre (u)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "25489": {
+        "id": 25489,
+        "name": "Accursed sceptre",
+        "type": "normal",
+        "duplicate": false
+    },
+    "25490": {
+        "id": 25490,
+        "name": "Voidwaker",
+        "type": "normal",
+        "duplicate": false
+    },
+    "25491": {
+        "id": 25491,
+        "name": "Accursed sceptre (au)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "25492": {
+        "id": 25492,
+        "name": "Accursed sceptre (a)",
+        "type": "normal",
+        "duplicate": false
     },
     "25498": {
         "id": 25498,
@@ -154551,6 +154593,2292 @@
         "id": 27203,
         "name": "Menaphite remedy(4)",
         "type": "noted",
+        "duplicate": true
+    },
+    "27204": {
+        "id": 27204,
+        "name": "Menaphite remedy(4)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27205": {
+        "id": 27205,
+        "name": "Menaphite remedy(3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27206": {
+        "id": 27206,
+        "name": "Menaphite remedy(3)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27207": {
+        "id": 27207,
+        "name": "Menaphite remedy(3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27208": {
+        "id": 27208,
+        "name": "Menaphite remedy(2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27209": {
+        "id": 27209,
+        "name": "Menaphite remedy(2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27210": {
+        "id": 27210,
+        "name": "Menaphite remedy(2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27211": {
+        "id": 27211,
+        "name": "Menaphite remedy(1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27212": {
+        "id": 27212,
+        "name": "Menaphite remedy(1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27213": {
+        "id": 27213,
+        "name": "Menaphite remedy(1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27214": {
+        "id": 27214,
+        "name": "Scarab dung",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27215": {
+        "id": 27215,
+        "name": "Scarab dung",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27216": {
+        "id": 27216,
+        "name": "Fossilised dung",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27217": {
+        "id": 27217,
+        "name": "Fossilised dung",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27218": {
+        "id": 27218,
+        "name": "Fossilised dung",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27219": {
+        "id": 27219,
+        "name": "Fang",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27220": {
+        "id": 27220,
+        "name": "Fang",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27221": {
+        "id": 27221,
+        "name": "Big banana",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27222": {
+        "id": 27222,
+        "name": "Big banana",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27223": {
+        "id": 27223,
+        "name": "Eldritch ashes",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27224": {
+        "id": 27224,
+        "name": "Eldritch ashes",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27225": {
+        "id": 27225,
+        "name": "Grain",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27226": {
+        "id": 27226,
+        "name": "Masori mask",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27227": {
+        "id": 27227,
+        "name": "Masori mask",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27228": {
+        "id": 27228,
+        "name": "Masori mask",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27229": {
+        "id": 27229,
+        "name": "Masori body",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27230": {
+        "id": 27230,
+        "name": "Masori body",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27231": {
+        "id": 27231,
+        "name": "Masori body",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27232": {
+        "id": 27232,
+        "name": "Masori chaps",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27233": {
+        "id": 27233,
+        "name": "Masori chaps",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27234": {
+        "id": 27234,
+        "name": "Masori chaps",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27235": {
+        "id": 27235,
+        "name": "Masori mask (f)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27236": {
+        "id": 27236,
+        "name": "Masori mask (f)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27237": {
+        "id": 27237,
+        "name": "Masori mask (f)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27238": {
+        "id": 27238,
+        "name": "Masori body (f)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27239": {
+        "id": 27239,
+        "name": "Masori body (f)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27240": {
+        "id": 27240,
+        "name": "Masori body (f)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27241": {
+        "id": 27241,
+        "name": "Masori chaps (f)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27242": {
+        "id": 27242,
+        "name": "Masori chaps (f)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27243": {
+        "id": 27243,
+        "name": "Masori chaps (f)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27244": {
+        "id": 27244,
+        "name": "Lightbearer",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27245": {
+        "id": 27245,
+        "name": "Osmumten's fang",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27246": {
+        "id": 27246,
+        "name": "Osmumten's fang (or)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27247": {
+        "id": 27247,
+        "name": "Osmumten's fang (or)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27248": {
+        "id": 27248,
+        "name": "Cursed phalanx",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27249": {
+        "id": 27249,
+        "name": "Cursed phalanx",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27250": {
+        "id": 27250,
+        "name": "Elidinis' ward",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27251": {
+        "id": 27251,
+        "name": "Elidinis' ward (f)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27252": {
+        "id": 27252,
+        "name": "Elidinis' ward (f)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27253": {
+        "id": 27253,
+        "name": "Elidinis' ward (or)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27254": {
+        "id": 27254,
+        "name": "Elidinis' ward (or)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27255": {
+        "id": 27255,
+        "name": "Menaphite ornament kit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27256": {
+        "id": 27256,
+        "name": "Menaphite ornament kit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27257": {
+        "id": 27257,
+        "name": "Icthlarin's shroud (tier 1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27258": {
+        "id": 27258,
+        "name": "Icthlarin's shroud (tier 1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27259": {
+        "id": 27259,
+        "name": "Icthlarin's shroud (tier 2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27260": {
+        "id": 27260,
+        "name": "Icthlarin's shroud (tier 2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27261": {
+        "id": 27261,
+        "name": "Icthlarin's shroud (tier 3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27262": {
+        "id": 27262,
+        "name": "Icthlarin's shroud (tier 3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27263": {
+        "id": 27263,
+        "name": "Icthlarin's shroud (tier 4)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27264": {
+        "id": 27264,
+        "name": "Icthlarin's shroud (tier 4)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27265": {
+        "id": 27265,
+        "name": "Icthlarin's shroud (tier 5)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27266": {
+        "id": 27266,
+        "name": "Icthlarin's shroud (tier 5)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27267": {
+        "id": 27267,
+        "name": "Icthlarin's hood (tier 5)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27268": {
+        "id": 27268,
+        "name": "Icthlarin's hood (tier 5)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27269": {
+        "id": 27269,
+        "name": "Armadylean plate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27270": {
+        "id": 27270,
+        "name": "Armadylean plate",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27271": {
+        "id": 27271,
+        "name": "Armadylean plate",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27272": {
+        "id": 27272,
+        "name": "Lily of the sands",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27273": {
+        "id": 27273,
+        "name": "Lily of the sands",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27274": {
+        "id": 27274,
+        "name": "Lily of the sands",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27275": {
+        "id": 27275,
+        "name": "Tumeken's shadow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27276": {
+        "id": 27276,
+        "name": "Tumeken's shadow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27277": {
+        "id": 27277,
+        "name": "Tumeken's shadow (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27278": {
+        "id": 27278,
+        "name": "Tumeken's shadow (uncharged)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27279": {
+        "id": 27279,
+        "name": "Thread of elidinis",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27280": {
+        "id": 27280,
+        "name": "Thread of elidinis",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27281": {
+        "id": 27281,
+        "name": "Divine rune pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27282": {
+        "id": 27282,
+        "name": "Divine rune pouch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27283": {
+        "id": 27283,
+        "name": "Breach of the scarab",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27284": {
+        "id": 27284,
+        "name": "Breach of the scarab",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27285": {
+        "id": 27285,
+        "name": "Eye of the corruptor",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27286": {
+        "id": 27286,
+        "name": "Eye of the corruptor",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27287": {
+        "id": 27287,
+        "name": "Keris partisan of corruption",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27288": {
+        "id": 27288,
+        "name": "Keris partisan of corruption",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27289": {
+        "id": 27289,
+        "name": "Jewel of the sun",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27290": {
+        "id": 27290,
+        "name": "Jewel of the sun",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27291": {
+        "id": 27291,
+        "name": "Keris partisan of the sun",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27292": {
+        "id": 27292,
+        "name": "Keris partisan of the sun",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27293": {
+        "id": 27293,
+        "name": "Cache of runes",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27294": {
+        "id": 27294,
+        "name": "Cache of runes",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27295": {
+        "id": 27295,
+        "name": "Water container",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27296": {
+        "id": 27296,
+        "name": "Mirror",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27297": {
+        "id": 27297,
+        "name": "Neutralising potion",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27298": {
+        "id": 27298,
+        "name": "Maisa's message",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27299": {
+        "id": 27299,
+        "name": "Antique lamp",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27300": {
+        "id": 27300,
+        "name": "Akila's journal",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27301": {
+        "id": 27301,
+        "name": "Akila's journal",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27302": {
+        "id": 27302,
+        "name": "Het's capture",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27303": {
+        "id": 27303,
+        "name": "Het's capture",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27304": {
+        "id": 27304,
+        "name": "Apmeken's capture",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27305": {
+        "id": 27305,
+        "name": "Apmeken's capture",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27306": {
+        "id": 27306,
+        "name": "Scabaras' capture",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27307": {
+        "id": 27307,
+        "name": "Scabaras' capture",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27308": {
+        "id": 27308,
+        "name": "Crondis' capture",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27309": {
+        "id": 27309,
+        "name": "Crondis' capture",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27310": {
+        "id": 27310,
+        "name": "The wardens",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27311": {
+        "id": 27311,
+        "name": "The wardens",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27312": {
+        "id": 27312,
+        "name": "The jackal's torch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27313": {
+        "id": 27313,
+        "name": "The jackal's torch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27314": {
+        "id": 27314,
+        "name": "Supplies",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27315": {
+        "id": 27315,
+        "name": "Nectar (4)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27316": {
+        "id": 27316,
+        "name": "Nectar (4)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27317": {
+        "id": 27317,
+        "name": "Nectar (3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27318": {
+        "id": 27318,
+        "name": "Nectar (3)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27319": {
+        "id": 27319,
+        "name": "Nectar (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27320": {
+        "id": 27320,
+        "name": "Nectar (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27321": {
+        "id": 27321,
+        "name": "Nectar (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27322": {
+        "id": 27322,
+        "name": "Nectar (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27323": {
+        "id": 27323,
+        "name": "Silk dressing (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27324": {
+        "id": 27324,
+        "name": "Silk dressing (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27325": {
+        "id": 27325,
+        "name": "Silk dressing (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27326": {
+        "id": 27326,
+        "name": "Silk dressing (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27327": {
+        "id": 27327,
+        "name": "Tears of elidinis (4)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27328": {
+        "id": 27328,
+        "name": "Tears of elidinis (4)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27329": {
+        "id": 27329,
+        "name": "Tears of elidinis (3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27330": {
+        "id": 27330,
+        "name": "Tears of elidinis (3)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27331": {
+        "id": 27331,
+        "name": "Tears of elidinis (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27332": {
+        "id": 27332,
+        "name": "Tears of elidinis (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27333": {
+        "id": 27333,
+        "name": "Tears of elidinis (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27334": {
+        "id": 27334,
+        "name": "Tears of elidinis (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27335": {
+        "id": 27335,
+        "name": "Blessed crystal scarab (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27336": {
+        "id": 27336,
+        "name": "Blessed crystal scarab (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27337": {
+        "id": 27337,
+        "name": "Blessed crystal scarab (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27338": {
+        "id": 27338,
+        "name": "Blessed crystal scarab (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27339": {
+        "id": 27339,
+        "name": "Liquid adrenaline (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27340": {
+        "id": 27340,
+        "name": "Liquid adrenaline (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27341": {
+        "id": 27341,
+        "name": "Liquid adrenaline (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27342": {
+        "id": 27342,
+        "name": "Liquid adrenaline (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27343": {
+        "id": 27343,
+        "name": "Smelling salts (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27344": {
+        "id": 27344,
+        "name": "Smelling salts (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27345": {
+        "id": 27345,
+        "name": "Smelling salts (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27346": {
+        "id": 27346,
+        "name": "Smelling salts (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27347": {
+        "id": 27347,
+        "name": "Ambrosia (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27348": {
+        "id": 27348,
+        "name": "Ambrosia (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27349": {
+        "id": 27349,
+        "name": "Ambrosia (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27350": {
+        "id": 27350,
+        "name": "Ambrosia (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27351": {
+        "id": 27351,
+        "name": "Honey locust",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27352": {
+        "id": 27352,
+        "name": "Tumeken's guardian",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27353": {
+        "id": 27353,
+        "name": "Tumeken's guardian",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27354": {
+        "id": 27354,
+        "name": "Elidinis' guardian",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27355": {
+        "id": 27355,
+        "name": "Masori armour set (f)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27356": {
+        "id": 27356,
+        "name": "Masori armour set (f)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27357": {
+        "id": 27357,
+        "name": "Masori armour set (f)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27358": {
+        "id": 27358,
+        "name": "Tome of fire",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27359": {
+        "id": 27359,
+        "name": "Masori assembler (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27360": {
+        "id": 27360,
+        "name": "Masori assembler (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27361": {
+        "id": 27361,
+        "name": "Masori assembler max cape (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27362": {
+        "id": 27362,
+        "name": "Masori assembler max cape (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27363": {
+        "id": 27363,
+        "name": "Masori assembler max cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27364": {
+        "id": 27364,
+        "name": "Masori assembler max cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27365": {
+        "id": 27365,
+        "name": "Masori assembler max cape (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27366": {
+        "id": 27366,
+        "name": "Masori assembler max hood",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27367": {
+        "id": 27367,
+        "name": "Masori assembler max hood",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27368": {
+        "id": 27368,
+        "name": "Dawn scarab egg",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27369": {
+        "id": 27369,
+        "name": "Ancient key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27370": {
+        "id": 27370,
+        "name": "Mask of rebirth",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27371": {
+        "id": 27371,
+        "name": "Mask of rebirth",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27372": {
+        "id": 27372,
+        "name": "Masori crafting kit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27373": {
+        "id": 27373,
+        "name": "Masori crafting kit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27374": {
+        "id": 27374,
+        "name": "Masori assembler",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27375": {
+        "id": 27375,
+        "name": "Masori assembler",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27376": {
+        "id": 27376,
+        "name": "Masori assembler (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27377": {
+        "id": 27377,
+        "name": "Remnant of akkha",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27378": {
+        "id": 27378,
+        "name": "Remnant of ba-ba",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27379": {
+        "id": 27379,
+        "name": "Remnant of kephri",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27380": {
+        "id": 27380,
+        "name": "Remnant of zebak",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27381": {
+        "id": 27381,
+        "name": "Ancient remnant",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27382": {
+        "id": 27382,
+        "name": "Akkhito",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27383": {
+        "id": 27383,
+        "name": "Babi",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27384": {
+        "id": 27384,
+        "name": "Kephriti",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27385": {
+        "id": 27385,
+        "name": "Zebo",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27386": {
+        "id": 27386,
+        "name": "Tumeken's damaged guardian",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27387": {
+        "id": 27387,
+        "name": "Elidinis' damaged guardian",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27388": {
+        "id": 27388,
+        "name": "Adventurer's top (t1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27389": {
+        "id": 27389,
+        "name": "Adventurer's top (t1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27390": {
+        "id": 27390,
+        "name": "Adventurer's trousers (t1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27391": {
+        "id": 27391,
+        "name": "Adventurer's trousers (t1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27392": {
+        "id": 27392,
+        "name": "Adventurer's hood (t1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27393": {
+        "id": 27393,
+        "name": "Adventurer's hood (t1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27394": {
+        "id": 27394,
+        "name": "Adventurer's boots (t1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27395": {
+        "id": 27395,
+        "name": "Adventurer's boots (t1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27396": {
+        "id": 27396,
+        "name": "Adventurer's top (t2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27397": {
+        "id": 27397,
+        "name": "Adventurer's top (t2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27398": {
+        "id": 27398,
+        "name": "Adventurer's trousers (t2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27399": {
+        "id": 27399,
+        "name": "Adventurer's trousers (t2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27400": {
+        "id": 27400,
+        "name": "Adventurer's hood (t2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27401": {
+        "id": 27401,
+        "name": "Adventurer's hood (t2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27402": {
+        "id": 27402,
+        "name": "Adventurer's boots (t2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27403": {
+        "id": 27403,
+        "name": "Adventurer's boots (t2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27404": {
+        "id": 27404,
+        "name": "Adventurer's top (t3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27405": {
+        "id": 27405,
+        "name": "Adventurer's top (t3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27406": {
+        "id": 27406,
+        "name": "Adventurer's trousers (t3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27407": {
+        "id": 27407,
+        "name": "Adventurer's trousers (t3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27408": {
+        "id": 27408,
+        "name": "Adventurer's hood (t3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27409": {
+        "id": 27409,
+        "name": "Adventurer's hood (t3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27410": {
+        "id": 27410,
+        "name": "Adventurer's boots (t3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27411": {
+        "id": 27411,
+        "name": "Adventurer's boots (t3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27412": {
+        "id": 27412,
+        "name": "Adventurer's vambraces",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27413": {
+        "id": 27413,
+        "name": "Adventurer's vambraces",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27414": {
+        "id": 27414,
+        "name": "Giant stopwatch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27415": {
+        "id": 27415,
+        "name": "Giant stopwatch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27416": {
+        "id": 27416,
+        "name": "Speedy teleport scroll",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27417": {
+        "id": 27417,
+        "name": "Speedy teleport scroll",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27418": {
+        "id": 27418,
+        "name": "Bronze speedrun trophy",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27419": {
+        "id": 27419,
+        "name": "Bronze speedrun trophy",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27420": {
+        "id": 27420,
+        "name": "Silver speedrun trophy",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27421": {
+        "id": 27421,
+        "name": "Silver speedrun trophy",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27422": {
+        "id": 27422,
+        "name": "Gold speedrun trophy",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27423": {
+        "id": 27423,
+        "name": "Gold speedrun trophy",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27424": {
+        "id": 27424,
+        "name": "Platinum speedrun trophy",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27425": {
+        "id": 27425,
+        "name": "Platinum speedrun trophy",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27426": {
+        "id": 27426,
+        "name": "Dynamite(p)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27427": {
+        "id": 27427,
+        "name": "Clue scroll (special)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27428": {
+        "id": 27428,
+        "name": "Hood of ruin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27429": {
+        "id": 27429,
+        "name": "Hood of ruin",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27430": {
+        "id": 27430,
+        "name": "Robe top of ruin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27431": {
+        "id": 27431,
+        "name": "Robe top of ruin",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27432": {
+        "id": 27432,
+        "name": "Robe bottom of ruin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27433": {
+        "id": 27433,
+        "name": "Robe bottom of ruin",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27434": {
+        "id": 27434,
+        "name": "Gloves of ruin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27435": {
+        "id": 27435,
+        "name": "Gloves of ruin",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27436": {
+        "id": 27436,
+        "name": "Socks of ruin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27437": {
+        "id": 27437,
+        "name": "Socks of ruin",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27438": {
+        "id": 27438,
+        "name": "Cloak of ruin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27439": {
+        "id": 27439,
+        "name": "Cloak of ruin",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27440": {
+        "id": 27440,
+        "name": "Infinite money bag",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27441": {
+        "id": 27441,
+        "name": "Infinite money bag",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27442": {
+        "id": 27442,
+        "name": "Adventurer's cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27443": {
+        "id": 27443,
+        "name": "Adventurer's cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27444": {
+        "id": 27444,
+        "name": "Graceful hood",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27445": {
+        "id": 27445,
+        "name": "Graceful hood",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27446": {
+        "id": 27446,
+        "name": "Graceful hood",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27447": {
+        "id": 27447,
+        "name": "Graceful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27448": {
+        "id": 27448,
+        "name": "Graceful cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27449": {
+        "id": 27449,
+        "name": "Graceful cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27450": {
+        "id": 27450,
+        "name": "Graceful top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27451": {
+        "id": 27451,
+        "name": "Graceful top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27452": {
+        "id": 27452,
+        "name": "Graceful top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27453": {
+        "id": 27453,
+        "name": "Graceful legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27454": {
+        "id": 27454,
+        "name": "Graceful legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27455": {
+        "id": 27455,
+        "name": "Graceful legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27456": {
+        "id": 27456,
+        "name": "Graceful gloves",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27457": {
+        "id": 27457,
+        "name": "Graceful gloves",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27458": {
+        "id": 27458,
+        "name": "Graceful gloves",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27459": {
+        "id": 27459,
+        "name": "Graceful boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27460": {
+        "id": 27460,
+        "name": "Graceful boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27461": {
+        "id": 27461,
+        "name": "Graceful boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27462": {
+        "id": 27462,
+        "name": "Fresh start helper",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27463": {
+        "id": 27463,
+        "name": "Treat cauldron",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27464": {
+        "id": 27464,
+        "name": "Treat cauldron",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27465": {
+        "id": 27465,
+        "name": "Treat cauldron",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27466": {
+        "id": 27466,
+        "name": "Treat cauldron",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27467": {
+        "id": 27467,
+        "name": "Treat cauldron",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27468": {
+        "id": 27468,
+        "name": "Treat cauldron",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27469": {
+        "id": 27469,
+        "name": "Treat cauldron",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27470": {
+        "id": 27470,
+        "name": "Treat cauldron",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27471": {
+        "id": 27471,
+        "name": "Treat cauldron",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27472": {
+        "id": 27472,
+        "name": "Treat cauldron",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27473": {
+        "id": 27473,
+        "name": "Witch hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27474": {
+        "id": 27474,
+        "name": "Witch hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27475": {
+        "id": 27475,
+        "name": "Witch top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27476": {
+        "id": 27476,
+        "name": "Witch top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27477": {
+        "id": 27477,
+        "name": "Witch robes",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27478": {
+        "id": 27478,
+        "name": "Witch robes",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27479": {
+        "id": 27479,
+        "name": "Witch boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27480": {
+        "id": 27480,
+        "name": "Witch boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27481": {
+        "id": 27481,
+        "name": "Witch cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27482": {
+        "id": 27482,
+        "name": "Witch cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27483": {
+        "id": 27483,
+        "name": "Terrifying charm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27484": {
+        "id": 27484,
+        "name": "Terrifying charm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27485": {
+        "id": 27485,
+        "name": "Bruised banana",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27486": {
+        "id": 27486,
+        "name": "Bruised banana",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27487": {
+        "id": 27487,
+        "name": "Bruised banana",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27488": {
+        "id": 27488,
+        "name": "Smelly sock",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27489": {
+        "id": 27489,
+        "name": "Smelly sock",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27490": {
+        "id": 27490,
+        "name": "Smelly sock",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27491": {
+        "id": 27491,
+        "name": "Spooky egg",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27492": {
+        "id": 27492,
+        "name": "Spooky egg",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27493": {
+        "id": 27493,
+        "name": "Spooky egg",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27494": {
+        "id": 27494,
+        "name": "Old wool",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27495": {
+        "id": 27495,
+        "name": "Old wool",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27496": {
+        "id": 27496,
+        "name": "Old wool",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27497": {
+        "id": 27497,
+        "name": "Halloween wig",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27498": {
+        "id": 27498,
+        "name": "Halloween wig",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27499": {
+        "id": 27499,
+        "name": "Halloween wig",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27500": {
+        "id": 27500,
+        "name": "Halloween wig",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27501": {
+        "id": 27501,
+        "name": "Halloween wig",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27502": {
+        "id": 27502,
+        "name": "Halloween wig",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27503": {
+        "id": 27503,
+        "name": "Halloween wig",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27504": {
+        "id": 27504,
+        "name": "Halloween wig",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27505": {
+        "id": 27505,
+        "name": "Halloween wig",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27506": {
+        "id": 27506,
+        "name": "Halloween wig",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27507": {
+        "id": 27507,
+        "name": "Halloween wig",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27508": {
+        "id": 27508,
+        "name": "Halloween wig",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27509": {
+        "id": 27509,
+        "name": "Divine rune pouch (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27510": {
+        "id": 27510,
+        "name": "Divine rune pouch (l)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27511": {
+        "id": 27511,
+        "name": "Kasonde's journal",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27512": {
+        "id": 27512,
+        "name": "Kasonde's journal",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27513": {
+        "id": 27513,
+        "name": "Word translations",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27514": {
+        "id": 27514,
+        "name": "Word translations",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27515": {
+        "id": 27515,
+        "name": "Dirty note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27516": {
+        "id": 27516,
+        "name": "Dirty note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27517": {
+        "id": 27517,
+        "name": "Dirty note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27518": {
+        "id": 27518,
+        "name": "Warning note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27519": {
+        "id": 27519,
+        "name": "Stone tablet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27520": {
+        "id": 27520,
+        "name": "Stone tablet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27521": {
+        "id": 27521,
+        "name": "Stone tablet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27522": {
+        "id": 27522,
+        "name": "Stone tablet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27523": {
+        "id": 27523,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27524": {
+        "id": 27524,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27525": {
+        "id": 27525,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27526": {
+        "id": 27526,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27527": {
+        "id": 27527,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27528": {
+        "id": 27528,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27529": {
+        "id": 27529,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27530": {
+        "id": 27530,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27531": {
+        "id": 27531,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27532": {
+        "id": 27532,
+        "name": "Compass",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27533": {
+        "id": 27533,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27534": {
+        "id": 27534,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27535": {
+        "id": 27535,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27536": {
+        "id": 27536,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27537": {
+        "id": 27537,
+        "name": "Wood carving",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27543": {
+        "id": 27543,
+        "name": "Antique lamp",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27544": {
+        "id": 27544,
+        "name": "Ghommal's lucky penny",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27545": {
+        "id": 27545,
+        "name": "Ghommal's lucky penny",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27546": {
+        "id": 27546,
+        "name": "Anim offhand",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27547": {
+        "id": 27547,
+        "name": "Anim offhand",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27548": {
+        "id": 27548,
+        "name": "Anim offhand",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27549": {
+        "id": 27549,
+        "name": "Anim offhand",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27550": {
+        "id": 27550,
+        "name": "Ghommal's avernic defender 5",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27551": {
+        "id": 27551,
+        "name": "Ghommal's avernic defender 5 (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27552": {
+        "id": 27552,
+        "name": "Ghommal's avernic defender 6",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27553": {
+        "id": 27553,
+        "name": "Ghommal's avernic defender 6 (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27554": {
+        "id": 27554,
+        "name": "Perfect gingerbread",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27555": {
+        "id": 27555,
+        "name": "Broken gingerbread",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27556": {
+        "id": 27556,
+        "name": "Very broken gingerbread",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27557": {
+        "id": 27557,
+        "name": "Shattered gingerbread",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27558": {
+        "id": 27558,
+        "name": "Sack of coal",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27559": {
+        "id": 27559,
+        "name": "Snowball",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27560": {
+        "id": 27560,
+        "name": "Golden snowball",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27561": {
+        "id": 27561,
+        "name": "Light beer",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27562": {
+        "id": 27562,
+        "name": "Mulled pine",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27563": {
+        "id": 27563,
+        "name": "Eggnog",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27564": {
+        "id": 27564,
+        "name": "Santa's list",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27565": {
+        "id": 27565,
+        "name": "Santa's list",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27566": {
+        "id": 27566,
+        "name": "Christmas jumper",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27567": {
+        "id": 27567,
+        "name": "Christmas jumper",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27568": {
+        "id": 27568,
+        "name": "Snow goggles & hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27569": {
+        "id": 27569,
+        "name": "Snow goggles & hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27570": {
+        "id": 27570,
+        "name": "Sack of coal",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27571": {
+        "id": 27571,
+        "name": "Sack of coal",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27572": {
+        "id": 27572,
+        "name": "Festive nutcracker top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27573": {
+        "id": 27573,
+        "name": "Festive nutcracker top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27574": {
+        "id": 27574,
+        "name": "Festive nutcracker trousers",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27575": {
+        "id": 27575,
+        "name": "Festive nutcracker trousers",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27576": {
+        "id": 27576,
+        "name": "Festive nutcracker hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27577": {
+        "id": 27577,
+        "name": "Festive nutcracker hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27578": {
+        "id": 27578,
+        "name": "Festive nutcracker boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27579": {
+        "id": 27579,
+        "name": "Festive nutcracker boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27580": {
+        "id": 27580,
+        "name": "Festive nutcracker staff",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27581": {
+        "id": 27581,
+        "name": "Festive nutcracker staff",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27582": {
+        "id": 27582,
+        "name": "Sweet nutcracker top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27583": {
+        "id": 27583,
+        "name": "Sweet nutcracker trousers",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27584": {
+        "id": 27584,
+        "name": "Sweet nutcracker hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27585": {
+        "id": 27585,
+        "name": "Sweet nutcracker boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27586": {
+        "id": 27586,
+        "name": "Sweet nutcracker staff",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27587": {
+        "id": 27587,
+        "name": "Sweet nutcracker staff",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27588": {
+        "id": 27588,
+        "name": "Festive games crown",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27589": {
+        "id": 27589,
+        "name": "Festive games crown",
+        "type": "placeholder",
         "duplicate": true
     }
 }

@@ -1,7 +1,7 @@
 {
     "id": 16079,
     "name": "3rd age range top",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-05",
     "duplicate": true,
     "examine": "Fabulously ancient range protection crafted from white dragonhide.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xu2V7UtaYRjGO/9Jn4OBDPoQfjGGDClkoiQmyUxKyZLMSisnrhfXy0LXehm1VqtW1GK11hjthT7sw/6sa7vu9pxzSm3mGuyDF9yo59zneX7nuu/7sa6upppqqklJQ3Fcp5vk3lgahiJBJLoDiAa86Gxzwet0XLORJnldPrfkOWzWMrlVAWtI9YQw2tuFdCyMsL8NAY8TnhZ7CceM6Au2Sy7hVa6lvv73xhc5fleLrEX4CqCMxbPxiO6O2oQLjSYSGOzrRW93N7oCAXR4vYhFIsiOjOg5dOgqPJ1TTvM7wS4DF+kXRHYEg4O9GIhHJfpDHTqQ634zWu/ZZGMFRRCCMezWJikTNzLD8Hk6RwgG11L3CFMGSEM+n8PUZBqZTBLDwzGMjiaQTg/Jb7UJoZ5kM8jncsgkk0gPDQlcTygEW1OjDsVrvE8QOqKCv83OlIFRuqBOpeIIh4PiFKEmxsdksfnJSYGhQ2YYuvOw3Qefx4M2l0t3UTljhmEU91ZZaVhenhd36BaBCEfXaPXS0zlxpjA9rUPNjY9juD8m5WMvEYouTj1K6wDsKfWd7hC4YqDV1YKUaWlxTo+ZmazUfW1hARvLywLGDQnGoFOEYz8Rig4oAAVEt9iPvMeyVghEGY3IBThlHH+O/vezM4Ei0PPZWT1YSgISjFNHaD5rDtXUpY+DP+gisfiM+XF+jt2Xa/h0eIj3e7tYfVaQ4DWCToyNySdzeaCaXSIUXVbHx42AlNQUKMDDrS3svVrHztqquMDNXxTyUraZx1npq4FoVHJzyZi4qtxhmF+uggmrRBo+Hx2JI69XVrC+uIj9jQ0pIcvGCAeD+qY8WOmUOgzNIFXAmMtlXPt2+gEf3x7g3fY2DjY3dcfoFCfOKIUBZO6ZKkAoDe4uP1r8bjS7zH+mGr4cH+P0YF8a/OvJicAcv9mR44ATZgBd5Kv4CxhKg6vTB4f3AayO5ktvzV7hRLFfOFWpeFwOxk6/H3ctlitAV/uwammwe1oFxmJtvAR0FYZNzL5xO52409BQBHRL0mBrtaPRZhxgpcpQKm7BjVLSpHfMQOa75jKUCnPuLeqfvnF1+q9gaqrphvoJFtZIh2Mwxi4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xu2V7UtacRTHu39CLwaxV9GLXoQMiclIkl2UxCSHiT2QGc4eRHPO7MnlWnNWK5orWo1WjLUY29gj9GIQ7NX+sTO+5+7kz7RS12AvPHC4t3uP9/f5fb/n/GpoqEc96lEPCY1K86Koprbq0GhswEsjvh7qd3eRx2Ejh9VywUIaDXmc5HfZuc5iajuntiZgjSKDPooF/BQP9pcBKp/D3m4GQm3nTTM/Mzc3/1nYqHHaOvg94CuAKnx8KjxE4T4P/xBAvV06f2h8JEiBvj7yezzU43SS3WajQZ+PEhMTXOPWrQyu32ovgsU72ZjUFQOXhEbTqUkaHQ3Q3dAQJ+wSICyAXcfHxhgqODDAIADr93rZog6ziRVQlcTvRTkkviXvAHMOkEbZbJpmZ+KUSEzQ+HiQYrEw3yeT0aJdz96L09LcHINFQiGGA5S5rZUTYHiG9wCBGpL4G8CXwEgY1JFIiPx+DysFKEBCZkDM309QMhrlxWLhMANBJZfDwdbdtlpZJdgnyqgwSLHyEhiERuvrS6zOcm6BLQPc/HyCpX76aJGy6TQnoLDog6kkjQ4H2L4uXWcg2AoVBQCbkXsoDeCKgfL5HNsEMMlMJsW+b62u0ou1NVp5mDm1TayDWlAKKkEBARAgqIV+hO2wtUIgRGF8MWEYfYw9Ju7n8TFtrqww0PLCwmkuzszQ9OQkQ2HqAI7F1ZSmhnVVWGaEUVh6xvw6OaGDrS36cnhI7w/2KZ/Lce5vbvIVNuKKWhyoqkpyuMrYVwUkIVMggO9e7dGbnR0GePlsg5UAAFRCL6GncD6hNh0NsbJybOCqbq6CCaskNDr++IFV2nue5356vb1N64+XuJdg3Z1u1+misBmWy6SpIDXAqHYVnp18+0rfj45Yrbe7uwwExTaeZCmTSilWFIDUnqkBBKGR3e8mq9tO7bpxiMnzH58/cQ+hwXEPGPQTFMLIF4CMesm/gEFopPe6yOLopDbLjaJdwxYcjpgq9AwmC2dQr9tN15uazgCd7cOaQ2NlANPc2lIEhOZVYXAo4v8Yzp9rjY0lQFcUGpk62qnFVDjAytlQLq9AjXJhKKQCqW9VG8qlWnuF8U93XFv8VzD1qEeV8RtpXg/QmuhTagAAAABJRU5ErkJggg==",
     "wiki_name": "3rd age range top",
     "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_range_top",
     "equipment": null,

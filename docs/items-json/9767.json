@@ -1,7 +1,7 @@
 {
     "id": 9767,
     "name": "Runecraft hood",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "Runecraft skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xt2Xf0tTURjHPe/El9A/4esIQvDP6A/DYlCZgYmEWWZjTMzWcMhMx2Rjpi5NzY1tmcq2En+9nyc+J57tel1xd++m0IEHudvuOZ/zfL/Pc449Pf/XMNKMGxtNiHg8KtHoG5maGr8pKCN7e+uSz69INrsonxY/WqhIZFJeTby4bigjBwcFKRa/yPZ2TtbXUpJOJ2RhYU7ez76T6emXMj7+/LqgjBweFuXoqCSVyrZ82127lKVEYlY+zIUb0t3q7e02lJHjX4dSr+/Lj/09m6WdnVXZ3MzI59VlyWSSsrwUl5mZtzI8/KjbWTIW5OLi2GZp//uulEpb1ktIR6YUCj+NjT3rdpaMnJ3VrVxOmK2trGxspCWXW5KVlQXrJ6CQbXDwXreyZOTkpCq1WqUhFf5xw6RS8zaAwlNPHj/sVpaMnJ//tFKVy18bMFQYhlYYIPAQwTPSDQzc7XSWjJye1qRaLVupCoX8FRgAkslYI5xgNMy+vtudhPpjZnoPvqGqkAkYMsDieAZDU/b0IycY8XpyrFPSNY1M38HEgNCN2fn8/IyVBhggKX8qrhWYVp17hTaHaRgZ41I1IyOhK0B85wTCY0gLKGAK14EsGbsYAP39d/4JBAzeQlIySSVSAPhOjxiFcq/icRg7Ibtjcb9AZFf7FdIFyJKxi1BFLOwFCKlULgoA3wGkxcBvAwGxS44EGp0XIDJBOIGoTmTjczbHOedTtiYQ/cQrECBO/7iBuKL4zJKxkwOEGVsBUd5uILICjALpQaxAsVgkGBDVwcJuIFL/NyB8o3+dQNpMfQORehZjknaAaKRIBZDeDvAVv+Md30BMwq5IsxOIqwX+0aCckYNs0nPUQ3q7BIjPnL3IFxA75pxSoFDogc0Oz+7QbLEBfEdQ6noo04eoVoXxBURPYedINjR0317eqRKCuzOhzwRgZEAvagRHChtDLpqsz+wwjN0hkwI0OvrUVhaBf1qFfqdS8h5BtshegApjGOsH7dTh8ISdrN1gU8hIdvi/LRAQuruBVH8vwe+RjMaKvB24FxlragzL7tq/07R+PwAQ47IEzd17HUHfbzGuStHe8PP+b4qSmsytuHHeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACF0lEQVR4Xt2VzUvDQBDFs8cecsghEAKBUKQUEfHiQRAEQVAQQQ960EMPvRQUCgoKiogg+F+P+zYdd7P9yMduWnHgUbpNJr+8N7sNgv9VgrQ2VhriJo3pKonpIok2BSXocSuj+zylidQoS36hzuK1Qwl6HWT0LIGm/VRBjSXQnQQCFFxaI5Sg90GuBCjbJRMK1+7leddQgr6GffocFkBwCVBwClBwCmCI7igKu3ZJKJDv7T59pCG9Sb0kIT1JTaUe4pAmcU8JLp3MYuvQJVEJM2ZJlxDbQXcuFVFVwYwiDYXoOLYOXCrcqYIxhTVEtxP2fLuko1oFczuTDYYBj4LAJ5QoRWXCHPYCpeMwoNNQQ9lgfC55iG4+KoDsSoh9A4aBoPMlYLzr7Cc0LO0OQDJp/UDKBmIYBoIuo+IIMME8uCRUUzwAMFVADMNA0HVU/IaYGcp+Ss0SKiY0QeMmQAzDQFjD7Dm6JFQT7CJY7gKET+7lBIQhhtVo1AYIMAyEXuiD7y1j00Cwui6Q7Q7LBmrhUjFDfxKoyQytAuJjwAmIm1QBmfNjgngFMpuYQAxj/nVUgZnxewNid0yYZWAMBxic9Pa2bw3E55AdlS1zncEYzkNcqPLByDAsE8SWDctROewwVBkIM4G1plrUwysQ519HuB5RsTuYKQcglCgBYR6KN69bi+93AEKVI9BvX7dc719Q81E0qzb3/wDaug9/pGOanQAAAABJRU5ErkJggg==",
     "wiki_name": "Runecraft hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Runecraft_hood",
     "equipment": {

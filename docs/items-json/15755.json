@@ -1,7 +1,7 @@
 {
     "id": 15755,
     "name": "Chart",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "A navigator's chart of Gielinor.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUElEQVR4Xt3X70vTURTH8X3/gx75eLAHPY2gRxEUETIUKSaGhmHKdKQTl0zTUlaaYSVqP6QfBBJBREREREREf9qJ972cu7vvd9WDdu8XPHBgTBkvPufc790KhaNdiWQ7t0pkvTokm9crsj0/IruLo9KaPJ8XKpFbU4NyZ+aibM0Ny6PGZXm6dEVe3b4me/WBPFCd6Sjmzd2qvL9fk8OV4ZioznT2m2PyYnXCYT7t1OXrfsOAThSLMVDtdBgVmMPWlLy7N+Mw357ckLWJczFS6kzn4Oa4w3x8OOcw358tyo+DZoyU2umwN6/XJ+XtxrTDAFEM/fP5UsiU2ulwxFliMB+2ZzMYIPSvl8umA6FsOpwqPVFgvuwt/BPD2Ho8OpsOo2Jv0hh/RBEwlE2HI84Sc7xzxZBOpViQ0dKx/DEK4pizzJ935/PDNK+WM3dV61RfBqOgQBibit5TejX4D0BQ0TA8Z4CQCidKH37sDhiuh7WTfQ4VCGNT0fH4qSiGYw6GZo8UFQSjEJaWVNgVxTAmMJoOGE6Zf6P3FKO39vLYGYdhTDz8wPij8kFBMLorq+NnzdeFjeoFh/FH5adDB8EwJgXVB4rSGCrJ1nS/PKiVM6P6Eyj9qf9RFkQyYOjmpZLpndmy+V5MdwMFSIdKDKbWbzGa0ErluHn9eGHQLPjfQOlP7EElDgSGHeI17/FzBjAj9UGB0vErMQgdHRgaHCOlu4HSn9LjsijFgGuMnDZPbC5V/g4oQjp+JSaVbhgLiIrRSv9G70RExthSgN/p/zny9Rs1dHXFUTLR+gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACS0lEQVR4Xt3X0UtUQRTHce+f0EOw7JNPPUTEEoWsKIVipJiorG7oKpushlZimYaVKJZIGoggQQQREUQQEdH/d+I7w5mdvXerh3bmggcOLKssH37nzJ3drq6zXYlkO7dKZLXSL0/uDMjW3JDsLNyStYmreaESuT/ZJ4+mr8vm7KC8qN+U/cURefNgXHZrvXmgWtNRzOnjirx/WpWT5cGYqNZ09hrDcrgy5jCftmvyda9uQKXu7hioZjqMCszJ2qS825h2mG+v7srDsSsxUmpN5+DeqMN8fD7rMN/3F+THQSNGSs102Jvj1Ql5uz7lMEAUQ/98vRgypWY6HHGWGMyHrZkMBgj962jJdCCUTYdTpScKzJfd+X9iGFuHR2fTYVTsTRrjjygChrLpcMRZYo53rhjSOVcomc4doyCOOcv8eWcuP0zjdjlzVxUvjmcwCgqEsanoPaVXg/8ABBUNw3MGCKlwovThx+6A4XooXhhxqEAYm4qOx09FMRxzMDR7pKggGIWwtKTCriiGMYHRdMBwyvwbvaMYvbWXhi87DGPi4QfGH5UPCoLRXVkZLZmvC+uVaw7jj8pPhw6CYUwKqvWel3p/QTaneuRZtZwZ1Z9A6U/9j7IgkgFDN24UTG/PlM33YrodKEA6VGIw1R6L0YSWB4rm9cv5PrPgfwOlP7EDlTgQGHaI17zHzxnAjNQHBUrHr8QgdHRgaHCMlG4HSn9Kh8uiFAOuPnTJPLG5VPk7oAjp+JWYVNphLCAqRiv9G70VERljSwF+p//nzNdvATU9Zlth+Y8AAAAASUVORK5CYII=",
     "wiki_name": "Chart",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chart",
     "equipment": null,

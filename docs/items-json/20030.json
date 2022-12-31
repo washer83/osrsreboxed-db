@@ -1,7 +1,7 @@
 {
     "id": 20030,
     "name": "Old demon mask",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "Lost in time.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xs3Wz2sTQRTA8c1/kFMuuQQ8CJ68BE8epZfePHmwB0G8ePHgwZ/U3z+ooigKKiZUMU2laok1VRtIqK1GsVYN/hEF/4Yx311f8vZ1UpNmKx147GbmbeeTtzOTBsH2bynnD9/4lreUezl51s0UT4fxvHDKlR+dDEMQjcqEq89ed7VX1zwo+yWGhkcgQQGSsJiFF1fc/PSl2MR8ZsxGHDUQMuVmn4yvQ3EFIiGgavmCqzw7F+Zy9YHI1+jW8qT7vvhwcygBcS/VEdC7mcshiFye6QXiuZ9LRferWWrHVAgif3cuF4ad3bSo7PKtBcSkPtBc6Xz4x1ebzZ6vbHHuRgzEvYDs7KalYq8BhCxuPlsQkwvo99paT9By9VZyIKkSfT4QeTw3XYwmoWoW9OmtBpUGA8m6sCAmtyDyeKYxX3WHx8Z6gj6/vx0D/fjweHgQ/YAERSXJb62suHKh4Pbk8+5oNh32WdCXhTvJgggAGkTu1R0ZV3tdcaMjI+5MLuMFkfutfq8Dan182sEMDNIo/riAyLvYxpzIpd2hvwhAR3qAVuv3vSA7e48WHV7sHh+IMSC5bNYdb19B8PlgJrr3ghoPNguKti0V8oEYH29XhmqAAMRrInYFQRgWxJeIgdShaGc3LdryPpCcxBojAYbKjKYDlzcoqpMoSFCMsYABaYwE6+hAJkLtTXdRiYIERf/Ezi7mWLYbVEbWDtf9mcDtM5VaenNTgaY6mL5A7DAfSGNkzUgITKoESirFs/xs6Ar1WR1aF2TXEWMsYL1wdcg6AkWlBMYYPxuJgQRFv0wuINl93IOwQT/rh1NagwRlZ/e0COR7bfSxQPk3gjzG9SluK0ZI/tfa3Q6IM2iAcygO0q9Ng7jSLxg5Fuw/Z1RnaBC77F8gJqPPByJPnz+Jgexro1+DmFyD5HeP5yQXEFs+BmqfQQOfQ77XpkHcbwSSCpGbCMj32jSIMb2gNYg8vX6GBNHW7xZf2PUjYUEcihokMQAoCORY3ygsUIdeP4mA+m0W2Q9Wopv7n5pF+sI+s63bH3CZNmIh22h9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xs3WT0tUURjH8TvLWcxiFkIEgStpFW3CjatWLTIybIqssLKgQBCKKOgVRJRIESQSUZSUIokog5ERZUFIBBERZq2EXsXJ7739vGcez80Z5yoeeLh/zrlzPj73OecaRdu/FVw4Qv2b3gpu4k6XG799OI4Xtw650ZudcQgx//ike/eox719eCKAsn9E0/AEJBQghcW8GTnuZh9Uaibmmj4btaiGkAU3OXRkDYojEIVA1fsVN3W3Ox7LMQRivI9eqg64xakLG0MJxLmyI9Dr4WMxiLE8kwXiuZ8z/e7X7FX3+9X1GMT4va2tcdjZTUvSrr9aICYNgabvHY1//MPcXOYr+/jkVA2Ic4Hs7KYVal4DCIG4tiAmF+jP8nIm6NPT0/mBlCUmDoEYx3MjQ0PxkaxZ0MJoCiIaAqkuLIh7FsQ9npkZG3Pdncm2EAJ9ft5bA1qcvtQ8iPs+iEwyfmH+vRseHHS729pcT7kY37Ogr+Nn8wcB8EGMvbaj5CZHn7mO9nbX31IKghj7beLcKmipenkVkxuIcVdWMBdbiq7rHwJQJQP0/WVfEGRnz2jJ5kUR+yh+HBB9QFrKZde3cgTB9cFSch4C/Zg8v1FQsmzJUAhE/8BKZsgGCEC8JmJXFMWxPijdFO3spiVLPgTSTuxjFGDITEcxcm0GBYas5g6ijwIG5GMU1NGBUoLaU0xRmwLi/o2dKaa3nAaZUe1w3F+K3D6TKT4bArFLC1MXiBUmkFB6VcKoZhSCKUuglCme5bPhZ6jO7NDCIGWJAvYL1w/VESgyJRh9fDaaBtnXxrUmF0irj3MQNrhP/XwZO1MDEsrOHmjZIH2ftA/R5/8TZzNGqKD5bAjEHtTAPpSA/NcWAnGkTxhtC8qkv//kDhLKgrgXAvlfesaywpoCsezXAzGGyX0Q1z5I2VkLGmh8HwrVkQ/ifMtBto4syC9oH8TzPog9qAkQbe1qCYWtH4VAyo4FKRoARZG29f+FBfrhv65cQPU2i6wHq0jHblGzyFDYZ7Z1+wuMeLb9b6P1nAAAAABJRU5ErkJggg==",
     "wiki_name": "Old demon mask",
     "wiki_url": "https://oldschool.runescape.wiki/w/Old_demon_mask",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17062,
     "name": "Fresh monkfish",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-02",
     "duplicate": true,
     "examine": "Freshly caught. Needs cooking.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xu2WTWsTURSGc/9BV64LLoSsQqGUUAKRUkIxlJQMCUlIyAdpS22lX9FgtRhIoympaTRUSihWEcR/IKKgiO1CrK5EFy5a0F9Q3B7znvFOZqb5aBKhFfLCy52Z3Jn7zDnnnonF0lNPPf0LCVJ9LiRo0etinwMoFebaxCjNjo0wkK2//yyg1BQBBJbngDkDIEEp3xhNu50UGx02gHQJIwuxPQMGaTLDmJ/eQCcfKC3DLY1FkmMOUhyDPMKIwuz4CFvO0Rdw2zD5hI8yEQ+l/VeoNB+k4lyAClf9lJ/xUW5KoWzSS5mEh1Zj47QScfOiAPHYBxgs4BzSwCQcIoPrEsi8agMJyoUVykd8PGaDXtpORWlrKUzlhVBDsJVgfajwiF0DwbWOogOQYry6cMzPxzvpOFVuxAxg9aLWCKoLGKgGVEoEaWsuTE9vJWn3ZqIlWDbqrQuFEW4zVXrVCnh3OUHb81F6dnuyJRiMmuNm97eg3UM2DcbotiWoNBNkoJ2lOL3ITNPzO1MGMPxenKpGZ9JPVquFvRoa5yjBgINR1KglgLkGrDRsvdgJmKDX63fpXbFAv46O6Mf3bwxWWYhxxJDK8myIR0BhVyJl2JlmKIy4hi0vdxvgLtsutQOmAr0p5Blq78Em/Tw8ZLCvXz4boBApRCkXVxjIDIVjXAOwuc5QY4jaKaAEvd1YZ5j3mxv0oXSfoSqL8/Tk+jId7O8ziD5t+ihJKAZTqlD+KlTAw22ERx2Ye8DGQC0K3ggE4xxggHqcWqJPj8oaCIwIwQBIe6vF7a59PAEi+5vscTDmKPZButDX1ypKQoPBiPS9vLfGKQTUx62H/NurfE57awmSmqh+QF1O7a3VNxfc19BO9D0Oc8NOu2luQwn6fXzMEFgYBhhAkD5EDA/Vw+ijcnIBQeXJEBs9DvcilclRx2lSJiUYSBa4LHIU9sHeHkcHDwWMGaT+AuocPVAHf9DMTa2+m4PUJFNY717z3IbSL9bM5vuaqZt7e+rpv9QfA3B4B98BBPkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xu2W32vaUBTHzWMf9j4GQhEpRYrIUMShWAyKikoM/iizK66TCevWIYggDARBBBFEVjbK9rKXvQy2x7E9bE/7A/YXneV7spvENGrVQTvwwJcbb25yP/mekxNdrm1sYxv/IiTSdStCoseJMOsWQOkwjw5DVIsEGSiwu3sTUHqKAAKJ34C5ASCJGskIVaMBUkIHMyAbwohCXE2AQZrsMPa7z4mrNxQSdgthk1LET7J/j0cILtRiQZZYYy3glWG6apJa+Tg1Uw+of5Kh3nGaXj1MUfcoSZ2KTO1SglpqnM6VGJ3lo7wpQOI+L4OlA/sGmICDM5gXQPZd54REnZxM3XySx3YmQaNGgYanORrUs3PBzjLOULmgzwDB3FruAKRX1DZWUnw8aRZp/FSZAXNybR7UBjAIE6ivZmh4nKOL5yWaPlOXgrULCUcojNCKqbKGWcDTJyqNTgr05kV5KRiEmuNm97ego/seA2ZWK4dE/aMMA01Oi/SuVaXLl5UZMJzvVTR3yilyu12s82yMXYIAB6GoUUsAC3vddOC+uw6YREMlR6NigX59+kg/P7xnsHFdYceQykEtyyOg8FYiZXgz7VAYMYdXXrxtgLvvubcKmA4koCblogH27fL1DBScgkudosxAdigcYw7A9jpDjcG1a0BJDAKNVYUFqLpmd0PTl+mYQaxps7okoBhM1qBSGlQ6zm2ERwtY1OthoCUFrwMJGEg4BSjooloyQCA4BAGgmdCKO2p+PAEi+pvocRDWyL49urOzs8wlEwgjUjcoZA0owOAc5sRTC5DGofYBDQeMp9afXOK+hnZi7XFYmwv4bGvnhkS/f3w3YCAci/QBDje1wlhdubqBRINyloUeh2uRylLIf52UiTCLWwhAX99O6fNkxO7gpoCxgzhvoK+xAq3xB83e1Jy1GMQMkUKna+1r54Z1s0WyX7coNrl2G9v4L+MP3fAgnHSrwNcAAAAASUVORK5CYII=",
     "wiki_name": "Fresh monkfish (Raw)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fresh_monkfish#Raw",
     "equipment": null,

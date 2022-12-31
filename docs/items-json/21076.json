@@ -1,7 +1,7 @@
 {
     "id": 21076,
     "name": "Graceful boots",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,9 +26,9 @@
     "release_date": "2017-01-26",
     "duplicate": false,
     "examine": "For your graceful feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXklEQVR4Xu2VbWcjURTHc79J2RdLCWMYMWKYqqiVikQikUQiyUhTZZd9sZRSu2tbSumDtlSVqrIf82z+5/bMTKZpd5rc7L6ZwxG5T+d3/ufcO7lcZpllNs8UJUf+oymy7W+koVYC9t5DNVDB/Ulu8cQ0VDLbtIcrcgrfqeid8h5rbS3lvlSmD7edfcpbn1NC6UREoZUAucUj9vQBVKxkaZJIbYrVAUz6EmgIAHn+OeXzu+ahtErxjF8LoMsl6z3/kpq1GpV8/409C1lUAsv+yqrNwkmwCH7U7dK436deq0Ubnqf3/lXdd5minckTw8i1FgUKjhOCDTrtEEa86LqrAwKA9AcCA8C2LA64nh+zQgLib1xz7yGBlQBBEZRAFAAU4JzCAQesVyoMOBkOaS8IeA3+txsNnotKa8QUZwoYBET2ABQgvFONxjF1uhc0HN2xmliPJodyHz62TKukFQCQKAQwKLa9tcV9VK//olb7lHr9GxrvPFIwfuAngx/W5+tvEAimqNk8oW7vikbBPU12f8+oUKkehvPBFAYOtQAoZTUIpKha+xEqACCUBUoIVHl7Pywb5oMYEMaw11AfKQ4mJYEC0icAQnBAlUpfeI30kcwNBrcMBTcEpYGgkJREAgJKgmK8Wi5Tu3M2AyQeTBUzBKXo0+YmBwNQXAEABc+lgWMOzR9/HsRxCQw9A4pvEgNNH0YcCEUAhMbGrzjGAQVw7MNawMkLjv84R75vSzR59N1Cdgw1DSKZiyM45qFofM88B8wSQLlcdMDLw+e5rH/LkzEWtuTBr3lyX2aZ/Uv7AzXJd/bWRbbnAAAAAElFTkSuQmCC",
-    "wiki_name": "Graceful boots (Agility Arena)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_boots#Agility_Arena",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4Xu2V/0uTURSHd/8TkZAYIUMmY8Mx2XBsw8k21hY6JcySLE3TRoRRFFJEFIIIIohUVP/liee8nH1rrVf3rn7ZgcP2vvfec577OefeNxQa29jG1s+c9L75j+aknngtHtRIwK4a1AO6lzmWh9mzoKF6d+s3uJP19CfZzl/omsjEhM91vswLvjz3Vkqz+z6hnNTiL+VR7nx0QJsLp+r+E7iOkvnZhG9zqg4w/kvgQQC0U7iUwsx28FCoZCUYvGuv75gP0NPid1mYn5fZSGTAmmtZuwTlWFNV64azZB48c8uFglSLRVnMZmVmelrn/F3dK5mT540vCmNJdxe/qgI3p6ZaYEv5XAvG/FY4PDogAOgp+oPEANyYnNSEuciWwhrIQfGn9t79zMlogFCEEpgCQKFUI3mkCdPJpALWSiW5U6noHJ5zmYyOtUsbiDm9gYEhIbunaQ2Ie+pu/o1slj7Kk9unqibKUOJidFdS4ZWgVfIUAMgUAgzF5mIx7aNG9lA2Ft/JTvVEmiuX8mz5QstrwAEDYU4TPq4cy379XF6sflMVOOr0Tz3TlPXCkY4Dg+/VzhRwNfU+aCDXUsCAKAtJKSWfi1r6QMu2Vf6s451AvHuw9CGoPnJSTe11AZEIIErDf05XIb4ha7lX2ke8YwwwegoofgOC6gZitwaEk9RUSCUSmpTkBmRq8cw8YgwJ5SQejWoyesSASEAfkQwAHHVo/s7rwZxDENA14PQkAcTFSEBT4HDth/6aGxS9xDrmAmc3OM/Ese/bEE3e/m6xOwKTxHZuTnLGUbRzTT8HZgigUKgd4Pfg/dzmD/LeHNe23sB/8t51Yxvbv7RfyF97F8DY+xUAAAAASUVORK5CYII=",
+    "wiki_name": "Graceful boots (Agility Arena) (Inventory)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Agility_Arena)#Inventory",
     "equipment": {
         "attack_stab": 0,
         "attack_slash": 0,

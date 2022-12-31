@@ -1,7 +1,7 @@
 {
     "id": 1929,
     "name": "Bucket of water",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "It's a bucket of water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xt2X70tTURjHPf9Br3zjm4EvhF5J0CsJihEhiRiK4qIxCXWEiqa21lSW2tKt5fyxzR/ZT8EiggiiP+/JzzOOXo9Tgs6d1IEvd/fu3vN87vN8n3O2pqb/Yxg50aUPI4nYoIwODclEMnnZUEa2S2vybHpaQZ5MTsjM+NhlQRnZzOcDpTIyNzsrC6mUgjW4hEaKy8sK0NvdLT03m1X90RZ5MT8nS5mMPJ2aklhnS6OgjGTTaQ1ONqZirarZeKteB5bvAH7YEwk7W0bWcjlZfZ7VwHweH4icUvlVQUorK+otzpN9EQUOAczom2NkAhKIsrhKdLXI4dt9BSJrQNkMpofafEEZnXhuuE0Kk1c1KL6JXr8ihcLnMwIYH7EU4C1AbQaZqz3C8a+GUT/wlkze2dF8BsJVEIhnkS2dFyCywoRu4POE4cdGRmQ4HteXAMiWzAsQE5JyN/BFIkMIOJ7NjnoEwsRAuUHPEyVj5cbcLAcvswtSWFz0D0TpkAvgyq7cdCYg1WyPLhfegOYf3ZLseFSWJm9r+oHCsHQbJqfjUEd7TazYAJTnu1X5mU7tPq9AwOQe39HJi6mjAOm76ot62sh0HYv7U8M3ZHe95BfIZsiFIihZoCy7i/fkzXLvKRjKZjdjYDwAMYwa9U/BOOc7QFjdK6+LvrJjh1EIgmNWOuciMD0/2u/2t7bksDggH1f7/AMBQCACUpqDQr9mgE2W4JjY/gTh+qedbfmyNqgw73MNACIQb0/Qr+sx+bZ5X76XH8iPSlzFOdDch6+8A+EfykNZ8AlvTcB6QBxtqbgvFCC8Y32EeQliswSQhdlfuKaQwALDbyTPHcYwx1sBfrFlC2aJDP3ciUs13a7X3lUq2mEe1x931Frf7k2YeW9jQzuJ4B+qVTXywd6unnPdZio0IOshskQnnSeyhUIHCvqHQLbL3A7jM77imRD8Exy1AJg52F1A4J9fewk9uiAhwdRGbfKTP4n11BAQdwSD1pN7/z8/fgNXlQoo91gttQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xt2X70tTURjHPS974QtfCCIEItErCYlFLBRDUVw0kfBH4A9MbbGctqYtdS1/TuePWlEJFYQQRNBf0F/31OcZR6/HKUHnTurAl917d+95Pvd5vs85W03N/zGMHOvCh5G+WK8M9ffL2PDwRUMZ2VldkceTkwrycHxMpkZHLgrKyObycqBURlLT0zKXSChYlUtoJL+woACd7e3S0Vqr6o7UybPZlMzPzMijiQmJReuqBWUknUxqcLIxEWtQTccb9DqwfAfwvY76sLNlZCWblaWnaQ3M8WhP/QkVXuRkbXFRvcX5cFe9AocAZvTNMTIBCURZXPW11cmnUkmByBpQNoPJ/kZfUEYnTg00Sm78sgbFN5Grl+Tn4dApAYyPWArwFqA2g8zV2tT0t1BG/cBbMnm0pfYUhKsgEM8iWzovQGSFCd3AZwnDjwwOykA8ri8BkC2ZFyAmJOVu4PNEhhBwPJse8giEiYFyg54lSsbKjblZDp4/mZNcJuMfiNIhF8CVXbnpTECK6Q5dLrwBzd6/LunRiMyP39D0A4Vh6TZMTsehluayWLEBKMy2q5anotp9XoGAyT64qZPnE1FZTd5SX1TSxkzbkbg/MXBN9tbX/ALZDLlQBCULlGUvc1teL3SegKFsdjMGxgMQw6hR/xSMc74DhNV9+2XeV3bsMApBcMxK55wHpue/97tSoSAf8z3yfqnLPxAABCIgpTnIdWsG2GQJjontTxCuf9jdkc8rvQrzNlsFIALx9gT9sh6Tw8078rVwV75tx1WcA819+Mo7EP6hPJQFn/DWBKwExKctFfeFAoR3rI8wL0FslgCyMKW5KwoJLDD8RvLcYQxztBXgF1u2YJbI0PfduBSTzXrtzdaWdpjH9ccd5da3exNmfrWxoZ1E8HfFohr5YH9Pz7luMxUakPUQWaKTzhLZQqEDBf1DINtlbodxjK94JgT/BEc5AGYOdhcQ+OfHfp9+uiAhwZRHefLjP4mVVBUQdwSDVpJ7/z8/fgHYz8qXDnfgXQAAAABJRU5ErkJggg==",
     "wiki_name": "Bucket of water",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bucket_of_water",
     "equipment": null,

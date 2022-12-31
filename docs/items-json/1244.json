@@ -1,7 +1,7 @@
 {
     "id": 1244,
     "name": "Mithril spear",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": true,
     "examine": "A mithril tipped spear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xs3X30sUURQH8Nn/oKd92Refe/Ileoiglx7CCGIl6CEIIQyKQAqpzLDfP7AwDAOVWixaLaxEzH4orJj2i+iX9O+c/M7lO3vu2bvrjjuFFw47zp7Z85l77tzBKNr6IyfhCH3/z0dOXk5clOnShTieP+qTqfHzcRCxNDsolZnbsvjqVgBlb6JluAMRBRDDYhZe3JA3z655hfE3vrPho1IhczLzeKAGhU9AGATNT12R2aeX4lx8hkDI1+i11Qn5uTy2ORRBOObsEPRu+noMYm49EK77vVKSP5/L6zEZg1Cjva0tDlvdDDftvGuCUDQEmitfTkA4Jgi/Q9Dy3B0PhGOCbHUzcl4bUIiLG39bEIoDwfbimG3p6OhOUKvzQ9mBOEs4FwJxJhG4vvNQrxSLp70Z+vRWg8rpQFwXFoTiFqQXNEGDp/KyY3vkgb68v+eBfn142DoI5wEiijPJHFw7erYgR/Zt8zCIrwvD2YIQAGiQXdC49tzRWgxyv1dGEtDaxycJJjVIo/DjIRAxQz152d3ut4qgH5UHQZCtXme4pwTFGoG4oJE73leQrgNudjCTNaCl0c2C3B6EGdoIxFnENf1d+fgT5ywI+R5IbYq2uhnu7kIgRAiEa4bP5GXvTtcqC0JepiCiECiAHRcFcIz8Un9Bug+6VgGN62y7MgPpWcKnBiEP+QPHXKs4iyHQyuu7CjSZYJoC4ckJgfh+Igi5I7152b/LtaoeCLl4begZanJ2MKogu45wniDk4ak62elahQUfArFdeG1kBiIK51GAoKvHXau4aQKjZ1KDsEtrEFG2emA4UKhtBCEHr4fiHteqjUC4gW+L9xMQ9qAU+5AP0m3DOa6bnsPVVul2WRBmp2UQnp5GoJsnXKv4yrAgrjW2KzOQbRvOs2UoiOK2XQQxFyA88h5ofQ9KvQ+F2sYiuGMcNwLp9ZMJKNQ2DcJ3QIRAfG2wXS2CMPQ/dvXDrh+GBWFT1CBGClAUcVtvFBaoQ6+fTEDNDotsBsuo5v6nYZGhsNds6fEXbU6kKnpKD3EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xs3X20tUURTH8ZnHHubBPyCQCOkhwpeIIEHqxYeIBCkoAiEiyux+x8LCLJCsxKKSwkpQShIFE1PsQnS//Ek7vmfzG/dZ7hlnnFO4YTHHM+vM+py99tkHc7nVP/IuHrHv//nIu+eDx93wwLEknt7tcEP9R5MQYma0y02PXHZTLy5FUPYmaoZ7kFCAFBYz+eyCG39yLlWYv/nORhpVFTLvRu6fWILiE4hCoFdDZ9zow1NJLp8xEPkh+uf8oPs2e3tlKIE41uwINDF8PgEptxSI637MDbjf7x65P++HEhA1Guvrk7DVzfDTrrsWiKIx0Njj00UQxwLxOwLNjl1JgTgWyFY3I59qA4W0uPnbgigOQu3lWG1p2UIxj5of784OpFniXAykmSS4vq25we1uWp+aoYXX14ogoiqQ1oUFUdyCwgUtUNeBgmtYm0uBPkxcT4G+v71TO4jzgITSTCqHa/sO17mdW9ekMMTHyZ5sQQSAEGQXNNce2bUUQ+7n6d4i6NfCgyKmalCI4sdjIGG62wtu07p0qwT68uZWFGSrlxj+KaFYOZAWNLn9HXWutcnPDjNpQV9n+lYK8nsQM7QcSLPINZ2theSTcxZEfggKN0Vb3Qx/dzEQEQNxTc/Bgtu8wbfKgsjLFCQUQQF2XApwTP69zjq3p9m3CjTX2XZlBgpnic8QRB75J9t8qzSLMdDcy6tFELu0MBWBeHJiIL2fBCL35qGC27bRt6oUiFxeG+EMVTg7jEWQXUecF4g8nqr9O3yrWPAxkNrFayMzkFCcp4BAZ/f6VmnTBBPOZAhilw5BQtnqkeFBsbYJRA6vh+2NvlXLgbiBT1M3iiD2oCr2oTQobBvntG7aWxZbFbbLgpidmkE8PeVAF/f5VumVYUFaa2pXZiDbNs6rZRSkuG2XQMoFxCMfgtiDqt6HYm1TEe6Y43KgcP1kAoq1LQTxHYgYSK8NtatGEMP+cxcPu34UFsSmGIIUVYByOW3r5cICwwjXTyagSodFVoJVLOb+p2GRsbDXrOrxF8VyR6kgPaosAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril spear (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_spear#Unpoisoned",
     "equipment": null,

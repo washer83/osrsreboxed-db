@@ -1,7 +1,7 @@
 {
     "id": 12452,
     "name": "Black wizard robe (t)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "I can do magic better in this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xs3W204TURQG4PY5uOkj+Crc+BjGKy/EGJVYo/EAsbFJQcS2UtBCaUgtckjbcBKI8US84cY3WfLPZE3X/N0tM53BsJOVzuxZ0/11n7ozmetfsuIO1/MrL1lplO/L6uI9Lz69m5KV+bteKKK38Vy6zWeyu/7UgeIfkRjugxQFkAZjdtaeyObHx6GGcY9nHGFULGRWmpUHAyh8AqKhoPbKtGwsPfRy8ekCId+izw7L8nNvbjyUgnCtvaOgrdW8B9LcYSC89/tgUf4c1y5i2QOhjRu5nBfcOhW/2/VXKwiNukCt2qMAhGsXaK/1IgTCtYK4dSrZ0DCgIZ3cuGcQGgdCh3cY6LA9kx5Iewl1CrLzwRUM+vrFgmrxQDovGGRXU25iYmQw7GR7NgT6tb+QHBQFwqGo053X6YLGwSgIQ/y9+yYAnR1VA0xskKKSgn50i04Qtz6k+OOPFZMaqFcaF+TvQeihNECKCoHMpsitU/GXPIMYw/eXRaogBOq3Gg2pl8vytlCIBEJOp9WS6lxJpqf8P+XEIEUxgO9dwTl90HKAiQTCCrMg/mJXY67gHNtDEXsHpQ9SFH+xfvnf83M56nS8YWnX67JWqXjDc+f2Lbk5OTnw3pWDogS/Y3dqP+fS4oPssKEOvdCsLcn7YlFe5fNeHZ7bQxyu7VkIOb3Ntqx/qEppdiaY2NiDYuxDYZBF2cBGh3qLYZCibKCHYoOwyhiElYY6QHDQQmP2DGRByMNz5OKogvxvu4VgHxobxKsN9Rakp0k7XArSXIAOPr8Mgy72oNj7kGvYLAjXo0DaQ8hNBeQaNgvCM9eERiAPIB2uhCCUweXrCp4/GgzCWdqCNGKAMhnd1kcFA23Y+ZMKKGphZBSsRj/3PxVGuoLfudblH4hZqyU5XHhbAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xs3Wz2sTQRQH8M0xhxx6CISAUDz04KGI0INQEQJCkVqM1FhalaCtoFAIKFKhSC9SsKVFsSiKv38QWkppKZVYf1FEhCIe/EGRWsV/w8NzvzP7NrMvk7jbxNKBx+zOzvA+mZmdrONs/xIje9ie//cSo7nJLM1OHFYxM95FxauHVDDi/ePj9O5hH63c77Wg5I+oG65BjAKIQ2Le3u2h5du5QGLc45mMICoSMkYL149UoFADwsGg0s0cLd7oVn1R20Dob6I3SgVaXzyzORSDcM2zw6DXd44pEPetBsK4H88H6efyRfr18pICIcfu5mYVMrsoetr5VzMISW2gpamjPgjXNtCHJycCIFwzSGYXJRZYBiRiEO4lCMmB4OWtBlp9drJxIJ4lJGOQuR9sIUEfi2UQIhKI94UEoY0Txttd1K4Mxfd0qtrZ2UbOjlZyUi26FrBP0/kAaH3pXP0gBcn0U7wtq+v9eR17c6pNwVraNYhrD/Vl9lRjQWhPdF4ogw6cpUTHoB8+DDPmQlQNlDsOS/xt7rQP2iid9zENAyUOFoIgtJsgAFs7fNDafL8VJLNXKXr9sYkZVQFyrxXKg6l2d1/5IHcG1TJ6oO8LA5sF6TMIM1QTlB3WKIQEuRscUN74GBsElQ9FmV0U/cpLkMIAgCTuUqj77hFKdA3pQDtmxJgh9RxQb5YaDlq9laIXY0kqXk5qUM9oTRD6fH2QpvkrSRodSKj7hoL8N8n7xU19Y3rWTBCeGyB/hnBGeSCc0owJBcIbxiA+CFVSCcpfKy+bCcKbxSDsOSyxt494hkLODkp40J+VDP2eTqtlwXK+mkip5RnqTVB2X9wfp6CYtXpBjKoGChP+OLxtBohRMrul2EGf76XpzWSKZkaSNFVoUm14Zn7E4dr8FkKftUd63NPh8sbGGRThHNIgc9mwseUvR0I8MzESxCgzMEN1gxiFNiTB5wdq8xvIBHE/7osPM/yx8jkUGYTX/l8g9OGvSXO5TBD+LuygQvRzSO4jCcL1loPkPpIg24ZGYLwJwqdrHSCUytfXFnL/cDCIZ0eCOCKAHIeP9VohgWaYy9UQUNgikWGwHOW+W1Qk0hZyzLYufwHYOmj51nb2AQAAAABJRU5ErkJggg==",
     "wiki_name": "Black wizard robe (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_wizard_robe_(t)",
     "equipment": null,

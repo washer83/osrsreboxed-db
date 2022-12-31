@@ -1,7 +1,7 @@
 {
     "id": 14821,
     "name": "Banner",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A banner with the symbol of Asgarnia.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3ElEQVR4XtWX60rDMBTH1zfZI/gS4gdFEIWBMBkTEQaCMnTz8kEQvKL4PiIi4srmrNOJrxM5Kaee/pt0l6SogR+9pTm/nCS9lEr/rwRqcgorgdpcnc9lvTKnqa3MJhQghT12xakE6vAmzJANYqd18aDZO7vXOEqlhQ6un3PZv3rStC8fNSwjoTZnyuVppWIhDGySsMnwMZ8rTAhFpIwN70IoMClehbBx5KP/oreYSdkZL0LjZgeFcDH8GaGj225yP82jXxX6GrylMuRFiIOgwHuvlyv0GUXJvry/MCGUYqHha18jZbwKUZptQizFYiTFYiaoHW9CHMwEBrbhQYhKPGzjgrISfjE7CMUZIjggvg5wcufhIUOxEL4kmUG3q4UwEyjCMl6EOCsmKRLCTNmkeGF4FZJEYZiSw0cAYVr6XoRQKup0Mt87nC2ZEXwe0XVnIe6ZKUt5QijFbXgTGiXFQ4hCBC13Oqa6zkL4PSTnjZSSc0rWw854E5IT0yRH7J7eafgPA4eV/zqcheSHFkHnR2GS8yLU3FhW2/UltVVbVI3qQvKHSvt0rd2oqOOdqjpv1fWWjm1yhKMQlWzvTZw015J9CiiR9X7OORQMgEghW8B0/cJLoIeLhfDqtOUbIRoeCB1f/+UAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4XtWXb0sCQRCHu2/iq4hehEQRSYIgRIFIRkWERVHQRwkiyET7ZxFRRN9y47cyNjc3t6Y7RzXw4Hm37Dz7W73jZmb+XyVucgqrxNVW5oOsLc15VsuzIwqQkiuOJaoSt3t2myHbJJ+twytPs33piZRKC+2c9oJsn9x4WsfXHpLhYM5yqTSt1FBINtYkNCFJoULUXBPSKERINplECJgKycklb3d6knwxJkI/SUcTkn+GPymE39GvCn0+DeyFMJEm9NrvB4U+Bo+ZhEBhQlKKhN4f7j1czlQIMecJkRTAGEjJpLgQPs2EqJmGbK5hJIQablsI3ljKcvB7ihQaJgSkBN8ymUYIEyHc0OSDErz0el5IJiElTIWQQp4UhGRSISmMMxXiPHe7qa2kW0BIykxISg06nVRSuM7TIgF5P8LYaCFamZZS3vZpUjSHmdA4KbmFXIrmwPhoIfks4qlwKRIiKX7MF2MmxFeqyYHGwYWH3jBkivTWES3En9oA58ehyZkINevLrlFbdBvVsqtXFkZvqDjGtb3Nijtq1dz5/rr/xPc8ORAphMquXgMydIyGHD7u+1xEyQYSLpTXMD2+8Epcu1kdCcmr09YXiQQjVNJN9esAAAAASUVORK5CYII=",
     "wiki_name": "Banner (Asgarnia)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Asgarnia)",
     "equipment": null,

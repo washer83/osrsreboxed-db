@@ -1,7 +1,7 @@
 {
     "id": 9447,
     "name": "Sleepwalker",
-    "last_updated": "2020-12-25",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2020-02-06",
@@ -23,7 +23,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "Looks like they're sleepwalking.",
+    "examine": "A sleepwalking citizen of Slepe.",
     "wiki_name": "Sleepwalker (monster) (2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sleepwalker_(monster)#2",
     "attack_level": 1,

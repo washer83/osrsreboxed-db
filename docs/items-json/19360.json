@@ -1,7 +1,7 @@
 {
     "id": 19360,
     "name": "Antifire potion(2)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "2 doses of anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xt2X7UtTYRjG9/wDpwOD7cMZ4Yf+ACOiD1r5ug03p7nyZTaZ03l83+bed6YMtLKwtCQjKzCCQMgMc/kh+iD9YVfez3iO29E+BNsZdMMF+3DY8+O6rufemcXyfwxDtRo6DFtrHhQznYirLQgONjcaiuF3ScXp0RTX7uY9PC64GgnFdJhfhxN4s9GP1Vw3B2puajIbqtwZAfTzIIzXT308vgb0iSEYDCMUmtTdOdkP4dUTL5aT7fB4+uDr85sJxaCqsxf0MDiOoeEgBvzD6Hb2mBkdw2I0xhWNxnWNjoYwODiKnh4fWlrvmguUTmd0JVNpJBJJjATG0Ovzo62tC83Xb5gJRMNw8PUbSqUTHB//wPfjEo/L6fLopSYYU4HmF6LI5zUUCgUuisvt7m0EDA1DMpmCphW4BBD1x+SoxDDkNa1KFJnH24/W1jYzrzwNQyy2hFwuXyUqNe2fjg6n2S6Vb1k2m9MVmZrhy5J2kCi2SUCM75xMJquLgGgxhsYjvEe0qTs7TfuRZYjHE/oOElDT03OYmFT12FxurxkuMczOLvDblTpbhkPyPPrlMNotftyydCMSmdZjo3J3dbnr7RKDpuwibdtG0raFRds65mxrGJdzCMhx+GWVA7rkEQ5521JXl872jv0l1pV9rCqfUFT2sKK8R862cwFQtRU55Jic4qB1cOnsmts3kLXvYMXxAZtNR3iuHOKZ8oUDPlI+c0CjewFrDD4pXA+Xyu4sO96h6Ni7VJr9LTL2bSzZX2DRvo6IdYUDDUhT8F9Ra+kS44fQgUaIShHsZUD3pRnu0lXLtVpBMR4VHbrq+MhlhBFA9FwlUNCawLB1gQO5pUCtomO8NwLmbxJAFK0AClkzemxeaQxO6UHtXDICGEXQlUCqtYiwNa8X+45U09cSVhWPEUYAUc8IiG6k6BDB3LR01BJGTPktkA4mGeHos7hpAkb0pg4w5Sl/ofjPde6aAKIeEQwV2QhSc5jKOT/gHM4oU0Aum8qDjTI++6/zB4149Y57jx1wAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xt2X/0tTYRjFff+HBAmjIZUyLE1tS5s4lImpaMimMpsIrkk62nK4/NbUSkKTSrEf1ElCpqKSJIhYFEUQhkrfDEREEBNBV9BfcNr7Xu/13qsFwd0d9MD5ZWy7H845z8MWEfF/DIFUYR2C1vpiuKvzUW41Ij87KdxQBLOTzZgZb8T0WAM62myoc10KJxQRYKaGvWi/aWVu0dcTNRq1objO8EATQx7cbizFNUduOPpEYLOVoKLCKrgz6r/O+lRjz0FOThby8kxqQhE4HOWoqqqQqKzMAoulEIWFF2E0GtSMjsDtrjogq9UMs7kAJpMROt1ZdYEaGtyCvF4XPB4nSkuLWFQGgx5abayaQHQIens74fc/xMDAA/T13WdxZWamC6WmMKoCuVwO+HwetLR4mWhcWVkZ4YChQ1hUPl8dEw9E+6NyVPwQAYYXjYyuPF9o+SdCOCRY4moWl1jiUqvsErdlzc0eQXa7jd0heoP4YqsERFBbexVNTbUS0UNJLzffo4yMVLVio3E5JXeIil7qysoyITaVXCJwOu1su+rrXWi/E4Mb3mOwV0ahqChSEhsttwouESzMp+Dd20S8nDuDqWfxGB3RYqD/FLo6Y3CrTcMAnTVHg/FFoaQ4MpQuEax802FzIxVrq3osfzmHj0spmH+fhDevOcDp5/EYH9Ni+Ekcg+zpPsFAQ+ASwaelZGysn0dgNxu/fqYjsGPA9lYaA1xfS2WA1D0x3NDjWHTd44AUdolgdUUfhLiAQCD3UO1spzHg5WUdFj4kYXbmNAPq6Y5BWyuFUcwlgq+fk7H1PehOoODPCsJSIBorD0Sje9R7Eh13NYiOjlAKigQj0e85IYYwSxUE2tyQAo08jYO/n4utxXdcqejIXlQyALl2jRKgudkETE5oMTjIxUY3sM4TrZxLPwIlf5Uc6NWLBExPcbFRhxxXogSHlHFJEhnnyj7QZbZ9tGe0/IuLycwhCkP7YzEfURKGH+5XIHWCPvwAoAiI37CmRq43IYDhhvtC/j8XhROD5bK7RGFokeUgisOIZ/8B+3ByqQJy2IgfLJf8vf86vwG/ZWVq7+dMwgAAAABJRU5ErkJggg==",
     "wiki_name": "Antifire potion (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Antifire_potion#2_dose",
     "equipment": null,

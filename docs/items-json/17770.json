@@ -1,7 +1,7 @@
 {
     "id": 17770,
     "name": "Translation manual",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": true,
     "examine": "A translation manual.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgElEQVR4XtXXwWoTYRQF4M4bdJVNNoEsAoVACISQRcBSSiktxdCghBJpWqpFqSiKFCslKgWhb+BKRSxaioj4fL89d3Jm7txMkplJYuuFQzYtfHPmzj/JwsL/PZ7zcyvGc6X1kiuuFAeoG4V5bunuUgAqNAuSEPbPccOgZns1SKO1bHBzBfoYDbrTWYvE4uKBNpkn2g6y3N0IMgnG5Ot5Sa6Sk2REXWPa5QhodXdLcvHzdCjjcBq0WFoUUKWAPUw8A4wCre23gljMqBBU32zOCKT2Z+PRtkTDxuF4SzVKY1KAPFfuVCKgzcf3JETpjMJZUKlRNkufeKKgraOOhCidUTBEg2rrDZcr5gXDpU7YkMIM0nq2E6BsxuGw/ECxnf5ZL+0OXf9RtyogorZfdAVkMwlGEBpiOxl2KApqv9oVkI3FWSBRuh1+psZYkI3FWSBBaEjvDtrBZ8JbhQlByP3jvaFYXBwQoJm0U+1VJcB0Tg6GYnFxQIJm0g5ByM7pw0gsLg5IENsBImM7GB/U7R/GJgkQILSDJ2vKdjD+/uD18PHzS8mD90+GYOOAWGi0w+9LOG/QTrlZTdsOxgfhVP7xqy/H/rerN5Kvlyfuy/fXrnd2JAHUYvWpjosCCOdNxnYw/i3TjzofZ+CAvPz91l39eSef++fP3d6Hp0F4VGgQbltlpZ6lHYzn6od1VzuoyRXbpQWQZwwaQ3MayothSzidp2iHE369ZAO8NXqR9eONA/DTxbHcUkK51FO0E074z9HvvwRihzQQ7fHW8nXB91eKF2iyIW4SEC0Cp09p/nabqp1JMw4YLPVgh/ibbW6YuIkDEjT3dpKMht04Rs+twsxi/gIifXkkfEPaYgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4XtXX70sTcRwHcO8P6MEeCEMQhojIGGMMx9hwNBTFxEnKWGFTSjPBCpGBGGJZPS8flBT2Q8r/81Pvz/W++9553u6uM+0Db+YDBy/f38/9cGDg/x5L7NyIsWSslpeRifE/qGuFWTI+WXRAueKoxoX9c9xFUH3+tpPabMOHu1KgJflm2QNqLs1IozWl8cOQynQ9AOhP4rHb8YOYfjCk3KxKdnRIMzic1SREedtBZjrzMtWek6+HXy4kDGaCbmUzCirlcnFQlhSnKx7Q7EpLQYgfc1kIYkupgZA73UVFMf1wbIygQq3kwcQA2RgTtLC2pCAzfpgfRxBaAmikMObsVcwdcttBWuttDVBMPxj2DEtPUGlyQjKDGf2ZSx2xod+/OFf1NHT3ccdBheFMGEFoie30ur24O2RJeaHuAS1v3dcAxUSBAQWQ2Q4+Y+6QC0La2w80RIXhTBhBZjuA4TM2xgR1nq1qCAvDmTC0hCPzt4PPiEeFcUHIvZ01J4SF4QhjQ2Y7uKpit1NZbDiYld1HTi6DBeEISqUdgJhub8NJFBxRAKXQDsYGmZCghOEASqkdjL0/eF4d947l/e47ebi/Jat7m5owGHFsB28DQ/mc3m8StoOxQXhEnB2dyfeX3/TWf3pwKp9ffNKsH2xrgqDmI4YvcLjf4NgStIOxQbwRcklxGQMH5M/XP+T87bl+br56rtk4fKrhjZRvBQDh2PKVQpJ2MJZUl5vOHgUtLa8gtIXm0CCx+B5QbIlLnbAdjvt6+eTNjv7lPB5zic32cAP8uPdBTvZPHKi51Anbccf9svf9F0AcEXaIuwMk2jNxWGo+4WM8QKMNcf2AaBHNAYYjxTOM/yL9VTv9JgzIC4I7hMs+1XaiTBCQoCtvJ8qYsGvHmHOjMGnMLwBUUiT2PWbMAAAAAElFTkSuQmCC",
     "wiki_name": "Translation manual",
     "wiki_url": "https://oldschool.runescape.wiki/w/Translation_manual",
     "equipment": null,

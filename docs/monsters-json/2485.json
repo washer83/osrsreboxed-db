@@ -1,7 +1,7 @@
 {
     "id": 2485,
     "name": "Goblin",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -30,7 +30,7 @@
         "spria"
     ],
     "duplicate": false,
-    "examine": "An ugly green creature.",
+    "examine": "These goblins have grown strong.",
     "wiki_name": "Goblin (Vault of War) (Level 13)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Goblin_(Vault_of_War)#Level_13",
     "attack_level": 12,

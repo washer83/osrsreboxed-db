@@ -1,7 +1,7 @@
 {
     "id": 3119,
     "name": "Mithril claws",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": true,
     "examine": "A set of fighting claws.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xs2XfUtUQRjFd7+JX0DYf0T8Y8EQkXCJFsNFYUNblqAIhAjCInqhoqgoigKLEotWCysRsxeFFdPeiKykrzN55nLunjvO2t7dWzhwmHvnzvX53TPPPLOmUru/pY1fvuf/vKXNy6kzZnbytNXzR6fMzINxK0KszF8z1bmrZvnVFQ+U+xEtgwdAhAIQ5cIsvbhs3jy7GAmMezxzFYWKBZk2c4/PboNCDxCKQIszF8z803N2LnofEOYr9Ob6lPmxer85KALhmu4Q6N3sJQvEufWA8N6vtUnz+3NlS9MWCDEybW1WbnSnBbbzqwmEoD6ghcr5EAjXPqDVhesRIFwTyI3utHRkGRCIyY17td2nekDrizeTA8KXM+CenqLp7z9s1ddXsioMHTXDw8esFE6BPr1VoEo8IOYFgTDW0bHXdHXlTXf3UAikIlCpdDKUQn15fysC9PPDw+aAcN/enjWZTI/p7MyZbPbANodwDZcon0Nfl24nD0SXXHdcoNHRE1YEwwb4Xr0bAm1+fBLCxAYilAJBdIc5pO4QSME2qve8QG70Oq22YzSPVEjuQiHIE6pcHre5o+5AcGhjZaJZoKAGwSEfEHMmlzti9u0PdhUrukIoGGpXBEiKohvdacGWd4EwjmSGK729IxYIMAQiFMDxHv6GupMokEIBhs7k82O2xz0ACYD3dHclCqQuocdzBAcMdxeBBgcxfsjOcYHWXt8QoOkQpiEg7DAfEH9iwCXspoGBsgUACN1hzigQ3MGxoQ416A5aDcjNI4wjAIOjKheLYxFnoIMjx0MoLheOjcSACIVxBMCpjSDqCM8w5pqbP6jSCkQoN7qnBUC+ZfMBoe6oY+j1pOf8b8t3QiDUoBh1KAqky6ZA6DGuS0Q4BQJ4y0DYZX8DQjDuOp7qCqfLlRiQu2wYVyDkC6szCiLzB+9xLoCw5SNAWzUodh3yLZsC4ZpArNA8iLkbOTcRIN+yKRCe6X8lCoR5mj8tAqHVDsidpDAqFwhFUYGoGECpFMv6TnIBVZo/iQA12lzIRmCp2tz/1FxIn9x3dnX7AzZyEXfG4mXLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xs3X/WeVYRgH8Pv8uD+gX2IcyUwm54flcGyaRk6cZps6Ta3p/YeIEdG/kBQpUZKUTDXTzHIsSZJIEkmyVv/JXd/76Xs/133tfk7nOS/ZzeV57/qc635bxmz9VrDxiD3veSvYpetTdvHapIunVyfswpWDLoh493DWvn1wzL65fzSC0j+iY3gCIgoghsa8vjdj1+7Ug8S4xjMdISoXsmCXb0xvQuEICIOgxu26Xbl5yL2LYwyE9yV6ozFv11fOtYciCOesDkGv7h5xIL6bBcJ3P15csD/XLtlfLy87EHKUikUXOrtqSdn5qwlC0hho9dZhD8J5DPT+0fEAhHOCdHbVCkE3IBFBuJZlj0UW6MPjue6B8MuZcGTQ2Gqpz44P9/uYHBvyIXES9HEhBSFygTguCMK93UVj9+w0HlQtF4MgaHZi1IdEfXpyIgCtr55vD4Tr/m3GDmw3HqUrJEGySrJCXxZP9RaUVSHETG3EBWGYAF+XTnvQRuOix+QGscskCNFsDBEkYd+en4mCdPaMls4YiZKBsVSv9AX3MG50dRCo0Pfls+2CkjUIFYqB9g397bI/URtOQFzRY7g4KF0UdXbVkimvQbjPGUYQMAQRBTi+w78hq4PFtKsgVkhjapUdflATgO/k7OoZCOd4juTAcLozaqO7bLUy6N7RIGwbBGGVJqYlEGYYQRKFczzfW0pmFZKPlwcchNXhmNEgbBuyQi1WBy0bxP2JyYGa3l8OKhNDobuwbXQM0t1GEBIgZHKuP5wAevx8fnYyABGls0daNgj3CeIfW3NTY74y9QMVd5Q7PUHYNgjCGpRjHUpAsttiIBw5pgghrucgojSIs467OiI2fjDDOgJh2v8LhHdQNa7OWBY4fvgeq7MZNJ9/HYqNIwnCOUFcoXEtu7brID2ONEj+r0SC8L0EYQ3qAISWbpDNQmJkEMTqaBAjB8gYLuvNQgNlyO7qCqjVppGtYBnpu/+paWQs9Ddbuv0GXQJ8qMTegn8AAAAASUVORK5CYII=",
     "wiki_name": "Mithril claws",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_claws",
     "equipment": null,

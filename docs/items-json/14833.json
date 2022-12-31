@@ -1,7 +1,7 @@
 {
     "id": 14833,
     "name": "Banner",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A banner with a picture of a skull.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZUlEQVR4Xu2XUUrDQBBAuzfpEbyCX34oQlEobYjUiBSKilKqgiCFUujZaq3GBEUvMzIpm0xmUxuTzVghA49s0snMy9D92Ebjf4eCfIiEgn533+CsvWdQkRT/agWPVw7c9o9heH4Ucz9ow8NFB8Y3LkxHpzC786qYloJet2PABbPIfqd0mIWLgrV2ms2yUrVQnrAjJSb0tnhKwX8XFUKB4HmRuiL+fB4hKqSbUxEhIYy0FJWhQnxKokJaJmtCWyVE78WEsOmH74PnOLEglRAQwkikvsIQPoMg4v31Ze2EqJRlIXOnhctlSkbvLCpW4YRMIQ2dStZ2/xMhvV4nIyqUl1poE1snhGAdXrlA2JFBLE2pFtoUPwut/hcmPK9yId0YG6yaJGt9z+WsC/EpUNzWrvGMk8iWCgWXvUMYuAfxGR7X114rOk7j8XkyPImP03jFfJ2LeZijhXj1gmF+LQcb82eU307nG+AiqY6VK6/ZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhklEQVR4XtXXzUrDQBAH8O6b9CTFQwmiBEOKxYAolB5EigdPQh+pflWlVhEFwUccmZXJzk42Nmmy2zrwp9l0k/11Qgnb6fzvUlAtQUpBut+zMox38+PDaCePJ5T81QquxgM4P4lhNNzTGWcHenw5SvV31xfHMJ1kPrql4ChJdNI4ziOBrvD55prGZUAuWJ3gvaJutymqCFoX5h1UF9YSCGs1qgosGOj19saKhAQFIeDt/s76xLzMZjpBQbQ4hwQCYdkojuEg2aWgIMK4OrRVID4OBsJFP5+fCo8Qw8ceQVgG9b1cwtdiofPxOC/tEAExLYOKL9n3+YOFoX8Wh/FrvIMw9HioK4SiuXx+EBCGP5YyjDeQxFCXyrIRUBlKztkoSH6/lSBCyTuvUX9jJEqel6AWulQdJM/JBAVVSWsgeWO5iCtynncQLYwL/C5ijmksca2DZBd4+j0b4YrBNioFp4MIsqSf791xL4/naPuMW2fcUtP2ms/FeZMzD2/7VcGF5Tmeut35ARD16h36jWI3AAAAAElFTkSuQmCC",
     "wiki_name": "Banner (Skull)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Skull)",
     "equipment": null,

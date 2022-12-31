@@ -1,7 +1,7 @@
 {
     "id": 21035,
     "name": "Dexterous prayer scroll",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": true,
     "examine": "Scrawled words that can invoke the power of the gods.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpElEQVR4Xs2X304TQRTGt2/gI3DNlTde+hwECI9hjFYISMBoAG0gkCARAoZSSFVCagEhaVNAhRgRCK8z8u3m2545TLc77Wp6ki/7Z2Z6fnvOmT8Ngt63nHHL1f7PLWc+r4+Z8tqLUDureVNaeR6KEPW9GVPbfWOOv7x2QOmP6Bo8AiIUgCgNc/TpldnfnrIc4xltWjaUF2TO7G6M34PCFSAUgaqlSbO3ORH2xdUFhP4S+uZs3fxpvO8MikC4Z3QIdFieDoHYtxUQxl2frpnbn8U7bYVA8PGwry+U9q4sCju/mkBw6gKqFF/GQLh3ATUqsxYQ7gmkvSvLWWmAIxY3njUQnAOC6ZVpgQh0Vn2XHRCjhHcaSAO8fTpoFvLDpvBsKLwn1I8DCVT0A2JdaCA9myA41gIIRaDzbwUL6OrkQ+dAEgBfzwgkCX0WR0dioIuj+WyAGIU0EBpo5slAOB7p/V1bjIFuvn+MYbyBCNUJECMEoMvakhNIe29hUXowewhEacfUoyC4947CuMv6cqdA0RqECAEIz3LmuNSfAMPCtoDEoqi9K4umvATyiRCj9PhBdAUM6ygzIBklDZFGspa6BtJp086gpHQRCGoCbcUwqYAwwzRQ0kwDUDsoCr+BCKWMDqwJpOsI79EOaUdpxOLuGohQBNKO2knva1ypo49raxGQK20+QKwbWT8QaghrkMc6ZAPJtMmUpQGTfX8dL8TT3hsIs8wFhDY50+SOLnd2CtsFjio4mGUCpNOG92iXNcFFj2Lxoy+BTr/O2UB3a5D3OuRKG51IAAhnJRxRuBFjHI4b6IvoZALkShuB4ARt8l+JBEI/HuozAILZEWglCSOlgXCWlkCUB1AQcFlPkgaUkvWTCVBa05BpYKlm3/9kGtIlPaan7S8OmxQVGzdGDQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmklEQVR4Xs3XXUsbQRQG4M2lP0LIVS+lv0KsVGmlxqKtiNpAlUCgIAiCIIhQpIXSUmgREUXEItIQUkKklCJSEPFGpBS//smUd5c3OXsym8xuPnDgJZtkN+fZmdnZjefd/5Yy9ti+73hLmcP3T83Buyd+vq0Pm723Q36IONl+YY63JszvzXELSp9Ey/AARBRAjMb82nhuKl8yocJ4j+90wqhYyJQpfBipQ+EVEIag8ueMKX585u+LVxsI+0v0TTlvrorZZCiCsM3eIejn1zEfxH2jQDju+kfO3FYWzN3Rog9CjYfptB9dXbWg23nWBKGoDVT6NFoFYdsG+rPzMgTCNkG6umqp0DCgEEF4r0EoDgSHVw4LQtDp7mT7QOwlFNYgDVjODpjV+UGz8vqRv03U2V4NhMQCcV5oED7TABTWAYQh6Hx/KgS6Ks0lB0kAzp490CjYZy33uAq6OJhuD4i94ILQoKXZfv94DO/l4UwVdFN+U8XEBrGHkoDYQwD9/T5rBenqES0YHkxi9hKjCzMPPK/uMwbH/Su8SgoK1iD0EEB4L68cW3obYDixw6DaoqirqxZc8hIUp4fYS309wSswnEdtB+HHNcIlci51BdRouAhCCMIqTYwTCFcYQRplm0cANUMx+A30kGPvoEWD5DOPLuQSTu7EID1sBOlCzaLva1ypg5Nr2qJB+NwVxHkj5w+COYQ1KMY6FIDksGmQ67DJfXEf42XfMkgvkCwo7+jyzs7wKREPZi2BcNnbQOwhOSe46DHsSWBw/7KD8vHXIds8YiEJQPCshBswMB0F6XnEQiiCbfmvRIJwvATh0bUFEFq4B6IiMTIEsXc0iIkB8jwu642igTJyuNoCcm0a6YJlavt2qWmkLfqYe93+A4+JmQ7wBIG8AAAAAElFTkSuQmCC",
     "wiki_name": "Dexterous prayer scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dexterous_prayer_scroll",
     "equipment": null,

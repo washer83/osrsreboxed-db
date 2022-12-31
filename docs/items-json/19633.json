@@ -1,7 +1,7 @@
 {
     "id": 19633,
     "name": "Dark essence block",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "A dark power infests this dense essence block.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAEqElEQVR4Xu2Xa0/bWBCG8T/p10rdgrqsaFm2tBXQQrgVAgECIWAICYnjxI6dq3MhSTcqoRW0K21/7bvzHssBIXUlAv2wq470as4ZE5/HM+fGyMhP+3+Zhrvph5qG8WejmBgfw+RvY76fGMf0H5P4feLXgUafPMbo0yd49svjHwmoYXrqOaYnx/F+cQ6LC3PYWF1EWBSan8WqxG5qavI5pp6Pq9+wzd+9mXrxkFAa3s2+xOxrX4n4NhJ6XPl8JoH43tagzfjKwgxCb2fwbual8iH5LdvUA2VLw9u5GayEZpBJxJBOJXCs7yGV0GEmdlEwUzBTOva315S2N9dgJI+wtb70Xd0TSsNSaB7xaFjJTMbRqDhIHu8jm0nCySZRcUwlPgtiZSep+kexCOxsCvpBTCkW3VQaMlsaXk1NyFyYgL63ib2dDRQNHafJQ3j5DKy0PpBXSqMusbyZVn16r2Th9GhXMngkMFHVpqeC2B2hNLyenkJkY11SvYjdyDq6zQqM0yNUbAMF41j12bbzhmTOj7GfSx0oJfQYSpYBQ8qdSXGexZQIy/ePPXqkdHvk75gmE/MNjnY2sbOxgn3JUNvNw3NzSo5tomadwJQJXZOSueaJ8paZQTqpw87oSCbiSo7MNXpTIOn5vgDo9qj/Yhoi6yGsLIUQlezQN8sWzj80JTMWylYK3ZKNhnwtfcmxkE0fKyjqrOYK2KFSu15SnqU8jkfVfBwKaEdWzc77ZRzs76l2zcmgWnbQrjq46LVg506Veq2qAiIk1XB872SPVYmpQj4rKzWuxK1iKKCN1XlZxrpS3kiiL19aL2aVPNdAreLCsTIymEAJJHVWLaBWSONT7wyunVMlpbhtWOnEQEMBRdZC2Ayvyddm0Cjb6DXLaJVzSiUniz8bJTQIWC3ist9Ft15UYp++IlmiWK7bq3AooPDaktJ2eFnpY8PCx3YNl20PlWIOZ5WclKuCnieQ9Yrq//W5p2KfJUOFfBrFQh6lfFKy6vtO0VLtoYAS0YhkaAXR7Qg6NRvtZg1XAnPesNHveOh6NjotD1eSnZpM+H7T9r08I1CnbKDu+vKkvPQdz/dDAfE4yGVlk5PJTKCBBKLfLAhQQfkvAkSxTxGaYC33FFXbn/iBpypFezigA1meudNDuPISDsCMcEAO7meoIF/ux7596as4+8zk1089NL3rOVd2TeUX5l4pDQXEcyclO2tQnqu+DxHA3MwMnzFOcJa06xVllRnoVvxVyfZ2eNW/qiwvDgfEkzyl7+Lvq/6gHDezQgCWL4gHWWSMexPL0yqmUZVtIC77GFdssHKHAKJpaJbMwXwJQKgA5Lp8fOaLq4yrjiuOfndnCyeHe3Iurg40JBBNu57AMjABPtQLuOjWcdHyIQl3E9CTfehcnl+ed9VNwZJNNSlAvDGwT90DiKZdD9ip+5k6qw+yRhGaf0OgaqmgxJLrcnax7PRBm7onEE1TmaECiECMEZBZK7v+hpmSM6vq+v6mTCOl9ABANP+mx4EDkEDfvl6oEvLY4NnF6wmvJIHYV1cWuQmMjT59KKCREf8lt//Nubv4ngcBCix44X10+50/7T9t/wBOPtZc//AeHQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFklEQVR4Xu3XW08iMRQHcPpN/AYSXzSGjSHGEKIIKEG5BFmIJEQiMjDcZrgJZNdPXffUnKY9zMw6ZXzYjSf5PTFp/+mZaUss9l3/VzEezpcW48fHJ55OTxPS4WFc+sKAjCcSP4Rc7lZx4wmfpSIMxXgyeS61Wu1A19c5nkqlPUW0WkwO+PTUldrtjqZW+6m5vy/72jMU45lMltfrDeH5uRdKs9nyZLhajJ+dJYVG41Ho9QYKO1Cns7uSVMhQjF9cpPjdXVnq90ef0u1aAoTyA+PHDw4EOrNPMX55meHlclUaDieSbXuzLFvCYBSMhYHorAHFeDab10wmrjQe77LtsYa2EeD7aBQony9oHGchTadzDQ0HBoORRt0ijAIVCkX5QoP5/JXPZivBdZeS48w9qS1Wtw1gFKhYLAmWNRSWy420WKwFCOkH20vbBowClUoVzXr9S1qttn9sAkFrRyPHk1GgSqUmqWHAZvM7EATC9noxCoRHgesuQoXB56bTmS+jQPV6k7+89AU6aRAIo75vqnT6SjAKhGcPnTAIrg5tEVCvKkaB8Myhk34G3afwi0UGgaCY+LTpZH9Dv7Zq9WGHYSAotjPhdvsm0d+A2iZ1Y1XtEQhKDxUUBuBOTa8b9OqxRyAopq2MH2wTPeGpCAJBfdz0aAgVHBn0SkLF40dRBYrFPgahf3PCg3EiCYSFA+6Djvld/3S9Azp57lLaHXusAAAAAElFTkSuQmCC",
     "wiki_name": "Dark essence block",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dark_essence_block",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 15321,
     "name": "Magma mutagen",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-04-30",
     "duplicate": true,
     "examine": "Triggers mutation in a serpentine helm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu3Wz0cEYRwG8H3/gz3NZS7DHIYh9rKysodkrZR02lT2UKlNbWnTr+2XKOnQIaJD+gciItExEUkkkijSpUOSJEmnJ8+83kZz733nsA/vZVjz8cz7ft9NJGqpxWgEok8MRqDcn0GMUALL1RyKhVRcUAKr8/lfUMpxTKIErobcPw0ZBz1UPCxNN8UHdD3s4rjHwV6HjZUmy+Q+4osFTvscHHQ52G6zMdmQNNGShPBT3Y64wR7a77SxnrdMgATeZ328TPt4mvDwOO7hctDFUdHBTruNpUYLpbRERX/5TxH4WvDxOe/jrSpRbOmkV+6hjWYL1WwSnXXaUBLE9b3o43XGD1q6KIUtreUslOuTaPUSOlAhiIstPU95uCnLlnYLNrZaZUs5V4L+eT+J4HNFQXejHs4HZEvqtMUCdNjtBA0RlHViAOI8IqiSMQjiCLgfC0GbLRKUtjWCFCoK4oAkiKfMCEgNSYLO+iWIs4gg39IE4p5hMwrEWaRAajhyWmsCMSIYhoR9zIUgXrIE8U5T1wcxGkCMCBC8OtgWTxlBHIwEaZpB0chbn4v/hziDCFLPNLYTJnxpiFPPtGOiiQ2kFlP5AYnaxY+yqnszAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNElEQVR4Xu2VW0tbQRSFnZ/gQ0EKQhCRIiIiFV+l4EupYMUbpi2IIHghBJXUeleUIiKKqLXG+6XG1jYYgiG2VaI1hohXJLVpDNEQbX/FKnsOx2joqzN5yIIDh3mZj7VnrxUXF1NMUsUQeSJRDNrCVEQRFEN9VRae5SZFCxSDoTb7BihDo5EJxbC+uXbHIelArv0d6CsfRw/Q9y07ls0LGB4fQK2+SuY7oosZvlhNeD89jK63rXhRXibDJQXEfeDE9u4mvjpsGDEOouGNXgYQg//Ch1++nzjxHGL/yA37hhWzJiO6e9tRratEfmGeyLExhK6DCIYucR74jePTA+7SimUJQ2P9aGxtwKsKLZ7k5oiCUoCu/oRw/fcK3vMz7pLtmwUzH8bR09cJXX0NikoLkJmVIQLqLhCNz+M9hcO5gU+ri9ylls5G7pIKdM/v6f9AP1wOrNpWMLUwho6eZv640zPT5QCdeT1wurdgsX/GxPwo2rqbUPayBKlpSuFKBTLOjvCREVDKoxSxQPSpEbC7tw3rupkHZFO7ASXaIiQlC6kSBUiFug1EDr2bHOKrT1uWqEkUA0QZpAIFLv189alg6VFTYhua61BQnI+EhwligGiryBmCug1kXvvIC5aAKK3jH8SLACIx7B26ONhFMACf38tHRiVLOUSdlvf86Q2MACAS45tF1UEVQv9UH4Ojfah7rRMVipFSWp8+k3mOZxABqWcC3QkrfGkYTj0TDhOpqAGJSZb+AeKbNmY2VT7NAAAAAElFTkSuQmCC",
     "wiki_name": "Magma mutagen",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magma_mutagen",
     "equipment": null,

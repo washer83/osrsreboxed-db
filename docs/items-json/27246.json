@@ -1,0 +1,84 @@
+{
+    "id": 27246,
+    "name": "Osmumten's fang (or)",
+    "last_updated": "2022-12-31",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27247,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1100000,
+    "lowalch": 440000,
+    "highalch": 660000,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-09-08",
+    "duplicate": false,
+    "examine": "A deadly sword created long ago.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqklEQVR4Xs2XTUsCQRjHm4/gYaGLIB72IB6WcA8rLYgLS0mGiBiYBWkhoWSiiL0hUUZvUiEEfZW+Qt+n67+dGVzHgY7O7A/2sLvPMj/++zzD7tqaEgjkKxohOD4qISJSBJ1WlclYiQQ75AqFEExu21GRoRBMH85DIfmuBgj63TqGvYMo9A/BYS2Hr9mF7ldGkwhk9neiIVPYykZHplLKC/uNVhkKQatZxttTLwoyFC50Pz5Ft72ne6oInIyJRj3P9p3Pj1GYklypAN47tJHp6xJltAndjJp4npxhNh3ol6HJzEU0y1C4kCiiSYanQY961cX48kT1VImL8d3YNBPwcraOzwuCdDIZJuJ7DpuqYsHF1bCB95d+KCQ/uUII7FQKm1mLidSqPh7vOjobmSCX2WBJMTHL0t3IBAMvj+ttH046Dc+2w3TkSoUE38e7BZYUlRKTkitXyGK8xXMqVQkSU9w/BGawkBGLoeVmQym+uPJm5jKWaSJuGBj6Hl7Lyz96CmXm8BS+TQO+4yxNllypCIKf1Dp+M3EmUnRd3UKURa8o7pn/ESW0y+jiDwtSMb6QzKfFAAAAAElFTkSuQmCC",
+    "wiki_name": "Osmumten's fang (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Osmumten's_fang_(or)",
+    "equipment": {
+        "attack_stab": 105,
+        "attack_slash": 75,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 103,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

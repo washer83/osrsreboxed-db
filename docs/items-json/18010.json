@@ -1,7 +1,7 @@
 {
     "id": 18010,
     "name": "Peace treaty",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "A peace treaty between Lumbridge and the Cave Goblins.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4Xt3X30pUURTH8Tlv0JXXA71ABD1JVxEF1UVQIYmV/VEZGyYzsyYbxmrSUpMxzcpKtD+SYkUU0R/EepuV37VZM+fsnLpo9hlww2FmUIYPv7X2WprJbO8TyZ9Py04kpb7jUuk/KeNDp6Q6fFZuFdpbhYpkOHdMAaMDHTJ5/Yw8ud0ri/fzMjfS3QpUMh0QYFamr8iHx0V9TRGVTOdh6bwsjF2U5eqAYr4ulOXH6zEF7cpm00DV05kqdsnzu33yZqpf3s9dky8vSopZX57Q30khJZdOOX9C7g12ynwlJ68mL8na7JB8fnazhll/+0A2VqpppFRPh75ZGi/I6sxV+TR/Q76/rCQwG6vT8nNtJmRK9XS44tbEH58WG2J+vXukTyCUS4crbk0M5tvSnX9iKFuTS+fS4VbRNzQxN6oRxkCBMJxISzVbvqBNrJjFkdZhSGdvNiP7du7Q670VJl6qoBgDcc0Zggy+Rhi7VcEwl7sOa98wAG095Pa01TFeqQJhXCpA2FOkwjS2AcjMAeWnEwzDjgJCKrbBmTf0Dhgmcs/uNocKh3Gp0CdAuE22owzDzAHDvqKpDRUEA4SBR3ksFUoEhjJxzUkHDE3N/Ilv9KZiKBGYYs9RHXpMYXYUk5g9FU9HMZvpAAqCsWRsR7E0wfilSqSzCQqGoXkB5TsPyuC5I7XPfqmsd3yQ/63/cRyIZZnrOKAgSkZSbHJ6ica2dOKgAOlw3PTtbd9fAzEEAfKeIQjqbyD/G5twIgUBKJw+pD3EK5/pJXCUMA4KlE78RAqwZCwxcExqnq1A/rc0+USKAMNDKcExDnjPzwGlkE78uL93SIqyxTEOkCrGjv8/ehKRMsYdA8Qf/3e2/fkNl4LviDWUbP4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACS0lEQVR4Xt3X0UtUQRTHce+f0EOw7JNPPUTEEoWsKIVipJiorG7oKpushlZimYaVKJZIGoggQQQREUQQEdH/d+I7w5mdvXerh3bmggcOLKssH37nzJ3drq6zXYlkO7dKZLXSL0/uDMjW3JDsLNyStYmreaESuT/ZJ4+mr8vm7KC8qN+U/cURefNgXHZrvXmgWtNRzOnjirx/WpWT5cGYqNZ09hrDcrgy5jCftmvyda9uQKXu7hioZjqMCszJ2qS825h2mG+v7srDsSsxUmpN5+DeqMN8fD7rMN/3F+THQSNGSs102Jvj1Ql5uz7lMEAUQ/98vRgypWY6HHGWGMyHrZkMBgj962jJdCCUTYdTpScKzJfd+X9iGFuHR2fTYVTsTRrjjygChrLpcMRZYo53rhjSOVcomc4doyCOOcv8eWcuP0zjdjlzVxUvjmcwCgqEsanoPaVXg/8ABBUNw3MGCKlwovThx+6A4XooXhhxqEAYm4qOx09FMRxzMDR7pKggGIWwtKTCriiGMYHRdMBwyvwbvaMYvbWXhi87DGPi4QfGH5UPCoLRXVkZLZmvC+uVaw7jj8pPhw6CYUwKqvWel3p/QTaneuRZtZwZ1Z9A6U/9j7IgkgFDN24UTG/PlM33YrodKEA6VGIw1R6L0YSWB4rm9cv5PrPgfwOlP7EDlTgQGHaI17zHzxnAjNQHBUrHr8QgdHRgaHCMlG4HSn9Kh8uiFAOuPnTJPLG5VPk7oAjp+JWYVNphLCAqRiv9G70VERljSwF+p//nzNdvATU9Zlth+Y8AAAAASUVORK5CYII=",
     "wiki_name": "Peace treaty",
     "wiki_url": "https://oldschool.runescape.wiki/w/Peace_treaty",
     "equipment": null,

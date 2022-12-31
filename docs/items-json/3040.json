@@ -1,7 +1,7 @@
 {
     "id": 3040,
     "name": "Magic potion(4)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-07",
     "duplicate": false,
     "examine": "4 doses of Magic potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xt2Xe1MSYRTGe7+JH8Gmf5qxMbW8JHhLxQuihCZZpBAIBmgaXrLBLIphJDMdxzJHJQkv5S3N7GbZN3rivNsuy9o/NbDMdGaeYWZhdn/znOe8Zzl16v8ohmRltBgeDmrQ77oAmzkHBl12pqEYPqyasRdt5wqPV2HYW5xJKCbBbEdaEfJXwne7kANlZ2WpDSVkRgTaXDIhOFrO25eBPDEYDCYYjW2SO+uvjAiMaNHryIdGU4Hyimo1oRjM5usn1GS4grp6Ay5X16OwqFTN1jF0dlm5urpskvR6I3Q6PUpLy5Fz7ry6QE6nS5Kj2wm73YGGxmaUlVcjL+8isk+fUROIimFp+TVWV9cRi63hTWyVt6uoWCOFmmBUBbJYOuF2e+D1ermoXSUlZZmAoWLxNnXD4/FyiUCUH5VbJRbDz6017pDbI4haptFWIje3QM2Rp2L4PD+F482YJIJb6e9E2GrEQHOFmi4xvH/iw4+NFRy/jUpAdC3ms2La0YoRUw3cDVq1XGL4sjgjwMi0FxzCxvAtzLraMWauV8slhv3QCL6vLXOHRBEQXd++78S8pwOBjkYMxV1y6cQjIG0Vd2dhOg4U4ZJD7U+MYudBL5b7biB0sxn+qzr0NaV14uLvPmE/vq3MS0By0Xe7j/oQvWvFpM2khksMn16EebuSJQAdPB3DbmAAa4NCsNPs0m93InM4ii1yKcEOngd4sN+N2DHXY+bjP36tAb6WKnTXXkq1SwyHsyEcRRckILk40PRjIdh+Fxa8HdyloMWA0bZa9DYm1onyzv9QwmRRmDmQXDKojzNBKdiRO5YTLvXUpSxLjLeDwizqBFhc5KA82DT+U3ZTOlyiNTEZz8/LJCgl3OHcRCLYQzY+/nRITlhbpIPSXlOSOpc4kFwKMJrAg2fjfIVs3XMkuUTT1qHNlxxKiUu0Lr4uzXLRtAlKwNGyFYO9M+bmOSIY2mv6grOphBFLeAukB1PAlYB0TQw2wdDhKOYmDTBCCTcU/3MJa0QEo08Ktrg6lCAph5FX4gEJOKVUAflTyR+slPK3f1u/AMi8qG2sCzYrAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xt2X+0uTURzGPf9CUBAkWkoMTdF5yUSdzcuKLWuWW2KSuVBrKtsc2i5lF7qhFF3oQkEXSWQpolPDyBARkRKx6f/z9J7zet6977v6IdjOoC88v2xj58PnPOe8W0bG/zEE2qR1CG76K+HpKkWH4whsDYfSDUWwOOHAwngLy8hwLQZ7j6YTiigwsx+b8SBswsCVMgZUlJ0tGkruDAeafm/H3UA127409InAeb4dbW0XFTuf3zThzlAV+lxG1NWdgMVySiQUQaerKyEO5wXY7U5YbXZU15hFbh2Bu7efpVeVFkcbTp9pgdlsQUmJXG5hQH7/oBKfzw+Px4ez51rRaLGhoqIKBkO+SCA6BJHIFObm5hGNzmFmNsq2q8ZUp5SawggF6ulxIxAIIhwOs9Dtqj3ekA4YOgRerw/BYIglFAop/RG8VXwIdra7maFAUA7dsvr6kygvrxR55OkQxH6ZsBNzafJpLA+joznweg6ItESw/L1IAujQwCwtFSEykYenT3IxNJiJnu79oixJdmLmXaB4KOTMdAFevsjF9XAW+vuEWCJYWS6WAFqltGuA6Ovz0QK8e2vA7VtZoizx7lAYbVZXirH4pRBjHwwYeZgjwhLB2moxtmPNKkPx0Pe+fS3ExHgeHj/KYZb8A5m47EqZJcnOVtkuTGLW14ys2JORfDx/lov79w4ieC0zVZZkO7GYVVrcsRst0I91o1Ls168Os+OfQksEmxulKpjEbPw0smIvLBSyYqstua/KQEmyJJ8setRpf9TRA/Fi0wuSWxq+IVvq7kqaJcK2Qw+jDzXIi00vSGqJXpIpsESP+jFp0aa/RAba2ixVij09lc+Ov9oSfZx0XtqXPEuJINrQE8iLHZ0pYMefW6J3ktOxVzGUHEtSh+Q0qmKNR7LIi817xJ9rNuueZMLwkX8F0oXpba0FpEAmpdgUhl6O/A5KAYw88hfy/1zyYyQOZWbF5o8OPUjSYdQTXyAOp48QkD+NemF99J/91/kNOzx4lR9HT4EAAAAASUVORK5CYII=",
     "wiki_name": "Magic potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_potion#4_dose",
     "equipment": null,

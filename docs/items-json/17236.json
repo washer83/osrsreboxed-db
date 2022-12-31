@@ -1,7 +1,7 @@
 {
     "id": 17236,
     "name": "Pulley beam",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-22",
     "duplicate": true,
     "examine": "A beam with a pulley attached.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACT0lEQVR4Xu2VW2sTURSFe/5Jf4IvvgsiIooIlooVC2mgGdokNGmTTkwMM0wbJ41t0musVdJSsUEU/IfL7p2emZOTdi42l5csWMy8zMk3a+09mZmZaqqRSGDQE5NAcWUO1fw7uB+WcOCs4Es9O0kwATPzBk5xEY1KEkfbq6hvzrNrhblJgAmU195i20ygZadw8indB0TeWn89rjp7dVkb7726VCAJRUB27hWq2ZfsEcL5de1ay6FAEqqcfsE2jefDhvPrCgNSU1KByIXlZ8gnnw4DTnh1SSAVRp8jtTYdSEJlE0/Y/XCRAP26goCi1KYCSaj04mO2sfCIHQFK8LcnDlCU2tSUJBD91oPZWbZOoSge0P/UJlOSQDqBpuhA960tIhCpN3AZYwGppXlYxsMBEB0oLKXbaosFZOaTcD5mUFhLeGDNnSJcJzcAdFdKQbVFnB+p67UvGXDtHA4/l7C/s4mzEwunR1UcNkuo2eqfrLgTKKi2GOmQBKfTdIse0MXZFi6/1/i6625ob9j/bYlSWwygXjoNZ51hjvfKfL26qONPt4XueYNT0g+UcLcB6inFBqpZWU7ndL/KQJTM7597uOrUGYiqCzswCFA+G/S8IsHpEEin7aDdqngwEujHuYuKmbo5PJpUwBgwJOENMyVE7l5eQ3xzPSByzLe8j/zKKCVKiOZHBaKNC6tsiBKwy6tcG0EREFVEtdFQ//3VgmNlxgtEW0YpyVmioaaUyHQ/xrqk/G0gIPr2dL46XFX7oDLOdHwNaWVHI31dJwoz1Y3+Afkr2WUpz/yXAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xu3UXWsaQRQG4Mw/yUUvS8lFS2loaDAgNWhRMRoSlajZiB/VLGvFxgRb04TENjRFUij9sW89x4w7jlt3t/XjxhcOXrk+nndm19ZWWWUuEZicpUUgHduCsb+D00IY7Wocl9b+MmEC2cQ2Ktm3sIwILup7aOQDPObRm2XABPLJAGq5XbTKMXwyk2Mgmlpma1F1DusqpoOjulSQRBGocvgaxdQmzxxxdl0filFXkEQd771CLv6SZ8Y4uy43kLolAklUJvqC5zDyfBY4MapLggigg5xqU7ckQTSp0AbPOM4T0K5LBzmhptXmBEoEn/FEd57yeEAJfvf4AXmpzQlEv7Wxvs6jK5RMB6kot9pUkEQ5gXSBFneQjvJT2z+AKMMDl3gXQCQ0eB/Fn0yAJMpLbU7nyDcoexBGuZBAOhVCLLyN3eAmmmYG9UpqAuS1NhXk8fzICBxno6iXUmhbebTMI3zplNA9P0G7mUe1mFSurfBcmxNI/+W/RPB2mvUMg2h6VzXcXZ/yp1VPa/9w/N3iVptP0HA7ZuUAF80CD4Huv1r41f+Ih29N3pL+QIlzAuq1+QZVjeSwpvMSOi2DN/PzRwv9XoNBVJ3bA6cB5XenfV+JgPU+zZBet4bu2Qlj7m+sEYi2lc9EHh/uLSrQB4YiRoeZNkTTv2swSEX5/Jf/E7sy2hJtiDaigq4+V1wrm2EGtyQX59oIRaDvtybXRof690MbZSOxWBDdMtqSPEsE4toGm6IDvsC6ZOzbIG/ZzWWVX46dM2OR27Ezoys7n+jXdamYVR7zB+ZAevaPw1NHAAAAAElFTkSuQmCC",
     "wiki_name": "Pulley beam",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pulley_beam",
     "equipment": null,

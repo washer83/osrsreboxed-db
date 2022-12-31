@@ -1,7 +1,7 @@
 {
     "id": 802,
     "name": "Steel thrownaxe",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A finely balanced throwing axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4XtWVTW8SURiFuf9gVrNx05/gzoUbNqQxaUhIiQ2SNi1NWyKUiJW22I9gxYr9sFgr/TDGGH/o0XPHd+beYUCcDAVP8i5g7rz3uee8M5NK/d9S8GoqpLC2tITFhYVpgFJ4vrqKUrGIQj6vgR7OzEwCyouour6u3Vl+VsDTXG5SQArbL2p4WalY7sxns5MAUni9tYVXm1XtzsbKiu/O3OwsMun0nzmKqsSlsN9oYLde990hECOjSwTjYLNaay4aRQcbOQeFjIPMo9QAqNiwCu8O9vF2bw+tZhOHOzsajm4RkBHSNYLWymUclFzUCw5KWQfz6RTmHntAdpzK7xUDygN63zrUJXBRgO2yi+ayg2reweIT0x27eJ8J9I+zp3wAFqFOj47w4U3LAtSbhOLihrI514Sdjg0kTc3mAnbebvuAZlz8zbV0zwQz3eG1WEByGrPY1IzBjOvr5SW+nJ1qWMJzYxNMesQGkoZSAsFGXjNlxfXz9gbfrq7Q+3iOi+Nj7aZ5v8DEBuLASpkgAtOpuFZc/E+gbroX6HY6foTsITBmv/CuQ6T0482yXQmum3HJY876cX2t46NThOKsMcKoAwb9RlI4IvuaGZe9LhqKTxsdMg9p9xxBg2DojsTVD63wvdfD3aeuD8RB50zJsAuU3Te2PHckrv7TKu0O5+jzyYkecM4SHZJ3UP8hYisYZsYV3Vhpd/gKkLjoThgkARgqGGYzrvAaRkV3GNWYQETBMEe7462hO2MGoYJhNoHCqzyNFYRS6NZdf5gHuxNo2LUEpHBWG9Wdsev3kG67/jCP4s6YFcQ1Fe7c7T7QcdEd+YhOFEjiGv6o36vUX16EE1Gi359kdN8wvwALQxzZCKAgvAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3UlEQVR4XtWVv0vDQBTHc+MNN3QQpFAIpUiQIh1apGKxWJAiRSwUCxahgyIOgoODg4Obg3/0k9fj5d5dfjSmSRO/8Jbc5eVz3+9L4nn/WwJ01UIC+sEhnHQO6gClYThQz/ergNIRDbvNECbwG1UBCbjotUKYioEETPotC4hg2k21KTPgbhUuG8Z1iNfbQsHjtYS7sYTpQMIg8BKgcsMKmJ76YSEYFQJSEejrXMF6KmE+knDZ8+C8q4HsOPUBsXJAaaDZWXtTaXDvSwUvNxJWEwmzIXfHLn5fFHarbIcILA7OjYuvxx0iNxDe6DbmYATH46JrLoBbuYHcwofxGHhcy0kAi/FRJqhCgAgCG+lmwoprdXUcQt2OOolQOHe5gPjbxEEI5uNeWXHhNRcK3SKIuH7uU1NkgGxXzDqPi17zJCh0a0cglBuRvcbjsvclQ+0QmVYSDLpDcUWhtwMRlN03t7Q7FFf0tCICw4HSnf+zzDBjXPGNo0D8c0H7C4BBmWHmcbl7OExJICQzzPHu6D0IUzIIygwzB3J3aZUKghLwtVbhMCe7Y5S2VoAEfD5kdad0Cfh+UuEwZ3GnZJm4auHOz3NjExe6Qz/RSoEorvRXfa8SWz6ElajQ/08x2jfML7PnczvQU1akAAAAAElFTkSuQmCC",
     "wiki_name": "Steel thrownaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_thrownaxe",
     "equipment": {

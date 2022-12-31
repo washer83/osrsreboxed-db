@@ -1,7 +1,7 @@
 {
     "id": 15270,
     "name": "Potion",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "This is meant to be good for spots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xt2XeU8TURTFed+Ej1Bj/EcImyyV0gKCtQuFWkgri6W1pdVuAcsSTBECEpQYozHGJQKKLRgVkPjBjr1v8h7TAU1Mpq+JNzlpMm1nfj333DvTurr/oxgqVdNiWJu3YTZ5DdFQA3xOS62hGH6VQjjdD3Jtr/ZjMdNVSygmYY72RrFV6EP+QQcHstTXq4bSMiOAvu8EsLns4O2rQZ4YfL4A/P4x6c7hez/Wl3qQjbfCZuuFo3dAJRRDKDRxTkO+27jl8uHGgAsdnd0qW8cQno5wTU9HpbxeP5xOL7q7HWhobFYLlEgkpeIzCcRicbg9w7A7BtDS0g7LpcsqgagYdnY/oVQ6RLF4gC/FEm9XZ5dNhppglAJNTYWRSqWRyWS4qF1Wq70WMFSs3KYZpNMZLgFE+VHcKlEM+Z9PuUOptCZqma2nD01NbSpHnoohevAIcydbUgTn3Yigdy6Atsl+lS4x3HmbQ+7kSQVQ6E0Ww1tRDC6MoTMyiOagliXjt6tQDPe+FjiQEAERpH87jpvLIVyfcatyiWH8XQ6p4/UKIBIdD7xIwrUygZ7UkCqXtOxkjze4KoA+zGLsVQqe9btw5EZUuMQw8fEhEkePJZBe9F7wdRq+zQj68wHpUtOoWJSmF0PkYJm3i3QREAV75FkMg0tB6VLreFX2kuZO/MeKBDJqcjfPgx14noCzMC5dag9XxaWyO/uLSB6tnQMRmtqb58EefXkf7tVJ7pI9OwxrzGm2S9pk0agT0J8U/rwgg00LklyiJWlLerhLLeZNHOO/nsJshNCLHCQgCjYtSBp/WpJVcEkLMwH9TZHikgw2LUgaf1qSepca/VbzXDICGEVAMtjlBUnjL1yiabvi0m64Jj2WlB81vhUqRBOnF7kogi1yJO5rFvtVM2FEaU+BtKkp4CQ9HB0XwRYwIjdVgNFKO6H4z6XdZAUYvVKwCYaWohHEdBh9nV3gDM4oJSAXlf7CRhk/+6/1GwFlY1ls8ht1AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xt2X/0tTURjGPf9DUEHQEGIiiDZhk2U0FMVUNGJLmSkLZJNybjG21EqzkrAv9gUpzElCVpaCIIgUiBSCiAZFBiIiSIlg03/h6b7neu7u3eqHYDuDXnh+uRs7H573ed+zm5X1fxSDURkthhvt5xC8WI0mtwPV5ZZMQzHMTFzD9LtOTI11oK+nEeHAmUxCMQ1mcjSC3utu7hY9LzCZZEOpmRFA4yMh3OqsR5u3MhN5YmhsrIPH49bceRO9zPN0qbkCFRWlqKoqkwnF4PU2wefzGNTQ4ILLVYva2tNwOIplto4hGPQlye12wumsQVmZA1brcblAHR1BTZFIAKFQK+rrz/JWFRfbkJtrlglExTAwcBfR6CMMDT3E4GA/b1dJyUkt1AQjFcjv96KrK4Tu7ggXtau09FQmYKgYwmG/AhTmEkCUH8mtEsWwtxvSgEjUMhp5u90qc+SpGGK/yrEXCxj0fiYfw8NmdHcdlekSw+p3qwLQaoBZWbFibjYfoy9z0HvbhHDoiCyXFHdilftAcRHkwrwFb8dycP9eNq52SnGJYW3VpgA0K2oxANHzpUULpibz8ORxtiyXRHYIxqj1NRu+fC7EzHQeos/NMlxi2Fi3YTd2XudQXPTZt6+FmP2Qj5EXZu7SzR4TgoG0uaS4s3NiHyZZmxtFPNgf5wrw+lUOnj09hr47pnS5pLoTizmVwz37MgL92CzSgj0xnsvHP40uMWxv2XUwydr6WcSDvbxcyIOtd6n9igqUIpfUyaJRp/zolQgkgk0LUrjU/0B1qcV3OFUuMd6ORJhEkYMi2LQgySVakmlwiUbdoRxa9xepQDvbdi3Y858K+PjrXaLrpM1/KHUuJYMYRRMogr24YOHjL1yinXTBc1BzKDUuKRlSVaOTMy7FRRFskSNxr7mcB1IJI0r9F0gH07Y2AhJQuRZsgqHlKHZQGmDUUn9QvHOp10gcqpIHW1wdiSAph9FX/IA4XKKkgPyp9AcnKvG7/1q/AeDmpwXrq1acAAAAAElFTkSuQmCC",
     "wiki_name": "Potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Potion",
     "equipment": null,

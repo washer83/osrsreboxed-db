@@ -1,7 +1,7 @@
 {
     "id": 18274,
     "name": "Looting bag",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-03-13",
     "duplicate": true,
     "examine": "You can store stuff in the bag when you're in the Wilderness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4Xs2WX0sbQRTFM9+gT770ReiDUBBEKEFEiJQgwUUSElK2khAjMZKmQRuNUYOEWh/9zNeeGe5kcrtmZzVjvXAgLJmd3577ZyaXyxyK5JP/GIpqcUwGKk3BQ9Fxr0eFYpF2CrtWW9vbVl/yeas3gFLU7HQyAW2sroaCUnTU7VLcbNG3w0ai3hzosN3WQCxAoJ4OqlXaL5e18JvB4F7AtCk6HQx0DSFtgANQpV7XIHtRpFMJfS2VtPAsuEvQSb+v08eOwSUAcG3BnY3NTfq8vk6f1tZCupTLma81YOwWHEoC4v9hTUCXEIoeT6b0cDSmaeNCp0YCuSDBYe6bIxpWu9SLWnS8950au1WKC2WqbJUoyhfnnJGrlxxKOwKI2/iMfh6054BqO9GcAtaO+WK4go24dmSXcdoC1o558eVkQqNaj1rFuoZyYXgGuTWEOcRr5RtfEYpuf9/T+Xhs04PUAIZbPckdd1rj2ZKgFF3d3WkYFDDc6e43dLp4Qi9yBzCYQZDb/nIXzzApAgzamt1ButBFfFxId1wYdyiyeGrL3VJC0fV0SsObGwtzVulYGB93XJiPfwtaKgOUosmfB5sqCeMeEz7uSBAXyLPz5oH6wwsL4x6m7ukup3OaO1CGs810FepncDmiH+e/7CHKneWm6zl3FsFkdMnUDwPxVUOe6vK64Vs7L3BpVtBIV9LdJyldWd2B2KEUl2azB0BIlwR6Ll1Z3HGBJEFCKA3E9fMugLh+3g0Q14/bYYuAfNv9hUAIc5n3bXkJtAjKdJZXQcswCwHGbe92WRqQC/VhZeUfkIwwJswiPqXNhZ5nEUNx2zMQi6GWAiJj9qIZnK+WCpIU7ga+ku/wiSe9DSw8kMW34QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4XsWXb0tiQRTGnY/Qi4UIAoklQhaRSCRREqXQUDFJk/5Ia1mUSwWxL/ezn/WZ2TP3ena2e0ed9sCDcHHu/fmc58xcMxnvUiSv/MdSdFyrkYFKUvBSNOz1aD+fp2+5nNXe7q7V150dq0+AUnR2euoFVMhmQ0EpOu90qH1yQs1Gw6lPB+q2mhqIBQjk6ahcpkqppD8hBoN7AdumaNTv6wyhbYCTQGhlsVDQOjw40NeCu8TBRvvYMUABACCAYoey29u0tbkZ0qVMxvzaCAxuwQkAcdgZiL+HNQFdQin69Tqgn489ertrayB2h4HiIMFh3qcdmgzrNOpWqN8qUbu+T82jAtUOc1Qp7i04I1evuZR2BBCzcZOuz6oLQI1KfkEBs2N+MVzBgzg7mLJ6tWozxG0LmB1z4+fJhKajBnWPixoqDsMjL0PNa+UdVyhFLw8PNB3f2PagNYDhUXe5E58yXFsTlKIf9/caBgGGO8N2WbeLd+i4Oy4Y7EGsFd3606I5DMaa3UG7MEW8Oye5w5siC99bAsq06fH21sKMz2sWxscdQHzZ2PhLHlDz/WU2s62SMPGzS7qTFoaBUk7efI95etLturu+opuLCwvDQV7VHcjjbIvaBaCrwcB5iDLQMu54uhQBfb+8THzVkPuOD1BKl6JRR7sABHdc7ZKT5QMDsUMJLvkDLeNOHEgSOErZ/CwDJB/8L60M5MpQHMjHHW8gBJqBPgo1A/m2yxMIpZxA8kB1ASVBmclKFWhZZiHAXDn6CMgFJUE8YUyZRXxKmxd6CcX/MCQQay0gsqIbRXBptVYQV8UfkFbyHmnqN7tJwWLzJSVdAAAAAElFTkSuQmCC",
     "wiki_name": "Looting bag (Closed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Looting_bag#Closed",
     "equipment": null,

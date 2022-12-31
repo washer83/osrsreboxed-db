@@ -1,7 +1,7 @@
 {
     "id": 26399,
     "name": "Ancient ceremonial gloves",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-05",
     "duplicate": true,
     "examine": "Some ceremonial gloves dedicated to an ancient god.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xs3WWWsTURQH8ORL+JKXQB+EgBCEICEIKRJCqARDi6EVAxVEQfTNFxVxQUVRUSoKrWipYlqlaim1Li2k1NYNcSt+nWv/d/hPzpzc1EwzSi8cMssdzi/nLjOx2NZvceMO1/1/3uLmxcRZMz1+xsazh6fN1P1TNohYmr1uGjPXzOLLqw6U/hNdwz0QUQAxNGbh+RXz+umlQGKc456OICoUMm5mHp1rQeEXEAZB81MXzeyT87Yvfl0g9JfotdUJ82N5bHMognDM6hD0dvqyBbFvOxCe+7Uybn5/qq/HpAUhRzqZtKGzq+aVnf+aICR1gebqF3wQjl2g5bkbARCOCdLZVYsHhgGJOLlxrkFIDgSHoh1odf5WdCBWCddcIDzTVxgw2UzeHqNqGvTxjQTVw4E4LzRIryYZA+WaKfZWTHpHxp5r0Od3twOgn+8fdA/CvcHiLrMvv9MUsyn7i3NgGLuzBSfoy8JItCAE7h3tz5vhcs5CUBFEpe+AD8K5BmF4vzXu+qC1D499TGgQUXp4yqWqnTcMoAhzgb437jlBOnub1lwxABEhgwDCJFiGD1oa3SzI24NQIS7ndhBiOEw4z6Rz9n5PMmUSCST0XjUBkNgUdXbVvCUvQbJC1cohGzjmUAGzJ7/XDPUfthBcw3lvrhSoVGQgiapVj9nEQCGpTEgsUEAChoqltqf9SnUNklWSu7GM4aHj5uD+Iz6IFeSwtlZo0sd0BMIKc4H4OmACziUAWDUJ4UTH/MFrQw5Zh9VBa4L0PMJ13Gc15DIHiChgMGQ9iW0+CK+NyEBEEcR5JFccjk/WSjZODBb8zZMg7NISRJTO7mgeyDVsuMaPLKBklRAcShnoj8+Or4t3fBD2oBD7UBAkh40gJEA/LnMmx26uP85Qna5BWGV/A8nJjXccMAShH3fnSEF62HBdgpCcL11iCGJfgFZe3QyC1veg0PuQa9gkCMcbgVgh9I0E5Bo2CcI9+VkiQegn50+XILTW1eIKiZGhQdgUJYgRAhSLcVvfKDRQhpw/kYA6bRrZCZbR7Pufmka6Qj+zpdsfuAYUlLwOYPEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xs3WXWsTQRQG4OQHeJGLQhECIUiQECQUQ0gxGFoMbTGSSk2ltuJH9UIQCoLgXxBRkIqgiIgiRS3FUiqhIiIigogIIiK1+k9G3gnv5uzJrGazaenAIbPZCefJmY/dWGz3t7hxh+v+tre4Wbk1aZZv1m08v3HMLF2v2SDiw+NZ8/7RKfPu4YwDpf9EZHgLRBRADI15++Ck2bjX8CXGNe7p8KNCIeNm9fbxDhQ+AWEQ1LzbMGuLU3YsPl0gjJforeaC2Vy72BuKIPRZHYLe3J+2II4NAuF3v15dNr83rpo/r69ZEHLkUykbOrtqrbLzXxOEpC7Q+p0THgh9F+jjkzkfCH2CdHbV4r5pQCKCcK1BSA4EpyII9Onp6f6BWCUkc4Hwm+HCqMlm8raPqmnQ56U2CBEKxHWhQfiOldAxWq6Z4lDFpFMZe61BX56d8YE21y9FB+HeWHG/OZzfZ4rZpP3ENTCMA9mCE/Rt+dz2gKZH8qZezlkIKoKoDE94IFxrEKb3+8p5D7TVvOJhegbp6SmXqnbdMIAizAX68XLeCdLZA1p7xwBFhAwCCJNgGQT9XL3QK6h1BqFC3M5BEGI4TbjOpHP2/uBA0iQSA/b7TlD7UNTZVWtteQmSFapWJm2gz6kC5mD+kBkfmbIQfIfroVzJV6m+grCOcK9WnbGJgUJSmZBYoIAEDBVL7k17leorSJ7GMurjs+bokYYHYgU5rbpCOKWJ6QqEHUaQRKGPBcoEXEsAsGoSwoWO9YPHhpyyLquDFgziI4LVkNscIKKAwZQNJvbY8XjU4LERGaSnjSCuI7nj0J+vlWzMjRW8w5Ogry/O+kBE6eyOFgziA5MoWSUEp1IGpgsgPDYIwhkU4hxqgeS0aRASYBy3OZNj4bOS8oTuO4goCZKLG48VYAiSrx4YixezSCBs+/+BMAbJ+c5NjASxOp2ghfDnkGsdSRD6Ow7S60iD+BagQfi9BOEMigBC69wtrpAYGQSxOhrECAGKxXis/ys0UIacrr6Aum0a2Q2W0R67Q00jXaF/s6vbXzPyk6Tge5XtAAAAAElFTkSuQmCC",
     "wiki_name": "Ancient ceremonial gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_ceremonial_gloves",
     "equipment": null,

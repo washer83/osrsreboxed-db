@@ -1,7 +1,7 @@
 {
     "id": 18592,
     "name": "Progress hat",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-04",
     "duplicate": true,
     "examine": "A magic training arena progress hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xu3W60tTYRwHcM9/sFfnTW/8E3rjqwiCkAhDikZDZWEbbsNt4tQ5r+OgpuWljbymVsvb2HRtzuZdrMTKlnkjRKkIy4hu9B9883nGmeccUaaezV70gy9nbOfy4fuMc05S0v851DCQfrN3yD7CxG0YhFcy9rnILkCjuACTIh1l59KQk3J2n/2PPQy2f9rwYVuD6edXJQ0w0CvSYFUoUclmooa9ASdrQGt6FqpTr8ByJjUeKAbf/7Tj668qrG6o4Q9doi0QRKlCBY5V4xarRSOrQzNrhCdDjx6lFu2X1Wi6eI22JTOKwbffjfjyw4Ll9aw9DREIaaWNNaP7VAECahNFuZSaKIq0JTuKz+nkZFGkwLFsC0W5VTqKGrMXwFNkiB4rPfORR4w46LcIypdlRLjBjgmuEP4SM1xmrdwtHWYYbLTfpqDZahtCFRYMWo3ytxT7MNjsbMSbJg5ztaXRlu6bNCfV0g6oy4EVZxUW6itELdVk8reOhA+D9ZabeHuHw3xdGaY4K4ZL83DPkH0SS8fg8xqHrdVKbC3bsP7CgsUZE+ZCekx4b8CuSk90SwyFfFoqxsdFK96Hi7A2l4+FyVzM+LVwNSuRo05JFIqJIjZfF2LjVQFtiGyXnpppS8G+6+Bs5xOxdJGbI494N59Pm1l5lkdDQKSl2UAOOh2Ru3ecQBGI9OIk5L9DEp4yUszLcQPmR/XwuSKPoTiAdu7MQ0GEvAGaJx4/gm4fzfDAEAJ9XprHvR4M9bhpvK4BGn7ZpGc8xjAY941g0h+iW5JYcQRUZ6+Ws6VIMzxoKjBKt7HiCKit6S4ylCo5WtrFCEHTwTEa8pkHSnEExoP6Ol0w6XLlaEncjhA0MzIRDY8TNkeOE4LstnJ5QA88ZXANltP0+Cpoev12mv5hjmY2NCmCkUhBjtoG+UBC1EEwYch+Xf02tD4shKMjD/UtsryW7IJigfEh33W7S9D2qAjOrnyaEk4tD4icmGQ/lBDGh+zT0VscDQHpzJEH7TFBZMTv0rGEhxIYWbZapz6KkQEkfpeOJUIcWTZZMUcdIe7EMdL5pzBHmb+Jc9p8+CqzEwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xu3Wz0uacRwHcL/H5+AxGMHAU8SQkDGRREmSiYaKij9CM8xZUZhr2FqYLcuJq2RNMocIERHbgoiITtthbLvssMNg7DAYO+yyP+M9v195nvRJm9Vj7bAPvC8+X5/nxfvL8+WRyf7PuYZA/MvpoWtq07Yh2Hmta/KQE4BO1g0zp4K7qwe9nYom6y89BJ+/2fDmgwnrm2pRAwT9MiWcnAYBTo8IZ8S03Iq42oCQUg2zoqsdKIKfvwP4+sOO/SMDHqd7WAsU4eW0CHEGTHAmTMktmJE7sGawIa2zYFbTj0mVlrUlMYrg+y8nPn0ZwN5h36mGeEhS7kFK7kPB6GKolNYkoGhbkqP4qBSKuoiBZbOXoZ72WRmqMOzGsssi/Fd85wtPPeKsa1VU3ujEfmwExZAHqz47Zq1GqVs6zxC8S0QZaCviR37IhYxnQPqWWh+C9/MxHNwPY2d8SGhpxtJ/XS0RfFy4j+P4GPaiobqW3GrJ37pWh+Dto0kcTkewOxFEKexFzu9AzKS/jq0jOC6N4ejFKF6mbCjPmZGfNiIzpkci2Aur6tZVt0RwuBnBwUYY+/kRbCcHUJy5i7WoAalw5VyyKNHZwV0VijDE3noIr54Ns+zmgnUtxQfV6FPdvIqtqx6OPGJndQjb2QC2Mn6W8hOf0JLP2N1OUBVCHy4G0JSWvSimPCgsuFloS1Pu2+0CERTSbpb8kotlfdHJkks6hKwm7CzZOasQftvEd7zEEBQzHiE8rBGuFsjDAo47UrZUbYbHlLJelkZAMY6iKCg2oseNDrkULZ1sUy2ovOJj+RuOoihocdoMjTRvW+N2eNBWzt8UR/9XC3KYlNKAFleCQpZyw0hXzh2azPMwshv3WChMjKOoWlBksFcaULLyeotRPIyimoWunUsP4sG8C5NxG0ZjknyWVEFnoRqFXktUzqf4ggfRhw4Wu1crDYje+CxUo9C1symvEArS6CQ7seu/pVsJj6Ywum2hcZOAkQBU/y3dSmpxdNskxVx0anHXjhHPP4W5yPwBhUFF8GUrKb8AAAAASUVORK5CYII=",
     "wiki_name": "Progress hat (Full)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Progress_hat#Full",
     "equipment": null,

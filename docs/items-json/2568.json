@@ -1,7 +1,7 @@
 {
     "id": 2568,
     "name": "Ring of forging",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-04-20",
     "duplicate": false,
     "examine": "An enchanted ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRUlEQVR4Xu2Vz0sbQRTHM/+Bp73sZWAPAwuCCCIeBE+FnnsXevDmoeChIAQES1EQKkrViqAlIIgVRaTVkhJCKyIBf5DaioKkQilSShHpoXh45vuG2R034MXMpoV84cuSZNn55H3fe5vJNNXUPydB2g2TAdCeUh67QWCCDrqCyPl2yc4+6ImcMlQtUK7VZ9tAbVKmBSXoe7eKXKnaABmolIDinsm9mqGLHsXe7QzYC6Ef2SFQDFFckZF31gPaeC2pr7c3ArKhHAEJ+rQmawyY0ttq/7wPqLAs6c2sT1PPPSp0yMgOgATll/RhCy98mhz2aPGlT+9ykvY2NcxRIaCTj9XINgJamvapWAUxdgKEw3MTGsYAbS1KBvlaDOh0W9HZjqLzkuLv7XgBU0cgwVVYndNRjAzGQOgfG+TiUNHvLyFXCfc6gIEE9wliAEz/4xYGQnw42Ab5cxrS9bdWrhjudxAVJDgWVCj7JAayI0n6x77innv21NxXVwn6WdYxoKEBZEeRNH7D9M2O3r43+dR7SND1eQdVdvW/Hsve9dIUvAJQzfEhjx49zLgAggT3B6LDBGHa5sZ0jyRtdtHQgEehcgiEZv31OeSpQnzYzKgEDscVn7Ea1uclwyajTT6xDhJ0dRJyP2GyMEnoFVQEV6wAVA/rwHFcRoL+VkK6PA55zAGFzVz+EHDFAIbqoJkxjY6rY6R7CdEZILw2sKdMb5ld5bg6tnTzYuoQG7Y44kIv2c2dQnVimX2TdO1OSllJgIZANNXU/6AbILVcqNmHc78AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xu2VwUrDQBRFOx/gIotCCBRCKaUUCUErxWKxWCwu7M7f8DtEdy76IYLg0q3f4MqN3zH2vnAnL5OlmVQhFy5lJiFzct/La6/XqdOfk7GFDyYCFH5IjsQHAjP2Yxo7v4z64vv5qXPLUHWgXRqJNVCepm1BGfuVJc6fexOIUC0BlT2ze3q033kifp/E4udB5BwQqIQ4y3Pn89nMnmSZvdtuHZCGCgRUhdAw8MV8Luvj6dSOhkP7Ou47BwAykgAOm4zHciB+sUcY+HKxkDWuve1B6GBAhNFAGga+Wi5lX5cXMA0CGXlrliIdDBwQSqRB4OvVSvZxTwAYqAQCTBLHchjW2NcgN+u1GIkBOECpICMH+EC6JL5ZNtxf7DUqI2/PZgWQLoVvXGPJ9L3+U38hY283G+kTvHU1HV/VfutHAWcQe4NfG3vEN2cRyhUcCKXjrOFc0tazyi+t/8QGVPQSGhZQnMzaelYFTIcqU9JQMBLTfxv8ugKmQ9VTIgzT4WgInI5W0bw+ENLRzd1COqU4b3zXZ1LL8gEOAtGp03/QD8Qwx616UcG7AAAAAElFTkSuQmCC",
     "wiki_name": "Ring of forging",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ring_of_forging",
     "equipment": {

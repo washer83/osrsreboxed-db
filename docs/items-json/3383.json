@@ -1,7 +1,7 @@
 {
     "id": 3383,
     "name": "Burnt eel",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-14",
     "duplicate": false,
     "examine": "It looks like it's seen one too many fires.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRUlEQVR4Xu2WuwrCMBSGk92hgw/gJhQEl+LUSYsI4qKL4gV9DBfFF4+exGOS01Q0bTLlgx/Fpvj551IZSyQSCRMu/BIELoqCWVlOv2f0GpPnLIQUF+uFLQOBz677TAbfwyuOBZkAUkoGU5Y621XWGLiOUjLDTqRsGUh9fbiD0ji1VdlaSsuYXzQeDH4KjK0qJg6bTNxO/Y9UMfaSUjJNEnR0M+r++7kvp7Eu9ZeYLUKv/gq2BU09XmLwQ0GsnHhMYRuROlxcD6opU8qzra5QTZlSn13Y7dHwD6oN60h4y7RdHp68T3w4BhxCdHRA9NHRJBNJSEnAdjfjEqJ3doxb5Djvyd0lt32cdpQIHoJmQGJfaSFIwHa0iBkQ2c16MihmrqdA7dQfwlTMJRFIBuDistV/PahYJAmKboAmooQNbSFyI4mEkyc/VoaFJU1MwwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9UlEQVR4Xu2W3UvCYBTG3WUXXXQhhCCIiIjIGDGRSblQlLQPMirp40II+rBPiIKCIIiiKIK6CPpfgiCI/qxTz3l5c04Dm9uu9sDDxvaO/fbsnLOFQoECBQpklULO7IkU2i0m2Vtmgn08mf31aTHX4fOSQbFkiNKRYS+gFLqqjtNJNU1nNWHs49jb9jKb93cavJVrAQ+oRHjITSgBcztj0uNckS7nVLqqq3S9oNFTvcTGcbuxDuCAaubjlAqPuAHVhrmuTbC766O375Y0hgYUXt/++Bjp0dFBoAQMbL2RFov1Zax9XtXpZbFMH3srdFE26MjUqZSIOoFS6LKS/xPCvvpvies/D9bofnaSodAAM+m45SH7VieI/Wy/kmm9LlXo63CdHxRd2NBSZMb/mdYgIN1S6L3V4KRQBqirZjbjNC23JJJCF6JBALVuxKimRigXd6ULnUikcVgW42Bei1AxJbpv0PJwKAGTVEO0qEc5HSuQfbWHao8OwOBVSSCf0xEQmEHSGJK9gOxXuiwBgptbQR5+uqyV12jTUBnIh3QECAaghIABAd/NFhhmI5dhe5iOAEErwxh+8tfkplqg22nzF85aTx6lo/BcwcDDJMYnApZgcC8Ij2AghepTQzyF5Z+BFc4nCLvaCdjtI0Sn7Cn4nEigQD31DaBOvx7MNnE3AAAAAElFTkSuQmCC",
     "wiki_name": "Burnt eel",
     "wiki_url": "https://oldschool.runescape.wiki/w/Burnt_eel",
     "equipment": null,

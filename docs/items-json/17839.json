@@ -1,7 +1,7 @@
 {
     "id": 17839,
     "name": "Artefact",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-24",
     "duplicate": true,
     "examine": "An ancient goblin object encrusted in dirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACV0lEQVR4Xu2Wb0syQRTFm2/SuyAIJIgICYyIiEKQpCVF8Q9WpEnm40NEX+V53vYxb3tmOMt1GlO32XrThcMuuzD35zl3Zt3Y+K2oZSSsHykjl9WqVa/ZlE7j2qqVJD8BZeS6XpfbblcG7bYFIhSA8O4bHXMw9/3+p0BXtZp176RSKRLK2Iajm5s5IEKFgKCjw8NioXyHFgF9KxSaAUjHRiAKYBBjK21uWvmrRSq3yzSUP0/QxempNOvnktTOinSIZbLofDCqnVRl0LqUSnkvc8lfJWIZO+B6yDOwFKLXSGPtXKUuVWRvd0e2twBTqEtu143v7jIoC5ZCAAhXxAV3AFTa2Yrtkv+JcA5pd4a9JBNgzo7L6VAfSHm/ZIEiumTkeTKRv49jeRoOM1dwj2cv02kG8jBoZDAaiLHhGgHKyNv/f7YxoQD052Ekr7OZjQcCEAYZc0MYSMdGlyJE9zEyCI4ABEC4r1dP5oAA4wNFi879KgdBEMJAcAdnDoB8KMYWGWreEewmLWx1zE/IJQJFhDLyeNuyQNzSPgwcIlDt/GgpFJUDysj0vm2B4A4A0Hg26loQDYPIoEVAIag1h9zYxhqG0eA5QAlDIDjE2EJQBMpxYKbnz7hvmzIqwNCFZUC+S4ugVgQy8jIZfHAHzdEMjXVsOi4NBOlDUkfHo2PFvyYOCA4RSO8iCu/pnHaIMKHY9Nd/RRiWmx/EQod0MwjvAU73lgFBa7gSKrfDMENoqhuiEdwDEF0iVAgI+iIMyx2IPH8AxPzXVQQYVnjhPPJXzl2FLfxbOesd6MycKRjDIwYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACK0lEQVR4Xu3W22rCQBAGYPcReuGNUBAREfEiFEWUSoNiqGKkFU94graUvonXfeOp/4SJ65q2SbrWGwcGYSm7X//JRjOZa1ktRdF9kVJ032hwDz2PHrtd6rkuddrtS6AUH/w8GNCo/3gCemi1/jOxA+YnEJJr1mpULpXOiVJ86MT3Y4PQxULhvKi4CV0EFQWSBgxdrVQY4+Tz3OZulkrxYQAJSmCCQ9cdh7rt+j6l6jkTklJHozNxaM9tMiibvQlTMnexWIofcP0hF5zvtWnQbTGoVMwzSFDmLhZL8XhmT0/cIa7vhiCMqpDPHYEspmR+RQQJ6elMhh1ugICplguc0G0uazslRZv5nFbTKS3G4zARfGLtZbkMMbNRb3/lHcZEgSyhFH3udvS2XjEMECQCzPt2w2NCA+S27siplkIMWh+bxdGdjgyNRAARFEalg4AxQZZSymSC/ypACETH4FZhXHWncoIyx2YJFWDkJumNW4WWF2Ec0B9RipbPXniL8KwIQt45wKCTpJQSpWg96YfpAAAQ1gARDNaASQNK8JAr2s6GR+kAICCsC0ZAGJk5tp9QCUCKXhf+STo4NA4obkoxQYo+NuPIdAQEiIxNH5cOQn8HkldHzJ8mAQgJCUhukRyMBlgfo4AEg4SiUtIhMTBSh5FJQnoCaGDxNzr2N1CCVKLqcMPkuuuHAqqnpF97E4T+I0bq8EKUA2X+SdsCRip64zRt7py6zrbxtVLWF18YJR2Yg3yQAAAAAElFTkSuQmCC",
     "wiki_name": "Artefact (Axe)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Artefact#Axe",
     "equipment": null,

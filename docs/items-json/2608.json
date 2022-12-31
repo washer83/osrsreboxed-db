@@ -1,7 +1,7 @@
 {
     "id": 2608,
     "name": "Adamant platebody (g)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "Adamant platebody with gold trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADgElEQVR4Xs2XW0tUURTHZ76BT/MyLwd8GDgwMASDDCJMyDwMijAoSoaSicxDFEEEUhZmlBgWReKDRYmFo9k0mZhdxlK8dCO6SQ8FfYWInnpa+d+HdVxnz5lpboYL/pyzb7N+Z629l1uPZ++bl9zlNr7r5qXM1FlKTw4ozd0+TbM3TykxxOrCKK3MX6LlhyMuUPpHVAxuATEUgFg6TPbBMD25d8HhGG2M6XJClQTppfk7gzlQeAKExUBLs+dpYfqcmounGxDmS+itzSn6tHajPCgGwjtHh4GepS8qIJ6bDwjrvmxM0tc3qW3NKCD4CBmGku5dMyvs/NUMBKduQIupIRsI725Aa4uXHUB4ZyDdu2ZeRxrgiDc32joQnAOC05sPaHPpavWAOEroA5DcC/mkA71+KoFSpQHxvpBA0lmwIWhrf6KRwtEwGaZBk2f86umr9eXAvX1+zQH0ef1W+UDoC8fDFGoMOWBauluo6WATRZujFKoPUWbET7X7ahWQFNa/y16vDhDadc11SgzFYqB4R1xBvRw3KBAJqCixGOjDyrgNtPXqrg1TFlAkEcmBShxO2EAMFWuL2VGCdCg3IN17HtvJP2BYEqq1r1VBSTBAZccMta8klExdGUBWDUKE8N7Q1mCLoTqPdlLHkQPUnmxXYBBDcZSQOkhC1fhq1G/Koqh718w68gyEmoK+n1mTfr0w6feKqdrdJw5R1/EuG0wHCoaDal7PyR6a6PfT6DEfDfaJCFUKBOdIDVKBdm9/r3KGfo4UxhkIJ47nYZzX2XuoXCBOGxwjCnCGdnIgqZwhUoiSBMI+Ql1iIIzVx+sF0IwNUxQQTpgOBMf4YTiUEcoHFIlF1DwI/dzmCBUZHdgOkNzYHCF2wntIP4FcEjgiENbtChC+lJ1AeimQQDhdEsiZMqtSW+P/NAtIpg19SAunCyftz7rpAGEY+efFNDz2x0gg1KAS6pATSEJBfOv7NhdQ+p629CMToPUJg6aH/HR/2E+PRuHIuury2o+rE+UB4ZTpQDj+6AMQLlrspJAwF0CY/355rHIg/bShn4FwneDbJIQbAdoQ1vFcAG08vuIE2q5BJdcht7RJILwXAgIwz60KkFvaJBDG5H8lEgjzAMTpqhAIlrsf3CRhpHQg3KUlEKsEII+Hy3oh6YBScv9UBahY0yGLgWXtzP1PpkO6SV+zp+0v2iGilmRuohoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xs3XS2sTURgG4OQHdJFFoAQGQpEixYU/plvXgncrWipRVKwugrdSpRqsMVZabLGkGkrTUi+IeHchgj9CBHfuPnlneCfffHNmnFwqPfCSuZzp98yZM4dpLrf7W17ccZ3f8ZaXxuwxqc8c8TN/87DUrh/yQ8T6YkVaC2dl7dGUA2Vvom94ACIKIMZimg8nZeX+6Uhh7OOcTRTVFTIvC7ePx1D4BYQhaLl2ShbnTvp98esCob9Gf9qalfcb13pDEYRtjg5Bq/UzPoh9k0C47uPmjHx5cVe+vqz5INTYXy77sdVNC4add00QirpAS/cmQhC2XaCNpXMRELYJstVNy0ceAwpxcmPfglAcCD7eJNDWyoXBgThKOAaQngtJsaDtpxdDENIViPNCg3SxYqEQpjQ8HG7fOto5bnGvVi9FQB/aN3oHWYTGaFBjKt6HuNfNy4MBJWE0iKjnV4uxPgS9bV0JQZ+374SYgYE0JusouUC2ekJzz5c0EFHNafcoEdUDKFiDMEJJoLLnxaJRSaNElF4UbXXTgleeIKwpOPaz6cmvZ578bnn+/p6RkTAuEAvvHR2V6sGCVA4MyYnxoXCE+gahMIuxEGJhLhCvxT7nUM8gPjYWZKF9Y2MxlB0lgvR1AGGVJiYTCG9YEoh3Ssy/QIgFYYQyjg5aB6QnNguyCBF2wursOIijw1iATRqIKFvd0QKQfmz8owThTfvTDoqkxSvmwpvRIKxBXaxDUZBGIfzq+zZf8vO9HuRHoyTtalHmJgryYLIgjytFv5/+Mni3Xu0NhLfMgvD64xhA+NBikbSgL0Do/2Ztun+QfdtwnCB8TvBrEsEXAfYRXMe+AG0+OR8BYQ3qeh1yPTYNwnYaCGD2HQjI9dg0COf0fyUahH4A8XH1CUKLzwdXNEbHgvAtrUFMF6Bcjst6WixQR8+fgYCyNovMgmU6ff9Ts0hX7DW7uv0F/rQIEE2mH9YAAAAASUVORK5CYII=",
     "wiki_name": "Adamant platebody (g)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_platebody_(g)",
     "equipment": null,

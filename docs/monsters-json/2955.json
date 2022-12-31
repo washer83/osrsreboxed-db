@@ -1,7 +1,7 @@
 {
     "id": 2955,
     "name": "Saradomin wizard",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2004-10-26",
@@ -26,7 +26,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "Follower of Saradomin.",
+    "examine": "A follower of Saradomin.",
     "wiki_name": "Saradomin wizard",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_wizard",
     "attack_level": 100,

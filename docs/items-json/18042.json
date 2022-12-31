@@ -1,7 +1,7 @@
 {
     "id": 18042,
     "name": "Glassblowing book",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-17",
     "duplicate": true,
     "examine": "A book that explains the art of crafting items from glass.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvUlEQVR4Xu2XT2sTURTFO98gq9lkE8giECiEQimhBBJCCSVFCopgVxYhBhIDsRZbUKlUREuFFKWCdCkFF4JSpKgUIoKI4J/v4Ye49szjvHnzMlMzk7ZZ6IXDZELmvd+ce968ycTE//o3y5GgxlqOzJXLUimVZLZYlJnp6XFABR0BCEWwM4YKAvxYqWit5rNaXUOT+fxpQNlZULqaTcu1bEaauYwG+X077wkg65O5AaipQsG7tpDJJIVyvLtCBmD55Uxalo4FmDAgQhHIhiJMQiCVA9yVDUQoAEEmEEWgMCh7piHL8cIIGLjEcA4LZLpkQo3QMrV0uWzDgAjVb5Uige5YUDdygEnkkiPz1apesmgdP9tAdo5sh0woM0v2jH+p45W0dEW7RIdwbrcMQBDunivKBiIUvsdvT8UltA5AzU4nEgh6udXQmTGBCMW2JXLp+vKyhqJDUFIgCA7iupFcMvcmnJ8EtHfvYmjbNgrqGGxbbChH2o1GAIqORQEBhi7ZQBDbhptKuPE6slCr6XYRygQyYSC4ZAOZLuE3jEGCjVcB0SUI5wh3mDtsF6DCgCC2nuPFDLkKtw3lrbgTgKIcghbrdW88jgklcskcAIO2V24NBfRozpWndVf2FtOyf0llBw9bCFsTX01iudRpNgNADHcY0EbFlbtlV4N8fd+Tz++eSP/tlnx4/VAOX23Kwf59DU+YGEAo3yWC4dhdW5P1UkpWZ1PSLaY8kJ/9Xfn2cUe+HPbk08G2HL15rF0zn08Mdkx3WI7cbLUGoGD396Nn8qv/3DvCDfNByNxQm1PqHWuEdpnlu2QOiomZFziAVqCFD6qqbb15V3YX/AypAPtK0C6WcokbLoHaM6pdaB1aZoK8uBANYMqeKUb5/yroEvIDEIR5u+aeNUBYKSj/0X/uAGEVPfk5AQzWWCcfV/0B0ovSfRmjZDEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu3Xy2sTURQG8M5yFrPIojAEAiGUEEIIoaRIumk3BSttSYKJhXRRtAiV1gc+UOmiC0Vw0YUPFIpQtdCFglAQ/w3/o2O+Gb87d27vaGb6yEIvHGZS0tzffOfMpJ2Y+L/+zeVIvMa6HKlVq1Ipl2WqVJJioTAOVDwRYAji8ZxRccDxak3Vtfykqq4fVd73zwJlzkJYczlPFiZzsjgsQn6u+UEBsmZBsXWNYjErygmuirE3PVdaQwgwNhBRBJkoYjKCnABiAxEFEEoHsQiyocydRlzhYCJmoHCOO2dUkJ6SjjpFyxyZrtfVbWsDEfWxXUkErRf8GGrFz2VNyZGZRiNAEMVni46xzZGZkI7SZ8nc8S/LkYX5+SAlPkcAwmsbCIWr5x1lgojCz/HeU6dEFEBXOp1EEOrF9pKaGR1EFNuWKaWVxcsqJRTOATQxo4JQSBC/eyYpofDaBBGDzXavz8ZARG38BsXblhrlyNXl5RgK5zgmgVBMyQSh2Da0PeMXryOtZlO1iygTo4OYkjnYTAnvYeIZvnhDEBBE4TWG25YO2wWUDYTS5xGVcsjD4WZK/CAc/wRKwqB4gbxIVKaUdBTO2/1+DJME2m548njGk2eznuzN5YI28YHLSp1Sv92OtY5J2dLZqLmyXnUV5OuHh3L0/p58enNb9vduybuXN+X18xsKTkwKEFaUElE49gYDGVRc6Zdd6UyFkO+HT+XbwSP5sn9fDt/ekYNXWyox/a7jTZIyHS5HVrvdEyj8NXD8+Yn8ONoJjkjDnJnNYl7V1rDMlmUEYUUp8QMB4uAyAbQCLdysh2170PRk51I0Q+EAR5WhXVyODHo99QwhaKkUtgutQ8t0yG7LSwToZe6UYsX/qwAK8wMIhvnu9LkDbCtERU/ZCwfYVvLmFwQ4uca6+bjWL5qGYi5XzrM7AAAAAElFTkSuQmCC",
     "wiki_name": "Glassblowing book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Glassblowing_book",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17851,
     "name": "Dwarf remains",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-27",
     "duplicate": true,
     "examine": "The body of a Dwarf savaged by Goblins.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPElEQVR4Xs2XS0tCQRTHO5+jjR8h2kUEtWrTpk0toiCihJAgogcVEhW9RJQeJopYJopRmVZgobizj3XizDTNnRmtzLnX/jBw5871nt95zNxjT49nAtTvdEEEwUcyefp53TUB1usvWC7n8bGYxXg8woD6fD43oKTn+ooUMJDn5wIWCmmMxcK4sbH8w2/aFofI5ZKYSp0zI83BeHREmm5vrzASOcCz0xObUQLMZhPshdHoER4f7+D8/Aybp9MxDQqwVMo5jAMeHgZZpKwC3WTi6PfPOqLChwDVociwNM7X1XsdCfD66lJ7KbDUCWM+X68CpRu2CEOSqdG9FiBUW2b6XJUaHTJeqz05IAHz+ZTjzPEATA05jw4VOV1TSp0wlcq9N1BS3DDtHieIiJYodot18514zcjUyHQKIDp75LrrMiHMSAA+3N98nT/qmjWpO8uE0AV4d5dxC4p7TMXaaNTYjvqdEVeg5DmUSETZEIX8c5RIaor11TYF7KsdDK7j4ODAp5d8TE9N/tprSzAkwHB4HycmxjUvAQOBhTaiZEU8RYuLc01CDri5ueI90Pb2ahMYvkZthUdAzgOtGQy/Lz4b5ppVAb69FlkTJsBaG2wF25HkrqFBjdje7hZrxsbGRo0+R3/eOgw143RwUe9Lc6oZ2lH9/X2KUbGz3t/ruLa2xJ4xYa1I91adO2EuzkMsciPDQ8Yz+ls7kmrYnAvj4iwyYT0Vr6tQaLfbIEKA1WrZ9v+qTuVivfxV/wrGK30Ae8IPegdg1T4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAESElEQVR4XsWW3WsUZxSHdy73woteFCQgLBJCCEFCiSyGhMiGhBiiJLJNxDWSSGyokajRVJampISGUFsNQRsqFrFVWgW/sB9QSimllFJKEVsV9U7wX7C3p/OcmTPz7qSSZLLWFw47O5Psed7f+Z3zTibzvy1PkndewQIiiGx3Nrx+ZcuHGNgg2f6sRqYQADXlci8DKt558km8vAgm2xsCbcms8D9rXqH8fgItQbjr5Un8vyltiMqkQK1hVE+l8IdJDgg/XhfseLk/AnXi5P6zrZno/6sHROIQwo0YyFUrSBwnD55V3lvX8uTKzJBcerckF04OytLxN2Xx6G75+HCfzI/1yuzoDpke7pLyUGcElUxcVZjb86Ma1z8Yka/e3/9COMAmim2OUlVfnvywcEi+P/O2xnenx+Sbj96qgPvivX1ysbxXzk0W5dShXarUSE/+ZUB58svSEY2fP5nQ+OnsYY0fF8cVELibcwdUMdRCKUp4bKBditu3VBPKkz8+Ox7F7xcmNX47f0zj10+PagAGFGqhlEHNHOiW0Z3bpKO5rhpQnvx1uVwR9z4/qXH30pT8efGEBqCoR0nvfHgwgjo/NaB+OrGnIIOFJnmjrma9UJ7c/3JG7l+dlQfX5jS41nt+/H1lOgJNQl2bHVazA4VKeKm1cXPU8slMq1xeBUwSCiCDMsWS5QOKjqNs7U218VBNt7wKiIfX52MgB8pKaeXDWxieTqT7MPdYX4v6SI+b9FCeQpCU5A9vnJLBztyyMKhiYZNGX3tNFHQe5h7f3Srd+foQJPWkDhSiHLZzfGLtbsF3vIMi+AcIPGRDk9mEsXtbGtYDwwoUco1sfuHTnUmMAvzDMxcMU88d7NGpbfMoNQw/+ujW6cq4vaCAJB4eWZBnT58qEGr88/y53kNJFGNiA/NOqUM9hEJD3VvT+4ddA2Dx5Otz8uTbJQVDLZ6jIEDMHTaAn1AKlSiVHSEohIfwU0qVPC3H4zuLCsOnwvjX5ivrOHwFEL4BDoU4TuiwhYl+bXs8RNvnGzalB+JHIxhfHT7VU6GfzFsAYF4CZWgASsYc4g3AzjR3MK4SyH25ChSKSuUHbW+q2CiwGQQMyTGyzSDeBCgbxwdtb+fZqmFsaNngwiMkpVRaOt87NhxtSgPJPWBQga5yD1m+45tSZ7P0tTWuBYhVqRA7RwESup1mowAgO2hRAr9wbuEdO8foNDzEWcYBu0Yg9/XSk/KeBpkaaNCk0XGRCJ4f6a+Tsd5aGd1RG72ouW+QGJqS5etfWztQvGIgg7Lgvj2bLNbL+K4YaLhrs+zryEXqoBptX2ja6Jv69bRAnkyXGpclNjj7jjLAGBBhQIPbc1Js88+1lhrpyddIV/PGCqhkxhXWfwO5AQSJbs30y9XyzihQ6UVABpVCpRjIVcMCGBKhiKsU99yyuUDrVCn2T7I0BLsnMdeuqQEg8UplW425/wU15muVZIcxkAAAAABJRU5ErkJggg==",
     "wiki_name": "Dwarf remains",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_remains",
     "equipment": null,

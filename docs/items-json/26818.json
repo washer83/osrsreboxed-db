@@ -1,7 +1,7 @@
 {
     "id": 26818,
     "name": "Ring of the elements",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A mystical ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaUlEQVR4Xt2W7UuTYRTGd/8nfutrBBEigSESwxCjoagYrZEK6aDMrDTxdTbmy+acaWPM4WhqSipqDVOsYWHRC4F/z4nrPJxn9+acTJ/tQwcunj0v2/k951z3uWez/Z+hKL9KGorGXzSQt6eePN0O1kjXHdbgozpWCcEUBfqbTCAccwlQ3a32UkApTiQSMGiqr5Fmh1r4iPN+dy0DXS4rKwZU2h86ENokFYNmBpr5HEdAPWuvKUaVFPukt+MWuZ3VJpj4R1ci0EZORwULYLhmcZUUvy0qgbetq77CCVpul9PuznqG2qZTJhCeWQ62MxRexMIqGSYGEKoDIBgWQP4NtynACBCqgvs6VHtTpVVQik2qVwfnOtDxUDNLgMJjTvNZfIaXOu5WWdU6xSsHhhXvRLz3cwJBAEJV5Fm0GxV97LppHdCCz8Vlx5viHElvlF86ASMSD0H6bLIMCG+MKsmqkYmMoz6tIfhMgIzk6XGB8wKB0l/OlkDJ0AMQBh+S4zqEtkhr0rLZBKRgGPwoei7DDckhKTk+4x6OqA6Ws94eEWBRqQcN102oc4RhQNkK9E1T9iycy+apbxl6CwUUQDJEC66MVEc2RcwM/BjKj+0BSx5JJDlahWu4r5tWJDDnAFK08XaaEmEvzfv7abi3kzpbm7gNgMLsQFIkBwRgUCW0TF/K+VSgdxStx/20OOeh15N9DNRcX0ONtddyegMSX2XPlnzKzponFG0mZij+5hWFxnvJ89JNjtpqctivnpoI14sw7CQU7azM0lLExy0DkL0qPUNyJ1Jm64oC9H3/Ha3GJikSHGSgyop0dbKfNkLR/Og9Ni+8dcGlnR2Kfh9usY8E6KHrrBFvAMkskl389OcLDkWftxe4bYAKjPWwuY23PqloaJiC3ue86jASMrcJS0LRt09LdLAVpZXoBK+4cGCAk/oGuxgQ/orNjvB1mB/3ujudXB2sSMuBfn7ZoMNknPY3I5Rcm8+AwhHnqB5GAwABivbqMJYC/T1K0o+DNUp9iNHeepg+rs6ZUDoM2oVqAfTs1XihUPTn6w4d7a2wnwCFcYApjhWISa63bGr0aTFhJBT9Sm2aftp9H6bt5RCtLfoZSK/OxPATq31zWhgrCX4CFPyEKuUye4mAjD9TApZPRW7XyZCE+ZT9nfPGP+x6UAJbHzEPAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaUlEQVR4Xt2W7UuTYRTGd/8bffJDRIjECCWUxGgoblgsSYXcoGwZpYnvNnyfDtMcmwwlW+aoJWalpEgNIxF6gaC/6cR1Hs6zey9Ops/2oQMXz56X7fyec6773LPZ/s9QlF8lDUVjjxvI31lPwz4Ha7DjOqvvbh2rhGCKAj1OEwjHXAKUr6W6FFCKE4kEDJrsbqS5/iY+4rzHW8tA9rKyYkCl/KEDoU1SMSjY6+JzHAH1sK2mGFVS7JOu9qvkdVeZYOIfXauBVnI7KlgAwzWLq6T4bVEJvG1d1XlO0HStnHa2EmlqnUmaQHgmNtvGUHgRC6tkmBhAqA6AYFgATSe8pgAjQKgK7utQbU67VVCKTapXB+c60N9+F0uAFkfc5rP4DC+136i0qnWKVw4MK94J+2/lBIIAhKrIs2g3Knqv+Yp1QEujzVx2vCnOkfRy+bksGJF4CNJnk2VAeGNUSVaNTGQc9WkNwWcCZCRPjQucFwiU+nKmBEqGHoAw+JAc1yG0RVqTks0mIAXD4EfRcxluSA5JyfEZ93BEdbCc9faIAItK3W64ZEKdIgwDylagb5qyZ+FcNk99y9BbKKAAkiFacGWkOrIpYmbgx1B+bA9Y8kgiydEqXMN93bQigTkFkKLEixlaDflpYaqHBro85GlxchsAhdmBpEgOCMCgSmiZvpTzqUDvKHq7Mk3L88P0bKKbgVz1NdRYezGnNyDxVeZsyafMrHlC0cbLIK08f0rBsS4afuIlR20VOaovHJsI14sw7CQUba3NUSw8yi0DUHVlaobkTqTM1hUF6GjvNa1HJyg828dA9opUdTKfNkLRwtBNNi+8dcalnRmKfh1sso8E6E7zSSPeAJJZJLv48c8XHIq+vF/itgEqMNLJ5jbeOluR4ADN+h/xqsNISN8mLAlF3z/HaH8zQmuRcV5xoUAvJx3t62BA+Cs6N8jXYX7c83ncXB2sSMuBfnxN0MH2Cu29C9N2fCENCkeco3oYDQAEKNqrw1gK9OfwEx3txyn5IUq7iRB9XJ83oXQYtAvVAujJq/FMoej3ty063H3FfgIUxgGmOFYgJrnessmhB8WEkVD0M7lh+mnnzSJtxoIUX55iIL064wP3rfbNcWGsJPgJUPATqpTL7CUCMv5MCVg+Fbld2SEJ8ynzO6eNf6+HDQ4DZ/r0AAAAAElFTkSuQmCC",
     "wiki_name": "Ring of the elements (Charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ring_of_the_elements#Charged",
     "equipment": {

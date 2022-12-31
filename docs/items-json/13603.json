@@ -1,7 +1,7 @@
 {
     "id": 13603,
     "name": "Graceful hood",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,9 +26,9 @@
     "release_date": "2016-02-04",
     "duplicate": false,
     "examine": "A sign of your grace and loyalty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUUlEQVR4Xu2X30ekURjH3/MfzNV7c24O5yKGZSwjGUNJF7GWtXuTRIZVtCK2tVnDWNEuSSpJktFSqmXJkojEslbsTRL9M08+5/Xs1ozsr867N/NwzLwzZ97zeb/P93kekySd6MR/DSN3r9zDyItnBak9LsjQQEGe9iYy0J1IuZhI0SV5Qxmp19JfApWcywuqHehR5TZQjioZmZ9MfxsoskpG1l/bALQ4lcr0cCFAjT3JwEhbtfQTKAeVjHx6b2XjjZV3E6nMjGZAwIwMZkAoxWsOXjLSrFvZnbWy+ioNQKTtQbEoXd7fWkCSRlJo02gqmaDMh4YN6SJtD0ulNiCuu8vlAItqKBZJJROUAQofVXp62oAUpq9alcH+/uAx/BUNaPllGqAazzOFAEOxj3NWDhednKw6+brh5fuWl8s9H5REqQhAJhgVCLyjQMDhK4A+Lzg5XnHyZd0FoIsdH/YCFQ2IA2bHs6fmPYoBRFrwy9FSBnTW9HK+7eVqvyvsiwKEORWI0ic9qAIEgEDRg6gs9lJl7I8GdDDvfgDhF9J0upb5BqWmhrJ+RMlrP2JvNCD6jwIBAiBQfI6fbjZIHbZRgfCKAuETVAJKgbTEFYp9UYG0O3MI6aGi8JAC6bBVKCoxKhCHohKNESAAFIjS5nAdtigYHUhhSAeHaunrbFOVgMVjNE1+s/3WxgEChspRICY9ClBhfMfBtAPt2N82fUgrUFGAeHJ6DBWETxSIdOkIuQnECOGazxWq9a7/GK3/Kv5sodA9q5QketO/Xa3360QnYsQ1qVKSQIOdFb8AAAAASUVORK5CYII=",
-    "wiki_name": "Graceful hood (Lovakengj)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_hood#Lovakengj",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdklEQVR4Xu2X32vTUBTHm0cf9tCHQSgEQiihlBBK6SgpHS2Ejlja0UJcYEWpbq64YXVTCwqiKCKoIMIYjIHsSfwvv/o9cuPWbYg/bnzpgUubcnPvh+8533NoLreIRfzXMHD1yjwM1IsDVOwIZasFtxDAXvZhLjnIXytkDWWg7Y1TIN8KLwWq2HZWUD+Bak7vUqAMVTLQrd4XoMCNfwmkWSUDcfAM/dpDdFZuIij3sFKKUHVD+MUWioUqrGUX+SUzK5UMbHaeYr25h7A2EiDCeE4TJasuQLbpyaeZt3Wr9B2m+RpJOEM32BaghjeAbVkomOa5RUgCKrU0qWQgabxE3NpHVL8tKSs6zgUgPpdcF6t+LMpRLU0q/agfpovLK5cvACmYqu8jqNXSlGoDGtZn6DcmaFcSUYjfqRjranz9FXbW32F3+BEPbhzhyeZnUZJKaQAyRHq6i5bnJQRiLQ1Xp1JXt6IX2O69FaBpfIhHyYnsJZQ2ILmgsitALGoFRMuzXu5032Ay+CBA+xvHmI1O5R3tQFvhJ0kPVWGqCMhaodXpLFqfLuN+bUB3w8MUaC86SaGYJirFAqZSBFPDlnu1AY3b71Ogg/4XTDpHAsXfWVtqjKhhSyitQGyKCuhx/6uoRCgF1CqPzg3bNX9HLxB7kALi/Jp2T3Fv7TgFCr0tUUlBaQfipXQUmyKBODYUEPsTL6dKhKLTtAMpGNqbhUsgNkgCbQTPU5WapUSKnU2T+9k4tQDxcGVnAtFVBGLju6pj04F8TwsQ08QeQyDam0CqY58FOtux+czfqS7PmD/1L2P+X8XvLSr0j1XK5dShf7rmz1vEInTEN3dzZIoyIO1RAAAAAElFTkSuQmCC",
+    "wiki_name": "Graceful hood (Lovakengj) (Inventory)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Lovakengj)#Inventory",
     "equipment": {
         "attack_stab": 0,
         "attack_slash": 0,

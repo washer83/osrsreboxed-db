@@ -1,7 +1,7 @@
 {
     "id": 1331,
     "name": "Adamant scimitar",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A vicious, curved sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmklEQVR4XuXWv0vDQBQH8Lz/IFOXLAcdXN1cXYqUSqFUWlJpsQHpIIIgjk6ugqC4uKgUBFFBpKiIUARBRBAXV/+VJ+/CtelrolSSdwW/cIT85MN7d0cc538GkF+xFIIAVler+sjvCiaEVIKKxtTXfH0+q5Q0KoSUW+UBptapYWO9YQMEWFouxWKaG01p0M+Y1uaKJAiwWC9qUBRD88Zg2lttKdAQw6tDIOEKARaWCmOY6OCwDJd+iOGtihsCqFFMUnXoGt0zW4EZ1LYUW/c7hkMMIDr4V/+YyTAZAKJJxtAcSaoK/0qKSV7eglUxmQzD3045yRg6CraIEo+hPcVghFpEAexfqBGM2eA4hr+ZUQAPdnJ4c6zw6UrZxlAAA9/F3e0cnh16eNdV+HxNACsYCuDinIP+vIvBgosnex6+9vIDEH9aIKAxnVIIova931sDgW7R18uMxpilbaldgJdHHr7d5vGzP6yI4PKOBvRcoerQkrc8ZyiA3X1PL/XHc6WrNDUg2ns+HqYE1DsN9xtLk5hn/C+PPyEe25Bvdq4WMN2ExWAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkElEQVR4XuXWMUvDQBQH8LwxQ4cMB6VQCCJSpEMGoVgUhYJEcLAgdXDxCzi5Cg7q5KJIQRBUEKGoIEKhIIggCF3c/TZP3oWzl9fYVEnuCv7hKG2T8OO9d0cc538GkP9iKQQBXKtPyU/+r8FEkLDmS8z64rT8Hvi+aVQEacyVY5iN5RkbIMCloJyI2WxUTINGY7ZWZk2C0jHbq1VToDhGB+koQy0bYPTq6IvDctz6EYa36qeVMwpwvlpKxagWqqNALWpbhq0bxiSBdIgC6Is/9Y+JY5Kqo1clB4Ce8TC8KvwpGSZ5iGlYdUzOVVH5HYbfnXFGYwy2iJKOMdQiCmD3UoyF4XfmFMDD3QLengjsXQvbGApgM3Rxb6eA50ce3rcFPt8IWxgK4ELFwTBwsVlz8XTfw9dO8RvErzYQkJhWPQJR+94frIFAtujzpSQxamtbahfg1bGHb3dF/OgOKmJwe+sBOStUHdrylmeGAtg+8ORWf7oQskoTA6Kzp/84IaDOWXTeWBpinuG3PH6F8diGfAFrrNd5BpfNWQAAAABJRU5ErkJggg==",
     "wiki_name": "Adamant scimitar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_scimitar",
     "equipment": {

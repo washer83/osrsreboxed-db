@@ -1,7 +1,7 @@
 {
     "id": 21295,
     "name": "Infernal cape",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-06-01",
     "duplicate": false,
     "examine": "Whose idea was it to have a cape made of lava anyway?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4XuWX7U/TUBTG6SdJmyb7ZBgvoXsBxga6IGgWsiiCAWECQ8YYizg/QCYvQcQZUNYbTfyHjIl/3uM5t7ttmcQPpi0knORk7bL1/vY8z2nvenpCLQ1e33hp2CqX8XJ+HrOFwm2A8oD4OG9Zsrs/FWE5QH/D3IiFGp7MzGB9ZcUFUu+PpVKYKxajhNJQGxuTQH4o1Wyh38bubwdcGhK0CPf++LhcuLS4iMZODbXNTWnh9TaGUho+pZJob+pIxuOwhocxmc3KZqjXq6vRwrQX7kll3mUyuKjpOEpYaKVTSFNmZkdG8ONzLDoYe1XH14qOSVJGWWZXdQmjOgIYJ6T2nollWpAhmpSby1c6MgT2PpfDt7KBVDIZNowDMk2LviF77AMTyUTC7SrB2Ts67Iksvp+YEE0zrIlyQMS2gY8U3pNH912Ihf5+9/gtKXI6MSSV4fOQ1NGQHhhwFxV1A2IujkIH5JQmqTo4iAd0fjo6gt2wYSQEKeMCveh1QbYJRKwZWCCr9ihD4iwG0TAwTnAhWOXAcDd4McoDg4mK4Sp2SFCVAc8yqd6uEbQ6Tl6+5LJycVGi3jDkL8937DgmkDVSgZVgAAUkoXxA3Vf+j3ImiC9sPx5CkRbcomk6Z7jm1YkSpTjEUq8EEMemtI7BA1SnkxfKCKvCdvCrAriczElAvz0PO+esWMAwXF5mjjgzfB/ZN928lOgpLpUgVRiMgdgyF7DAEIFZxaXh94UlH4jL6TQOKC9rDEFBZhuPaZL4HsTv8YSJVkxmTEEFrA6Xhql8Xl6Y9zLljjIZ/vXPHRuVGtMEKw5NR6ntwK3yl4aWFZNgl8s6pvr65HNqiRRjixSQtGjOcjMVsFX+0qRlDMR7mg80YbzHsWl7wVO2QaqVCILvPXK6KqGqw3UVqEjWnNd1PCOFzijo9pGJOt2deao4UyHDcHlAP1sWftWdkHOm2Lr10VG0d3XXthCtUuUAXdf8j+EpdZs2ZG3KFwNGAMTl/UvwN6umplB1yHZ5pRbydzdEZDD/qlsBcafrD2V0XttGLVOgAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4XuWX7U/TUBTG6e0SMybrNtY5MVsWIKhAGBHClPGmEwYkLkpigoYIYUBEhfjBxDfWRhP/FBMT/8jjee7dbeskfjBtIfEkJ1vvYOfX53lu2/X1RVoG+X3hZdDqygrdm52lyfHxywDlA+H9dKUiu/evYiwF9CfMhVho0K2xMVqen/eA9PpQsUh3pqbihDJoPZ+XQEEo3bAwaGPvf4dcBlnptOznDIXBC7UatTbWab3RkBaeb2MkZdBpJkOd+4Iy/f2UZqhKqSQbUA8WF+OF6VSVOk9ZmY+bgg6tNJ1kLcpYFo1ms/TtNBEfjFMX9PmhoOvJpFQG7awJCaM7BhgVUmfbpDm2Cuq8YHXO5gXlGWynUKAvC4Ks6GEUSJmHtgYHydk1vSCjVxnO2RB0xkBfD01yd8yodpQCcZuCXmUsOipfkWePrjKcBnrCxy8LKe+ziNQxKJvyh7gcWnciSSO8m3B8bNu0yp8jQ8e5LLWihpEQTZUH+X5arQFkjUFcDnWVrdrmY/ckQe6WIJthI7BKDUZvYRjnAWBuQ3iK7fF6I6WU8tRribDVUXl5X7DlcLfGvSzkmd/oDm4zSJ1VgBIA0EASKgDU+83/UGoH4YudylW6yQMbvJveAY4V+m1wLUnujCEB3LYprQN4iOp088IZgSqwA68a4FPxmgQM2jPUPYZiIcOgupnh7buPAUd81s9MLy93WSmpBKsCMADBMg9wJB2mVSiDfh7b8oaIq+8uD6kDgoMMG9u8hmsQ1rDD3LcJmTENFbI6KINGh4flF+NZZqk7KI+zn1Q2ajXKWNszlVLN0K0KlkEHdlKCnc0JKnWvwjN8x4ZFGkhaNJH2MhWyVcEypGUAwl37Nd8w8Yzj8OMFdtky56mGnZdS2x2WRagOKgA0MEC3OTcfHgma4Nc3nBtn36RNhsKuQqYihkH5QN8PbPqxqUKOTMG6pVyOOo996yK0SpcCOq/xi2Ecj6n8zNPhfAEwBiBU8Cew31BN70LdEdvllx4U7F6I2GD+VpcC4r+uX6X9LqZHTabIAAAAAElFTkSuQmCC",
     "wiki_name": "Infernal cape (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Infernal_cape#Normal",
     "equipment": {

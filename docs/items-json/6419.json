@@ -1,7 +1,7 @@
 {
     "id": 6419,
     "name": "Maple blackjack(o)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": true,
     "examine": "An offensive blackjack.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xs3Vz08TQRQH8PY/IfFsQrwQQkgwxvAncOPmqYkxRj2gMYiKSrBBJRCtQQLEUhGkaQARmhSxIP5WiBdP/iUj39l8t28es6VLV8IkL93uzHY+fW9mNpU6+S1t/OHr/+8tbd5M3TTzkzdszL24bgrP+2wQsVEaNpXikCkvPvCg9J9oGh6AiAKIoTHrC/fM21d3nYnxHX06XFQsZNoUp/sPoPAJCIOglcJtU3p5y47Fpw+E8RK9tzVlfm7mjoYiCNfMDkHv5gctiGOjQHhutzppfu/k92PWgjBHa0uLDT27akHa+a8JwqQ+0FJ+IATh2gfaXHrogHBNkJ5dtbRTBkzExY3vGoTJgWB5o0BbKyPJgZgl3POBmEmCkDUN+rgqQfl4IK4LDcLkGiQXdD3Qp7VHDujXh4nmQbjPXQIQMyl3ZBTo8/qTZEEI9P2ZOW+qo532Wi/oKBDw3ytjIWhveybeDpMgonD/b6HbfHnaZUGVkQCFIAbjokA/KuNekJ49ogUT4cclaHfinAVtj3WZ9487TTnbYa5duhiiCEIpD4A2nh0VFJxByJAGAfMtd9bsjNeytDbc4YDwnAZhIzggcSjq2VULtnwUCAhkByBmCaDl++223wdCdhIFEYVAPxAXenvN5UwmLNvqULspDQYoPKfLlRhIZgmfmABjECgXg1kq3mmzfRpUXc4K0GyIaQiEHeID8XWAdxL+MWHIkMzSwoCLwli8NmSGGswOWg2k1xG3MkH4zjIiZJaIYrnw2kgMRBTuYwKC0K8PTcTr/jYz3XcmRCFwSksQUXp2TwtAvrIdBsK1zFjuSqsDIwhnUIxzyAXJskkQPnFfYgjCM/idbOa0jas9p5oDYZcdBsJawj0fiGuNmUJ8LY82D9Jlw30JwuS6XARxLEqLLe+A9s+g2OeQr2wShOt6IJ4/GJsIyFc2CUKfb0Ej+NpAdhIAodVqXy/0+mFoEA5FCWLEAKVSPNbrhQbKkOsnEVCjTSMbwTJqY4+paaQv9DMnuv0Dmlmn3DMQz7AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xs3Vz2oTURTH8WSZRRZ9gz6CG1/AhbuIShtLakNbraJSiShFoQsXgqCiKIqiiIgiRS3FUiqhIiIigogIIiK1+iZXvjP8knuPd9JMkpZeOGT+3Mn5zLl/plDY+a3o4hG7v+Wt6JZuHHCL1/cn8eLaPrdwpZKEEB+fHHYfHo+7949qEZR9ib7hKUgoQAqLefdwzK3drwaJOeeejRCVC1l0y7cO/ofiF4hCoObdqlu5PZL05TcGor+P3mg23PrKsd5QAnGs6gj09sGhBKS+WSCe+/161v1Zm3N/31xIQOTYNTychM1uWlp2vbVAJI2BVu+MtkAcx0Cfnk4EII4FstlNKwbDQCKBOLcgkoPQ8GaBPj+rDw6kKpEsBlIlBaJqFvRloQ0icoE0LyyIaxbkT+hOoK/PJwPQ+urJ/kFc1yoBpEr6KzIL9H1xevAg7t2cG3IXj5eTYzuhs0DgfywdaYE2mmfzrbAYiOv35ofcpVPlBDQ/k6IIYeibBfr56mgUZLNntDQRfy4U51fPhKDz02U3U59ooQRiKC3o1/JMr6B0D6JCFgTm8ulygDpXTyslEM9tDmpvija7aemSzwKBIGyVhIqBwLAyBw7il/sgRioVN1WrBaDGeIriOVudLQFxTAL6CKYQanYsRVkQnw2B2KWF6QrEChHIR+nNeVtCMDB+lVQpH8Rnw69Ql9WhZYP0fRKIfhpGwWIo+vLZ6Btkh82COPc3RMEYthOjpRaK+PZyKgAJZbNHWjZIm52+ZdzzQf7EJyYrpQAmEHtQjn0oBfnDFgPxyz0fIxDP8T/VvaUk9uwuDBYklAVxLQZSP1WK4MPaM4hlvxmIPiS3w+WDtP+w5ENQI/8+FJtHPkgrbFtBdh5ZUGxCE/psCMQe1AeI1h77TmHnj0IgVceCFDlAhYK29U5hgX74wzUQULfNIrvBKtp9t6lZZCzsMzu6/QO8cAcie9lYOgAAAABJRU5ErkJggg==",
     "wiki_name": "Maple blackjack(o)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_blackjack(o)",
     "equipment": null,

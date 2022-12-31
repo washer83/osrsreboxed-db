@@ -1,7 +1,7 @@
 {
     "id": 22305,
     "name": "Ancient relic",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-02-08",
     "duplicate": false,
     "examine": "A mysterious artifact of ancient times, emblem traders will pay you extremely handsomely for this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4XrWXzWsTQRjGs/9Jz578hxQpePPiRQ+CB0HoQfwARUEKYhEhWLRFjFJbtG2osR+2NjFNQpovk22TbLrJRj3J6z4zvJnZSfHQ7Lzw0N2dzc5vn/edd6eJxH/DoYbXEcKxlLyeLuYi51C+WdeuWQkFZIL9+FkbHQOEhfPzU1O2oOSEJhTU9LqUbVTHYCwCOeT63miSVq87UvDnN/WGAzo8doVTLNwHSEtpU0DyjRUUgKBjvxdJnQ5kwSUTSF6DGAjicYYGkCWXpCMmECDW/yqXzHGuKwsuqRTpzpw7+S7EQDjmccjiapNA1bZLL/p1odVfbXp1sCqEYz5/1q+K+1gxA6m35QkA8ymcHDKBlodHI2Bd6jkThSP6C4uhGAZiVxjow9Cl+UGD3gatCEy0N00UCupN0BQygaDn2SXxFyDQUugUxs1GqVbgRCGhUEMAwsQmlA7EMDh/7B/GDcMhi5qBdCgdSIdhICjGouZQxc2TMZQOpMNA/JvY3Xk5qEekT8pADGW6ww6ZT50wlEOnOWXKvDdmhxDRb1QyXNp6YaP/LIb1BT06KUcgrMA83F7UbJdADAUYFDM6NGBYFtLEoQMpGBZg0BDv9UpjQMqZWOEUEKdMF2BSgUtXOtnIdT3Fd9PJOB0zgRIJfTI0w/tf5ulieSMCorvDQDHVkkMlt6m9fXQMAtD0zLVTJpXj/GEe//2Zw6HyUUtIgTlUaNXFJgz/BrH08ShI7MtfQqF4WdPNHSGGQRPEatP3RDpIjDAIJwKja6ZXFGIYlu6M+bQJwyEv6IuNfr3bFk7hK75XK9NWuUDrhSyt5HYptbdJC9sblMx8prn0Ms2upOjJ+4U4a4fDIX8YCKh23xdg2JIADmkpthqilr5VSpQp5Wktv08fszv0bvcrvd5K23DJER0ZPQfLHJ8I7AzxoZ3r10R6nvoV0RCRwjuhbntFuukd0I1u3i4QmiADoVNjmwogFPSDEAi1dMsr0PUQ5GonR5c7+/aAGIZBZn0JwoUNRwCCrg0QrMBLtU07QPhmAQi7RgAhVQDiNCFFSA+7ImAqGbpQWDsz0D/iM9YbulQ7fAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4XsWXXWsTQRSGsz9E6E/wh6goCF54IwjeCF4IBS9EUSgoCEWwCGKhagtiK2qlaBva0g+1arRNP5I2TWOatE2TbNN8oHdy7HvWs/ORUqXZ1QMvmd1Jdp5958yZSSRyYDiULW2z0Pbk3Y8ufDGuofj6mnYvlFBANtjst1W/DRARro+2tYUF5Q1oQ4kAZcOECOTQ5k7ZHyTvlnzVf3wnt16j1FaeoUSmc4GHAvLeWEEBCNqquMbU6UAhuGQDefcgAYKkX6B1t8zntRyeIzYQIEZ+FpuApF/yKgSX1BTpzhxxP7EECG3ph0JcbR4QEvd+Jc0aaRToUXyYhbZcd1VW+XuigIHU28oAArMf0FBjkx7srvnQIvWclsKsOQIlg+tQ0n5Rz9OTapb6azkDxqxNLYWC6tsbCLKBoHuxl/wJEGiwvkFvG1tNhVKtwJbCg0IO/Q2QwOD6zs5K0DASXlL/CUiHESAowKSWUMltw+hAOgwkvwncne7djKH9gATKdkccsp/aYiiHDnLKdiYkhxDmHtVTzfD0iFB/ntbWWR1u0oAIBaZjuk+z3QMSKMAgmVGhASMKYZokdCAFIwIMCuJNN9EEpJwJFE4ByZTpAszzWp7OFeRcbeeNQ9ei3UE6ZgNFIvpgKIY3xnroeHLUANHdEaCAcsmhxMa69vZmHwSgk+3n9xnU65eNufn3hw6HljdzLAXm0GIuw4cw/A2CxhZnjX4TJPDl70FdLy/5OpV9xxIgFMG7lRRLh2mexkDCMWB0XSkvsgRGpDtjP63FcKhcq/JBP1MssFNz2TR9TCdpKjnP7gx9naGBmUnqnR6lh+NvqCs6SJ2v++n2QG+QuSPhUKVRZ6jtaoXBcuUiw6ULG7SUz3IuzaQSNJGI00g8Rq9i7+nZhwl6PBUNwyWHKzJqDpY5tgicDLHR4lSIKt25k6Jb7jIXSJnGy6U4XSrG/z0Q8gUJDZirv0EuFue4WJ4pxMIBwhYBGBzSBERcEUfgxoXiLJ3dAzld+Mwr8ER64v8AtZcWfFd8mJVxOjY/fGigX1jYvSPKIpvtAAAAAElFTkSuQmCC",
     "wiki_name": "Ancient relic",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_relic",
     "equipment": null,

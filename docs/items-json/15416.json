@@ -1,7 +1,7 @@
 {
     "id": 15416,
     "name": "Hunters' crossbow",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "A weapon made of bone and wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPElEQVR4Xu2Wb0vbUBTGvd/Ej+CbMXznEJGhCEWhVImoZQbKHB11WqmTiiiTstE5LUon3aibxVnc3Jwr+F9cEedEEfZxnu3cy22TNKGWJMtgPnAIJCf3/u5zzs1NXd2tbvV/isE6XJPV4AwXxS84O8qjuPseJzsrONjOIP8uiaWXE24BMhQ+LlkMyBAfVnST/vy+icvTbcQeBhAN+TGidkHtbkPQ32oxRs1i2NtaxqfcnMmKGaJDfn5tqK/nIe+HlHZ93h+49ewLzT1bElC5Nwl8zadwXHiLH8cbvFQUEkibT85Il4b6OhB/rOD6fIeXeDk16QwUgex+TqO4n+Mg1C/Z9IwpEMEQFMEY3To9WMNqZtYZKLMol0vkTDzq4TCRB526HO07c1MhTEf77UPJyY0hnjJeGi2MtrfIUSo5gcTCAZPFOC5RqkoY8ezX5SEv19b6AlSlTeOcKxKlIphAR5PFZAxXZwXei982FnUl1IdtMUxFeks7qtIdfS4FfURpg2yuzfMg16icZVBbEqUKD/iqwAjJnrKKau9XEcP0k37ukNzeNx1MTmwWxtwaJMpFUA6szq7EkUDO9HW11OSOCxLfHOobxXcPvtZGL4EYno0OcHfoJCeY+013vAJiSIwFde60N9/1sn8q3fEURusONbLWHWO2y2JIPlVL7tDO8tyd/OtxZF+NIDmpln5JPYIhMXxIx5BJRvA8PoiIWj7RjZl/SQyrqSjSiTAS40Gv3ZFy7AB0ThLkn4DxWr8B/isSXwS7L5kAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACW0lEQVR4Xu2WTU9TQRSGOUsXXXTRpEt+gj9DNyYukAQkAYwxNVRZ1GACGCM2VonyoRWwFmppk2obSpOmhRarxbQ2JAhsNGHhX3nlzGS4H3DT1NubayJvcjZ3zp155pwzc6an50IX+j9FsDbHZDU54fOmH8WMD9mEtOSSF88eeRC87XEKkBBb8FpMSHg8YVyYAXdLfjR2dlAtFJB5HzsBnMZ0KGQxR8cisetXYQVltFBQAl3u7RWmvsfm5w1++VRKRE77ZkuEtTdePJ30IDrrRfqdD+WsZgpI71/O5VDKfkIukcDH1Tj2mw00tvwigmoTmv9fiZCJ+wTYxroEYbCpkBYhva+C4ZR9iEYN0SqkfbpU29LZlCkYDYhQyecFTCGdNvjo/+GNzT6xqs0OpBY3mxwl7G5vI59MIrWybIKVtbg8J0EejptrzxHJVJ2FkWP7X/0iXVyHN65f0kXOERFqxaKomQfBMYvFSFwJXIscKX0KjWZbhGatJmpGHXfrVMhF+RLlOlqISOOosWmgtiQLeX3pbRsYKVVTVtbu/zYitOp1EaHXkcjphGav86QWPs/Mvh2I8K1aEVBd2J1dkTjic+EwJu7f6yg6DkieKi7i8UAAIwMDbgIRfnxviuhwJ791cxDXrl5xC4jw8/AAX0olxBcXRaoG+/rcrB/CQaslnhMvZ2ZwZ3jYXZhfR0eob5XFncOPrqH+fvdS9fv4GId7e6JfRV88x93RUXejw82xsiH7UHhq0k0Y1smNXJUPegYKjDjerdtJdmp+LXITdDk6Sl1rgN2TAvknYNzWHwX3GoK/Q4F7AAAAAElFTkSuQmCC",
     "wiki_name": "Hunters' crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hunters'_crossbow",
     "equipment": null,

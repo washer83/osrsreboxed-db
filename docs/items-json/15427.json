@@ -1,7 +1,7 @@
 {
     "id": 15427,
     "name": "Box trap",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "If a creature goes inside, the box should then slam shut.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4Xu3T20oCURQGYOdNfITuIiLo1keISMhIIyUyxcNoMTYMpWZYHhDMSuxARERE1Nut+Pdmjbsp9KbtDNGCH4ZRx49/7QmF/u4Y5L3j4xiU31yiAKHGoLlw2G+UQZ2TelBAEuPsl4MAMmjQbguQXSrRXjLpP6hVq1G1YpFVLAahIYxBZiZDqXg8KCAMXvVAvWWYf9C0CQRInh2klo2QmVj2E2TQy7VFjXyEtlbm6baTp2xs0Q+QbOTjzqG30aFAPV2U6aFnUmp1gdJRiRpH28g/eL+xBeR1WHExj/0S3XcLoiWs7aqZoX59l3rVHV0o4wvi+fLgG2TUygnI4DQtIPge7mtYoTwrKgLrAQSI4VnWhXAr+B7uI1pADJgGQov4DNccLSBeC68GCL7HIEDVljhaQAxRG+FWEO/K2k7SjRYQnwd1PQxA+Lp7lBKIc3ubmpWEiBYQN6I2oa7Gi2lYcaqXN0S0gLyNMAQIhNeERhjjFNZFtIC8B5UhfE5wrTYDiJ2LkpVd0wNigBcCBMLtqBj8jjG/DMLIh6sI9eByO8dmzMUwRANGjnywhDEECITb0dzKz6PC+E0CaiatTBoVNvNWJo2OVj4B1NOhcDVMTLYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu3Tb0vCUBQGcPc1AkGiF9ELETHEUBQlMZmiYjpKpUwRzcoUqZBC+kMEQUH0eU88u5x5HaJvum5EBw64MbcfzznX4/m7pZH9joOlUSGxRS5CzUABn89plEaDbtctIIExSiU3gDSaDIcmqJzLUTQcdh7Ub7WoXq1SMZt1Q0IojfR0miKhkFtAKBx1V50y1D9oVbkCJHYH3asEqJrZdhKk0fukQRdGkCL+DZr0S6THNp0AiUS+n9v0OW3S212dXsZHNL2uUDzopVTYa6UmWlnNIF+PZ/TxcGIm9HpzTE8jg+6vDum2VzT36PI0S51amtpGShVKm0NwKoAgGYwLmFE7Z2HwDJAKRih2BR/gNIDgRMadggU5b2RMDJ7BfbQSEKexCgQ40hqc6VYrAQHACHwQzb8ZhGs5JW4lIHyMAUhFToabMVjkZiVptRKQHcIYjAQQO6ZWjJGRj5qtBMQIGcIYQOyYir5HpYOw2UpAPBYZYt8XO0ZPBikTD6gByQg7ZFEywKSifkpEdtSAeCx2CGMa5YS5LzIG/2PML4NQ4uWMkE8SMJxOfn93bkyKMKLEiwUMCIbwieIFVpjK4pJhfLSRzlpSWVYybO2pLCsVqfwAkD85HihntH4AAAAASUVORK5CYII=",
     "wiki_name": "Box trap",
     "wiki_url": "https://oldschool.runescape.wiki/w/Box_trap",
     "equipment": null,

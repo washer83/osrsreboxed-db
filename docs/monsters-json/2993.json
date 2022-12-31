@@ -1,7 +1,7 @@
 {
     "id": 2993,
     "name": "Undead chicken",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2005-02-15",
@@ -34,7 +34,7 @@
         "mazchna"
     ],
     "duplicate": false,
-    "examine": "Yup, definitely a chicken... an undead chicken.",
+    "examine": "Yep, definitely a chicken... an undead chicken.",
     "wiki_name": "Undead chicken",
     "wiki_url": "https://oldschool.runescape.wiki/w/Undead_chicken",
     "attack_level": 1,

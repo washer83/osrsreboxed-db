@@ -1,7 +1,7 @@
 {
     "id": 4836,
     "name": "Strange potion",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": false,
     "examine": "Some strange liquid given to you by Zavistic Rarve.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpklEQVR4Xu3XbUvCUBQHcO838SP0aYroTQSiIEZiZZjEhjVWtjRrPqQ9kWBGAwu0oBe9iD7Xif8ZN+esXrXdJR04bOpFf5x7djnGYrMTgsapPAS9j5L0NkySc7UUBZRgzOsgQf3OIoPm4nGVKBf04qxQ72whOqCn/jJ1G/OqQYIObwyq9PapdmdRfVClvbamso8EHVzvktU1GYTU7G2VVRqDUCVci8d5tSDzssTbBhju8+WcWlBGS/E2lVo7XJ1sKaMKJChnrDIGlUGFgMLrDTMbdmML2rLWSW8UGVK9LXNi64ADDJ+7qMBhk5iT+yN+3JG4BwzNbZzrE1vo/5ZfCkGFyiZXANUAoDOqc148N6k9tKn5UCPbcXFYF3BPTYOAkKjIg3Bqr+npYEHonz8Daj2efoKQoYHwhP0EwhMnQTg4/0ES9RUoXUyGA5KH4ncgORtFAiRRaH7lIG+VAEoVEuGBMCF6Qbh6QVgXGRAyFBAmQi8IAPlUYQuReB+zkhcTEAgheKxAf8hZCOOGTBwHWCMzYIwM73/56ZSIkDBu+H/Un/71MxEfhHQoKFsCfWYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACC0lEQVR4Xt3X7UobQRQGYOdOvARvoqX4QygUr6kirRJMqq62saY2fuCihEgSv2M0JBiNpDFNY8iHMZVexFveE0bjBvJvdxYHBhYyMA/nnD17MjLyepbC8za+FFIbk0hEJxEOjPsBpQQTi3yA9fmdgMZGR02ieiA7/B4L02/9A9q0JhD6+MY0SCF7mUGhmEfptojqXQUHpwmTdaRwkU/j8jqHm/KVoOKpHZNRUjjPnSJ/lZUoEbYdi5oFnWVPJG2MFHFrW2GzoKA1i1jSRupkT6KztBoyBVIIry1KzaQvjiRCRBG3ur7sdWErrNsR7O3vSpqKpYIUda5wLilMHsXl9x7KdZjC5s4PuZS186tyg1q9irvGH5SrJYGxuI8z+7DjG/gamXcTpbC1+1NSw2hUqmV0um08/O3g8V8X7U4LjVZd+hFxPOdyTQ2CiCCo+/ggz/Vm7QXIWgl6B+Klw0Ds2p6BWD/DQIweQQvf5twH6YJ2glr3zQHQl+WAu6D+N2wY6HftFofppD9AbAMaxE7uOUi/+k4QU+YLEJsk08bin1ucMQtiY+wHBeY/+QPEtPGccVCz3XiqI56bDU2bA/FZgxilxGHMfVDU/i5jB+cffukZFUZDN0MiOVuvRC3MBKeeMC6BuJSMFSxYojhucJ7WMzW/cTyjt8sYvfr/yw9ujfAI01vOS53bef5VrP+JXcdQ4XVzowAAAABJRU5ErkJggg==",
     "wiki_name": "Strange potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strange_potion",
     "equipment": null,

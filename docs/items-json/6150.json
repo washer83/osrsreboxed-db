@@ -1,7 +1,7 @@
 {
     "id": 6150,
     "name": "Spined gloves",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-01",
     "duplicate": true,
     "examine": "Fremennik gloves stitched together from spined dagannoth hide.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3WbUsUURQH8N3P0ZuFXvi2jxCEhCRhGMYihRlm2LJgmdm6LJtmUVQURUFFiUWrhZWI2YPCimlPRFbS1zn5v8N/9s7xjs6sY3jhMDN3rnt/c8+ZO6ZSO7+lxR2u+9ve0vJ6rCSTo0UTL58MysSjggkiFqavS3Xqmsy/uepA6YfYMtwDEQUQQ2PmXl2Rdy9GAhPjGvd0BFGxkGmZelpeh8IREAZBsxPDMv38ohmLowuE8TZ6dXlMfi0+rA9FEM65OgR9mLxsQBwbBsLf/Vkalb9fK2sxbkCYY08mY0LPrpq37HxqgjCpBmHsTGXIB+HcBVqcuREA4ZwgPbtq6UAaMBGLG9c2CGMLhbPmyPSGgZZnbyUH4iqhLwoIadSgL+9tUCUeiHWhQXjyekHfPt4OgH5/erx1EPoBwhhEa+tBaWraJ5nMLh8VBvo+dydZEIKQfP6UdHcfl46OrLS1HZLm5v0bgrCaP6v3fNDq52c+JjaIKPT39+dlYKDXpKmvLyc9PSeks7NdstnD0tJywIzRIPQBtFK97wTp2UOatxL4cYBwDgAxxeI5KZXOGyBWq6vrmBxtP2JSiLF4Kfgb6MdxZeFBvSBvD8IKAYTrM72nDSSXO2kCEKDK5QsGiT5M3Ni414c0NOz2Mai7AMjaFPXsqnlPp0FMD4NArhJWCCjUFc5RW8CgvrYFBASfPCwAxGohgMRDAI7A/URANgpHFCk+AXhijEMf3z6ARi4VTRqRTlwTFgSN+5hIILwhGmR/MG0Qv3VEDQ8NmjSy8InSKxRxddBqIDttmJivMkG4DgMhbfbbh3PcTwREFPqxnxCE+/amyb3KFaxBe6f27m3aPJArbVFA+n8hfu/w9hGEPSjGPhQE2WmzQTii38a4QPzuIXV1g1Csm4EwGd8wDWKtYSxAGI/fZVHXDdJpQ78NsguaGII4FqCltzflx/zdGmhtD4q9D7nSZoP0K69BXCGMTQTkSpsNwj1XQSMwjvWTAAht/WvrCl0/DA3C/9I2iBEDlEpxW98oNNAOu34SAUVtGhkFy6iN/U9NI12h/2ZHt39KllzMUwLoLAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4Xs3WXUsUURzH8d2X0IUQXvkSvEjCMAzDEElR0VXcNsz1gcxkyQp6CxEFUQRFRBQhhUgixmJEREQQ0U1EhFnv5MT3DL/ds39ndJ8SD/yZMzNn9nzmfx5mU6nDX9IuPuLu//eSdmt3ht3q7SEfr24NupWbAz6E+PTsnPv4NOs+PJmMQdmXaBgegYQCpLCY948n3NbDTEXHnHPPRiWqJmTard8d2YXiCEQhUPFBxm3cG/VtOcaBaB+id4oFt70xVx9KIOrKjkDvHo17kNomgXju95vL7s/Wdff37Q0Poo/2tjYftndTorTrrQWiUwui7eb9sRKIehzo8/NcBYi6QLZ3U9IVw0BHAnEegmi7sDDtjxreJNCXF+ebB1KW6KwaEMNoQV9XyiCiJpDmhQVxrV7Qt5dTFaDtzYXGQVwHRBuip+ek6+w85lpajpRQSaDvq9PNBwmSy427TGbIDQ72ud7eU66r6/ieILL5Yy1fAu0Ul0uYukFcn53Nufn5KT9M+XzWTUyMuOHhftfXd9p1d5/wbSyIa4B+vp6JBdneE0qUCX4cFHUAwiwuzrilpTkPJFujowPubP8ZP4S0ZVHoN7jO8df6bL2gaA8iQ4A4vzA16SHZ7JgPIKAKhYseyTU67uhoL0FaW4+WMGSoElTeFG3vpkRvZ0EaHoWAyhIZAsW8os7cAsP84nkWQlNBIPTmSQGQbBEgeQngBPebBtIcos4k5W0J2nFNEx7QtauLfhgZTs4FC0Hs0sJUBWKFCBSiqIcg2ulbJ9TylUt+GDXxhbIZqjI7lGSQvk/VgBi2cPVR535DIDtsFsR5+J+JOs/HheZguFNH9/YtySBtdvqWcc+CQrh2aH6T1ScQe1AN+1AECoctDsSReyFmLxBD1zSQUBakFWZB4WeDtvwx43c1qWsGsZz3A9EmnNDChCCyIxBf+jKoUPs+FDePQpBdYQcCsvPIguImNMHzIYi/rg2AKLuXbVzY+aMQSNmxIEUNoFRK2/peYYFhhMPVFFC1xSKrwSrKbQ+oWGRc2GcOdfkHcGjYCLAJPEMAAAAASUVORK5CYII=",
     "wiki_name": "Spined gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spined_gloves",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 834,
     "name": "Mithril javelin(p)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A mithril tipped javelin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA60lEQVR4Xu3WQQcCURAH8J0vsZd3eR+hS5IVJXuIvURExIpVViIiIqJbOndI33UyL6/1du87f+rPeOzu4Wdm7G4U/WaI61eUIhDi+G7cWb/bcojNy7J5Wo4f1oE6Vk6VEGdZGRQUyGOUQCEmTXOc7vilVu3OfpHwYZkEEFWMlHJXJKCYYtrVX2CP2cx62t2pMACjCjHKowoxUKPazvs4mP+omiH3SZCSUal3x2MAukN8zAffglhkgZxWQ4wXoEDOxajxS1F/soVUGDmVMRJyGCkIzGU9dgWDuZYpAkZCfNtNUDA+UJhPoDCaeQPSjB/QLvzb0gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA4UlEQVR4Xu3WUQcCQRAH8JuvEcc+JVlZueSeiiNFIk5FIqKHiOitLz+ZzXZ27/3mT/0Zy909/MyMu8uy3wxxekUpAiEubc+f6d2OQ1wVua+Zyz3IGaOFIl5OTVRQoIBRAsUYGRlMd8JSq3bnvLJ8WdsIooqRUu6KBBRTz/v6Cxww+2qg3Z0GAzCqGKM8qhgDNarjYoiD+Y+qHfKfBCkZlXp3AgagO8TXzehbEIsskNvWYbwABXKvx61fivTJDtJg5FTGSMhjpCAwj13hCwbzPEwQMBLi16lEwYRAYT6BwmjmDVyfDfg6kVTvAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril javelin (Poison)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_javelin#Poison",
     "equipment": {

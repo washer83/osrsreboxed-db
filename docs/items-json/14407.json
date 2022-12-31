@@ -1,7 +1,7 @@
 {
     "id": 14407,
     "name": "Unholy book",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-17",
     "duplicate": true,
     "examine": "The unholy book of Zamorak.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4XtXWQWsTQRgG4J1/sKe97GUhB2EhEASPPfZkL+JBeuihOdiLBwuWGtqUtY1tpJVGikVUUFqptChKKYhY8Kd9zjuz385k3WR3NqmtAy85hT5958vMeN7/vQTp3IglaG83oN5WkKKuFSbo4FWQgbrrAa088S3YP8cJGuwH1N8JKEkC6jz1aSUyWQ7zuCsFCjp8HQyBupFESQjHhiGPCoH51F7D2wVQ0tAozjgYsoQ89Knd9mlhwaf5Bwx2XoLevgkzEBrqNXR2Nzf/yjiYDZqd9RSoFUUuKEEfP4TDoIZJHjMqDENLAKGdOK4Jev8uzOYH2btlUgXHbWUtyczMGIwDSNDxUZiB0NCBRAysFOHyW8nzBRRAc76XzZXjDJntQg7lH0WA4hThbBiC4WdQWyJiz1Nt3b/ntGWCTj6FCoSGFCrWYdgonA1jEFridpYWF9VQO8yQoC9nYQZSqNiEYaNwNoxRdjs1ZkjQ6WcNwgwdNyUqNinD2TCA7HawVfh0wnz7GioQo06aGsUpwzEKoKJ28Flxq7A0CFumUE0doDhFuDwMKGzZxO2cf48USKFaJgwbhcu3hoam0s7FeaRQCiYhnDKcDUNDU2gHK23IghSlCMcwgKbUDpb+ueO+Sjod2lhdpYuWbCtNGQwgbgevATze5u6mh2Dg3A6WHmhcEy97vezof/EsoZ1kQ+XH7UilCIojAgco7js8UfCAw+FXsx0svWXqMLQGFL8YwIDc396mQb+vPi8lDPmZBr9KfBd3Hp4oy4/1hTof6DvLsR0sQZe/IjXY+I+xDfmfOLYEM4K20BxDEXwPLfHLAPfXBO3wMs/L33f0f47tYSDPit0eDsCttTV63l3PoLi/0A6GumY7ZpkvD79/80AeZrRn49RQp78yhwu02mJcGRDDjeb4UMQdhqGeuJ2yNQ6II8N+7uL9PNV2qqwiIA/1lbdTZdmwa8fY60ZhprH+APP1XL0rbwR7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4XtXX70sTcRwHcO8P6MEeCEMQhojIGGMMx9hwNBTFxEnKWGFTSjPBCpGBGGJZPS8flBT2Q8r/81Pvz/W++9553u6uM+0Db+YDBy/f38/9cGDg/x5L7NyIsWSslpeRifE/qGuFWTI+WXRAueKoxoX9c9xFUH3+tpPabMOHu1KgJflm2QNqLs1IozWl8cOQynQ9AOhP4rHb8YOYfjCk3KxKdnRIMzic1SREedtBZjrzMtWek6+HXy4kDGaCbmUzCirlcnFQlhSnKx7Q7EpLQYgfc1kIYkupgZA73UVFMf1wbIygQq3kwcQA2RgTtLC2pCAzfpgfRxBaAmikMObsVcwdcttBWuttDVBMPxj2DEtPUGlyQjKDGf2ZSx2xod+/OFf1NHT3ccdBheFMGEFoie30ur24O2RJeaHuAS1v3dcAxUSBAQWQ2Q4+Y+6QC0La2w80RIXhTBhBZjuA4TM2xgR1nq1qCAvDmTC0hCPzt4PPiEeFcUHIvZ01J4SF4QhjQ2Y7uKpit1NZbDiYld1HTi6DBeEISqUdgJhub8NJFBxRAKXQDsYGmZCghOEASqkdjL0/eF4d947l/e47ebi/Jat7m5owGHFsB28DQ/mc3m8StoOxQXhEnB2dyfeX3/TWf3pwKp9ffNKsH2xrgqDmI4YvcLjf4NgStIOxQbwRcklxGQMH5M/XP+T87bl+br56rtk4fKrhjZRvBQDh2PKVQpJ2MJZUl5vOHgUtLa8gtIXm0CCx+B5QbIlLnbAdjvt6+eTNjv7lPB5zic32cAP8uPdBTvZPHKi51Anbccf9svf9F0AcEXaIuwMk2jNxWGo+4WM8QKMNcf2AaBHNAYYjxTOM/yL9VTv9JgzIC4I7hMs+1XaiTBCQoCtvJ8qYsGvHmHOjMGnMLwBUUiT2PWbMAAAAAElFTkSuQmCC",
     "wiki_name": "Unholy book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unholy_book",
     "equipment": null,

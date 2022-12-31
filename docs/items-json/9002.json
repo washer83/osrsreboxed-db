@@ -1,7 +1,7 @@
 {
     "id": 9002,
     "name": "Hat eyepatch",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": true,
     "examine": "Essential pirate wear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xs3WTWsTQRzH8eQdePLSS8BDoafcehAPIh7EiwdfjYr4gIqioigKKlqqmFapWkpbH1pIqa1PiE/FF5PL2O8sv+Q//05qtlmlAz92Mzub+WRmdja12u4v9ZBP7vo/L/XwcvJ0mJk4FfP80ckw/eBEjBArc1dDe/ZKWH51OYPyP2JoeAESCpDiMUsvLoXXzy4kHfOZaz4pqhSyHmYfn9mC4ghEEWhx+nyYe3o2tuWYA9HeojfWJ8OP1fs7QwnEuUZHoLczFyNIbfuBuO/X2kT4/am1makIoo9moxHje3elGHb9aoHoNAeab53rgjjPgVbnryUgzgXyvbtST6aBjrS4+exBdA5C09sPtL54ozqQRok6D7LrggBi1Dzo4xsLapUDaV14EL9cIAEOjDfCkYOjYbw5EkYbe2JdDvT53c0E9PP9w+FB1AMS5NjhsYghh/bvixHKg74s3aoWRJhKOyo5kGJRjOi39p0uaOPDky6mNMiiuEZnwvQDASZCAfrevpsF+d77lN4CFchjmmN7k+RArCvui6CVezsFFXsQI+RBQh0/mo6OFjRHIgxHsNyXgMym6Ht3pXjkPYh6jQwYDwIpFADBhNJCrwRkUcSCSKfTiRFK0VSCqQxkR4mjUIJ5kKbKJ52yqS5mIBBPWA7EtcZI8eXai4h92jxKbXht2DU04OhQeiC/jqi3KD7bqcyFpws8r43KQEJRr1eGUDY8iQDti1UgdmkLEsr3nikFKDdtHuRDfQ7E346vy7e7IPagEvtQCrLTJhAdeFS/EWJ0hgbxlP0NRGd+ugSinZ2uykB+2qi3IDrXS1cYgdQW0NrC9RS0uQeV3ody02ZBnG8HsuunElBu2iyIa/ZviQXRzq6fIUGUrftJLhZj40FsihaklADVatrWt4sH2tj1Uwlo0OKRg2CVXtv/VDwyF3/Pri5/AHhwDNn2fwYfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvklEQVR4Xs3Wz2sTQRjG8eTowUMPASkUSk89iIjoQS8ePCsqWsVf+PsgCAVB8F8QURBFUEREkaKWYimVUBEREUFEBBGRWv03chr5zvIk776ZrdnutnTgIZvNbOfTd2Znt9FY/60Z0kn9vuqtGWZuHQjTN/fHvLixL0xd3xsjxMcnJ8KHx8fD+0fHEij/T1SGZyChACke8+7h0bBwfyI3MN/5zSePKoVshtnbB/tQfAJRBGrfmwhzdw7FvnymQPS36KX2ZFicu7gylEAcqzoCvX1wJILUtwjEdb9fXw5/Fq6Gv2+uRRBjbB0djfGju5aVXf+1QAyaAs3fPdwFcZwCfXp6MgfiWCA/umvN3DQwkEB89yAGB6HpLQJ9fnaqPpCqxGAeZNcFoQ9V86AvUz0QKQXSuvAgzgkkwJbxVti5bTiMjw2F4daGeC4F+vr8dA60OH+pOojzgATZvWMkYsj2zZtihPKg79Nn6wcxlbYqKZBiUVT0x8y5LmipfaWLqQTiNwYTpggEmAgF6Oer80mQH72g9RaoUB4zNrIxlxSIdcV1gH7NXlgpKNuDqJAHCbVnV746WtB8EmH4BMt1eVBvU/Sju5bd8h7EeVUGjAeBFAqAYEJpodcGshWyINLpdGKEUjSVYFYFxLFQgnmQpsrHThm7tDADgbjDBPLT1hrK/rj2ImLvNo9SHx4bdg0NWB1aMUjvPELRT9CicMuD57FRGeSnTQ9Mi7JhWm0/7T+Avr08kwMJ5UdPtGKQnk8C+XC+CMRjQyD2oBL7UAay0+ZBWj8es1yFagUJZUGqlJ0ugdRPfXkxqwTitv8fiD4MrpcyYSxI1ekHTZbfh1LryIJ0h60pyK8jD9JbgAdxvQWxB1UA0fr3k1QsxkYgVceDlBKgRkPb+nLxQBs7XbWABm0eOQhW6fVdo+aRqfhr1nX7B9kvjix7/L0UAAAAAElFTkSuQmCC",
     "wiki_name": "Hat eyepatch",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hat_eyepatch",
     "equipment": null,

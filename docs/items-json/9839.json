@@ -1,7 +1,7 @@
 {
     "id": 9839,
     "name": "Oak treasure chest",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRElEQVR4Xu2V7U4TQRSGu3fCJXgpJjY0xZAgRCGhNK0gJKCGCvQDamkplMIKKVAFbCo2TSmfhgYwRmPEj3g7rzmnDEyHHeomBP2xJ3l+bHZ3zjPvnG5dLqeccupWy8AlN1221zWw82YCBXMES4mgJHYzlHKjyER859dNy0DtXRyVtRcwpwKYHbmP8kqIr6v5MRYl9jbCOHgbwWEhxhwVJ/m94/cvmdNSAh/LSXyq1Pm8ncKXahpfd2f5fvHV07+VMlggG/Mj/sTDKdHLW8vPeWeymJCSZUhEliERWebbXgbFlI+fp3WpzzVSBi++mR22lCHspqUTJCnRi/reaWmxkqrPzlp68EKimYBoLgvIzSkZOZ2z/XmcHS7i+weTobVWUgO6lAxuQjIh312M++8hHHQj1t/KiU0PeXmmMs/asTDaATP0AEtjnchNdGE18hD5yUe2IaHXc0O6lAwM9PlsMxjww5yZwXQ4jI42bwPtHs8VvG73FbRCFDfFT7u2QzIaZSgpOa31eDezmehhCslehmZoK93HIxEd7tQL0QzQsdFxyEMqEPMi/8SvG155ftQZKmcCPJPJULdeiBakgaVdWzWyGtaGgVWG9sfRMvOzlsOv2mqd4zx+n6xj1+znDYvvkaUQNaSHRMRq1HLkMhS/TGnO3wClIVPJBlFdfMybFv8GWiE6Gjp3XRJqGrpE1FREMszpBktRD/rMaIXEUIth1KEmqKImqkKpUlIUQNOP47+AZDRCLpe4eduoHk455ZRTTv3v9QfuD3QPDV2sNQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACY0lEQVR4Xu2Vf09SURzGue/El9A7aIvFkLmmLWsTYUSSMytHhgghIeNGTOxqKctRRMaGFaXRzJnlVmv9Ltcretr3K4cux3tUNsf64z7bZ/y693yf89znXhwOW7ZsdVQa/nHUantdDavFCZTyozCSAZOxo6F6L4xs1Nv4fKA0bD6ZwsriNeRv+KGPevj988I4avcjbPTVgyjqpRizXo5j43GCz9mqJPGumsL2yjTz4VkaH2sZfHqh4/PqLXxZu42v9Rk+rnzn8mFN7e4gF/MhMeTilJaNq6jMj/H3sjGVIdmM2dByZpCPp3Vpzj6mNF68mLvUNEM7MRsirBITqckGrUwSwhTNoLnHurqsTO12ZzETajFhZUAeflBCIp1vr2fxfd3Ajzd3GVprLhVUpaTxEDIS9h7Hdd8JTASciAVP4uZFN9Ij3dyp7JUe5MO9MMb7MB85jYXoGRTi/VhKnG0bEYAiJQ0XBr2WhPw+JcOBAAxdx/TkJPo8nianut1NelyuFtxOZwtKQxQ1xU87b4dMPM5QUua0islzTCk1wJTTXoY6VNF9XInIcK/aEHWALhtdDnoVPRGIvphLK7qj6o+qQ7WZ89zLqbF+tSFajApLvVA9V1TDzAPF0J8bC8yvzQJ+v11idraK2Hn/EPW5EG9YjwyoDdEwOkhELEct4jZD0QuqWX8LT3OBJpxIg5ezQawZQ7xpegArDYkO0XUXSchpyInIt7I5lT3JNNL5s/2ITdHa+95lZIhcizKqkBOUMSdqBSVLSdE8ehArDJH2/hl2AjKjMORwiB87jezDli1btmz97/oLtF5ABqXaYxYAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

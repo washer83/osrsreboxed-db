@@ -1,7 +1,7 @@
 {
     "id": 15259,
     "name": "Prayer potion(4)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "4 doses of Prayer restore potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xt2X/0tTURjGPf9HhIQgKMSGCKJjfskvw+nUJDPXrTXLWcrU1IluiZRkkllppQzJxAIrv5RuWpSEGBFFRNH27zzd91zv8e66X4LtDHrhYXA3dj487/O+Z8vK+j+KIVEZLYYH406MDZ1Cn68ESosl01AM+1Ef9jY7uML3m3A7VJNJKCZgdjfaMTfViFvDVRzIkp0tG0rLjA70Yc2Lx5Mu3r4M5IlBUbzweC4Ld3ZeejAzUYcbA+VwOhvgamiWCcXg8107ovPKJZxtVXC6uRVV1bUyW8fg7+nl6unpE3K7PWhpcaO21oUSW6lcoEBgSGhgMID+/gGca7uAelczysoqYbEWyASiYlhbf4NodAeRyDa2IlHeruoapwg1wUgF6u72Y2QkiFAoxEXtcjjqMwFDxdQ2DSIYDHHpQJQfya3Si2EwHuEOjQQ1UcucdY2w2ytkjjwVQ/2fFfTFtxJUtH4Hlvkh5I62y3SJwf45DH98MwHGvh9G0eYUrAtB5I13IiegyHKJoSn2igMZRZDF7x7CujSK/Mku5Ia8MlxiKP2ygM74BrribxOA6Hnxx1kUrowjf7pXlktadgjGrNKvT2H7NIfC1QlYngRkuKS6820R3ti6cCgBSH3PtjePoo27sISHNZdudiDnelu6XGKoVN0hmGQq//5MC3bkHqyLozg524+8iavpcklzpy22iivq4aQjQD+WRLALlsf4+KfRJYaKX88FTDKV/1zmwbbtPuLBNrqUM3wxlS5pk0WjTvkx6gjQQbBpQQqXpvyaS6mbOMbbYYYxixwUwVYXJHdJXZJpcInBoYZZia0llQD6/eIw2NvTfPyNLtF1cqK3NXUumUHMogkUwX4/w8dfd4l20vGOBuFQSlyiDJHOxF4L0dTpIhdFsA9ypN9rx9yOVMLopf0KpINpWxsBCYie6cHmt766HPUdlAYYrbQv1P9zadeIDkWvFGz96jCDpBzGWIcHHMKZJQUkWRkPNsv82X+tv47odkLiOccBAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xt2X/0tTURjGPf9DUEHQEGIiiDZhk2U0FMVUNGJLmSkLZJNybjG21EqzkrAv9gUpzElCVpaCIIgUiBSCiAZFBiIiSIlg03/h6b7neu7u3eqHYDuDXnh+uRs7H573ed+zm5X1fxSDURkthhvt5xC8WI0mtwPV5ZZMQzHMTFzD9LtOTI11oK+nEeHAmUxCMQ1mcjSC3utu7hY9LzCZZEOpmRFA4yMh3OqsR5u3MhN5YmhsrIPH49bceRO9zPN0qbkCFRWlqKoqkwnF4PU2wefzGNTQ4ILLVYva2tNwOIplto4hGPQlye12wumsQVmZA1brcblAHR1BTZFIAKFQK+rrz/JWFRfbkJtrlglExTAwcBfR6CMMDT3E4GA/b1dJyUkt1AQjFcjv96KrK4Tu7ggXtau09FQmYKgYwmG/AhTmEkCUH8mtEsWwtxvSgEjUMhp5u90qc+SpGGK/yrEXCxj0fiYfw8NmdHcdlekSw+p3qwLQaoBZWbFibjYfoy9z0HvbhHDoiCyXFHdilftAcRHkwrwFb8dycP9eNq52SnGJYW3VpgA0K2oxANHzpUULpibz8ORxtiyXRHYIxqj1NRu+fC7EzHQeos/NMlxi2Fi3YTd2XudQXPTZt6+FmP2Qj5EXZu7SzR4TgoG0uaS4s3NiHyZZmxtFPNgf5wrw+lUOnj09hr47pnS5pLoTizmVwz37MgL92CzSgj0xnsvHP40uMWxv2XUwydr6WcSDvbxcyIOtd6n9igqUIpfUyaJRp/zolQgkgk0LUrjU/0B1qcV3OFUuMd6ORJhEkYMi2LQgySVakmlwiUbdoRxa9xepQDvbdi3Y858K+PjrXaLrpM1/KHUuJYMYRRMogr24YOHjL1yinXTBc1BzKDUuKRlSVaOTMy7FRRFskSNxr7mcB1IJI0r9F0gH07Y2AhJQuRZsgqHlKHZQGmDUUn9QvHOp10gcqpIHW1wdiSAph9FX/IA4XKKkgPyp9AcnKvG7/1q/AeDmpwXrq1acAAAAAElFTkSuQmCC",
     "wiki_name": "Prayer potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prayer_potion#4_dose",
     "equipment": null,

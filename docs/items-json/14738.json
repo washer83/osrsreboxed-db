@@ -1,7 +1,7 @@
 {
     "id": 14738,
     "name": "Iron longsword",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A razor sharp longsword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABn0lEQVR4XuWWTUsCURiFvf9gVm7cDMzCbdsWgiEhYYiSJCZJKpmkSUaE/YKC2ta2qHUU0q6iWoRUy+iDFlH9kZPnTtevqOW8QgdeZhazeDjnvPeOz/c/peCOuFyQ6WQSC/m8NJRCIhZDIZvFSqWiYUZsW8/glx7IhaErjXod1VKpAzT4pQdSmIxGtTNryzU9gu4ojIfDmJvJ6JgIs7pUlXJHYSwUQiaVQq1c/gEjAsRtWiwWhwPGlJgg4jCmxOyNOIwpMVdbHMaUmL0hDMsstFFU90pgVMKncfdaoCviMCwxe8OoxGFY4tl0uhOVKAxLzN7M53J9BRaAoRSm4vHOiovf4Cwxo2JvBNwxv5zuTEQi+rwRikphc8OP46MAzs9sXWJGxRXvjckjGEohk7b6oG5bjo7KOOYhDKVQKFhYb1jY3uqHenxw8P4W/AbzVG2XRttQCQuHBwE0T7pAIpERonXj4PMjiNOmrd/v7xz9FIlsfy+Aywsbz08uQO947s7ujl+78voS1DH1QngMY6RwfWXriAQc+U0i8fytoYKR1BdRNJJhxgh1owAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkElEQVR4XuWWMUvDUBSF+8YMHTIEHoFAkCKhFOlQEQVpoSAVHBREB5euIi4iuBbESaggIkUHQRwEUegqiCAIgriLk5uL/+HoffHWlwyO7wY8cEmGO3ycc/JeSqX/KYV0xJWCNOsRFmcr0lAK07UQCzNjWG0nBqYex2bymw6UwpAr3fkallvjI6D8pgMpNBJtnCEYGkF3FCYqATpTMdbmqgaGnkLuKCSxj3YjMp3Jw4gA0ddEfSkEDJeYQMRhuMQUlTgMl5iiEofhEjOMfQDmtx3o90ogEOHTOHstiMNQibk34jBUYuoNRyUKwyUuzA1OJeaoxG9wKjHBUFQ2jCMg/uVMh0rMUYnA9LplXPUC3O4HpsR2VI5hSAqdSS8D9TzQ1j+x894orLQ8bC6VR1B3fW2gXs9DfFxHP2BO9e1S1cN608Ppto+b3dQlAhKJ7GzHx9OxxucwwnAvMO8E9HikZSIbbPm4P9B4u0gdsce5O/0N37jyfhkaZ2wIxzAshYdDjZeTLEx+y7FE4vlbhYKR1BfllGT0npCe7QAAAABJRU5ErkJggg==",
     "wiki_name": "Iron longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_longsword",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1517,
     "name": "Maple logs",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "Logs cut from a maple tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu2WTUsCURSG5/6DWbV2F7SSIEREMFy0KIQokAI3ggjhIqOioECCFkGLCIKgTf/0xjuXV88c78zcdEghD7yg83HPc8/XnSja2MbWzoyd10rMOT+qRfakEdmzVmx77dj2D+JVQJkUxPg4tqOO0/DQAVUrlWWhdNizBaf33djenDoBiCoJyCShxm4h7BwRYBRwD7uHQwAARkqClQBk7MtF3b6OGvb9qmkfz7cSaWcShM/I5yAC7W4vVUfGft3tT6Ud5cFoMAIhqktEKQ006fl3z2u47xOB2GWAKQXo47qVgioCkUCoM9TgEtGBpYE+bx1QqAArC5rpWqCGZm0sgUKgmE6AcPawSwE07lbtoLPzGygzHWRQCIyE4CAEBAQgiOvxPkdAAZixk/5eUiscZnBCINn6EI8D7Vi+q7sQG9DwOVDGPg/rCdDbZTOZP1yUMHQsJXfvg9DF7wPKKHRjvx/aSWoAIIHw+2lQm/7ngjIaPggNwxQHA8n0IEp0zmsA086KlFVzQUBIF2cOgQAhi5vziItnSYMsBAQIpEwC6dYPAdIQUhyUAZPbHaYEQop4uGa1vwbJgmFUCMKvhpzo0GYnPIsaoyALSEPpa7KjXHunlRMdafMv6rT5IlAEQOda2rvX0i+kgZhSwmRBaMfBzsNsBsWUISJFEHqVks1BAQQRWRGENn809FN/amsD8u/tB9G09+AxciyMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgklEQVR4Xu2WbUsbURCFc39CPwglEAgiRYoUESUYDAhCMSUGI9oUbEFqCbQoCIJCi1h8oVBKhX4tlIIgQhGhf3DquevZzE52N1sTjKAD58vd7M6TMy+7udxDPMSdCyedGkgEyedLRVmsjEhzblTWqmOyXhsbBJSTWnlYlmefyOrzp7K5POH1oTEeAo0Xi71CWduT1ao/k53Vkmy/mvLaejnpBag+ATlvN/4trEcJ4ADLgXNAICkAAKOlwfoA5GSjlpetel62GwX5/LYse2vT8vHNdCQZQXAeJ1wjUGEod+3mjcLJp2ZBLk8aXgCyUBoE53HCNQLB5R5cciEMdPhuJgRiIoIQNk4EQukJ0xcglI1QVjhPElzElKHfenAHEQXaXSnIcavSkTBOdJL9g8ZnuW7QQ+0x1kAaKgmMEGh0jDpAUCrAYDctlYekOvnof6Cct5eyMNoB2yccby5BClA4A6C+nsGtq50z99gn5s1IgkmDOPoUeoKvBCS1ie1KYPMTng6mQDl5X83LxfdFOfuyIL8OquEDAYMHMrFWNwjKuqmBEhrdycHroi8PgH4fvQgfjgUJWL0M+VrQW9pC2JWg+ywTEErz98eSnH+NArFk2No2YZIsiG18Tl8qEPoHDv35VpfT45oHgjtxzc1kaSAahtOJMwKh3KlAcAA9BCCUjU2dBSgJRMNAKCtAMmzu4GWKhCgZgH7uzyc6FDf+Fka7okGwk/DVkOIOI5i08C1/5RBWQVYg7QohOFHBeEeV4o6Ozhs1EKQT2/KxP+wzmNzKZo+N6A3RzxA4pF3ip4iFsIkzJ88WbSjd1N0g7FP6HAEUQODIgCBsxLthf3WrcWdA7n38AwspKeaOdxVHAAAAAElFTkSuQmCC",
     "wiki_name": "Maple logs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_logs",
     "equipment": null,

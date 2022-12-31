@@ -1,7 +1,7 @@
 {
     "id": 19079,
     "name": "Whisky",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "A bottle of Draynor Malt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwklEQVR4Xs3YvUtCURQAcO9/4PSWFqEhcJIgIqI/IGhoKiJcXFxaGxqChoaGhqCtLx9avoqMCvoQFROzaFaUPnY/qkGtTTl57uvEtXCqd+89cKY33B/nHO4777lcfwoGdmoRDCbHveCf8umAYpC7CEL2PAgxc5aDfB6PShTjmEQsANbGNAQG3KqrxGB5yICVYQMWfG6Y6bdBCqvEYHXE4DnfAU30udSD1kcNWPsCjRkagBCDudRpHWEUgRifHRGkcKgZB+DsEAiHe87rVoFisDhoA0QQVgvnSDKK8UMRJLYLE3GIlIxi/L752S6xSoiViLJBWAkEtNvtrnxvNKBWLsNDPg936TSc7VtOXwO9Qa1WC5r1Ogc9FgocdGpF9QHdZ671A53s7aoBIYZAL5XKN+g4EtED9FQs6gfCoT4Kh/UB3aZScGia8kGEIdBrtQrPpZIeILwYCZRLJuEgFNIDhC27SSTA2tmWCxIxBHqr1fQD4T2UjcchurXpPAjf5L1AH80mB+HLNXN1KQ+E6wetHGLiSkKLml/4JHIQhPF7fRUxuA/RHiQBQ9G94NO3GbYSn0nGUNAfj+4kiGSMHeLh/w35BC3SPPWX9CLDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjklEQVR4Xu3Yv0vDQBQH8NyY4YYMjkLxDxBXQXCyiLh0MIgiOCn+QkWlrSgUNIZSUegi/qrpJoIUhQoiioM46CD+Rc97dzl6EdtFe3dgH3znfHj3crzEcX5VBESsKAKD/d0wOtRjA4rAw5UP95c+ROURDupLpUyiCMfUogwcl9Lg+tR0lwjQnAe0wLJEwR12TXeJgXa7eNw51p0BC0BeiYHCGNTrmAchhocdncQYAhExOwrI4FDHw4zzI0FbDDRNTaAYZt3jgASIdQvnSDOK8Nebg9TjwiAOu6QXFYO+H5fSJbqiFaWAGODz6aKR5yq835Xh5TqA20oeooNFKOan2n0NtACxWA8Ks5MdUCJv9cMEKNiY6ICagir7C/aA6tEmB+2sjZsDfTyec9BrbY+DTovz5kCI+QlUWPXtAOEMGQNJDAbvIQk6CWdhe3nsn4NUjAq6OcvCUTCjB4SrRcv1Q+5EmcYXSBtBWKT5gib3oXgP0oCRRcQKq2IwOfHloRkjS/7xSEZCNGNEqQ//a8gXo+fDT0LXXE4AAAAASUVORK5CYII=",
     "wiki_name": "Whisky",
     "wiki_url": "https://oldschool.runescape.wiki/w/Whisky",
     "equipment": null,

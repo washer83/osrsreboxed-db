@@ -1,7 +1,7 @@
 {
     "id": 11087,
     "name": "Ruby bracelet",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-30",
     "duplicate": true,
     "examine": "I wonder if this is valuable.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+ElEQVR4Xu2Wu0sDQRDG3f/AKs01C1ssHAj+MbaWYmMjVhaCYCUIiqJCEFREJYoYQnzEByEYCSH4Ir5IIIggIiIiIpbjzQ6brKtl9k4wH3zt3Y9vZnamra2l/yUGPx2ZGKQXuXJqnsPmnKccIRSD3AZXzq5zOEgQ2Mp0JFAMzvcEnO4KKG0LKKYF5JMcdpY4JGY9mBsLHYpB9VhC5UjCVVYouEJKQGaFSrcw7sHUSCxMKAYPJxLuilKB3eQoKSyd7qexoRh0d7WHAcXg6UIqP55JuC9RUli+GRmre7CPYDo5V7a/0iQxeC77dSBtE0S7t7sBZH+liSIgEyrue8o2UCjpvFwSjAmlgWwox+lQ3yCQDWUCmVDOgV6vCcaGsoG0HQJR3yCQDYVOdHg/7Lh/GLzdNoBMMBx7G2aQO50ugjGtYbCn8GHEN+g3GAdABPNR9eG98h0GS4gPIr7S5UN6pZcmPejvcZwOJoB7KhcszfwyubAq1NqoFWhl4AuNJwiuCofpaNG444+La0ES6+TTDaFKheng+YHpDA84H3UtGnmVVlIol4PNfrMVQO1IdXLER51Pli2mUsKpukoTSDUTlG1fqs0+MRxaOqboZsaewWbGUn7W/PqFGGI6DdEPCQxPVpwufR2GDmPKBIssnd+kQf4ETEst/VV9AajzVc9t79KTAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSElEQVR4Xu2WQQrCMBBFzRFcCEUQioiIiBRRRFEURfBo3sEruPIMuvIS3mRkEr6OaXTlNAX74S+bPn4m+anVKv2XDOUdTYZGwyEN+v03R4QyNMkyCwUzUK/bjQFlaDYeP81gbAB12u2ioQwtplNrCSVTSlutIqEMreZza4CFgBr1ehFQhjbLpbWE4pSup+TpZpJYmCxNrf1VfqQXjLQEgZGOIgwrD3Q7J9Y+ULR0AORDKacThvGBJFRpgGBFoM8w7PulmbPy/BjarddBh4COB9XT9R0Gd1AIRgHIwey3268wqA6+neVl6K/2A7l6QDVI+0BcGegupXQgN9AAQVXIyuAOk2WqCAO5rZMg8pRxOnhuKKcj5Z4bEgTzxO0ugfwvFeXezDwzSIkHHi/EAtN5yf3QgfFW4XRFSOddEixaOiEBpBQwlSqVVQ+RStPWcOXu4wAAAABJRU5ErkJggg==",
     "wiki_name": "Ruby bracelet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ruby_bracelet",
     "equipment": null,

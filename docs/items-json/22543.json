@@ -1,7 +1,7 @@
 {
     "id": 22543,
     "name": "Viggora's chainmace (u)",
-    "last_updated": "2021-09-30",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-07-26",
     "duplicate": true,
     "examine": "An ancient chainmace with a peculiar mechanism that allows for varying attack styles.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs3W70tTURgH8O3v2JuBL4LBYAhjiAwmY4yxIQvDkCiIEEPCV76qiH5QUVQI9SqjxKJpYSViVigkphUR9EP6d077ntP37Lmnc+fmbuGBh+3+PJ/7PM+5Wyx28Edc+cN3/J+PuHo5f0EtzZ3X8fzRObX44KwOIjZXbqn3yzfVxqsbHpT7ED3DDYgogBguZv3FdfXm2dXAxNjGMTeCqK6QcbX8+OJfKHwCwiBobfGKWnl6SZ+LTx8I50v07s68+r41uz8UQfjO7BD0bumaBvHcMBCu+7k9p359bjRjQYMwRyaZ1OHO7gyTdj41QZjUB1ptXLYgfPeBtlZvB0D4TpA7uzPigTJgIjY3tl0QJgeC5ZUg3IugnbWZ6EDMEvb5QMwkQcga7nOory/QNy1QozsQ+8IFYXIXJBuaINwjmUioXDar+jMZNTgwoLexn6AfHx72DsJ+gIhiJnGOzAQA9WrVYoby+ehBCAAkiA2Na4byBZVOpZqAQZsZsz+vt2XJdj8+sZiuQRLF5StBOB+9kkwkbRZklAoFi/OB3NlDhrkZnr4diJmpV+s6O7wGmeQqqxSL9tg+QeYdhAyFgQhGf2AyoLCN83CdBNXKZbvaLEi8FN3ZnWGWvA+E4CTTZ6Z1KdAbplymVC6I5/N4JCCiEMzM+IlxDaqVa3qydCodAEkMyon+igREFCEjw8Nq7MiYhlSKFdvIuWwuFMRyftu8/we0YDEdgbByJMg8ZVU3JwKYUqGkl7cBmadnWfcGNTrNDkYLRBT2TZ6aVKOHR3X60cjmPdOvs9MOxJX46e1MdCCipk5PNUs2ogPvFTSz29DoM/lLDxBW5Zf1uwEQUe7snmFAbtnYRxMnJ3SmUC4sd8ReIPzt+Lpxz4LwDuriPRQEydWGY2hoZOj40WO2hOipMBCy0zMIqywMBAxWFxuVwf4BCNfKckUGcsuGY8wGQv7lIIYg3IOg7dd3gqDmO6jr95CvbNiP43hifG8Hkv0TCchXNj41JsExIHwg/mywXD2CMIJ/H8JCYmS4IPyXliBGF6BYjK/1duECZcj+iQTU6XCRnWAZrXP/03CRvnCvOdDjNxtcE1TLWq86AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xs3W70tTURgH8O1P2IuBBIMhMobIGLIxNiYLw5DIMFlzZBNK6kUQCEHQvxBRIEVQREQRQkkgYgwjIiKC6EXQqzDrPzn5PYfv3XMfz7XNTfHAw+7v87nPec7ZjcWOf4sbf/jOH3qLm7f3z5u1e7M2Xt89Z1bvzNgg4suLS+bz8wXz6dlFD0q/RN9wByIKIIbGfHzaNFuPG6GOsY9zOsKonpBxs74ytweFX0AYBLUfNczGg7q9Fr8+EK6X6J32stneuHYwFEHYZnYI+vBk3oJ4bRQI9/1+d8P82bpl/r6/bUHoI59O29C9q+bSzrcmCJ36QJsPLwQgbPtAX1+2QiBsE6R7Vy0eGgZ0RBD2NQidA8HhlSA8i6BvrxYHB2KW0JkPxEwShKzhOSeGhkJ1QxCiJxDrQoNwTINkQROEZyQTCZPNZMzI8LAZGx21+zhO0Pbm9f5BOC5BzCSukZkAoFapBJjxXO5wQABIEAsa94zn8iadSu0CxoLMuOM5uy+HbKd9M8AMHITrUSvJRDLIgoxiPh/gfCDde0RzD8PbSxTXE4KYmVqlZrPDewDnLCsXCsG5A4LcGoQMRYEIRn2gM6Cwj+twnwRVS6VgtnVAnUVR966am/I+EIKdLC0s2aFAbbjhckOlQbye5wcKwi8zU5+pW1C1VLWdpVN4cAckMRhO1NdAQYRMTkyY6VPTFlIulINCzmaykSAO56/1qxaEVZqYrkCYOQQh3FtWbHEigCnmi3Z6O5B7ew7r/0DIUJfZQfODmnNNM3VyyqYfhezWmRGbnf1ARH1fXewfJIcNx1vzrd0hm7SBdQXFrAsawyv/6bE0YFb+eHM5BCJK9+5pfhDrqDHbsJnCcGG6I7oB/Vy7EoCwBvWwDjmQHDYJQkEjQ2dPnwmGEDV1pCA5bMBgdrFQGawfgHAvQcDgw6wvEKZ9FIjZQMhPDmIkiNnZC1rufR3y1RH/SNEJto8cpOuIHREEhA/Evw2C8OnaBwgt/PkQFRIjgyBmR4MYPYBiMS7r+4UGypDDNRBQt00ju8EyOtceUdNIX+h7jnX7B4PHk46/D0V6AAAAAElFTkSuQmCC",
     "wiki_name": "Viggora's chainmace (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Viggora's_chainmace#Uncharged",
     "equipment": null,

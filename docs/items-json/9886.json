@@ -1,7 +1,7 @@
 {
     "id": 9886,
     "name": "Mahogany armour case",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "Mahogany armour case.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNUlEQVR4Xs3XbUtUQRQH8N1v4kfwfS8jelEEUhAlSSolaIZhqaiIumhmWVL2aKa51q7WZouYFgmJafUi6EH6Oqf9z+W/nnuclb3uLRw47N17Z53fnjkzOyYSB78lxR++5/+8JWVxtk9yM70uXk33yPzTbhdErC/dkk/5UVl7e8ODsl+iYngAIgoghsV8fHNdVheGQgPjPZ7ZCKMiIZOST/fvQuEVEAZBK/MpWXo54Pri1QdCf43e3pqVnxuT+0MRhGtmh6APuWEHYt9SIHzu9+aM/PmWKUTWgTBGdVWVCzu6aUHa+a0JwqA+0HJmsAjCtQ+0sTwWAuGaIDu6acnQNGAgFjfeWxAGB4LTWwq0tTIeH4hZwj0fiJkkCFmzoK/vNSgTDcS6IEgXYyWhQb8+P3P3IoPwfur+FZm81yYP7lySibEWuTvaLGPDF+VmqlGG+usl1Vsn/d3npOfaGelqPy3trSelraVGWptOSFP9MWmsOyrna4+4vxUL6PnjqzL9sN2hHo1fdjCgxkeaHGpkoMHBgOrrrHWojrZTDqZRBG1/mSti9gV6MdUp6ckOh7LZOnyoWhrO1oRCo5Cp5gvHHcoHsqOXaMGco0DxOj/TLZnpLoey2bIYhJ0+ZAmofYKCPQgZIig3V9iH0j0OhYwwW0BZDAI1hSwBxSwBVQSpTdGOblqw5C0ony0s/UyfQyFbmEJkCtNnMQjUE+AMFnlsoOXXgw6FTGEATh+yZDEIFLleeSzwikEIgpYWBkLfmlmyGDzjdoBrXeABKFvElAXCCrOglVzKgZglTptvhSGwR/m2AmaozOyg7YCIwr3VxaHitLGW9KrTmbP7k566WEHMEkA6S3p/KrVpEkUQUXZ0TwtAetrcvfywA9ksRUXhb2EPirAPhUEaFUfgxzUyCKvMgnikwJEDBy0cJ/QZCCcCBH5qePRAXxxV0P/72oT8WH9SGciuNtzXIH0GIoYg9gVo893tMKiwB0Xeh3zTpkG43gvEDKFvLCDftGkQnun/SjQI/QDidFUIQttdjL6w9cOwIJylNYgRAZRIcFvfKyxQh66fWEDlNossB8vY6fufmkX6wn7mQLe/8c8bEzVn+CwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xs3X70tTURgH8O0/kV73ohdFEAVSECUpc+iSqSNWm6Dmj4bDCqkoqURSrCW5SrNRAxNBxBhGREQE0btehVn/yRPfM77b2eNZ7W438cDDvXc72/nc5zz37CwQ2P8tKO5wvf/fW1DWZtpl9UHIxMp0m+SnWk0Q8fllj3x60S0fF6MOlL6JhuFFEFEAMTTmw7Mu2VqIVAyMa7ynoxLlCRmU9bnwLhSOgDAIKsxHZONRh+mLowuE/jZ6pzAi2xvJ+lAE4ZzZIeh99rwBsW81ED738+1l+bWVlt/vrhoQxjjU1GRCj65aMe28a4IwqAu0meksgXDuAn3J9VaAcE6QHl21YMU0YCCCcK1BGBwITm810NdXMf9AzBIGc4GYSYKQNQ36li+DEJ5ArAuC7GJsJGzQ9ma/ec0zCNczkxdk+k5M7t7olsmJqNy+1iUT6U65ngrL2HBIUoOtMtJ/TgYunZG++GmJ95yUWLRZeiInJBI6JuHWo9LWcsR8ly+gh1MXZfZe3KDu3+o1MKBujkcMany03cCAGkq2GFQidsrAbBRBO4VUCVMXaH4mKZnphEHpbB0+eEDazzZXhI1Cpro6jhuUC6RHr9KKc44CxTE71y8Ls30GpbOlMQg9fcgSUHWCimsQMkTQ0uNBeZ4ZMChkhNkCSmMQqClkCShmCagyqLwo6tFVKz7yGpTLDsvykyGDQrYwhcgUpk9jEKgnwBksct9A+cUrBoVMYQBOH7KkMQgUuf3kscB9Bb1+Olpx18ySxiC4HKCfXeD4LqzSxNQEwhNGEAKvrSylDIhZ4rS5njAE1ijXUsAM1ZgdNDfozfJYadpYS5w2O2sIvT7ZU9cQiCiCmCWA7CzZ61O1RZMogojSozuaG7SWSxuQzpJXFL4La5CHdagIsqeNhe1H4Me1YRBR3FJg+4GjvQfCjgCBnxp764G+2Jh9X43Lj/VEfSA89v8CoY+9ByLGBmG/5AaNeF+HdB1pEM73HKTrSIPsfyU2CJ+3Qdi6NgBC212MrtD1wyCI2dEghgdQIMBl/W+hgXbY0+ULqNamkbVgGeW+e9Q00hX6M/u6/QEAp54hAzWtqwAAAABJRU5ErkJggg==",
     "wiki_name": "Mahogany armour case (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mahogany_armour_case_(flatpack)",
     "equipment": null,

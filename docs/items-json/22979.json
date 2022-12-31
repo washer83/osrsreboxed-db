@@ -1,7 +1,7 @@
 {
     "id": 22979,
     "name": "Dragon hunter lance",
-    "last_updated": "2021-09-30",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": true,
     "examine": "A lance that is exceptionally good at killing dragons and their ilk.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs2W20tUURTGZ/6OXnwThEACCenFkJAwoiFJehAyyASth8rEFLGbUWYXsrukaeQNKxXTSnHEtCSim/RQf8zKbw/fcZ01W5txTuGCj9nn7Mv6nbXW3ntisa1vcfHL1//PLS4v+1pltLfFaaSnWYa6zzkRYn7iuiTHrsnsq6seKPsROYOngAgFIMrCzLy4ItPDl0OO8Yw+qzBUVpBxGetvS4PCL0AoAk0NXZSJ5+fdWPz6gDBeQ68s9cm3hcebgyIQ2owOgd6Otjsgjl0PCPN+LPbKz+WBVQ06IPgozMtzst6NpcLOryYQnPqAJgcuBEBo+4AWJjtDQGgTyHo3Fg+lAY5Y3Hi2QHAOCKbXB4Q1l6ZuRQfEKOGdD4iRJBCipmE6bp51v2tAA9kBsS4sEJxbIF3QFogFXFVZmQb0/f2T3IHwHkCEYiT1jiQQ1mlrapK7D1tlf2J39EAQADSQLWgCYY0zJ+qlvqYmiNKX5L0AaOXDswAmayANxe1rgQhD562NjbKnpMS1MQdjvybve4Gs93UstTCcbQSkCxrj2ztOy6m6OlczOwoLw0DzjzYLlDqDEKG/AemCxry5xX5ZWB6W7qeXAhjOCQGpQ9F6N5ba8j4giIszglqol+PV1bKvrEzytm0LRSdSIEJB3Moj412S/3te8n/NycnaWpei8ekH0nm7MQBkdCIF0lHi7qk6mpAjxw66iLQ0NDgdrqiQ7QUFrh9zCEOgxdc3FNBgAJMREHaOD4jXgU4T0gMdSiTcM9JqgRAdXBs6QhlGB7YGZOuIpy8uSdbR3tLSQD4gpuvjmwiBCIX3cAAgRmhXcXHQBoyOpAb6NHMnBEQo691jKSBf2giEMe+SPdLcVuvaPBTXA8IHfJ7tCoBwBmVxDoWBdNp4P0EHysvTYHxAiE7OQNhlPiD04TrYWVTk2vrK0ECsNaYrMiCdNrxHvfCyhEOe0DpdBMIaBMKWDwGtnkFZn0M2bXiPrc1UYcxGQLp+IgHypQ19EJygT//l0ECYq+snRyBY+j3lk60fygLhUNRAVBZAsRiP9Y1kAbV0/UQClKlZyExgqbWx/8kspE92zpa2P5LbfSJD9kmQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xs3VW0tUURQH8JmP4EMvgiASEtKDhCFJ0ZAkPZiM4SW8BF7BLiYUQogEgQ9JWFQSdCUKEVIkmYzBqIiIIHqILkSY9U1W/Pfhf1xnzR6bcWbEDYuz55x9zv7N2rdYbOeXuPjD97zkJS5L11tlcSbp4tm1FpmfPu6CiA9PeuT9425596jLg7J/omB4ACIKIIbFvH1wUlbvdkQ6xm88sxFF5YWMy/LNExkoXAFhEJS+0yGp222uLa4+ENpr9Hp6TNZSw1tDEYQ6s0PQ63udDsS22UB47/fLc/JndVz+vrrkQOijtrLShe3dlCDt/NcEoVMfaGW2PQSh7gN9fNobAaFOkO3dlHhkGNARQfhtQegcCA6vD4Rvfpo7VTwQs4TOfCBmkiBkTWMmLg+5K0GIvECcFxaEexakJ7QFcQI3NzVlgNZWThcOwn0NYib1iiQI3xkbGZGp6VE5lNhXGhAAGmQnNEH4xkBPt3S3B3XEj6WBELSevhBiSgIihp2PDg/L/tpaV8fQoe3P54NekO09Swk+jM40ivsJQXpCo/34RL/0dXW5ObO7qioC+rU8tFVQsAchQ/8D6QmN91Krs5J+c19mbl0MMX7QxqZoezclWPI+EIIgZlAH5ktHMikH6+tlV1lZJDt4p+ggXLmUH85NSfn3FSn/mpLezk43RHMLV2XyCs+maHZKAuLqaW5NSEvbEZeRs4ODLo41NkplRYV7jveIIQjHBkHYpYnJCYSVQ5BGsSM9TBgexNFEwv0G3AfCsaEzlGN2ULKDeD4h/ZxHB+rqwsgGQtvP80UA2WHTIGZob01NWOc80wcr58+Xhb4IiCjbu6dkB+nzaenFDTlzPjgeuCluBvq22B+CsAflsQ8FID1sGsRsHG5oyMBsG4goPMNxsKe62tX1kaFBzCSHFyusIBCWvQXhPuYLD0u04Q6th0uDmJ1M0Fj++5CdR7iPpc2hwvNtB9l5hGcIdIJnPN8sCO9rEPagAkAomeeUL+z8YRDE7FgQIw9QLMZtfbOwQB16uIoCyrVYZC5YxkbbbSoW6Qv7zo4u/wDksvaqd3sxMAAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon hunter lance",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_hunter_lance",
     "equipment": null,

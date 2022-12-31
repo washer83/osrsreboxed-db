@@ -1,7 +1,7 @@
 {
     "id": 4752,
     "name": "Torag's platelegs",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-09",
     "duplicate": true,
     "examine": "Torag the Corrupted's plate leg armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs3WS2tTQRTA8eRzuMlOKAjZZCHZRKSLYBGLxSwKBZVSsUsXikppFBXrA0VR0KKlimmVqqXU+mghpba+EF/FrzP2P+Ek555M0qS5lQ4c7s3N5M7vnpk5N4nEzm9JF47Q99veku7V5IibmTjv48Xjc256/KwPQSzPXXfl2TG39PpqAGUfomN4BSQoQBIWs/jyinv7/FJkYD7znY0oqi1k0s0+Ga1DcQQiIaCF6Ytu7lnR9+UYAtFfo9fXJt2vlYdbQwmIc8mOgN7PXPYg6dsIxO/+rE64v19KGzHlQYyRTqV82NFNq6RdnlpADGpB+qmJ+dKFIGhl/kYExLmA7OimJSPTAEIWN581iL7d+/e6bDbt0undLpXa5a+FQGsLt+IDSZa4JiD69fTkXD6fdblcxmUye1xXFzdP+mm0oM/vNKjUHkjWhQXx5BrUe2ifBxE2Sxb09cPtCOj3x0edg7gOiKBfX1+3xwhMUCHQt8U78YIIplKD+vsPeAzriOkDxLTZLJHRH+V7VdD6p6dVTNsgjeLmIRAQyZCsI50dQD/L94MgO3qDVtvCrYBY0ID0wq4DLT/YKqiybclQKyCminUDiGMIRP8ISBVFO7pplS0fAhEh0NDQEb/tBwcP+7VEljSI7MQKEhTBAFRcAY2OnHDDJwt+t3E8drTXo7YNpLPE0YKujZ1yZ04f94hicdgNDBysmy5Aq29uKtBUFdMSiB0WAsnrQIMkO+wuOVoQfXlt6Ay1mB1aDWTXkbwONIj1A4S6IyBdg2S6eG3EBhIU1xnAgtj2nBcKeb+4dYYERJXWIEHZ0QOtAgpN22YgdlxoQdP/+9LdKoga1EYdioL0tGmQvFzZ6s1AwDsGscs2AzGYgFg7nLPDKI4CkumKDWSnjevNQNQgqrbcQ0Bs+Qhoowa1XYdC06ZBnLPz6E9QxeVcdqP0jQUUmjYN4jv9t4Rzqeb00+unQxAt+qe9UWiMDguiKGqQRBugRELKerOwQB16/cQCarVZZCtYiVrf/9QsMhT2Nzu6/QNmVEhomSaSMAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xs3WzWpTQRTA8eQRXGQjFEIWWUgWQewiUrFYzKIQaUtMS/xAq1YQ1BZBUN9AxIIogiIiihS1FEuphIqIiAgiIoiI1OqbjPwnnObc07l606ShA4eZJOd2fnc+m0pt/5J24Qj9vuUl7RZmR938zREfz28ccnPXKz4E8eHxUff+0RH37mE9gLIv0TG8CRIUIAmLeftgwq3cq0U65jO/2Yii2kKm3eKtsQ0oaiASAmrcrbml21WfSx0Cka/Ra41pt7o0tTmUgGjL6Ajozf1xD5LcOBDP/Xp13v1euez+vL7iQfRRzGZ92N5NaQ67vLWA6NSC9FsTy3cOB0EfnxyLgGgLyPZuSjoyDSAExGcNIrd/zy5XKORcLrfTZTI7/Hch0Kenx7sHklHi7QVE3sBA0ZVKBVcs5l0+n3V9fRn/PdNoQZ/nWiCiLZCsCwviOw0a3L/bgwg7Shb05dmJCGh1+VznIL7XoKGhfo8RmKBCoG/zk90HMZUaNDy812NYR0wfIKbNjhL53xdOrYPWGpfWMVsCAiIjJOtIjw75P16eDoJs7zGltYU1ij8eArGgAemFbUE/F89sFtTctoxQEhBTxboBRJ0M1DoUbe+mNLd8CESEQLXaQb/tq9UDfi0xShpELs90HUQtIILcixfGXX2i7Hcb9ejIoEf1BETbgq5dnXRnp8Y8Ymam7iqVfcHp4toQEKe0YBKB2GEC0ijaFiSjw+6SOgTi2tAjlHB0KPEguZ80iPUDhHNHQPYMIpdro2OQnbY4ENuedrlc8otbY2T9fH1xMgISlO09UOJBcmHqXaZB7Li4Bc21ISDOoDbOoSZIT1sIRE0uW73nIEHFgVg7tNlhHI4aRC47rCMQ2/5/IHIsiDOIU1tAMjobQdPtn0OhdaRBtJlG8gnOKWlLXtdBdh1ZkNxvhJzkBM9rEGdQByBK9J/2uNAYHQKS0bEgiTZAqZQc6/8KC9Shp6sroKTFIpNgJVq5PSoWGQr7zLYufwFNp8QAWGTg5QAAAABJRU5ErkJggg==",
     "wiki_name": "Torag's platelegs (Undamaged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torag's_platelegs#Undamaged",
     "equipment": null,

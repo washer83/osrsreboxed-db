@@ -1,7 +1,7 @@
 {
     "id": 19032,
     "name": "King worm",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-12",
     "duplicate": true,
     "examine": "They're a gnome delicacy apparently.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrElEQVR4Xu1VYUtTURj2/BOhD4EQhF+GDEEZIZckJhsbW2xMYTpyhStlZE2GxaxQUcOEtUiWIFKCCBLRB4noQ0Qfo5/ztOe93Z27e2fb2tiC9sBhcO553/c5z/u8ZwMDffTxf0LBXK3Civub2AuhYHguwzd8qcXkCpmQF8uxMTxKXmshriEU9vNB7GZv4NkdA7nkeJPEFHKJcRRmJ7B1+7qcvzo42CCmKSh8fDGDk80YDgth5Gd8WIx4kfJ7GpBSKK8Gcbx+U+I7SIhQ+Fq+hf37FaXuVpRKGdhZmrSp5YRCaSUgZD7sTtvIdNRTCqdrcRzlI3JjFqM/aovodfA4JGQ+v5qr7kV8VxAcG4LfO9Q5Ulw/3i2IYlRq2hhGJupFOjyCVNAjvuE+fWMnU0hPYG/ZL0TZfu610UK3AlxsIQnQ8GwhPca9g1xIlHy7Gq2eJRl+P9uOi7faIKSQDoyImXnLxZi3htTePT9Ot+KiBpVzkubKRkdl2ui/8gNNpkVCOhnlLy5N4ehJBMWHUzL+2cSoq7C9kC6o5DLMUcoGcPY0Xj3nrGiDOzElJgEqcLgSxkkhhi+v5/D+eUKkZ6v48NUnofMyjzVtn17O1pzX52qgxJDWYiGqQQJsQb02cNooPQtRMXPfCfOl3pg3xFPf3sxXc/2BDKHkxlznxaQEnW8n8b2UrhJwK2DuUy2SchdR2MgY8sJbhJy59Nm6cLfMScQZwe9sKb2xszD5O0Z/4+RZU2WN/8W56sCpQnPB5pSxxbUq6Zfa/rfROF/bMN8i+yjzlz5kq0jWalcXyBBK2kHD2gnxpbbINDnmnYT2m+UdtoojbifTRULaf9LCymRx+n4eZ3pDRsP0DqeOvuoxGcL0jvWodtk39aDkz9M+VT0mRLT0GncH/xSZPrqBX/GNebrvTvozAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4Xu2UwWsTQRTGO0cPHnIIhEBgCSWUEEKQQrFYLBZLLVZqsVZahVoF0V4Ee9SzB0HwIAgePBUKhZ4EQRBBELwIghfxLv4Zz/nNdJzJ7LbJtmErmA8eC7Mz8773ve/NyMgQQ/yfUGIjL9y5o5w9EEqSWs1EvsuVnJuYkAtTUzI3M5PjXE8o2a6X5VVSkme1kjyunu6TmJKL09NyeXZWrs7Pm/2dJOlxpi8o+TxWkfeNsuyNlk215ycn5ez4eA9SSnZ0Ie/0Oc4PkBBQ8qNdlbXlZbm+uChXLs3JyyRUK4aSN/WSvNVkPnWRGainlDzY2JA7N9fkS7NiKscf3Ul8oA5kvrUsIaLVbMpYoyGj9frgSBG/OzWjGP44027L/fIpubsfkGQdFUMyT7Wa+NC1kbVjtDCtAEELMS7te6ENj8dYu7WyIrdXV42abu/rxP7/oFVjSI5BSBkDk5gqH1bCKVPGUxgeNVAuJk041dgLWUcmJyF7GRPF2N5YWjIVUmkWMRcukU+ozGRyB+rhQ7cvzhggfTH9hgBVIf+99XX53qrKRy35bjD+2ST8vRTgpu1r00/cIYSUMaULWoMaVPKrUzURk+Uf0pOIhHY9hn2pMTcF/dRD4Fp6CBmgTMUE4wyBR5ub8mRr6y+BtAJ2HbUglU6i5Lk2OeZ1hOK7/N5MpFsWE4lP8J+W4o1rCwv7Z/w/Wk6RkHbjf/BdGYhV6O+wnTJa3K2Sf6lRPTeZo8O+ReEo88WHbjJduwogA5RpB4YNCfHmODJ9jvkg4f3mvEOrGPGQTIGEvP9IzmRh5HDECyXj4b2Dr06YDFDmzcE7vOoF+yYL9gkIp+qECYFcr3Ex+KfIDFEE/gBOUCJT8xkMjwAAAABJRU5ErkJggg==",
     "wiki_name": "King worm",
     "wiki_url": "https://oldschool.runescape.wiki/w/King_worm",
     "equipment": null,

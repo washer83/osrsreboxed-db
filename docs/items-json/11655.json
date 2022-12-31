@@ -1,7 +1,7 @@
 {
     "id": 11655,
     "name": "Astronomy book",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-03-17",
     "duplicate": true,
     "examine": "A book on the history of astronomy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVElEQVR4Xs3XW2sTQRQH8OQb+JSXvAT6IAQKoRBCCYGUUIrgsw8+CYESrAoKfVCrRItXVBRFoYqWKk1iqDWWtl4STWlab4i34tcZ93+2ZzN7drJkkygdOGSzmWR+e87M7CYU2vstrMxh+vyft7BaXjivluZnKKpPzqrKozMUjNhYuaGateuq8fKaASUvom+4DWIUQBwSU39xRb1+fsk1MN7jMxluVCBkWNWeFj0ovALCwaD1yqxaWbxAffFqAqG/jt7ZXlA/Nx/2hmIQjjk7DHq7dJlA3LcTCN/7vTWv/nwuWVEmEMZIxGIUcnTR7LTzVTMIg5pAq6WLDgjHJtDm6k0XCMcMkqOLFnaVAQPx5MZ7CcLgQADjN4e2128PDsRZwjkdpM8JRHp0VI0kEnQsQZ/e6KBSMBDPCx0kB0fEUgUVGz2uhtIn1VBmmmIskzGCvry74wL9aj3uHcRXHx0+pKKJwyo6ckTFknkCVUo1VbYCmP3Z0zbMAkrU1/rdwYDwHmXoBEKGKqVXDohQAoTyfm/ed0A7H585mJ5AqWTSF8Qlc0DWMT5jFEA/mg+MIDl6h2bPEaweLhdQmB8Mqiwuq1b9vRc0NuPJEoE25noF2csWGWLQ0XyeUOPZrG+GdBRlyeqD72NlukDapihHF81e8jqIywaMgxIgRLW6RqFnicuGGBiIs3RscpJKdiCX84CQoVbjgxuELFnnkdHheJx+o2+QzNLBiQlCIXQQZ8cFyhWpbLwg2qCyg+kKhBXWCXSiUKCSASZBGFyC8IqMIvA9/AYy1GV20NogOY9wnrOEH6cs+UxqAlmBDGEf47L1DWIUg05NTdEVU5YMINwittZu0XLnJwac1+cQo+TohmaDTGXDOb6hAoPAVWNJf2vco1sD7uh6huLjs54MYQ8KsA+5QXrZdBCyhJJhEGcj3L2H7UtNq0j6nIpkiiqSvbqbCTuQocAgrDI/EB600E9/1PAL9EcGeR/qGSTLhvMMwvzgAfFogicCzBWe/NwX5cR8coGsPSjwPmQqmw7CMT/emkB8/0LfgYBMZdNB+Ez/V6KD0A8gZGcAIDTvPDCFjtFDgrDydBBHAFAoxNu6X0igHvr8GQio2yaR3WA52n3/U5NIU8jv7On2Fw5Y4OiVeLalAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXElEQVR4Xs3X30tTYRgH8O2yi114IUggjCFjjDGGTCTotosukhrNiT/CagVFwkKKhIgIu4koiKJIxYWmMhVxLUUmUSIRRHQTEWHWf/K073t8zt7znHdrm0t84WFn2znn+Zznec+7M4/n8A8vmcP0/X8fXlp5fIaWH51WsfiwhxYenFLBiI8zg7T9aoC2pvsNKHkR+4ZbIEYBxCEx76f6qPiy15EY7/GdDCeqLqSX8k8SLhReAeFg0MbzXio8Pav2xasJhP119O5GhnYKlxtDMQjbXB0GvZtIKRDvWwmE436tj9Dv4k36szmmQMgR8/tVyOxiWGXnq2YQkppAa8+SNgjbJtCn2SEHCNsMktnF8DragEQMwnsJQnIggKk2hz7PnWseiKuExDpInxOISDhMHYGA2pagLwtlEKIuEM8LHSSTI1pDKWoND1JbZJjaomkVndGoEfQ1N+wA7axdbRzEV9/iP0EtgZPU0tFDrcGEAmUnX9N0KYA5GrtiwUpAifq2fKE5ILxHGyqBUKHs5JwNUigBQnu/r1y0QbsbozamIVAoGKwK4pbZoNI2vmMUQD9W00aQzF5hWHMEk5jbBRTmB4OyE7NUzBfcoM5rrioB9DN/qVGQdduiQgzqSyQUqisWq1ohHaWqFLTmnxtUXhRldjGsW14HcduAsVEChJjJ5kqx6KgStw3RdNBAMqladiwed4FQoeKbt04QqlT6HBX1t7erczQNxLf+8e5uhULoIKs6okLxjGob3xAMwirNmJpAuMMYJKs0lEqplgEmQUguQXhFRRE4DudAhWqsDkZlED/zAIOTqypVmdQKVApUCOsYt61hkGwbg87396srVlUygD6s3KNi7g7lZ8ZoaeoGzb+4rj7X5xCjZHbDqAzC51hTuEoIXPX6/G3azt+nrdVx2ly666hQe9eoq0JYg+pYhyyQ3jYTCFVCy5DEXgj3fsOOhNLki4yQL5ohX+zWXiWsQIX2DWIUg/D4gf30R41qgQcz/LDyOlQ3CLf9v0DYhxPi0QTLAqqoVxKrM/Z1gzL1r0OmeaSDsI3k/CfgQEByHkmQ/q9EB+F4HYRH132AMNzzwBQ6Rg8GcXUkiKMOkMfDy3q1kEA99HY1BVTrkMhasBzlfQ9oSKQp5DGHevwFLnNl5BRJMKkAAAAASUVORK5CYII=",
     "wiki_name": "Astronomy book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Astronomy_book",
     "equipment": null,

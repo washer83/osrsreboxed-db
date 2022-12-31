@@ -1,7 +1,7 @@
 {
     "id": 10062,
     "name": "Desert camo top",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "This should make me harder to spot in desert areas.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADg0lEQVR4Xs2X7UtUURCHd/8TP/dJgoiQoIgIMaJQDAtFk0zCoKKSzESTrExDsxRUbFnF9YUtTWwzlRRTeyHsRfrcfzL5nGWu5x7vxq67hQM/7tk55zrPnTlz7jUU2vsWlmAFzf9zC8uraJPEI41Gky/uyPhgg5FCLM90yNJ0uyxOPQqAch8ia/AkkEIBpHJhFl4+kLcT932B+c2cKz9URpBhmR5u3gHFFRCVAiXGW2VmtMWs5RoExHobenMtKt9XBnYHpUCMNTsK9C7eZoB0bSog7vu5GpFfn2JbGjNAxMjPyzNyozuWTLs+tQIRNAhoNnbPA2IcBLQy2+kDYqxAbnTHwr4yEEg3N79dIIIDoeVNBbSW6ModkGYJnwLZ+yFILtDHORsolhmQ7gsXyO6mrqYiab5+TG7UFEj77UJzLSnaJ1Wl+6Wu8tAOsM/z3T6gHx+GsgdiLt5/XqJdJTL4uFietpw0476209JWf0Ia6o7IteoCqb98WGrLD0p5cb4H9WWhJ7dA+OeGq+T1UIXEes7KZN85GeioCpRm7mLZAXMfJd5Y6vWANtdHPJiMgRQK//zoBUlEKw0MmVIAAHVMpijh3atHvdIB9G2pLxDIjZ7CkvWnY2ygxVi1AZoaKDcCALDx3jIPqLOx0JSy9eZxkyUPaLl/t0DJM4gMuUDvJy6ass1GKkzpkIIh9hIwXAGzs+QDsg5FN7pjyZZ3gbRcZGOku9RsaDIFGNKy4QfmeespkzXGQOUUCOEnG8AQjHKQKaQlBCDSmew+jgQeAEjGWrqsgZCWCiBanJJoxpB2HhudecSmXolfMqD9D8+YrtsGGvNg0gKiw1wgNjN/nGAEwLeRuGJAgaJslJOMsIYMrk/V+rJkZyjN7GDbQAql2dCACN/vtVuyPFnj6zzKBhD7BiDNLGXMOZC2OsKn0s4jMNDqBwhg5gC1gRTKjR5gSSC7bAqk+wXh0/eatr8qCEj9AHEGZXAO+YFsKFscdOrXYDYQ7y73Hm37jIHoMheI1scHCB9aBNRvIBeGdcyzlk8V1n9dfJY9kNtt+G0g/Zq0s4SP+3QtQKtvnviBts6gjM+hoLLZQIwVSKH0RWxniLU5AQoqmw3EnP1fCWMFYh1AWq4sgTD/ZkwlG8aWC8S3tA2kygAoFNJj/W9yAW3Z+ycnQOmaC5kOrGp77X8yFzJI7j172v4AuJVFv+M6CZIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xs3X/2fVURzH8Xv/iEiMazKZzJUly41xSdLmNus2tSbV+iFiRER/QaZIEyVJyZSZZpZrSZJE0i9Jslb/ycnzc73ufX/eO3fdr9nh7fO553M+O4/7Pu/PuZ9lMju/ZUM8Ytd73rJh+c7JsHS7lMTL+fGweGssCSE+Pp0OH56cDe8fn4mg/JfoGF4FCQVI4THvHk2F9Qfl1MR85pqPNKolZDas3J3YguIIRCFQ5X45rN6bTMZyjIEYb9GblbmwsXq5PZRAnCs7Ar19eDoBaWwjEPf9en01/F6/Hv68uZGAmCOfyyXhZ3etmnZ9a4GYNAZaWzhVA3EeA316di4F4lwgP7tr2dQyMJFAfPYgJgeh5W0E+vx8pnsgZYnJBLL1EAsP+rJYBxEtgVQXHkSfJiyM7AvD+f4wtD8XRoYHkmNf366wt393GBzYswX29cX5FGhj7UrnIK6dOHogFEeHkgDFcbQwWEOB4QgMoFDfli50F0T/xNihBHSsmE9i/mYpGmQOmEAs8fflizXQZuVaDdMxaPz4wQQDTACLA6NskSWBfry6FAX52Ru06vpTxEJZEBiBlDGBwKi+VEuAfq7Mtguq7kFkyIPKpcM1lMJmiloC42uKe9Og+qboZ3et+sh7kLKjbFDIFqVlAyKUPpOpnoBUO/r2AO0SCmqv0weOTPE3ugKy2dGjrr4YiADE8tJvswSIXVqYpkA8YQJpI7Qggr7p8pFUTVkUgKnJQipLNkNNZoe2PUj7D32zM8WGIJYIkM1SxyChBLJFTJ/Co9QvkLJkQUL52SOtMcgGfbpmoRZrQeoHxB7Uwj5UBdllU2Hb4LfJgixM1/09euw7BglFHxPx+sFR70Aeo3Eay4sZP6xtg3js/wVijN4mbZbo0zh+LuKgudb3IV9HHsS5QELxuacgX0ceZP8r4Vwg7rcgXl07ANHSxdgoLMaGQMqOBylaAGUy2ta3Cw+0YZerK6Bmm0c2g1XUx/6n5pGx8Pfs6PYXqY9d23dEmv0AAAAASUVORK5CYII=",
     "wiki_name": "Desert camo top",
     "wiki_url": "https://oldschool.runescape.wiki/w/Desert_camo_top",
     "equipment": null,

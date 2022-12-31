@@ -1,7 +1,7 @@
 {
     "id": 5580,
     "name": "Sodium chloride",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-27",
     "duplicate": false,
     "examine": "A vial of something labelled 'Sodium Chloride'.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xt2X+09ScRjG/f4n/Qm2frSZXbxMvJUbWUojazGb8zJUUsBLKMx5SzJtmqabLjVBNMBMMU1tJl7xipe/5Yn3y84RDv7SBoetd3s2dsY4nz3v830OJyHh/xiGcMV1GN41K9Cou49KTRJUysR4QzGsujRYmX3F1d/1EGZDejyhmAjjmX6BvvY8mGpTOVDijRtyQwUzIwAt2IrxoTWHry8OeWJQqYqhVr8U3ZmbUMNqyYKx6i4Uilzk5ObLCcWg0byOUJHqOR4XqPAovwCpaZlyro6hrLyCq7y8UlRhoRpKZSEyM3OQdPuOvEA1NTpRVdU10Gqr8OTpM2Tn5CMl5QESb96SE4iGwWZ3wOWag9Ppxjeni68rLV0hhppgZAUqLS1DXZ0eBoOBi9aVkZEdDxgaFlhTNfR6A5cARPmReVXCMFxeXnKH6vRB0coUWXlITr4n55GnYdjb28bFxUWY7PYv6O/vxtumWjldCrTzigdnZ2dhMHRtdvYrhod7YbE0BNaolcslBp9vL8KdtdWfcLsdGB0dQGdHi1wuMX5jv9+P8/NzLhFobQULP1wYH/8Mq7UVZnM9amsrY+0Sw/7+jggTqvX1X/B4vmNqahQf+zrR3t6MxoY3sXSJcRdOT48jYEgbG2tYXl6EwzGOwcH3oks6XUWsXGLY3d3iYSZJgTY3f/NgO512jIz0obe3A21tJtTX62LhEuMrOT4+FIGkUN7NDZ6vubkZjI19wsCAFd3dFrS0GGPhEsP2tjcMRgq2tbXJV7q44MbkxEgsXaLsLOPw0BcBEqqdHS93cWlpnhckuUQl2dVlhsmkD5y4qLnE4PX+4UddkBSGRPkSgj0zMxk4/sO8JHt62tHa2gSjsTpaLlER7ocBXQdGdSAE2+2ehs02xksy1KUqbWn0XJLCSKEIWgj2/LxTdGloqIfnqKSkWHQoKi6dnBxxUQ/5T0+DCgE7OPCJwaaCpBwRDD3XioqU0YQRJvgvkMJ9dHTAK4AABTC6RieRgk0wVI5CbmIAE5zgDwrvXEyEItfoMwWbskOPDilI1GFC5+oGV3BSyQJy3YTeWCrpd/91/gKRPPvhPwBKGQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xt2X+0uTURzGPf9CUBAkWkoMTdF5yUSdzcuKLWuWW2KSuVBrKtsc2i5lF7qhFF3oQkEXSWQpolPDyBARkRKx6f/z9J7zet6977v6IdjOoC88v2xj58PnPOe8W0bG/zEE2qR1CG76K+HpKkWH4whsDYfSDUWwOOHAwngLy8hwLQZ7j6YTiigwsx+b8SBswsCVMgZUlJ0tGkruDAeafm/H3UA127409InAeb4dbW0XFTuf3zThzlAV+lxG1NWdgMVySiQUQaerKyEO5wXY7U5YbXZU15hFbh2Bu7efpVeVFkcbTp9pgdlsQUmJXG5hQH7/oBKfzw+Px4ez51rRaLGhoqIKBkO+SCA6BJHIFObm5hGNzmFmNsq2q8ZUp5SawggF6ulxIxAIIhwOs9Dtqj3ekA4YOgRerw/BYIglFAop/RG8VXwIdra7maFAUA7dsvr6kygvrxR55OkQxH6ZsBNzafJpLA+joznweg6ItESw/L1IAujQwCwtFSEykYenT3IxNJiJnu79oixJdmLmXaB4KOTMdAFevsjF9XAW+vuEWCJYWS6WAFqltGuA6Ovz0QK8e2vA7VtZoizx7lAYbVZXirH4pRBjHwwYeZgjwhLB2moxtmPNKkPx0Pe+fS3ExHgeHj/KYZb8A5m47EqZJcnOVtkuTGLW14ys2JORfDx/lov79w4ieC0zVZZkO7GYVVrcsRst0I91o1Ls168Os+OfQksEmxulKpjEbPw0smIvLBSyYqstua/KQEmyJJ8setRpf9TRA/Fi0wuSWxq+IVvq7kqaJcK2Qw+jDzXIi00vSGqJXpIpsESP+jFp0aa/RAba2ixVij09lc+Ov9oSfZx0XtqXPEuJINrQE8iLHZ0pYMefW6J3ktOxVzGUHEtSh+Q0qmKNR7LIi817xJ9rNuueZMLwkX8F0oXpba0FpEAmpdgUhl6O/A5KAYw88hfy/1zyYyQOZWbF5o8OPUjSYdQTXyAOp48QkD+NemF99J/91/kNOzx4lR9HT4EAAAAASUVORK5CYII=",
     "wiki_name": "Sodium chloride",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sodium_chloride",
     "equipment": null,

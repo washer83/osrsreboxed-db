@@ -1,7 +1,7 @@
 {
     "id": 6610,
     "name": "White 2h sword",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": true,
     "examine": "A two handed sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4Xs3XS2sTURQH8ORzuAl0Ibhy48q1SPf9AkVw6UIIBS3FB1oUlRZLhSpaqjStWmMpbU2Takra+kJ8tPoVXLnwExz7v+N/cuZ4MmaaUXrhkJuZOzm/nvsYWigc/FYUP7z7/7wVpTozIgvTwyGePDgv8/fOhSBiY+mGNBevy/rzaw7K/hE9wyMQUQAxLKbxbFRePL6SSIzvuGcjicqELMriwwt/oPAJCIOg1fnLsjR7MYzFpwfCeI3e3Z6Rz627+0MRhD6rQ9DawtUA4thOIDy3szUt395W9mIugJDjaKkUwmY3LSo7/2qCkNQDLVcuxSD0CWI10G8t30yA0CfIZjetmJgGJOLixncLQnIgOL0E4XemxsdkrVoN/e3VsfxArBKueSBWkiCNIehNTYMq2UBcFxaE5BakFzQCz48MDclmvR6CU/auPp4Afdm83zsI1wEiipXkmE4YxPvG7XxBCAA0yC5oPEtMq1aLQRj7sTkZg3ZfP4oxmUEaxe1rQbY6GkPQp+YdF2Szd2jRdkWyNBAXNMYOl8suJgZtTO0XFJ1BqNDfQKxiWnX4TAKkDkWb3bRoy3sghAfyqoPf0NXJFUQUAglw4iIB+h4Gz9npyg2kq4RPDcI4goBJA22t3FKguRjTFQg7xwPx/USQh8G0WhDG4rWhK9RlddDaILuOcJ0gjHs6ekh2Zvvk58sjMcaCOF14beQGIgrXkUCDzgyekK+VPvm+cjhc05XUIJzSGkSUze60CORNmwUNDhyX8un+3z8cVcgDYfyH9YkYhDMowzmUBOlpIwhjBvqPydlTJ0Mf5xOny4JQnZ5B2D2dQLj/arIkP+rRuuE7ToO41jhduYHstHGbNyZK8ZrRIJ5VeA5jCcKWT4D2zqDM55A3bUzCNYPknUB6/eQC8qaNICTBPb7fLIivDU5XjyC09r8qaWHXD8OCcChqECMDqFDgsZ4WFqhDr59cQN02i+wGy2iP/U/NIr2wzxzo9gszdLMnQg+9cQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xs3Xz0tUURQH8Jk/ocXAEAguQlxEuCjCVcGsi0n8EZWRZS2CQAiK/oAIIgrCKIyQSEQsGTQxBiMiIgKRCCIizKJdm/6FE9/7+r4573je+Mb5gRcOc+fNfXM+c+5992out/tbXvzwPm97y0vl3glZuFsO8fzOcZm7fSwEER+enZH3T0/Lu+lTDsr+iKbhEYgogBgW8/bJSVmdGk4kxnt8ZiOJagiZl6X7A1tQeAWEQVD14bAsTw6GsXj1QBiv0ZvVCdlYvrQzFEHoszoEvXk8EkAcmwbCfT9eXZGfq9fk1+sbAYQcfd3dIWx206Ky81cThKQeaOXBUAxCnyBWA/2PM6MJEPoE2eym5RPTgEQE4b0FITkQnF6C8D1H+rpk8GhP6K/Nnm0diFVCMg/EShKkMQStz9VAiIZAXBcWhGsWpBc0Avcf7C3KSKk3BKfs0/y5BGhj5XLzIFzXIFaSY9IwiC8L51sPAkCD7ILGvcRoEMZ+rVyIQZvVqzGmLaDtqoOx3xbHXZDNntKixxXJNIr7CUFc0Bh7YF/BxRD0feniTkHRHoQKbQdiFetVxwfVNkWb3bTokfdACA3iE+ZVB9+hMbin5SC8EoRA38PgPludtoDQ1yCMywrCsUEQdmliMoHw5BCkUUxEkIcB3APh2NAVylgdtHQQD0xipq/vkbVHRfn7sivGeCCMx7HRNMhOmwcaLR+S9ami/J7fG67pcXr9fH4xlgARZbM7LR2E6xpULu2X8aH+/18cVSgNhGODIOxBDexDEUhPmwVhTKm/R8YGDoc+9idOV0dAROFamJZbBflTidYNT3gNIpzVxBPWFAiPcz3Q4s1CvGY0CBgNYnW2giYa34e8daSnLFRqsvY3UEdAdh3pRY0+zzcL4rFBEPagJkBo+h+79LDrh0EQq2NBjAZAuRy39XphgTr0dLUElLVZZBYsoza2Q80ivbD37Or2D/1GAv4oEfvRAAAAAElFTkSuQmCC",
     "wiki_name": "White 2h sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_2h_sword",
     "equipment": null,

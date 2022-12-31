@@ -1,7 +1,7 @@
 {
     "id": 20445,
     "name": "Fire cape (broken)",
-    "last_updated": "2022-08-02",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": false,
     "examine": "A broken cape of fire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4XuVXXWvbQBD0/Yq+tI3tVCIJOGlpsWkwLSbGhGBI0++HUkeV/P9/wnVn9lY6m0BTurYfunBIshTtaGZ2pPR6/1eFqMv2D1ohLic9Lts/IChlxkC87PcPBUqB1PMiVtN+bK7LDFB3vjveaYW4/j6J608Xcf31TWwWRVx/ftWCsmv2wJI+NZoTyM0pwTR3I9kv+Xt9XSQQ2zK6lwD58pqs1LOCC/uNSNZ8PI/V5VFi6ZTX5SZ3BtR5pX5fsGEtrKzGR8rM7ZmAG8RmWRJYvRiqhAIK1zsD6uTRBoMWCM18dUzfABTAGKjmwxmvNzBOgIJKYoZdnHALaTBVPCfAeG6eroGnAEiWOxhrBq9Qiqsh2WDjxAKkAwiyKIw085NYiUz43VEqNS/NKn4hMBjZ8gaeEemwAOp+OlBAGYuO7ATelDfGWC9HmjffxjwGKBvxH5NncTV7oZMHjwmQ1eXQC0yXL2QFo5uMbMDoJfgmy5sKLC3TtQDsI1XKF1sGBFOV5Y15qc2b3DsAfDvyYCfwiXlz3Fj8waffzhuMtTBBX1newOSWNwI2l2u7yyOrk4jeQJPZQD0ijX5ePCEImhkAMdIJMHMG8snfqJk7qf4JEMYUpqV55caYIkoEKdBQ2NCtyoPJIgCATnlDv2WTtd3lLyqoXzBFaZIgCYxKOfCqmCbGkqyMgCxvmNIC1oUdlUv9oJ8QmiH8pMA5aQT/YLxxvHr7tDuXWPFlR56UqQoZUvDRvEhfS2RhBMF3/26okwfAACcGJkM+3rHS7OEUYYLgB6ZzyTd2y4BFQbYAHkCr8XMPdvLSz4pfs2MdfUhistCwpb44M98gncEY2HNkx0rf6Bb9MLHJQiOnzOExTJ5MT3amAOHKDipo+uKluTFFmtAEBaZSKiON4TOT25kdVKAEAALZWnbu9DuIoMCSJfh808TOYKwCv/xa00pjSNIGZJo2bHfEykNl/wZ3y6bIgm+PYLQ2ZVBvIaP2INFj6wCs/Kl2DeY3Fm8yxiX39hQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4XuWW3WsaURDF3cc+2MQvFNKmlmCoIFgsgiRFECQtTUnpS6E1ZInu//8v3M5v5s66Uksfco0PHRj2+nnPnnPm3K3V/q/KgrWvj1pZ+Piupu3rI4IyZhzE+37/WKAMyOOsEVaDk1B8OqsA2n6+fX3QEiATAXJRD8W8G9bTdsgnzbC57uz46BlYsrsuZt1QfDkP+fAk5KNTXWsLSxsBt1/G5AUr7VB8fqXswEZx29fX9HrWUraKuzeh+Pp2x+SJAUVW5mfCwLluphLBzKIXHsenYc36phfuRw0DCVuweGsGTwgoyiMgiqUA+n5pG0ZQrDezdvhxWQ/3E2Ho7sJaPl8NGyWYRIAEzHXXmk0AwnVxpiDUL3OTbX3VUlPDmANKD6Zyt2yKf9RDIod7CVMrULzD95BK1rmwmlCqzP5cGMCo63FbWWKtebPsaauxFx0zuWSRsiaA+H5CdixfSnmkMa3mjcjheaOMAIwJ8yudTqo4SYCQu9S7BRT+kavmDfLErFEJBWgplwOaJ5Eqs40w5NQAqEeQbBql8LyR0VYjAyJOG79BJiRNwE6myVpOB81owwJ+kE00b0SWzYeOseJ5A8AKi1yfyE40r/tlaR4pwcGWXPU9YQRmNG/Gze1v5Ppz1AwPo0TsACIft2xzAcfaRxl2fHqqeaPswApMRsCw+ER2qMykEUZ+vX5hTAhAErY8p0jpat7AHqx6EwdXqdhhmmL8M+qAggnAPExbelR4tripMbkC5+gQIwMeydKww+PDuFGC8g0VQBz/MpPoaHTPG34HuATseFn2KCh8In+uUyQb4hNnopQmjrbnjYIUgAnYqZYZmz9HLo4GnSKOgyo7mDieYWpwvFQBkxSQssOZFCfrj0eJONpMoHoKhqKvErNDZZbGEdDOFAHm28AMLPIhYz54ufOImpgdKkoWzyI2VpMDSEaegxS2VsO6fu4P8Q4kMRivGAGwdGPeUE/JUYFMMIOvCMkDsbKvTIJqlyMufUCJ/l67MmSWNbPdnHk2MPvrCKz8qw4N5jdLBgY+shP59wAAAABJRU5ErkJggg==",
     "wiki_name": "Fire cape (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fire_cape#Broken",
     "equipment": null,

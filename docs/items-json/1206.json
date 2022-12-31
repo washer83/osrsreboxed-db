@@ -1,7 +1,7 @@
 {
     "id": 1206,
     "name": "Bronze dagger",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Short but pointy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xs3Wy04UQRQG4J43cMWGzSQuSEhMeAkXhjcwYc0TuFFjvEQNikSDYiJECRoHUOQmIMKEmSAg3i/EGF/B+Awlf1f+mlPHM+000xoqOeme7uqpb86pqp4kOfyt5Oyw7v/zVnKzE+fczPjZNJ48OOOmxk6nQUR9cdDV5q+56tyAgdI/om24BxEFEENj1p9ddS+mL0cD4zPu6YhRuZAlN//w/B8oHAFhELQydcktPr6Q9sXRAqG/RO9tT7jPm6MHQxGEc2aHoJczV1IQ+xLEgQnCc1+3xt233cp+TKYg3O8pl9PQo6vm085fTRAGtUBLlYsBhHM8f+rkCXf8WBJQm0s3IhDOCdKjq1aKyoCBOLnxWYMAB4LlJaavtycCba/cLA7ELOGaBWImJUaDXq9KUCUfiPNCgzC4BskJjWeJ0aA3a7ci0JdX99sH4TpARDGT6JOVHcTb9eFiQQgAJEhOaJkdjUHfj7WRANrbeRQwuUESxeWrQTo7EkPQp9pdE6RHb9L8HoLBskCc0FnZCaD6vYOC/B6EDP0NhD4yO8SgtBKE/hFIbIp6dNX8l1kghAQxizI7OMdzEgR4oSCiEBgAOy76LcyV3UYVX+hBOAKN53S5CgPJLOEoQYPXOwLqw7ujIVsWaGt5SIAmA6YlEFaOBeIbHCCWbOSOR9VrHvXje1d6Xc8fvDZkhlrMDloDpOcRrmtQf+8RNzba6Z4veJTOEMuF10ZhIKJwHQOwZMAgWCqEzKQEYZeWIKL06EbzIKtsFghH7uKY0BYI/d9XbwcQ9qAc+1AMkmUjqBnGAiE7bYOwypqBWJpfP7ubgjjXWK7CQLpsuPd0utPt7vgljsF1uQjCdxCEJR+B9veg3PuQVTZcT++v+dWUBZLzpxCQVTb+avTBPfm3RIL42mC52gShNZZxVuj5w9AgbIoSxMgBShJu61mhgTLk/CkE1GrTyFawjEbf/9Q00gr9zKFuvwH1JngAS7QewgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xs3WzWoTURQH8GTpwkUXBRGEPoK7gvgK3RV3unOjoqioqFVUrArSKqWKGqq1xjZoMTTYhtqS+v39gfgQ4lMc+c/lf3PmeDJmmlF64TCTmTu5v5xz752UShu/lcUP7/4/b2WZmTwo0xMHkrh7fb9UxvclQURzbkQWq6ek8eCkg7I/omd4ABEFEMNiFu6fkPmpY6mB8Rn3bKRRuZBlqd449AcKR0AYBD2uHJW5W4eTvjh6IPTX6M+rk/JheWx9KIJwzuwQVJ8+noDYlyAOTBCe+7QyIV/Xbsu355UEhPvbBwaSsKObFtLOX00QBvVAtTtHIgjneH7vnt2yc3AwopZrZ1IgnBNkRzetnCoDBuLkxmcLAhwIlpeY4aGhFGh1/lxxIGYJ1zwQM6kxFtR6cj6CELlAnBcWhMEtSE9oPEuMBb2oX0iBPj671jsI1wEiiplEn6zsIF4uXCwWhABAg/SE1tmxGPR9u3gpgr60bkZMbpBGcflakM2OxhD0bumKC7Kjd2hhD8FgWSBO6KzsEPS+eXW9oLAHIUN/A6GPzg4xKK0Gob8G6U3Rjm5a+DIPhNAgZlFnB+d4ToMALxREFAIDYMdFv4fVfnna6I8gHIHGc7ZchYF0lnDUoJHTmyPqzastMVseaOXR2QjCLk1MVyCsHA/ENzhALNnl0YBqLgXUj+9bk+t2/uC1oTPUZXbQ2iA7j3Ddgnbt2CTjY31Smw0omyGWC6+NwkBE4ToGYMmAQbBUCJ1JDcIurUFE2dGdFkBe2TwQjtzFMaE9EPq/boxGEPagHPtQGqTLRlAnjAdCdnoGYZV1ArE0v35u6wjiXGO5CgPZsuHevak+WWuFJY7BbbkIwncQhCWvQdiDcu9DXtlwPblfD6spC6TnTyEgr2z81eiDe/pviQbxtcFy9QhCay/jrLDzh2FB2BQ1iJEDVCpxW88KC9Sh508hoG6bRXaDZbT7/qdmkV7YZzZ0+w2j7CdVvzRUZAAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_dagger#Unpoisoned",
     "equipment": null,

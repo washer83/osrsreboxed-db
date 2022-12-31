@@ -1,7 +1,7 @@
 {
     "id": 15409,
     "name": "Spotted kebbit fur",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "Maybe this is why people think furry dice make you go faster.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4XsWWUWsTURCFc/9B3n0p+FAQCiVQSgmFllCCJJRKgyVKoS2UioRClaJQEAURBMEXX/y1V8+9fLuzw6aNu6sODNsk2zvfPXPm7vZ6rSLEMv97hPjqZC/l+bPhvwKzClTzcrabYHRVnh7uxNl4y93XaeSipFSwCZBy8WKUPs8n2/FoNIjj4ZM4HDzuEirE69ODoqBVAjiABGNbJ6jp3maC2t9e7wIqxA+vD+P7y0mCsgU9nP7mHjZA66QUYC2hQvxyM0tQtxdPUzGbHujN2biAonWCklIWrAVUiF/fPq9AqaAtClRSZLcfr0b99LvggFL7LFhp+EaRVfq0OCqgrBK2ffOdfrzY78fFOEPZe+wwANdwAkP8fH1cAMlPgrLtotDG+qMCivvq4L1qjaA8EFOkNkkRFZJHlBhbMMvAgNLam2trKX3VByLEu6tpUUALAiRFmCyZVlcV1r33AbWAUeR+e6DjrV5hZhXTdwDpvmVQrWGkjhYlGWnGmQlksmgZUBaoNQzeYUGKWUPrM7+jUB1UpzD0HxUoRtqWMIFKexQA5CutEHmyaBU7t4XYdV1buEcmnw56hdfwj6+2QuTzx8JwdsgzFPBAHoqTWWYnW0FJJfyCibXrg428aw5BD2T/x76qkNpgA6j8LJOPtGMtxFNbKSidzADVQT2UjaD0LJOXJDUqAUULLJCdQv22LBtOXIg/7l4mP6kgXuLlS35i7JlCqXYz6RdAPMNsNoQhQvz+bp78JAUYawzO6QwohrdA1j8tYRQh/vx4Fr/dnlTeiyikFnK1hvdA2kAHMIoMpNZhcntYolZ62P6+MlkeyKrjK/xhlEBSSSa370i8BVi/AMB3HJQdASmyuQUkleoSjzHSPPcsKFB+9QZRAtnMi5dJS6UaytFawDpSKQNp2pQAYNDSqPl721b7PLRnkK/QIEolqhDVsGBSTGD+FaYjlXKxZSA+LJjPVdf4K+HbuirMLzcauvtw06zDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUUlEQVR4XsWXXUtVURCGXT/Bi26CQCIiQsILQxLFSBKNg2iYRmZonAqRCulDCqmQRPoACyqIICKCCLqI7vp1K57ZveeMQ9Jx710tGM5pn+2eZ7/zzqxVV1ellXI7/vtK+e7iaL69cCqvzA79KzCvwM5YnR8xoJnRY/b92sxgnp/oD/fVupK9PcmIG+eHLVCDENDcWF++d/m0/dacPmH/Hh88kof6DtYJlfLDq+OWUGWJYAJCFSD4DujS5ICpBtTowOE6oFJ+tTaTn96cNCje3oN5OK4tNI4bFPfyG6XjGlBTJ3tzY/hoVaiU3z+6YFBb1xt5vTlmUBFMQCgiKO7lOqXjutQDrgJUyh8fXzSol3fOGhRvH8GA4nNfd7cFUBvLEy0/UT7U8sCVoAB6c/+cQW2unDEoDya1BCQolVkqAgeYVCvZgSm/ezCX367PGhB+Akryyx9Ez/42EIlRFKW8/4DzqgFXCkoKPV+dMiAA6B4BADjSf8iCkqAQKugFAJOiUkxDtK+nxyJm/cNKO4DUzr5EKMDMAQ4oYLgfpVRqoKRUBRhWUW8liEAEybgmIO4DiojlqwyzfWvaHqoAiLnCwKNMeEHJ+I3vqOKhVLrKMDKz3lDhDY1fvE/4jFB8VoZhKMo3vsWBiQqoLMCoAwnvMwHFTB2sorNUKpKoZQkSqbVlXpVF6hGY3PuswlAs5o/2MVTRLo5nlCAC+Y4CCI8RmF1RCQqVSKB9iYfFtwYmAlE6GV8+80EnloBK+dPmgpmaN2aQkWSg94CFB6K0EYq/AWy34J5SUB825i0hptbBS1AqgQfSlAZemzAejFGy41L+/uJKy094SeccSoef1PY6Ykg5AenspOAZJWG0Uv76bKnlp2hwTee4vwEUu5OoCMNK+cfr5fx565LNJaCUCF/RRcDw6Q0fgVC2BhhWAfRtu2kHNj+5KYl2btShq9RZApKifnePGfa42kCoxIGN85GOJBgaQH/mUXv73R3wmoBYqQWESgrGggJAP4e053lQQcWnl1htIMWXJ4u/Ht4OIPGZV85vur7DYoY9rgKIbiMEIIO2jVpcZ3bpLK790KtVm0q/A4l3eTAUY4bp/3dSqyaVimS7gcTlwWJ0+oy/smJZO4X5CZYQxAn65RW/AAAAAElFTkSuQmCC",
     "wiki_name": "Spotted kebbit fur",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spotted_kebbit_fur",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 18179,
     "name": "Pet kitten",
-    "last_updated": "2022-09-13",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-28",
     "duplicate": true,
     "examine": "This kitten seems to like you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVUlEQVR4Xu3W20sUYRgG8J3/YK+88UbwQlgQFmGRJQRlEQlFkiRRSdwilVzFU5mVsomaxzLTLDfTXA9pGR0MAvWuAs3M0gKPuYUHutBEzfDmifcbvtnZcc3Y8RDkCw+zjjDz4/0O82k0h7VrJUB55wBLwCdbPP4hlIDJpgQWEaXMvpeALy2JcNjF3K+vR8ONatwsL0dVUdFBoAR8azOjs6kJHfcaJVBdZQUDFedf3s9uCXj2oANPO9rxpK2Voex3bsNWU+MCKsjNxfmM9L2GCTgZEyOBHtvtDNRqa0BjbS1uXavC9ZISXLUWSKD0lBQkm81u5plqqIiRgx61tLAhow4RiIaturQUZVessObl4UJmpgSyZYSwNGaZpDTnmDxFOTEcRMPV1dzMQMfCwxERFoajJhNCg4NRUVi4BVSdHISas87UWYIZRu/jw6J84w7lBL3s7sbm5iZOREXheGQkwyhBIUFBOGI04mJ2NrJSUxmo2GxkKTstRgWGSgQRhoN+bWxgfXVVwrgDBRoMCNDrGehSnEGKNd4ggZRv+styBfV0dbI5xDs0MTaG8dHRbUH+Oh1LWqQ/MqP00Gm06kEvHnaxcEz7XZvUGcrIwADe9Pejv+e5C4aDCG4O9YOfry98vL3VgMTlyVcWhZa6HMOzXXcIQffpHv1W0SGBzRNl6OE0PMr8CcSv1B0PQa6Yn2tr7EovnZkYZ1dltsNwCI/HIELwEGZ1ZQWLc3OYnZzEh8FBBpDHHYbmjhyjCvRjaQkb6+sSZmV5GYvz85idmsLHobd41dvLEDxKDK1CGkpllwjEUcq37lACvi8ssK7wyU1/O6anMfpuCK/7+tiqI4gcQ1sEx1Dn5EMnx3i4MYoQ+pLT9evMDMvnkfdsmdNWQMcPOYZ2cVp1fGXx5U8xqMPwEtjxgh++5hwOjA0PsyGjbYCfheh/sdHRrDt8JfK5RdklDC+BfcnprEMY6g7t2rRB0kmRQ6gz9Ju6RBNavh3sIoaXwM469NHMSbPAkpSEMwkJ0jDR+Yc+pvx+YlysC4yDlE9VWeKc4scKemmllxGlXoHI9wrAOa0eFq0Op7R+iNX6IkIjfib2oDvOEh+qPPkJWzBKyJ5g5CV/kTvkvkH+VFuRh/Wf1W/FHdtnOosjwQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xu3W30tTYRgH8L2X52IX52Igg8EYQ8YYh8PYEMXhaCRubGOGmLCKleKFZUmWmJgMTQiSfmFFBBEEEfS3dNlFEP0rT33fl+fs3btjxs42g3zgYTpk+/C83+c9hkLnNbASZL5zhiXo61GF/iGUoG/Pa7IVyuyRl6Dvx3X68Ur1i40SPblVpIOVaXrYmjwLlKCfbxr0bnuO3m7N9oA2l/KjnJagT+0afdyr0ofdyomg9YUsLVczw4YJ+rxf80Dvd8oSdHxXgQ5XCxK01ZzwQM3ZNC0Ux31yFhiqMF8e1X1BT29foMdrM9S+MdUDulxK0dG1rOxn13Nev1zO9YvqYBiE40KGXt+76B0ZJsSgjcUcrdYdb0LtRYcOljp92HQlxo3HZZvfeEoJD4OO2PaJID4yE3S/kZb94JLqABhUL4hbB3Go+cgAapUzEnSz3Ok7FZWpPjGobhBnCBhkh3HmlukTqk4l6EohTq1igmIhKzgICG7GYCrc+tTW5t2uDQNmxo1RIx+laMSSHQCk1hMIbmSHIdgsbkwH2QEIR4XtahSSNDcRJycZoVTclpgAExJytc3OOo4EIMRoHBW2a+eqAunZwXRKuRglomFvOn2C/DF51/UCDASmgmYMH5c+HRwXYwYKwlHxrcwTwUYhxOi/wQQCAYD7hjE6CBPi+wYbpQdZx+RSY10YOxySIEaZ33pKCblNQHC4+THBIECQGT/MZCYqw8z5wauO6fNiVBAA8AqMCUKAdQxCzBhslt7jwTBcQh4TMoOfcTMzCNNBZviJDgymAwyOC6/cA8JwCRlkhJcxyA6vt35MPCX+HTD0ADFcQoL4ntG3CQDkiN/nO0iHMsj81IClMqU/FnbDadoOp2g9nKQVK0FNK0bz1u9JWWM0HbLl3w9hOp1SH2r+5yd6MCZkKBi99C/yQ44M8qfqRZ7Xf1a/AHdOVlhVzdGTAAAAAElFTkSuQmCC",
     "wiki_name": "Kitten (Grey and black)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kitten#Grey_and_black",
     "equipment": null,

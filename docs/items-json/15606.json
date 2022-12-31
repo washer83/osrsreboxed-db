@@ -1,7 +1,7 @@
 {
     "id": 15606,
     "name": "Reward token",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-13",
     "duplicate": true,
     "examine": "Yellow reward token earned from helping people journey to Paterdomus.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu2XUUsUURTHnS+xL/sysA+99i0iigiCokLBFndF18XVTDGRNTNd1FJLS13LtJJNzdVcRVIWsRCJiBCRJHroi5z2f4Yz3b0OW7l3eurAn52duTPnN/9z79x7Kyr+R1lhUbH+Jsq51zMsWhyLuZofrdcSlNZ0f9jVzGCNCSiLIVRlHtay5oajrBdDEU6mJveSAJ227XKgLBdAlQqDZEvpIC1MBCnz2FF6IEhtteeoM36B7jZfolTrZRpov2IG6FHyOg13XnOlwkAbr2w62jlFh2sJOtpopu+bLfQj30pj9wLUEjlLt2PnqStxkWUACOFA6WDQ9qLN+pxtoP2VRhfq27ubDDaUDFBT+Aw7JTBGgXSwvdUQfVwL0ac3MfqyHHed+rre5IL1tQe4bIbckbBo7E5lEdCDjqv0PmvT7koBaqGeXQIQnIIOco5jcMmgOxIOkEABCJ1USgYQLwFsIhU07Y5EoXQ99TTSXUeDyQj1d4TZoc1MAWo2Qh/mogyx97qOBddQytkRX4AKDvXGjgGhD2GUbaSraWs6zEA7L6MMt5upZTB8DnwBAgygADTUFWWg/a0QO5QdraTceJULlp+pYdj1WZu6b1X5AwQQcUiA8ItRtvLMptXnNrsFQJxD30KbnrZqf4EggKBs0NT9BB1uh+ggH2LHnqTiLCltX/sNf4AAIVAq0GR/Iw99Hv4FZ1BW6W9o5xsQkguUvD3+IzmPtEKJMOoERoBQNl+A8GBACBCSifLzDgwkMCq4r0DiksDgWD6QkAojpTUMZPFXWSRQavkEBk7pDvoChHnLSzLJAkSVXFdfBM/Rn3zCsI4tO2RyFakw6jUdyIBL3ksPNRmWplKufwKkz/LqahEwEI5xHkDqdRXKGNDSeEPRrkNfV6sSEB1YFvoG+tGvXYe+uPcS2qCtgHgBlemSs+vQIdRkzls7QjsAwc3lyTi3VbdCRoB066dSztwkQgKReh56m26k3NMEQxoDAsBkr7OE8ILQE5QC9Gp/gvg9RKk46X0lw+jD/iB+AjTZvBhQxpoUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xu2X7WoaURCGs7fRX/lRQhERCQZRFEVRNCSllZqUWIP9FEzIl7WpGBuJkTStRAIhEAKhlELpJfQ6ekFT31lmezxZbKtn+6sDDzG7x51nZ45nz87M/I+pwqJR/iam+a5rWPTppORw01vTEoznvFVwuGg/MiFlsYTK9fEqc3W0wlx2ipxMTe6GCAVnZ6eRshwBFVUGyd5Ew0w9ssDUQkGqrkZpqxyn189S1HyVoYNa1oxQb2eRjrbyDqoM6CSidHM/T71gkk6DKerPp2kQytDzoJ9eFCO0UYrRbiXBGBBC2FK6GHifTjCdQJy6gcSIFKgE/PS0EOZKiYxRIV3sPJdmROjH9zuOlIiV/D5um6HqSFh0src0InS4maOPmSRz4I+xFIQgJtUCaJ3B6kjYQiIFIUxSaRlE3IAYJrjh6kgMW9dYo279MbW3i9TaLHB1eqk4NXwRavqiLIFqCajaTjjkhdCwQvulW0KYP91kjLbnFmjvXpiFRA5ACsuBJ0KQgRSEOrsrLHS5mOEKVe/O08ZcyBEDZ9kULwn1l8veCEFEKiRC+IsqteMRTo5qQRDHMLcwplF94K0QgAjaBgbvKrwwXi/n6GopS6fNMiOtfVt76I0QJERKFeq31rk94CKf5rbKfMM4z4SQXKTk7vE/Jx+2CS3Cr05kRAht80QIF4aECCGZACFZJEVGFfdUSKokMvgs1REhVdoDIYtXZUGk1PbJig30CnoihOeWG/pTX5Dz6o3gOvqVJwzr1rZDHq6CKqOe04UMVMl966Emw9b0nwrpT3l1twgZgM84DiH1vCplTOjzhycjbx36vlpFRHRh2egbmEe/3jr0zb0bGIOxIuImNGWV7LcOXUJNZt+1DcZBCNX80i/zWPVVyIiQXvpB0342CUggqMfB17N1+jaosKQxIQj09+0thJuEnmCcoNv4CeL3EuNi0u+NDaMX+4P4CYO0OiI3BEmRAAAAAElFTkSuQmCC",
     "wiki_name": "Reward token (Burgh de Rott Ramble (yellow))",
     "wiki_url": "https://oldschool.runescape.wiki/w/Reward_token#Burgh_de_Rott_Ramble_(yellow)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4131,
     "name": "Twig",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2004-08-24",
@@ -29,6 +29,7 @@
         "vannaka",
         "chaeldar",
         "nieve",
+        "konar",
         "duradel"
     ],
     "duplicate": false,

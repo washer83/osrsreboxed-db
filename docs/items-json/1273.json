@@ -1,7 +1,7 @@
 {
     "id": 1273,
     "name": "Mithril pickaxe",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-27",
     "duplicate": false,
     "examine": "Used for mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xu2WwWqDQBRFJ3/iLlAohEIooQgJQVxESqWh0IXQkEVKoNBV19lk3z9+5To8HMdR28yIj9ALF0U0npx5qEpdVyZU76iZUHyrKLlTlN0ren5QQ0PZ/77ZNN3T49MHbV++qChO5bFZFIWG0jeL421vV+uihMqyI+1259BAGmS5fG3cuK3zqV4yWNpsDoY972iQNpjFIm/0JlLlDKEMBFsBwZoz0lXYcQElyVvZPP/0B8P69xU3MO24gDBbKPZ52L3AulO3g5rmGIiXH1scO7x/DwHlhrENcnn+sIU9Ptf+VY/UgUwY8ywXHKzh8RDQUrsd+0wzNhzmLRCUflXYMH1AZhjsr9c5UreD/d/Yacul1xnxtxMwl83OgBFsZ2QYpLLjO8gBItiOiEH+t9OdCkiEHV4ufC+LsMNAAuwg+hNVwHOHo4FQIUCI/pgSsFxVRMGMmR+4Dak8fDO1gwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPklEQVR4Xu2WwQrCMBBE40cIUigUEREp0oMiiqAoiIIXwZsXz/7/PTINa9I0tmpSuogDA1rS5jk72AjxW+rIoltVR04SIWcDIVcjIbepaBrK/vVl76axPC378rIZyut+nF/LkiQ0lNpsOurVep3FT6jbMQ0NpEAWaZTb3tzlYaRGBqDDHCDBuqRB3gWKuyLvEExASCsgWLkjVUY6LiBzjN5gmH+dsYGZjguIjO9Udi+wahXTgc3kCIZGT2D3c9YElBvGTpBMfQMYoGit/VQPFYFMGHOVCw5QuvBB9Dode6UpG06X3VvqVWHD1AGZIrBP73OomA4+v5POK317nyH/dALqu+40KMbptAwD6XR8ixxAjNNhUeR/OtXSQCzSoXHhvMwiHQJikA6kjqgM/ndICghmAgSpwxSDcWmxgmlTD8K9hogdIFJaAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_pickaxe",
     "equipment": {

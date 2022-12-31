@@ -1,7 +1,7 @@
 {
     "id": 19386,
     "name": "Combat potion(3)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "3 doses of combat potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xt2X3U4TURSFOW/CvTcmvoBygQmhxEJ/oLWlTqHT0loLbYEO7YgiIKZKALGxIcbfoMZoBEKwCMQL44XxmZbsMz3TmQNeaKbTxJ2stJm0c77stfbutKvr/ygGuzpaDC+f+LC5MoCl8lVok5c7DcXw6yiDn4dprndbI6ivejsJxUyYHwdJbNeDqFWvcaCL3d1uQxmZEUDf91W8rgW4fR3IE8P4eBKqOmF259tOgudpfbkf/kAIw8MRN6EYstncGcXHVIzG4giHY/B6A25ax5DPF1EonKo4jWJT8biK6GgcPn8IfX2Gda4BlUqaTbOzJShKglvlGRhCT0+vm0BUDLu7e2g0Gqc6xJfT19iNcXgHg2aoCcZVoHy+AF3XTVF+hnwjnYChYtwmGYgmzGWrRDEbDIksC1KGPINujjyVYVe5XEalUuEiINpNkYhis03+ZpuKoTg9A02bgzZnKHsrh0wmy6FC4VH3gdaOK6aqR9O4fzCFxb0cFj5nMfM8jtTDYbdsY3jQyJ8BomtL+xagVVdsY7i3k7PBkB4dzdiBXowhvR5CYsXf7i4xVL8WzgWi68v7kxyo9CqB7GYEk0+j7ewS4x2QYTZOdKweayYQdVB7oyJXi3LblEVfO7rEMP8xbXaHIKziQM1gE1B5O4mpesxmm8NdMrojgwiJYAsg/W0K+S2F26ZWA8isGdtbvus/FsPdTxl+oAxiBaIcidHX36dQfKbYbLvUe8EpKMazIUOQHp/c4aL3YtII6PaHCT5pVtuiumPPR+xMdwTIn4AobzRpVtuUBS9CWr9zXZIhZFGwxS4iiynYwraxZR98udYDmyNdso75eZ0Soy+Wo9hFlB9P6oqTMKKMp0A6WIYjID5pzV1E+bm5Ecb1iqdpkeMwRhk3FP+57F0To2/9HbOCOA5jrdYBLThZroCcV9aDZcmf/dv6Da69aex8cfCZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xt2XWU8TYRiF+e694R/wA0wwXniBNzWSUrBsgt2g7CG2sjWVQgvFsiiChC0sQUoBQVrZGkQWBZrKJuCPOvb9hhmGQS5Mhmnim5w0bSedJ+d8522bkvJ/DMN1JXUYAq0mNDmNKLPpYNQ/TDYUw85qO7aWffga8aKv047mxoJkQjEJJrrowVu/jbtFrz9IS9MaSjgzItDKnBvdPgsaanOScZ4YKiqsqK4uldwJB138PL2qMcBozEJ+fraWUAwORyWczqprKiuzwGotQlFRLjIzdVpGx+B2O2/IbjfBbC5EdnYmMjIeaQvU3u6W5PW64PE0oLTkBfLyDNDpHiM9/b6WQDQMExMfEAqNIhgcwfT0MGy2Yuj1T6RDTTCaArlcDgQCHnR1ebkslucwGJ4mA4aG8agCgRYuEYgapnFU4jAJRlRJIrLc3Cx+hjSsPI0Ql9//Gh0dHh4bqbzcApOpgLdMY5dYolX18PlcUtPq6mr4biIo2kOaA0XPziVFjo4xF4tj6vseRre24Q+G8LKrW6vYGD7Ff94CtM+B3oRm4ezp0cIlhvGd3WswpOXjUw75ce9AAJqdR31vH6ra/HftEkP48Ogm0IkANJ0AGtveRffCZzQNDKLS13aXLjHM7MewcX5xQyunv7AYP8TMQYwD9SyF4R4a4bFVtLTehUsMQ9+2uDtKGNLa6Rl/j4Ao0nfhCFrGxlH//io2lV263R050GxMAOr9sgzv5BSPrTbQCWtDo5ouMR4DNWnz4rckOZDYNAKa3P2B/tU1Xn15bPdSU9WCYvxGchilCCpydMKrT0AD61HeNHls5kuXVIiO8VorIZRAdI0INBjd4E2Tx1bqcqOwukY9l5QQSom7iLb10MYmP9g8tuFRVLa2QW82Sw6p4pJ874hnRw5E1ReBRhLLsXN+gbtjb/YgI+eZmjDiCL8CyQm6OTVLhCMgek67iLY1nZ+m/gEUO5yXEakOI4zwgeJ/LsYh1i+h6HEpUX3595gcRHUY+Vzd4ApOKU1A/jbyGyulvPZf5w/2YKKAS/kkbwAAAABJRU5ErkJggg==",
     "wiki_name": "Combat potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Combat_potion#3_dose",
     "equipment": null,

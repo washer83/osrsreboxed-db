@@ -1,7 +1,7 @@
 {
     "id": 10065,
     "name": "Polar camo top",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "This should make me harder to spot in polar areas.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADk0lEQVR4Xu2WXTOVURTHnW/iI/R16ipjRiZqRjISGUkSiSREIkREJDrEGeRtvHTyNp2YctGdme5M16t+65l1znOe0ZnzgrqwZ9Y87NnPXr/9X/+9npOWdjbOxqkNnyQWJzacBL3P2qStoUHqKivlTnGx/t/6qF5qKyqkrKhILl44L5czM+VaTo7czM8/CTBnww/DwzI20C+jr/qkv6ND2hsbZfz1gLzt6w1DAXk1O1tu5OVJaWGhAgMF3DGB+WR5ZkbmJyclMPZOJoaGFAyQqZER/Zs5gzLl7t4qkfu3y6SmvDwK6lJGRipQPtlYWZG1+XlZCgRkbsIv06OjCjYzPi6Dw/6YUV9VJY+rq6OgcrOyFOhcenoyUD7ZWl+T4PKyrH6ck8XpaZn1v1cwwgtADHR26vPJgxppqa/TMhoU/rp+JTc1oJ1gUDZXVyW4tCQrc7OyMDWlYDy9MMSb7m59AtPR1CQvmpsVCrXulZWGTZ40UGhzU7Y/rWvp1hcX1E8EUAbhVgsv8cRLPW2t0ve8XaGaHtaGb2FKQLvb2/Jl43O4dPgJpYAisRuM4BbyRB1gUMzMTulQqaSgIBljOzCmDBAkZ94NhdkNBqP7BwcVovtpi/qJUMiuLp2jfBg8CZV8qgzJufIk45ozDyDzGB0wA8LwrKFsbnUoKe2B/kX5aAdJAVEmVOCqc8qRlz26EaXD5AZmpSMxLYG1KAMYqrAOJYEFkD6VFBDl4jbR+EjA5szrrXNBoRIJURKVWI86NE+6eWhrS/fS3vWndLSEpIBIxqk5MSfjpphyQJEEKFRCSeBZb2UDjOvPO9xUgJnHR3bbvFn/Mhz/4BFOZdI7GzhmNyiU8qpkZcM3psa3UEjhKT/+oi8loJJzIvMP3qFkBvRjf18bJmusaQJvKlnZCPPL992v2tOAppS0hYSASMTL9oUnDOjnwYFuDpS3P2FuVKJsANmN2t/bVWXZF2C8lBAQSTgt8qMSYUC/Dg/VqO4ubipxCHuPnsRX3w3EIVjHQenkzp4xh0+T4QtOa98tInIin+zt7Oi68LfOoxIqAGSHAIh3WG+3F2/GoZJjaLvS1muI6Jed30mxwn0ALxD7oWJcQLxkpiXwCREPkM3bWi8Qh3X/xooDiGE/NaMjksBZ44U4CiixPWMMW+iNyIpI4lgKRdbHs2fKwzmlG8ZJkMDJj38c5RlHDe/KUxz/VJGjx38Fc1LjN5rv3IkKdTcDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAklEQVR4Xu2WUUsCQRSF9Qf0KEggiISEhEgYYRhIgkRURIT04JMv/Yl+Qv954jgc5+x1XGd31XrwwsF1vXvnu2fmqrXaKU5xtKi7YjpY+AXGo0s3GnbdcNBx/av2xvtm48y1Wg130Wm6Xvf8EGC+4ON04KaT/kqTcW8FwWuFUhgI19CewOru9enGPc+u10D6ymsLBRC4BREKoFAFqLp7f7ldAxGK+vl+yxXAuI0KhbqDdrsMVABSlwhnASC4pDAEUqjKQNalPCBsHYGwfXrY9wI0f7vbcMkC6TWBCGMnkFNXGUihKAsD4YATCDBUDMqutiOy7tAVTp06RhidOAWKTWAJl7ITxsUsEJ2yQApiQeFSaSCFQcFtQMxjLoEAwKZ4Hy6VAtJC7NZOnm6dhScQth45+Az3KgFpxyiuQLHpUyC8cnG6bbfNrrolwvlhV3QHik2eAvEZBfr8GK/rldi27Pmh/QRazO+TXILoBIDQCI8A3S4MxMIQgZaLh50ubQNCPpssBMQFuAUQgb6Ws1XxFKgYEPJ4Ln3N3PBnRItToSOfkwLEJgjEZ5CT6FL2F16VfXjz+8hKG7BA+JyuJwHFlALE+8xVILttWddzg381swoL+BwLEQMqVjMnmGgVMsLCeQ6F/JSalcN3qTB+gQKd7z9iZ8a7YTOPGH/qSDz+Fcyh4heWcaHewS/7eAAAAABJRU5ErkJggg==",
     "wiki_name": "Polar camo top",
     "wiki_url": "https://oldschool.runescape.wiki/w/Polar_camo_top",
     "equipment": {

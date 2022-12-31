@@ -1,7 +1,7 @@
 {
     "id": 16652,
     "name": "Book on chemicals",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": true,
     "examine": "It's about chemicals, judging from its cover.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4XtXX/0sTcRgHcO+f6Jf9MtgPQiAMQWSMwYaMMSajoSgmDlPGIlMszcQKDCGEiOxvKAgiUxZrlor6lz3xfq733efOebu7ZtoDb85fhJfvz3NfHBj4v8cSO7diLBkpZyQ9NvoHdaMwS0bHcw5oKDescWH/HHcZVJm956Q8XfXhrhVoSaZW8IBqC1NSrU9o/DCkOFnpAvQn9tjt+EFMLxhSqJUkNTyoSd5NaWKivO0gU81ZmWjMyPHx4aUEwUzQnVRCQelkMgrKktxk0QOaXqorCPFjrgpBbKlvIOT+8ryimF44NkZQtpz3YCKAbIwJmltdUJAZP8yPIwgtAZTOjjh7FXGH3HaQ+lpDAxTTC4Y9w9ITlB8fk0QyoT9zqUM2ZEl+puRp6MGzpoMKwpkwgtAS29nb2426Q5YU5ioe0OLmIw1QTBgYUACZ7eAacYdcENLYeqwhKghnwggy2wEM18gYE9R8uaIhLAhnwtASjszfDq4hjwrjgpCH26tOCAvCEcaGzHZwV0VupzhfdTBLr586uQrWDUdQX9oBiFneWXcSBkcUQH1oB2ODTEi3BOEA6lM7GHt/8L46PPgk3/Y/ypPdTVl5s6EJghHHdvA1MJgZ0udNzHYwNgiviNPT73Jy0tJH/6+fB3J0tC+dzldZe7ul6QY1XzH8gMPzBscWox2MDeKDkEuK2xi4s7O2nJ//kIuLjl433r/SrL97oeGDlF8FAOHYMsVsnHYwlpQWa84edVta3kFoDM2hQbQJLH4PKLbEpY7ZDsf9vHz+YVv/ch6PucRme3gAtlqfpd3+oscKrLnUMdtxx/1l7/cvgDgi7BB3B0i0Z+Kw1HzDR3iBhhviegHRIpoDDEeKdxj/RfqrdnpNEJA3BHcIt31f2wkz3YAEXXs7YcaE3TjGnFuF6cf8BkfqvCr0h7pzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4XtXX70sTcRwHcO8P6MEeCEMQhojIGGMMx9hwNBTFxEnKWGFTSjPBCpGBGGJZPS8flBT2Q8r/81Pvz/W++9553u6uM+0Db+YDBy/f38/9cGDg/x5L7NyIsWSslpeRifE/qGuFWTI+WXRAueKoxoX9c9xFUH3+tpPabMOHu1KgJflm2QNqLs1IozWl8cOQynQ9AOhP4rHb8YOYfjCk3KxKdnRIMzic1SREedtBZjrzMtWek6+HXy4kDGaCbmUzCirlcnFQlhSnKx7Q7EpLQYgfc1kIYkupgZA73UVFMf1wbIygQq3kwcQA2RgTtLC2pCAzfpgfRxBaAmikMObsVcwdcttBWuttDVBMPxj2DEtPUGlyQjKDGf2ZSx2xod+/OFf1NHT3ccdBheFMGEFoie30ur24O2RJeaHuAS1v3dcAxUSBAQWQ2Q4+Y+6QC0La2w80RIXhTBhBZjuA4TM2xgR1nq1qCAvDmTC0hCPzt4PPiEeFcUHIvZ01J4SF4QhjQ2Y7uKpit1NZbDiYld1HTi6DBeEISqUdgJhub8NJFBxRAKXQDsYGmZCghOEASqkdjL0/eF4d947l/e47ebi/Jat7m5owGHFsB28DQ/mc3m8StoOxQXhEnB2dyfeX3/TWf3pwKp9ffNKsH2xrgqDmI4YvcLjf4NgStIOxQbwRcklxGQMH5M/XP+T87bl+br56rtk4fKrhjZRvBQDh2PKVQpJ2MJZUl5vOHgUtLa8gtIXm0CCx+B5QbIlLnbAdjvt6+eTNjv7lPB5zic32cAP8uPdBTvZPHKi51Anbccf9svf9F0AcEXaIuwMk2jNxWGo+4WM8QKMNcf2AaBHNAYYjxTOM/yL9VTv9JgzIC4I7hMs+1XaiTBCQoCtvJ8qYsGvHmHOjMGnMLwBUUiT2PWbMAAAAAElFTkSuQmCC",
     "wiki_name": "Book on chemicals",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_on_chemicals",
     "equipment": null,

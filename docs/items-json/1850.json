@@ -1,7 +1,7 @@
 {
     "id": 1850,
     "name": "Technical plans",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": false,
     "examine": "Plans of a technical nature.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmElEQVR4Xu3XXUrDQBQF4GYnXYIvIuICRBDBZ1FQsRT8gaLPIoggiAvqswuLnIlncufmZmIyk+RBBw6Uls58PXNp6WLxN1ZRVpl1EVGUu4c35f7x3dSoGoCsHj999o7WLnh+Z7lMRYUHteV682EGILSTCVS4za4e3qP52m79Yw1CMoEKt0lfkIwEcYZmBTEEJQ52Dbq8f2scAgSjX7OQGVoKQRYqFoDk+7KAuAk37oOSIGQ0UB+UBUqYoxpEFD81G9CNWJGog5ONy8CWmiDZkAWKNTQ5SGfShojSAHwJaugoIGzSBSLKeo5NXdy+Bih94i9WE6WHVh+uQfJDaFBSS/ra9MFdIGA86PRpOAgb6GvjwbqlCUBYVUvYCD8lBFktcbBjoPP1iwMlzRFb4rXFQHq+ukADWqpADDYlyLoiHQkCxoNSr40gXBs250FWUxok23GgHHNktcTEUBbobPXskg76uXv8reEhbU1VAxsPMANBWIW/eww3QRJlHdYVfUqPFbaE6oGJIfQOI6z22idEhEsDZkH8L7G+ASk43jd+GEuEAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqElEQVR4Xu3WzUoDMRQF4M6bdCEi4sKFIIKCSxGFKi0Ff6DYpSCCCIL4TN37ciMn8Uxv7mQy00kyXWjgbKrNfJ57q45Gf+MUpc1WDxFFuXs8LfdP74dGrQHI7Omryt7J3ASvH47HsSj3QU2RAB20kwhUmItuHj+c3C4+nXyvVrXXZBKBLCYViDuUBaRRGqS/l6DIxQ6DgGB0I/y6DxXRUhiEaEh2EJdx8vBew3QF4b1IMhCyKYgoRoIi9mgNIkqOQe+O3CkZ2dLB2cKkZ0t1kPypfaBQQ1lAEqUBOoM0pFtCJAB/JgjN2hAuaQM1jY1N4b3Xd28OSj+xw6mj9NK2gWRDGhTVkm+xuzREEDAV6HzZH4QLZEMcgxzHgCAc2xIu4m9tgnRLXOwm0NX81QSgqD1iSxxbCCTTBdSjJQtiCJIwOabQyIC5nL1YUOzYCMI/7PzU+FrSIPkJq0Ap9ki2hMv1aDRGgrjQBF1Mn03iQb+z3zmamAfopgjBYtuFDQeYniCcopo9Pm0SRJTvYW3RT9nguC1xDCGEviHDaa59QIR7NGAriP8jzg99JYq9sViSxwAAAABJRU5ErkJggg==",
     "wiki_name": "Technical plans",
     "wiki_url": "https://oldschool.runescape.wiki/w/Technical_plans",
     "equipment": null,

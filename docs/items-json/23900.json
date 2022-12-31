@@ -1,7 +1,7 @@
 {
     "id": 23900,
     "name": "Crystal staff (perfected)",
-    "last_updated": "2021-09-30",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A powerful staff of crystal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXElEQVR4XuXXv0vDUBAH8NwqCF3s0sFCxEAgGoQgIRQaJIRChiIidCimKopFQRBcFFEcHEQQBZcOIo6O/oFfe6/0R9o9d+AXbggE3od3l7zEsv5XCMUSywgQuw4ix0alf4Hl9q4UigzCrlYNoHJ6hko3N8XXfr1eJoqKEK6DHlLPNVUyiMyiDFq5vTPtCoaL8/VSsD3BiIC4GMNzw5g8TcreHc4IFA53hkGrh8ewNjZhra2jEzclQBxCNwrNUGe+Pxnu8VyJgI5aaQExrpLnh0PoNSJ4tdoCQgDDIbw99hcg83eVFMLg+VKqNfMhfL9f68H8DG5g18WeotkQfr8eChhxkCpMKw70tCrfT+A6jBDfnekBqgDDIfMmFjybZkPotJt6WsVzE245OjAv9yfYiXwdmI+nc2SJyCfofAifr1fYyxoaMBxCw/O0YDjTXxoFGI46EEdNu6ZRhZHIH6x3BZWBwDL/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4XuXXMUvDUBAH8N4H6NAhEAIpIZRSQwwhGkIhUkFaO5QiSiFU7FDQQQcRBQcpCAouHQRxde3H/Ou90qZp97wD/3DDgwf58e6SRyqV/xVCsbRlCYhsC75lYnp6i97BQBeKFMKsVhVg0r3BxdFYFa9DxykTRQUI16hzhcSxVZUMIvVQBj1lM9WupmGo9V59f43RAuJiDM8NY4ZJXPbpcJYg7+9kGJQdj9GwWqgbDvpRqAPEIQx8Tw116rrr4V7NlRbQeTspIFZV8vxwCGeBD6dW20FowHAIb4/ZDmR7V0khzF8mulqzHcL3+7UczM/8Dqah7S3aDGHx9VDAaAeJwrSjppxWDbsxbMuQcDr5BSoAwyH1JdZ4N22G0O+EclrFc+M1LBmY2f0Ih74rA/PxfIk0bsnAfL5OcZIGEjAcQqAAIjCc/JdGAIYjDsQR0648ojA68gvmdf24XOkFMwAAAABJRU5ErkJggg==",
     "wiki_name": "Crystal staff (perfected)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_staff_(perfected)",
     "equipment": {

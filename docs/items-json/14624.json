@@ -1,7 +1,7 @@
 {
     "id": 14624,
     "name": "Mithril halberd",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "A mithril halberd.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaUlEQVR4XtWWTUvDQBRFO//AVTbdZFcQCkEoIUggIqGUhNIhxRJDilSk4heKCoVSceHChTt34qL/9OrkMYkN1mXmeSA0MIUe7rsznVZrKwL0sEDgSEqMooiDFCVzNp1iz3GKd8e2TUkJxPEFDg7zQuQu3TEpJDCZLEoh143x/mBhNiSp+rcbgISGo2uE4Qk8T6Lb9fF6aSENjUgJpMdLSHmLfv8UQZCi1xvAtnexmlkI3VbTUgJZ9oQkuS/HplLqdLxC5DFrvE8Cef5cjk2l5PvjIiW98+ay8dHR2FRKUTQvy62FVMkN9Il+XHepntLLuYE+UU9IQEtV/THSJ+KnmJaiFSN9qtBi6rNK5XsTDAxKKTZHJPC5bCPeb7hPfyPwdmOZ6dN2RHGSM0pJYbjkvyOQBKz6pKAjglWf1qs2v5Q+Fgyl1B8xOyl9RtVXDEK3A3ZSLA9OfWWprxhE4GrMUGrzCsMAVjL/ki9cTu9AS1pg7AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUElEQVR4XtWWQUsCURSF5y5dzMKFEAPCIBJDSMxCCaMhcSCGaJEQCUUwUOBicFWLFkEt2kQQ9ItPvrk8Ryen5bu3D0TxCX6ce7w+z2uEwA8VEB6LAos81yDFyXy8vWKaJOXrOAylpAjZUYjxIChF8qwlKUS4muyvhQ77Hbzf+5glLFX/tAMqodO4i2G0h17g4/nGRzYSkSLM0wgXxz2kw+46paDTwnLmYxR5rqVY6DLp/0rJnD2cO+8T4fbsoBxbPSX7y7ueOB/d7pSskCm5QJ/4y5tSepoL9Il7wgKbKdn3BfrEbIpVozOI9KnCipnnKpXVWMeCUobtERG+ijZOBo779DeElzveU8771AyVm1xRSgbhku+GMI1V9cnAK0JVn76XbX0pfS4USpk/YnVSdkfVTwTh24E6KZWL015Z6ieCrK7IqUKp7SuMAlTJ/Et+AERd3PKYUVxyAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril halberd",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_halberd",
     "equipment": null,

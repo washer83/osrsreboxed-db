@@ -1,7 +1,7 @@
 {
     "id": 4124,
     "name": "Steel boots",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "These will protect my feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADkElEQVR4Xs3WW0tUURQH8Jlv0JMvvQz4MCAIgyAiIUyISAwMSkIYCEZkD+pLJuIlGe93HS+N5j0VRwsrEbOLgmLajegmfZ2V/z39j/tsj+E0p2jDwjNn7+P6zdqXOR7P/9+84hxO/X+9eeXpQrOszTepeDzXKKvTDSqI2Nvol931Xtl51uOAMr9EyvAEiCiAGCZm+0mXvHjUYUuMz+gzw45KCumV9cXIKRT+AsIgaGu1TTaWW9RY/HUCYbyOPjpckK/7U3+GIgjXrA5Br9Y6FYhjzwLhue8H8/Ljffw4VhQIOQI+nwozu9ESZee3JghJnUCb8VYLhGsn0P7mgA2Ea4LM7Ebz2qYBibi48ZkgjEMiJAeC03sW6HAr6h6IVcI9gDCmJD/DtiYQBKFqJujdSx0UTw7EdWGCuJuAKS8pkLLiy1ISypPiwlzx+y7YcCbow+thG+jbm9nUQegrLcxUcfNaoUKVhoOSn5NugYDVq0fQx+1Rd0G4fyOcJWWhgArCioIZkpflUyDeIxSVI+zzbswCHb1dsjBJg4jSQUjKShBEqFm5nMyLVvWcQGb2M1riW2GB6qBbxdkKhSAGgaQ6lpVzCZQ4g1AhHcRpmxkbk8nhqMQGB2S0t1eGOjvlajisQMQQC1DAn3YapB2KZnajJba8E4hVqi4Py+3rIWuH5eVkSrovzaqeXjlMZVEoJAXBoHsgotC3+GBCVaavtVWa6+rkTmWl5Gb5FYjTjOp1RZpVH7BZmelWf8ogooiZiA4pTKS+XhpqauRKMNuqEMYsT08pcFtjo+oDNsOPpF75sjf5C7RiYc4Fwg7TQTom2t2tQB33mlSF8i8FrKTx2Rk17n5/nwKzj9gTUPy81UE7ARGFe3OxmJoKJMMi7mmJSFVFhTUlRGPBY6ETq0+Xq6CH4+MyNTKiqsSdxQqgf2lq0kKj7251lQ2LU1oHEWVmd2gJkNO0IRmmDAu2qbZWJUz8U3sFB9rbrbWFPrx2fNoZs0A4g5I4h+wgfbcxuR48m1A9TifWGEC4jzeDlEHYZU4g3MN7EBLgx1J/B8JzqB4WOxY0PmOsqyBz2nBfB/FtEsFDk8GxAB08H7SDjs+gpM8hp2nTQbg2QfwhxnMAc6wrIKdp00Ho4++bCcI4gDhdKYLQTi9ep9AxepggvEvrIEYSII+Hx/rvwgTqoa8fV0DnbSbyPFjGydh/1EykU5jP/NftJ1MO/oNuBxJBAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3WQWsTQRQH8OTooQcPgRAIhBBKKCEEiYQGgoFAaaGGWmoqtkpV9CAIBUHwK4goFEVQRESRopZCKZVQERERQUQE8SC1+k1G/7P+J29fJpqYVTrwyO7ObN4vb2YnG4vt/RY3/vD1//MWN+vXj5i1azM2nlxtmtUrh20Q8ebBonl9f8G8unfcg9I/Ymh4ACIKIIbGvLx7zGzfboUS4xx9OsKogZBxs7Ey24XCJyAMgtq3Wmbzxpwdi08fCOMlere9bHY2z/0diiAcszoEvbgzb0Ec2wuE+74+u2C+bV8y359ftiDkKGUyNnR21YKy81cThKQ+0NbNow6EYx/o7cMTIRCOCdLZVYuHpgGJCMI5QRiHREgOBKe3F+jdo5PRgVglJAMIYxrldGhNIAhC1TTo/WoHhBgIxHWhQbhGTLNx0EzXD5hGtWjqlTGTSuwL4TTow+OlEGhn6/zwIPRNVjI2ZicqFjVZK5lyPulAwMrqEfRp7XS0IFyfqeXMdDVrg7BDpbQp5hIWxGuEonKEfV4/40C77YsOEwkISVkJggjVlctn9rvq+UA6e48W/CosUKJwPlcftSgEMQgklVhWLiJQsAehQhLEKs038hYmcQQRQyxA2dSIB9TZFHV21YJH3gdilRabNdOaqronrJjPmGRixAFl5TCVwAIVOQh9S1MFWyFWA0nHcikL4jQDhr7xQspic5mk648M5MOgEuOlUVchjgGIfcCmUwnb92XjrAVhlyamLxCeMIK4EUqMfMrKhaxLijELE2Nu2thHLEGoUJ/VQfODkIiLmSg5JXKMBMnpGhpElA+EYAVYQYxBvw/78empEIgond3TukFYR7iu1w8SBl8aBlvQr7WFPvwZ42+DIOxBA+xDAUhOm1zYOvTe5KbzJwjX8ZoSOYgovlIgAT7lOxDuk9XDOcfixWwoEB77P4Ewhm+TCO5TDIxjdbpBy4PvQ751JEE41iCcIzgucpBeRxrE/zcNwv0ShFfXIUBo3YvXFxIjgyBWR4MYA4BiMW7rvwsNlCGnKxJQv00j+8EyOmP/U9NIX+h79nT7AQFFTwJctPcJAAAAAElFTkSuQmCC",
     "wiki_name": "Steel boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_boots",
     "equipment": null,

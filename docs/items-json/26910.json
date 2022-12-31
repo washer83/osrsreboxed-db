@@ -1,7 +1,7 @@
 {
     "id": 26910,
     "name": "Tarnished locket",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A worn and damaged locket.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xu2Wy2sTURTGe/4DV9nMZiCLQkFwL4IuikhLsVQMtTSQBBtJW4nGPuiLlGCNrcFg67OWVqrWqqXUV1DioxRUEMWdoOBCcOXCpQsXn54zXOZhLXnMTBb6wSGTzL2XX849r7q6//o3Rfi7+S7C7HQSF8724NxkArmJLmTHo8iMhDE20OE3FGH+YgqLs/1Ymh/EncVhLC8M4cbcAK5dPiG/D/e1+wVFOJmOiFf+vCbTGHQwFfIaitCfPCDXws87dH1T43cbj3PiNV7vERQh2d2KVG+bDca5yhTh9bO8eMoDKEJvvEWsNBglwtuNGfkjap9zRQUyYOKRpjJhlIz9rgLFwnsrhGEREoeb3QIirN1KozO0p4oDyeZd59syZdSbyr3DsnvY+bZMkVTgyg8zYFwFUsWt/MPMq6rOwzaV626zUjuzsrT9W4qkH1kLoXOFKQOCr5f3WLNq630li6RXcfdOD3VaKu3mxl2f+5vZu1yG4W49d/6YjBYzuW5cyh9FYHcW27ZH5ZlNjRwMwtDOluIaTGElI7Wnvucrgl0fEAy/gn7wAbR9VxDYOSoAagaaysTku7U1uASiRCjeO4WnD0+j4fj331BfBErvWIfWeheBxmnp9AyUz8YFyJqFLsOwSGAEqO8HGpLfUB//iGDkDfT2IrSWmwLE18hAHGMewrAILx5Niu0a/WkAHfmEYPQd9EPPobWtQmteECCOn9IysCoR1gtn7ECJzwjG3kMPFaDtX4bWdFXihwPZY++wjEmPoe7fHpcZWWWbGuL5k6/LBxgW4WUxL4HNQDyC8tDOdYZTneGcgew8wQMRnqxNSPqvXB8RL/EYynGjZmmfvGMViXdWl8Zk/FAd3wriI4ySvT3UEMSUFaKmILXQL049ZVIB9H4gAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQUlEQVR4Xu2Xz0sbQRTH84572MMeBpZAIUgpkoN46aGHguAllFIQioVKIaCliARCEVSQEqglB8HiQSj0EAgECkJAEARBhF6Ld4/9T57znck4k/FXNs5uDu0XHpNkdmc/+97Mey+l0n/9myK+2woX8c5yzK16zNsfYl5/F3PzbcyNhZhX30RFQxHvfkp4by3hg2bCPz7rEd/x+34j4ZVXhUGR8gS8cjNM1gBYABRxvRapsODzbKVyq2HuuC0UFK7PCYp4aT66foB9+F0iPt3NDYp4cS5SNhqMEfH591S9iLnPv2IMaZiFl1lhjPT9QYFevxgXBqKhl/FnM4q4s5Fw7fljFhx+IX82o3S+Gd87UGCgzff2iPuzD0vDBAUyyS37YnbvPM7DQ8rqbpup/VM52v33SntntByiIRBeFNbs+epB0XUFR5mwNel2a3/Uld69LigMqjUeYtoLjKsi4locqc8wAMMjpuXwS0owmN62ULnn93TKx88E96YE7z9JeDONeSmJFIDfA7lhDQRiRHzYEsouqqmCOpFQ3SnZ50ioZqoBAATvAMg9hYFhIAt0OVPmP1UNdPhU8M9KwjtlHR4XKEcYiLj/VSj7OwA6lUB9CdSRXtqTXmqV7f5x942/UiDdBDqTYQPQgfRQGzADIL9J81cKJOKjb0JZd0v3xjhtbogwuuUkRxhIt56/vuiTZhp3kwIw+hvZXyEHkQKCh/BvAl6CuWEqyDuuSMHAS2g/TIhckAJhjIbLwwRBrFyIiYJMQlfcvwPXuIhQmwAAAABJRU5ErkJggg==",
     "wiki_name": "Tarnished locket",
     "wiki_url": "https://oldschool.runescape.wiki/w/Tarnished_locket",
     "equipment": {

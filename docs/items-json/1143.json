@@ -1,7 +1,7 @@
 {
     "id": 1143,
     "name": "Mithril med helm",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A medium sized helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACm0lEQVR4Xu2WT2sTURTF532DrGYzm4EsAoFAEELJIlApoUiDGFIstUTaBhsRBUUURZCCCoIKBcFVFwVB8FNe33njae7cZKqdSSoULxxo82feL+fc9+6Lov91vcvJn3Vl5WT33hvZvvtSRqPnMhw+ldt3nsjW1lQ2NyfS7+/LzY3xVUE52dt7G7Sz8yoHNRg8ClAAWl/flV5ve9VuORmPj88FlzQUXSJQtzuUtbWBdDq3VgHl5P7+u5zgEqOjQ4gMccEdAAGm3d6QVqu3zP5ycjj5KAcHH3KiS0VAcIcwjUZX6vUbQc0oqgLlZPLgUxCgKACxjxbFpYEIk6bNABPH9QDUTtPLQjk5OvpyLgsGh4qAdFwA0jAlgZxMH57kZMHgEiKzcWkgxEV3CFMa6HsrCfrh9dPLQsElxIYeWtQ/oziSfi2SjndGuwO4UkBc+LSZyFmBvjVi+ex1XI/lRVqTx0lNDr3GcS0AsaG1O6WB2Lzc5ljc6qvXidd7D/TaAz3zMFMvuoTYEJmGKQ0ECDQuGjVNkiC93e1JbRsbUGhqQmiVAEK57AG/YbSwMP+244PzDI2tm5rC/6WB9MIUnMOi9nVuf0ChuREZgaxKAyGWYLtaGK8RCJ+xwo9AZABCQ+tTeilA1iVEBCA+NHtwNngRG94DEM+hpQNhEfSDhrIwiJGRAYgNTSCt/HcvVTMg9ERozgIYPULY0ACyUBVgUDOgEJvaroThkNUTH/D26kGVjIpVDMT37RUEn+MOI5C+D1VwB/V3QHbic4cByF7QKsCg8kDzUzq7XxOIhyLHRv76WtkdlrsQyN4Y0dC8vgJIgywBhjU79PIPngHpOUag+c8vsRb/yixSff7wPrRSmItrfnT8Q5istHuLnbwm9QtcR7EZCRy4VgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu2Xz0sCURDH9x09eNiDIIIgEhISIqFIkiRKYiKBly5dOnTp1qFjhw5Bt6BDEPTHTu+7y7Sz41t/Pg2kL3xRlnXms/PmvVmD4F+HLUPLvTcZGvR6dNHt0nmnE/ms1aJ2s0mnjQad1OuR9wRl6LLfjyyhACShjmu1yDuulqHxcJgC0lAAQnUAc1StRq6Uy7uAimGkXVXiJWMgwMClYtFnfxmajkYpu4BkD0kgwMCFMIxcDoJtoAxdX41/LaEkkG5qDSRh8Im4zUplXShDs8kkBSTBUCUAuXaZC4hhNgSKYbQ1FKq0KpD0RkCflTDyl/W3tQsMQFlLNsgH1M4FVLOVkdXZGIgTv5dD+sjwWylPz9aPxTzdF3J0G+ZoZj3N5yIgrxWSvQIjufar9Yv1kwV6sEB3FubGWi6bNyCGwTJwINeWlyNEL5vHCkFmLhAbifm7hNLjwzuQTMxGhVzX9Ym9EyAsC4LKYLjGQLhHm+eZ520PxUC6GnyNg8aB41nHfaSBpLcGQhIEdz2hhJEzbRFQ+rdrKQFCgiwY7Dw507h/9LTfEgZKgJAoC4aPAN3Qi4B0phWVAMkmTgImL2yuHaaBtqwOtBqQfidyvTF6qA60HMj1TqSBcJ+H6rDMSkDylJZAEsQDDCs59NKBYyDdPww0f79HuZ8y/f+MZxiAdgqzWPOj4w9hYsnquSt5IPoB14AtkFRlVYwAAAAASUVORK5CYII=",
     "wiki_name": "Mithril med helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_med_helm",
     "equipment": {

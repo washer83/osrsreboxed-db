@@ -1,7 +1,7 @@
 {
     "id": 5457,
     "name": "Shipyard worker",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2002-12-12",
@@ -25,7 +25,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "The boss!",
+    "examine": "Builds ships for a living.",
     "wiki_name": "Shipyard worker",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shipyard_worker",
     "attack_level": 10,

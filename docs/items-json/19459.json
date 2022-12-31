@@ -1,7 +1,7 @@
 {
     "id": 19459,
     "name": "Serum 208 (2)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-18",
     "duplicate": true,
     "examine": "2 doses permanent serum 208 as described in Herbi Flax's diary.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRUlEQVR4Xt2X20uTYRzHff4BEYztQpGxDQZeGV0qaB6X02lJ5mkyD3M6D9tyc0fB1OaB4bE0tcgILCkrzENnsQNF0pGoIIjoposu+hO+vc/z+r7OKUWwvYN+8IUxxp4P3+/3+W1vXNz/MQS7FdMhGOvXoceVA7s5HYbytFhDETxZNWNzuYlpdvQoAv6CWEIREebhzQZMB0vR58ljQGkKhdRQfGcEoPtL9Tg7pGfxxaBPBAZDPYzGRtGd9UUjJgaK0O04DJ2uBPqSMimhCMxmyx7VGOpwosKAY2UVyMsvlDI6gg6rjclqtYuqrjaivLwahYV6pGdkSgvU1eUS5XB2obPTgcqqWhTry5CVlYu0g4ekBKJDsHTjFlZX17GysobbK6ssrvwCnVhqCiMpUFu7FV6vD36/n4nGpdUWxwKGDoHD4YTP52cSgGh/JI5KGAKvz7dLNDJdUSkyMrKkvPJ0CGy2k/B4vLtES033T3Z2vtQu8bfM7faIMjW1sGVJd5BQbImACNs5LpdbFAWii9FYZ2I9ops6J0eyH1kCu71T3EECVHNzKxoazWJsBdoiKVwisFja2e1ycstQZp6EzNCPhDInEvLqYTI1i7HRcufmaqPtEoFq/DVUwedQBDagOLUORfcykpwLSGqbhcw0xgBlld1IKLUj4Yg5mi4RKAc2oLn4DZq5L1Cd+wTV5FuoxrZ4wMFNKHrvQtGzgiTPdR6y4zxklqlouESQ0ncPyuALqM+8R+riL6Qu/ITm8g9o5r9Dc+ErD8i5pxh+Kronb5mCvDYQDZc4d4YeQz3xBuqpD/tr/BUH/AzKwCOk9Kwh2XmFBzIO4kDdcCRd4tw5/QDKkZd7If4G1DoDeeMIEmv6ECdXRwqKsINoVOrpj7wogPBaEOcejTQUKLl9DvKmcRZb4nFvpKIjfFThAOESgLjiMyDXVSTb5vnY6oNIrOpBYoktci6pZz7/WZPvdgO5ryHZfomPjXMoXtskOhQZl0L7IrgSDsT1jAH13mEOURjan/jMqkjCCMP/C6QHsz6FwlEg7j0GxN1GEWa7N1GA4Yf/QuGZi+yAbRddObrFwzRP7gGJOEzo7BywAxcuSUD2m9CDwxX+2X+d3wRfJo+ai25GAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xt2X/0tTYRjFff+HBAmjIZUyLE1tS5s4lImpaMimMpsIrkk62nK4/NbUSkKTSrEf1ElCpqKSJIhYFEUQhkrfDEREEBNBV9BfcNr7Xu/13qsFwd0d9MD5ZWy7H845z8MWEfF/DIFUYR2C1vpiuKvzUW41Ij87KdxQBLOTzZgZb8T0WAM62myoc10KJxQRYKaGvWi/aWVu0dcTNRq1objO8EATQx7cbizFNUduOPpEYLOVoKLCKrgz6r/O+lRjz0FOThby8kxqQhE4HOWoqqqQqKzMAoulEIWFF2E0GtSMjsDtrjogq9UMs7kAJpMROt1ZdYEaGtyCvF4XPB4nSkuLWFQGgx5abayaQHQIens74fc/xMDAA/T13WdxZWamC6WmMKoCuVwO+HwetLR4mWhcWVkZ4YChQ1hUPl8dEw9E+6NyVPwQAYYXjYyuPF9o+SdCOCRY4moWl1jiUqvsErdlzc0eQXa7jd0heoP4YqsERFBbexVNTbUS0UNJLzffo4yMVLVio3E5JXeIil7qysoyITaVXCJwOu1su+rrXWi/E4Mb3mOwV0ahqChSEhsttwouESzMp+Dd20S8nDuDqWfxGB3RYqD/FLo6Y3CrTcMAnTVHg/FFoaQ4MpQuEax802FzIxVrq3osfzmHj0spmH+fhDevOcDp5/EYH9Ni+Ekcg+zpPsFAQ+ASwaelZGysn0dgNxu/fqYjsGPA9lYaA1xfS2WA1D0x3NDjWHTd44AUdolgdUUfhLiAQCD3UO1spzHg5WUdFj4kYXbmNAPq6Y5BWyuFUcwlgq+fk7H1PehOoODPCsJSIBorD0Sje9R7Eh13NYiOjlAKigQj0e85IYYwSxUE2tyQAo08jYO/n4utxXdcqejIXlQyALl2jRKgudkETE5oMTjIxUY3sM4TrZxLPwIlf5Uc6NWLBExPcbFRhxxXogSHlHFJEhnnyj7QZbZ9tGe0/IuLycwhCkP7YzEfURKGH+5XIHWCPvwAoAiI37CmRq43IYDhhvtC/j8XhROD5bK7RGFokeUgisOIZ/8B+3ByqQJy2IgfLJf8vf86vwG/ZWVq7+dMwgAAAABJRU5ErkJggg==",
     "wiki_name": "Serum 208 (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Serum_208#2_dose",
     "equipment": null,

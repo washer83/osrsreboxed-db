@@ -1,7 +1,7 @@
 {
     "id": 2145,
     "name": "Undead Druid",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2019-07-04",
@@ -34,7 +34,7 @@
         "mazchna"
     ],
     "duplicate": false,
-    "examine": "A fallen worshipper of a forgotten religion.",
+    "examine": "A fallen worshiper of a forgotten religion.",
     "wiki_name": "Undead Druid",
     "wiki_url": "https://oldschool.runescape.wiki/w/Undead_Druid",
     "attack_level": 60,

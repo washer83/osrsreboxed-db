@@ -1,7 +1,7 @@
 {
     "id": 20196,
     "name": "Steel kiteshield (t)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Steel kiteshield with trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu2W704TURDFuW/CI/g2fPITCSGCREREBAkiRgTRimhQRAgVKqQIIliwbUotlLTUSv+kFYqGNxk9U6e53e4WWBbQxEkm4Uu5v3vO3DNbU/O/HC1Fxf4rStHc5CT5l5b+QF0omKIPnlm63dZG3e3t5PN6aTsUukiwojoC1NPRQb2dnRRZX6dsMnneYIrcL8dKMDrQva4uCq2u0m4sRoeFwnmBmasjQPfvdNOD3h5KRqO0l8nQj73vGpjjcIqeDQ5aqiNAwZWPtBUIUGJrk1LxOOV2v9F+Nks/9/echquujgBt+D7xkL94PMw95nrCYJivfCpFhVzOYKktOGt1dCDEAIY7/iVcBvTqqYt7fGSEFYOdAINqhwcHdqAq1TEDEruePxoqwRiB0BOjo9wAgnr4/5dqa48LZa6OEWhtYaFkVzUggTnI5ymfTpdgTgSkq2MFJHYB3gxIV0cf8hPDDPf30+zrcZqfmiLv9LQpENJa7DICGe2CKrZhbl5r4RshDD1vJui9281rA60DfV5cZLtcAwNHAsEqG3ODUvTwbi9db2qiG1eb6VZrK9u2NPOWVubnyjqwvMx2WQEJDKzC67KlDkCaGxoqgPQwhDKACa/52K5oMFgx1AJ0CqtQiq7U11cFAgzmRmAAEgtvcAYhpbE+BAjZA6sAbMsqHHoUEJTB3Gz6/WVWMcz2Ni/ZdGKHMl8TbBX+tq1OS2MjDfX1WQIhc7DZZW6kdasAwOvit1WyZG3AoBRdrqvj540DzID0uREYq2GGOsgoG1bppVgdfEoYgfCqdKsERloHkk1/CnX0UgyAQ3Qg2GW0SmCMCgEIFzilOnopVgnSAwgZJIlsBiMtMwQgh9SRKr44HIj1gdtidowwOpD+DYRkd1AdKcUvDisEQHoASu7sRCKl7JEnr68Hh4FQim+OGy+/8/AcwTrMEsDMoLD7zkAdvRRbgnnCssUniew1pDZyCS8PqgHqDNXRS/8Ort7nAFMsOeg4bfztP1+/AOVQZ8ZnhIXuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAElEQVR4Xu3X60oCURQFYOctRBgYREREZIgJURKlITHRMJD60fs/x451Tit3xzPOVS1ow6Z+FH2tfW62Wv/VaAVi+1dUIA+TiTzO51+om8ICWcxmkiahaXy/TtNbwmw6BKHXk0ielkt5eV5fGxbINEl+YAhCY4Tb1Ure9vtrwfzp6N7Ougb1utnIYbdTsMZxgdyNx5np6JQwPqDQGOOFcPnpcC1hkb+ng+8mrEFcuXRckG6iCDviStVpOlkgYA7L/gnE18BwZ8ZRVBTlT8cF4TxiOkVAwCAlYkqBfOm4KI4LmDyQXkelMaPh0Jw9QPlgTEeP6xyoFqbX7cp9HJvWKA3T49rPe7mgiusGFcig35fpqCOLODQNADAA6GY6eSDurkrpRGFoMC7IXTd6q7N9oBqjQgWSDNpnQRqjQTyh0W4yfBWUxmBUABGVBSIGo+K49JWhT2e9bkqDMC7sLjclgriINcZdPxpTcd2wAum022aH4UD0jc2XjgtCf6yGBsOXZQUMy6bEXaZBWeloFEFMqEY6uuw5ZA5GD8iF+BICCD9fMx1ddoFjdMDwYe8DEeOuoYbSYR1BOKmLpEMQdhr+gQbTYdn7DNcHP2G4rc8ebnl8bTgdXfYJoq8N3wmtUUj0AunosihetLxsidPAC6ejS7+Dz/cVMLb4h4q0+7t/vj4Bh4129K00W6UAAAAASUVORK5CYII=",
     "wiki_name": "Steel kiteshield (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_kiteshield_(t)",
     "equipment": {

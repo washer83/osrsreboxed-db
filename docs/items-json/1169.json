@@ -1,7 +1,7 @@
 {
     "id": 1169,
     "name": "Coif",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "Light weight head protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACD0lEQVR4Xu3Ua0sCURAGYPd3+GWhD4EQiLCIiJBISChhJImFkUkmKULZ/SLS1QxRTCSK6KdOzFnOehx3V22PStDAixd05/E9iy7X3x8FBjO30QHX1/dwenoDR0cXUCwezwumQK32Aje3j3B5WYNK5QpKpRMoFMqQzR7A9vberGD6koeHJgNhO+fnVaOdfL4EOzv7kEplWKLR+LRQOqTReIN6vQ13d69QrT4b7ZTLZ0Y76fQurK9vMgw+4ve8qioTpUCr9Q7NZo+Bnp5apu3kcofsqJLJNMRiCVheXgFN87PnEltSoNv9gk7nE9rtDwbD47JqB49pbW2DtRMKhSEQCDJUJLIqF5XdCkKv981weGR4M5u1I4KwIUR5PEsMJvHodJBZsB0O4jcz3jd4TIjCZrxe3wCKXv0XYw3CZFKBIRC2xFF4ZG63ymDYmASUwpaOSnrDD8mEBkH/wkA0n8qy5HEbcYiaDBQOLY5EObyfJgfZoTBTAyFCjAgyQ3GYYxBdbBUKouGomYEw0bCHhWJE1MxA2BAHUZT4WhoIF46KCDKLFBBdahcKsIqD/6LJQPGo1whFiO87aMkcpP/C4Yggvpy+h5EG4ovxYjRmIKs4AOH0GxgE0BkNSsR8LA5BLpc9hI9iLOShEGmg8WYYZBe99anOeCB6/PQqEsceRCFTxvAZ/iuYE6Q/4mIa+tn/cTo/zkWAaSadZGYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiElEQVR4Xu3XUUvDMBAH8OXRhz74IBRhUGSMIWOMoRREGCiIgsIehoLig9//Q0Qu4ez13yRtTdoiePBnW9lyv122sM1mf7+UrmeysoDnh0v9eLfS9/ul3t8spoIpfXhamyDotrzQ5W4+Fsw2Ob5sgpjd5txkuTgbCmUhb4etiQ/EmPUqNxi6pddtiyIlSumP45VJCMPTYUwxP9V5nqWektKfr9e1uEByqxBEoftJUQT4ei9NaEo4HcK4QJQsOzGohFtXfaMwuF0ShFNiFK7+i/KDeOt8IEbxlBKh7OHXFt5CAslIGCcS1Q/EUwqhIj9P/UEhFB8Dg4AIISNBLhTDokHY2BcEYRg1GogizyRXRgXRhBiEKPk4GYgatkWCXEkCwqahIMCXiLOoH4hObQ4i5PWIKblB9h02I0HcHK9RkoG4MS2GcYF8iQBRVROoA7DaQfTrgP8MuNfoWGEIl/ppyEFIMlC3aoJCsVMftLqBcPtxlYQVBiFkYAxX8yiYCFKVbIzB5/5XbH0Dj9EIP3IahFEAAAAASUVORK5CYII=",
     "wiki_name": "Coif",
     "wiki_url": "https://oldschool.runescape.wiki/w/Coif",
     "equipment": {

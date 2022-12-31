@@ -1,7 +1,7 @@
 {
     "id": 16634,
     "name": "Level 3 certificate",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": true,
     "examine": "The owner has passed Earth Sciences level 3 exam.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xt2WbUuTYRTHuz+Hb/wIEfQhoghDKSwENUwJEio0UxnLRNMxNsyWOUTToUw0H9LUVNR8Ql3LZ9PU1MgNfdv7f/zPvOY2t0C4r4gOHPZwX3D99jvnOtcuXPi/w0DsN38huGn87OlpPXmvNaI3zc3NQnHxY9jt5XC7a9De3oSOjma862wJA11MTjYb6hSgtLQAlZUWWCxPYLOVoa7OgZbmOoHo6/NiZKQXo6Pv8XGoC/397ejtbTPbkoGBgQ68bXqN+nonXtZUo7HRBY+nHl5vozyb/DQEn28KMzOjGB//gMHBTrHDNQQ22ZIhv5abtra6Jbu7PGKC383PT2B6egRjY/0Cwmc0RmhllTCmAg0Pd2Nqclg246a0MDs7homJAQFjafiMFhsaasXKq1obnM4XZtthhIC4MZNgykZbW0PYBhua5ayqsuJ5WYn0WmFhvh4gNistMNk3LBshaIEAVutTOWkEKCp6KJ/Z+Dx5XGNyUzMMKYfLZZeTxRPGjQlAENqgFT5zOCrEFNeydDwIGiwxDIFQAMpCJARtKAj2Ei3yh7CsGiwxjDBEclJSVMZC8MiztOwzllmbJZ6cyJKwmRNBqInNE6jxGjEEgjbiQShjhOCUVgeCA1SbJfYEISJLpkzEQkSu4djQZkmVI7aXCMEZxemu5hfvNs4uDlSmBigjykQsQCwEJzqTVw0Hq4bSGWcgFEAiCCbvPF7AGoAYxrkgePcx5+bG9QEpiMgeIkAsxJ27tcjIcSErzy2v2fcb9PSRMhEPgib414QAOQ+akffIG4a5l+/RYclICLGwMCnJP23X0yxIz3SgzL6E7OJfsNr8YkwLUCII/+cZLC7OYWlpHim3nuFaagmu3iiCtdqHcueaWGL5tJRNAfj9swKxvLyAlRUfVlf9WF/7go2NZWxtrSI1vRw3M6rCfaQMmWjJkOuDFhSEAKwvhSG2tzews/MVe3vbSLtdIXklpQDHx0E9JeP8URCbmythiL3v33BwsIvDwwMEAz9xdBSQV/ZOIPBDhx1G6JSxXLu7m9jf3wkDBIOHAhHqkdPMzH0jZdNgh2HIkWdTE4AZC6AshDY3pJl56i5dTjlZY3okBohfkrNro5+bEH8GOBvnWftPxm/pX618LpDtZAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xt2W20tUURSHPY8++DAPAyEEwxBD+CA+FGEUQZFYDKFhCl5ilLFh8tKYFt2FoYt0QQQNyzAR6UJSIhKVVEQPEdHftJpvnXbuOTMjSWdHtODHue0565vfWnvvU1X1f4cnwTt/IUhaXnfzLT/PnUZx0mRTnXS17ZKBvn1yMXdYbl1Nyu3xYwozeb1VxzTEYmFDbQCQPN3dKD3tuxXi/NAhGT/XrBBTN4/Lg3vtMjfZIffvnNBrAxV84x+EJ9MTbXJltEmTj2QO6Hn+whF1g2cL012yPN8rizPdCsM9HGIMvwnZJU//LUlJgEiGE9x7+vBkCQiOAW1cBcYJEMlISvKl2R6Zn+pUMEpjg+DK2MBBdTNkdwgfiMTGFePGjUtH1TEgaGgAMqm90tu5R3uto6XBDRCNiQuIvjEQuBAE4Mg194f79+uYkJua8LQcvJyZxQwjuQHgmpnHMyBwirGUDuccuER4RQDGhUoQCBf5I8iBS4SnTgASjUSKZEBsCEpLn1FmZy6Vc6MShL1qO9xGvBIQG8I4ZrYOe0I4c8lA2CWz9y8DwdJgj2H5cOaSKUewl4BAJLfXL9YuIwdQ/tpkO7EZACu6EQurg9L5G+7vAhix5yEHQIS3JQj2PiNnQAbA7iEDYENcS8QkvzMm2Wi1Hifq4m76KOiCDcFnCUoXIIaiNZLbVvMLhnMHLnklpTAQ6PmjlCobq5XLie0yW5+Qx/GIHnHMCVAlCL4eXy70qVoj1ZKs8TVTv0PmGhJaOuSkbEGAlcW0rC71q9aenJLXzzLy9kVWBgtOdRXgKCEyDoXokqdbBwAGAgAbYn35tLx/NSCfVoclF6+V9gJQc8Gp7x/G3JSM9ccA2BAfVwbl89oZ+fJmRL6+Oyvf1kf1mCoAcc+BO4Q/yyhXOQDk98iGKBUuOXCH8GcZzVwJwLjgJ/e0kWnyxog/7YNvDCEqA5QvSenY4uchxOYApbGVsf9k/ABh+sPpyr33NgAAAABJRU5ErkJggg==",
     "wiki_name": "Level 3 certificate",
     "wiki_url": "https://oldschool.runescape.wiki/w/Level_3_certificate",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17377,
     "name": "Enchanted flour",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": true,
     "examine": "A pot of special flour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyElEQVR4Xu2Xz0tUURTHvf9BezeCCyEYEEFERBgREWkQo0BICCT6QWhUWBgSmFgUtIgwCUwKgtGEoMyIiIGCCpI24cqQIWbRQpKh3ey+8r2P45y5c9/gvDejGw+cxbx5887nfb/n3numoeEojuLAwyA86x5uQYOHF7pwd7QT0yPtmBxuw7WTrbiUSuD8wPF6g5mywvz86GI3fn77il/r6/jx5TPeLqWRnuzH0ytJ+/34YKIeqhk8GUvixukAhEUIRnVy2Sz+bG0h+3vTQmXW3uH5/DwmxseweL0XL2/2WWi+xEhPS62gDBau9mDqTDuGk8324Q/OdeJ/Po/8zj/sbG/jby6HzY0NfM9ksLq8hMW5OaSfLVilHl/utr8d7QuAWpua4kIZvJjotQ/n29IKFqBa7JVCoWChqBSBaNvayisLontM+iomkLEg7Avm8q3S5DXaQnuoIu+lvQQnDJWcOdthX4DNnuogTCzbjC3G4itTA2XJ6wSigrxPgEQdAmlFT3U1x1XJ2MKvb/vTp5IAUSUNxEXBHowBFDTzm+kT3iSQq5LYJkDSQwLExk4mGqPaZrB6J+VNgRIgqhRmmwZiY/e3BUARVDJ4P5MqSw0lKoXZ5gJJY7c0HqtWJYMPs4Nl6YJplXy2+YDY2AJUhUoGH+8N7aUPTKsUZpsPiI0dCejT/SGbGkzDCVQl23xAbOxYQDpdsEq2hQHxTKsZkE5RKcw2F0hGk0MB0grJ0XEoQNoyWWUaiPtQRCBGZSgN5OshDSRDXWwgFmRhNrEPyNfUssoIJKc9gTjYCZDAVA1EK1iQhV04F8hd9gLEWYgrzAfkVtxHFE97F8zdg2R1yU6th7kaAjGCAd0FCxs/9C7tNrQ8K4JdpRH82OxNjS6MPsPkYNX7jwsSC6Y0ggcTwmeTzEECU0eQYohaku4cTZgDAXGjWEj/EawtyC4O6BDt3Z9ebQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xu2X70tTYRTHfV720heBCMEIERGRiyhiTIwGUoIg0S/oB4vKEaYjyVwQpMZAKRgsVqEISy2CRvauP+8b3+dy3Nmz545276ZvPHBe7O7uns/9fs/zPGc9PedxHqceBtHZ9XALGry9PYK1hWHk5waRmx1A9upl3E2ncGvqUrfBTFNhft64M4pSsYhP29v4sLWJteUX+JqbxM7DwH7/YDrVDdUMivcDPM2EICxCMKpz+OUzvlUq2C+XLdRmoYBcNovrmQxKj8dReTZhofkSc2P9nYIy+PhoDEs3BjEb9NmHv7k5jOOjIxwfHKBWreLH3i52SyXsbLzDen7FQq0sLlql3t8btb9dmAiBghRVSxQG5Sfj9uF8W1rBAlSLvfK3VrNQVIpAtI1QBNE9Jn2VEMhYEPYFc+95Y/IabaE9VJH30l6CE4ZKrs4P2Rdgs6eHLia1zdhiLL6/NNWUvE4gKsj7BEjUIZBW9NpIX1KVjC1cXfanTyUBokoaiIuCPZgAKGzmw/wVbxLIVUlsEyDpIQFiYwep3ri2GXx/mfamQAkQVYqyTQOxsScHQqAYKhn8XE03pYYSlaJsc4Gksft7L7SrksGvV9NN6YJplXy2+YDY2ALUhkoGv1/PnKQPTKsUZZsPiI0dC+hPYcamBtNwAtXKNh8QGzsRkE4XrJVtUUA80zoGpFNUirLNBZLR5EyAtEJydJwJkLZMVpkG4j4UE4jRGkoD+XpIA8lQlxiIBVmYTewD8jW1rDICyWlPIA52AiQwbQPRChZkYRfOBXKXvQBxFuIK8wG5Ff8j6qe9C+buQbK6ZKfWw1wHgRjhgO6CRY0fepd2G1qeFcOuxgh/bE6mRhdGn2FysOr9xwVJBNMY4YMJ4bNJ5iCB6SJIPUQtSXeOJsypgLhRL6T/CHYW5B9Ufaeq+4hi4gAAAABJRU5ErkJggg==",
     "wiki_name": "Enchanted flour",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchanted_flour",
     "equipment": null,

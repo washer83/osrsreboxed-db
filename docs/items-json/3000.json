@@ -1,7 +1,7 @@
 {
     "id": 3000,
     "name": "Snapdragon",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-27",
     "duplicate": false,
     "examine": "A powerful herb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4Xu3Wv0vDQBQH8Lv/IFPmgpsguBQHEXQoDnYoKEKEOmSwg0VQ6FCwUEREwUEQ/HfPvL6+5N27a5u7RAXpgy+laXr36f1KldrWtqC0cd/La79W2pydqyUAs9dVi/wBSptBlpTpHiknP4CqfrnduDaXw6QMAQ57blpE4fDzjgh2lSdWOOCkbwfu3+902kDpEkONny7XiwRJhLy/NZDEQPqZH0Ofy7QKkp0B5npkRwJ44P6GIHsRS4wPRNdXJRKEADlF1Oig2EkXOb4SJB+7nfsSAbJ30zoQBCCQm3u3c7iPhzABIG12dvFkrQuCZCMESYBM4OjYx30oCCIBPkxNkDYHBeC4APSKzuF5BMd/HRBhfCCODhwdKBwdDoLHAJ0vtHBpanwgDpCJACmFX0AYB/GdBKDbSWLupvVBgdPlFofx0ZEgyMMsXWCGYxciQbKfgEIMP2UJ4wNN5qmZPiPMl4ag6hEhn0m0qAkEGA56fHVRDafLPp1XgSgcBJj5Owamj9JgdBCzDuRDQWiEnj4whHr7StsHSZTE8Lx8posjYTzDV9qFuCaDqvrztQm0CUWhjRGxhhDTFMQBHBGIobIbi4kERCDsko3FRLa5rX9f39ruWvUzy49CAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtUlEQVR4Xu3WoU4DQRAG4KtccWLFJcg+AgaHQiFqMBgMoqaCBIGoQCBIECQkiGoetezczvRmZ2ev3b2lgtwkfxpa2Ptudm5L08w1F9RiH/8s3ztbLfZmZRCAuTE+50c5zJ0ZsorzByh258HiDnPfDuEwkYoo335zi3d8WNxhHtowHMfjPoPfv1wua6D8fPR3Ki4QgVJ5rA0SGLiAWePrKVnXBhFkDAPvpbKZDAqHOMJs9Ium0j4VgxAAMyO3BxduX2z/qmH6zxMpADnMNXuaxkAusgNBnm0QwmSAHOaqGR5vGuIUaIt59d2SgEMQn9kdNi/HQHQRDnqLATyZ3fHbJA++k0CAIZCEEHib3R0oHGQO0jC0NRwEGAgDyBSAmsb/AcKmgKhrmMztiiuAHQNBAPPeRRAJktfJKMTI01cD8RlKZCJInMgCpA41deijS2IKQcr3lfx+4ocgBzmM/fTpcZgJ3RGDzEFKl4KTGTtkvzCAAuCuFkhDjYFwrux3519/LoIt9TOZVeyfr1SXlG3TUBR6MApmCA9DeSCOoRQQB3BEJoYqXKwkElCACEsuVhK55lz/vn4Bk7MGu8h72acAAAAASUVORK5CYII=",
     "wiki_name": "Snapdragon",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snapdragon",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 26114,
     "name": "Sigil of versatility",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvklEQVR4Xu2XTWsTURSGOzsLoisXxU2gi0BBzcIsJIgR6SJYxGIxYDFQJUQskWKt1RpKQ7SIVaqUKqVK/eiif0JcuHQl4salO3/FkecOJ3PnzqRM7UxB2gMvIR8z58l7Pm7S13cQ+y88CbTnYSf3NXm7KrXaJRm9fH6vwTxZXX0kKysP5dXLWfn1NS8/Pg/KwvwtmZmZMGA3JkalUik50JmEJ+vrC7K2Nm+ggFGgVqsh03dr0mhcNU5VqxUZGSlLuVyUQiGfFZQn7962uyAKo5qaui71+hUDNDY2HAEq5HJpQkVhXKBm85oBGh+/aIAoW0ZAnmxsdOT3t3xEP78MhqQwuDN84YyUSgUDlMsdT6tsnnx4/1jevG5FYNCf7wEUPRTnULF4oguUgkuemaYXz++ZRo4DUrXbk6HGtqGGhgBJCYipQnxzBKANBOzy8n2Zm6sbIEYfKD6bQWP7o84Yq9hBS8+mjSPsHxWjzy6iuTMEIrwQEKXrdJoG4sHsTSNKQ3J1ieVoA9FHKQH5TU0/qEjOBOEC5SEhz3ldxXv2LkoViBIhnKGXcEfLwzLEDfpo8cmdrmtuyVICChqapYhTPNI/QFEekgPFVCFtfNzhoLVHfxdHiH8g9vcfMvuHpmYxbm4+DUEBg0v0jEIpEL3mAv3j6Psg6OiRw0aUY2trqQtD+XTCWIQq3T+9HAq2dWKXojADA8eMgPn0cdGUD3d07IGwJ9CWDaTHB/fk/gnAesOcOpk3bjBRgNh7iNdIrKc8Da4/PxSI80zvpffWXNtAxQMBg0hIknNnT4cmSs8uLZeCKZBej3oBbdNTPlScQyqAEHsH2ccF7iiQfc0ugIh4qDi4pLJBbJiEQEQYygVzE8bJ7RkXRpsamARARLCL4uQmipN7jevKDmD88D9s/3NIRzsGccP+NmnJzXEQ/338BT8C7Rvu+5jeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVklEQVR4Xu2X30sUcRTFnYeQ8CFChJCCpRYRWWwIl1gxDEWRpSDDTBLBMpNURMwSE5EwMxFRTEUU0Sws01oS0fyBopYKoi/52mN/x81zhzs7+3WUNUch8sJBXdz5frznnvtdIyJO6v8rjYI69rIebqiurorKyx9Sfv6d4wbTaHYmQNPT4zQ5+ZF+emJpI+Ec9fa2UWvrC6qvr6bKyseUk3NTgT6S0mhpaZoWFiZpbu4rwwhQd1cLNTfXU21tJVVUPKKionzKzb1FGRnXyevVjwpKox/f500QgRG9bHxOT6vL2br7hfcYKCsr3QTSXS4noTRaXp4JgVGBGhqe0ZOqMiotfUAFBXfZNnTI50tyGsjozK/E2F3a3AGxCjDSnRv+TEpNTaYreiK5XBecsk2jtbVFnhkVBvqtB6FaWhqopqaCLZMOwbKUlKvkdl90qksaTU19okDgPc18+2wLJBoY6GQorAAZbLHN40lwDmhxcYrl9yezJiY+hAAFvgwzcE9PK0cfs4S0wT5JGmxzDGhlZZYyM32m0Knx8SF6O9RNg4Nd3Bmor6+d2tubOG0AKikpNIEcHmwtBAjzBBgAvOl8zTvI5/PszIrO38M2pA1AYhnmyCEgjdbXlyg93WsKh3uTEnhWYI+ux/HPeF2EjY20WQfbMSAMNYQrA1v63XAPXxVtbY3U1FTH3YCFeF1sQ9qKiwtMIMTfASCNATDQmCN0Cl/lcNgjM4P7C8lC5DHMSBgu2uxsvwl0iCvEuBAjI0/R/PwE31+rqwu0tbkaAtXR8YpThTsMUCpQXt7tEKD4+Li/6ZIBAkVFnWYh0tvbWyYMUoZ0wR5YI0KyBAjzAyCxDCkLbuuwu7QbJjr6DAswGxsrbCG6Mzo6QP39HTzYSBOEmRFZLUtLu8aLMSbmLD8Tzw8DbG8Y96XzfDiSAxh8FhobG+TdI2lCh2AZZgldAhSAcJ8hYfIsebactQ+UPRBgIEmNfjmOLRwZ6WNI2cjoFGCQOOu1Ie+H9gLaZ6YMKLsOiQAEYe9AsgjRKcAAHIDW9xwCCGUPZQcXrqwgVpgwgVChUCqYeqCd1JlRYWSoARMGECq4i+ykHmQn9T1qVw4AY5Txy9b/HJzRgUHUsv41Tkk946T++foDVrQFFg0WZn8AAAAASUVORK5CYII=",
     "wiki_name": "Sigil of versatility (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_versatility#Un-attuned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 7946,
     "name": "Monkfish",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-02",
     "duplicate": false,
     "examine": "A tasty fish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu3W3WtScRgHcM9/sKuuB10EQiCBhISgDJGhCAdl4uSIL0zDZdhstpDGYGxta5atKGJQ20UEXXTRTe/QWC9E1H1/zdO+z+H57Xg8OnXBFvjAl5+Hc46/j7+3zeUa1ahG9S9KIzOnojTK6iHOKUCZGCMWpETEBHnGx08CZU4RIIhcA3MCII0KiTClIgHSQ742yDExshAHCzCIHWP/9i7V+YUSGW5ZkOgkEfbTpN/LLYJRQJyeHQpTzepUno7yFyxeTVPjSooWykmqlxJUm4lTNa9TJRujshHloDNAJnwehkWDFztwGBncE5C91y6lUSk9RbOZJLczqTgt1zK0dM3oCkOAd0IBgeCzFTMwqFowFGrtRp5W5nNdYYIrJSOOKLRDYlAmqJKbZlTjcoqajWIHygoTHKYZKD5bLCi0yIBTZa3DBbxcPQBUDEbduVlQMCccItta4vee59g3hr3HPkqjhWKSVuZyjNpaKlPrVknBENyvFw6mKx8nt9vFwQghssVlB2LqMEo+zzm64D47DEyjjxu3ae/eJv1+85p+vHqpRmtxNs1TCRBaoGRXIoISmHzG+pLdBtyAMBP0aXOdUd+2Wgq2/2K3DSWjVDFiCmWH4Rr3EVlnAsOo9YHS6HNzgzH7rSZ9vX+XUdtzVdqtX6cPO9uMsYIwStKpFZZJxCg/pfMRgg3Du9iyAbwec40dseDbQQiuAQPq2XyNfj1+qDACQtA5EMnYpJoSweAosQbPBHxeOjM2dtQoaQqDFtP3dm2FpxCon48e8L3366vqABVIWo+QHg6qX23+co0BcpygxTWeDV3q+2+bRn++f2EEOkYAAwTThxGzY6yj0tmBxphaMaMOXrwXnQj0M2VSGoNkgcsi33u+Q++ePmGQYOwQ5w7MZ6ygIf5Bsx9qzukNOSyZQqd37c92LWtnvWJ/r1cd591Rjeq/rL+8ZlrFrX6wkAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xu2W72tSYRTHvS/3ovcRCENkDBkioYihOBRlioqKupFLNmcJrRaCWQ6Xw7KFCCaLYtSb3vSmaBTEWEVB1B/QX3Tye+y5Xu/8MTXYAr/w5bn3+tz7fO455zlXjWaqqab6F5Ko7XMhidZdVvY5gGrDXFu0UNJmZiDT7OxZQLVTBBBYnAPmDIAkynhstGw3Udiy0AUyIYwoxNEMGKRJDaN+eh+dfKCwCLcwFonZjOQ2zvEIIwpJh5kt5igLeGSYYtRDuaCTst4rVEn5qLy6RKWrXiqueKiQcFM+5qJc1ElbYQdtBu28KECcBj2DLZnmZTABh8jgugBSr9pHEhUCbioGPTzmfS6qZUK0lw5Qdc3fF2zT1xsqYDbIILg2VnQAUo60Fg57+biRjVD9RrgLrFfU+kFNAAN1gCpRH+2tBujZrRg1b0aHguVDrp5QGOERU6VUp4CbG1GqpUL0/HZ8KBiMmuNm97eg7fM6GabbI0uiyoqPgRrpCL3MLdPBnUQXGH4vJ1rRiXtJq9Wwt/wOjhIMOBhFjVoCmFWvpQXtxXHAJPqwfY+OyiX69fYNfX/9isHqa2GOGFJZTfp5BBR2JVKGnamGwohr2PJitwHusu7SKGBtoI+lIkN9fbgrgx0f7HdBIVKIUiHiZiA1FI5xDcDqOkONIWqngJLo0842wxzv7tCXygOGqq+naP/6Bh026wyiTJsySgKKwdwtKG8LasnJbYRHBZhdr2OgIQXfDQTjHGCAeppJ088nVRkERoRgAGRdreK2dz6eABH9TfQ4GHPchjm6MDMzLEqSDIMR6Xt3/y6nEFA/Hj/i3w6LBfmtBUhmsfUBtZrkt26/ucR9De1E2eMwN2AyqOb2lUS/v31mCCwMAwwgSB8ihocqYZRRObmARNW4n40eh3uRypjFeJqUCUkMJApcFPnRiya9b9Q4OngoYNQgvRdoz1ECjfEHTd3UenswSEcihb3uVc/tK+Vig6y+b5AmuXeqqf5L/QHsqjheECrfcAAAAABJRU5ErkJggg==",
     "wiki_name": "Monkfish",
     "wiki_url": "https://oldschool.runescape.wiki/w/Monkfish",
     "equipment": null,

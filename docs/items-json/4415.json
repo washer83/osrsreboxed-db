@@ -1,7 +1,7 @@
 {
     "id": 4415,
     "name": "Blunt axe",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-28",
     "duplicate": false,
     "examine": "A jungle forester's blunt axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpElEQVR4Xu2Wz0rDQBjEs2+QUy699BF8BK9eBNGLiCAFUbAKgcY2pC2x1lr7RyvFHooHQfA1p8x+rrWx2FJduocOLCSwIT9mvsnG8zayIoXZtVYp1AoB2hcBxpUcPhq5DNy8ZVUK6WmA3tUUaPTYx1Orhfu0jnq5rFcax7hNEtzVqrahFJrnAQZhgNckh/HzAC+9LoadDgbttl79ZhMPN6mGIRSf2crnbUApxCe+jmtYEiDCEIDuEIAg3Ubj6946EN1hXKNrASIMX1yNIlTCUAMQikC8ZnRWgegO4+L8/BxepcGMO4SxCKQQHfnaHROXeZFZvC9dFrUzxh0z5AL8r5K6f3dnCjK7jy5lYebv/ZMkrqw72V0iZR8mPPS1Oxzmt9oiIEpmygIMJXWnO7/HNatl9qwo+Tqbqi92x6oUzvakXXTnPXUAiHXPDvNagVh3urPcMFuVwvGOr48LZ9wpHkjdHXCHkrqzXU4M8/62p+vuTFysO48LB9yh5Lhg3c1/89qBTN2diKuwK3V3pl1mfpyJi/PD88uBuIys/s+sJqdgNvrUBIrNsZm/kUt+AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkklEQVR4Xu2WMUvDUBSF88YMGfIP+hO6OgSkgRKDLU1pq6QILWolhEpQBwcHB8FBEBwE/+3Vc6+vTWKxpfroG3rgDikP8nHOPX1xnL2MSFF1dipF88Sj+9SjlyufPm78GtyqMSpFxcCjh7Ml0Hg4pFGvR0kc03G7zdM9injwm2EoRXcnHj1OPHrNfZqmKQOd9vuLAdyg02GY2zxnoGajYQJKUdZ1Oa6ncwEqu4MBiIaBQ8aB4A7ier4UoHJUURgyRBmoyDKzQHAHcWF/fi6vYigNYxhI0UXssjs6Lv0iPXhuBUEF5no24xHgf5XUvezOEqR6Di4hwjLM6rN/ksRVd6d+SqQWQMZgJpHL7mCZ3+brgCDZKQMwkNQd7vweV1WbnNlS8u+sq77eHaNSNDqUdsGd98ICINS9vsw7BULd4c5my2xUX/U9cPm6sMadcSh1t8AdSOqOdlmxzK2mw3W3Ji7UHdeFBe5Acl2g7vq7eedAuu5WxJUEUndr2qX3x5q4sD+4vyyIS8vo98x2sgpmr299AnohiTDUqXRtAAAAAElFTkSuQmCC",
     "wiki_name": "Blunt axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blunt_axe",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 6796,
     "name": "Lamp",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-12-05",
     "duplicate": false,
     "examine": "Ooh a nice shiny lamp.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu1UXUsCQRR1/kTPgg9BTxJI9BAUEiJJFImhIWRhBspCURQVUSFFIYgY0idJH0hID/3CG2e2u5+2uLUSwhw4rO7e2XvmnDsbCikoKCgMPQQ57/wjBG1rCRqwqH5fLuj0aIEO91LfgpiBQpBWnu2jgaD3l016vFmjViNP9assnZ+lqViY8ljjG4Jenzbo+aFoMJ+bdIjTibr7VoFum6vUqOXospqh6smS3Iwpyklf0JugARq179ap0y5JwonuW1lemahFDWqv6yuGQ4hwf2fOEJbNTFAqGf2tc84dCSnko1ORV4hjByEGcbFLLIqdOj6Yp92tJFVKcekgnqcXY/5FRcNhshIv+OxqUhSc6SUGM4SmtYtlm0v4DUIoz1oiPuZflBumWxyVlzs4dfgUwKFIZMTmOOpRE4goniOeHXbHKghRQQyimpkeNYRgDergGP6bCfwJpku94uKoIAbzEhvXI+fomQGJYejfH+zY6g5HxacLJ4vj4ub22QwU7tP4EwckwA3nafSic62CgoKCwrDjC5mKueDG1FyLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+UlEQVR4Xu2Tz0siYRjHnaOHPXQQQhgQkUVEZBAHmUFRlBEVizVYPOyla4cg6BB0WnYJgqJo2V0IoR/UqYigw7IQQRDBQsQSBBFEBBFBt/6Cb+/zTq/ZK0WWEcH7gS864owfv8/zejwKhULx7tEgf/KGaBg043hlqac+XMPXjI3RlHUrJNJRNExGgk/4AQ3rtSqWqhXMVgqYKuQwlkujPxZ95J620XDqWDjOJxsZCvolOTern3ux8KmMud4SfpbymHCy+J5N8fHdSclpC40L7GUS2Gc5yplc7qxg4ZzlomjzV7qm0HcPsib/7k7KwF8rhjUzguV4GL9iIYyzlkdCOgYCftT8PnyJRp4nJeeSiVyVbC5EgidOkssesvzPuvL0J0hq045hIxnFSiKCRSb2IxrCWDjIG6SxVkJiFdrACATQHHrAdTnNxaghaoZkRDsks5uOY8s28Edqid6P5zOYKeb5rtV7isjoevtSrbhtUUvUEMmIdv4xGbmduvGRH4xhy4Tf673XOEnRrnVESuwRNdTczvbtDq0zoXkjjGk2qm/hABxfV0OEGvpddnhjdH03gRfh7hS11NyOGJcYFcn0691IfHDbEaMX6ZCMQGu0JNqhcYlRidPV1+2D7vU0Cd3fT/mpL6T1ND6UVxJoRT6Nj0W+V6FQKBTvnRuGjI19xLuRPQAAAABJRU5ErkJggg==",
     "wiki_name": "Lamp (Spirits of the Elid)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lamp_(Spirits_of_the_Elid)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 5274,
     "name": "Monkey Archer",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-06",
@@ -30,9 +30,9 @@
         "spria"
     ],
     "duplicate": true,
-    "examine": "A bow-wielding ninja monkey.",
-    "wiki_name": "Monkey Archer",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_Archer",
+    "examine": "A bow wielding ninja monkey. It looks particularly dangerous.",
+    "wiki_name": "Monkey Archer (Ape Atoll gate)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_Archer#Ape_Atoll_gate",
     "attack_level": 80,
     "strength_level": 80,
     "defence_level": 80,

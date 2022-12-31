@@ -1,7 +1,7 @@
 {
     "id": 26539,
     "name": "Mystic boots (or)",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": false,
     "examine": "Magical boots plucked from the shattered abyss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmElEQVR4Xu2XvWrDQBCEdW/gyo0bdYaAQY0Ko8YhqBAOBkEgRSBF3v8dLqzkiVa7q8vpx1ZIMrBg8N3udzMnYSfJv363nNe1mpzfJg+qVoTSQFlWNEBZmt4bSsMcj2UASMa6uIvOp0n+VafTcwBIwy8crfNl+dKrYSAbJs9PBvhkdUBV9RoA6rvIo70JEMGMBSqK6jZAgJFAh0PeA8L3j091UwDS0U6WhgEQndoC4lAEROt+JNB+nzVr5ISRsoEwKAQkwQE0w6X2hSaHSKA0xTtGryWXcNdmAtnOWEDSIb4OsVFkAJ8ApBtbQzRQu1euR2zk0GazvboZrb4zsjBAPspDDuEAiG23a9dFuuT8+fymIHhxdywYC4hqFtBQcXckDD+IhOGRjQBy/nJ5b0qCYBiaWzAhIOtSRwHV9ccgFOLSDcNA/P7ovUG1QENQ1Fw3tO8cYOgz4tJ7o9T9uuNQ1Nhu+L07FJe9N1L8bvCyG+qHgDul79tModFww85JHjGcWhQmTn0gDrYCDCT/WYQivpNktKvC/Al9AkfZHUp0vRT1AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu2XvWrDQBCEdaULFy7UGAJChQqjQoSokIlBEEgRSJH3fxiFlTzRanfvoj9bIcnAgsF3u9/NnIQdRf/63XKNrs3kmn30oGpDKA2UpnkLVCTJvaE0zOlUBoBkrKu76Jo4yr6qKJ4DQBp+5WhdU5Yvg/ID2TBZVhjgs9UDVdVrAGjoIo/2JkAEMxUoz6vbAAFGAiVJNgDC949PdVsA0tHOloYBEJ3aAuJQBETrfiTQ8Zi2a+SEibKBMCgEJMEBtMCl7oUmh0igOMY7Rq8ll3DXFgLZzlhA0iG+DrFRZACfAaQbW0M0ULdXrkds5NBut7+6OVpDZ2RhgHyUfQ7hAIjtcIinuOSa8/lNQfDi7lgwFhDVIiBfcXckDD+IhOGRTQByzeXy3pYEwTA0t2BCQNalHgVU1x9eKMSlG4aB+P3Re4PqgHxQ1Fw3tO8cYOgz4tJ7R6n/dcehqLHd8Ht3KC5770jxu8HLbqgfAu6Uvm8LhUb+hr2TPGI4tSrMOA2BONgGMJD8ZxGK+E6S0W4K8yf0CW754dDLXcSZAAAAAElFTkSuQmCC",
     "wiki_name": "Mystic boots (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_boots_(or)",
     "equipment": {

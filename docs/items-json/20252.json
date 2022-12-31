@@ -1,7 +1,7 @@
 {
     "id": 20252,
     "name": "Arceuus banner",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "An ancient banner bearing the mark of the Arceuus Elders.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xs3X7WoTQRQG4OQ6+ieXEITiDwkkLCGUhpAQsdRLURE/UFGqBIkoTbU1LU1TqdqWGLUWUmNa+kPxo3g7476zvpvZk0mTtWvpwGEmsxPOk5nZ6TQWO/slruxhe/7fS1y9qV9XG0vXdLxavKqaC1d0ELG3Pac6mw/U7tv7FpT8ESeGeyCiAGJIzKfX99T79TuBxPiMZzKCqFDIuNpcvjGAQg0Ig6B287baXr2px6K2gTDeRB/t19WPbu3fUAShzdkh6OPGXQ3i2GEgfO9Xb0n9Pmy4saZByJFMJHTI7KJ4085fTRCS2kCtxi0fhLYN1G09DIDQJkhmFyUeWAYk4ubGM4LQRiIkBwIY9EkQl2i/XYkOxGTnkkk/QWJiwm8zMqnUQF9xetof2wc1woG4L0aBnOxzlc0tq3KhoPK5nMqm02rKcXQbfan0Y3UhNWcF/fzyInpQxqlpFCI3teoCKhqRzjzRceqgtPNMoxBoAzAO6OhgxceEBhFlA9V2al5yF4Man/2+v1Hdqh4LktmHFC8p3hgbCG8aaiREMhmEsX1CkHcGYYZGgbAkTG6GRGHs9735Psg4FGV2UbxXPgwIs7TYWdSJWTP4OVIQUXh2fnJyAFS+uKBedus6kNysS+X5aEHmLNlBFTUz21Czl5s+ioH+YumpBbTmY8YC4Q0LA7o0s+KDODPAoL9Q9Da9nKExZwelD5L7yAZCskKp7c7EB39m0EZfvtjSETmIqGGgfGHLQ5V3BkDc3BJElMxuKR7ItmwShOcmKu0cqkz2m1sfeLPj9hHzdbfqg3AGhTiHgiBz2UwQrh/o558UJE5lehqFOpX57EYnGhDeslEg3HN4B5IoYAhB4GIWCUguG/qZACDeJhE8OM09g1nE0vbePQqC3DMo9DlkWzb0IwlAaEsQ30TOIMdGArItmwnCM/O/EoIQGMdLfQQglOAVdFiYGDMkCHdpE8QIAYrFeKwfFxJohrl/IgGNWyRyHCyjP/aUikTaQn7nTJc/jDLQ77K4EhcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xs3W3WvTUBgG8PZP2IX3Y8jwQkIIKWWjpaXimBeKik7x60LQC0EYCILgxUAKfpRt6ObXEBF1DMacjFktVRmiInjrlczpf3LMc+KTnrxLt8SmZQcecnJyyvvrSXJIJrPzW1ZFJ+p611tWLU8dUUuTh3UWa4fUwu2DOkR8fX5GfX52Wn16eioCJf9Ex3AfRBRAjMSsPTmpmo/HQoVxjmsyYVQiZFat3D26CYUjIAxBjQdjanXmmJ6LYxQI8030RmNcra9e/D8UQehzdQj6OHdCgzi3HQi/+/X2svrdvKr+vL+mQahh9/fryOqi+cvOf00QikaB6rPHAxD6UaBvL86GQOgTJKuLlg3dBhQiCNcIQh+FUBwIYDAmQbxF3+fPpQdisd0DA0GBXX19QZ9xLGvTWGl4OJhLEJIIxOdiO5Cbm1K5/KyqFIuqkM+rnG2rIdfVfYxZ9g2117oeCVqvX0of5Lg1jULyQw89wIRG2E5Vp+cg272lUQj6AMQBbTSuBJhUQbXlml/cw+CI82DsX6rz1S1Bsnqb5hfFG0OUCeJbhoIoJkMY+x2C/D0IK7QdCLeExc1IFOb+XLlggFqboqwumv/KJwFhlabfTOvCPDI87xpoz+CgPmJzJKiyb1IXvteY0cV5xFi5cqfXoAkNGj0wpyFmMFYq39wEwi5NTCwQ3jCCTFQ70P6R+wGIKzQy+kiPF0utN8xcoZirg5YMhGLF8qK3Eq8CEPoYK5QWdFIDydvWDlQovvRRldcaZYL4cEsQUbJ6RIsH4lvGgkDZ7ppycl+84wd/dbwxYn4snQ9A2IMS7EM+yLxtUSB8VuCaibKcpkbhaDnvvNS7AyJKgsxvIBMFDM9TAeG1jwJhDNfx/GAOVo3f3CbKhCD4UgyDxpPvQ1HPEcb4bYy+CeI+ZQbPGeamBpLPkQTxK4AgABH8HvMIwqdrByC08D9tFxNjhiCujgQxCUCZDLf1rSKBZszblQoobpPIOFimNbdHTSKjIn+zo9tfI0tNGuIfSWkAAAAASUVORK5CYII=",
     "wiki_name": "Arceuus banner",
     "wiki_url": "https://oldschool.runescape.wiki/w/Arceuus_banner",
     "equipment": null,

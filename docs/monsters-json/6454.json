@@ -1,7 +1,7 @@
 {
     "id": 6454,
     "name": "Zombie",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2007-01-22",
@@ -29,7 +29,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "A shambling pile of rotten flesh. A rotten one",
+    "examine": "A shambling pile of rotten flesh.",
     "wiki_name": "Zombie (Tarn's Lair) (Level 61)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_(Tarn's_Lair)#Level_61",
     "attack_level": 53,

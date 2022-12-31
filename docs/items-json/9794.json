@@ -1,7 +1,7 @@
 {
     "id": 9794,
     "name": "Mining hood",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "Mining skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJElEQVR4Xt2WUUsCQRSFm3/Qk89CD4EgiCAhsaCIiCiRJImJookZiSGFFCKRSP3tm2fkurPjuq67swpdOCDLzt3Pc2bvztnZ/ypBtk5WNkSnc0ONRpnq9eKpoARNpz2aTNo0emnQYHC3gard5o8NJWg2G0ig97cOjccPNBze02OvRq1WRbp0RChB8/lQ6vOjL4FUl1Qo3JuKx6OGErRYjOj769nhEkPBKYAhunL5OmqXhAT5/XmVAIhKhYA72EesajUXtUuClsuxJwzignAd+yiXy0Tlkj8YRMVQuF4sZKNyScio9sGoYrBMJmnaJdsdLxi8WZAOBsVi5yahhCMqFaZcyqw27xXVatkVjLWB0sF4LhmIbjsqgFhWkgqFlAuQRc1mzhXM0Biw3QFIOn1B2ezlFpAKw2q38nKNCmbApfWHE/8ukYj7BgIM1O0WpXANMTOU/hSfJWRMaIIhtw9Id0cFwm+e4CFcErIJf5v8AjGMCgRxr1BA6ld8FxBvaC8YCL3QJ8RJwAaC1UGB+v2SlA4UwKX1HjoUSHcmEiCvPeQFxDAMxGMgFBA3OQRIBTEKpDbRgQDDUqf1LjA1fqNAOswuMAhgw6eKnPT6ax8YiOcQw3BUuvRvGwuOGYgL5RyMiAoPZakgunRYjirEG4ZyAvEZ+VC59TAKxPn7Ee5HVOwOH0ECAqGEA4jPyPpdu8t9fQgglDMC+9/7rbDrXWo7isMqyPo/aVb0gSPE2wYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACF0lEQVR4Xt2VzUvDQBDFs8cecsghEAKBUKQUEfHiQRAEQVAQQQ960EMPvRQUCgoKiogg+F+P+zYdd7P9yMduWnHgUbpNJr+8N7sNgv9VgrQ2VhriJo3pKonpIok2BSXocSuj+zylidQoS36hzuK1Qwl6HWT0LIGm/VRBjSXQnQQCFFxaI5Sg90GuBCjbJRMK1+7leddQgr6GffocFkBwCVBwClBwCmCI7igKu3ZJKJDv7T59pCG9Sb0kIT1JTaUe4pAmcU8JLp3MYuvQJVEJM2ZJlxDbQXcuFVFVwYwiDYXoOLYOXCrcqYIxhTVEtxP2fLuko1oFczuTDYYBj4LAJ5QoRWXCHPYCpeMwoNNQQ9lgfC55iG4+KoDsSoh9A4aBoPMlYLzr7Cc0LO0OQDJp/UDKBmIYBoIuo+IIMME8uCRUUzwAMFVADMNA0HVU/IaYGcp+Ss0SKiY0QeMmQAzDQFjD7Dm6JFQT7CJY7gKET+7lBIQhhtVo1AYIMAyEXuiD7y1j00Cwui6Q7Q7LBmrhUjFDfxKoyQytAuJjwAmIm1QBmfNjgngFMpuYQAxj/nVUgZnxewNid0yYZWAMBxic9Pa2bw3E55AdlS1zncEYzkNcqPLByDAsE8SWDctROewwVBkIM4G1plrUwysQ519HuB5RsTuYKQcglCgBYR6KN69bi+93AEKVI9BvX7dc719Q81E0qzb3/wDaug9/pGOanQAAAABJRU5ErkJggg==",
     "wiki_name": "Mining hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_hood",
     "equipment": {

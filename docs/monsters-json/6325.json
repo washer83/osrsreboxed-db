@@ -1,7 +1,7 @@
 {
     "id": 6325,
     "name": "Moss Guardian (hard)",
-    "last_updated": "2020-12-25",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2013-09-05",
@@ -10,6 +10,7 @@
     "hitpoints": 240,
     "max_hit": 34,
     "attack_type": [
+        "melee",
         "crush",
         "magic"
     ],

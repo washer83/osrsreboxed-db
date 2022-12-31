@@ -1,7 +1,7 @@
 {
     "id": 3110,
     "name": "Man",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": false,
     "release_date": "2004-01-10",
@@ -25,7 +25,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "One of Gielinor's many citizens, apparently trying to be an explorer",
+    "examine": "One of Gielinor's many citizens, apparently trying to be an explorer.",
     "wiki_name": "Man (Backpack (Musa Point))",
     "wiki_url": "https://oldschool.runescape.wiki/w/Man#Backpack_(Musa_Point)",
     "attack_level": 1,

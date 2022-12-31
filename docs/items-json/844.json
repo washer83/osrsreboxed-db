@@ -1,7 +1,7 @@
 {
     "id": 844,
     "name": "Oak shortbow",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "A shortbow made out of oak, still effective.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xs3W304TQRQG8PYNvOJmb/oIPhGXXhgvNCaCog0oopiqTWrQINEGDKUqIkFEDSQlCGqM8R/xdY58O/l2z56eNl26GiY56XZ22vn1zJnplkonv5XFD+/+P29lWVusymrzahwvnk5Ie+FKHETsbtSks35Hdl7POij7I4aGBxBRADEsZvvVLXn3/GZmYrzHPRtZVC5kWdaXJrtQeAWEQdBW+4ZsLE/FY/HqgTBeow8PFuXn3uPjoQjCNbND0IfVmRjEsb1A+Nzv/ab8+dI6ipUYhDlOVypx2NlNC2nnryYIk3qgzdb1BIRrD7S3eTcDwjVBdnbTypllwEQsbry3IEwOBJdXg/QSIQoDMUvo80DMJEHIGr5nfiqShelImjORLM1GcV8AtfKBWBcWhMktSBc0QfiO+viIXBg91SNDLfn18cnwIPQDRBQzyTGcuDo2JrVLI/E1a+jrdqNYEAIADdIFTQgC17cvpiCM/d6ZS0CHn54lmNwgjeL2tSCLQc1Mn8+CfnQeuiA7e48WUo/J+oH0EhGDQCFPnjOg3fnjgsIZhAz1A3kQLh1217WzKQjjMyB1KNrZTQtb3gMh+OUWwxpjdlDQl8+EHYbsFAoiCsFMaIzeYXPVkBUGl6swkM6ShSB4QmsMPsOtTtD+23sKtJJgBgJh51iQh9FBDLJlQcjOwVY9k6EBs4OWgojyMMu18FeAegGmMeGDuFyf3xcMevOoImuNSNr3U4jNEjBYWv1PTxBOaQ0iys7utADSy4a+l/VuAO7rU7wXCI8d33YeJCCcQTnOoSxIo9DHCfCKfo3xQMjO0CDsMgviIwVBmEw/A2kQxunlKgxkdxv6NUg/chBDEMcChC2fAR2dQbnPIW/ZNAjX/UC6fgoBecumQbjnFTQC43T9DAlC6z74vLD1w7AgHIoaxMgBKpV4rPcLC9Sh66cQ0KDNIgfBMtKx/6lZpBf2Mye6/QWqDWTiyndPhwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xs3W3UsUYRTH8d1LL+Z/8E/oIgiCIAiCwIsKKqibLkLIyt5fsTCwCKISsaiWwkpQSgoFE1MsInrT6k964jvDb/bM8dllx53CBw47O/PMns+e52WmVtv8rR7iEbv+z1s9vBwfDBNjJ9N4PnoiNO4PpCHEwtRQmJ+8FuZeXY2g/J/oGp6BhAKk8JjZF5fDzLOLhcR855qPIqoUsh4mH55eh+ITiEKgN43zYerx2bQvnzEQ/S16bXk8/Fi8tzGUQByrOgK9m7iUgtS3FYj7VpfGwu+PT8KfT40URI4tvb1p+OyuZWXXvxaIpDHQ9NNzOYjjGGhx+noBxLFAPrtr9cIwkEiTm+8eRHIQGl4LskNEVAZSlTgXA6mSAlE1fufUniSc6UvChb1JuLI/Sc8BIkqBNC88iOQeZCe0QPzGsV09oW9rT7RCxM8PD7oHcR6QUKqk+ijxYH9/OLozw2gOfZ4dqRZEALAgO6EFITi2IPp+nb+dg36tPMoxpUEWpeXrQR7DvDmyowj69v5OFOSzt2hZ6UnWDmSHSBiBDm4vgr4v3N0oKNuDqFA7UAyioWN17dvWBNHfguym6LO7li35GIjQj3uM5piqw/wRiOpUChKKUCUsxq4wKqM+qk6lIFslDyG0Q1sM92ipC7T0+kYOYpcWpiMQK8eDYhgbwlAtD6I6yzPDhQp1WB1aEyRUDMNjgMcB8wXM8d3ZfPEgDdfK25vVgkYOJ2H4UBKGDmTPJDC+SmAYWvukF4hd2oKE8tkjLQPZYeMcGA/gut3FW4F47fgydysHsQeV2IeKIIvinBLwyXmLiYGoTtcgVpkH6ZVCIJLZdyALop8drspAfrVx3oLsK4cwAqkvIJa8BbEHld6HYsNmQRy3A9n5UwkoNmwWxLXYhCboZ+dPlyDa+o0vFn7+KDyITdGCFCVAtZq29XbhgTbs/KkE1GnzyE6wimbf/9Q8Mhb+nk3d/gL03ARy3ra1XAAAAABJRU5ErkJggg==",
     "wiki_name": "Oak shortbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_shortbow",
     "equipment": null,

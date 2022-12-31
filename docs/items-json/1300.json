@@ -1,7 +1,7 @@
 {
     "id": 1300,
     "name": "Mithril longsword",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A razor sharp longsword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xs3VTWsTQRgH8OQb9N7LQg9evXjoUaT0UkpFMdQSEHsTvIpvlKr4ioqiKNiipRXTKrGtJcaXBhNqGquorS0eRRA/x9j/Lv/NM09m02yzlg48ZLM7s89vn5mdTaV2f0sbd7iu//eWNrOTIyY/cd6PF0/OmZnxs34QUVm4acrzN0xp7roDpR+ibXgAIgoghsYsvrxq3jy/bCXGf1zTYaNiIdNmfmq0AYVfQBgEFWcumYVnF/y++HWB0F+iN5YnzdrS2PZQBOGY1SHoXf6KD2LfKBDGrVcnzM+V3GZM+yDk2Ot5fujsqgVl51MThKQuUCF3MQThWIJwL/wuFW5ZIBwTpLOrlramAYm4uPFfg5AcCE6vBOFemcxp/3e5eCc5EKuEcy4QK0kQqob7HB++Flbo01sJysUDcV1oEJJrkFzQBOEeQ0MjJpsdDUGf39+1QD8+Pm4fhPMAEcVKyjcS4w8fOWVhEF8W7yULQgAgQXpBY2xf34kGDPp+Lz8IQRu1pyEmNkii+PpqEDE9PccaMAStlh86QTp7RAs2LyRrBuKCRt/u7oMhBpVsAFUebRcU7EGo0FYgVhFjBo8GnxWc0yD0t0BiU9TZVQuezgVCuEAYg0UcBUK/REFEIZAAOy4S4Bj9+wdOhhigMU5PV2IgWSX8ShD69vYOW5goUPX1bQGaDjEtgfDmuED8HACEfvsPZMPPAtZXFAh4fDZkhVqsDlodpNcRPwcIvFFYN8REgThd+GwkBiIK1wYzHWY232kqZc+sfusyv3/tsSokKylB2KUliCid3dECkGvacO3QvpQ5M9BhXs15Zn2ty4+tQJjir6X7IQh7UIx9yAbJacO1YsEzf/8EVWHI6dIgVKdtEN4yDcL58bFO86HkmZVaUBV+MjQIY+V0JQbS04ZrtWqAQUIklyDuVRiHexCEV94Cbe5Bsfch17ThPK7jiXHcDCTXTyIg17TxqZEE14BwgfjZ4HS1CUKrL9hmodcPQ4OwKUoQIwYoleK23iw0UIZcP4mAWm0a2QqWUe+7Q00jXaHH7Or2DxmgnbQHIghWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xs3Xz0sUYRjA8d2jRw8LSyBIhEh08CAEQRgJ4sFDh6BDx079oKioKCoqKoLQQiyqpdhsQ0tJXNLFNK0I27If1+gQ/SdvfGd4xmeefUd33Sl84WHGnfed5zPP+847mMls/pZ1/vBd/+ct60ZHjrvi8LEgntw96gpDR4IQRGXsopspXXDlZ+c9KPsQTcNDkKAASVjM9NNzbvLxmVhi/uaajTiqIWTWle6dqEFxBCIhoInCaTf24GTQl6MPRH+N/row4j7PDW4MJSDOpToCmiqeDUDSNwnEuJX5Yfd96aH78a4QgMjR1d4ehM1uWlh2eWoBkdQHGn90KgJxrkHci+Pc+KUYiHMB2eymZWPTQCJZ3PxtQSQHIdOrQdxr/56O4LgweSU9kFSJ33wgqaSAqBr3OTSwI6rQ4qurEYhoCCTrwoJIbkF6QQuIexzo7XQH+7ZHoPdT12KgL2/uNA/id0CCkkrqN5Lx+3Zvi2GID9PX0wURADTILmjG9u9sr8HQd3nmZgT6tng/wjQM0ih5fS1IMD1dbTUYAX2aveUF2ewJLdy8SLYWSBY0fbs78xGGSlpQtXJ7o6BwD6JC64GkioxhEXPkNwuivwbpTdFmNy18Oh+I8IEYwyKW/caC6JcqSFAECdhxScA5/Qd2bY2qA5pxdrpSA+kqcdQg+vZ2t8UwSaD5l5cjELu0YOoC8eb4QPI5AEQ/3iiZJtZXEgg8nw1doTqrQ1sF2XUknwOCN4p1I5gkkEwXn43UQILiWn9fixsttrrKbM5Vl/Pu188tsQrpSmoQu7QGCcpm97QQ5Js2ru3tyLjDPS3ueSnnVqr5INYDMcUfyzciEHtQA/tQHKSnjWsTL3Luz++wKhJ6uiyI6jQN4i2zIH4fGmx1r8s5t7QYVkU+GRbEWD1dqYHstHHt7XyIISHJNUj2KsZxDwHxymsQe1DD+5Bv2vid6zwx52uB9PpJBeSbNnlqknANhA8knw2ZriZBNP2PXXLY9SNhQWyKGiTRACiTkW19rbBAHXr9pAKqt1lkPViJ1b7/qVmkL+yYTd3+AkoMPR+a4UkrAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_longsword",
     "equipment": null,

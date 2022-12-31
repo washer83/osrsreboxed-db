@@ -1,7 +1,7 @@
 {
     "id": 6696,
     "name": "Ice cooler",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-24",
     "duplicate": false,
     "examine": "Contains ice-cold water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4Xu3W204TURQGYOZNSLjglph44SMYjTEpoWmbEtCEGgVDBTzHqCGKShAIClYItg7RHoBSWw0gtSEeEtF4uDDxaX7778maTqfDjTNTuOhK/rSd6Z5+XXvPbtvaWtWqAysNjWl61T78dP8dBM6Ooyf2QD0/Gb3RLFQ9wgoJDT5GZHhOPfI1j/uIqkdYIVPLJdxPvMPdJwVE4qsIDaURHppRCZ6f9GMKnSHd51LouaBDz3+FvrGHpdwX9I4WEB7OIjj4SmGIkq55iNLUmiAkMLCI7tgLE8NuZN7+QHJ9F8XKL/SOlRC9lMf4fBEPFzcxmyqbsGj8qVfdMkCn+m7heGhMYdgBYjhFb8rfsPP5Jz59/4POY/14lFhDqtqx7Y9/FVp9iYF7Jqxv5JlbVA0kU9Z5NKKS0EtIpjfxer2MteKuOpbdqCBbqKDw/rfCE6S6Ww3H33y+qkBd7e3/i9LqMPy2XEPsViqzhUz+QxVkpONIsC58r4TjeZ3r82l/QJyC0s4eVnLb0HNbKh1dAfO8NdIddvrK3Ip7kBOGd47cRWeuTZgfznPWWLtzInwVo9NJ/0Gx29PmMWvs3eE0xyeX/AddnFgwN0OG55y6QxDf6znIiuH+MjK1rJ4zArJ3R0CC8RXEhcpH2ZWlOxzD7giIcdkdlnuQoORfQNNA1umS9SNrSOIBiKU1LGor6PLMS0cQx8g6kngEYmmOd5mAZEHznICsKImHIJbWACKEm50dJBGY4DwGsbR9QbKgJYLiGInLW36/Mi7uBJIQZEf4hDHKuLCmIPwFl13aqRu+IZyrBrAjmgyp1aFAtOow1D+Sxa8hiErO7AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xu2V30tTcRjGPX9EEF7tIrroqrsojEDZ2GSOFUyiyUidSkiJkIJhVopFMtLKihUOdc0zs81oZbOCVkZURDdB/85Tz/fwnp1ztt20s+XFXng4P/b98dnzvt/3tLW1ohX/LTRUqulR3vxUeBydZy7Dd3Za3XcER5sFZYcQEG/vFPzRawiev6WufOb7BkLZIawg04s6Jm5nMXZjDT2DGwjEUgqsOzav4BqQwuog3nMP4YsmkdQ/IZndw731EkJDWwj2p+Hve2I6RgX6Zt2E0nAiMKJAOiN30NV714ShG+v5b1haLWDzzXecvrCNnngW43NpTCVymFsumGChgQW33DKAToYu4Zi3X8HQAZWav2482/mM1x9+4OPXX2g/EsZMIo3kxh6Kpd8Kmn+gKzJpgoXjiXqhNHVqCCQpaz/crbS8ksdK5hUyW7vIF0rqXTb/Dpvb75Hb+angCcQ5hOL8scWnCuiox/OvUGUgWZg1RLdSmQKyuV3oz4vQc29x8JDPJhkrp45rjC6k3AESd2QTpuBF8QvW9AJW9ZdKBzwdNgj2JUrc4TojNx/XD2RNl2xEIJ4eVRfDEzYA/iayusNaHLx+3x0gqzvclDDsNQSKXLxqAvC9yOnOcX8csStGUbsGZHWHQDzO0UmjEQqgNEWnO6w7jnUdyOoOgQZmlsx7aYTV3KEEpiFABGBfGZ5/pK58ruWOqE53GGUgZ/04gZzuCBAdEjUNqFa6ONcqF4AYWkVRSw1ZgSRdVoesH2bKJSCGZmuK0oMIMjT7oKJ+OFagrHIRiKFVTRuBJF0CJBIwkctADK0ibU4g6dgUoThHVOeRrxXG4pI2AhFOOrR0bSdEg2CMMBbWFAi/4NKpq7nRMIjqUQZwQjQZpBz7AqIV+yH+AE0uccePgOJZAAAAAElFTkSuQmCC",
     "wiki_name": "Ice cooler",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ice_cooler",
     "equipment": null,

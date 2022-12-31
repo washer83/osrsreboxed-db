@@ -1,7 +1,7 @@
 {
     "id": 9971,
     "name": "Butterfly",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3klEQVR4Xu2W0UoCQRiFnTfxESKIiAiCLroIoqCbLrroooeIIooiiijC1DSxEgtLLMywFLFXm/b827/NjtvORDqBeOCgLLO7n+f8s24iMdLwSMif7VxCnj/XfdeeyGfVWmDHUApMDNBYMukKqjcdFYi/O0xJhED0dOiYB+swJQOQB5Oqv9BxRymJcBoRQJnXJkE5qM7f1iqAboBkm28y3WgMsjof5PSx2gMQSsdLCyAAgsPV2dooIU8qD2QjkJcIgHLvLbJana2NUMf3lV8BASLfastCuxNUh3P1tVHG9Y0VMxAWxwHxdg+AOl36XFuYkkflu571UeZ7GFLyK4sDYhjUw0DF7odcX5yWq/OT8uC2ZJWSChSbEhb8BKTCoB4G2lieoXRW5ibkXqFolRLfA/CGlKDwLmMQHQZzAyCkA5jt7CUB2aSkAmFUrKBsjao2UxdyJ5cnoMNSmW4SlbIKxBsIa62g0K3JuMjS7LjcSmcIaP/6hoBsEmIg/mHf1/yzBAHtXhUICDNkA6SD9AmGJQgI8wOguLrgAYKwRDDQ+vzof8x9ridOIhhoNQ39FYaB9LMHIB9In59/BIL8p30kzNezzDlQ1PwE7+bugaDeh6dqRwMdlrqlo6yvH2ko9AmMgG7f6bS3ywAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgUlEQVR4Xu3VsUoDQRAG4OwDpLATQTiCiIhICkEIBAUbCwsLH8XCwsJCsBAEC0GwEPKi6/23N8ns3O7OHua2CDfwQzh2s19m7i6TyVi7U8bGU7yM/TzcW+dDpDDKx8RA86oqhdJBhbuUHheC6wW7ZLyDQxi6XqhLG1AowHxVxVDusZYICfquHIpAA4zOQd4DABlACOR3KTdqGft2MG0wGojGBRBHaft4VBQwfUE/bYDqA8I6dcR9QUAA8ztzn+8Wp81+uTYUOkPpUt7I6HGnDq1q0P3yzN5entjXdr/cI8NByS5hQQrEMQR6uD5vunNzcWxf2i7LfTJ0BtYqXUJ1nzKCcAyNDN0B5ml/ap/rA4CS+2U4KBuVG4zqscYQCGOj0UtIDJSFwmy14Euu5kdedwgkETEQ/bDNd/67TAeU6g6BJGRLGCqzBmnjQgaEUBlvXCnQlseTKhO9f+i/joPk7gHKgULd4a+NgiBU+h02glx1X548hW5ov/gjHYpcP9ZO1B+FRONACKuJpgAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

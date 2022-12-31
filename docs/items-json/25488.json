@@ -1,0 +1,77 @@
+{
+    "id": 25488,
+    "name": "Accursed sceptre (u)",
+    "last_updated": "2022-12-31",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120000,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 0.198,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-09-14",
+    "duplicate": false,
+    "examine": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDklEQVR4Xu2X0UoCQRSGnUfwYmEJApGQkBAJRRQXF6XFFgsTK1ELpKKLniO66Sm6CoIgCIIggiAIeqiT/xlH1902onadLvrhsDKOO9/8c87MmEj8a+ESFB4LlRx0e7NJx5Uyx6hc4sDnQbGwKKgZSGc8eDef4wi6IyifSnH43xChBK3nclSrVKhnValVWA8M7g//GyKWoNTyMpULBQbyg6g+878Ja4tEgpZMk1bSaRrWLM/yzL6v3xmBtl6n42uLTBJoNZOhtWyWl+98252Ctd5NatxLIOmYoFOrQqN+39MWqQQZySQvGwJOAeqi3fK45U3m2IGg+UpCgu+4Ll122j4Y2RdAR8NBnECJhJr9hm0zUDGfZ6cGu7sTUCVBZ7UqHezvxwk0yRfHoWqpxCBYOuTULHlloBK7W1vT9hiABCd03bIYBs6owdGOgU+cBh3WbdobO9dsNBg8uJSRSeYMHMFzNmu5P6EdexRg8VQRmzvIGbiC5Zmftaw+bAneUO7F4M6koq7VpvfZIPPV5+0TOUz1Kkn2jTEFChvECxDW55eSrti3XzmzMAl2RZ1NMc76O5KHpPdc0gQCjavpweD4EzDOo0HOkyxZ7TDNZ5NDM4ysns0Xk0MjjARxX01y30x+aoXB9q+uDgDSCAPJvzGAwuGnTm1NMJCYguA+o90d3F0QKo80wijFehr/TH8F5APi8LDt2XLM6AAAAABJRU5ErkJggg==",
+    "wiki_name": "Accursed sceptre (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Accursed_sceptre#Uncharged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 22,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 20,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "powered_staff",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

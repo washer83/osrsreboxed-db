@@ -1,7 +1,7 @@
 {
     "id": 14194,
     "name": "Mithril boots",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "These will protect my feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgklEQVR4Xu2UQWvbQBCFs/+gp1x6MfggCAiEIZgQDArCiGBjImJqnKDgxJRAoBAolEKhFEqh/3rat5snj1ZSkOw0hrYDgy6anW/em92Dg//x94YRl3sPBzJPjmzuGWwDglzNx5JnZzIa9BTYqwEaWaZhketFWgAtZ7HMJyPJ0hMZhm8l6L2pAXxRSCP5JLIJmPurSQXo/DSQZNiXKDgsgLSaF7G2dyc4I7ezgU1C+UBoBiBYRyCA+9ZqJXeAc0BaIZ2cvg6oyVooqf/tCGXkfXZcQGkQbQeaYH/QpI21/JdAUQ8Xo1U4ICQbaRAmm/hqNlm7AxBioxIbaqt0Ex8I/9VZSyDCdARCGHnIp9YGO/FTQw0VRUktkG8tgbZUh2Hk8S4rQXFJz+NjGQ1DGYT9yr759tYt9BZAv2/a7Q+5vv4q83efZHbxQdJ0LWdJLslpVMAcBT3p9w5lefVFFovP9ksVqSR3LQxHEgTu+ncEcjB5/s02ybJHmUzuZTxeWWV8IHeFXfrXHe/PNBmW6joCGblb/yzBTKcPFggKPQek6zSM/z8UdTWtwhSHXl5+tFYRSNt1MghKQIB5zmL+T5iWt8zIzeq73QMcCiAoRCitjg8EGF1LIC4//tfqtIbBhFxQHEwgKESgJhgoi1oMggGwc75dndTBgT4QVdKHE0hbxVp9CfwBOqiDcAo1QcXxsgTERaY6rKFdBNrSLkQViJZxf5pgtDoE8t8r1rS0i2GKg2kVYLCc1TekfgDuj7ZLg3SAYWweOb49nLY8Yf3OYQh9u7ZQpRq6qc7ywQ7IfyKsqk+PYbXmBUJLXT3YlBaZDyjU+SMw7aKsYr2arxy+inuF+SfiF05GyolKOA9xAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADp0lEQVR4Xu2V8S+VURjHe/+AfvBDm9lsd9bMzOyuacYy1l2G0WSkkSZJE0mSRJJEJDEhkUgUUcaMxBiKVlv/0rd9z/Vc5773td17E1v1bGd35pzzfJ7v93nOe+jQ//h7w4BzHXg4QUZf9OHtQP821IGBGZgaHsb4ywFMvBpEz+NWdDQ1obaiQgPbN0AD85PvMT06iumREfR3dKD3SRs6m5vRer8eD2tqUFdZibKiIqQmJloA7imkgZW5OSx+/IC5iXEMdXdjoLMTfU/bFVDbgwY8a2lBQ3U1Lp3PxXG7XQFQSdrKRfg9gjOwubKC9cVFLM/OKqjXPT0Y7OpSKhGEcAS7fb0MmWlpOBIQoJSkvVxira7kb8AZ2Fpdxer8PJZmZpRtM2NjKhGte/O8VylFlUoLC3EyLg5BgYFKSe4jrFjLPQRquluLW9dKcTEnR7PX6zDw48sGNpY+KyAmIgibmjBUiwnFrlMJCWrfwtSU+p9YSyUJRDDuLS8uRm5Wlsteu83mLZSBn1ub+L6xrlRiItrB/mBC2kZLOGkEIrj0GxXSreUvraNlVDPJ4VD2+gjEMPBtbQ1fl5ex9mlBJZscGnIBMRmBruTnqz06EPeZrb1zo1ypcyI62gXjIxDD+QbxYkJQKSbk32JHmC1AgQvQ7Pg7BaRb++henXoazqan41hkpD/qSBiqfyQBq21vbFRNerOkxNWgBOJUciJFIe5nL9Fa9g/tOp2chLDQUH+BDOQnRyDbEYbMhFCkxobAERWMeHswrhYUIC87G2dSUtSEsWrZx18WIapSyfqqKmUt1QwJOuwPkBMmNzHcA4aTwsvZD6w4PjZ2e4Sdi4pQRY45G5mjTrt4hoqey8jwFcgTJinapoC4ePnlC3mWQKJoetxRZSubntaaC4gID98+41UYLhheLEBcYpdUqgNJEQIk+2MiglQB3M+Rj4mKcinkhUruMAIkUCI9+4efCyYwA8lZAeIZFsD9fEB9mDInjDSnrpAAcVL4ELJaNjQTmNUx95wMgK6mT+rwUrlYV4mXS2PyPZHvEWF2A+IAiF3cr9tlzm4RTiArlbikF9icVEdvZP2M2CUDoNvl4zfMHUiaU+zSm9kMYwXEAnhGpkvOeGmXhOF2sT7y0sw7FVqrI2d0u3QQH2Akdh45aUxWy2Z2r9C656TfOABU1A9VPENPqi/3i3d/Ivg60y7PM3sQutSeFxtufSP20q4/AuNduKtoreY+h1nFA4X5J+IXKUBmvPSAvN0AAAAASUVORK5CYII=",
     "wiki_name": "Mithril boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_boots",
     "equipment": null,

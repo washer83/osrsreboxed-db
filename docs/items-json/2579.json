@@ -1,7 +1,7 @@
 {
     "id": 2579,
     "name": "Wizard boots",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": false,
     "examine": "Slightly magical boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXklEQVR4XtWWPUsDQRCGc/8g1TVpAnap0qSwSGGRQkghBIQgAQlIQIJgYWEhWFhYWAiChfhfz31nZzazX/m4OxIcGMjl9naeeWdm7zqd/2lFFfvJrKi6s6eqe/28cXN9IkCGuXokkPLmtSrnLx4Y3TN+BCiGma7JAVIu3iwUg5Gb37FarStX2MwBc7mi3xT89r0qlx/W7z7JRR1RzSnI6rUAGMBMlhZIlFFOQbEGALqsurRSVt6vBlQRBU65hnABTXC6DwWhJhxlNo772HvY75OHUbdYsdks58heJg8wUAkuQCE81hilBSiMuMMK1x+RI3Oljmts1eChu8G4WNQFghmo+2/fAQT5RR2jiFzn3CmIPhzPmwH1Hn6tr3+qcvUVqYOMvf/UlDkgrc75rAkQzELl1JEArqcUlHOtzmjaElBGnc5wYoFw30C5EdeORhd1eH0zICkXVFANSgHORhSA1rCCHkyozmDcMhDKooP0BhTADYCoiDVyFGh1OIFGQF4gKYHOmKG2ggdrawIlYDAtCJLIOuq1sH+aASVg5NUgWSOI6ovoGTS4Hvf6JfM3duOsMvaAeHI8hdDcqZFXKoVRM6Zg5LsnPG0FKICJplGeCXuOFdpDJYaR95W8pQWK5ffU4VIRjDyrX7y6xIePPR9wCSDKNiyXwMhJnipXOPatACGAKpf/PkqoE5YrcUrvCQQr0urocmmYhDrZch0OI7b59nXjLpl6m6rDcJc69WGs6aDa/U2DIdCKZpNowWSzeFMur5RYplGVq3WY3bZRzzuv8K10fBhr+5X3RJYv7z+3P1oKGS2cIvcLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4XtWWUWsTQRSFOz+hD3kpCCEPeSh5CGIeUiyESouVVmoJUUIsJbaW2lpbozUqIpQKIoiCKPhrR75ZTnZ2dtumu8HQC5dts7NzvznnzuzOzNzMMDadUwtj2+0XttM5tI+fvHJX/p8SYASz/rDvYJ5undpeb5AA29zcc/f/A5QZFSO73RP7bOeT3d4ejsC4kmm1Jq5cDLNyv2s3NnYcwPO9M7u/f24PDr64PHz51d1jPMAkgFxRkDkmAGhckbW1LQezvNxxE6NMmFjGGAD4Gyv7/Y8uQzAWt7raywNlRlYoQxCS4oBzpSALoDj3UBE1d3c/O5tJ7jN3vVx2GVa9JIyb6LLEPikiGFbPbyE4CThKCiiseEUY1xtZyap9dQDzmzsEIYEEeGmpnReIMHYw+JlImhjppQ6K0Ctq5hCOFDjqLC6uFwN6/+Gvyzdvf9mjo28pdVqtR65X9BsZwvnqNJsrRYAIY4fDP/bk9Y9MdVQAUH7XSS6wUJ3bd1rFgU7f/bbHx99T6rDiWq3pCqAesNzTK0anuK+OxhcGkl30hIpQoFyuugJYioL0k0DIUJ1qtV4cSP3DVscGDjcOyoWFB3Z2tuQKaAPQT0BzDOgo8NWpVGrFgcJC4YpLpVuuiJTEOsCz1JmbqxQBSsOwYtRhd2nVso3mV69pPI3P2EbjXmJsDqAkjN5FsoBVY5nfF3rG7yWNZ2y9fjevZTEMu0rfPnqJCgiFAKKQFPKPB9mGolm2hVUviBjG/+5hchSSXawYG3Su6PDEMp7V6R3aNj/fGCk0hkoRDO8rJmVXMbFUYnf5dlFAVtHQqMOzPCebtSN5JgQKq2eEcZOyU5Cd5kQloLAstEswWMVCUCc8zf0eQs1rAzGpgKQSBZjctyueNDqnpE54mssuFqBeG9MuhUmow+Q6DKWODyOrWIQW4Nulc0j2XhNGEX/7artrpclJo56TVSxCzSy7dKIXgInCL+pnctLIYm0CKerb5X+Q5YYJQ5OlJzWJ72bU0SeI7Jo4zNURqweMb9cUYKIYz94pxcX23vD4B19xjKVbZXYfAAAAAElFTkSuQmCC",
     "wiki_name": "Wizard boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wizard_boots",
     "equipment": {

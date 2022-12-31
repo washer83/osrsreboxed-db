@@ -1,7 +1,7 @@
 {
     "id": 4861,
     "name": "Ahrim's hood 0",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": true,
     "examine": "Ahrim the Blighted's leather hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xs3W22sTQRTH8eQ/8KkvfSnkoRAolECRIIFIkSD0pdCXIkKh/0UV8YKKoqIoCipaqphWqVpKrZcWUmrrDfFW/HfGfmc5m7Mnk5htVunAj2x2ZzOfPbM7m1xu/7e8Cyd0/J+3vHsxd8otzp70efbwhFu4P+MjiI3lK66xdNmtv7wUQNmL6BkegQQFSGIxa88vutdPzycG5jvHbJKoVMi8W3p0ugXFJxCJgFYXzrnlJ2d8Xz5DIPpr9M72nPuxeW9vKAGxLdUR0NvFCx4kfduBOO/X1qz7/am+m3kPYozhgQEfO7ppUdnlqgXEoCHQSv1sDGI7BNpcuZoAsS0gO7pp+cQ0MJDc3Hy3ID0NpB1oe/V6diCpEvs0iL61ar+rHup3hb4+V/Q/nvdVs6CPbzSong4k94UFceUCot/Y2EF3tDbiQeWRzqDP724kQD/fP+gdxH5A9BkfLydAlcqQKw0dcBMTFX/cgr6s3cwWRJhKjjOogEZHh2OQR5UKLSgq+q1xOwbtfHgcY1KDNIofF5DGaJCgisVo+gT0vXEnCLKjt2nNJ0aD2mEI3yWCSoA27u4VFK1BVCgECmEsSFAC4r5LgNSiaEc3LXrkQyDC8RCG+6lUKLSg6E91MgUJSjBUiKtnmydMMDpTU0fc8WOH/XHOywykqyQgBhEQOAsCQ3SVtl5dU6D5GNMViCfsbyD5BBTCEOnHebw2dIW6rA6tCdLTxn6mQN8ftjoaY0G8NjIDEfYzyORk1Q/ClGlQuTjYEcQqrUGCsqMHWgSy0yYgqsQ6xEBg2A6BwJTLgz6c+3X9VgxiDUqxDiVBgmL/9HQtBoEBxTZV0yC56SU9g3jKLEjuI5k2eY9FZW9GpsmGYz2D7LTJi1VHXrosmvIkhpKo0O4alHodCk0b+1l1+SvKtvy91SDCefL+oi9rUM+g0LRpEMf03xINop+8vzIA0VpLHorG6FgQi6IGSVKAcjlZ1jvFAnXkhUp1MgF12yyyG6yk2fc/NYsMxZ6zr9sfFijaHRb3kiQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xs3WTWtTQRTG8WTpoosuCqEQCFKKBClBKkHootBNES0atIpv+L4QhIIg+BVEFEQRFBFRpKilWEolVERERBARQUSkVr/JyH8uTzL3ZBKS5lY6cMjkzlzOL2fuzE0ut/Vb3sUjNr7pLe8Wbx10CzcP+HhxY8bNX9/vQ4iPT064D4+Pu/ePjkVQ9kf0DU9AQgFSWMy7h0fd6v3ZVGK+M2YjjeoJmXdLt2stKD6BKASq35t1y3cO+bl8xkDMD9Hr9Tm3tnxxYyiB6Ks6Ar19cMSDNLcdiPt+v77s/qxedX/fXPMgclRKJR82u2lJ2fWrBSJpDLRy93ADRD8G+vT0ZApEXyCb3bR8ahlIJBDfLShcBqId6POzU9mBVCWShSDmViuDrrJz0BUGBlxxaMhfo2oW9GW+CSJ6Aum5sCCuCcS8iYkdbk911IPKo51BX5+fToHWVi71D+I6IOZMTpZToLGxkhspbXNTU2N+3IK+L5zNHsRSMk5SgcbHtzdAHjVSaEFR0R+L5xqg9fqVBiYzUIgJQUIVi8nyCfTz1fkoyGZv05o7JkS1wxB8VwgVgn4tXdgoKDmDqFAMFMNYkFDtQc1D0WY3LdnyMRDBeAzD8zRSKLSgmA+GjZA5SBgqxK+nzw4TJoyZmd1u395dfpz7NhVEEoHAWRAYIqwSrw2BOKWF6QrEDhMoRIUgfQKKYQjN4z5eG2GFuqwOLQ7iOksQPh+2OiHGgnht9A0Kl43rJJmervgkLFkIKheHO4K+vTyTAglls0daZxBV4hwiERj6MRCYcnnYB/fy2hCIM6iHcygBhcsmUK1WbYDAgKJP1UKQHnpF5iBbJQB6jyVlb4aWyQZjGwax7WMgrlmA/nNzLGgnxiJdobnez6HYc6T/OBxy9PX3NgQRmqcTmjMoE5B9jixI7zcL4v4QxBnUB4jWWvJYhJgwBFJ1LEjRAyiX07HeKSwwjHC5MgF12yyyG6yiOfc/NYuMhb1nS7d/B/1boWBHTi0AAAAASUVORK5CYII=",
     "wiki_name": "Ahrim's hood (0)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ahrim's_hood#0",
     "equipment": null,

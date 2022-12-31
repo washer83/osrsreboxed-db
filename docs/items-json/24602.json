@@ -1,7 +1,7 @@
 {
     "id": 24602,
     "name": "Blighted super restore(3)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-04-23",
     "duplicate": true,
     "examine": "3 doses of super restore potion, blighted so it can be used only in the Wilderness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcElEQVR4Xs3W+0tUQRQH8N3fhNCSMH8wFlsVYy1zi6VNogdKKIVCruFr1SyC6JeCQLAwNUwUjaIoqCixSC2sRMweCoppL6KX9O+c/M7lrHPPzupuXsOBw969M3fnc8+cO3ddrvXf3GQOU/+aNze9HGilkf7LKp4/ukTDD1pUMGJmrJemR3to6lW3ASVvYtVwC8QogDgkZvJFF7151mmbGN/RJ8OOSgjpptHHbVEofALCwaCJ4as09rRdjcWnCYTxOnphfoB+zt7/NxSDcMzZYdC7kWsKxGNjgXDd77l++vN5cDGGFAhzFGRmqpCzi2alne+aQZhUgvS7xtjxwQ4jaHa8zwbCMYPk7KK5bcsABBc3vusgjC06lEV7d2dQbtYm9T0WaH7ihnMgzhLOSVBfeyn1tJXaQFhGCfr0VgcNJgbiupAg3LkJ1NZcFAHx9RL05f1NG+jXh4erB+E8QAiMKy4uiYTfH6CcnO2UlrZF9UnQ18lbzoIQWEodVFPbQKHKGiorr6Cd+X7a5s2m1NTNUSBk8/v0nQho4eOTCCZhkI7CjzOIl6wufJIaG09TcnLsJcPYH9N3jSA5e4xm/TAKNBYI/RWhaqqvb6L6hlPk8eDHrWuQySjQzL1/BVl7EDK0EgjZQYTDTeTz7aCkpA3qvARhvA2kbYpydtGsHzOBEBJUVRVWdVRb10iBwD5VQxKE7DgKYhQCE2DHZVBXsEZFy57jdC6/hMq9AfKmpKu+NQHpWcIng3SMDgp5g5SXsjUKNPf6ugYaimDiAuEJMYH4dSAxOqgqu5CC6dmU7kqJoJAdvDb0DMWZHbQlkKwjfpRjgc7nH6Xa3P10IN1HuzZ61DheLrw2HAMxCufR311YFxWtgZACNeQepBJPgcpShtvalwDCLq2DGCVnNzQLZFq2lUAXCo5Rk++wKmxkiWsJNfdt6nYEhD0ogX3IDtKXbTnQlUClAp3JK1aFzVniWloVCE/ZciCuG8b0FoYV6KK/jM7mHVEgZMhaEgcyxCC5bDjP7y9ER/AEdQarFQ7Hzf5ytVzczwWNR94GWtyDEt6HTMvGINwxjnliGfw08lhHQKZl00Ho0/+W4Jh3c35tIDsOgNCi79oUOkYPCcKmqIM4EgC5XLytLxcSqIdeP46A4m0SGQ+WY2nsf2oSaQp5zbpufwH0ASvUUuJ9FgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaElEQVR4Xs3X/UtTURgH8O2nRDFoWS5RZiIRSqJpOecrCUovig41X1J0vmWRaVoaoojVLxEFUQRFRBQhlUgihhgRERFERBARYdZ/8sT3rOd67rO73NwMD3zZ3e65O5/7nLNz1Wbb/M1O1rE6v+HNTrM3amnmeo3Ks2vVNH21SoUR7x+doHcPW+jtg2YLlLyJiOF+EKMA4kjMm/uNtHS3wTQw3uOcjBkVFtJOcze9ASi8AsJh0OKdBpq/Vaf64tUKhP46emVxgJbne9aHYhCOuToMen3vuAJx32AgXPfz5Rn6tXSBfr+6qEAYIzs1VUWOLpq/7HzXDMKgEqTfNfou3K63BH143GoC4ZhBcnTR7KZpAIJBeK+D0DcvO43S05zk3BGv3gcDfXzSFj0QVwmDSdDYkJdGB2tNIEyjBH2aXgUhYYF4XUgQPrMC9fccMUB8vQR9ftpuAi0vnIochM8ZhH6ZmXuNJCcnUULCdoqNjVHnJOjrjC/6IEylDioqcpPbnUe5udmUlOQkh2ObJQj9v812GqCVxSEDEzUQo4qLC6isrMiAWE0Z+n5/0WUJkqMHaf4vxgLVUfhyvUL5+blUUuKh0tJCVR2+BnAJ+jHXvV6Qfw9ChdYCoToIULuciUaV1gatbopydNH8X2YFQiTI4zlIhYX5CuVypahFLUHoi2uiDsIrgxD07Z6YVGkaGKRj7R20v7SMtjoc6tyGg3DMIB2jg9wVFbQzJSUAhMcGg7BLMyYkEH4hDNJROMYAEsOgap+PCioP0+6MDNoSF2egAMJjQ69QiNVBCw7i5xODeienjLScG6Kazi4qrqqmPTk5lOhyGSBUFI+NiEFy2viPMB2ig2p7eumQ10tZHo+qUky8/1EC0JfnHSYQo+ToFi04CJ9LUN/UJZXW4WGqO9lH5XX1dKC8XFWJ1xJAeGwwCHtQGPuQH6RPmwQxQk/b+REFqmxqVuuIq8RrKaogRjGoa3zCWEMKdPkKtY+MUn3faTra2qZA6fuy/k6JXf3CIgLhZx8MxIsa8Y2NGzgcN/afVdPF53n/CQQNhL8PWa0jBmEQrpZVuF/UQXIdSZD+Xwnv5Ag/NhiEPSgCEFrgXVtFx+hhEFdHgjhhgGw23tb/FQnUo09XVEChNokMBctZ7fufmkRaRV6zqdsfcuLFC8dcdyUAAAAASUVORK5CYII=",
     "wiki_name": "Blighted super restore (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blighted_super_restore#3_dose",
     "equipment": null,

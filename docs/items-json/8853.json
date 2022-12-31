@@ -1,7 +1,7 @@
 {
     "id": 8853,
     "name": "Warrior guild token",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-13",
     "duplicate": true,
     "examine": "Warrior Guild Token.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+UlEQVR4Xu2Wz0sCQRTHd/6DTnvZy4IHwZMEEiFBEB4CDx66ePBQIHXoUEREgeEhokAoggpEqBAEKShE6AeFREV0iSAiqD/mxZth2HF/+VZMQfYL34vOvPm8t/Meo2mhhksMLFMVdD1ZDMayKRjNTEI8nSSCMUjMTAVYTxaDi7LBXd1MQaVkQKmgQ2FJ9zlI7MH16KNtHYorfuvJag9s99aaDsv5EdtB3nv2izqsL9rXk+Ud2M1mIsYPoe5xJuIremDV3exBd4DqDgYzTs6mHb9T7QPFHIs7Wd6L5ysTrqtmoIRqhwbfGzdNbjuNhn8GyVTtnu/HCLw1I2Sw072OMCh6pjsbaitb/nwQUK1z7zjlXRIMisHPUxQ+7vwzxRaWANUDg5ceB6fa1lgtCdU4EXGw+jgwiTBSIuD7TQReGyLobc3kwXBiy4AIga4fO4HVtr6vW/sRWo4IIoyQWGwFxCzHc9M8IAK4Qbh5PqfOG8sBqtMuFQxtP5BqtSpdw7SL8U/ndp8olt3YAxApBl8tcdEvK3Qo7Ca8T7Go1msglJg1eNGbZ6bjcNV4x/BVMJe17lCPPpVdDH5fohwKO8cNBAcevgTsIP8AI2VVCqHkfEEYfPusLoiq9AFElZjICDWRz/CRoA7LPoKo8p4vA4ARUgEGChIqVKhh0B+cdINIOLI1PQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFUlEQVR4Xu2WW0sCQRTHnY/gQ+99hL5DBBIUEUVhF7oiXYiwMKnMrKxERCntotnNMiMj9EGxK9QHO3Fmmd1x3dVZKwPZP/xfds+c85vZM0ctFlPNJQKKRWU0XlgEgpEj8O4EwOlaEwQjsBuMGIgXFoFAOAb7oUOI36ZhbdMPC84VGJt0VClE5Hi0a9ULE9OzVeKFJcGwxGpPOeahf2BIVagchjduZGh0sl4w/cRa7u0fpEVE17B4QTDxxLzrWYOuAVUfDH666OlFxXNRV4EiFcG1zPriMp2lUEY2tL0XomvbWlup1TQWfGlkp/ztKTx/wF02LwyGY6QGDEp8pzPzi1xjKs4VXuA68wTxy7RuntWNHREYFIHS2yc85ks0qV5CvMIMwOcP0qN3r/vAPjwuP8fTSlxlIJa4gnA0TvNgPowXhGGSEmZzRbh9yEEydQ9HZyk4Ob+B0MGJnBAh/IEwnchqYP5a40nhejSejK2zWwZSV9aVFKwkxJ3hTjGhHoSWu3r65Dy8DZxOuXgwCqdRVMQMjIHUBVMuQvtBq59EzH77fgGEiUC++EpvIPaRuqCesdGxn6zWlt8GQkmzBm/fwXGyojhv7LG5hSVo77D9vG+qi8Dz+xeFwibXAvFs7dF/AmqQP4BhUk4Kodh8wdu37PbAgH2kUSC8lImMfRWJJcqGZQNBeOnPl3+AkcQD/CuIKVOmmkHfD/QUuKrRDoYAAAAASUVORK5CYII=",
     "wiki_name": "Warrior guild token",
     "wiki_url": "https://oldschool.runescape.wiki/w/Warrior_guild_token",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1385,
     "name": "Staff of earth",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A Magical staff.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeklEQVR4Xu2WPUvDUBSGe/5BpixZsnWVgjg5iIOIUBQEqUFoFW2hHxi1WpVKLUFbFCsYivUDChWlqBRR8ee9cm9I22Q35w4+cKac4eHc85FY7B8WCKNgh3CSSaJVTKF7tMEtRUjNTqFiLcC1LTxVt/B9YXNKERanEyivzqO9u4aXWhYfjRI+m9tcUoSZRBw7K3PolNNSaHBWxLtTkGIMUoTJuImKbePRdaXQaz0/DPF9wjSjl3quG+h1bqVQ/zSH+4PMUCZiIUJtU5dCwdFnkREQHo6NoZAvEbHMqAplS8OgGZQJZ/8xBCeno+8Y6FYNtPd1XpnskiZFvq5MGT/XQoJlkgSEy5KOt/NgAzNVR0Do1VibdxzCzZ4eaOBwRsR4y4/5icYh2cTKVId514xDcucoIxOeqnBGhHg3ShkZsQAVaWLCYVpTpTqE9aTGfTB9vMMptrE4nsxP5cmIvrmrsD8VobCsoZHX1amOnfKEFKiOjxL/NkF8EQ6ZXwicNp927N7AAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu2Wz0sCURDHneMe9rAH754jokt0koQu0UEoysIUhAqJCk2t7JdYuab9sigp6FBEUGDXTkWHiKLof/rWe8uqu3d33qEPvNObhQ8z82bW5/uHBULrsEOoJuK4SS3gaWudW4oQGwjCjEVxl0nheaeAn4tzTilCuL8PxckI7rNLeDW38XVyhO+zGpcUIdTdhY3xUTRWsnjZLeLzsIKPalmKMUgRegIBJBMJ1ExTCr1XTLyVS/KI+96/e/dXHYZwmTFQ369KIVG2x/xyU8ZjIUJ6TJdCzqfPIiMgHM8bTSFbwmOZVhZmhjXcrjll3NEdhpCb0HGVM3C6aGBvVueViYQ0KfJQ8MvTKPqbQu5oDyBsxnVcrzobmCk7AkI9zdq87RBK07qjgd0RHmMNP+YStUOyiZXJDvOsaYfkzFFGxv2q3BEeYu0oZWTEAFSkiQlzYU2V7BBGghr3wrSxFqeYxmJ5MpfKkhF9c5BkLxVhalBDPqqrk53EkCWkQHZslPi3cWKLcMj8AjYRM0aLZJpJAAAAAElFTkSuQmCC",
     "wiki_name": "Staff of earth",
     "wiki_url": "https://oldschool.runescape.wiki/w/Staff_of_earth",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 3238,
     "name": "Symbol",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "An alchemy symbol{{^|No period}}",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xs2XjU4TQRSFu2/SR/D5lBgtUYIiwUAwUYJNJbZIqhACBS1Jm0JBjLFK4+uMnN2c5ex1tt3dLoSbnMx05s7MN3d+dlqp3H8LnF+++lu3wH1pPHbt+lyonfeP3PbGw1CE6O8vud7eC3eyu+iBspOYGTwCIhSAKAvT/bzgjj49SwyM36izSkLlggzc3ocn/0EhBQhFoM72vNv/+DT0ReoDgr9Cj4cN93vwrhgUgZBndAj0tf08HmQSENpdndXd3+/Na7VCILR5UK2GsqMbi8LOWRMIgBYIvi9rtVDIHzRrXqDBwasEEPIEsqMbCxLLAAhubvxWIIWZBjTsrJQHxCihLAsQltECXRwrUDMfEDr0AWHmviWj4JcGdPntdQLoz+nm7EAoBxChEElGaRrQj+5quUBcSgXKsmQog++v3noMND7fimFyA0EaBQJZGIUikLYb9d54gezoKRbtCcxWgRRKB7MpIqlALC8IFN1BiBCAtFPtXFPmtdy2SwDJpWhHNxbNToEYIQuBFD5pEL7fpQARyu4lSCOIFAdAIdR31H87O5BGiYPrzH15BUIeJ+zscFmAWjFMJiCcEB+QnXlWoR0+GxqhjNGB3QARys66iNjHzEAWhB1bTavT9rypo/qpFgERynbITnEPoV43MVJ9C/na0i/HPZQNyL7+WE6VCoRTlgaE33ho2XIrhbblgCkEpFAUBgGQfXZwMAp9wJefGAqbGndQ7ntIgXjaOAiAkOfzVoFQxg8rfXEH/TxZi499ISBdNh8Q6vRZokD8sCI6JQDBksc2TfyLpECAtEC4FBWIygFUqfBanyQLqOL+QXRKAcpqFjILLHXje0dmIX2ybe61/QOPO+ZIoiTRPwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjUlEQVR4Xs2X4UobQRSFkzfJI/RFlFo0lWqLqO0PoSApFIpvUKSFUikoIqVSgiUEQ4iElCJFRJDiH5FS0tQ3mXJ2OcnZm9lkd7NKLhxmdjIz95s7s3c2hcL0W9H55fv9zq3o6u/nXO3dw0Dftmdd9e1MIEKcf1l2Z5+X3M+DJx4ou4iJwUMgQgGIsjCn+4uus1uOOMYzfrOKQqWCLLrGh0dDUCgBQhGo/ansmh/ng74ofUDor9C99qbrNl9kgyIQ6owOgX7sPe47GQWEcX9PXrp/ndfu9vubAAhjHpRKgax3Y2HYuWoCAdACoe9WpRII9dbOghfo4vBpBAh1AlnvxoqRbQAEgfCsQAozDujy67P8gBglOEsChG20QL+qAyAoFRAm9AGhzbdlFPrFAV0drUSAuq2NyYHQrkCIJKM0Dui6tpovELcy7ZahDX1v6mt9oF77VR8mE5BGgUAWRqEIpON+H697gaz3GAvPBFYLKHXOFaszWyKSCsT2jEBhDkKEAKST6uRasq7tdlwUaJAUrXdj4eoUiBGyECjRJw7C95wbEM6Rbh2daQRR6nmzYH8az/MFonNdua+uQKjjvOHaIBCyNGESAeENIZDdNl15UmEcrg2NUMLowIaB7KqziHNMBMSPLt/EVuN+0/HM1OHvY200ECfFuUD0bNLUbyHfWPZLkYdCIEL5JkWbvVTZTt0bEJ5xddh2qzgowqQCwmuvB9uuHEC85Sk6037YVsJTONTIQanzkJ4jvvq8MOEEdX7eKhDa2I9AyEH49OBrnxlIo+QD0s8SBeLFSiDkoAmAYNHXNk78i6RAgCQQo2OBqBRAhQLT+ihZQJVuVy5ASc1CJoGlBn3vySykT3bMVNt/UqN1OjTDDVwAAAAASUVORK5CYII=",
     "wiki_name": "Symbol (big book of bangs) (Combined)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Symbol_(big_book_of_bangs)#Combined",
     "equipment": null,

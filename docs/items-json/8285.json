@@ -1,7 +1,7 @@
 {
     "id": 8285,
     "name": "King arthur",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgklEQVR4XuXXu0oDQRTG8eQ50uwLBGx8BKttrH2FYGPnBfGCFmphowSUoCiiSBAV2WClkCaPoFgIQgjJI1iMfANnPDlmJ2ucmV1w4c+G7OX8mA2BLZWcbGVlz8smh3zXuthSyfmmejjbUPen6+r2ZE3dNFZV83hF90fUz4HoqbljHXx9tKy7qi8NRaCpKJoEVVaPl9vWoXzYe78/NiegrMOyFAw0P1fVye9lQUCEKQToLTk0AfTa7VpzBpI3pgoLiioVvZfHZcFAlDwuCwLCoyociFCdj4E1ZyB5Y16hQPw/CKCDvV2dPC8oaNDrmT2B0mBeQHwgELmC+LCFWs2AKAlCdy8zJmcgumEapjr9GR7Eh/wGhHODg3g4hp5bic7bCtEgNBvHQysjPxPGK4iiQXJleBzUaEcmZyB+Uw6iVeGrExxEKIJQHIRz6PEGB8nHlRvI9jvK5ZFlAcnr/hdIInj7i/HIvIKw58NwHr3TY3BaTkCjhuEdH+F9X4Zr0wImK+gL4NwZqiH2PpkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABo0lEQVR4XuWYsUrDQBjH6yN06CIIHXyADnVw9Qk6iGMRRQUVte0kikhRRChWKVUxIloECz5ABxfByaVQFN3cfI6T/8F3/fxqzmCTS8DAjwu5y/1/+S4ELqlUKMeIshPJIUP63J9W1F2jpG5P1tX10aq6qq2oi4Mldba/qJp7C8NKDQaCzs22ajfLOrRVX9Oh3uGyCT3enTPUd2YNJJTLZv8i1X9ahOJpZSgPe3p7/5VQhIKGBcGZ0PTUmEZelzgRIplECD17ZQOEHnovVkITkhMTiRXKpNO6lf0SZ0KE7Jc4EcJSJU6IpFq9DyuhCcmJOYkS4t8gCG2WNjRynFOh127XtCTkJxaJEA+ERKxCPGymUDBChBQC5485Q2hCNKGfzOj4p3shW3VsQhjrXIiDPtC+9DSRVYiCwGQ+/60y8pxkIhUiKEhWhsOFqu2MITQhPikXoqrw6jgXIikSIbgQxtDyOheSyxWbkO09imXJggjJ+/6XkJTgVIoTPxKpEFoehnHYXjeq8zrYj6GFalvFgTDs7wH+amC/j58NHNzrB2SCCn0BkMJrTBEfc8cAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

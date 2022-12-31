@@ -1,7 +1,7 @@
 {
     "id": 8584,
     "name": "Large teak bed",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu3WSUvDUBAH8PYbeOrFS8CD4KkInjyJiAdFKAqiorigBTcqdd+o1qW4oLivqKi4IyrigiB+sr+ZwEj6Osmzoj1IBv5Q2vDej5mXND6fV155lbHyI7NxLT8ONqPYX+/B7moEW8vd2FjqxNpiB1bm2rGcCGNxps3KfLwFiYlmTMeaEB9tQGy4HuMDdRjpq8FgtNpKf6QK0a5KRDpC6ApXoL21HOGmMrQ0lKKxrsSKBuXH0XZvCsoJZkc5wewohtlRtGfQMJxQfpzuD+B4t1+EMcoNxigJJnVKCzo7GExBOcG+M0apU3aUFnR1PIKLw2ERxig3GKN042OUFnRzMpqCKi4MfsFCZUViGCV1SUWlBbo7j+H2bDwJRiDulgpRQU6jozUoape0oIfLCRHF3aLNeXEOfec2OvV6O0oL+igw8G7mLd/Ai5knM7TIfdCw0lwbEqN2zJ6F3AASOQFMmYmZGTMCGDKyrPwpaC8vGztmNkzAqhnuHoHo849Aj9eTX2OjRWhs3GoaG21gv+t4U3VsNDL+jcemHm4amxb0dBNPQVHcHgX0CFBBdI4YRIdbAlHSBkmHWwVJzyWnu039v9OCnm+nk1ASSO2SBFLvNglFSRskdUkFOXVJh6JoQa93M0koCSR16ScoStogpy79BoqiBb3dz2YMRdGAqNRXzL8NYTQgn48vylTU/b3y6l/WJ4quVmMVZ+QLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAUlEQVR4Xu3WS0tCURAHcF26aOEiaCmtW0QUgRRIQVRkqJRIloS96IE9RItCKkp6IGWFvYyKiAoKok/4r7l14jQd81wzF3EHBi5yvefnzNxBm80KK6yoaNhRmdQKO7LbUeynh5HZjGBnfQhbq2GkUwPYWA5hbSmIVLIfK/EAlub9SMz6EJ/xYm6qB7HxbkyPdmIi2oGxSDuig22IDHgwGGxFqK8FQZ8bAW8zerubjNRE2XG0O2IaZQYmUHRWvctVDGXHyf44cpmxkmDFUHKltEHn2QnTKBlWCMXbpw26zE0jfzhVEkxVKV4lgdIGXR/PfEE11tV+ojzuBmUSStU+XiVCmQbd5mdxcxb7hBFIVItDZBCfKVEl+r5IuUraoPuL+W8oqpYAyQdQ0mdy6+Qq8XtllDbIma+B8/Qtc9VG0kOce9VG+rs8yuQVk9MxWQXH6EcOv2X4PUsGOQ/eMcVAvBKiegSi65JBD1cLX9pGDxMDTgdwjABR2+Q5EiDVCqC2aYMer+MGiv9aStUaoBXA54hQAkTDTdccZRpEVRIQ1W5S7SXV2yaGm1dKG/R0kzBQqrdNtSx/WpR8L8ko0yB5lviyJJTu9i6E0gY93yYNFB9uQvG2/QZlGiRXiS/JcqC0QS93iwaKt63cKE0QBf+r+TdJGE2QzSZu/uvk51phxb+NV4EtmBEtPkE6AAAAAElFTkSuQmCC",
     "wiki_name": "Large teak bed (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Large_teak_bed_(flatpack)",
     "equipment": null,

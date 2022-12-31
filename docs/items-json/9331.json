@@ -1,7 +1,7 @@
 {
     "id": 9331,
     "name": "Silver bolts (p)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Silver crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYElEQVR4Xu3WUUrDQBAG4Ow5+tIjeAfv4QlKn0QoKpRYS2kNhoopGEpq0ISEFGLqgqDi0UYmy25244O+ZMeH/LC0Gyj9mMxs4jh9Og+D9hXCMDiZHoOJIgUyGI1Oa9DRcFh//gRaCwPPC2AwEBBc223aAloLgyx7heXyTmHK8h1WN/cKYx309FzCbOYpUJK8wGLhU1RHhsHF5bUCRVGmgAQgBvv9G7juSoHiuFB7ElAYJgrD+RdsNo90/VNVHzCf3ypQnnOjodu/6DgMdrtc+3NzTwLSx/1w+IQgiOiqg+OtVwfPo8lkSgfC01kH4bgT3S7RvDoGm5to1EW/+P6DAUrTiqI6DIoirtd4fGaAzNtnJQ1mvQ7hyj2vAfK6Cew8DQa/c56rPS58VEigJRCmec/Bs0cHYcUk1iIII0YbHw16xbDBiUAYUSm5ZFMTghxHjrY54tZH/vf8K0yfPn3+kG8XBGCR2ERNFwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABF0lEQVR4Xu2VoQ7CMBCGW4mYmJgkmUAgEAgSAglBITAIDA+Bg1fBEvSe8sjfcezaEcDsbmJf0kAblnz57+9wbqBzPKUnhnhaTTOKpUwFPc3KURCal2X4bAuq4Wk7y2hcuJeAp908TwTV8HRY5iKNeA8ZdaH9IhaSe2UZRvbFXMjTcV18HVn6RMfUibDMaVOEQpv1BwIyHaSFG2eeDr975N5EiNP4NK701x1Tl1emg3EtJiYvQ9Ck04Nx1WlIGVludRmsuCvx+BSFPD0et7DirqTjU6GRQTrXyzkI8LlymRsZfK+q+3uPhXGxoJIQaP44MR4phMRYVlEItIVwZigE6qR4cakNhZzjqx1fcfUr/5teyQwMDPzBExIBGcN34LjhAAAAAElFTkSuQmCC",
     "wiki_name": "Silver bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_bolts#Unpoisoned",
     "equipment": null,

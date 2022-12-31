@@ -1,7 +1,7 @@
 {
     "id": 11099,
     "name": "Head Guard",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2016-01-07",
@@ -25,7 +25,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": true,
-    "examine": "The other guards won't be messing around with this guy about.",
+    "examine": "The other guards won't be messing around with him about.",
     "wiki_name": "Head Guard",
     "wiki_url": "https://oldschool.runescape.wiki/w/Head_Guard",
     "attack_level": 75,

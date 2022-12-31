@@ -1,7 +1,7 @@
 {
     "id": 9950,
     "name": "Hunter hood",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "Hunter skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACY0lEQVR4Xt2X4UvbQBjGvX9inwt+GAwEEYpIKViKFGkZFgulSotdqRVrRVfcRGU4RBFFFBlj/+2rz4UnuaQxJr2kwl54SHJtLr973rv3krm5/yuUePqw8CBGg68y6FZlZ3vto6CUXF925fKsLafjpoxHmxqq16lIu1maNZSSh5tduf39Ta4uOvLr57b8OGrI0bAu+/3arKGUPN0OtO6vehMuEYqpW8zlsoZS8udhKM93+z6XAHV+0nLBMJ/qtZWsXXJg/j0duhBIF0CQMjqEuQS1GqtZu6QmYOBIEAYpQzvStl7OZ+WSkr+PB+6ciYKh0M60ZeCS504UDOaOCYX2YmEhbZccGLoTNmcIY4pQOJ/PfUoTyimCpjuEaTdXpLtVkL3uqhz0y29CpVgG/KmCOwDZqC5JYyOvgfqdogt0OFjTCgPjqgs+IWF4WwRACsvzUil9eRfo+7AiJ6N1tyYRKgWXlAZp1IuSX8pFApkwBIJOj6u6HXCECj4lZiidJowOe9M0QICBcI2FYOmS0p1wF48DFOYOpM9fFwP6sgLCJOarhS0Q+kI/Fu9MHhCsjgtEGAKdj2vOMQA0hUseEOZREKi1uRwJRHeCQEj/zIEIEwTCirUGYidJgFyI16MJxMFlAgQYCtsHwFgcTTACoYSYtWgqIC5VApWKn33uULw29zUIYADia6657K2BAFOrLOqHR4luUQCj0xbpQviBAIOlDgUhIP7GcmDKLLCpAXm7dTKhD7rDz6NUgZj/OML/OZFRELFJWwAhnN2eo0v+aRN+vwUQwp8Cb/Rxw/b+kJhMRbKY5v4XNxww5vrSVzYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACF0lEQVR4Xt2VzUvDQBDFs8cecsghEAKBUKQUEfHiQRAEQVAQQQ960EMPvRQUCgoKiogg+F+P+zYdd7P9yMduWnHgUbpNJr+8N7sNgv9VgrQ2VhriJo3pKonpIok2BSXocSuj+zylidQoS36hzuK1Qwl6HWT0LIGm/VRBjSXQnQQCFFxaI5Sg90GuBCjbJRMK1+7leddQgr6GffocFkBwCVBwClBwCmCI7igKu3ZJKJDv7T59pCG9Sb0kIT1JTaUe4pAmcU8JLp3MYuvQJVEJM2ZJlxDbQXcuFVFVwYwiDYXoOLYOXCrcqYIxhTVEtxP2fLuko1oFczuTDYYBj4LAJ5QoRWXCHPYCpeMwoNNQQ9lgfC55iG4+KoDsSoh9A4aBoPMlYLzr7Cc0LO0OQDJp/UDKBmIYBoIuo+IIMME8uCRUUzwAMFVADMNA0HVU/IaYGcp+Ss0SKiY0QeMmQAzDQFjD7Dm6JFQT7CJY7gKET+7lBIQhhtVo1AYIMAyEXuiD7y1j00Cwui6Q7Q7LBmrhUjFDfxKoyQytAuJjwAmIm1QBmfNjgngFMpuYQAxj/nVUgZnxewNid0yYZWAMBxic9Pa2bw3E55AdlS1zncEYzkNcqPLByDAsE8SWDctROewwVBkIM4G1plrUwysQ519HuB5RsTuYKQcglCgBYR6KN69bi+93AEKVI9BvX7dc719Q81E0qzb3/wDaug9/pGOanQAAAABJRU5ErkJggg==",
     "wiki_name": "Hunter hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hunter_hood",
     "equipment": {

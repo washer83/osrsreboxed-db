@@ -1,7 +1,7 @@
 {
     "id": 4310,
     "name": "Ham boots",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-22",
     "duplicate": false,
     "examine": "HAM boots as worn by the Humans Against Monsters group.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACp0lEQVR4XtWWPUscURSGZ/7BVNNMI6QICIIIFiksJAQLLQJCxICBJARBDKhgkSJgkcLCQghYiIUgBAL5jzc8d3hnzpyZcde9i4sHDrs7O3POc9/3fkyWvczIQz8XFnn4We6Gi/JD+FXuxU9+LwiwhjkvdiLMVXkQLsuPHbAfxfuYzwDVwpCA/C4/h+vyUwNG8r2v1tyVy+OoATkutuJ3mt+UX8Nt9a3Ju+qwUQfVpOKcre3CHBZvY2Ea+eQ69wCgeYaCUlFgqndabM8ClTd2WFt8qpFgaMg1/kM91MRi2cz/1F5dWorpuz4SeVNoLIGUIkAxcnJMSe5BSQH5jhMi78wTm4zaqjNJRVLqYf2MQEQeHqrjTgJk1UERrMAyb7EABY46X4rNNKB/1VnMP9X3cF8dNeoAQBNGDKSu2QRIcwtw7j0oNlKAiBpqTJ394k1sACjXUUO7uV1dUmc3W08H+ludjKqzk63FBuxFsk5Q2oOsOrp/rkA0YoLSYCN7HRtgqawTiI4Uq867bCUdiGYogF1ShyYALWdVbKAFIOsE49XRAJKA1EjLlyYaMQ0EJXBZN6TOevYqBagPY48SJjSjVhNrrZ34AHFvIlAN4+eFNjeaYINUsrbZZ3S/h38iULfw0H6iUQOklYNCdnvw881b7LuORAtDUQ+kOUEDjZpnHts8/ZyTQlOoVMMwMXVK21eIIbtkldTRatQmqTk3BOS7D0QeR0hRHaICorhdwtqhBSN1eE6rzG+KM+xDfSCp5O1qi9bL3SprD1QBWXuntEtRv3ZYdbxdFsZa5c86a5cUfSKMon339edRt2itjqySmrJLg7CKzgBTh21qs1u0tdjPN2tX/7nEULF+0dZeAWl1+dfVucFMjlY9u18lvMynx3T2LijG7X3h8R9dyTMsF985UwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4XtWWUWsTQRSFOz+hD3kpCCEPeSh5CGIeUiyESouVVmoJUUIsJbaW2lpbozUqIpQKIoiCKPhrR75ZTnZ2dtumu8HQC5dts7NzvznnzuzOzNzMMDadUwtj2+0XttM5tI+fvHJX/p8SYASz/rDvYJ5undpeb5AA29zcc/f/A5QZFSO73RP7bOeT3d4ejsC4kmm1Jq5cDLNyv2s3NnYcwPO9M7u/f24PDr64PHz51d1jPMAkgFxRkDkmAGhckbW1LQezvNxxE6NMmFjGGAD4Gyv7/Y8uQzAWt7raywNlRlYoQxCS4oBzpSALoDj3UBE1d3c/O5tJ7jN3vVx2GVa9JIyb6LLEPikiGFbPbyE4CThKCiiseEUY1xtZyap9dQDzmzsEIYEEeGmpnReIMHYw+JlImhjppQ6K0Ctq5hCOFDjqLC6uFwN6/+Gvyzdvf9mjo28pdVqtR65X9BsZwvnqNJsrRYAIY4fDP/bk9Y9MdVQAUH7XSS6wUJ3bd1rFgU7f/bbHx99T6rDiWq3pCqAesNzTK0anuK+OxhcGkl30hIpQoFyuugJYioL0k0DIUJ1qtV4cSP3DVscGDjcOyoWFB3Z2tuQKaAPQT0BzDOgo8NWpVGrFgcJC4YpLpVuuiJTEOsCz1JmbqxQBSsOwYtRhd2nVso3mV69pPI3P2EbjXmJsDqAkjN5FsoBVY5nfF3rG7yWNZ2y9fjevZTEMu0rfPnqJCgiFAKKQFPKPB9mGolm2hVUviBjG/+5hchSSXawYG3Su6PDEMp7V6R3aNj/fGCk0hkoRDO8rJmVXMbFUYnf5dlFAVtHQqMOzPCebtSN5JgQKq2eEcZOyU5Cd5kQloLAstEswWMVCUCc8zf0eQs1rAzGpgKQSBZjctyueNDqnpE54mssuFqBeG9MuhUmow+Q6DKWODyOrWIQW4Nulc0j2XhNGEX/7artrpclJo56TVSxCzSy7dKIXgInCL+pnctLIYm0CKerb5X+Q5YYJQ5OlJzWJ72bU0SeI7Jo4zNURqweMb9cUYKIYz94pxcX23vD4B19xjKVbZXYfAAAAAElFTkSuQmCC",
     "wiki_name": "Ham boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ham_boots",
     "equipment": {

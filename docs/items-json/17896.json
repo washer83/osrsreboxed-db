@@ -1,7 +1,7 @@
 {
     "id": 17896,
     "name": "Pipe",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-02",
     "duplicate": true,
     "examine": "A spare section of pipe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUElEQVR4Xu2UvWrDQBCEfS/hxo3AhcEQEAERgpqEFMHgwoUhpEiRN8kjpPfDnpkLI6/Wtrz3E1c3MEisvKNPu4dns6qqqrvK+bFLKSnX+c/dk99tHv37y9q/9quY5gk5/7V/HtmY+weEhv22G4DaprE0T8j5749+yCWQIdeFhvMJ5RtA0qiZgbZvbQDqu2Vo/vk9ZJnT0SszAWE6Egj3NJ5JA57GqqU1gHYUEAIBACCAlYBiDRm4moE4HZwfAtHXwCxQup4MhGsJKF0zA0mYrm3CPZ0DpldtBiIMgWjWOLVYQD7j781AEgJeNvPgh/VicAqkPAoRf7gnIL6cQFNgEu7aiuVRgM1A8oW3gKbANJw+ClFAaNIgViANJeGYix4zkAYoYU6IRwG1ZCDUSpirSgJCowRCY44lkM7VBBc0/rJTaK4ycs+/sIz+K7eqqipWR5pc8fbF3AygAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSElEQVR4Xu2SywrCMBBF7Qe4cCGIIBSRItKFiCCC0EVBXLjw/38mcitXpzHWyUNXuXAopJ3JyaSjUU5Ozl9TmD6pEtS3MJdmbZrjyhy2C7Or5z7FAynMtd30UPZ9CKGgPVVCKJ7buX72pdC2LI1tYKXoCuSE8CSn/fIJviGoITgQkROBkMRLCBtCoK5mb41CcV2ZSggnlkKfpjI0GXs6Er7zFsJ1QcjnumwxlwxRC3E6FIr9j6RYMiESKxYkhM3QGDLVcto9SYwckO/UQpwMhcrFpHsSl6BGDnD6QC0kNwez6bgDYsQlqJme/B28hbg5hbRiQ5OjDL5RC8kNvwlpxQCEKIPvvIRQZItohWwpgumwL2rUQrZACnh9nA7WgoWwlgIK8TfAmlqIp5CFMaAHpuTqaxs40j/Zq2lsIvq+nzBNftU3JyfHN3fXqsPqFLoNlQAAAABJRU5ErkJggg==",
     "wiki_name": "Pipe (Elemental Workshop II)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pipe_(Elemental_Workshop_II)",
     "equipment": null,

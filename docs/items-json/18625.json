@@ -1,7 +1,7 @@
 {
     "id": 18625,
     "name": "Warrior guild token",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-13",
     "duplicate": true,
     "examine": "Warrior Guild Token.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA7klEQVR4XmNgGAWjgPE/BA8KwPjfNMT5v4GPNdRRA+owxv9rZkn/X1znCsbT2sT+NxSLDZTDUB2DjCc0iP2vzBGgp8NwOwYdF6bS3GHEOwYd08hRjP+tE30wLCMW08BRjP+PbFD4v32xAkkhtWyqNNgxBgoKYIxuKgWA8f/1g8r/T25RJtphC/pp5hgYgCTSy3shjtq/GrfDZnXS3DEQADEc4jBQaMEctWk+xGGgdAYqMOniGGSA7LA9KxX+71ymAHaMUYDDfwVTLbiD0PXRHCA7DBnTNXSwAZgDkDG6mlEwCkbBKBgFo2AUjIIBBgAoQTOq/zscogAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA9klEQVR4Xu3SzQoBURjGcedOXILLkIWFUkpZkI2FxSwoyiTfTRPlowxlhgwLJRYWLFzaqznH6Diokc6MxfuvZzdmfr0JhTCMANtfRKCtDUApVe+oQGEEuvoQjLVNV6qokM0XgoI9Y/gVlTKkMzk/YZ8x4hLJlGyYd4w4SSgCo+ni5WNeJwFFwLR3FPXNpRodnWIi4TCd+NYfInA6X2GzO3qGqc2eLIwb+5MeThdYbvdgmPZHWKXWlI1hsZczmHOtmbWF8cyC/sigMAdYb2n+YPh4mHOpyXxF51wmGos/QOLvpMfD+Pl6nXe5AH7iMxiGYRiGYQF3A8FIYxeA3S3MAAAAAElFTkSuQmCC",
     "wiki_name": "Warrior guild token",
     "wiki_url": "https://oldschool.runescape.wiki/w/Warrior_guild_token",
     "equipment": null,

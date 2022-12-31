@@ -1,7 +1,7 @@
 {
     "id": 859,
     "name": "Magic longbow",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "A nice sturdy magical bow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABP0lEQVR4XtWWsQrCMBCGm5dwcSk4CILQ93BxEAfBRUFEcBAsWhRRFBwE0UEcfNjTvyFcczrn4geFmgb8+HPJJUk8DPm/VTHUuhzISkUhZmib55ROR9Q672IQM7QvilIK781iEYOYL1Xvd2MQ86XwpOMhNfK5EAsq9y3liR031L6fdaWyNGWx+aSU4vFgGNqtVuKPP7U16JVJKQgBlqqOYfna11PoZXNIKUO1bqfcgaopSSmklL1ueimhyKUUail7XiOTWswoe1x0pfzasUeBwtnkYKnqGFqN6s77JYWHrzHB+S2FmvKXNChSyi6dohD4lnK9zp8XDHvbZCm769RTkjeD5n6tmRKo9ryP0HapnRJgKfQ6JyVnBYalFG8EErvz0HydlJyhAEtFkhKwJ7eTkl+VsLsOCUWSUpJEJfPXvAGVczbs9tEFdwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQUlEQVR4XtWWvWoCQRSFd8ottvANfASLQNpUEsEiCQQbCZH4w4YoFilSpEhnERAsBMEuL3rleBln57r1nMkHCzoK+3HunZlbFBFO4u9UnGwnHVGpLMScfEynUvdL+X3JQszJuq7PUvj89VTlIBZLDW9K+XyoZDOumGKxFJ7XuzaxpHLXUlZsP/PlTEYs1et2L2JofJ+WrifDyWo+Ny928nirSRGEQJBqrqF8u7fkZfNYKSf3vfJ8NFBTslJI6W9FTAlNbqXQS8f3zKTWw0oOC7JU3DtOlgPK2eQJUs01HAfUndcmhSeMMclpl0JPxSVNipXS0hGFwLVUmAwo6LQZpPQCpqdkJ4OfETUl0LzzghAxJRCkcNd9P9NTAkGKOBFYdOdByEvZfxBQKeJ02Yae3F7K/kpCdx0SyiSloshK5l9zAkNvJgxGTcTfAAAAAElFTkSuQmCC",
     "wiki_name": "Magic longbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_longbow",
     "equipment": {

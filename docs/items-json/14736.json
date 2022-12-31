@@ -1,7 +1,7 @@
 {
     "id": 14736,
     "name": "Rune sword",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-07-26",
     "duplicate": true,
     "examine": "A razor sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABd0lEQVR4Xs2WzUrDQBSFO2+QVTfZDLhw6066ECxSXDQUg0EJpcXaRaCoKGpJ/aMgvoOoTyCKUlwoKupKVBAfQAR9kSN3gk07qLvOnQOX0uYGPr6TCc1kBh4B/RemEIjA7FKsPvWrhiNQqi8iXNlUQ99HpOSCEihWI2WmtrHXhWECEsgHFfjRMirNthpr7FTjXXvslNd2uGEoqZ1eIH3LUFI7vaeKFYjsBAtNO2B+s6NvGUxiZ7qxao8deitbAZMr+soO1WVFVWTHqzXssTNZrvedLH3LYBI7VJc1dgrhnA0wFIFxP1R1WVEV2aG6mO0kf0dpxkoBP0znXOLpcQijBU/VxVyVwMG+i6vLBIrZDkVgeyuLk+N+KH3LcATm846CurmWeHlmhRIIcw7WPQftmSzOTl3c3Uq8vbJAJTDRhIPWlNM9aT9j+FkSODp08XAv8fE+3AfQO/pdA0wCdNGR+PpMgfQtgxFoxY468gz1/BWWZ+X/mIb5BtC9OGdApeMeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXElEQVR4Xs2WvUoDQRRGc8sttkgxsAiBRYIEEQmyIIoSIQgpLAwEfQEbi8A+gIUgFmIhFoJY2Fn5A1aCjQ8gVj6D+BifzAyzmb2o3c6dA0NgcwOHk5ndbbUah8CvCKFFCLubXfPJvw0MYVh0jIwT6ue5lBRh0O9gZ30e+8NeJSMkRFhbmsNoNcdka8GsaOr4MkJC9TrCMppZnSg2sqvjy4gKuTpRyPxWh08FJNI6Ucgsd5Wp4wvxqYDYOvqZFVUdf+/wqYDYOloomjpaKAIZDaHoZbU6fCIg0dSxr6OujrjM04nC+3Vm6vhCfDIQhMtpGy9nVkq4joZQTlLcHSm8ns+k+FRgCOOVpJL6uBGVIowWExxsJCi3U9wfK7xdZPi8tSeNTzeMldkrEhwOkuqkuRV4LxGuyrap8fVQv+/4i/+qQazQ86nC92Mkd+XpODVHXuDv+QuRvfI/oWV+AFrbF/MNY/xxAAAAAElFTkSuQmCC",
     "wiki_name": "Rune sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_sword",
     "equipment": null,

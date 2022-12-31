@@ -1,7 +1,7 @@
 {
     "id": 1387,
     "name": "Staff of fire",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A Magical staff.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABe0lEQVR4Xu2Wz0cEYRjH9/kP3tN7eS/DHJZhmVuSKOmWiC5JJFKUGCqbxMpSkUQrlWJZllgi0d/QJV3SrVvSoUOHJB2+ve87Zndm7s3zHvrwnOY9fDw/p1T6hwVCL9ghXIce7vp8PA+WuaUINV+iEyrca6EXLfQzWuGUIkRKoF1ReOj38TZUxudIgG8dTFKEGSnQDBQetdCrFvoYDmx88UgRxkQJ1SjCRaNhhd61TBLme+h5xUu1txVapydWyJTtacDvyhQspJt6Xlqh7OizyBgI55uqK5RIFCzTy8LatMDVXlYm//qPIdQXJS7rCs0theN1ySuzMCGsyM2BZ+P20EiwTJKBsL+it/JOtoGZsmMgtGqszZuGcLQqMw2cf1Ew8fJjLlEask3sTHaYd00asjvHGZn8VOVfFEh8o5yRMQvQkSYmbMwKV7JDmBsX3AczIT6cZhub48lcqljG9M1Zlb1UhOVJgd0l6U52oqlYyIHsJDjxb5MlEeGQ+QVJ9DBTyBkMyAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu2Wz0sCURDHneMe9rAH754jokt0koQu0UEoysIUhAqJCk2t7JdYuab9sigp6FBEUGDXTkWHiKLof/rWe8uqu3d33qEPvNObhQ8z82bW5/uHBULrsEOoJuK4SS3gaWudW4oQGwjCjEVxl0nheaeAn4tzTilCuL8PxckI7rNLeDW38XVyhO+zGpcUIdTdhY3xUTRWsnjZLeLzsIKPalmKMUgRegIBJBMJ1ExTCr1XTLyVS/KI+96/e/dXHYZwmTFQ369KIVG2x/xyU8ZjIUJ6TJdCzqfPIiMgHM8bTSFbwmOZVhZmhjXcrjll3NEdhpCb0HGVM3C6aGBvVueViYQ0KfJQ8MvTKPqbQu5oDyBsxnVcrzobmCk7AkI9zdq87RBK07qjgd0RHmMNP+YStUOyiZXJDvOsaYfkzFFGxv2q3BEeYu0oZWTEAFSkiQlzYU2V7BBGghr3wrSxFqeYxmJ5MpfKkhF9c5BkLxVhalBDPqqrk53EkCWkQHZslPi3cWKLcMj8AjYRM0aLZJpJAAAAAElFTkSuQmCC",
     "wiki_name": "Staff of fire",
     "wiki_url": "https://oldschool.runescape.wiki/w/Staff_of_fire",
     "equipment": {

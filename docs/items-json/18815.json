@@ -1,7 +1,7 @@
 {
     "id": 18815,
     "name": "Salve amulet (e)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-01-22",
     "duplicate": true,
     "examine": "Increases the wearer's Strength and accuracy by 20% when fighting the undead.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtElEQVR4Xu2W30uTURjHPX+HN/sPqgvp1iAjECTIm6jEEG+iLsa6CCGJJSaaZWazXKa5cikjdQRm7iLzB6zMpkVmYmyM6fzFTLc2cfDN84yz3nfOzfft3exiX/jCtnfnOZ/n2dnznLy8nHLKiSG9Myr5ZuMOBybHx/Dl0yQW5r5jyeuF1+2Ge34ez1pb0VhTk0lABltXF1739sBht2NseBgfR0fxzfWZAPyLi9jc2EBgfQ1ry8vw+3zweTzwLCzA/tJKgA1Go1aAjCB44OH+fowODWFqYgKzMzO04arfj+DmJqLRKLa3txEOhej9r0AA6ysrWFlaouq5nE6MvBmkOB0mkwRQkRg+vB/BwzsNeNvXlyTD9I5EIghtbcUBeTV5YpVlZfT8qE53UCiG2elpNNXV4UF9fXyxUicC/vwxh1cWC3T5+cqB+MG8rtfLYBK/dRBJ4b5OTVGSCmPGqnPt6hVcrqhQmkkKMThH3uFMcbHSmLGFZ0tKlGaSRowOtYqYDIM2m5rfOY0YTHcb1cRkMDc3q8kkhRja7jfheEGBOqAqg0HNwn3EqPcUFRaqTZJRr9AGiMHy+JHsIKuIyajD8hLz16m9n2LPn5vbcK609F9guBiNAT4yeC8auFgdt/HkBfL5IyfIe6FiIL2dnQQj7cgqYYQYzSk+UJ2GFoKxl92MAwkosZkAGbB2w/q0nQaq+EwDGC6G38EgDUVXlRkT+uY9QNxiU94mRFXaW1pkIBrAcDHs7OzQdSJZdYRfVN6gqvR0dFBVxLnTEEQqRvec/YBunyqnzbufmKkq0qaXARiu3etDOEwwUiAOwl1+rIgAeFUSbwSJkTTU7gWt2kQWIAJGAN2rrc0WDNdfIGEpjPiHZQmGSw506/QlGYyAyBIMlxwoGcwhSD4uDhkmJgHxX8Achv4A10Xymq2ah7UAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu2W30uTURjHPX+CF917JUU33nQjSjFvuvFGDIIMdV0E0pWIiGZhS5uabqgTc8VIVIKs4Y02lYaZP7KsLMGYMebWLGGWulzDBd84zzjrfed++L5N18W+8IVt785zPs+zs+c5WVkZZZQRQ3IfqeSbTY6OYmZyAq9fzmB1eRlupxNOhwOOlRV06/VorKk5SkAGS08PHt03Y3RoCBNWK17YbHg7P0cAX9bX8WNrC77NTXzzeuFxueBaW8Pn1VUMm/sJsKG6OlWAjCB4YOvgIGxPn2B2agrvFxdpw68eD3a2t/E7FEIwGMSe30/vv/t82NzYgNftpurN2+0YHxmhOMaWFgmgIjFMPxtH8/UGWAcGYmSY3L8CAfh3diKAvJo8sdLiYnqel5NzWCiGdwsLaKqrw+36+shipY4G/PTxAx6aTDiRna0ciB/MqxUVMpjobx1GUriluVlKUmHMcHWulF3CxZISpZkkEIN9bAxn8/OVxgwv1BQWKs0kiRgdahUxGR5bLGp+5yRiuHOjUU1Mhg6dTk0mCcTQfqsJJ3Nz1QFVabVqFsYRo95zJi9PbZKMekVqgBhMba2yg6wiJqMOy0vMXyd2PIWf995tx/mion+B4WI0BvjI4L3ozWV9xG3nyshlpwrIB6HCIA+6ughG2pFVwggxmlN8oE5rWwhmqbw1AiSgxGYCZPBeH/oNBhqo4rMUwHAx/NzdpaH4qqoTz8t1B4C4xaa8TYiqGJqbZSApgOFiCO3v03UiVnWEe0uvUVXMRiNVRZy7FIJIxeieEw+oW1NJm/d1dlBVpE3vCGC4GAJ7ewQjBeIg3JWnNQTAqxJ9I4iOlEIxOPTDZAEiYATQzdra44Lh+gskLIUR/7BjguGSA9UVXJDBCIhjguGSA8WCSYPk4yLNMGEJiP8CJh36A+575wkGdolrAAAAAElFTkSuQmCC",
     "wiki_name": "Salve amulet (e)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Salve_amulet_(e)",
     "equipment": null,

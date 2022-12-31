@@ -1,7 +1,7 @@
 {
     "id": 24131,
     "name": "Combat path voucher",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-08-08",
     "duplicate": false,
     "examine": "A voucher, I can use this to claim rewards from shops around Varrock.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPElEQVR4Xu2W7UobURCGPXeSS/AW+ttS8E9LFYS2SAIl0tavqqkkpITQVJtYEw2p+E1FItVINKFULL2wKe9ZZp1MVmpxjAgZeNls9rDz5J05ZzIw0I9+3Hs46lZPozP5/NQ4ZRZeUz7zlr7kZ6i8vHDXUJ0AycQITb95Qem5BOXSE1TITtJaMUXV0qJXbTXt1w3GYlZQ0nZHYyNPKP7yKU0mxzrcQOKNSiYU7gEEOEMgR6PPhmj48aPQjffvXnk3vn6eo821LG1XP/orpEFQLqyDjMrm/EvhQGom7hPu1nJeAGEYBkk8j3Wp9GnW95KpS3vf8l4SBiAycZQrDLOUm7IHYhAJweXRMHINmhwOmwJJV6KaFiASgl1hGOw+U6B/9Yosj36W/ZD0MgRCuC5XopzRrkiZA0kY7QILMKyo74y2Poe7tnHhDMoVJX5u3tgMgl65qWRzG5fNhWcLS5cLijp/GAaNjTFjVLbAoZtIw6JUDIORY+RS0D9R0i7BHb3bGAbjBwPZwCUXnshastEBI+EYBiC48t8THiU6y39GsPWlACRh0DfcMwBAqeASABqHq1TfXfZjCIesQemCw1EfkICRIOwCxg0gzo4q1PqxTu3jKv06rdFFc4MuzzdtgPDLAKNBIHw+2i9Ss14OAX42aiFEUKIrAeaWQIhg+/OWPtgq0PH3ondBJv/d2vJX3AMMgBLCCAbh6HBniU4OVnwSBvjT3vYQ2oU7cCQqupPppNdJv8ksdKKeJO3HQ4m/z7LbayaW9v4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPklEQVR4Xu2WW0tbQRSFnR/huz+gD33xQR99CKWoFAkKQcW7WG8NKSHV1oo1XkJsUyRWEVFEq1hRKpRSSn/bljWnO91nZwIWt4qQDYvkZA5nvqy9ZuY0NNSrXg9ejqp1rxWffHywi2YneiiXHqD3uVFaW5y6a6g4QCqZoKHeDpoa7abMdC+9yw5TYWmmoo38K3/f06YmKyhpu6PniVZKdrZRf6rdu5GeTHk3Pq2kYwIIgNghIyBHibYWaml+UnFjpP+Fd2P57QRtFl57ldYyXhokvzDp74OM2ub8Q+HAy+Gkn3DrY47KxayXBMJYz7PGKi3Njfksmbq0U3rjQTSMnDjkCsMgV6ZAEkZC1GqRvGc+M+QdNgdiV2plRUKwKwyTne2zBdLB1TmR7dFj2AogQyCUq3Il5Ix2RcocSMJoF1iAYYV+M1r6XK5mcOEM2hUSj5sHm0GQlZtKhtu4ba6yt7B0u6DQ/sMwCDaOGaO2RQ7dRBoWrWIYvAUYuRTlJyTtEtzRq41hcAbiCDJwycVeKaRk0AEj4RgGIPjENUD5KNGz/GdFS18KQBIGueHMAACtgksAON3P08GXRX8uYoM1aF20OeoNEjAShF3AUXN2sErnh+t0eVykq5MN+vGtRD/PP9Ovi00bIPwzwGgQCN+Pdj8EAX5flv+26J8Ac0sgVLT8eUnvlxfo616eLo4KcYDvW94FXON3jEsIIxiU8zlAHuACA/y52g66cAeOhKp6Mj1pLeknmZWe6F4mrddjqWvIh549u5UWNgAAAABJRU5ErkJggg==",
     "wiki_name": "Combat path voucher",
     "wiki_url": "https://oldschool.runescape.wiki/w/Combat_path_voucher",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 2140,
     "name": "Cooked chicken",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "Mmm this looks tasty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKElEQVR4Xu2WwUrDQBCGu2+QUy699BF8AQ/iwYMeBEFBqKAiFRXBg4ciSoViq7W0WCxFBH3TlX+XP5msG9zEtAh24KdtZp358s+ktlZbxjL+RCht5Yu863MLpXv3d3r2MvJAKT16fPBcn2so/Toa6GGvqy/PT0VzpceDvrmO9yuNxiKglJ4Mn4w6N+2ksW2ujGsLArI7096O9HMzNq+t9Ug0tvmP2XQRQEpfbES6sxvr/n6sb3fibzDIH61FZrcAhM/pKCsLe9fXW5EBIQybEQbXANvds684z3yFLinjApoBhM0kDIEIg3MukFu1RFhXrjYj04RCI1xjXrpHGOxWxUDK7AEWVroClwADxyCcaa7aplzy8UEKVNG40sUlCGFwxwBCHkBcYEAhD5jJYRYoVamw++K6gruH8F6KgBDOAgbiDgFWuuh2CwhrvQRCU7pE1yhC8embHmeBUIuOAqwElEoWE4VQEIX5qFMYCUQo7s97q56MTEJLsIJQ1iF+n7A5dsMn5OgGQN5O6sYlmWMeNQsuuX108Yd0iUvKUbiSYDgDILokc3SMQG5nT2Rh6Aobo5lPsjHP0SV5EzwTCOSHcZtQeVB0gmNCLYxfPvqB47L/gwgj3ZFjgCSYBJROSDB3bwJgGOpHGCkXyDci1CrgihvWJd+oAPB5ZlUECgrcmbxQGRgfUAhUiZ3JiywQG7lAPigfxC9hGNmfFKGqGCIbbvFQuXWW8S/iC1mPbYHK3NPeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xu2Wi0pUURSG3W/iI/QoEZjhDRM1vOAl75oNWRqGoVJJapiZYYaIiAhmJnYhIiIqEzOxsqzeYsW3Dmva5zAD4zRKkAsWzDn7nL2+9a//bCYr6yiO4p8IJ0EmimT3DyyctNTXSO/FWAIoJ7G25gT3DzScdMc6pLOlUQrzcr3iTi50tOp9fh/Lzj4MKCeXOts166oq4oWD4k5VOySgwDNNNWsycGVDGqtXpSh31CscrA/09hwGkJPKklnpbHwtfd0fpLn2qZzOHw/BlBdPS8HJYfUWQKWFk94oMxZB1/WVy9LbtS49sXVpq38RL2YwAHY0vJJYy1s53/RGn7f1DKrkpKRgQgFQpfvcey2KEuFiTpXranunz0WBorumEYEq1WXzWgRV6BwYxmbrljXlCwrbf3lDrl3dzDSQk/ycITWsqUKB9rMvFRDfkHjl1IlBLdpQtaImvzn4MQ6UoXE59Qby+6q01j2X2jOLqk5Z0ZQCMTa+sJzjfTrSketbcndsOwT0J9MKpwWiqmBWFADKz7qKJQUkefbe+I4mSnFdnDcWB04TKpDeB6IoUCiFl/xEFXyCcnx9s9NfQkCcVXgLRRlvGlBOC2NMusZDbEwxipCMwxJoYCnM9dLCd7k/saM+4h1bp8mq0rl0zqTgrGFE5iEgbg1tye3hT3JndFsTn5B4hnWaQJmFuV2Zm/mqz9zo39Q1OwLYc58mD2AYA+NAJTMpo5iZCvLB5Od4sgYs6nA9P7srDxf39DdQrNlXh1oGFK2cIMIwpgpdA0EhOieBszQo1GNUrC/Of9PneY97ts5+KQIFRmbWdEE3URi8QSFGQnLPIH2lUMPGxLjxoP/ppzgup+cMGzB3ugGGQtbxo6U9HQUJnAGSPAM47zAmxmz+4WjwQVKAsXDaHV3SbRRmbeWn5uPlH3E4XzUbpT9CwPahSjScdmPq+KMyoCeryaFsfGZ69gAsRc8kC6eSY0S6pfMoUDIo8xXvpeGZZOFC44oCPVv7lRQqEcRfwliE/1KkmhmGCEd081Qzus9R/BfxG3+/tTdgOjjSAAAAAElFTkSuQmCC",
     "wiki_name": "Cooked chicken",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_chicken",
     "equipment": null,

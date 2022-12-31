@@ -1,7 +1,7 @@
 {
     "id": 8539,
     "name": "Demon lectern",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xs3X70uTURQH8O0/8U/wfa8iohdGIAVRkqRSgmYYloqKqEMzy5Kyn2aaWlNr2RDTIiExrV4E/ZD+ndO+d3wfz3O8kz3bU3jhsO3Znfezc85zd00kDv5Iij987//zkZSlmV7JTPe4eDXVLQtPu1wQsbF8Sz5lR2T97Q0Pyn6JsuF5EFEAMSzm45vrsrY4GFoYr/GejTAqEjIp2dm+PSg8AsIgaHUhJcsv+91cPPpAmK/RO9sz8nNzojQUQXjO7BD0ITPkQJxbCITP/d6alj/f0rmYdyCsUVlR4cKubkY+7fzWBGFRH2glPRCA8NwH2lwZDYHwnCC7uhnJUBmwEJsbry0IiwPB8hYCba+OxQdilnDNB2ImCULWLOjrew1KRwOxLwjSzVhOaNCvz8/ctcggvJ68f0Um7rXKgzuXZHy0We6ONMno0EW5mWqQwb46SfXUSl/XOem+dkY6205LW8tJaW2ulpbGE9JYVyUNtcfkfM1R97diAT1/fFWmHrY51KOxyw4G1Nhwo0MN99c7GFC9HTUO1d56ysE0iqCdL3MBpiTQi8kOmZ1odyibrfqz1S6qqw4H2dIoZKrpwnGH8oHs6gVGvuZoUDwuTHdJeqrToWy2jhyqDEBE2fIhS0CVCMrvQcgQQZm53D402+1QADBbGsVA+ZgloJgloAKQ2hTt6mbkb3kLys7nbv10r0MhWyghMqXLp3sKWdJINnlsoJXXAw6FTGEBlo89hSzpu49ZYunY4GWDEAQtL/aHvnWhLOntAPN0g+dB8wGmKBDuMAtazaQciFli2ZglLIyGRpZQNmbJbgXMUJHZwdgFEYVra0uDQdnYS/quI8j2ki1drCBmCSBflthL+6EIIsqu7hl5kC6bu5YdciCbpago/C3sQRH2oTBIo+II/LhGBuEusyAeKXDkwEELxwl9BsKJAIGfGh49MBdHFcz/vj4uPzaelAeydxuua5A+AxFDEOcCtPXudhiU24Mi70O+smkQnu8HYoYwNxaQr2wahPf0fyUahHkAsVxlgjD2NqMvbP8wLAhnaQ1iRAAlEtzW9wsL1KH7JxZQscMii8Eyduf+p2GRvrCfOdDjL83hJjtEexhgAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xs3X4UuTURQG8O0/kT73IaIIpEAKoiRlE10y54iVE6bpbChWSIVJJaOJtSStNJMamAgihhgRERFE3/oUZv0nJ547nu3ueGd7tyVeOGzTd7u/Pfe816vPd/CHX9zl+v1/H35ZzQRl5WHA1HK6VXKTLaaI+PIqIp9fdsmn+bADpb9EzfA8iCiAWBrz8XmnbM2GSibGa/xOVynKE9Iva9Ntu1B4BIRF0OZMSNYft5tr8egC4XobvbOZlO31eHUogvCc6RD0Ye6iAfHaciC879e7q/J7a0T+vL9uQJjjSEODKT27GvnY+a0JwqQu0Ea2owDCcxfo61J3CQjPCdKzq+EvWQZMRBBeaxAmB4LLWw707XW0fiCmhMlcICZJEFLToO+5IgjlCcS+IMhuxlrKBm1vJMzPPIPwOjNxSdJ3o3LvVpdMjIVl/EanjI10yM1UmwwPBiTV3yLJxAXpu3JOemNnJRY5LdFwk0RCpyQUaJS2lhPS2nzcfFZdQI8mL8vU/ZhBPbjTbWBA3R4NGdToUNDAgBqINxtUT/SMgdkognY2UwVMVaCZTFyy6R6D0mkFzzeZamo8WkjLRiGpzvaTBuUC6dnLjPyao0HxODedkNmpXoPSaR07fKgAIkovH1ICqkpQfg9CQgQtPOmXF9k+gwKAadkoFpaPKQHFlIAqgoqbop5djfwtr0FLc4Oy+HTAoJAWlhBJ2ctn9xRSspFs8rqBcvPXDApJYQIuH3sKKdl3H1Pi0rHB6wp682yo5FuXS8neDnCd3eD4LOzSxFQEwh1GEAo/W15IGRBT4rIxJUyMhkZKWDampLcCJlRhOhhu0NvF4cKysZfsu44g3Ut66WoCEUUQUwLIlRJ7aS8UQUTp2R3DDVpdGjEgnZJXFD4Le5CHfSgPspeNjV2Pwh/XmkFE8UiB4wce7TMQTgQo/Kmxjx64FgezHysx+bnWUx0It/2/QLjGPgMRY4NwXnKDkt73Id1HGoTn+w7SfaRB9n8lNgjvt0E4utYAwtjdjK7S/cMiiOloEMsDyOfjtr5XaaBd9nLVBVTp0MhKsKzitfs0NNJV+j0HevwF/YWqPa8W5OsAAAAASUVORK5CYII=",
     "wiki_name": "Demon lectern (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Demon_lectern_(flatpack)",
     "equipment": null,

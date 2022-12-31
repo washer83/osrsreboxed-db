@@ -1,7 +1,7 @@
 {
     "id": 4314,
     "name": "Crystal singing for beginners",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-22",
     "duplicate": true,
     "examine": "A book on elven crystal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xs3WTWsTQRgH8OQb5NRLLoEcAoFAKRQPHj158+TBk+DFiwcRD42lRIsGrRar9dKIljSYRpu+16ZNC5ba+obgS/HrjPuf7X/z7NNJyDZROvCwm9nZzG+fmZ3ZWOzsl7hxh+v6Py9xs1QeM/XZURvvXt8xtZd5G0TsrT02H1Yemd3lhw6Ufoie4T6IKIAYGrOzWDSNt/dDHeM3rukIoyIh42ZlrnAChSMgDII2a+Nm7c1d2xZHFwjtJfrosGx+7pdOhyII58wOQdv1BxbEtu1AuO/3waz586XqxbwFoY/BVMqG7l0VP+18aoLQqQu0Ub0XgHDuAu1vPAmBcE6Q7l2VeGgY0BEnN35rENoDweFtBzrcfNo/ELOEOglC26FEIpgXBCFrGvR5S4Kq0UCcFxqEJycI7a5nUuZaOmWuppPmSioZwBgS9LU5FQL9+viqdxDqAUKbm9m0ueGBNOqyF5eSA+aiFxrYVxACQ4nrtz2MBDWby0Fo1IWBhDl/HLgXmKNPlQATGSRRuDaay5gRLyRKghgahXCBdO9tip9iTNBOoE6Z0iA5ZBFB/hqEDEkQ6seHsqYwmHFmiXNJzydg8vlbti7IkFgUde+q+K+8BqG+6GEA6gZFEDJUKIzY31weegahbnI4ZyaGswHKBXKhisUxezwxZKcFIVA3dS7XFUqCkB1gMGz4jx97M8eg+QDTFQhvmAYBAIwGtUMRw3mDbaMFqnabHZQWiCjUodPtrSXbMRCdsgTEi+kJC8O9WEixbfQVhA4ZgDUadQsARqKAKJWe2SNXaoC+7TwPgYjSvTuKD3INm4atr9fM6mrVzhlkBnWVyozFcF/DnofPju+70wEIa1CEdSgMkm8b6gjDkHGYFutzZmGhbAMYTGi0wYaK7PQMwlvWDsQnJkzOH2CQKWLQtq8gPWyoJwgdcsFEcMiYYbYF6OD9ZBjkrUGR1yHXsEkQzvl5yz0OgTrcxwyhbV9ArmGTIFyTnyU455cB2sn50yMIJfxR1S4kRoYGYVGUIEYEUCzGZb1TaKAMOX/6Auq2aGQ3WEar7X8qGukKfc+ZLn8BSULg6gMSWyUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xs3X0UsUURTH8d0/IhAhkBAJH0TEkMRIjKLAxKQ2KVtMtIcyMISwh/TJlwiVKIPKJIqQSgIRQ4yIiAgiIugpzPpPbnzv8pu9c5yt3UbDC4eduXvH+9lz7twZM5md37IuOZK+3/aWdS+nT7jFqW4fz292uYUbx30I8eFxn3v/6Kx7N38mAWV/RGp4ASQUIIXFvJ3rdWv3crGJOec7G3FURcisW7rVswnFJxCFQKt3c2759kk/ls8kEOND9MbqiFtfvvBvKIE4VnYEenP/tAdpbCkQ1/14ddn9XLvqfr2+5kHM0VhT48PObloh7frVAjFpEmjlzqkIxHES6OOTczEQxwLZ2U3LxsrARAJxbkGMB6HylgJ9eprfOpCyxGQhiLFVu3dF60IgsmZBnxeKIKIikNaFBdEnEOOaDzW4pvZ619C214dgihD05Vl/DLS+cjE9iH5AjGk52uhBIap+f52PuuY9rraBieLALQdRSr5v69rnWjubItT8w/EoBBKqpr7aVddW+eBaMBuroxEmFYjvDva0xEBECFIIFKKSQHb2Eq2QYhZoiBLIolS6pEwBEkYlqxBU2IPIUAii/3Bvm+vItcZAIYq1FK4nQGQnn+/058UMFTdFO7tphVvegug/0ncgAlmUSmfvOrIzONjtMdoeUoPoO5Zv96AQJVBS6YQaHs55DFmKlywlqHOgI0KVypItHdlR2fgb35eGPIhdWpiyQNxhAhH0MTkYi0pa4AQIMNoseWwIRIbKzA4tGcSkcw+u+4mBACpVOhBjY/0+U1zLRspjIzVIKPo0IQGMYHIwIYrsTEwMeYx2akBfX5yPgYSysye0zSCtIwubnR3zweTg6JucvOTPdYvzzAP0bXEgArEHVbAPFUBh2XTr0ycY5VKJZmZG3fTUFR9a0IzhgbotIKH0SqGHKxEuaDCUTBiN5cUsFYjb/m8gxmjDJFQy/aAwO5tBI5XvQ0nrKARxrNdbPeMIlXZbQHYdWVD4XwnHYAiuD0HsQSlAtPhLVakIMWEIpOxYkKICUCajbf1PYYFhhOXaElC5zSLLwSqKY/9Ts8iksNfs6PYbizNzly8kkfQAAAAASUVORK5CYII=",
     "wiki_name": "Crystal singing for beginners",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_singing_for_beginners",
     "equipment": null,

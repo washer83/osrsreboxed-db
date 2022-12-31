@@ -1,7 +1,7 @@
 {
     "id": 1370,
     "name": "Mithril battleaxe",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A vicious looking axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3V20tUURTH8Zn/oKd56cU/oVffjBAfFEmMwKQQRYogCCqhm1h2oSuFYVBRopFaWImYXRQU025EN+nf2fndh9+4z3I7zTincMPi3NawP2etffbkclt/5F08Ys//+ci7F8O9bmLojI9nj0678QenfAixMHXdzU9edXMvr0RQ9iWqhicgoQApLGb2+WX3+unF1MRc88xGGlURMu8mR/rWoTgCUQg0M97vpp6c87kcYyDyQ/TK8rD7sXh/cyiBOFd1BHo7ccmDlLsRiN/9Whpyvz+NrsaYBzHHjpoaH3Z2M5Ky660FYlIL0hsLND16PgpanL6RAnEukJ3djHyqDUykxc11CCJ3z94ed6Cj35+XAi3P3MoOpCpxTyDyWluPufb2XtfVfS0Foo0W9PFNCBqtDKR1YUG8OSBympoOu5aWo75CbfuSr08RA31+dzsF+vn+YfUg7gtUX9/hGhq6PKx59xGPG+wpuJG+7SmcQF9mB7IFEbQyBO3ctd8fGxsPur7ughs4XvAVI2gnSHJp8bf5wSJo5cPjIqZiUIjiTS2orq7NX5/s2OYuHCp4iDBUTqDv83ejIDv7BiMpNws0BhJKcaJ9WzGoFph1oIV7mwUlexAVKgViEnJCkICsLTCsL67JT4GCTdHObkbyycdAhAWRT6uEIYdjbW2LbyfVyhwkFAGIHZcJOBeIEEhVUwDPDBRWiWMIIvdsZyGFESjcfwAtvboZgMaKmLJAfGExkP4OLChsVwxELn8bYYXKrA5jDWTXkXZfQGoVIM5Z8DGQ2sXfRmYgobjPBAKxEQojUFjJEMQuHYKEsrNHRgKKtU0gcmiT1s7fQLzA17k7RRB7UAX7UBoUti0EsSNbTAxEdaoG8ZVtBOJ5Z3O8OgJpraldmYFs27ivChFMbtslkHIB8cmnQKt7UMX7UKxtmoQ35rwUKFw/mYBibQtBPAMRA5EXrp8qQYy1bb9U2PWjsCA2xRCkqACUy2lbLxUWGEa4fjIBlTssshysYi33Pw2LjIX9zZYefwDlUmZgxf0DZAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs3V20tUURTH8ZnHHuah/8A/oQdfEiRJEpMUFckQDCJ9qKzsTlFRYReILohGJYWVoJQkCiam2IXofvmTdnz38Dvus9pOM84p3LA4tzXsz1lrnz253MYfeReP2PN/PvLu6cgRNz484OPx3UNu7PZBH0IsTJ538xPn3NyzsxGUfYmq4UWQUIAUFjP75IybfnQqNTHXPLORRlWEzLuJ0aN/oDgCUQj0YuyEm7x/zOdyjIHID9Hfl0fcl8Vb60MJxLmqI9DM+GkPUu5aIH73bWnY/XzzwP16O+ZBzLGlpsaHnd2MYtn11gIxqQXpjQWaeng8ClqcupACcS6Qnd2MfKoNTKTFzXUIIndPZ6fr39vrz0uBlqcvZQdSlbgnEHm729vdvp4eN9DXlwLRRgtaeXk5AREVgbQuLIg3B0RO285m19Xa6ivU292dtE6/t6B3M1dSoK+v71QP4r5AOxoaXHNjo4d1tLR43PX+ghsd3JzCCfR+dihbEEErQ9D2+np/3NXU5Aa7Cm5of8FXjKCdIMmlxR/nryWgHyv3EkzFoBDFm1rQtro6f32gbZM72V3wEGGonECfXt2Iguzsa4xiuVmgMZBQir6WTUlQLTAW9Hnh5npBxT2ICpUCMQk5IUhA1hYY1hfX5IegcFO0s5tR/ORjIMKCyKdVwpDDcWttrW8n1cocJBQBiB2XCTgXiBBIVVMAzwwUVoljCCL3cEchhREo3H8ALT2/mIDYpYUpC8QXFgPp78CCwnbFQOTytxFWqMzqMFZBdh1p9wWkVgHinAUfA6ld/G1kBhKK+0wgEBuhMAKFlQxB7NIhSCg7e2QUQbG2CUQObdLa+RuIF/gwdzUBsQdVsA+lQWHbQhA7ssXEQFSnahBf2VognnfUx6sjkNaa2pUZyLaN+6oQweS2XQIpFxCffAhiD6p4H4q1TZPwxpyXAoXrJxNQrG0hiGcgYiDywvVTJYixuu2XCrt+FBbEphiCFBWAcjlt66XCAsMI108moHKHRZaDVazm/qdhkbGwv9nQ4zcEww2D4reGigAAAABJRU5ErkJggg==",
     "wiki_name": "Mithril battleaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_battleaxe",
     "equipment": null,

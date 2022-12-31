@@ -1,7 +1,7 @@
 {
     "id": 20146,
     "name": "Gilded med helm",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "A medium sized helmet with gold plate.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADhUlEQVR4Xu2XwUtUURSHff/BrGbzNhdmMTAguJEWIrSRCEQI3VgUZURCFhgZRRkigklWUiEhElJRVIYhkkiSSZKZFUFEUBARRERERESEi9P77uU4d2Ykcd5oIB04zDi8ee/zd37nnDtlZf9jfUcgy+eaRSDv76Tlza20vLyWkueXUzI7mJKpfiPjfUZGekK50RWuFVQgn+6m5eNYOgdqfiglMwPGQo32GrnWGcrgMYVaNbBAvt7LyJcJl0C9G0nL65spC4VKkxecQlc6Quk/nJS+1qSc3JdcDahAfjzIyPf7Lr9NZuTzuFMKlV5cdQpNnHNAQ+2hnD/kYDr2JOXozkQp/RXIr4cZmz+nXQKHSh9GnUL4CCA8NNztgFBHYVobE7J3S0K2b05IxpTFgQpkYbbS5aNym79nHBwK4SOA8ND0RSNjZ4w1NP4BqL0pWQCjQBXGrBQqgnlS63KuxuXj6kU4yoaHXl1Pydwl12UAYeiBI6H0HnBAClOZdjCVmaKAIphnO2ThaaPL+XqXChdBUTo8hKEBwtDaYRga/1AugOo3ZmGqK4oEmj5tbM6cNTLbl8qCKVSkEj7C1HSYGlo7rGlTBFIVAZTnwtRsKBLIPjgq0US3kckeY1/1/dQpl2OdkSJRefr3R4rsjkq0NSltDQlpqUtYIPxjy+XB1FYVCxQpgHnpKPwyciLMydEOY1+Hj0cmPhiZuDkpXbscFKZWD1EuH4a/iwJSEHxhwtAmvmE44p23t7NDkbb3faRla9uWsBA+TGONm0krBCICexOF8ZMH63sfSocjs4jBSMkA8GEoYdFAtHI+DJOah+Z/rjuN7zCLKFlLgwPwYZrqYgAxZ5i2/oP5TIG4Jj9Rj5LR9rQ8AD4Mn8UC8stD4h1WhN7U3TiwfqNswLI6upqdQgqlMLGBeAh+8KHyYSijrhCmNV1Gh2FqhSJ5n/vdFUUWCE8g+VIwdB47jRXCgKTL6DCAdLECwmsMGCILhFH9dlUYXbKUUY8gTGsUxXs+FGoVWSqNLBA+Kpwfzjd6JuI6Nj5qsunxkEL5MCUDKpyw7gSpZyIdjCxXgGh7hdIDWgwYYnkgysU1eoTVDqNkucfX2OpoBItAhUvRHfh9/zAO6DBMDZQPUgIYjezQy71xsFgundB0GApxQCu8voSx9H/pfp/pidH/xbGqMH+PwtXxD2Fc+OotreQ6iT/ZlFrS0s4r7QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACH0lEQVR4Xu2XsUvDUBDG88YMGTIEQiFQihQRKUUqxWKxtFhqEaGzq6ubg6Obm7ObIAhOgiAIgn/bmcvrNZfra5ualwrFDz4SQnrvl3v33r06zr+2WwpWe2NS0O924aTTgeN2O/FRqwWHzSYcNBqwv7eXeENQCk57vcQcCoE41G69nrjkbCkYDQYZIAmFQJgdhNmp1RJXo6gMKA3DbcoSTRkBIQy6EoY260vB+XCYsQmI1xAHQhh04PuJHadQxhRcnI1m5lAcSBa1BOIw+qqgWa2uC6VgMh5ngDgYZgmBTKvMBOQ4dQa2NpCGkZZQmKW8QNy/Agoqn9rRF4TRtxEMgRZNmetOwHH78aCN2VQVAqKBg8pb7Pfple4/pn4FP3wEL7gHz78Fz7sG17uKfZkAWc0QrxW0Hz5nHIQv0/sn8IOHGOgu9k0CxafNGhDB4DRQINOS5y1ETpvFDKHUXCAyDkz3HEq2D+tAfGAyZsj0XO7YpQDhtGBQHgyfERC+I039zPKyR2kgmQ16RkF1YN3rqI4kEHdhIBwEg5u+kMPwnrYMKPvbtZQC4QCLYHDl8Z5G9SO7fUEYVAqEAy2CoS1AFvQyIDlSTqVAvIjTgOmBzbTCJFDB7KDyAckzkenEaCE7qNVApjORBML3LGSHpHIB8V2aA3EQCzCkdNPLBtZAsn4IaP59izJ/Zfb/GfUwBCoVZrnmW8cfwmjx7JkzuSX6ARlqMR9JEvaaAAAAAElFTkSuQmCC",
     "wiki_name": "Gilded med helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_med_helm",
     "equipment": {

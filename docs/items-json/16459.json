@@ -1,7 +1,7 @@
 {
     "id": 16459,
     "name": "Ring of visibility",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-18",
     "duplicate": true,
     "examine": "A ring that allows you to see things that are normally invisible...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3klEQVR4Xu2VO0sDQRSFM/8gVZptFrYYGBD8GzY22lhYKNil0EoUAoIWFgFFEUECKoFAUFFC8IUSRCUE8UV8oRCiICIiIiIiFlfOXSbZxEehTrDYA5dlX8y395w7Gwj48uXLl6/fSND3VVMJ2lqwKyqbcmglYVNy3KJoJFRLMEHpaZviIxaN9ocoMWbRUtymvWWHC2A4j0UtinRqMGMStJZ0YYb7QiUgdOY443CdbrjHjTkXCu/U27YJKMFfD0sA0xMOloCw+MW25CpkJRVzkq52JIMaBcqlHYYAjAaanbD4OgCudyXdHkq6yyt6OFF0sOowvCHbBOXXHZqPWdTSWAb6OF2CXgqK3i7r6GZf8vOGuiTYEthQ/mp3oerS97TFA91GuiTYEox4atKmqSGrFNrPKjNjc77QxXBb0ESXBN0fKQ4txhvTBjBYghyhc+gIbEXINXRXR5CaGgJmgJ7OFQcWAcZ4AwCLAw5A2H+8kMgZ8qakIaDXoqLHM8WTBKjzTckd2Vl02ErYBCjADPaGqLXZtUrD/DEQJOj5QrF1GgijjbEHEDoFGIS+vaWcG0MwWqLCNv27gHWwCjDeEBsE8cq1AUCwC0B6vzFs0dfy7jfVEDWH8epfQPjy5euHegecn9avTeG6eQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABz0lEQVR4Xu2V30dDYRzG91522cVIxC4mmcyR5VhONpvN1kWS0kVFUkZJSqVSKjUp05jGNGVJRCRdJJFIIv1R3zzfedc568dF7Z0u3oevXZxt53Oe5/m+x+XS0tLS0vqLBP08dZWgwrLpmOKqSZnZDlobb6eJXm89wQTtzRi0Muaj6cFWBgBIaSNIZ1tdDIbr88NtNBTzqIYSlFsIMEyq3+sAukhbPJe73fyZX+pkKPzG8ACs5hL89JuTfoYZiLRUgHDzq/0QXWfKc3MQpttsmEGVAh2vBxkCMBIIgAAFwF0uQveHUXrIR+mxEOMIAa8oNkHnOxZtp/xkGe4K0OftEvRaStDbaZIh8X1FLgmOBTHYtwg3qh55DduHSEeSSsot+InRl/SUQYujvkppvxp7+XusZhUuCe4FSosVz84FGAyRoEdwDo6gNxIawIAxfY1qgJ6LcS4snMJ6o8y4OeAAhPPHDtkXKsM0uxvUAKGsT0dx3iSsNqBQdGwf3EFMgAIMeoPyywg/+lVTCXo5SThckqezdAowKH0k0OQAUQAjJRhIOoQ+AQjuICqUOG46Yar/QYHKMeAVIeOS543iiL6X/byphqg7jF3/AkJLS+uXegdx1qmAbf6OegAAAABJRU5ErkJggg==",
     "wiki_name": "Ring of visibility",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ring_of_visibility",
     "equipment": null,

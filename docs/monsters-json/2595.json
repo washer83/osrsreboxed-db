@@ -1,7 +1,7 @@
 {
     "id": 2595,
     "name": "Werewolf",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2007-06-04",
@@ -29,7 +29,7 @@
         "vannaka"
     ],
     "duplicate": true,
-    "examine": "Various",
+    "examine": "Eek! A werewolf!",
     "wiki_name": "Werewolf (Level 88)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Werewolf#Level_88",
     "attack_level": 70,

@@ -1,7 +1,7 @@
 {
     "id": 15507,
     "name": "Fishing mix(2)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "Two doses of fishy Fishing potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xt2XW08aYRCG/f6JNwbPgBoPQRERULByZYqUSjxEa9U21Rusae0Ky1lAloUVW5umadL0wrTpbdM0/WVvd77tilov2oRl207yhoUQ9tl3Zr4Z2tr+n2BoyPRgONh1oZoN4uJN5G+AYvj6cQ3fP2/gw6swB7K1t5sFpaWJgL59Wsf7s5CZqWPo7bWip6ePA5HeKXfR2dkDu33IDCiG0VEHxicmOcyXi1W8rS1gdMyBEfVzE1LHMD3tUeWFx6PLh6mpaUw4XeYAzczMqvJjdlYTvScwcs0UoLm5O1yHhwIE4Qix2D68Xh8c404zgCgYT9H8fBDZQpanUO8ygjEFyOebQTAYREEq8HoyEYaCwe8PcKCKIvP6sVi6zWh5CoZJl5vXkFSTcCKXsbWzbVaHUTDe5lQ/JbmEUuUEz14855CWzpa7xOBwOHm6pFoF8qnMX3OlPGIHT2GzD7baJXLHi2KlhNqZAuWlgmq9ho2dDaRyaTx8tMNHSItcYhgeHoOYSXKI0/M66q/rUM4VbD7exNrWGoRkHH19tla5pLmTzCZ5Z8mnVRWsIXJp5cEKlqLL6Ooy3CXGJ3nsYB+pfPoXIKol3aXoehT9/XajXaKB6kU8JfKT+Tag7b1t7hIBhRbvoau71yiXtP2HZpWopit/cvwTSOYwFUXrtnK1jMhqBKGlEBbCC7BaB4xyicGtzqrDuIBkLoWiVFRvLvFDkWB0IEmRrgGFFiN8iTPAJW3/OVI7KH2c4YfhTSBSuVbGcblwCUTLmtU2gI4OSzOhGFzqCUzdRadxIpVAppBBrphHXj0M6fWqxHQS4eUwB3Kqo2RwaOQybU1KnbZmEBAtZAm1qMklgiLRNR2IuoSEgEj0PgeiUUKrbpPrqOEQAYlpUb1xiouuCfBIjF/qyd4u3yC96mpCD2LQBqkVNe0/gUDgmvy3iL7ndnuuTf+mA9HT0o1oqF6VvlNre3Vjt3Y6p4yC0UP/E/j7MhBGC/0Gf6Kbv/HPxg95xazL5Swj3gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMElEQVR4Xt2X7UtTYRjGPf+F+Mk/wQ9KbJgisjWUUtOhW3O6lnO55razTZlYMaIQggiJKOqDSESJEYSEGollc740350sN1+O736oP+HquZ+TG1ofCtxOdcPFOYPDnt+57ufZfS0r6/8pASkpXgJaGvNwO3AWPd1lfwOUgDe9F/H2uR5P7uk4UF5urlJQcpsIaOBZDR7f1SrZOgElJVoUFZdyINLDLg3U6mKUl1cqASWgttaMhoYmDvO6pwoP7pSi1mCGXm9SonUCHA4XnE43l8slctntDlgsNmWAfL52+P0p0WeCI9cUAersvME1ODiEoaF3eNnXD7dbhNlsVQKISmAtcuJmMAjH+zBv4dEpIxhFgETRj2DwFlonl3m7FIShEtDeHmBAQbiXJQ6kUhUpceSpBNhsLXwPuecTcC2so7rrvlInjErgx5z2j2smBudcHOa+AQ6pUmfcJQEmk4W1qwOe5U14oltwRyXYw0sw9r6Crqwi0y7J7rRGYhBX9+FLHMIb38eZaBxXRiO40NXNR0iGXBJQU2OE7UMIntge/NJXtEnfuFRfNlAwu4SG4XGUajI2+QV+muzhKXh3D+DdOYBv55CJ3W/LLuVPzUJ7PYjCwrS7JPBJXv+iH1fZogRAQN5tgmLa2ku6lB+ahkYjB7Y0uiS70zT6CddmFyAyAJGgmAjIz65qaS/pUrEvgMKiknS5JOcfmlXNoUk4F1Ygbu4w7cIr7XJ3CMib2EQOcyknsojs0RC02vJ0uSTHjcvDI2ieiMC1wk7Y+hbTdhKI5F2TjgEVe9p4iEuDSzKQdWQMLZF5uGIJuBOSDLSREkG2zkeTQBTWdLrzKChQnSaUPCZo/1QzoDoGZFrdYNpEfVxiousPrW3BOLOInNllDmSx2lBRqU+27ZRaRzHDwX8MKYgZIgu4FF2FaUUW3ZOMSzEY2d6qGwvjXKMF2R8n+ItQ1D3lfZRyiICMkTkY55aSIkDD1AwME59hGJ9G1aOn/DlR9PG8lKYEKe8hyj+Bjo7jCvwseq7F4Tw2/U8diN6WFqIMdFK/ytZWqz1dMEd19Cfw95VGGLmOFvgTnfyOf7a+A+/JF+ROfp5UAAAAAElFTkSuQmCC",
     "wiki_name": "Fishing mix (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_mix#2_dose",
     "equipment": null,

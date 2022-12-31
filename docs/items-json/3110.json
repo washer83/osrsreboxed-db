@@ -1,7 +1,7 @@
 {
     "id": 3110,
     "name": "Stone ball",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": false,
     "examine": "Place on the stone mechanism in the right order to open the door.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzklEQVR4Xu3WQUsCQRQHcOebCB2EYEEWRESEFZFFjK4dOgddOnQIgr1I0EHoIEEQRBAEEUHQN5zm/8YZn+NMhjvuxX3w0MvO/Oa9t6ONRh11HHYIuT0rCyGPWmcySS5lmt7Ibu9OdrozlYVsp9fyOLmQrdZ5VShBG2JjQHr9ucp7Sg0rCAks0HtGCZm0r2jT/uBBDrIFfSI1TOMqQgmZdm5p02z4RDnIHpe5cHBAzfaJErSBwQxHL5TZ6FmnB2dR6hCRUcAUhMGGgIzGrzbDOKDm+0AJOi02sJD8bT0DOIMywx4JJWguqDJLwDh/p8wnH5T4znEWparFZ4qD2s3mLiiNweI+SD79XCWHMRTaZ6qE1pUG4ZQhyGT6pfPkO4yimVoNOe6wUiAsajEuhIHw6UOZKqHSVCV1FUQDbUAMZgnyodarpFtXCoQTBkEGw1AGZFGsSmibwewOUqfDogRyAW4GqoQ19J1UlKmOCd02LLwxPwwzPf3xYvAs2hVhfngIW6W/htuP0a2i21r9MEcCIVilHJhNd5jV7JifDzxfcn58sZqptXvJGWL+ZvG3KjLGhKA2uLe3DxPhrfpvuP+dw1kBRgdvwbZ0n62jjoONX3LuCZ6eBE8GAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3UlEQVR4Xu2WsUoDQRCGs4+QIhACB0cIIYQQgig+g42FjY2FhY1gIVikECwEwUIQBEGwEEEQBPER1/v2Mudk2TOSW6/JDfwkd9zufDv/zCWtVhNNbHYYu1q1hbF7nbY96nXsWdqzl8PEzgeJvch0ml1z/6DbqQvK2MMsIYkBuR6l9mqYi2uggDxOuna/2/5vKGNPskQkvRn17e247z5FAke1aoAy9rzfc0nvJ4NCdxkUAk4AfSjsjQxlXAKBeZzmepjkCsHxLGs4RGQo4ywiAckAeZoOlxQC5FnW0FeRoYyzgAQC8DzL9TIbFd9DcKzBQmn2SFDGWUASgUCvW8uS+wLH81SKtdJTGmiWputAGXdCTuuDvC30vj124ruAaShdJayTqVsbiFOWQXws9LlTDsVhdJPz0qwExKYC44NoID5DULpKWMerIBqQDyIwAhSC8quEdZWA2KwMSGA0lAAJlFQJ66mQwFQCYlMS+AC+yqrEHljG6FeojoRxJ2Rjv380zNfuJAiDZdiFVRX7R4cpqvRbc4dgxCpGnh/mSEDET6V8MJEPI1Yx7qyv2D+hyHtKT56WNLGeLD1VkWEkTPEjS3J5afoTxTMRpuqv4f93LlcNMHloC1bJX9tEExsb31Tgxt2UGtFBAAAAAElFTkSuQmCC",
     "wiki_name": "Stone ball (Blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_ball#Blue",
     "equipment": null,

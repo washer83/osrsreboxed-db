@@ -1,7 +1,7 @@
 {
     "id": 11689,
     "name": "Earth rune",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-03-13",
     "duplicate": false,
     "examine": "One of the 4 basic elemental Runes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xu2Wfy+WURjHnTfR315Cb8VmWVk2WbLIkiT5MUkSiSREIkREJEIYUqzavKWrfc6969lxdnuecz+e2tq6tu+fzzmffb/fc91PXt7/yfkYyay/MtFlW8vLsrP6SfbWP8v+xrp829qS79vbcrizIz/29+TXwcGfBosOX3s/LxuLi/JlaUm2V1Zkd20tBXWwuWnBXKjjw8Ncg0WHLUxOysfZGVmdn5P1hQULhUtA4RRgSN3yoY6PjnIBZWTq5bDMvh5LAa28m7UuKRROIYVLB8V55/Pzs4UyMjYwcAJo+e10yiUEmAungDiWDsq/KWCMDPf1ngCan5iQD1NTFkrBcAu5gMAh3KJbPlQWLhnpaW+Xwac9J4DmxsctFMIt4BQQOAV04XCLCCm7D+XfmmYioBdPumW0v1+mR0esZl6NWimcAgKngHHuESNuEeHR7q6FSuCSkdaGBulua0sBjQ8OypuhISvccgGBC3EPtyg9EbKrFMq/PWaMtNTXy+P7rfK8q0tGnvVZKER8wCkgcAqYzr3mS+esiFEjpFc/v+6HQBlpqquTR60t0tfZaXuEKDhwCqiXJBGAQOGUxhcQnZF7tbXysLlJejs6LBROER/yLwmVOkZ8dAqXiC4I6M7NannQ2GiLrVDIvySJdG3QKfpEyXl5QUC3KitTxQbKBcMtdcyPU3umXXMfAf1Sh3h5dImCBwFdLytL9Yhyh4D5HYuDUiD9FrLNg4CulpTI3Zoa2yOFcsGA8vulUK5bGpdC0SNdnABR7iCgy0VFcvtGle0RUC6Y340Q4ZQCuZ8XYgsAYoxUlZfbHiHA/EuSiPhwCSBKrS4pTBCQusSSBMq/JIm0TwDpFqdLge7oRF1iJykUTmmMmQrv9ko/P7w03UcJ3NExcrGw0EbHi1MoBUtXeBdKS67/Gnht7KSE7ugYuVJcbKMDygVzoXy3XChcUiBdA1m4o2PkQkGB3UusAeKLg4qLECg/OgXL0h2dCAqniI/PSqYIgYpzi7PO4I470UF0ygfzdRqgC3JGmGiiQyIwVsK10lILhqorKuz3D0iidR3MoSvx44KFKKeupBv3okzyf/vPzm+1gHr0fo6aBAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaklEQVR4Xu2W/2fVURjHd/6A/oGIa2ZmZq65M7s2zbJs0w9FkiRSYlpJY6ksxrJM1heraNHS92nGJCMRiUgSkUgiiSRud/duvz097+fc59PZcbd7Pne3iB7eP95zXt7v9+c5t6rq/1R8DJXWXxl7WXZokBZGhig3NkK582OUu3yB8teuUH5qkvK3p2hx5v6fBrOH/+zbQ9mBg5Q9cZQWho9TbnSYcuOjFmpi3IIp1PQdWpqbrTSYPSyztZMyu7dZoCMHKDt4OHJJnAKY75ZCzT6gpfmHlYAy9HlzK33rSf8G2r+Lsv37rEuAYqdEgHMdKwKF85KJRLlQhj50tQjQ9542C7RzC2X27hCXxCmAwS3IARQodcqNrwDl3xQwht50NC8H6m2nzPZuC8VOAUzg2LEITgEZTtxSpxyoMlwy9LQtSa87UhEQIvvRW4CC4JbCOYAC5wKqW1x2H8q/dZUx9CSdpFcbU/R+Uwt96U6LvrIABregCFDhVnAvcosjVKgYLhmaaa4XoJcM9K6zmT52tYo+sVNwS+FcwFLuiVtcekSoRQ90ydB0qp4epxvpRXsTvWUgQMEpCBG6cC7gSu4d6lknkhgRIa+G/NUJWrx3MwTK0F0Gmm9tpOcMhNjQJRQccAqol8QRACVCQMEpji8gOkO3muroUQEIglOID3D+JaGKvlLEx51C0eFSENBkspZmWxrkS3vGUij/kjiSxQog7hT6JCXnLy8I6GJDTVRsyAdTtxClG6d2ze+Zdkwdkth4gaJLQUBn6qujHqHcLtRKYKWgACRFVyBennj/goBO1SboetL2CCoG5kMVA9O4AAWXBKjw7OgaCAIaqNlAlxprpEdzLBfK70aI4BRcAlC0xQv/FgKAMIbOcmzoEaAg/5I4QnxwSb40fZwZTGGCgNQlLEmA+ZfE0TIgfaC5S4Hu6Ngu3eCdpFAaoR8juuX3CkKn0CeUHLG5z0wMd3QM9SfWS3RYlPjqfDAfyi88io6So+D6rwHlBlhMd3QMnay10ZUD5boEIF0FZbijY6iPXTpdVy1rIC6UuuSuA8RXpjs6FgpOIT48KyFQvluAw1lrcMcdexA6haK7YCp1rxgk4FyQNcLYsYdYsGO8EhAjwKBz/PahZ4D0o62gK8XHBQtRRV1ZbdyLSsn/7T87vwBIe8LkBrJvSwAAAABJRU5ErkJggg==",
     "wiki_name": "Earth rune (Barbarian Assault)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Earth_rune_(Barbarian_Assault)",
     "equipment": null,

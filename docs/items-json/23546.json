@@ -1,7 +1,7 @@
 {
     "id": 23546,
     "name": "Super combat potion(3)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-11",
     "duplicate": true,
     "examine": "3 doses of super combat potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xs3WbUsUURQH8N0vsG826I2ERB+gN73PQipsfUoJV7DwhVIQbLS2T2NYmlFYGEVCRYlFq8VWJmalwi6mPRE9SV/ntP87nNk7Z+/qjjuGFw47O/fO3t+cc+fOBgI7vwXJHKb+bW9BejV1iXKTlooXjzM08zCtghGFuTHKz96g5dfXDSh5EzXDbRCjAOKQmKWX1+jd86uuifEdfTLcKE/IIM0+GSpD4RMQDgYtzAzT3LPLaiw+TSCM19Hra1P0a+XB1lAMwjFnh0EfcqMKxGMrgXDdn9VJ+vslW4xpBcIc++vrVcjZRbPTznfNIEwqQfpdY+x89ooRtDJ/0wXCMYPk7KIFXWUAghc3vusgjJ0Ya6XxkSYatY6o75VAawvj/oE4SzgnQYU3fSqGU40OCGWUoM/vdVDWG4jXhQThzk2gxVwvDSUOO6Uzgb4u3naBfn98VDsI5wFCYFx//1knurtPU0dnlJpbTqg+Cfq2dMdfEAKl1EGpVJriAxcpFjtPXV091NLaQQ0Ndul0DLL5I3/PAa1/eupgPIN0FH6cQVyydCZDg4OD1Nh4rGLJMPZnfsIIkrNXaPYPY4FWAqE/Hh8gy7JUNB1vda5BJstAhftbBdl7EDK0GQjZQWQyFrW1n3TKJUEY7wJpm6KcXTT7x0wghAQlEklKJlNqLUW7T1Ek0l4GQnZ8BTEKgQmw4zJo34Wwir3ninEmRHXREO2OhFTftoD0LOGTQTpGB+3pMYNW397SQNMOpioQnhATiF8HElMGagtR+FDAQSE7eG3oGaoyO2glkFxH/ChvCOq1QbuabRCXC68N30CMwnkTRkWsBKrrtMsWPmijAMIurYMYJWc3NBtkKltVoL7SwuayYc19X77rgLAHediH3CC9bJuCimVzQFhHRwMUOmCjagLhKfMESpRA8tH3JUMMkmXDeX5/mWAAAcP9vKDxyLtAxT3I8z5kKhuDcMc45oll8NPIY30Bmcqmg9Cn/y3BMe/m/NpAdnwAoZXftSl0jB4ShE1RB3F4AAUCvK1vFBKoh75+fAFV2ySyGixHaex/ahJpCnnNjm7/AK0OJwxPlrGaAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADbklEQVR4Xs3X/UtTURgH8O0/8ZdAkGIqZqg/BGE/mNOZdyu0zHwjDW1kviWKVGKaaaZlqfnSTMd0Lec0xIiIiCAigogIs/6Tp77n8lzPzu5yczM88GV323N3Pvecc89Vi+XgNyuZx+z7fW9WCgyXkH/IIbI0WETeAbsII957ztG7uXJ6O1NmglIvImG4DmIUQBwV8+bJWdqccIV1jPf4Tk04Ki6klYL3T0eg8AoIh0Eb4y4KjWmiFq9mINTL6O0NN22F6vaGYhCOeXQY9HryjABxbTQQzvv5spF+bbbS71cdAoQ+bCkpImrvStOHna+aQehUBclXjdr1B05T0If582EgHDNI7V1p1rBpAIJBeC+DUNvbVUZdrU5queIQ76OBPi5UJA/Eo4TOVNCa7zoFvR3kbig0QJhGFfTJuwNC4gLxulBB+MwMtDTbTE11BcbUmYE++yrDQFvrDYmD8DmDUJeff9xIXt4xys7OpIyMI+I7FfTVX5V8EKZSBpWW2qm4uIAKC09STs5Rysy0UWrqoQgQ6r8Fqg3Q9kazgUkaiFGaVkQul4PS0lKjThlqv6/UmILU3qM0/YexQGUUflweIYyO01ksYrMdNs4BXAX9CNbuFaTvQRih3UAYHU5WVroxXbuDdjZFtXel6T9mBkJUUEnJKbGONM1OubnZlJ6uj5IMQi3OSToIrwxCUDuxEhS56/VRz+wcNfXfofKr+nTsOwjHDJIxMsg9OEQVLW0RIDw2GIRdmjExgXCHMEhG4RgdoGYquCoig27MeejavRGq6uwi7VK9gQIIjw15hGIcHbToIH4+ySDOsG+Jbj71UOvoGNV299CFtnYDhBHFYyNhkDpt/EfY9GrIFNTreUbtDx9R/a1esY7sVdWiHqAvyxfDQIxSezdp0UH4nEFqRnzL1De/QJ0Tk9TY10+Vf0fIUV1jgPDYYBD2oDj2IR0kT1ssoNFlP91eWKTuqWmxsLGOnPWX6YTmFOckFcQoBvFCxlQBMxNaozH/cxpY9Ebc+gjusIRAuO2jgXhRI+OBF/Q4sCJgOMadBgx/z/tPJMgd/z5kto4YhE54tMzCdUkHqetIBcn/lfBOjvBjg0HYgxIAoUVetVlkjBwG8eioIE4cIIuFt/V/RQXKkacrKaBYm4qMBcvZqf1PTUWaRT3nQLc/cTIMh026SD8AAAAASUVORK5CYII=",
     "wiki_name": "Super combat potion (Last Man Standing) (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_combat_potion_(Last_Man_Standing)#3_dose",
     "equipment": null,

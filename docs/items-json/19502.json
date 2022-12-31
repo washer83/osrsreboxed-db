@@ -1,7 +1,7 @@
 {
     "id": 19502,
     "name": "Zenyte amulet (u)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-06",
     "duplicate": true,
     "examine": "It needs a string so I can wear it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxElEQVR4Xs3Vz0sUYRgH8F0IOkV08RAIS4cuIeg/4KFj0KVD4KFDdO1QnSIl0qhQ+mEYChUlW7T+QEtE7YfCimmpRPmD/p3H/c7wnX3m8dndmd0pfOFhZt55Z5/Pvs877+RyR7/lxQ/v/j9veflYvCsz431BTL/tlcnXd4IgYnX+sZTnhmTl06CDsn+iZXgIIgoghsUszz6Sz1MPYolxjXs24qhUyLzMvbt3CIUjIAyClibvy/yH/mAsjh4I4zV6f6MoO2uvmkMRhHPODkFfZx4GII6tBcJze+vj8nezVImJAIQcnYVCEDa7aeG0818ThKQeaKE0EIFw7oHWFp7EQDgnyGY3LR8rAxJxcePagpAcCJa3FmhjaTg7EGcJfR6IM0kQZs2Cfn7RoFI6ENeFBSG5BekFXQ+09e15DLT7/U3rIPQDRBRmUr859UDbyyPZghAAaBDGdrQdl8vnTkj7yWPBtQfC2N/l0Qi0/+N9hEkN0ij8uAVd7Tol09dONwT9KY+5IJu9RgtLgB9vBCreuCS7vWfk+vmz0TOYyUOg1ZfNgsI9CDOUBPTsSrds3y5EIDxnQRgfA6lN0WY3LXzlPRCiGRDGZQoiCoEE2HGRAOcYf7PnotyqxIWO9ghky5UZSM8SjhqEcejDMwzMogdaX3yqQBMRJhEIb4gH4udAg/SGyLJaEMbis6FnKOHsoFVBdh3xVSYI141ALBc+G5mBiEI/EhCE+3rTxLmeSQ3CLq1BRNnsTgtBXtmaBWH8r5UXEQh7UIp9KA7SZdMgHNFvy2VBgLcMwmJtBEIy9HkgrjWWKzOQLRv6NcguaO5VeI5jAcIrHwNV9qDU+5BXNg3yXnkN0usnE5BXNg3CPW9BI/jZYLlaBKFVd956YdcPw4KwKWoQIwUol+O2Xi8sUIdeP5mAkjaLTIJlVMf+p2aRXthnjnQ7AP++0y84rYYuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4Xs3V3UsUYRQG8N0gCLyJggKvpK6ii4Kuw4uugj7FTCq1UguEQBCEbruMKIhEMCSiEKlEFDEWQ6QkkpAIRCLM/E+OPDM8s2eOZ3ZnnFnxhcN8nXff376fpdL+L2Xxw/ve8FKW6RfXZer5tSA+Prsik08vB0HE93d3ZPntbfn65paDsn8iNzwEEQUQw2KWxjtlYawj1jCe8c1GHJUJWZbZl207ULgCwiCoMtohc6/ag1xcPRDyNXqzMigbcw92hyII9+wdghZf3wxAzE0Cod6/z4/k/8KwbH15HIDQxtmWliBs66aE3c5/TRAa9UDzIzciEO490I/3XTEQ7gmyrZtSjg0DGiIIzxaExoHg8CaBfk50FwdiL6ExD8SeJAi9ZkGrk1UQIhOI88KC8M6C9ISuBfr14W4MtDE/kB+E9xqEntQrpxZobep+8SAANAi5p48elKsnD0lz04Hg2QMhd326NwJtVoYiTOGgrlNNMt52uC7oz0yfC7KtJ5RwCPDjGoUft6CRnguyMnBces41R3UAt6C/s/27BYV7EHooDejJpTPy7eGxCIR69UHVTdG2bkq45D0QQoNwnwaEXNQpHIQrQQiCei+eD6L1xJEIZHunISDcaxDy8A51GMjzQDg2CMIuTUwqEFYIQRrFhghCnt4QOaweCMeG7qGUvYOSDOL5lBWEXBwbuUF22CwIz1x9BOk8PX9+f7oXAxFlW3dKMoibHVcZvqUF4dggCHtQhn0oBOlh80C44psdrj0BEWVBeOeB9LGBXKywXCAs53og5NgJjWcNYu/sBA1m34e8eaRB3gprOMjOIwvyJjSCxwZB2INygFCqO2+tsPOHQRB7x4IYGUClErf1WmGBOvRwFQJKWywyDZZRzd2jYpFe2Dr7umwDUhRDvuC3vJgAAAAASUVORK5CYII=",
     "wiki_name": "Zenyte amulet (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zenyte_amulet_(u)",
     "equipment": null,

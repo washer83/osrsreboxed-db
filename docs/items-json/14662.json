@@ -1,7 +1,7 @@
 {
     "id": 14662,
     "name": "Black dagger(p++)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "This dagger is poisoned.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu3VIUsEQRQH8HnfYNKWLQsbhE1iMVgUEYMiioIYLBaLQcELVquCVxSxaBBFUZRDMaioQQ6LKIcgfgER8TP8ZeYxt7N3V32zwT8Mx+6F+fHe2xml/jyE1jeBYiCE1Wpkf1v/FUwOccs8dydJCFQREhhEmBgfsKtUoCSO7QoMKmL8lWWqPCAfIwgqFcakM6hUmEBzY9IO+m9VnnaQMMa/INsxwnNDqJ2bjfji7AQSr87ebmxRN9cMC4gxIayvRTjYj3FRY1T9MQ2FMSEsLWpUNyIcHTLq7jbBUz3Fy3PqtVI0hMqyxtZmhJPjGFeXOarxmuLjvUsaRZjsU5gb1tjZjpuoh3tGfX0ySKh1hKEehdlBjYUxbTc2Q352yijXMsFZ4urMjzCGN82PAAcRw4z2cnVWpn2QUsIQF8JMv0ZlKscIA/xwddzcBMaYkP2Kfr6zQqsChTFvDT74AleH7DVhrgh3EgfEuFDzjAlcHT+lwnCkMb/vjIqCbvcuHgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4XmNgoDlg/I8uMkAA5BDG/0UNvGAaXZaOAOEQGAbxDRQUBsJRqA4ZYAcx/k+NiwXjQeWgEF9fMB5gB6E6BhnbmJsPHgchO4aODhpUjgEB7A4aVI4ZoHQDApgOGo0qBMB0EJ0dg1xBYjqGzumG8f+6ZlGwhTCM7iC6h87sEkGwo/b2SYAtH0DHgADj/4YE3v/zywX/b2yFOOrENImBcgwIMP5P8eL8357K+39pjSjcUadnSPy/ukAKKSrpChj/Z/px/u9OFwQ7aku76P/9/QhHPVgBcxjdAON/GyOl/z4OWv8n5gr+X1GH6qiPW2Xh0YeukwaA8b+RltR/Z0u1/yFuemCLZxQhHAWLMjqmJUToIEIBUQTAHEI3x5jryYJDJzbAFCVa6OwQGGD8b2+q8j/c04De0YINQEIHlm4G2DEgwAjORd920jUH4QIQx9xYBClfBjh0GMHVxK5u0f+X5yEchK6KzoARXsYMcOggg0HlGAigt2MA1wOdIMNKoYIAAAAASUVORK5CYII=",
     "wiki_name": "Black dagger (Poison++)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_dagger#Poison++",
     "equipment": null,

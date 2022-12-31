@@ -1,7 +1,7 @@
 {
     "id": 20193,
     "name": "Steel full helm (t)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "A steel full helmet with trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACr0lEQVR4Xt2XQUtUYRSG/X6Hm1kLwRBIKxfhQsKQJElMkkwySZPMzEyTycxMMyez0ZxszAknpzFpMpSYwVxURK1aCBX0V0485/LduQ3t6t4LHfj4GGTmPrzve865VlT832WkdEItB2JnY0OW7sflysXeMMGMfNzdlbebm7KeSkni3owCnWltlSO1tWFAGflQLEohn5dXmTUZHRx0gfhbNBLRU/4tH8vI3s62bOdyshiflUvd3XK1r+83oPJv+FxGiluvJf88I3duxFyglqam8IDIz/L8vFzr73ctO97QEB7QVnZd4pOT0tPZKdNjY9Lb1eUGOhSgZ8kluXV9RE41N6tSWHa4piYMoNIg/LG/L+8LBcmtripQCB1m5M2LrLxMp+Xn92/yae+dtv3Du9Nytq0tSHUcRSzM2uOkJOfm5OuXz9r+ly/0yNG6uqCAjDyYmtLgkpmRgQEFON/RoXOH9j9UXR2UXUaVYDXMTkzI7dioxIaGNC90FUC0P8EOQB2nk1KJhC5Pq9LN4WGdPQxDgI7V17uL1Ucgo52TebIs6UeL2tZelRiEXqCD0aifQEZBOGzy7MqKwgHFIGRVWKDTJ1t0GAIUqaxUqPJf+8syahE/TnaA4DOHz7T3zPi4BpsJfaKxUbvLq9A/VsloXgDi4dyowrF2kSEyw9wBiP3lo2VOVwFCZiwQN8pw2w7DLrqLDX+gqso/IGziwbzncNNd3CjEbTc7lhFqwHwFshn6k3Xc3sGIbQD5+B5k5OnCghtqr3VWKTuDzrW3q0LY5qNClKNSuXVWKRQiQwECUc4ytVPaqxQZIj/YFSAQZXRKYxXtjjKEGbtsfoBhMAYGxGsGVtnpTJhRB7sIs33lsDA+A1FGrWKpsuVRyL52lIMEAGPL+7976YQAUirvw0MFCap+AUTE1jYxhkgMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGElEQVR4Xt2XwUtCQRDG3x7f4R08BBIIEiIhIiKKJEZiJBYZGqmRGVZWFBUdOnTs3h898c0yz2WxU+0uNDAsIu/tj+/7ZsQo+t+laNVBS0O0kxeqxhMqRN2QYIq6yQfDNOIFA+WjNmWjCiVRLgSUBtpL3qgVP1Ix7qdA+K6az3PbTzksRZ3kPbULMDaQ/YTjUqk6pfg4BdqIiuGAoE4tnnGY0cGBoE45HlEuanCGcEqggwBhugCC3EiOAgGtFuEg88XT1oyX6R7yPGHaKgAIjGmdR3W0IgIjy7CXfPL4ew60ovPTU5oMhzQ6OqLjXo8OOh3aa7Vop17n8Tez4xhI0fXFBc3GY4Y6Gwzo5LBP/f19BmpUqzz+nhaiorurOd1ezmg+nTIUVBKg7u4uA20Xi2yZYyBFz8slPd3cpFACJLaZQJvZrEsgRQ+LBTeAAPZ6f89QYpsJVNjaoo1MhluH/09L8cV4ObKDxme0ZAkqwbJ2s0nlUikFchRqxXnBBbgcJ1QxpwwZwpRhwgAEy0wg+42/LD1VNhBOWIVTRh521SoVhvICJEoJEBTCae4hgXIKJBlaZx1OGXlkCLYJlHOgn5SSpQggDwqhNJQNJEoJkKmOYyCU/jFdB4YM2XZ5AELpnw5YhXGHMhJm0y57D9lv+cPSGxtWmdvZVAcwoqaDpbiu1FogwNggHmCkzP/uqw4Asirz8qAgvuobKiQoorEM+NUAAAAASUVORK5CYII=",
     "wiki_name": "Steel full helm (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_full_helm_(t)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 1205,
     "name": "Bronze dagger",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "Short but pointy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABU0lEQVR4Xu3Vv0rEQBAG8J03SJUmTSCFIAj3EhZybyBY2yroUyhoo4jNWYiiKMqhWKj4B+WwEeUQ5F5ARHyGT3eHvd27pHVmCz8IgaTIj5nJrDF/HsL4E6VYCGGu3XL38beCYcjy7IzDeFCrLDVQDIkxiqBmzPSU0QXFGEVQMyY5UIwRBCWFsWkGJYVRmhubOui/VSF1kDAmPiDrGOG5IXRP7Yf44GwCiVdnp1M41NUlwxQxNoTVlRx7uwXOuozqPVZaGBvC4kKG9bUcB/uMurku8dSr8PJcRa0Uze/cLGXY3MhxdFjg4jyg+q8VBu8T0ijCfDtz1/ZWMUTd3TLq84NBQq0LGHv5IT85ZpRvmeAsBVCoQlgBHiKOGQUZIwzxqVdHGBAnKYwN4eG+xPfX5EirlELul37r8+JTrg65Y8IeEX4TK2J8aLhjlKsTJykMRxrzA26gn/U/SCcdAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVElEQVR4Xu3VsUrEQBAG4EyZIkWKQBCEewS7A/EVrhM7D0F9CgVtRMTmbEQUUURFsRBFVBS1k4PDQnwDQcSn+GV32Nu9JK0zW/jDEsgV+ZiZm02SPw+h+kYpBkKY7nTss/qrYBiy2J21GAeaaLU0UAwJMYqgZsxUu60LCjGKoGZMdKAQIwiKCmPSDIoKozQ3JnXQf6t86iBhTHhB1jHCc0M4OS7sB92pgsSrs9XLLerqkmGKGBPC8lKGne0cZ6eMenostTAmhLluitWVDHu7jLq5LvDyXKL/WgatFA1hYT7F+lqGg/0cF+ceNeiX+Hgfk0YRZiZTezY38iHq7pZRX58MEmqdx5jjhvzokFGuZYKz5EG+Cn4FOIg4ZhSUJMIQl3p1hAFhosKYEB7uC/x8j4+0Silk/9JvA158ytUhe02YK8JtYkWMCw13jHJ1wkSF4UhjfgG3l58uiSlhgAAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_dagger#Unpoisoned",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 11894,
     "name": "Decorative armour",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-01-16",
     "duplicate": false,
     "examine": "Very decorative armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu3X7UtTYRgG8HP+Dr8M+jYIQhhDZDARkTBEaSgzJpZMJC1SFANNzMx8TbM13zJNTdM0X9ImZaiZiBZRf9EV17Pu9XgYxjluQeAD94fzjLPz47qfc48Zxvk6X/9smbBXaV0mLrgNW5VGlIlMn6HK7flTVoC1eN8llysdKBPePCNRgrMCkyHTlNLZQClOycSHlRVsvlnE2vwclqanMf9iArPjY5iMRjH2ZBDP+nox0NmJ3vZ2PLzXgtamJtytq0PDrdpUg0xsr69ja3kZG4sLWH01i8WpKcw9H8fM6AgmIhGMDA7gaU+PAnXfb8OD5mYFamlsVKhweXmq2mZiZ3MTH1dXEVtawvrrebydmcHC5KQCvRwexvjQEKKP+zHY1YX+jg4FetTWqlISGFFXCwvPijKxtxXDp413f20XQWwZUUyJMLaOOIHVVlUhOyvrLCgTu7H3SdtFENtFEFvGlNg2gbF9kpjAmFSotBSujAwnKBO376wlbZeA2DKmRBhbJzAmJjiBSWr1NTW46HY7OeRxkN4ugtgypsS2EcazJDiBnZYa2+f1eJyD2C6C2DKmZIUxMeJ0mKSmw/TUcnw+Z6CD7W0cf95TZ4cgQfHairKmRZSkJcXPeE+e3+8MdLizg+qbC+pLpIiROq2FehHMEvzl3FxnoKO9XQWSB7PCVdOoDE+p4gNY3K+oGEWoPHpiL1g2gNJgH0pKuhN7RF/Jz3cG+rq/nwAJygoSqA6SvWQgJlZUUGAXZKK+IYZvB18USFpkBemtFJC+p4N4TRTPFid2ZmaRnVkUB30/PFQgvllW0I3K+AGV9IgRkOwRo4N4znjQCfJ4AnZSioN+HB2dAPEhOkgeLKBrociJPcGweM0DzzFQUlwMrzfoHKS/6k5AgUCnSojjgPMoGAggO/u6fdDP4+MESAaiDtJHgID0PR3E153DkoORv2c+f9g5iANRQJW/D7RdEF93Dkf+fFSUBeHPqbYD4rL+lUl9EWMDZBhyQzrL+szz9V+vX4J4IkwJofsgAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu3X/SusQRQH8J0/wQ9KSm2SJGkTiYiIEELXdfOWd3ltkW2Fe0MXhdvm5iVLkpLyR371HZ0aj2V3nhdSO3V+2Nlm5rPnnJ1nNxTKjuz4tKFgF4EOhejcHOYnJjA9OoKRgQH86utDb0cH2pqb0VRfj5rKSlSUl6OosBD5eXlBohQS+/s42t3B361N/InFsLESxdrCAhanpt4Fcl0kHA4CpfB4ncT9xTluTk9x+e8E/w8PcbK3h4Pf29iJx7G5uor1pUUsz8xgdmwM44ODGhhQlhSebm/xkLzC3dkZkokEzo+P0maNqACypDDU368/7c+eHvzo6tJl6W5vQ2drqy5PS2OjLlFDbS3qqqt1L1VFIjp8BqXGZAISVFlpqV9lU7pRU4GcGBMkKDNT/NZ5RCldf1uQhBPGq8DjNfA2O6lAgkoHY6ZKiouRm5PjBqX0gU6Q2T+CsoExSwKybPLUIEG5hbF0voAE5RXGcA2aHB7Sty0RmaIEZKIkOMc10tjWIN6y3EgOZwjoI5Qz5H0JX0Fm6s15aVpzzryHCOEcga5BLJffIJYtXFBgC1J6Az9A8vjga+4pIEE5T35nvID4IyxTkFx+6UDczwRlmKXXILOBvYDYP7wCiJHn2peCWC6CiPEMEpQNSDDS1ARxHTF8pvkKYhPbgrgX17kAcTj/yvgfxFiAQiFZEGQ4z8yObz2eAe/i6baX/GL2AAAAAElFTkSuQmCC",
     "wiki_name": "Decorative armour (white plateskirt)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_armour_(white_plateskirt)",
     "equipment": {

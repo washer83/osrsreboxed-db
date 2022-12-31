@@ -1,7 +1,7 @@
 {
     "id": 17336,
     "name": "Sea slug glue",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": true,
     "examine": "A rendered down baby sea slug.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZElEQVR4Xu2WaU8aYRSFnZ/QftSmLtW0UYy4ICIWF0QBC7iwyI5aYqPGWBNtYptIjFZr0t98Oue+viODtBVF/NDe5I0SMsMz55x777S1/a+WlYH651nKwHxoHjPzM/D6vHB5XHCOOtHv6H8OKAORlQiWYktY/LAIf9APn38ak75JuCZcGBoZajWUgZX4CtaSa4itxRTYkgm2aILN+eB578GYe6xVUCon8VRcDsGoVjAStFtoKuUYcjwllAKhGsl0Eql0Sv6KSqsxhGNhLIQXMBuYxdTMlGTK4XSg+033U0CpzNAeAqSzaTmpTEpUWo4v222b9WF8chyDzkH09PbgxcsXzYQy85JQeaEqmVwG2VxWDqES60n5XtvmD85LwCe8ExLuvnd9aH/VLkDOrq5mQBkCoiGy+SzyhbwcfqZtq4lVRFeiCEVCVo48Ux6MuEZkDHT1EKSJQBaMBirmUSwV5X9bjqJhBMIByZF3WgWbtvW+7X0iIBMgl8+hUCqgtFGSz1SvNtg6R7RteGzYGpbNA8orGMuuojqEY7Cr51F1+3NQjrpHLZimAaWzGRtU9VnPrCOeVJ3GYNM2qjS3MCft3ySY2iVpiBo87DIC6tbXncZg0zatEruts7vzsVYpEO4mLbU+2q5qGKqjB+TewR62Pm3ZVNI77YFAhuyg/cN9uWkgFJB91PG6w4JibiwQMzs8hKlcVHD87Ri7h7solotIZBLSbey0Ryxaw5otlJ+yc8DpJame0rCpQqsIc/XzCqfnpzj6eoSdzzsofCwguha1WdagSurp2cq0hD9Kiwg1MDhQI/utjWeXZ7i8vsTF9QUq3ys4qZzg4MuBdJjb65YZ9EDLDGxubd4ApWU/8enZvvWDqbY9wWWnmYpR1dv1cfMaYk7ru9feqwxsb2/j/Me5ba5w4t6V3BC79CjQQLyG68PaZyaQ3e6GSilE2wjEZTlt5qceDAH0+tBAen1UA3EGPaLLDAHhjKEVHPu/g9FZ+xsQ7bqbv4bqNqx3YdT3XKg6awKUU5NaD0YNxFDzfaj+fRoofXH9mxgol8vY2NwQMI4IKsr8yKusaTOB+JImr7HmDHqEOvcto8aujNjFXcZ3awL9WeWmlxqeeqdpdbi/aiFaAKPLnrV6ILVXPHnVqvBsIP9M/QIzX0oMQ2M9uAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADhUlEQVR4Xu2W7UtaYRjGe/6G9jkKRlEsGmMQRRBFUYRhRFEYkTPESKQXSZySSHJEcTrFjNpYLI3YmkHrw/69e+e6D7d51EbmSx/aAw++cY6/c13Xfd9PR8f/1balqPZ+lqXIse2gNccaLa4u0px1jiamJ2h4dPg5oBTtB/Zp17dLW7tbZN+y06rdRgsrCzRrnaXxqfF2QykKhAJ0eHRIvkMf7fh2yLXjIrtLB9tYJasONjM/0y4oIychLcQbYFBre3/bZCGUGh0fbSWUAQI1jqJHpMU0foVKB8ED8hx4yOVx0bpznZbXljlTAOp/098KKEXegJftAUA0EeWtxTVWyR/yc57EtpX1FbIsWGhsYowGBgeo81VnM6H0vISNvECVeCpOiVSCdywZo7CuEn4vtw0Bn1+a53APvR+irp4uBnrb3d0MKMUgApFMJymVSfHGZ9gWDAdZQbfXXcqRddlKU7NT3Ab6BvqaCyQwApTOpimby/L7SCxynyOvh5weJ+doybbEwYZtg+8GWwPE6qRTlMlmKHea489QrzLYkiPYNjkzWWqWTQPCH8uGVVAIG3AItvQjBLu8/NEopy1GPwJM04BiybgJqnxH41EKRYxKQ7BhG1TacG1w+TcJpnJIKlYDG1UGQFSYlD8qDcGGbehTolJvf2+jVhkgmE0itWyxywSjqyMNUvukkT/s52oTlWSmPRFI8QyKf47zTTfdmzyPel73lKCQmxKInh1sVFn+Z56Ovx2TltTIG/SS0+3kakOlNTBoVam3QH7IjgYnQ9J4SmVSBVbli3m6/XNLFz8uKPMlQ5FkhPY+7pHtg81kWZ0qGU+fPcmyJfhTWASokbGRCtnvbbwqXtHN3Q0V74p0+euSTgunlMgluMIsi8boeKJlis6+njEQLMF8wtM/HExj2gMceYJi0q3xEHw+wjFE79bV1z5qKSoUCnT9+9rUV9BxqyVXnBtpBQKEawSI55kOZLa7rmUoBNsAhGFpc9hqwkBBGR8CJOOjHAg9qIEqUwyCHgMr0PYfggEIxoYA4Ts5F5UDwa7q/NW17sNaDWP8joEqWQMQKhI5ksYoQBxq/TxU+z51LLm49k0UnX8/p5OzEwZDi4CiyA8fZXWbAYRDGoDQgxpQ57FLmexCsJEfzDKcrQH0b5WbvozmKTNN1MH8qoRoA4wsc9ZqgVRe0fJVqcKzgbyY9RdlcuRBK59+6wAAAABJRU5ErkJggg==",
     "wiki_name": "Sea slug glue",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sea_slug_glue",
     "equipment": null,

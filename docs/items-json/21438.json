@@ -1,7 +1,7 @@
 {
     "id": 21438,
     "name": "Wilderness cape",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-08-24",
     "duplicate": false,
     "examine": "A cape worn by fighters in the Wilderness Wars.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmElEQVR4Xu3WvUoEMRQF4M2bLEwxYLUsiPgWvoydhSKCiIW9jSAIioiwioiIhRba2YigIGIjFj5D5Mzl7Nxkxh90brKFFw7sZHcmHzfJsL3ef2Ur58NkLeeX5ueCZITVGCKasGQVYgb9fhUN43h8p0E1Jw0nTgpyfmtxOA5x4fIkA4WYnZXpKrurEo1LAHJ+e3no74+LKhqD8f21mQBCjBGoxrxelv7hRPJ4Wo4xjIaYYrBExLxcCObtSgIIl8wQghIMQVgiYgBLiJE9EGO4Z4B5v55Kh0EHCEAwBhQ38MG67BdcjzZmrU6TdEVj0AmM8VRtLgw+xXQMcv7uqPgWw/eNfimaY3D9E4zeO/ET/1AhBp/bMM/nZYB5OpPfmHQHGMI0hpPeHhapMKyvMbo7GNeg+EkdlEz6G4wBSCbFkiHoEqIxiMYYdqfGoCvExN0Bhl0z7I5MyL8RxHDZ8J0G6BhgULJXEEzehuE1ATrx0zooAcUYpA0T321U4emaCIwG3ezJ6cqAQTVB8X6J70hQzZOTCVLXJEA+ADRn8QuRAv5hAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmklEQVR4Xu3WwUrDQBAG4O6b9BFEECl4EwQFwYNHn6DgSfAgCIIUVCxtKZZKPVQE6UEUFBEPCj7Zyr/L38xuYhXNbHpw4KdNINmP2UlIrfZflZWxYSotY7d3mkEqhGUYIvKwZBViFup1Fwnj+fhKhcovGi6cFGTs3tLaNMSF25MMFGL2l9ddDhobLhKXAGTc4vdnfReJwe9hYzOAEKMEyjBvw2v72B64PHWGUwwjIaoYbBExr/0rh3kf3bgAwi1ThKA8hiD8EvNwfpES42cgxnBmgPkYT9JhOBsMzgElB5iY45UtrafJd0ViMC84x6dqd3H1S0zJIGPvTnvfYvi+kS9FdQyOf4KRsxPf8Q8VYvC/CPPSGwWY5+6lXneAIUxiuOhtq50Kw5qNkd3BeQmK71RCGTtpdX6FUQB5DLYMQZcQiUEkRrE7GQZdISbuDjDsmmJ3PIafEcRw24CRABkFDMrPCoLFizA8JkAmvlsJ5UExBinCxFcrle/G3GAwQwg+I3A8PjrRnpNZlQfF8xJfkaDyT05FkKzmAfIJOa/XjxzZxhsAAAAASUVORK5CYII=",
     "wiki_name": "Wilderness cape (Wilderness Wars, Champion) (Mmorpgrs)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wilderness_cape_(Wilderness_Wars,_Champion)#Mmorpgrs",
     "equipment": null,

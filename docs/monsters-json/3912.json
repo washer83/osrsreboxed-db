@@ -1,7 +1,7 @@
 {
     "id": 3912,
     "name": "Wolf",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2004-11-02",
@@ -31,7 +31,7 @@
         "mazchna"
     ],
     "duplicate": false,
-    "examine": "Not man's best friend.",
+    "examine": "Not mans' best friend.",
     "wiki_name": "Wolf (Level 64 (Rellekka))",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wolf#Level_64_(Rellekka)",
     "attack_level": 50,

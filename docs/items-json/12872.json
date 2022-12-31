@@ -1,7 +1,7 @@
 {
     "id": 12872,
     "name": "Black dragonhide set",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-12-10",
     "duplicate": true,
     "examine": "A set containing a black dragonhide body, chaps and vambraces.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xs3X/2sSYRwHcP1PBvshCILRvxBDhkMaScMNIyfNsCnmviQqopna1lYrJKJFjRW5FavGWIto0Fhb9EPQl9G/82nv5/q45x4f5U7P2ANv7rx79F733PM89+hynfziJn1057te3PR2JUfry1mR188ytPYkLcKI3c15+rwxRzvvZjUo9SY6hhsgRgHEUTGf3lTow6uS6cL4jHNqzChbSDdtPM83oLAFhMOg7bUibb4siLrY6kCoL6MPD1bo595SeygGYZ9bh0Ef18sCxHWbgfC93/vL9Odb7SirAoRr9PX0iKhXV4rR7HzX8p11EhmEfRyzhJEfAz7nY+eoOHOJopcHaSbqp1RsmDKJAOWSo5SfCopzpVSIbqfH6E42TAv5cVosROhBMSq2OO/3nBa/5TgoNuajxJUhmoxc0OIAAwqQaumaQOG4GVSzB+J+oQOFRzwUCXrrOMCAAgh10EqMeTQbF1sd6NeXp52BcOeALFVCttI1EO4crcIXOtXbKxLw+7X7rUCHX1/UMW2Biol+AcIj0oHkNAMFvGe0IPXqTYoxTLdqN+sgdNRmILV1HAYZcxBaSAVhdN3PjYjoWkgGcT0tSJoU1asrxRjyOhDmFoyo8rRfRAeSUVyv66DZGxdFdBgZxfUcBSE4Vk56xNyCifBeNiAig+TW4n2ux6Cgr+8faLWOsQTCCGsFquZHReT+osIQrtcIqlltHZRjEKNkEGZkXafW7auduisgvLPQUbkPqQhrj8yYqbGvXl1TDJD82HBsbmpAvCQBykwMUi7uo8L18w0Iznx6uB4GhYbOit/CHGRjHjKDeGnKILxA46F+SoY9ND0+QKmrXhPw1qQxLfAIk0dZ2yCMsmYg/DDe9nin8RKE3/Q4x0sPTBGo/7Ay4RyIUTIICF4P8VpIxuB9xxh1+VEHHc1Btuch3WNzIliUtQVSHxs6N45hYb+3tSDOyf9KsI+VAYJ6vKhH3f33d+n7TpV+7D5uB4TSeGe6yBg5Kuhge9EE4tgAuVw8rbeKCpSDlgQIreMIyGpRkVawnOO6/6moSF3U75zo8hcqB3NAOoFcdwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xs3X/WtSURgHcP1DghH9Af3QkMmkkTR0uKEyncwX0s0Jusxhc9kLRTGiMQqiCIqIKCKIEYyxkEVERAT92k+xVv/JE99zefTxeJR7fYkdeLhH7/Gezz33nOceXa7jX9xkDtP5kRc3vX8QoZ37YRXvtufo7dasCkZ8e5Wiry+T9OXFogGl38TAcAvEKIA4dMzn5wk6eBpv6xifcU6PdpQjpJt2H0Y7UDgCwsGgxpM47T2aV21xNIHQXqKPGhU63FvpD8Ug1Hl0GPTp2YICcdtuIPzu94eL9OegRn8/1hUIfZweG1Oh964Va9j5ruWdDRIShDq+s4WRjwGfK6kzVM3PUmJukvIJPxVS01TKBKicnaHKUkidWy+E6UoxQtdWo3TjUoxurcXpTjWhjjjv95xQ1xo6KBXxUWZ+inLxc0YcYEABsrm+qFD4XoIQjkA8L0ygaNBD8ZC3iQMMKIDQBqPEmHv1tDqaQIf7xcFAuHNAtjfCjmJkINw5RoU7CgRLKsrlLWO9F+ioUW1i+gJVM+MKhEdkAsnoBgp40XEnSO+9S7GW6f7jWBOEidoNpI/OkEFWDsII6SCsrtvloArTCEkQtzODWklR710r1pI3gZBbsKJqy34VJpBEcbuRg+or51WYMBLF7UYCqmU9KrcgEd5cDaiQIDlaXOd2DAr5TqprIUszxhYIK4xBCB20WZlRIeeLDkNwOx2EEbI5Oii9QcjIpkltquuTemAQoyQI7yxMVJ5DOsLOI+NMjbreu6GYQVeXJtRLEqBScpLKaR+tXTjbgeC4XpxuBoPCU6fUtZCDHOQhCyQfmwThBZoOj1M26qHl2AQVFrxtwMs5Ky3wCpOrbCQgXBhve7zTeAvCb3qc460HUgTa391IDg7Csu8GAoL3Q7wXkhi87xijbz9aoIrzPGSaR8MIbMr6BslRQoLEZ96soy7/laCOnQECv+d/GWj7402Gfu7k6Nduvh8QSuedmUJiZDAImO+v0x0gDgcgl4vTeq/QgTJ4dIYGslt0pB0sR6vtfyo60hT6b451+QecMzkaZvhomAAAAABJRU5ErkJggg==",
     "wiki_name": "Black dragonhide set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_dragonhide_set",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 19400,
     "name": "Agility mix(1)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "One dose of fishy Agility potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xt2Xy09aURDGPf+EGzZsDL7RahTkjYDIa1ODRQGbNu2+K03TGN2Y2sSkDx+tVUMVEBAQrX2Ypmn6l309Mye3VLtom3C5bSf5woWcwC/fzJwZOjr+nxBoyvAQePjAi631BGq5+b8BSuDz6V18Pb+P8l6KgYbMZqOgVJoI6EvjHo53Z41MnUB/vxV9fQMMRMrvJNHd3Yfh4VEjoARsNgecLg/DfKrdweH2DGx2B8bl5wakTmByMiAVRCCgKQSfbxIut9cYoKmpsNQ0wmElek9g5JohQNFojLW8vIKVlVUsLi4hGAzB4XQbAUQhOEXxeAKJRILTp3UZwRgCFApNMUw8Hud0GQhDITA9HWGgWCzGQBZLrxEtTyHg8fq5hmKxuHyNcpe5PT7j6ocAqH7InUgkygVNkJbutrsk4HC4OV0ERPVDThGQVwJpN3UbXSJ3ggyhdRilba9qYiC3vBhphLTJJYGxMTu7QxAaECl/YeZrgNwbHBxul0vKnUjkZyB63i2b4JQXo33ChZ4e3V0SXB80IqiINaBXuVt4fZTBy4MUDs/NeJYz8fgYtOruEg3UIM8vanOum3wGuZLSm3IWlUszdoomTEiHRkbG0ds7oJdLav+hTtrYuonN3aSESCNfTaNQy7CK9SyLivvR406e+lbrDb1cEvDLdWNzP4n9QgpHJ/M4bqRROkujfJ5hVd5mWeTQ2otOrG2EsbTq4yVOB5fU/nNQSqLYSOHkXRa19wuof1jA6cfbV6QBPd+L8cI2NDSCri5LK6EE3y/UXQfFWRTqV4FI9Ew6vVyQzqUYyCULmzpudNT2PW0tSp1aMwiICvq4MYcqA11V5ULpsJrC+nYnjxGCstudra6jpkMEVLnISCAleiaVzuZYhfocnjyd4bN+f0BB6bPSqqKm/YcuxV+Jznrk5CeHWpwuLVTaCIjGxnU192q1W9PZH3frFsNoof0J/H3pCKNC+4E/0fXv+GfjGx2OkD0n+sHpAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xt2X7UtTcRTHvX9EIL3yZS8lkpjYRMwh+mLLNpfXtblk17U1lKGIY2yMVRRBL0KiEsGkJGMxWPNhPqb5PHVWBvWi3vSHfPudc70+RFDB7m514MvvXna3ffY95/c7Z2Vl/09IOJLhISHQUYlbAxcw8qDpb4CSkBltweSYA0P3GxmosqLCKCg1TQSUfWbH43sWI1Mnoa7OAnNtPQORHt5pQHV1LZqbbUZASXA63fB4fAyTHrmEwdv1cLa54XC4jEidhGCwG6FQD6u7O8zy+4PwehVjgHp7+9HXdyS6JzhyzRCgaDTGmp7OIZebxfjLFHp6wnC7O40AopBEikKIJxJIJJLsjrbLCMYQoHC4j2Hi8cQhkEEwFBL6+wcEUAKxWIyL2mQyG7HlKSQoSoBrKB6PizXKQD6f37j6IQCqH3InEolyQROkqbrkLklwubwiXREGovohpzSgpoOTuoQuqe5wug52GKWtqrAPhQ7GToVbSIlckmC3y1zMsVj8EIhk+vSVjwE6hxoa1FGkBC5JvL0HIhF2RQNKJpN8fW6rALc4qWXZg5oa3V2SuJNTi6Ai1oB8qTSUV2n4xl7g/P5nVObmuX1YLM16u6S6Q32LtjkB+TJZKNlJdL2egF+spi/fcPbtBmRR9FarHWZzvV4uqfMP7STX8Ai8o8/RNTWDLuGGf2Ye12cXEBAridJ2Zvgpd30dXVLHjavjKVzLCEfmFuFfWEbgzQqCSyu8shaXUb61h1OZKVgHn+Dizbs8xOngkgrUMTEDhUBWNxBYzyO4toUb6yd1uvARp9JZtIyleGBrbLSiqspUTCi1TVD9XJ6eQ+vKBtq3C2jffQ9X4cOB6Fpob59fJyCPSBntOJvNcZi2IqWOxowgH4ZU0G1recg77wTQScn5AuTNHbQuLKF8ap5/BEG1CZeKXEdHDhGQvLktgPZU5XfVe5G+K6ubcC6vw/ZoiOEDgRC/T6eRVq0hmn/oUPyV6Fnq/ORQkdOlhTodEhC1jZ/p+GxNzx6frYsMo8Xx//C/Jx1h1NC+4E/042f8s/Ednwbs4+VPmnsAAAAASUVORK5CYII=",
     "wiki_name": "Agility mix (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Agility_mix#1_dose",
     "equipment": null,

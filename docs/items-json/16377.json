@@ -1,7 +1,7 @@
 {
     "id": 16377,
     "name": "Cranial clamp",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-06",
     "duplicate": true,
     "examine": "A cranial clamp.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACP0lEQVR4Xu1WXU8TQRTl/hN+gv+CF1944ZGEB/DFGAjB8J2KfAkiFbEgFQu0UKlFakVLrARITAw86S865tx1drfbQmdZICHsSU7SnZ2de+bcuXfa0hIjRow7A0Fw5IZgE0hQ2s7Bbm4kCJ72PrEIJDjc20NiaCgwl7+DjARxgzxobW2ymGBxerom+EFhF7uZDDKpFB739OBhW1sUUYIXzxJ4PjJiLYguVYpFHB18xa9qFT/29/GzXMZJ5TuG+/vR3dmJjvb2q4gSJGdna8RcLkhQ/pjH2uuk6w4F/T4+VvLdYF+fuk1Rdht0IVhNLmJ+YsJazJf8DopbW75Agr/n5/hzdqakUzyL9mu6EM33m7k5TI2NWuxE8O1TAZ+zWey8Twfmi469fTnvuhZaDBeg7QuTkyE+viiYIPtuVVPvf9d8PReiFUFBPMzN3fHQOJhgfXm5ZnPeOyuIWs+U+XMdnGUP0c1FWMuplFx6Lcqu/sNL40xiXCvMeQ4NJ22mwTUWFOy89RwdGHDpT3/j9S6FkzYexEddXXWByPTSkqaCZHtIvVpQsmcFeYUybwRHFJ1i+nimGJxB+by5sqJjJA+tEUhxRijHrkmMgeMGr4DTw4r2JDa/wsaGtgaS4ljWJIUZIWS4tmEJZyFHWLVU0juKh57uURgdzH9YV3FGFEknr11MLUTdYGBenrzB+d+HwkxqjSim8YbFGHiHmoF5XdAtppGieD2wEKK3ixDwdl1feX7egjv1MEEvYnB+jBj3Gv8Asf5sNnCJPyIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xu2VSS9DURTHnQ8i6VosLGwsbCys2AghMUSMMc/zPNRMG1RQUpJGCImNYCc+2ZH/ue7r6314t1oS8f7JSZvX23N+Z7jn5eUFChToz4jYfPJDsglEHF1bY7uzWYm4orzcIhDxZSzG1ZWVxll8Ny0rEddVVYmjolDIxxlxZ3NzWvDjvV3eXFzgmeFhSSyUn58NFHFrQ31GQInDQz7f3+er+CnfJ5NSNXy/TSS4sbaWy0pLubCg4DtQxP0dHVxfU+PAfA1EfLSzzRMD/U51APRwcy0GSPjSUHYJOiJx3N7UaA0T29rk3ZUVVyDi1+cnfnl8FLs+i0ule9vaLH06Il6anOTBri7Jxj8T4tNIhCPhMIdnZ4zzJM+nhgadqmUMs728JAPY3dKSwZ8/C0Yy0GN9vWm/+ftzRFJ2ZIRh9q9OSh8HI6kaqp2JL5eIDzY2eGF8PG1+zFP2IvHlnhvzhI/UPCArvU++4eRdqTbCl3dhWku17euszM3rNVxxbfa39UOptmEHlRQXewLBMPSYM6wGDOxIT48Y5s60LGG01F7BlcUtWZ2e5rnRUQFAO7EWMBswPAeghsMnYGE5gtFS1cBCu7u4kBZiE2vI9fk5gQOsBtYgAHTPYA5glJQjBZY8OZb3FF6WaCnAMGvYW4DTUIBB+3IOky61MAGBl2U8GpWWAgwGMN1atPGHYbRSQ43geFliRaCNgEKrUBlcBg1kesi5Ull7b57bfqE6Xumgn5l5PlCgf603WkQ00YdK2HoAAAAASUVORK5CYII=",
     "wiki_name": "Cranial clamp",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cranial_clamp",
     "equipment": null,

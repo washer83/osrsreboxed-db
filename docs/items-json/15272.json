@@ -1,7 +1,7 @@
 {
     "id": 15272,
     "name": "Antifire potion(4)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "4 doses of anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkklEQVR4Xt2XTW8SURiFuX9gNrOYzSz6EzDGVQ22aikCpR9UpOA0iFpSrUCFggXakNBgNY2fUaPGRBMTNaZqFOzCuDD+sKPvndxhuLQLk+GSeJKTECC8T8577szg8/0fYuj3SMXwYCeCZvUM1nPjsBL+UUMx/O7m8OvrCveL+/NoN6ZHCcUcmJ+fL+PZ3hxam1McyD82phrK7owA+rGfxZM7Mb6+EfSJwbKyyGSuOOkcfMjg0e0otsqTiERmEZuNq4RiyOWuDfiidQkXkhYW4klMBcMqV8eQLxS5C4V1x+l0BolEGuFwDOMnT6kFqlSqjssbFZRKZSylljETi2Ni4iz8x46rBCIx7H/6gm73AJ3Od3zrdPm6gtMRp9QEoxRobS2PWq2ORqPBTesKhWZGAUNif9e0gXq9wS2AqD+KVyXEcNf8yBOq1W3TyiLROQQCp1UeeRLDtvkKu+Z7xwSX05tI6UVEtWWVKTHcNO71wZDpvVW9BUsvIaZlEdTOq0qJoWm+HgAqGw9x3Wgjo1exoK0gpKVUpMT44Lb57lCgvLGLrF7DorbK16YgJTsdApKhqsZjFI09XNW3kdRvqEiJ8aE75lsHyG36jHokiq0gJftkySDCt4ynfcWmlKjcQ0qJ8YEt880AiBvIXWxKidY2pJQYtsyXR66LXDee9xV7iCnZ3aEyE9BRJiB3seWUzmlLXqXE+DAZQDYl6C62SInK7XFKdpllANkE5C62SElcAiilSW3eu5RkANkE7S62SInWRgkFNE8fS+wLojCdNtkEJIoteiRgTvjsu79HMEL2UyANJstw9FoUW8CI3gwBxpb9g+I/Vy81AUQ9ErcOGcRzGLd6A3pwspWAHCb3YNnyd/9VfwCj4wMEbOPbKQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xt2X/0tTURjGPf9DUEHQEGIiiDZhk2U0FMVUNGJLmSkLZJNybjG21EqzkrAv9gUpzElCVpaCIIgUiBSCiAZFBiIiSIlg03/h6b7neu7u3eqHYDuDXnh+uRs7H573ed+zm5X1fxSDURkthhvt5xC8WI0mtwPV5ZZMQzHMTFzD9LtOTI11oK+nEeHAmUxCMQ1mcjSC3utu7hY9LzCZZEOpmRFA4yMh3OqsR5u3MhN5YmhsrIPH49bceRO9zPN0qbkCFRWlqKoqkwnF4PU2wefzGNTQ4ILLVYva2tNwOIplto4hGPQlye12wumsQVmZA1brcblAHR1BTZFIAKFQK+rrz/JWFRfbkJtrlglExTAwcBfR6CMMDT3E4GA/b1dJyUkt1AQjFcjv96KrK4Tu7ggXtau09FQmYKgYwmG/AhTmEkCUH8mtEsWwtxvSgEjUMhp5u90qc+SpGGK/yrEXCxj0fiYfw8NmdHcdlekSw+p3qwLQaoBZWbFibjYfoy9z0HvbhHDoiCyXFHdilftAcRHkwrwFb8dycP9eNq52SnGJYW3VpgA0K2oxANHzpUULpibz8ORxtiyXRHYIxqj1NRu+fC7EzHQeos/NMlxi2Fi3YTd2XudQXPTZt6+FmP2Qj5EXZu7SzR4TgoG0uaS4s3NiHyZZmxtFPNgf5wrw+lUOnj09hr47pnS5pLoTizmVwz37MgL92CzSgj0xnsvHP40uMWxv2XUwydr6WcSDvbxcyIOtd6n9igqUIpfUyaJRp/zolQgkgk0LUrjU/0B1qcV3OFUuMd6ORJhEkYMi2LQgySVakmlwiUbdoRxa9xepQDvbdi3Y858K+PjrXaLrpM1/KHUuJYMYRRMogr24YOHjL1yinXTBc1BzKDUuKRlSVaOTMy7FRRFskSNxr7mcB1IJI0r9F0gH07Y2AhJQuRZsgqHlKHZQGmDUUn9QvHOp10gcqpIHW1wdiSAph9FX/IA4XKKkgPyp9AcnKvG7/1q/AeDmpwXrq1acAAAAAElFTkSuQmCC",
     "wiki_name": "Antifire potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Antifire_potion#4_dose",
     "equipment": null,

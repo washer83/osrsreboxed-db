@@ -1,0 +1,84 @@
+{
+    "id": 27287,
+    "name": "Keris partisan of corruption",
+    "last_updated": "2022-12-31",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27288,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 300000,
+    "lowalch": 120000,
+    "highalch": 180000,
+    "weight": 3.218,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-08-24",
+    "duplicate": false,
+    "examine": "A mystical-feeling polearm imbued with destructive power.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4Xs2X72raYBTGey7Aj4NSKIiMMEKRIIq0KAuVSjaiSJitVDuqsoqTiWPsTz+M7cvox13ArqW30Ctor+VZzjkkhtjBvvR9feAlISTkxznPefJmZ0dE0ONWiPD95w0UaivACL9ufgvUGsy6/gfKeAX1hQy2fnkCQPBOApQqVfNQ2UplvdUcjOA2fTn3ikVTUAqUb9/xxQT1bpTCGARiaUW+XP9IoRimEoSmq5MVodEfoNUK5FgLuzbalZVW6fV8iT939yiMPsCpHdoCImkRw/Q+fhagvdsHFK6+pQbPP/GEIrTHMxwPJ/AHbxFMF+gsPgkYG/soOsWe45qHemwFVwvUwwi7pefmoZLRXo84SdWa/ZEYvV5vwHUPzEJtiqSNZ2cX6HTeIAi6NjyVlwIsYl8Nh1NUq4coHpTtQiUtPD8fS0aVvCrK5YpdKBUhnK+kfY7zIg3O/F2GRbi8nEkkOHH7jE/fpgir1bWYnSvFnuJrFtI8K20dV4onz/NqtqvEIiyXXyUSOKe2xuTzuFL9/hC+f7INwckiTCbvEUUDad3+vkZE/q7Hrz2ZSLzEVWKTl+JvnwIkEGRjGkmmjv3EUJxThWe7OoHxz0LR1XQ3PI2EXu8U7XYoPwjJNpgXp7sFIJa2qj2dCRR/atyGLyFqCYilQK3xOwEqv2ylMBaAdB/FSX4Ut6/2SrcslmASJROmyzKManMH+m/9BXZygG4pLhkiAAAAAElFTkSuQmCC",
+    "wiki_name": "Keris partisan of corruption",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Keris_partisan_of_corruption",
+    "equipment": {
+        "attack_stab": 58,
+        "attack_slash": -2,
+        "attack_crush": 57,
+        "attack_magic": 2,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 45,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 3,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "partisan",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

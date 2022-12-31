@@ -1,7 +1,7 @@
 {
     "id": 23818,
     "name": "Explosive potion",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A mix of chemicals that will violently explode when disturbed.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xt2X60uTYRjGff6BvvhhX8aLjEHfxJAgUjylczm3eailztlSc2U2FafDbYlgWIF0pKIiKAgqQu2waXQwOkEUEUVE4R9z9d7P4/Pu3asFwfYMuuFi8Ozw/nbd132/W0nJ/1EMuSpqMZw/6cFsfA/GI1UIBSqKDcXwNhPB68dDXNfPtWM+1VxMKGbAvFwewNWFNsxNN3GgirIy1VAiMxLo+WI/Lp/x8fYVIU8MoVA/wuFBw53V+2FcPNWKE7F6eDx++PydKqEYIpHhTeoNHcKBrhA6OrvQ5GpR2TqG6OgY1+jouKFgMIxAIIiWFh+qqmvVAk1NxQ3FJqcwMRFDd08fvL5O1NU1omJHpUogKobFpYfIZFaRTq/gSTrD2+Vq9hihJhilQCMjUSQSSaRSKS5ql9vtLQYMFdPbNIlkMsUlgSg/ilsli2F9xssdSiSFqGWe1jbU1DSoHHkqhu/HnFhPubPS4R4E7LjSasNMbalKlxje9DuwPt2QA/RKP1vu1nDDZ8dcQyni1QLK+u4CFMOPEacAktKBCDId1HCr3Y7TLmUuMbwb0N2J7cwF0kXnT0Ma7uyz46zbpsqljezEq4VMQO8HHXhxUMO9/XZc8thUuMTw4bDuztj2LJBJ9Nxa2IGlLg3XvDbDpYndBXOJ4duwU7SLtAUQBftRj4ab/qxLiZqCuCTc+RU1AVn0ccjBg73Sq+F2h91waba+IC4xfDmqw4yXbwKR+hRx8GA/69NwVw82uXRhrw3zjXl3SUwWH3UC+oM+H3EawaYFSS7RklxwCZfyOHGMf3se5i1ApMhBAqJg04Kk8aclWQCXNsJMQH/RVx1IBpsWJI0/LUmzS2O78uiSFcAqApLBpgVJ4y9domkbqtxmOJQXl34ed+aIJs4sclEGW+ZI3td6yvMKI0v8CqRNTQEnmeHoXAZbwsjcFABGlPhA+Z9L3GQlGD1SsAmGlqIVJO8w5speIAtnlRKQrcp8Yausr/3X+g1G1iq5B4vX2wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xt2X/UtTURjHPf9CUFAoKq5cmxvbcOTybYiKOp0ZaiUYlaKhZNpKTbfKokKSohd6AaHCXsQMUVEpMkREpERs+v98u8+5nrt77+qHYDuDHvj+cjd2Pnyf7/Oc3bS0/6MYjEppMdwabEZvVy3OtvhRW+lJNRTD0nQYC1NDmJu8jtGRVly7fCKVUEyDmXnXj7uRFu4WPXdlZcmGUjMjgD69CeHO0Gn0dNSkIk8MJSXH4fcXae58HO/jeepur4LL5YDH45QJxVBeXoqKCr9BxcU++HxeeL1u2O1Wma1jCAQq4lRUVICCgnw4nXZYLNlygRoaAprq62tQV1eFwsJjvFVW62Gkpx+SCUTFMDDQg0gkhHA4hOHhK7xdeXlHtVATjFSg6upyNDbWoampnova5XDYUgFDxRAMVitAQS4BRPmR3CpRDLs7nRoQiVpGI5+ba5E58lQM0V+l2I22GfR+woaxsRz09abLdIlh5btLAThngFledmFq0oYnjy0Y6M/Axc6DslxS3ImW7QHFRJCzMw68eG5BJJyJnktSXGJYXXErAGcUtRqA6PnCvAOvx624PZIpyyWRHYIxam3VjS9LTky8teLBaI4MlxjW19zYiZ7UORQTffbtqxOTH2x49DCHu3Q1lIH2tqS5pLiz7d2DidfGuocHe3rKjmdPLbh/LxtDgxnJckl1JxoNKIc378kI9GPDowX71csjfPyT6BLD1ma+DiZemz89PNiLi04ebL1L3V0qUIJcUieLRp3yo5cZSASbFqRw6eYN1aXOjoS5xHg7zDBmkYMi2LQgySVakklwiUbdpxwa/ItUoO2tfC3YM5/tfPz1LtF1cuH8gcS5FA9iFE2gCPb8rIOPv3CJdtKp5v2aQ4lxScmQqkqdAjEpLopgixyJe602sC+RMKLUf4F0MG1rIyABlWrBJhhajmIHJQFGLfUHxTuXeo3EoMp4sMXVYQZJOIy+YgfE4MySAvKn0h9slvm7/1q/Ae2YZm7/FtZIAAAAAElFTkSuQmCC",
     "wiki_name": "Explosive potion (Song of the Elves)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Explosive_potion_(Song_of_the_Elves)",
     "equipment": null,

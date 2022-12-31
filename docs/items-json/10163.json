@@ -1,7 +1,7 @@
 {
     "id": 10163,
     "name": "Swamp lizard",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "A very slimy and generally disgusting green lizard.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xs3Wy2sTURTH8eQ/yCqbbAJdZCvu3Llz486FC/8TFfGBiqKiKAoqWqqYVqlaSq2PFlJq6wvxVfx3rv3e8Tc5c7wZM80ovXDIzOROzqfn3jnTRmP3j2ZIR+r7fz6a4dnMiTA/fTzGk/vHwtzdozGEWFu8FAYLF8Pq8wsJlP8jJoZnIKEAKTxm5en58PLx2UJizvnORxFVCdkMCw9O/oHiE4hCoOW5M2Hx0ak4l88UiPkWvbU5E76t39kZSiCOVR2BXs+fiyDNHQXivh8b0+Hnh/52zEYQOfZ0uzF8djeysuuvFoikKdBS/3QO4jgFWl+6XABxLJDP7kazsAwk0ubm3INIDkLLOwq0uXy1PpCqxLUUSJUUiKp50PtXFtSvBtK+8CCSe5Dd0GWgj2+uFUDf396bHMR1QEKpkvaJHAX6tHK9XhABwIL8hhaI37AY5n4Z3MxBW+8eVnvCLMii+PEUSBjmcX97X7uAYu7Xwa0kyGcfMbLmRbIykDa05qcwOWjt9k5BWQ+iQn8DMYf5rb3t0NnfyTEsrQUxvwAyTdFndyP7sRSIGAUiuge7oXOABEUQ82oFCUWQgI5LAo4FIaYOTcVz7vPLVRvIVolPIRQsE1Xhk3OqmAJtvLhiQLM5ZiwQT04KpH8xqASAVq+VgczeSYGoDq8NW6Exq8MYgvw+UrOLlaEqvytjq+NBWi5eG7WBhOK6KqQNTPSO9HKQKulBdGkLEspnT4wMlFo2gQAQoLRUaoopEA/B59UbOYgeVKEPFUF22bhGglilw71YHfqPXS4PojoTg3jKykAkyMqdhaojkPaalqs2kF82rgtEQpLbd5h6FfdpLiAe+QJouwdV7kOpZbMgjstAdv/UAkotmwXxnd5vHqTXhpZrQhBjuD/KwmJseBBN0YIUFUCNhtp6WXigDbt/agGNOzxyHKxiOPc/DY9Mhb9nV49fvZuaJavzj7wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4Xs3VwWsTQRTH8eSYQw7eRBCCiIhI8Q/wD/CiWNEqVqVqFRQKAUX05kEQRBREERQRsZSilmIplVARERFBRAQRkVr9T8Z+d/klb19m02yThg48djZ5m/nkzexMqbTxWznEI/b9urdymL07HGbuHEzi5e0DYfrW/iSE+PT8RPj4bDR8eHo8gvJ/omd4ChIKkMJj3j85FhYfjWQG5p7vfGRRhZDlMHfvUBuKKxCFQI2HI2H+/uEkl2sMRL5FLzfqYWn+/NpQAtFXdQR69/hoAlJuHojn/ryZCH8Xr4R/b68lIMbYU6sl4Ud3LS27/rVADBoDLTw40gTRj4E+T57MgOgL5Ed3rZyZBgYSiHsPYnAQmt480JepU/0DqUoMFgOpkgJRNQ/6Ot0CEYVAWhcexGceZBd0J9C3F2MZ0NLCxd5BfG5BqqR9I/NAP2bO9B8EwIL8ghaI37AYcn/Onm2ClhuXir1hRUHCkMvz+zZXMihyf70ej4L86Dkt3bwYzKL4cQvSglZ+DCPQ77lzawWlexAVWg1EDvl7N5XC6NZKE0MlO4Nam6If3bX0x2IgwoLoC0RMbK+G8W3tIHJ5pu8grgIR9Mmv76iGCysQrtzznK/OuoDoC6EYq1WSYLq4Jy8G4tgQiF1amK5AvDkCWZSm5/JKJQAMVdN1Qwxv6Qzi2LAV6rI6tHyQzidyWCuEr04MxHRxbPQM8tPGvSrEmgED6sbudO1ondmDVevn+6vTGZBQfvRIywfxOd/fHKqG67tSlKZKm2IeiGNDIPagAvtQCrLTZkGasqs7q0mFtO9ougYCEkogBkjLnYaqI5A9WMnlDesJxGu/GogcBrdnGPcWpOq0g+rF96HYOrIg+gMH+XXkQSBiIB0bArEH9QCitdZHp7AYGwKpOh6kKAAqlbStdwoPtGGnqy+gbptHdoNVtHIH1DwyFv6ZDd3+AyRfFdUsmeULAAAAAElFTkSuQmCC",
     "wiki_name": "Swamp lizard",
     "wiki_url": "https://oldschool.runescape.wiki/w/Swamp_lizard",
     "equipment": null,

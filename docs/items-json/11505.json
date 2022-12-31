@@ -1,7 +1,7 @@
 {
     "id": 11505,
     "name": "Antifire mix(2)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": false,
     "examine": "Two doses of fishy anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xt2X7U9SYRjGff4OvvDF4TugzpchiLwJmGw1o0BAAfNra67ZsjH71stsZqVGVmiZ8wV5nWamzmlp5of+o6tzP2cHpfpQG4dT3ds1Doxxfue6n+e5Lyoq/p9iOJPixXD7hhnP7nuQTPT/DVAMO6ko9rPDWJ7zcSCdWq0UlNgmAtpLX8NS/IqSrWOoq9OitraeA5HeznhRVVULvb5ZCSiGtjYDOoydHGY7GcHCdB/a2g1oFT5XoHUMVqtNkB02myQHurqsMJrMygB1dzsFueB0iqL3BEauKQLU03OBKxYbx/j4XYyO3oLd7oChw6QEEBXjLert9SARzPMWSruMYBQBcji64fF4sDSwy9eTgjBUDC6XmwOlwsd8/Wg0NUpseSqGTrOFr6HkwCHWBj/hjuehUjuMivFtTutnLXSAVQFqqm+RQ2qqyu4Sg8Fg4u1ajxwhHTnG+uARFn07mLiYgE7fVG6XyB07VoMHyEVOkY+eIhv+isfqPBLe9xhzPuIjpEwuMbS0tON1f55DbES+YTMq6ol6ExOqFOKXcqiv15XLJdGd+cAmB5IckkQuPVCt4bo1hupq2V1ifJJPehfwJvChCCgbFa6HTgsu3VMto6FBL7dLNFDteOHLYjH4sQBEMBLQtHqr4NKw8Saqa+rkcknMPzSrXvlzWAruIR0+QSZyUgSUCn9GTHBnVJXAiCoOrbZRLpcYLMKsmrmcxEL/FlZC+z8BZYdOkB46LgKKGkd4iJPBJTH/xK+mhfWzzQ9DGhd0BmWiXwpKRY/wLrRbAKKwptU1orJSU0ooBrNwAtPumvSuYDaQQyK0I2gX88JQpdfzmvVnC0AmYZQ0NbcW2lai1okxg4AokM0G8pgLbuFlSBRdk+LBDa4p/wpCrmEORKOEom6J19GZQxzIn8FzIf9ImvFluJ76UlxjfRM8QdqFaEIPIlOCFBc15R+3210k1y9E37NYbEXTv+RA9LR0Ixqq5yVlajFXn2Vrk6lLLhippD+Bvy8ZYcSSbvAn+vE3/tn6Ds8cuy411snVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xt2X7UtTYRjGPf9F+El812mKztTZ3NS9aU0wC9zSslfNUveigh/M+lAIQYREFPVBJCKiCEL6ICSW+d6cTp0snS9nvn+oP+HquZ+TM60PBW6nuuHinMFhz+9c9/3suRYR8f+UgF3JXgLqqtNxq1WNrs6SvwFKwJvuE3j77BQe3zVxoPSoKLmgpDYRUM/Tk3h0xyBn6wQkJCQjLj6RA5EedOgRExOP1NR0OaAEKJU5yM09ymFed5Xh/u0iKLNykJmZLUfrBGi1hSgoKOIqLNRx5edroVKp5QHS640wGHZFnwmOXJMFqKTkGFdb23W0t9+As6kFRUU65OTkyQFEJbAWFeC42Yyr74Z5C3d2GcHIAqTTGWA2l6JhdJa3S0YYKgFGo4kBmWGbFTlQdHScHFueSoBareEzZJvyo9GzhPKOe3LtMCqBb3Oan8YJH+onF3DmRQ+HjI4Ju0sCsrNVrF3FsM+uwO4NwOYVUTs8A2v3KyhS0sLtkuROg8sHx/wmmvzbcC5sItu7gIv9LpR2dPIjJEwuCcjIOILL7wdh922gWfyCFvErV+7nZWS5Z3C2dwiJSYpwuSTw3VQ7PAbn+haca1toWttmYverkkvKMTcMbTcRGxtylwR+klc9f4krbFECICDnKkExBTaCLikHx5GUlBJqlyR3LvV/xDW3Bw4G4CAoJgJqZleVuBF0SdPUiti4hFC5JOUfOqtqBkdR75mDY2WNaR1OcZ27Q0BO/woimUuRrmkc6h9EcnJqqFyS4sb53j7UjLjQOMd22FKAaTUIRHIuinuANPYWHuJC4JIEdKFvAHWuKTT6/LD5RQloeVcE2TDlDQJRWFMoDiMqKvogoaRjguannAFVMKDK+WWmFVQtiEx0/a7FAKwT04h0z3IgVZ4aaemZwbYdUOsoZmj5jyEFMYvLg9PeeVTOSaJ7knXGByubrYqBYRirz+HQhxH+IhR1D3iOdh0iIKtrEtbJmaAI0DI2AcvIJ1iGxlH28Al/TqfT87wUogQpzRDlH1Nx8V6ZfhY9p9EW7Dn9DxyI3pYWogy0X7/K1nl5+aGC2akf/8P/nkIII9XOAn+i/d/xz9Y3zlPhIV5ZzwsAAAAASUVORK5CYII=",
     "wiki_name": "Antifire mix (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Antifire_mix#2_dose",
     "equipment": null,

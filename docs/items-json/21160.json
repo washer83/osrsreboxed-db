@@ -1,7 +1,7 @@
 {
     "id": 21160,
     "name": "Amulet of bounty",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-02",
     "duplicate": false,
     "examine": "Saves seeds when planting in allotments.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/ElEQVR4Xu2VT0sCURTFfd+gVZs2Ay0EQRAhIiQIWogEYRAFQhAFIlRQiEkZYhhkRGJBUYltNCKQaFPSItQWRRb0Z9HXOXnfY2xypGakmYnowGEU5z1/c+6982y2f/1dMXxtU8UQGe/GUsCOlQk7EpN2JKccWA86EBqW4Pd0mgnGsDDajbkRiZvACCo940Ru0c2v9H16yDQwkQ5B0VVdKuHNkIP/bgIY46Wi0tBnlyS1tAxApVSD/ZgYLwd50tvVAGq+S5YSjBJ1SLZv1+gU4w3cnE7zXZ8lyqdvjWaJcvl6RfTaNhZlo5JpX6NZrI0nFalqKXEbYhgb0LuxSNUwIHlStG8sgAKDvwiIxt4wIL0NrX8qdUk/EKVjUP+QGDz2Do2bi3TovDMoHVJ9yvq0Pq1oZoPeP7Lq7yGvBJ/7uzPp47gwMB0Sw2m8B4H+Lgw6RelamVKUbWA6skRK9GfUTyuRCJKxGDZWEzw5f6+wEsZwoN15FzKpFPbSW9xba2scygIYEsPJUQ75g31kd3ZwdXXAHY9GrYE5Py40IJReDocbPWQSDImhVCyqYGTPBoNmNLFSDJXSpQpEadOBajdVFYSlQG/PT7ivVlQgFgGRGF4fH3BXLqN8ccF76iyfRyF7iMPtjBVAJIaXWg2319cNKAsmrFmfjwsZ5Kdh3gEvuiLTTfWvCwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSElEQVR4Xu2WMUgbURjH/cYMGW44kEDAqXPXDoI0KCqt2ICnmApRaSRN1ahpGmNSI0kM1lbTwS7pIB1KBikUCh0LXTt36VgopXOhS4d//d7j4uWStu+pd4HSH3wkkLyX3/2/992lr+8//y6EP5evEO4v38PmWhrb2Swq+TxqD4t4Ui5jKR7HxNion2KEjVQKK4kE7i4sCLGdXA5Hj/bQfN7As8f7KGYyWLwd80uM8GB1BelkUrx2tkpWfXdXyLLYjZERL8VItIpbw++vDgx0LVugWtgSYvOzsw6xS4NEe7glc9PTLSH3t2ycYpyoaRh/XaOJvGJ3Ou5vtUM4rFY11yhDIp3rg4MaV0rYK22Ls6S+Rhk6x5XKNvMZ8kTo1vi45saErfV1xKamNNcpQa17i/rGcipnolHNdUpQa3TVN5b3LWtyUnOdEoTRSERj4/NMpRaE4aEhLSFOx6PzwxCiVkBxc5kOP+88Soc5HeFaUFmI0/Fo3G0IL1+ZSKWllPvTM+Tjgv8ReJgOQ3h7coLagYHFpGxdt+IUi5Ug8iXVNC8E4bhpih+1YgFUhoPYHzPw9KYhklvNBJEttMt4LtSo19GIGnhhyTqaMITURk7KcDo+yTCnbZs38XrORHPGhGUERHFSnIrvMu8T/S0JZ5Ui9kH3TYYhfEh1F+JavubLIXZC+JQJdYg4y3ehb4Vwh0RPhX7WruBr/vdSPgsxhB/lML5shvBxLSTO1Ls7/XgTl1PXAyGG8H0njM+5M6keTJib9seFLXLZMr8A/aH5D1Sh01oAAAAASUVORK5CYII=",
     "wiki_name": "Amulet of bounty",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_bounty",
     "equipment": {

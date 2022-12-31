@@ -1,7 +1,7 @@
 {
     "id": 1043,
     "name": "Jungle horror",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2006-07-04",
@@ -29,10 +29,10 @@
         "vannaka",
         "chaeldar"
     ],
-    "duplicate": true,
-    "examine": "A horrible emaciated ape like creature with beady red/blue/yellow/pink/green eyes.",
-    "wiki_name": "Jungle horror",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Jungle_horror",
+    "duplicate": false,
+    "examine": "A horrible, emaciated ape like creature with beady yellow eyes.",
+    "wiki_name": "Jungle horror (Yellow eyes)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Jungle_horror#Yellow_eyes",
     "attack_level": 70,
     "strength_level": 70,
     "defence_level": 55,

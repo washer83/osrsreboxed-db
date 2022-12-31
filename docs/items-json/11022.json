@@ -1,7 +1,7 @@
 {
     "id": 11022,
     "name": "Chicken legs",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-03-26",
     "duplicate": false,
     "examine": "What's the matter, are you chicken?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfUlEQVR4Xu2Xy25SURSGOW/SR/AlHDhx1KSJAybGxMRgVKK01jRF6qU2amtLI6EEWkjl4gkCpXgsIEc8IkIRyk3o3Vpf469rNbtGjUP30cSV7JC9J+vL//9rnWCx/Pul4PdHeikILt2F1zuO2dkRTD2ww+m8hGHHedhs58yAUlCpqDDeBpHLepFMziEafQi/3wW3e5SBTg0MyIRSsNHQUK3EYRgh5HM+pFfcDLUYmJANpKDb0dFsrmG9mkCpFEah4Mdqeh7PY4/gW3CaB/SxtoLy+yh0PYCXmacM5PGMYXDwtMwcKeh0CmxZbT2JD+UYim8WoWkehMNTnKGhoTMyVfoViHJEloVC9zEz7YDVelYuULuVR6Oe4QyRZaQQBVtVp3kV2K9Z5QPV66s8ZXQoQ6V3y5yjZ8uTcLlscoFazSwDkUJkG00ZBZzAEi+e8LKUCiQmTPySXZQpso/CLXkXHQORSnQoS7StRa4oT5QlqUDUvN8zTqaN3rrdIh/6pJBKEoGovqlUdaFWGkdZv8XN9/ohbHc86DXuIZe5IR+oVBjFa80BLWXn5pvtObRrE/wu3qQCVYpjrEQ8YsPSwgVstmbQqNyGkb+JdPyqfCBSg+xaS19HJHgRW5151MtOFLMjSKlX5AMJRfRXw6zSTtfLuSIbE7HL8oEIoFu/w5khi3Z7Ab6TQgQoHYgAehuTnCUG/OQ7ARIwUoFozPvNxzz6AohyRRZKVodKwf5WhEf9rwE62FZ5EQrLSDERalOAvuwmWBXaO0IxU4EO99M8acKig504W2bCZ4NKwdfPGmdIABzupXjqTAKi+v7X+bj5j3cTgCwW0Vg0//n+v/5kHQF+EduiOmChQgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACm0lEQVR4Xu2X3UuTYRjG9/4nHnfkQZ55EAhBZxVRUSOi0miKZrMPKVsKY7Wo+Tm01RpLtmnzu2lzbbbm3HTNOV1LTezjH7nquuXNFDr0eQm64T14Hhj3j+u67vthJtO/Xxr+/ikvDT3dLXjoaIDNVgur1QyL5RTM5mM4cfyIEVAaUh/8iMXcmJx4gkDADo/nLlxPm9HRXidAlRUVKqE05HJjmE8NIv6uH1OTLoRCdrx43obOTqtqIA3F4izy+SksLISQSHgQiXRieMiBl977cDobjQH6mJtAJjOM5Hsvom97MDriFIXs9npUHT6kMkcaVlaiu0BJH2KzfQI00N8qGaqurlSp0g4QM0TLCMQc0bK+3ltou3cZNTVVaoEKhWkBSs8HxDIqxBz5fA8kQ+fOHlULtLwcwdLiiABx0pghhjscfgS3+w6aGs+oBeKEZbNhAaJtVIfnmekuvPK3y7JUDsRA68HmHqKFtI/hVryLNAEhFD9ax22t20j7uI+UArF5qZSQcBOOd9xNa6sxeVKokkIg1i/b0i3IzDVjbqZBmm+VPVgvurC61Irx0BX1QPFIPd6M1GE0eEmal5cdAsl7/U4pUDLaiMnXtfB7zOh6fBKlfAdyKStiUxYM+S+qBypkbopdVGOg+zTKBadYOD12FUHfBfVAn/J2LCZviG2+Z+clP1SIZ6qmHIgAVIkWUZHNtV4Us7cRnbgmgMqBCMCJ0qdso9glgLRMh1EK9KU0gFLOhlSs6TcQp+xPoP2/OsDi3vFKjtLx63uAmCFDgLbX/TJZHH9dMT3UhgB92wxKsBlqAfzsEyDuJkOAvm+FBUjPzNeNQbHMMKAf2+PyXOjvFgENesf02v3rvNN879kAIJNJb6w333/+XwdZPwEuf8CpBh54DQAAAABJRU5ErkJggg==",
     "wiki_name": "Chicken legs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chicken_legs",
     "equipment": {

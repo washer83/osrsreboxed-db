@@ -1,7 +1,7 @@
 {
     "id": 19433,
     "name": "Super magic potion (2)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-09-05",
     "duplicate": true,
     "examine": "2 doses of super magic potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPElEQVR4Xt2XbU+SURzGPV+gT9AL18u2NpprtUmpgIiCKGn4QLciyoMYAgLy6MPSoRaluZiOWmlZloWZilZmy1prrRe96EUf54pz2H0L6GptcLP1366NMcb57bqu84e7rOz/GIJclXQI5ibVGPfL4bZWgtNLSg1F8DllxcGmhSkxq0M0UldKKCLA7L/qxUKsGRPBWgYkKS8XGyrTGR5oL2lCfEbL4itBnwg4zgSjsU9wZ/e5EfNTGox4a6BWN0Hb1CImFIHVaj+iq1wP2to5XG5pR62yQczoCAadLian0y3IYDBCrzegoUGLSmmVuEDDw35BXt8wPB4vOjq70KhtQXW1ApKzFWIC0SFIrm8gldrF9vYOtrZTLC5lnVooNYURFeiaw4lQKIxIJMJE41KpGksBQ4fA6/UhHI4w8UC0PyJHxQ9BKBzOEY1MrWmGVFot5pWnQ+ByDSEYDOWIlpruH5lMKbZLmVsWCAQFmS39bFnSHcQXWyQgwnaO3x8QRIHoYjT2mFmP6KaWy0X7kSVwuz3CDuKhbLYB9PZZhdjqVBoxXCKw2x3sdvnSy7DWMYGLvX6cb7PhTH0HzGabEBstt0KhKrZLBD2Jt+iKb6Jz9gX00ytonVyCNhxHvecG5APjDLCSc+NcqxkSDVdMl0ga4iXsq99gXfkCy/IBTPf2YFzcZYCGuSTabq6iNfoIuvFEBtJ3C3XuaDFcImiPraYP3kLvg324t37BtfETjuQPDKx9h+3pVwZI3ePmNwT3lK4oqvoCxXCJwHBnPe3IO/Q9/HCsTIk34O6+RuftNVyZegztSDwDZAmjOq0CukTQEXuG7oXUEYi/Aanc05D1j+GSyYcTJ08VCoqwg2hU5qWPTBSAf82LukcjzQaq98SgGLjOYrtgcBQqOsIOywfIlwCULj4FahpdgNo/y2KrsY1C2j2EivTNK5hLluVPf5Tp/vscIN1YAprgPIuNOiTRGASHCuJSdl94V/KBaM8okH7mCXOIwtD+nJbpCgnDT+ZfID2Y9ikbjgLR9ygQvY08DN+bIsBkJvOF/DMXEcD4ohsXdxiMcnDyCEjBYbLn8IBDuHyJAnLcZB+cr/zP/uv8Bv/JRCwhzi9OAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xt2X/0tTYRjFff+HBAmjIZUyLE1tS5s4lImpaMimMpsIrkk62nK4/NbUSkKTSrEf1ElCpqKSJIhYFEUQhkrfDEREEBNBV9BfcNr7Xu/13qsFwd0d9MD5ZWy7H845z8MWEfF/DIFUYR2C1vpiuKvzUW41Ij87KdxQBLOTzZgZb8T0WAM62myoc10KJxQRYKaGvWi/aWVu0dcTNRq1objO8EATQx7cbizFNUduOPpEYLOVoKLCKrgz6r/O+lRjz0FOThby8kxqQhE4HOWoqqqQqKzMAoulEIWFF2E0GtSMjsDtrjogq9UMs7kAJpMROt1ZdYEaGtyCvF4XPB4nSkuLWFQGgx5abayaQHQIens74fc/xMDAA/T13WdxZWamC6WmMKoCuVwO+HwetLR4mWhcWVkZ4YChQ1hUPl8dEw9E+6NyVPwQAYYXjYyuPF9o+SdCOCRY4moWl1jiUqvsErdlzc0eQXa7jd0heoP4YqsERFBbexVNTbUS0UNJLzffo4yMVLVio3E5JXeIil7qysoyITaVXCJwOu1su+rrXWi/E4Mb3mOwV0ahqChSEhsttwouESzMp+Dd20S8nDuDqWfxGB3RYqD/FLo6Y3CrTcMAnTVHg/FFoaQ4MpQuEax802FzIxVrq3osfzmHj0spmH+fhDevOcDp5/EYH9Ni+Ekcg+zpPsFAQ+ASwaelZGysn0dgNxu/fqYjsGPA9lYaA1xfS2WA1D0x3NDjWHTd44AUdolgdUUfhLiAQCD3UO1spzHg5WUdFj4kYXbmNAPq6Y5BWyuFUcwlgq+fk7H1PehOoODPCsJSIBorD0Sje9R7Eh13NYiOjlAKigQj0e85IYYwSxUE2tyQAo08jYO/n4utxXdcqejIXlQyALl2jRKgudkETE5oMTjIxUY3sM4TrZxLPwIlf5Uc6NWLBExPcbFRhxxXogSHlHFJEhnnyj7QZbZ9tGe0/IuLycwhCkP7YzEfURKGH+5XIHWCPvwAoAiI37CmRq43IYDhhvtC/j8XhROD5bK7RGFokeUgisOIZ/8B+3ByqQJy2IgfLJf8vf86vwG/ZWVq7+dMwgAAAABJRU5ErkJggg==",
     "wiki_name": "Super magic potion (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_magic_potion#2_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 10890,
     "name": "Prayer book",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-06",
     "duplicate": false,
     "examine": "Used to cure poison through prayer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRElEQVR4Xu2VTUoDQRCFnRvMyrXgQhAECQQJIkSycCEIghBUAhoIEYmgohIVIf4tBBciCEIU9QSewBt4p9Lq9mVqanpCTI9xoQUPks5k6uv3muqhof/6exVQXAOvOEB5tESrY3O0PjZvPg8IKgKolEKqzoVUn7dqLIS0sxjSxsTiT0NFEOwAg0AaCKqNL5hn+T+TIyNZQEUQ/HIW75oBoG5A/F1C6bd/swJjuxSasiQUgCQMgFi8iQxcCmhnstyRq5EE6waEZzxdskD7uRUjPqgsV0PI9ZuM1tOlwIA0cxWj/aXQKA3s9e09saaBAKU79VjWoeP8mtFhOTRKA/sOUJ8uWaBWvmp0sjJs1A2MoVySQMtFT5fYnavCZgJIQmkAyOUQgPp2CUAulzQA5IpNAnm7dFmo0/V0IwGkowOQPl/aqQymd5DqkjxHgNJrGowHJYal7tRjWSCXS7o5HNOHHmAMxVOfr5RMXdJxSSAdp35ma2Kpcx1l4hLmkquZBEqA8cT/uooYCvKGYpcYSl4pMi6GkNF2pv3n82e1KWpV83S8lqdmJWfkEV3cJTTBrnHv8Tom/HVjOqarzQI9PpxSu90yZwowfQJxxV3C7gHB67e7M3S3V6T7gyK1m7P08nxBT0/nBgCHW8ojMq7IJUC5IB6PSokoEaeOzSMylIU6m6rFIFzNWTfbM524LuuFnwNil3RzHOZWZdjAslM2knR5niGUhZKu6Mh0w27Sb++j7B3HzaG0nWfUsJdKBxgwSFS/DjDo+gA9xNuwQOBkfwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQUlEQVR4Xu2VTUoDQRCFM8tZuBREEIKEICHIIAFBFMRAMBLEQIhCRBSVoCL+LwQXgrgQ/Al6BY/gEbxXyZumZnrK7lHSY1xowYPYGX3fvCq7crn/+nvlUVIDryRAbaRCS6PTtDI6QwsjwaCgYoBGxafmtE/tGZ86cz5tzvu0U/WpNTYXgs0Ol38KKoaAEUAWA98IBOEzUkJi+J0gn88CKobAG0MwAQAEmDQgnGXYOo9W8/MJsQnEUCwbEL5Dohmk5NHmeC2WZmQCSwPiJB1TUkA7hbpSVQ2rDUyHSQNySMmjbqERaa+mgGxgr2/vn84kEP4JHFLywmQOisuhAMQygUkgvaUSqM+UVMtOJ1p0VGzSYX0oVBoYoEzSgRbKObeUAHNV7kRAJigJwDIlxEB9p8RAekoMJQFYtjliIOeULktrX6akJ6W30TRPGdzenjUlOUs6kAkMULi9+bKUTt8sBWRLSTc3JSfBeA1lmpLNVAeyPbOer0brKJOU9HtJmvG5nLPw2UI9WkWAYjlDISVA6SvFBMTi2x7Pn7Ym6KhZpIPlInUbhVAOrUumxCb81rz3cM43/FWnnNDlWomeHk/o4f44HHKG6RMIlUxJ33f4Gec3W5N0ux3Q3W5A990penk+p17v7NMCZjm0DBWnxFAmiKf9SmQo2ynb5tAyLgWFPScBTPN0vTEZteuiXfo5IEia8yAfN4bCxACqWmKX4wxxKSgdSLZMGqZJ/vU+Su04GLNsb56R4XfKDjBgkLh+HWDQ9QFqLJYyUgZ5EwAAAABJRU5ErkJggg==",
     "wiki_name": "Prayer book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prayer_book",
     "equipment": null,

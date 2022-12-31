@@ -1,7 +1,7 @@
 {
     "id": 22152,
     "name": "Adamant kiteshield",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-11",
     "duplicate": true,
     "examine": "A shield with the symbol of Saradomin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTUlEQVR4Xt2Xy0tUYRjG5/sPXM3GzYALQRBEkAhx2SJwIRSBhFCCtHHjokWLoIWImeakpuYlzTHNccwyJzMVNW94afJWk7dhVPKSVn/Ck8935htnzoxZzhlGeuFhYBbn/Hje5/2+95hM/0cJ6P+JYQm4pqZwTqAE5ibG4V5cxPjAwHmAEnAvLMC7vu53KcViiRWUwLLLBe/aGsw3ivFl/lOsXRLYWPmKzY0NCUSnZj6M4n13dyygBNbdbnzb3JQwUtfvYXZsDEO9b/DSZvNBhVNUSkgY5Y4CYsCHnU7pkrPTjlfPW2Fvbkb700bYntSiqbo6DGDEoALbXm+wOz6guGt3MD06gonBQYz0vcVgTw/6HA70vGiHo6UFHU1NaK2vw7OaGtRXVKDWWo7KkhKUFxVFAiWwt7ODLY8nBOhmWirirtzWlFWgKTNf0+VbftExQtU9ssJaXCxhOJ1nmFCB77u72NnaCobxAeWkppwMcilX/rKFdIkOPS59EAkM6wR3fEDZKcnhQXwwVFtDvcwS26VadWaYw/398O4cKe9CGq4mJ50IotxhuNkqZid67hxp1GZBVlLSMYgORrnTWFWF6odlKCssjJ47VHdlfDCQDoZTxiCzVREGmaW5w3EvyEj3yzOQiM+9CeittcB2Pz4siBIny7AgH+zthZw7Cmq2UwNqK40PgVDiyc3sGBBklsDu9nZIi8x5Vqz1J2LanoC+Ogsc1njZNj0MxQOR2TEkyMwOWxUEk1sqgdxODYbZoThlBAuE4fXBc4fuRBhklggOMkEC1N8QOlmEChx/jjrPHUPc+fXjMCwIxTDrYfStojjqPHcMcUcf5EDJUzkQJgyQge6wtFE35xSGKD/9ovbSPwAFZseUlBGpOyyBnwcH8KyuyHsqUNId9fITgNRkGXDuBJaQQFxPzdl3pXhnnXaBqnOH2TGlZRrhjiohl3h+5sxPT8sF7LT1guKprG50A91hacFeWVrCwswMpoaHT12+eGcxO2xXXEa2ke6oEn4g7sxcUSeHhjDW3y/3Z66p77q60GvvwOv2Npkdf7uMdUeVwOryMpY+zkko1+Sk/NxRUPzKIJDam1W72MIouKNK/4Xwd4qCO8elHv6v0j/nX+s3vfSTozlM81cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xt2X20vTYRzG917uwotdCEMQREQiIiLwQhCEIpCQqJu68EZEDPOQmZl5yMxzpi5PmbNmmmVpiSKaB5Q0DyieSFRSof6Spz3v9s7t55bpfkPpCw+DXWwfnu/zfd/vazD8HyWg/eYES2Csvx+nBEpgpK8PsxMT6OvoOA1QAjPjY1hdWHC5dCEs7KSgBL59HcHK/ByC4nMwPTp60i4JLH2fwdriogSiU0Mfe2BrajoJKIHFmWlsrKxIGKm4DAz3fsK7V62wVFQ4obwpICUkjHJHATHg761t0qW2+no0VlWhtrQUlY+LUJafj6KcHC+AfoMK/Fhe9nTHCWS8lIzBng/o7+xET7sVXS9bYLVY0PK8BvXl5ah5WoLywgIU5+aiIDsbDzLSkZmSgjtJSf5ACfzc2MD60tIBoPiIcBhjEhyKvulQ1A2HLsa7VP2kWEI9vJuJ9ORkCcPpPMaE2mE2N7G5tuoJ4wSKCw/zDXI+Tn6yhWwfHcpKTfUHhuXDHSfQ5bBQ7yBOGIp5YpbYLtWqY8PsbW97d8cutis2NNQniHKnJC8Pj+5lyewEzh27eqqDER0Ssg+igXF3535aGm4nJgbOHepFrskTSAPDKaM7OgSZ5XCH455w7qxLS91mTLWb0VpoQllakFcQJU6WbkHe3dpynDtXs1y6dfaM1FBjsASqzAw6AKHEk5vu6BBklsDW+roHjNS1PCx0mTFgCYa12IS6HJNsmxaG4oFId3QJMrPDVnnAMDd2oOk3ZgnD7CgRzB2G1wfPHbrjZ5BZwhFkdxA32Uo0QbZLgbm7w8nSxZ3fe7teQSiGWQujbRXFu4uTpYs72iC7S57K7jBegHR0h+UYdV4JWnG65J/+BYiTpbJjMEf66w5L4NfODpbnZmG8kuoh6Y76cx9AOp477iUkENdT7jrU9ciIQy9QdSrzzjKER+nhjiohl3g+c/iqMMYmHrpeULyzuO/IdunnDssRbAKNDwxgoLv70OWLNzoni+0yRMbo6Y4qgbnJSUwMDsolXq2ovTab3J/fNjfjdUMDWutq0fysWk6Wq136uqNKYH5qClPDw9Kl0S+f5XOHbhGKrwwCqb1ZradsYQDcUaV9IfybAuDOfqkfP6q0v3PU+gMYYyUC50V85AAAAABJRU5ErkJggg==",
     "wiki_name": "Adamant kiteshield (Saradomin)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Saradomin)",
     "equipment": null,

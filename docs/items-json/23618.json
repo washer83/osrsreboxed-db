@@ -1,7 +1,7 @@
 {
     "id": 23618,
     "name": "Zuriel's staff",
-    "last_updated": "2022-09-13",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-11",
     "duplicate": true,
     "examine": "A powerful staff.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3XbUsUURQH8N1v4kfofQS+EVlWoheCbBKs9iIIi8oKsYhS2ih6EIrCihKLVpOtRMweFHYxLYlIS3rXZzn6v+N/9szp7jbjTuGFwx3v3Jnz2/s0mMns/ZIVf/ju//OSldeTl6QycdHFzNMLMv142AURtbmbUp29IUtvrntQ9ke0DA9ARAHEsJjFV9fk3curkcT4G/dsRFGJkFmZfXb5DxRqQBgELUyPytyLK64vah8I/TV6c3VSNpYf7Q5FEK45OgR9qJQciH0bgfDcz5UJ+bVW3o4pB0KOfW1tLmx2U4Jh568mCEl9oPnySAjCtQVxVDQI1wTZ7KZkI9OARFzc+NuCkBwITi9BeA8x47/XZKhWcdepgDhKaPOBOJIE4R2juQ5Xl+6UZGTjowxUgvUSgMrJQFwXFoTkFqQXtAaN9xfl/KmTUigWPFNWlh+fnrQOQjtARHEk9Y7k86iP9PRIR3u7w6UOQgCgQXZB49lz+ZyrTx/Y7+qjuU5Xf6/eD0Gbn5+HmMQgjeL2tSCC0Q/Pc/0gzuyA1qsPvCCbvUEJXoZkzUB2QeOZY319cvxgl7vmLkPf9drD3YKCMwgj9DeQXtB4rni4voDtoRgBqUPRZjcl2PI+EMIH4jQNDw66Gm14BzHolyqIKAQSLM/fcglwzS3OEQIOz+nRSRWkRwm1BqEf+he6u0NMI9DK29sKNBViYoGwc3wgfp8I0hjuMB8IfVcXxiIjFHN0UOogu47QTpDFNAJxur68TxFEFNqRAH0O5fPhNGmQHkkN+rp4NwIiymb3lADkmzZ+Dvp7e6WrMzjs4oAwot+W7oUgnEEJzqEoSE8b7rmP5c5Uod1OlwVhdFoGYfdYENrPnhgIMUhmPxkEca1xulIDEYU2nMCcJiRAQv3JIIYgvIMgbPkIaPsMSnwO2WlDO4JrAn2agfT6SQXkmzb+aiTBPd+CRvCzwelqEYRS/1elWdj1w7AgHIoaxEgAymR4rDcLC9Sh108qoLjFIuNgGfW+/6lYpC/sM3u6bAECr4vF4Sl+RwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xs3X70tTURgH8O0/8Q+I2BuRDaMXgiypsUktaSo5tUAIJGHQq94PKYgiKCKlCKHEElkMIyQiiuhFEBJh1n/yxPdcv3fPnp277twPPPBw7u495z4fz6+LicTJL0nxh+9530tStu4WZPNO3sXL1ZxsVC+4IOLTs2n5uF6SD0+veFD2j+gaHoCIAohhMXtPpmT3UbEpMX7jmY1mVEfIpGzfm2xBoQaEQVD9YVF27l90bVH7QGiv0Yf1ZTnYuXY8FEG45ugQ9P7xZQdi2ygQ+v1+e0P+7Fbk77tbDoQcqaEhFza7KcGw868mCEl9oNqDSyEI1xbEUdEgXBNks5uSbJoGJCIIvy0IyYHg9BKE9xBT3d+T67U1d90TEEcJyXwgjiRBeMdKetjVldsVufnltZTWVkMQoiMQ14UF4Z4F6QWtQdVCThZnZySby7ZMGeKgttQ9CPc1iCOpdyT7oz4/Pi7DqZTD9QUEgAbZBY2+C5m0q6+ePuXqyfSIq/e35kPQYX0lxPQFxNFBW/Tn+kHMHYF+vlnwgmz2iBK8DMk0iucJQXZBo08xn5epM6PumrsMbX9tLx4XFJxBGKH/gfSCRr/cucYC1udQK6hxKNrspgRb3gdCaBB3GKdpqVx2Ne7hHRqDPj0HoSYIgWtucY4Q2qGfHZ2+gHCtQWiH9tmxsRATBfr8fCYE4ZQmJhYIO4cgjWIigjSGOywK9PXFbNMIxRwdlGgQP5g+TDsQ2n/b6AHIThtBaHM2kwmnSYN0O71+vr+aawIRZbN7SjSIn4PCxISMjgSHXVzQj81yCMIZ1ME5FID0tBGEZ+5jeTRVeGanayAgBO7PT5dCDJLZTwZB6KvXD3ZYVyBsZw3CPZzAnCZuef3JIEaDODqtoOXOzyG7jnCfI4MkeD5wkF1HTESQb0Ej+NkgCGdQFyCUxr8q7cKuHwZBHB0LYnQASiR4rLcLC9Shp6snoLjFIuNgGY22AyoW6Qvb50SXfy9YA2i8uDxzAAAAAElFTkSuQmCC",
     "wiki_name": "Zuriel's staff (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zuriel's_staff_(Last_Man_Standing)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17733,
     "name": "Safety guarantee",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-07",
     "duplicate": true,
     "examine": "The strange characters supposedly grant Svidi safe passage into Rellekka.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xu2Wb0uTURjGPd9gr3rTm30ECXoRvglihCSiGMaQQhZWmAwWako6xCwzFYfZEkU0E0Ux/JNrmopb/mPThhPRQKW+yZXXrY9bx4bPaLrAbjhvBnvO71z3fV3nZGT8r4tTCvovaSyF0dF+/ANQBFB43/cOw8O9WFjwpRNKoaLIAq+3Fb29XgwOduPLzJgAZVqt6YBSaGqqw5v21+jubsfAQBempoaxvr6ULpUUqqpcaGt7ic7ONmnb+NgAVlcXsL///QjqXMEUSkvvw+l8JFA9PR0yR0uLs1hZmUcksorgVbbu3KAU7hbdQXGxHSUl99DY6MaH/k4MDfWI4whjrJhaiVZKSiE7+wby8m6hsDAfdvttuN1P8aKhBs3N9QLytqNZ4Kja8vKctDMcDmJtbRGRbyvY2Ahhc3MtWahEp1CYnR0/sQhnqFZW9gDl5WUy8IHAZyx+nREwtjQUCgjYznZUvm/SmUpawI1OQv0ONHfFCv/Bmsy0wma7fqwc4erqqmW+5uc/CVgw6BfVqNDu7rZZICV25lyMjPTJqWJQf1ZHX1lZ1wSOSrW2NogLBX5uUhTa2org549dM0BKnMPQo3so+fT0R0Sj4SOoxECcHf03KsWI6OrywOcbkdY9zLeg1nEJfbWXTwNSsNssEnoezyvJGCYxW0eZ9/Z2TmxoZnGmOPBGgDpyLXDZD6FOAWIpVFY65QNMYp6MwcfT0Snsvb6hmfXE9Vi+RyhDaQPmVCDDJZSaarF9nCfOAe8syk4L65smWvEA8RAmYFgKOTk3j11CsJqaChlMntBIZUrPAaWVdQAdRgcwAaFX7DQFBbkCRsmpGG0crxoV43yxnRJ6B9cGDaDD6DskXbEPxeCYyA5HkdxjDD0qxjTmW4htZDywlfGBlxIYvXQ4XhtU7nn9M3Gh3z96DMUnSBKB9/cVD8bbnvHA8GTrmMJsl8nAS3UdDj9nioPOWGDL+JL0uGKhp//rjOvwXcRkp/PoOoYeA89baSr0zqKUPD14901MDApQdbEFLc60AbGU5JQxW8Y6M5eZq5QEYGor7QAXrn4B3uzTAfPY+3wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xu2W4UtTURjGPX/CvkUgSAyJMcYYk7HYmDgaGiumTAethcpScrIsZyIVhSSCiSJlIYsSMSoQEYkgIiKiTxHRX/TU866z3U6N3dH0BvbC+XLHzvmd533e5962tv91dErBfOJgKTy4lcY/AEUAhaWZc1i7MYCXq8NOQimkur24OZHA4rUkVuf6sb2cEyB/R4cTUApXh2OYGzuN+WIflmdTeLJwHm+fTjilkkIu1YXr+ThuT/ZK2zbmh/BqYwxf92Z+Qh0qmEI64UOmzy9QC1NnxEd763nsP7qEd5sFlIOuw4RSiIc70Rs9iWS3B8VcVFSilzhxhNGrpla91ZJSCPnaEQmcQKzLLXDjmVMCRm8RhIYnnFaN7XxdHsebx5fFa1Txw3axWah6t1AyVeYinFaNLc2eDYrhd9ZGsHt/tAqnwT69mJL9bU6m+mWczd+sIOsBF1b8LtzzuRDwHK8qRzgqp3PKCvZ+axKfd6btAikZZx16vFUN6s/qmMvrPiZwVIrG5xTy+fOVi6LQx2dX8G1/1g6QQmm0RzzA6aHkm4tZuZFuoXm4XvSO+Yz+GhkIyQW5DxWKhzqRSfhRyvU0AvphVm+7mFNnjE5iyvxlt/TbgXZWKu6VPbkPAzQWdCMZ9QhUAyBWJfQK2Ug1idk6bqQzxjzQzqLBqToV10prmIZAekooNcdYp/HDO4PYWrogstMH5qH1lhXACmEDhlXJGD0lBMsPhsVXVEyncvluRgxK1UwAE8YEsAFhVu02HGGCUXIqxjGmapSfqvFQ+ovBx2xhSzkAJox5QtNV26gGx4mxhh4VYxuZL9bQswZeS2DMMuF0S6kWp5C+YvDRW1SpicD7+7KC6bc931lsEZViu2wGXqur4i+qRKMz9Ngyfknm+8PV0DP/dcBV+S6iSpw8Tp1O4cJQxAmVWKqqEqOAKZyO+0Qlh4BYSlTS3tLrwKbMXrUkAFtbjgMcufoO/ys3Y3vVXc0AAAAASUVORK5CYII=",
     "wiki_name": "Safety guarantee",
     "wiki_url": "https://oldschool.runescape.wiki/w/Safety_guarantee",
     "equipment": null,

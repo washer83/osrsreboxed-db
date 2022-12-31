@@ -1,7 +1,7 @@
 {
     "id": 1570,
     "name": "Pet cat",
-    "last_updated": "2022-09-13",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-28",
     "duplicate": false,
     "examine": "This cat is so well fed it can hardly move.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu3U30uTURgH8Pf8B+9VN94MdiEMhCGIiAwmIiMUSZTGHBuZtEmuodn8ERHSdRdCFIZRF0F/SbELLVuz1vrxR0iS+wVPPmee7fx839e1TKIHvgx2tvd8eM7zHstSikB+awbwU175S0Vg91EU3j6OXhQUgf0nMShsN3MBUASKT2dpPu7EofQsforS5VyKUASm/DwBX18kYSwcphkJhVoZHho6LxiBy6OjShiKhyHqD8MITEQi2sgwGTU4MNBtmDvGC0qEdYwzY5xAJlR/MAh9gQBNhygCV8bHhdTrdS1GBvEwHsRQvX5/JygV1Gg0oFqtesbwIL5LCGqjTFFKBWFqtRpUjo+1Q20C6Y7t1XpEyMvVMSEalDhD/LFVKhX4eXQEPw4P6ZoJI4N41M7SiJDtbLgV3Dvo89EYQTxMHm5E8J2SMToQZisdauVhapjGgDGDdBiW7+XP8OXgAEqFgrE78nA/SA7SbMabV4MBgyXezjqMDMJ8K5WgXCzCp/f78GFvF97l87D35rWCYl3y9fRAbqbfHXMvlzPGhDEdmQmDHUIQhoFkCS0ZcH9trRUGkjfXRQfiMZ5Bd1dWBASPwSBkfXkZVpeykF1YUAaYhX0vd0fGuIJwEVGbGxsKBoNrDHR7cRFuzs8r3ZA749QdDyAsQjdlGzcvqmZ40J1bGcikUnAjmWwBzgJhCVj26fMdq43AucEjkFEMlJ6bg2uzMeXV5iFuGIe3rF3tHxFhWPGo+DlioKtTU1qICcMflytGLSIMLUPJILzNvUAwIeuSl/lxKiLMCWJwqBGUiEZhenLSc2d+szt8NefIbV5Ylu0+SNsBuG73QsL2Q+wk05YPJixPb5e3YnOF0WFydpBCMicQHsP+w9KF7ojFw7yEAfjIz+xKyZs4Rf7v//rn6hetZHD+42ME+QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xu2W70tTcRjF9325F77wxUAGgyESI4YMmYiiKI7GNjZJMAvEkDID6YeYSIjFKqUssYKKIoggiKC/oTcRQUQQQX/Pk+d7O3fP/e66LVsm0QOHC/t1P5xzvs9dJFI3Rt7dyAmu7jt/aYy838jLh838YYEy8vF2QT5teToEUEY+3y1afdkuyded0k+oMB3IGAsBfbtflu8PKvJoOScPl3Kyc2lc7l0YkzuLo3JrfvigwIy8ul6Wl+slebFWlOdXC/JsNS9PVo75YBqqemboT4IZeV2tWCBCUQTbC2ptdrDdYB7Mm5sVH4owcEq71QhqdWagHT2rwVAuEGCaxXdtzgNams7KwkSvzOSP7hfK+CBvNybsNdbZWQcEGBcIRYc2F0Z8l66c6pfFyYzMFdMyNXZkP1AeEGEIRCi33C5QmEsXp/rkbDktx0d6pDzU7cToqm5MACYMqhkQHGKXGBtdenp+IKDH5/oDCoGq75AG0mCE0UBwh0BwiLHRpe3TfQFtzWZ84d6ZZNIqAMSjDjBKl5uxAQJO4apLzQ4xMgCx3HCpOt3ra/1E2moPGA+IBSaY3kWEgTsE0c6FHX06hNjYpeVKyupyySv6HjAY4+8aSC/EMJgwKC0dGYHgUi6bkPlcT3MY7pgwucfclRtZGAz2EY4/gLKpLh/IJbHjAminoMFsVvozGSvuHEAQxC20PmEaBkd/MB2XeCzaGAgOuBBaAKE7vDkFCC33dGmY0UxCUsnO5kB4E5G4IJSODK4gFp4mCiAahifrZC5ly1wYSNqoANMCEMb4uwXyFpUnFhqvIy44gVgoQPCIh8WE3mh3oETEg3IpnKlBAED/AaNLiA1RwQ04oeW6omHQne54hxVhGpyy2tQ+ZPwNjEgQFV3ia3AEbgBEuxIGg7jgENQyTP2YwPYFCKBcID7RCYK+uDC9PTFPkY5W+tNoTODZpJ/oiKkZjIbS++c3gDBej1ha3ZUwmLloUqajCZmMxqUc7ZLCrsYjMRmO1OJy7/DLw15BgHH7Mh/ttiAzuyAaht+h2uBOcDRYKyKAlvubbRn3Jo3kfvf//HPzA61/1Yr7ZZoaAAAAAElFTkSuQmCC",
     "wiki_name": "Overgrown cat (Black)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Overgrown_cat#Black",
     "equipment": null,

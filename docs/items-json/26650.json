@@ -1,7 +1,7 @@
 {
     "id": 26650,
     "name": "Skis",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-02-16",
     "duplicate": true,
     "examine": "Skis to help people move around the desert.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsUlEQVR4Xu3V30vCUBQH8M5/0FMvvQg+CD6NQESGsJAY4pCJYgxJkBhIiJAhFEpImU+Jf/Kpe29394fOTPdDyC8cBgfu3Yezu+3s7JRTUg8gq6MIoJG9wNzluYRKDQdYNjIBxshk6LVazKU1MTYdGeOaeQ2YWNi56Tetn2kAtiwVw5EJTAtw9eSh3ygHN/SrmzGTe4dWjCjAz8db7NVN6bFAgJMxz72aUgIVGQ5wMWjhXa2kYGQc7w3aFVoqhlVEEwOcPzTRs4s7Y3gNvRva16d1wKEHfPXr2KoUFIw8qTAMKbkfAYiN2LWuDsboE9sDBDjuVtExDQUjP7a/YnhfrN05gKOOjXYpnyZGvJZk8XWB/QL4jeUzlAjm/W1CF5Gvr2lk08SQfL9Jow4ul3P0XItuwEs+0GEY/gvR+3tiSABnsxccDvsBpN1u/IohkBgwJICOYwcbkOvHfIrT6ZhOjiN1SBiG9/fE8KiT8P0uuq747OuQTRi5fyCGhWNWq0UA4b1tGL0fCUaN2JSDyNdZx2xCxoBhWd9UvHlhE4sNE5ZtE0scsx4xrSPAsKjn7JR/mi+sbI8OLCD8wgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABr0lEQVR4Xu3V30vCUBQHcM9jDz30EIggyAgRGTLCGMpkohhDEiQGBiJkCBFKSJlPiX/6qbvb3f2hM5v7IeQXDoMDd/twdu+WyZxySuoBpHUUAdSy55i7OBNQqeEAK9qljzEKBe9aK+XSmhidjoix9bwCTCx03wxaxs80ANuGjGHIBKYFuH5y0G1W/Ae6te2Y6b3lVYwowM/HW+w3dOG1gI8TMc/9ulQcFRkOcDls4129LGFEHOsNO1WvZAytiCYGuHhooWOW9sawGjk3Xl+d1gGbHvDVbWC7WpQw4qSCMKTEfgQgOmLbuDoYo04sBAhw0quhpWsSRnxtf8WwPl+7dwDHXRPNcj5NDD+WZPF1kf4C2IPFPZQI5v1t6i0iX19dy6aJIfk+SeMurlYLdGz+OyAlbuggDPuFqP2QGBLA+fwFR6OBD+l0mr9iCCQGDAmgZZn+Dcj1YzHD2WziTY4hVUgQhvVDYljkSbhuD22bf/ZVyDaM2D8QQ8Mw6/XSh7DeLozajwQjh9+UgcjXWcVsQ8aAodm8KT95QROLDROUXRNLHLMZPq0jwNDI++yUf5ovyb5pOwP9wg4AAAAASUVORK5CYII=",
     "wiki_name": "Skis",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skis",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1141,
     "name": "Steel med helm",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A medium sized helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADR0lEQVR4Xu2X70tTYRTHd/8DX+3N3gx8IQwECSQiBENEwpBESUyUVFJJk8zMTJNlZuaPXGrT/JHmTDMiqn/wdD/HzvZsTsVtGkgHvji3u/t87jnfc55ngcD/uNzhyem6sPAk/m5eYtPTMj85KW9fRuX1izEZHx6W54OD8vRRvzzu7b0oKE/W3sdUH+Zm06BejY4qFED9PT3S3d5+3tnyZCsel83lZdVqbCENiiyNDQ0pUF9Xl9xva5N7d5ulubHxPKA8SXxcVX1eWVGtLy4qFECzExOaIYCePOxToI6WFoVpqKuT27W1hfSXJ/ufNmVvY121u76mIkvmJSsZHgLoQWenAt2pr1eYm1VVcqOiQq5fuyaRQCAfKE++bW+rDra2FMzgyBBAC1NTChQdGZFnAwNqaIAoF0DAVFdWJmHCoZAClYXDZ4Xy5OeXXfmRSMj3nR2VC0bZ8BBAb6LjamiAzNCtTU1aLoBcmJLi4lyAPPn9dV9+7e+psoFRNrrNDO12GIYGiHKRnavl5UmY0kgkN6BEaUi15+vAVyYYmcJHeChbhzUEA1JdFJByPzNudnIGsoU3IiHZPkbxkqDM+YoWB2UoXCR9oSLp8NUaLFKgWzU1Wi4X5kpZWW5AZADzWquzeKaWfMV8TfpAIz7QgA/TjXwPYWo8RLlcGP7PCQiPAEIZeEJk7c78WZqZUUPbpDZjuz7CQ0C4MGQsByDC05sYjCsWttculDuLmEOUDAiDyRvIXdhE1jBw5vtAkSXmEbOIklnLGwhiQOYMxJxhuLkL854BcU2meAhKRtvT8jah+Yt4Ly+gzGzgHcpiNz28saeZo2x8Ruuzj9mUdmHyBmIR/OBCZcLQicwjSsa0psvILB4yKMTr9O+eKVJAeMLmSSYMnWd7GgOSLtPB+HeXN6g8YYgUEL5w54fB2CbLdXYEsQ4jQy4UyrFUFscD2ef4hv0MX9mObx2Gh1yoPLNDnA7ECdIOaTYY6TCA6DKDcoHS1zhTpAMd3YO85CHNPcLaadGguK4A2bHwTgSycpl/aHkOZ5gaKBekADAWqaGXfmMvWS73xAiQ/eIoMEgqsj/l4e8z98Ro56FzhTk5jm4d/xDmMNzsZc/kJYk/jMlEVuY8ti4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu2Xz0sCURDH9x09eNiDIIIgEhISIqFIkiRKYiKBly5dOnTp1qFjhw5Bt6BDEPTHTu+7y7Sz41t/Pg2kL3xRlnXms/PmvVmD4F+HLUPLvTcZGvR6dNHt0nmnE/ms1aJ2s0mnjQad1OuR9wRl6LLfjyyhACShjmu1yDuulqHxcJgC0lAAQnUAc1StRq6Uy7uAimGkXVXiJWMgwMClYtFnfxmajkYpu4BkD0kgwMCFMIxcDoJtoAxdX41/LaEkkG5qDSRh8Im4zUplXShDs8kkBSTBUCUAuXaZC4hhNgSKYbQ1FKq0KpD0RkCflTDyl/W3tQsMQFlLNsgH1M4FVLOVkdXZGIgTv5dD+sjwWylPz9aPxTzdF3J0G+ZoZj3N5yIgrxWSvQIjufar9Yv1kwV6sEB3FubGWi6bNyCGwTJwINeWlyNEL5vHCkFmLhAbifm7hNLjwzuQTMxGhVzX9Ym9EyAsC4LKYLjGQLhHm+eZ520PxUC6GnyNg8aB41nHfaSBpLcGQhIEdz2hhJEzbRFQ+rdrKQFCgiwY7Dw507h/9LTfEgZKgJAoC4aPAN3Qi4B0phWVAMkmTgImL2yuHaaBtqwOtBqQfidyvTF6qA60HMj1TqSBcJ+H6rDMSkDylJZAEsQDDCs59NKBYyDdPww0f79HuZ8y/f+MZxiAdgqzWPOj4w9hYsnquSt5IPoB14AtkFRlVYwAAAAASUVORK5CYII=",
     "wiki_name": "Steel med helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_med_helm",
     "equipment": {

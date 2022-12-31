@@ -1,7 +1,7 @@
 {
     "id": 3423,
     "name": "Grizzly bear",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2004-09-20",
@@ -32,7 +32,7 @@
         "mazchna"
     ],
     "duplicate": false,
-    "examine": "Eek! A bear!",
+    "examine": "Eek! A big bear!",
     "wiki_name": "Grizzly bear (Level 42)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Grizzly_bear#Level_42",
     "attack_level": 40,

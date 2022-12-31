@@ -1,7 +1,7 @@
 {
     "id": 9038,
     "name": "Stone statuette",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-17",
     "duplicate": false,
     "examine": "A small statuette.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3klEQVR4Xu2W0UoCQRSGnefoZh+h9+jGIAyRwgwzTATLzExEzDIR0YvydU98Mx13W6JumpkCDxxmXV3n4z//ObOFwi52YSR/J2IYqVbL8kegjMxmIykWDyzQfpLEhDKyWj3LfD6Wfr8TG8hIs3kuy+VU1usXeXtdSK/Xjlk2I9edK1ksJp+yVqvEgjIyHt9b/wyHt9Lttj5AXNkCl85YALwDFEplQYLDNBpn1jsoQ0ZShTBSLh/ZjgLocfJgFTqpHMfzDaZFFYA2m6XtLrosQssbKZUObaujCkDMIDor66H8Ux7DHQ9sTqnorqfpUFqti+2xERwIM+Mf9U67fWmByMBAzjsAjEZ3FoaVzyjGGhwIFVQdYDA2fmIe6VAMBOTOLM6pweDGeodV5w8weoYFA2JT1CGBQSVWvqNceh0AyEiS7G1VAIiVkrEyJNXoAYDcVP4KBoW4j6EpJytG55n8v/xiGKnXT21JtJsojYJxDwhte67TE99LpP4gFQh1SJTR0gECEPc8vlu7VteSsaEmQExp7bysenjK02Hr2p3NtLv0dQNldEDyme9UKfWVJ5O7N0A2U5CsSvnUgem169yfOjBSy8WAzCf3Nb0BaaRvhCncd5n+PkDoZj9l/rl/Fe+dc0hG5XmYWQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPElEQVR4Xu2WT2vUQBjGMx8ghxwCsrCwLKUsSyn7ATx7EAQFUaEqiFUpWlnaiv+Wqq1LLS0Vi4VCD0VRFEVFD+JF8Js98pvx3bg56KWZKPSFh0wmycwvM887M0lyGIfhVK6pMZyOH23oH4FyWpjp6Pyx3AP1Wq06oZy+bk7rw7CrncWJuoGcli+19GV9St+2pvV9u6ftfoAqvxkpnJ7MtfVpbWpMi+eadUE5vRh09OZRV7u3JrV5o/0LJExb5Klzenpzwntn/15Hz+azMZDoMPcvNr13Xt7NvGoaFcJp7mTDmxeg9w9zvV3O1T+d1ucbTItnAPrxvOeziyyrIeWdZk8c8amObwBiDSKzfvdQ+asKw6l/puFTnex6t9r1GbZ2JdXS2TBl0YEwM/4BCA2vtrUy2/KKDBS8A8DenUk/ZYh7RgxFB2IUbHSAAQw/sR7ZohgJKOxZdEx24R02Uso8A8b2sGhA1ikg6NWDzgiIabNyBCCnZp54IEYIqN2FTK8HuS+zSJrRIwA5zZ9Kx2C4AsMIUY+ZmU7KeItvyq0cYDgNLqR+SkxMl4FxDwTrEIanXOz4lYTTxrVs5Bs640rHjJCt2JZl1FNni2S5tQMI5/+ebWGnn40WQwNilTajM3U2eo8vp1Vtts43vnU9095S0P7tIDt24CfueYbZAecH+JGKTB5OgHRmAIgjB+L4YUcQxDPeA7AioCQJjQYwBMDH1aDPw0JWZ6oMyKI4ERZwf1LxfoSwzv6m8nf/VfwECP4bAZbSEbQAAAAASUVORK5CYII=",
     "wiki_name": "Stone statuette",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_statuette",
     "equipment": null,

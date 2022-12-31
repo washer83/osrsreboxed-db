@@ -1,7 +1,7 @@
 {
     "id": 624,
     "name": "Bervirius notes",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-01-27",
     "duplicate": false,
     "examine": "Notes taken from the tomb of Bervirius.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7ElEQVR4XtWX7UtTYRjGz/Mf+Ol86Yv/gOD32Md9CCP6IMgaC1/wBZ2j5UvLN2bzZamz2dYSh5mZRJlERBRRUEQRRfQm1H9zxfUcn+3sYcOznWPHbrhRQT0/r/u67+toGP9vCVh9IkpgJvkEIyNbfkMpVQRmZ58hmXyKoWjeLyiBlZiJuQETZ08bmF94iWup5xKsuyftB5TARuIUcqMmri+9wWL6tYRKzb3A1PQ+Qhcm/YFiZ1bfY2n5rQRbWHwlwcbHd3Du/HBppPpPHmMJZLMfsXrjA1Yy7yQY1SJYLLaOvr6MbYRO2nUJ3F7/jkLhG/K3vmIt91nCKTAaPXH1gVSMW3gpXkR0uIDBwZvoH8iip3cZXV3zuNiZQltbv3dQ9A4BqBIVy+W/SFB+zK59Ko2T54FQVI8bSSilYiDQLoFam5vdQgmphGp6iApRKSpG9QhX3Pwh/cbviV/elFBKLUK1tAS8Gl0lUDU4qsaREoygPA9qhASLRJKItjchFGxCoNVwC1UbqBocwTha3q3RsW2pFoGSvaaE4l1zOTpnQPbmKOkrfk7D00vpIRPT3WYJ5p8CsWl2Gp2HtOydumF00zUGo5p+4ijtIA5gyvRc24mJh6Wv9QfU0w2qIuRs4yHLbDQifxmPHeeuP8Rp64o4hGEJGaDcABUJPIJcW0LxfugPO6rrVEQvK9WzcVOuqj3ZqdaVxK48/wxS/cG1WgHpT6qjrDnzuOnJTrW4towBFQE6gN4eALHKISrz6RBOgVEtZXh7kKq8oooM0HB4Bh0diUMzuyqB+7sHuLdzgLvbv3Bn6yc2ihYgjxxvCtue9Lwv1aCCwU7vVKrVClTBsglG4+tQKkQ9ADIMfVXL22KBPd7/I/vR3m+pHs2vj6/yjznGsoOxOWKO0Z7sfNceCzchcsaTVHdWdtX4DsRzMTm1J6H47sP/VhiiHqR6IyXk6Ghy3qzKcbk6kG5KyE3kabBD+ASjyldFqteJgvGq/gKQ3UhB11ZE0wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4XtWXzUuUYRTF51m6eBf9B9JSItq4KNyFIOIiIQo0xdAMy0xRZMQ0Uwc/0rQGxdJMzMRMEzUtG1QmTaUvlb7b1H9y4tzpnXnnaQZn5n1t7MJFXcjz89xz73Fcrv+3FAJ9IEphrqcbI81NyYYyVVF47r2N+d4eeGtrkgWlcK3AQM1ZAxlHXPAN9GOpz4uFO71ovVSWDCiFmxcPobXYgH90BKvDQ1i+NwBff5+Mr7rgXHKg2K8nxrE2Ngr/yDBWhgZFrTFPC0pyTwVHqv/mPpbC1vQUNh5PYP3RWJha/XVutFeUo7ms1AK2V9suhV3fS2y/WMSHxQW8m5vF5pNJUYxg9NREmwcPW27gfmMD7tbXifF7qqvQebUCnvLLAtxQUozCnBznoOgdAlAlKvb+2byA8uubmWlRjuOkvwYb6kW93ppqdFdViopchOyMEwJ0LDXVLpQSJczmuKgQlaJiO0tLAvdpZUX8xvNgqtXnrhUwqpWelubU6MKBIsFRNY6VYPQb79aDpsagWhxZ/skUZKWn4Ohhl12o6ECR4AjG0fJu8bpTLQJVnjYEinfN5uhiA7I2vUVf8XueCHrJnWfgSq4RhPmnQOy3szOyCDR6yDtxw+imSwzGbHqLo7SCxAAToueGTHV2BH/WH4inE1RFyWyLsgJmMwN0sqNN5q4/EmvrisQIw1ISoNwAa1YRjBeY90N/bK+OUxG9AqneVGT8lVW8zuMej1xaBqn+cLQ2gfSX4qjAnHl5oyU784lqMQJ0AL0dAGKFQpQ3hNtBODOjOEKuL71FQF5hM0jpNYbo9dILcJ8vQlV+3h8z2yqFH1tb+Laxjq9ra/jsX8XHZZ8AMq94Uxii1qSfudUVEepMZqZzKkVrE/TLK7/AsqkePaZDmSHqAJDLpa9qaFsCYL92d/Bze1ua6tH8+vjC/5h9LCsY+/vmhoyRRjahagsLUJKdgpzjjqR6bGVVjaPjuXja1SlQ/E+Rn1YYog6keiKlZHQ0Of0UPi5bB9JOKdlCngYrRJJgzEqqIpHrQME4Vb8Bj4J2G2f6uQ4AAAAASUVORK5CYII=",
     "wiki_name": "Bervirius notes",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bervirius_notes",
     "equipment": null,

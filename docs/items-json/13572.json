@@ -1,7 +1,7 @@
 {
     "id": 13572,
     "name": "Dynamite pot",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": false,
     "examine": "A pot of dynamite for blast mining. Needs a fuse.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwElEQVR4Xu2X70uTURTHd/+D3vtG8MUgGMhAQmQwCRmjMQwDoUE4xJTQSClZrmKuJQlB0i8qCQZCZiBWIKOiyBchUkg/6EV/zTe+9+HMu9t9Vu55nC/qwBffPD7n83zPOffcRSL/498IBbfaGnuJp092Yyob05rIxDCWPqrVJjAvSWE4jkun4ijlerA42ovNjWmsr07i3u0cnl1OYflCP26d7dPPHKBrSgPQCQKVzxzD9ociPr6fw9abgoZarY7j2lwWT2aOo3rR08rsgH421x8NE0rVvzg/ENUJvn++jq+fyviyM4+drSt4V5vFxtoUqo9HMZZP4P5kUuvh+STunEvoD+F7ujs7w4DaAxpOdmlndrdL+LFbwc9vixqKTtVezmBtZQKP7o6gUhrC8oM8lsYTuJHv1e6GBKTwtJCqi2XgFzMJAdnAbGY6IH1FeLrDv3yOjhZP92CoryuMsindqC4RkD1CSPYNm5klIgydIRCbnlAEYrlDcEnheTHtlA1lAtFFQplAMnUBgBTWr6Z9JVC2SyaQlE2AUvGOIGVTeFE64ZQJ5OeSC4hDEcAlhVfzGadsKNMls2w2EAcg2nGkFZcUNssZp0wo2yWzuf2AkjGvbPt0SaFWyf4mE8p0ya9sLiAZ/30DvV4YbJAN5nLJbm4XUIvjr/D25mBdLjjTJVfZ/IBkrwUCsiUu+ZWNUDYQryqHBmQ6JKvj0IFkykwg7r62A0kPmUC8QwUGYlJp4j8BuZqaQNxlAsQbQSAgTpGcOzLu5pS5gMyxFyBeSThhgYGYSHaXnM4CZ59B9oLlwSiXMxn5gEAM73LOpLLhBc7uGxvGnjC5zMk7CdMCUCTi/ZP3EianG/b+csGY/UNnzC3fMowZJpj8mmgGQ8mPgsCuNAsTTGTff1giHoChu9IsGpM0Apo6cBC/MAFt2c/+bfwC1+b/gjS+oQ4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACr0lEQVR4Xu2X70uTURTHd1/20ncyCEYMCREZkozFxGggJQQS1QI1CgsZUlNZPzSDtASjYLBYhbJYalEZ2av+vW9878OZZ7f7rNwz54s68GVv7p77eb7nnHvuE4v9j38jDPzqahxsfPPcKUyNJKzy2QSuZE5adQks2GR2LInbuSSK431YutyP1xsbeLm2ivlCAVuFNF7dGMLK1QG75ghdMxaAThBo8dJp7Lx9gw/VKmqVioV6vryM6Xwe5VtnUJkJVL0zbNeOD8U7CWUabzwxHLcb7O/uYn97G9/qdXza2sRmuWxdelIq4UIuh/XJlNWL6RSeXR+0L8LnpBL8jRwHQGOpXuvMl/c1C/Vz76uFolN0aX3lMR4W72FmahJLC/N4em0Q9yf6rbsdAjJ4N5tuiGngG3MTArKAWcx0QOqK8HSHv1xHR+cu9uH8QG8n0mZsofpEQNYIIVk3LGamiDB0hkAsekIRiOnugEsGtbmMVy6UBqKLhNJA0nURgAzqdzOhEijXJQ0kaROgdLInStoMdopnvdJAYS75gNgUEVwy+LiQ9cqF0i7ptLlAbIB4z4l2XDL4vJj1SkO5LuniDgNKJYK0HdIlg73SyG/SUNqlsLT5gKT9Dw30/cFok1wwn0tucfuA2mx/gx+PRhvywWmXfGkLA5K5FgnIlbgUljZCuUC8qhwbkHZIRsexA0mXaSDOvq4DSQ1pIN6hIgNxUyniPwH5ippAnGUCxBtBJCB2kZw70u66y3xAuu0FiFcSdlhkIG4ks0tOZ4FzzyB3wPJglMuZtHxEIEZwOeemMuEFzq0bF8btMLnMyTMJ0wZQLBb8KXgIN6cb7vzywej6oTN6yrcNo0ODyddEKxhKPgoiu9IqNJjIvf8wRTwAO+5Kq2jepBlQ68hBwkIDunLX/m38AuRKpWPi3vX9AAAAAElFTkSuQmCC",
     "wiki_name": "Dynamite pot",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dynamite_pot",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11126,
     "name": "Combat bracelet",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-30",
     "duplicate": false,
     "examine": "You will need to recharge the bracelet at the Legends Guild.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/klEQVR4Xu2VTUsCURiFvf/AlZvZDLhwFUQQISIUEhGFJApBbmwXRIugKDKigiKpSBLNtA9B+rAPMisiKqgIol/1xnkvo+PYsju2mAOHkZm58njuua8ulyNHjv6VBLW6bRI0keig2ckuCmtjdbcJSjDI/FQzTFyfYKBOXbcTSlByuptW53ooteivw0S1BAP53SE7UxIMsrUcoPRqkLIbvb8C2QglGAYgh+kQlbP9TTBmIBugBC3PdDNMaTdE5/sDdH00yDBmIBjvxWM+8nndKqEEd8aAqZaG6PEsTM+XI/R6HaGHk2G6KA5yangHRul7A5oqKEG7a8EWGAPoqTLC9wEFIz0YnYsOedVBGTAAMGDeqhG+4n6tLJPCM7wD44eMj/rUQVlhDCAYCeL510OM7vM6vRzr9HXmpeJ2H/dKAZQEMsN83Eb5ii3KJD1UTml0ldbqQJ8nOqeHUaEUCiCGAYRRkFvyUGm9Fej7wssnFGsxyRVMc8Hb9nkXY6M7mFGFFY0Tquw0AyHRtQV/Hcj6bX8kCYW+4LjjmCOd0y2ZUC3XAAIw/v8UA0GCtwz9QQJGOjcZmdDTgQQ63RtQuV1WyaRwvM3pPBZkQu9lnfKbjf5YVyuQTMk8xVF6FB2fUXb0y0YgSHBPzCDyeDds03aZ9TuA2dYVytV2AEeO/rt+AN8WIr2fu/6TAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRElEQVR4Xu3UUWrCQBAGYPcIPhREEEIQKVIkSIpULL2Fzx5F6AEE3zyDh4z8M/zpuK5vnY0PO/CT6BL9MpvMaFSqVKmXqtA9ZrAK3XQykZyObZ+BUIqpZrM7zPXyLaCmqnKigkCQeV33mPOvgg77OmeXFAPI+2IhSYEyokKP+VguJRZjQRlQ2h1i1quVBBgLQoDGM/Y2HnuitDvEfDaN5Kttu91mI+f4np1DcAOOqCDdiTEE4UiUDW7CFRVjCIpRdh03gi10Q6UwDDHcRp5jC5069RwEgH3oLYidckXF3QHkGQjBGq7FJHeY5vco/DnfwhQIR6wTFP/aP5WifrZbAeA1tzMqHgtYdwahwkOHUiB8dtyuuLRTnFPE2PEAaIbusLRLqc7gnA97RhBKh6aF6Ov9l0zbZSsNsImvcK/BAaVKvXrdAHQrlHwbw2fSAAAAAElFTkSuQmCC",
     "wiki_name": "Combat bracelet (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Combat_bracelet#Uncharged",
     "equipment": {

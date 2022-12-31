@@ -1,7 +1,7 @@
 {
     "id": 327,
     "name": "Raw sardine",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": false,
     "examine": "I should try cooking this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABc0lEQVR4Xu2V30oCQRyFnTfxEXoJX0EoKChIpYtuwn8QIqmlGK4SGbHEUnpRpqRJlGxSFxlYKqyrhBYL1VVPcWp3S3T1sh0j5oO5WZiZb87vwFosDAaD8W8gMH6ZIgT+HT/+kBSBN+XThGas1mlLEbiCK/Bwnu+EJi2qEDjXnVjklzCfXkD4MIJoNor4cRyJPIdkMUVLSn/98pEDbtGDcHcTlXYFhccCMrXMSELqGE0cpX6JPWaHI+vEWsU9ImOUMFFGv8i2asMsNwfXyVdvql6E5AiCjeBEEeMJv4guovbEe+PTkjhvlXEpXSHytEVTRIUgsB/A7kUauXoOd70a6s91TYTrJ2l0ZBiCkBACL/I4fchrPVGFtvsJpF/2sCGFB0LGnSZBINwKOGsUIcoiav17SK9tHCiCVmS1Q9SFSs0SrjtVbUzymwzlQ0GsFx8rsXGnSZDBmJpKC5337lhvKMr8YPwNUE9lnOE0pi7DYDAYJvMJhj4kauIhPIkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWklEQVR4Xu2VXUsCQRSGnX/iT+g66DYwLCgqoyxMKamsrCwSUUzbTGuTWArMPpayD0ISvBMhkG76V2/M2Ywa97KdjZgHFpaF2fPse85hPR6FQqH4NzCIT1yEYX0mgD8kxRCbmiShPq/XbSmGoN+H5cD4Z0J2l1QYpn2DlFB0YgyphTDS0QhyK4vYX13CYTwmS8r6+q1QkIre5DN4KZdQK+RRzaZ+JMTb6GArrSJzI37szM/2yIgSDspYhYYG+hEeHcZuJITS5hqucmlUMklbEfENv4glwldbT8QpiacjDfWTIkwtK1OEY81JeXsDdwd7aFUMtC/PSaTbIkkiHEZbYyQTVJzPCRd6KGp41gvUrq6QeNIhGM0HF2icHqN9cYZO7ZrueUJ8hqQL8VlpGjq1qXNv4r1Rt90m8aRDsK82vZpVvD3ekqDkIRYRfwPSU+nlexquyygUCoXDfAClqgoKu3/J4QAAAABJRU5ErkJggg==",
     "wiki_name": "Raw sardine",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_sardine",
     "equipment": null,

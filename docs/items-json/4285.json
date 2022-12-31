@@ -1,7 +1,7 @@
 {
     "id": 4285,
     "name": "Bedsheet",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": false,
     "examine": "It's an ectoplasm-covered bedsheet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZElEQVR4Xu2W6ypFURDHz7zJeQTv5ZJL7tLxACKJRCIityRJkiRJInmj0azdrD1mr3XOXpp1fLD/9fu65tfM7Gm3Wk2a/O8AhvmTAI5erwepCmaXBBy+XE2iKmgmCThytfaj2NDFSoXBs+WeGEiVYyIpJianBbTMQLvt0FUSAjh2s+GQO5MqZyTDAZx62Ikyeb/tmbjb8ozfbjqMZTiAs8/7yWSS4QDOvx7i3MuBKzbztIfTj7u+S7ormWUoxejkaKi43C/etz7IUIoF56WmJZbLLZeepQw+814B9wVJGRagblHXqIPUSRonjTWjVHmTYgIheHz6NYNALYEQGbpU7IO+QTFYhEdmvOD1RKQEoW+RfvWX6S4Tk6BbRdDdMhQKy3STIAFm4e3IelylUEhCClBxZvH92GEsQwEvIQVCxYnOx4kni4wWiBXvfJ56lr7Oc8hw9O9nPTLJFOHHU9HvNGnSz3wDfdZ2y86hR68AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA+0lEQVR4Xu2WQQrCMBBFm5v0CEUQQRQEQRSKCxfi/S8SieXT9iexGZ2pC/vgb2cenZloVS0s/DfOp/MTnG8Pq2RiQXNJ58/7RpRYUE1SLpOLgtR4TNxAklCrqetXuIuA/N5IJJVkgPPX47ooLIuFV5QBzt9OG3GMZEAsxV8IwVUZygTGo+PRzDAmpl9wXloOpBTOfIr4TeKvkx6fCekngAU4GB9XU6D8/IfBtXG1L+n2gZvlYnz6ZSL8JLAQV/2Q9zLcnHO/bDWF0jLclBMkEOVx9ULcNCdgKBOIfyqmJEIe7c5ehpuywDAGMoD/fpbFSKYDxaXhOgsLc/IEPGBh6URjFOoAAAAASUVORK5CYII=",
     "wiki_name": "Bedsheet (Ectoplasm)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bedsheet#Ectoplasm",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 12607,
     "name": "Damaged book",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-07-03",
     "duplicate": false,
     "examine": "An incomplete book of Bandos.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4XtWW30tTYRzGd/6DXZ2bczPozitvuogQjBAJRRgKYrHQSQ7MRPHHXFOZzh+TJS4zkyysrMRKCumu/rdvfd7Te/buNN05p1n2hYddHfjseZ73fb+x2P89lri6FGPJo7ItK0X7F9Q/BbPkyWPbA1qYt2VmOm6A/XU4SypbtpTWbSkUbMnNxeXBYI+MprqVMre7fHAXCmjJ7lO7BmginVQCyg+Ghvs76wD6FXlq4wJo6l6vUhAwNNjXIZmRuKTTcUml4jLQr+MOPZY833M8IByaG+2X2UyflJeXf9NZcECZQB0dMQXUmkiEgbLk1YFTA5QfG/DkhzlLQGmXAMKdlpaIQC/2Ha8/qDCZksXxO0oaDMf8EH7HcAmggZ52aWurwoQAsuTwjeMB4VBx6q4SUFqN4OiZBsKlm9dbvV6F7FA1LlTKpmV1ZkhJg5lw9cCQBiI23LmSsBVcbzJUZJa8f+soIBwCqJwbVlBafrh6YLr8xKbdyQwNqVKH6JAlnz44HhDazI94AiwInIYCyHQnlbwRtkOWHB+5QHRouzAqlYWMp/PgTDCgACIyz52fUfEbCubziaOANNTO0n0lwM6CqwcGEJH53eE3YFSMC0RkAO0WxzxpsCBwABEZ3eGo65MV2p3TLwkFhPbXJ5T2VseVgsIBBVBT3Pl6mlBQ6OXGpJIGM+FMQD8YDvndidAdxnVIg9RTIziAmuQO4x533qtCLieL2ay83pxWOihPNYQDSLvDNsDy1t0VU+7car8a1h3GLTTPxObKinf1bywVZL2wqPSukpXDrVklPyhXBBco7x0rCgsclx+xRXCHcSPjIjQLyjEGDMittTWplErq9+NuXo53HsrR9pwSp5JvefNYUSYn4sqdZOe1KO4wlnz/llDF5h8Tg3maANRHGrdwToMivsMlvRnoUkd0R091vcQB/jnxEI3ZFcqrjzcXYDGfl9WFeQ+U5wJ3KHVEd6pT/bh2/z15Nq8i0oCmi7hHtDwZlJrnglMW4gENNhruPECKTsGBAwzXeMMo9R+702jOA+TKMNdd9uemuhNk6gHqUl+4O0HGBPvnMOZcKphmzA9NCAeZ5yqoegAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4XtXX70sTcRwHcO8P6MEeCEMQhojIGGMMx9hwNBTFxEnKWGFTSjPBCpGBGGJZPS8flBT2Q8r/81Pvz/W++9553u6uM+0Db+YDBy/f38/9cGDg/x5L7NyIsWSslpeRifE/qGuFWTI+WXRAueKoxoX9c9xFUH3+tpPabMOHu1KgJflm2QNqLs1IozWl8cOQynQ9AOhP4rHb8YOYfjCk3KxKdnRIMzic1SREedtBZjrzMtWek6+HXy4kDGaCbmUzCirlcnFQlhSnKx7Q7EpLQYgfc1kIYkupgZA73UVFMf1wbIygQq3kwcQA2RgTtLC2pCAzfpgfRxBaAmikMObsVcwdcttBWuttDVBMPxj2DEtPUGlyQjKDGf2ZSx2xod+/OFf1NHT3ccdBheFMGEFoie30ur24O2RJeaHuAS1v3dcAxUSBAQWQ2Q4+Y+6QC0La2w80RIXhTBhBZjuA4TM2xgR1nq1qCAvDmTC0hCPzt4PPiEeFcUHIvZ01J4SF4QhjQ2Y7uKpit1NZbDiYld1HTi6DBeEISqUdgJhub8NJFBxRAKXQDsYGmZCghOEASqkdjL0/eF4d947l/e47ebi/Jat7m5owGHFsB28DQ/mc3m8StoOxQXhEnB2dyfeX3/TWf3pwKp9ffNKsH2xrgqDmI4YvcLjf4NgStIOxQbwRcklxGQMH5M/XP+T87bl+br56rtk4fKrhjZRvBQDh2PKVQpJ2MJZUl5vOHgUtLa8gtIXm0CCx+B5QbIlLnbAdjvt6+eTNjv7lPB5zic32cAP8uPdBTvZPHKi51Anbccf9svf9F0AcEXaIuwMk2jNxWGo+4WM8QKMNcf2AaBHNAYYjxTOM/yL9VTv9JgzIC4I7hMs+1XaiTBCQoCtvJ8qYsGvHmHOjMGnMLwBUUiT2PWbMAAAAAElFTkSuQmCC",
     "wiki_name": "Damaged book (Bandos)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Damaged_book_(Bandos)",
     "equipment": {

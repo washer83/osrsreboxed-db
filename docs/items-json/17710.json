@@ -1,7 +1,7 @@
 {
     "id": 17710,
     "name": "Elemental shield",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-02",
     "duplicate": true,
     "examine": "A magic shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWUlEQVR4Xu2WbU9SYRjHub6JH6Fv0VqtVy6nLtfDHG1IixypozEMY5laqOFkzDJlaiEjMspyKOUcK6zpNJiYNkX8Gv885945HG6m5z48zF7w265313XO7/7fZxeYTHXq1PnvIBTqXGESo44kvD2reNa1cl5STGS6f0eTDKsLDQ1y8RMFqi5MmHmeLRHQFj9RgNB6xVHNFAmriXSJCN91NoTmy93VkCKkkiyZ8kS0EJou2TVXbRjCr9RelWQUCG0t1nLSImz83DcgI3rqk++pyaIK6T9XhpCIHmF780BwiDAViKP5mllYqv2mXXN9uhDSW4eG0llZ2lKF9PslCBbzQ5F+wteFPDLbOZFmDaL7SIJgvePC9atONF68r5cSYe3TMbKZvEEhk0lMRoJgs7plIYFDnOycWB476SPDQuIwIWVZ6ryDCUmlpMR3VAahq3PAiJAEkzL+HYnAhG43ekSuS6FWKRGcPaMlQnzXKbBdtBzJqfuI7xBHWZpMqKNl2Eg6WgjxcA5LoUN1a/MdZ8Mknva9hqd3Am6nHy6Hr0iInxCAsDh7INf69131pCLlHZjD0JOgLNTdPgX7rQnYbvhhbX1RiZAEe8H7yb94F9jHt+Xf+PJxAx8i65ifSSL4KoGX44sI+GIYH4nC5w1jZOitLOS0hOAwz6pCyrPKuK5i2DAh7N/D/NgfzA3vIjiYRTT0A2+m1+TfMq1U370F9FojqhAvUpFMMezBitDk4wwCjzYx5kzJ/68HH8TR3/kZHlsM7rtRuDrCtRIpoKQlWjUT4dGeWq/42TrV4B9VGSd5kYDSOgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACR0lEQVR4Xu2Wz2sTQRTH8/4EDwUpBJYQgoSyLGEltFRaLIopMbSCRrSUllqCNdSAWrGG0h9ErYQGWyLBUtpL0Yu2eJCiiAdRFCmKIP45X50ZJruZYDPbbKiHfODd3sx+5r3dtxMItGnT5r+D4MSRIiTWpyOoZCMoT4WPSkqI7OS7XJURYRkGD3WFg+/ChNdzjogUcIe6woGQPtXhZxUJH1bO1ImoWQdDuNDjixTh89o5zbY0gpCKH3O12jOEr2W/ZCSEoZ7Ow7SQ8O1pwoOM7qmFkGxf4305f2VKNn48G9RcRNi43Y3BeKe2VLrf8PJOUY2MjtDb5QF+cr0DMAhjZ0M6+YT9JzZ+rid1kl3oziOGkBnp79CpEuH7mo3fm+c9CgUCejIMwrVEmAtpHEJU6NeGdyF9hJD80ho8QwixkFVSM5qDcCMVQSapLcRoZZUIN4cjGBs4rtMuSauqRLhzKVonpGb9AzGLvqzEql+cmqGPHJpC6HrCGQ8ehBiET8UYj/2KmEtqxsEIiaVxE/mrXbh3OcqFskkv86oOwsfHFg/5X9ON5UkLhQkL86Mm7qeDuHsxiFvDQeRSTQkxxAPeP7DwrmDyq8jew9PYXezDi3wvtma6UcnFUZ4+idWsjdKUjWImxoUWRwzMXTGqQnKvQ7SrFrGYsLdk8nizYPIL26v5PmzP9vJ/mVvq0XgIhdFQVUgVaUqmFrExk2FX2ZezUTyfiWIzd4Lfr1czYZQmwyhOhKpSLRJxkNXSjZaJqLhP3SjUtW384A+jEdlBdQggRAAAAABJRU5ErkJggg==",
     "wiki_name": "Elemental shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elemental_shield",
     "equipment": null,

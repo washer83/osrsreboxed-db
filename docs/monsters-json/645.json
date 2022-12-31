@@ -1,7 +1,7 @@
 {
     "id": 645,
     "name": "Ice wolf",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-05",
@@ -31,7 +31,7 @@
         "mazchna"
     ],
     "duplicate": false,
-    "examine": "Not a man's best friend.",
+    "examine": "Not man's best friend.",
     "wiki_name": "Ice wolf (Level 96)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ice_wolf#Level_96",
     "attack_level": 100,

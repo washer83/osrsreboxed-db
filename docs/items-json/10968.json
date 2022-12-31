@@ -1,7 +1,7 @@
 {
     "id": 10968,
     "name": "Mushrooms",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-20",
     "duplicate": false,
     "examine": "Tasty saut\u00e9ed mushrooms.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xu2W4WtSYRTGff+Ovgj7EAwG/g996EMQjIKBYNiGdUluuM1tmWsogt1yWm66IRYb21jDDFpQ0Oc+9VedeM7leN+9vI6JrwqxAw9XUO/78znPOddY7Lb+31IUaeal6O2zeaosz9N26q4GNjM4RYdrCWr6C9TILgyBm1opPlhUSIYy4abomqKaF7ohMNDG0txAq4/nGA6fmzCc4sNNd0wYkb8YZ3kP45OCU1RKRzC5bIqqpZdULmYpKK/Sh2DTCiNaeRAJrXUApbgVgHmdz9CrtRUqFTyGqlfzLB0mk37E729vPr8Cg+/jXol4nGWecsMKw4yb+V6SNnJP+aDKG59qlXV2B1eB8V8kqVT06Ow4YPcgwKTv32GXBcg8ZYRSnAEArftP2CFpFZwBEF4DBs7Vgzx1WjsM9PdPj/Z3CwyDnDlxR0ZbQmzC4IrWAaj5fouODivUP23Qz36bfn07oC9H7+jzQXmwq8aAQYVh1idKz43eLglwt1Wii+MaXV7sMdhpt+qqXYoBMBW28R5kxjJRZ58CdgYwcMxZu2CzDUaAspklWk4tUnN3i0OOyZKJgisiZ+1CmIfBYBdhvNsfi3T5dY9bKBNlAsnuGQMoDDO2rA0GAgBc6Z83uEUILkJtwjjbPQjhMBgI4wyI3987nBdkpdPcuQKTvOekXVGYh8EgvIDBNP3otah3UucAm+4ACBt+bCD8KtzoOiARRhuywThrFxySpztaB7dsMPpzyoSBHOweqeivgjgESAG8DkYHaucSroBiscjmCE4PubhoAgmMo3bZywanA6KVuAoM5GD33KwEzgSU550AdvMO2zVK2eBEE2nXKKW7N3OY25p2/QONCF16LiSjQgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClklEQVR4Xu2W32oTURDGcx6hF4UiFELwAbwQBKFQEAuBtJiiCYQ1tE1TiYmmIVJT08QaXQ2h2mL9QyilC2oRL/QBvPLJRr6J0z05biQhpxuQDnxkIbDz2/m+ObuRyEX9v6XI18RLUT09S9XkLJUSlzSwicEp2svFyM3GqJmJDoALrRQ3FhXiPZlwIU5NcWMTaH1h5kwrN2ao5YQCp7i5CaMDAUbkzE+z0nPT5wWnaHPJh8lmErRVvkuVYoZqlRVqPdn4C0aAoOXrvh7fEbixSrEVALqfu033VpepXEgz1NNanhpbuT6YZGKe/y/lU30weBjc60o0yjK7DFl+mJ10nNazt7hR9YHDIACqV9fOgDKpBSoX09Q93ObpQYBZujbFUxYgs8sIpTgDeLo1Z5EnBKsAARgITQGDyTVqOeq4Dxno10+PXuwUGAg5szIdWW0JseRGpoNfWAcgZOmgXSXv4y59817R988dOnpbp/2XlT67zC4jVC/M+kahucCIXXqIX7ubdPyuQafHLn3qPqMPb2q27FIMgK0YdsVF3YNtngxgDjuP7Nn1rwMQSiVv0mJ8jlo7GxxybJa+VZgMJK+WMWBQfpiDYLBxWO/28xKdei7bKBulw0By9owB1AszTtlBVgEAU/GOdtkihBmhNoGs2SVhDoJBZtxmkfPx48se5wXXCLQ5HQt2+WEOtOpPiDERbNPXE5dO3jc5wCZM/OoUv5DHBsJT4UYmTNBW4cyBTKsAY80u3Ah2AQzWYVo6jA4UtFUCZOHskfI/FdAcMAKJJvqZMwgGaq/GbAFFIv6YfTh9SrgGoAkkMJbsCq4gOB0Qk8K1DmTh7BmuBM4ElPAL4H7+cjhAZgXBic7FrlFKn97EYS4q7PoNTUohSbVQm90AAAAASUVORK5CYII=",
     "wiki_name": "Mushrooms",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mushrooms",
     "equipment": null,

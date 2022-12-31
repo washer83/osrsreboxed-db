@@ -1,7 +1,7 @@
 {
     "id": 17603,
     "name": "Serum 208 (4)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-18",
     "duplicate": true,
     "examine": "4 doses permanent serum 208 as described in Herbi Flax's diary.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xt2X60tTYRzHff4B3+zFeXMYMga9CyN6pahZXnA6NctMnSwT18Xb2HS1LZEsTRqaWoraxSCoCLXLptGVbhBFRBFR+Md8ey47zzmbexNsz6AffBkcxp7Pvr/v73fOKSj4P4ogVXktgqsXXRgLHYDfVwJPa3G+oQjeJ3x4+6SXa3mmGRPRmnxCEQnzauMEFmNNGD9XxYGKi4pUQ4nMGEAv1rpxfcrN25eHPBF4PN3wenukO1sPvJibrMf54H64XI1wN7aohCLw+U7vUKfnOI62eXCopQ1V1XUqW0cwMDjENTjol+ro8KK1tQN1dW6UlJarBRoZCUkFh0cQCARxrL0LDe4WVFQcRPGevSqBWBGsrT9CIrGFeHwTT+MJ3q7qGpcMNYNRCtTXN4BwOIJoNMrF2lVb25APGFaEtmkYkUiUywBi+VHcKqMIKle3uUPhiBBrmau+CWVllSpHnhWBc/47Sm9vSzE4PXQf2sl52I6EVbpE4Jh8g323TBgmx8Rr2MPr0M4swdY+BltzQJVL1J1rPziQIQ5EIe2jj6EP3YTWNaHKJerO1DvsWjFhDLHr9rFN6P470LpjqlwS7uy+sc2VAnTlA+zjz6EP34PWO6vCJcIPdS7/kUBWOWIfYb/0EvrZh9BOLZguNQ7lyiXqztw33i6mTEA82NEN6P0rpkuHQ7lwifADnYu/JFA6mCP2KRnsOA32qulS22guXKJAM194u9KBDDmmP4tgX3gGPXBXuNQzDVvneLZdEpPFwsyArEoBosAy2HRBcpfoktS8l4VLzcFsuUT4v3cu/d4BZAVzzn4VQDTYbEHy8adLMgcuidsEBzKUAYoFXgabLUg6/nxJWl1q6M+eSylAmcA4UDLYbEHS8Zcu0WkrrO2VDmXHpYWfpui0cVnhqIsy2Mkc8fsabVdheXs2YYwST4G8fSzgVjgGRK8ZwZYwyU2dAxhR4geNdy5xG5FQ7JMG23gESQfJOoy1zANMuHQpAclU1oPTlf7df62/3bJEEQ5haoYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xt2X/0tTURjGPf9DUEHQEGIiiDZhk2U0FMVUNGJLmSkLZJNybjG21EqzkrAv9gUpzElCVpaCIIgUiBSCiAZFBiIiSIlg03/h6b7neu7u3eqHYDuDXnh+uRs7H573ed+zm5X1fxSDURkthhvt5xC8WI0mtwPV5ZZMQzHMTFzD9LtOTI11oK+nEeHAmUxCMQ1mcjSC3utu7hY9LzCZZEOpmRFA4yMh3OqsR5u3MhN5YmhsrIPH49bceRO9zPN0qbkCFRWlqKoqkwnF4PU2wefzGNTQ4ILLVYva2tNwOIplto4hGPQlye12wumsQVmZA1brcblAHR1BTZFIAKFQK+rrz/JWFRfbkJtrlglExTAwcBfR6CMMDT3E4GA/b1dJyUkt1AQjFcjv96KrK4Tu7ggXtau09FQmYKgYwmG/AhTmEkCUH8mtEsWwtxvSgEjUMhp5u90qc+SpGGK/yrEXCxj0fiYfw8NmdHcdlekSw+p3qwLQaoBZWbFibjYfoy9z0HvbhHDoiCyXFHdilftAcRHkwrwFb8dycP9eNq52SnGJYW3VpgA0K2oxANHzpUULpibz8ORxtiyXRHYIxqj1NRu+fC7EzHQeos/NMlxi2Fi3YTd2XudQXPTZt6+FmP2Qj5EXZu7SzR4TgoG0uaS4s3NiHyZZmxtFPNgf5wrw+lUOnj09hr47pnS5pLoTizmVwz37MgL92CzSgj0xnsvHP40uMWxv2XUwydr6WcSDvbxcyIOtd6n9igqUIpfUyaJRp/zolQgkgk0LUrjU/0B1qcV3OFUuMd6ORJhEkYMi2LQgySVakmlwiUbdoRxa9xepQDvbdi3Y858K+PjrXaLrpM1/KHUuJYMYRRMogr24YOHjL1yinXTBc1BzKDUuKRlSVaOTMy7FRRFskSNxr7mcB1IJI0r9F0gH07Y2AhJQuRZsgqHlKHZQGmDUUn9QvHOp10gcqpIHW1wdiSAph9FX/IA4XKKkgPyp9AcnKvG7/1q/AeDmpwXrq1acAAAAAElFTkSuQmCC",
     "wiki_name": "Serum 208 (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Serum_208#4_dose",
     "equipment": null,

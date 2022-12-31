@@ -1,7 +1,7 @@
 {
     "id": 16322,
     "name": "Gold ring",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "A valuable ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABz0lEQVR4Xu2UT0dEURjG53yDVrO5m8tdHA7RF+grtG9ZqxYt2iQioqSIUirGUBkilZJRSRmjMsbon+mfGVJDkiRJkhZvnvc45sydZd2bch9eR+PMnF/v875PLBYpUqRIf0aC6it0VR9fn3VramHKCRtM0P6aW1e5dY/P7IpLq0mH+rriYUAJ2ll0aTnh0NyYQ5MDce7IZsqlk22PirsenWf0ic9wv8nFGZgEP5Sa0DAGCJClPUnlA0nXOUk3eUmVgqTRvkC7JOhoy2M7pofiNNyrgRZnHLYLAHeHkh5OJT0WFT1fKL4bYJcEPwwAwHS2NTCQPeCm3q8Vfd42UmHDo8SIGfIfl2BbzMACyPz3/jJg98eS7RzsCcQ6QS9XiocXA23D+G9qCYZHh9pbq/D+W9+QoM9KM88GrBvvt+2qvYfKLOltRDeVjAUBBAn6uFH0dKZ4PrBtyVE7CHUsYBMRkgBqbam11v+L35Tu0mtJ8TZhptLzOgjxOE78bYC6OwKFMdJdgnUYWuQOEhoWmaQGkNnAgGGMBL2VtXXIHgQi0jmf9hgMg2xvof/bAUnPDFL5MutxaKJDZgND7E5VdubYZUBChbFlA/wqSKRIkf6TvgC38qNbOQwr6wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByElEQVR4Xu2U0UeDURjGO5dddhEZMclkMpNllmWz2bSki5RdVEzKKJlSqZRKTUoa05imLBkRSRdJJJJIN/1Hb573OO3rG0k6X8r38Docn+/8zvs8562rs2XLlq0/I0G1Zbmqh2cnvR9qKeW2GkxQcdFfU6VluRYWOmkz7aFkzGkFlKD8nI8PnB9109SQi1bG2mkv00GnG11U2Qq+F/bwvdcJMG0SfBBsAYwCAuT5djdd7Iboci9EV/thrvH+Vp1dElReC3BOMkkXpfpaGGh9wsN2AeAmH6HbgyjdFaJ0X4xxJzV2SfDBAMDNe4MOBjIGXNVzuYdeThJ0tBpgeE1dEmyLCiyA1O3NpcDQsdyMj0YSWgIu6LEU5/Ai0EYY85dSguHRoYivSYd1gl4rvfRwGGfrqoE131zuIeiwdzDSTI7Geh1AkMwHAot84LXNDrcZwARbtDPt5e4AyO9u+EI3vy3ZJViH14RMGQ/HileIPazmnJn/9kOSXYJ1CC3mDiY0LMKURmFWpQekpZphlAQ9HUvrrnNhHoiYzsgWwBDkuF9LkD+TzAwG4lk2yEMTnVIv0MLuVGWcOcZSIJbCGGUE+FUQW7Zs/Se9ARoifLL44xkyAAAAAElFTkSuQmCC",
     "wiki_name": "Gold ring",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_ring",
     "equipment": null,

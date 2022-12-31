@@ -1,7 +1,7 @@
 {
     "id": 5548,
     "name": "Death tiara",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": true,
     "examine": "A tiara infused with the properties of death.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xs3W3U4TQRQH8PZNeATfxhijwQuCF4YrEhMlDYJQISoVCDGttU1purQWpQGsWEjACn6F+EW8MSHxyhAf4sh/Nmd79jBbuuxqmORkt7Oznd/OmZndROL8lyTZw3b9n5ckvSilaLk4YuJZ4TZVn9wywYid1fu03ZimrZUpC0o/RGS4C2IUQBwas/k8Ta9qE76O8RvXdPhRoZBJaiyOnkDhCAgHg5rVcVqt3DFtcbSB0F6iD/ZK9LWdOxuKQTjn0WHQ6+VJA+K2QSDc9323SD8+OMexZEDo40JfnwnduyrusPNTMwid2kDrzpgHwrkN1F5/4APhnEG6d1WSvjSgI57c+K1B6BwITm8QaK+ZiQ/Eo4Q6G4hHkkEYNQ16vyFBTjgQzwsNQucaJCd0N9DH1iMf6Nvbp9FBqAeIUTySckUGgT5tzsULQgAgQXpCB4HQ9vP2ggc6eFcOt8IkCIE6dIY/t4EYA1gQCP9hA+neA4q7eeHPcRwYuGqOGqQnNIMwkhKEe4eGrpvjGUDuHoQROg3Eo8gPABDqbKD+/ksdkNgUde+quEs+DAj1w8M3aHDwmjnXILRDe1zzUhYFxCgZ6ICfvNmsU71eosXSYw8kR4bbf9nJRgfJUapUcpROp7yhRxQKC7S2VqXDn/v05+gXpVI3ffCpqVEaH3O/EDqgJQ/TEwgrRIN4njhOnvL5ecpk7tHE3RFqtVY80NHvQ8pmM3Tl8kWTPqQRQKD8IKfX0UHpgGTaAEI9rudys9RoVKj9ZsMDIWXlctZcm5udNuCZmUkTuAevjdhAjEI97ydIHdKFeYNRq9WK5hwjxBhOG+YPdmkJYpTu3VJckC1tDMJnBHfWLXiFof3+1rwHwh4UYh/yg2TaJIiXvNwQEfrjDKMTGYRVdhoInelXBoP4tcH7T2wgnTbUS5B+ZfB7D/dxW4B2Xz70g473oND7kC1tEoTzbiA5f2IB2dImQbgmPzkkiF8bnK6IIJSTK8YWev5waBC+pSWIIwQokeBtvVtooAw5f2IB9Vo0shcsR6ftfyoaaQt9z7kufwHOLqAFxfjqdwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xs3Wf2tSURgHcH0newm9iogoWWEuWkYl9Uc/RFpt2T9DVkGZOYZb4hCJJCQTYYyVLCJiRBARwYgRtiIYvYwnvufy1ePjuVOnGzvwcK/3nuv53Of8uoHA4S9BcYfr/r6XoNSzp6T2dNxE9UlIKo9PmiDi04vzsvF8Uj6WzjlQ+iWGhnsgogBiaMyH4llZL0Q6GsZv3NPRiRoIGZSVhdNdKBwBYRDUeBaR1VzY1MXRBUJ9G73dSEhz9ereUAThnNkh6P3yhAGxrh8Iz/16c1N+r0/Ln3dJA0IbR8bGTOjWVfHSzrcmCI26QGuLZ1ognLtAn8vRDhDOCdKtqxLs6AY0RBB+axAaB4Ld6wf68vLC6EDMEhpzgZhJgpA1DfpaaYMQA4E4LjQI1zTIHtC7gb69utgBaq5dGx6E6zaImbRnpB9os3Z59CAAbJAe0H4g1P1Rj7VA242pwWaYBuHabiBiUNcPhP9wgXTrPsVbvPDnOIbD3paBP7dBekATBLgNwrPR6IQ57gHkrUHIUC8Qs8gXAAjXXKBQ6JgFai+KunVVvCnfDwjnqIPrsdikRCLj5lyDUBfP4F67y4YA2RlgoAG+ebVaklIpJ4u5Ry2QnRnW/7lyZbSgfD4jMzPxVuoR8/MPpVJZlq3NDfm305R4nJulF8lkQqZuXTfnBGGVJqYvEGYIQRpVKGQlm30gqdRduXP7htTr5RZo5++WpNMpOXH8qOk+dCOAQNkgZKjP7KD4g/jNk8nMSbmcl8bbWguELltaSpt79+fuGfDs7LQJPINtY2iQ7jZumKiDrkN3Ydwga8XigjlHhohht2H8fH99qQNElG7dUfxBXOw4Y3qFPcOwbRCENWiAdcgD2d3mAnHK2wsiws7kvoGI0iC9ZRBkbxuoiw+zoUCY9r1AqKO3DPy2QcxONygx+DrkGkc2COcHDtLjSIPsTw4bxG2DIHy6DgFC6Z4xrtDjh0EQs6NBjAFAgQCX9d1CA+2wu2skoH6LRvaDZbTrHlDRSFfoZw51+Q/DhBmjv6yCsAAAAABJRU5ErkJggg==",
     "wiki_name": "Death tiara",
     "wiki_url": "https://oldschool.runescape.wiki/w/Death_tiara",
     "equipment": null,

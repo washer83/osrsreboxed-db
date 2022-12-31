@@ -1,7 +1,7 @@
 {
     "id": 1151,
     "name": "Black med helm",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "A medium sized helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlElEQVR4Xu3Wv0rEQBAG8M0bbJUmTeCKg8BBEIIc1j6BtY2NjY2FhZ2FpYUgWFkIguBTjrNZhpuZ3WQvf4XDga/T2d99m4sa8z+nPRmks9pkcFbXsKsqke1mI7ISymMoXaiyKNos3JbExFAaJGGzThzDQfy6NEi2NRmXwXnTiPSBNESnMmYKKsRw1DHXpTHUVl2WQ1HdGA1KXRfHjAT1YzQqhdEZBfraFW2+MT8YjUmBrnIDl9ZAg83wdkaDLvb7Nh9VAZ8ded/m8IJ52uTwUFq4KyzcYK5z24J0M5NAug13uM4b5hXzjKBHBN0j5haj29KZBHJXQovomvRXfsjDPRLkJgsWUfiBq4J4OxTXTOzAVUDucL2MDqbFOouDdEsEoqV+sX/mVmmIN6IXckzX+0hH/u6gkaDc2shCj+l7Qc6EcSP/MwwXHjBDQfqkIye8MrlQtpMCTWzHzTIgecagGQeKQWZoh8a/HLtAqeeHQ2bA0BxeenJxPyj8+Rkn/inlt5CDFsX0T/in4w8xfnh78SZPZH4BgZIQiFM8NO0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu2Xz0sCURDH9x09eNiDIIIgEhISIqFIkiRKYiKBly5dOnTp1qFjhw5Bt6BDEPTHTu+7y7Sz41t/Pg2kL3xRlnXms/PmvVmD4F+HLUPLvTcZGvR6dNHt0nmnE/ms1aJ2s0mnjQad1OuR9wRl6LLfjyyhACShjmu1yDuulqHxcJgC0lAAQnUAc1StRq6Uy7uAimGkXVXiJWMgwMClYtFnfxmajkYpu4BkD0kgwMCFMIxcDoJtoAxdX41/LaEkkG5qDSRh8Im4zUplXShDs8kkBSTBUCUAuXaZC4hhNgSKYbQ1FKq0KpD0RkCflTDyl/W3tQsMQFlLNsgH1M4FVLOVkdXZGIgTv5dD+sjwWylPz9aPxTzdF3J0G+ZoZj3N5yIgrxWSvQIjufar9Yv1kwV6sEB3FubGWi6bNyCGwTJwINeWlyNEL5vHCkFmLhAbifm7hNLjwzuQTMxGhVzX9Ym9EyAsC4LKYLjGQLhHm+eZ520PxUC6GnyNg8aB41nHfaSBpLcGQhIEdz2hhJEzbRFQ+rdrKQFCgiwY7Dw507h/9LTfEgZKgJAoC4aPAN3Qi4B0phWVAMkmTgImL2yuHaaBtqwOtBqQfidyvTF6qA60HMj1TqSBcJ+H6rDMSkDylJZAEsQDDCs59NKBYyDdPww0f79HuZ8y/f+MZxiAdgqzWPOj4w9hYsnquSt5IPoB14AtkFRlVYwAAAAASUVORK5CYII=",
     "wiki_name": "Black med helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_med_helm",
     "equipment": {

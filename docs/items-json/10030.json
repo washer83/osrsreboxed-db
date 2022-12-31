@@ -1,7 +1,7 @@
 {
     "id": 10030,
     "name": "Teasing stick",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "Reduces the risk of hand severage when poking large, vicious carnivores.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC20lEQVR4Xs3VS2sUQRSG4Zl/EnAnCEEQCeLKhQtBEEQIoqAQcOFGEAQV8YKKoqIoCioaojiJEjWEGC8JTIiJmiDegn+nzNvt13P6pHqcnnQkBYe+THXXM6dOVddq67/VQzxiv695q4dXQ2fC6ODpJF48PhVGHp5MQoiZ8WuhOXY1TL++EkH5P7FqeAoSCpDCY6ZeXg5vn1/MDcw1v/nIo0oh62HsydkVKI5AFAJNjlwI48/OJX05xkD0t+il+aHwY/ZBdyiBOFd2BHo/eikBqW8RiOd+zQ2G318ayzGcgBijt6cnCT+6a2na9a8FYtAYaKJxPgNxHgPNTlzPgTgXyI/uWj03DQzEPVBcexCDg9D0FoHmJ29WA+L6+OFtyZF7MZAyKRBZ86DP7yyoUQ6kurAZEsqDbEG3Ay18uJUD/fz4qHsQA8VQyqRdkUWgxanbawMSCpAv6CIQfb8172agpU9PM0xpUDuUQMLQrwj0vXkvCvKjF7R08+LlFsTLPcrWj0BM5QrQzP1uQekeRIZiIOrHoyyI5zyIZ3Igsyn60V1Ll3wMROjlRagYiOxUChKKYAB2XAbQ9AnGUSA/XZWBbJY4WhD9uCfQiYHtyXkMNPfmhgENZ5iOQKyQGEifAwtSQQt17GCaKV8/fDZshjrMDq0F8nWkpSwQ13aF8Sygo/v7MpSmi89GZSChuM8AAvG73RD1iQE0sG9Lci4Qu7QFCeVHj7QUFJu2TkBkjHcc6d8aDu3ZnJzT/+v0nQzEHlRiH8qD7LRZEEfuW4xAPMN7yFL/rk1/M1HvHkSx/gtEfXAvBlKt8a4Du3vD3p0bw46+Dcn1qkB+2rhvQf6Tob2K59RX2cllaHkPKr0PxabNguySj4G0wujLHpSroW5AsWmzIH6LFTShzwaFXwGI1kpzu/D1o/AgNkULUpQA1Wra1tuFB9rQ/kN2KgF12jyyE6yi1fc/NY+MhX9mXbc/7F6hnekJdWsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xs3V/4dUURjH8Zn/ol9iJclK+iFiiUistNnNtLvaytbW/hCxRPQvJEVKlCQlq1qrtTZjkySJJJEk29Z/cvI+12fm3GefOztzZyZ7eNxz5z73ntecr5XK1i/V4If3vO+lGhZvjYWFm6MxXtw4Huavj8QQ4uOT0+HD46nw/tEpB2X/RNfwDCQUIIXFvHs4GVbvj+ca5p5nNvKojpDVsHT7xAYUVyAKger3xsPynVrM5eqByE/R6/W5sLY8Ww4lEHX1jkBvH0xEkHKLQLz3+/Xl8Gf1avj75loE0ca+gYEYtnVTsm7XvxaIRj3Qyt2TDRB1D/Tp6ZkciLpAtnVTqrlhoCF+A8S9BdE4CA1vEejzs7O9AXE/M7YnXmnMA6knBaLXLOjLfBNEdATSvEh7SCgLSid0K9DX59M50NrKpfIgGkpRAqkn0xVZBPq+cL4/oBRlJ3QRiNwfizMN0Hr9SgNTGsRKsyiBhCG3CPTz1QUXZFsvKNnmxcdTFB+3qHT+CMRQWtCvpYtlQdkeRA95ICa1RaUg3tsc1NwUbeumZEveAxEC0YCH8kDk8k7PQVwFIjR8gnEVyPZOX0DUUxB5/CbQbG1vrHsgjg2B2KWFaQvEChEoRakhgcjThBZqeiTrKQvi2Eh7qM3eoRSDdD55IKEATR0dzKHI5djoGmSHzYK4TzdE6rwPqHZkV6xr/nx7eS4HEsq27pRikDY7rTKeWRB5fGNieHcYPbQz1snn2BCIPaiDfSgDpcPmgbjyLMUIxHt8h14aHqLBbCX2DCSUBdkjQyDl8a1jB3eEwwe2h/2D2+J9KRDLeTMQOfbI4D4FafPc2ENzne9D3jxKQXaFFYHIZQ/Kz6GSIDuPLMib0ISODYHYg7oAUZrd3Crs/FEIpN6xIEUHoEpF23qrsMA00uHqCajdYpHtYBXN3P9ULNIL+86WLv8A9lQWSIKmA00AAAAASUVORK5CYII=",
     "wiki_name": "Teasing stick",
     "wiki_url": "https://oldschool.runescape.wiki/w/Teasing_stick",
     "equipment": null,

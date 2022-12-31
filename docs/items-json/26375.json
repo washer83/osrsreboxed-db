@@ -1,7 +1,7 @@
 {
     "id": 26375,
     "name": "Zaryte crossbow",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-01-05",
     "duplicate": true,
     "examine": "A weapon born out of conflict.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVElEQVR4Xu2WS0sDMRCAm9/hpeBBEAQRREQERUSKIoqiFFG04gMtBd+i0oMeFMGL/uCRL3G6SdpK1+66HhwY2u5OJt88Mmmp9C+5ipH4Sc7Cht31aO/o67tvn5sYuW5cS/2wLrWtmlTXq1a3N7es7lZ35aXyFgBimxGUOg2fPTef5bJ+KSf7J3Kwc9ACAlAVCDLFdwUcLZf7gTIyPzMvlbmKB+WiZZON1Q05Pz2zMHznEzgypHAANY4bFnxpYSnIWrhXT2JkYnzCbuY7wjmbri2vRRs4BUrLp7A8QwHkN4H+AMrI0/2jzQhRkg3KhFM2W1lcsU4pg688A1jLpZnjt/riva6Pd/1GjHy8vkvzpikPVw9ye3bbamaAwhKE68giMGyKnW/LenwSIDbt678VVwI2uLu4s1A40l4h+qR0zp4M6PsEWBvawfLeL13KZm/vk1j9cmmPxc9V9VAQSHnAvUsJVCrFfdJJcazZoaTJRm5QAqqjAOCpyaku0JlJkh09mUnkbphScqDicqIEEZa/L0myQ1+FkYc29KIOVUoHiM4xP2vJutTiIoznU2enxm6MHTB8oqydnZ7pEkgqcadQy8Tx9h3H1k7aD4Vq3zD0BdERNVfM2OhYT471fSeNbVOIsTNJrwOumV5gcpRwpvjZiS1/Sdx80XttZHikSKDkvtJmHhocKgrI9Y7C0Mx+dgoBYrApDM1cYLmMzQzTloYGqtejnpM4IH8I+sc9tv4FcZOZYx5P5cKAOOoA0T8ZXYb9iDvu8b+9AoGQzC7D7ERB/gRMUfIJZDeTHcBEo0kAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACU0lEQVR4Xu2WS0sDMRCAm5/gQRBBKCIiIlLEIhVFUZRSVKz4wlLwLaj0oAdF8KT/e+RLHDdJW2ntruvBgaHt7mTyzSOTFgr/kqkYiZ9kLGzYXQ93Dz+/+/aZiZGr5pU0DhpSr9Wlul61urVZs7pT3ZHnymsAiG1KUOo0fPbUepKLxoUc7x3L/vb+FxCAqkCQKb4rYKlYHATKSLlUlsp8xYNy0bLJxuqGnJ2cWhi+8wkcGVI4gJpHTQu+tLAUZC3cqycxMjU5ZTfzHeGcTdeW16INnAKl5VNYnqEA8ptAfwBl5PHuwWaEKMkGZcIpm60srlinlMFXngGs5dLM8Vt98V7Xx7t+I0beX96kdd2S+8t7uTm9+WpmgMIShOvIIjBsip1vy3p8EiA27eu/FVcCNrg9v7VQONJeIfqkdM6eDOj7BFgb2sHy3i9dn83e3iex+uXSHoufq+qhIJDhoeGfABUKcZ90UhxrdihpspEblIDqKAB4ZnqmC3RqkmRHT2YSuRumlByouJwoQYTlH0iS7NBXYeShDb2oQ5XSAaJzzM9asq5vcRHG86mzU2M3xg4YPlHWzs2WugTSl7hTqGXiePuOY2sn7YdCdWAY+oLoiJorZmJ8oifH+r6TxrZ9iLEzSa8DrpleYDKUcKb42Yktf0ncfNF7rTjmZklOQMl9pc08OjKaF5DrHYWhmf3s5ALEYFMYmjnHchmbGaYtDQ1Ur0c9I3FA/hD0j3ts/QviJjPHPJ7KuQFx1AGif1K6DAcRd9zjf3s5AiGpXYbpiYL8CZi85AMx/2nJKfbOdAAAAABJRU5ErkJggg==",
     "wiki_name": "Zaryte crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zaryte_crossbow",
     "equipment": null,

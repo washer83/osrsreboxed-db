@@ -1,7 +1,7 @@
 {
     "id": 6405,
     "name": "Menaphite red robe",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-15",
     "duplicate": true,
     "examine": "A cool light Menaphite robe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xs3WS2sTURQH8OQbZDWb2QRcCIJQBAlFBEVExFU3dlG6aDfduHHhwif1/aBKpVKhVg2pNI3a1hhrrLaQUltfiK/i17nOf8Z/eubMTZxpp9ILhyR3bnJ/c+69Z5LJbP+WNfawXd/yljWzpQtmunjOj2ePz5rK+Bk/iFiqDZlG9ZZZfHHTgtI3sWl4ACIKIIbGLMxcN2+eXg1NjM+4piOMSoTMmurEYASFV0AYBNUrl01t8qI/Fq82EMZL9NpqyfxYfrAxFEF4z+wQ9Hb6mg/i2FYgfO/XStH8/lT2YsoHYY6OfN4PPbtqQdp51wRhUg2Sd42YK1+ygpbnbodAeE+Qnl21bGgZgODmxmcJwtiBvj7T39Njeru7zfGuLr/PBlqtD6cHYpbQp0GT7iEz4R70Y8jpNCdzu/1+Dfo4L0HlZCDuCw3CnRNEjAadynVYQZ/f3Q2Bfr5/tHkQ+gFCYFzRPeAHMNViwQx7oNMeqDe3I4L6sjCSLgiBpbSBgJl5WDAjzj5z3tkTASGj3xqjTdDahydNTGKQROHHNYjZAWjU2W8Gnb2mP7czAvreuG8F6dlbtPUj3A7E/UPQmBuABnK7oqClsY2CgmOLDP0L9Nw9HAKNexm74oFOKBDGh0CiKOrZVQuOvA2E0KCX+SN+lghC3HAKoaOP7KQKIgqBCVBxdYZqpc4mCicNy7YlIJklvBLE7MQFrby+I0BTTUwsEE6YDcTHQRwQ9hFByA4eGzJDMbODtg7S+wj9mABj6vljZtZtDcI+wjguFx4bqYGIQj8fGa/yR60gBIojQDz6AKFKSxBRenZLC0C2ZZMgLlflbx2SIBRH+ZDFEn9dvNcEoQYlqENhkFw29OH6vLdc7UAojnympQLCKWsHkvuHlVqCUBzlSUsNpJcN/VyyuIH9gyMfAnk1KHEdsi0bQbhjvMfJ478AVHEWT55Gjk0FZFs2CcI1+bdEgjCO9ScFEFo09baQGBkahKIoQYwEoEyGZb1daKAMFkRkJxVQ3KaRcbCM9bH/qWmkLfR3tnX7A+8SQJnZgg95AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xs3XwWsTQRQG8OSYwx72EBBBKCISikgRRfTUiz2UKoloFKtStQoKhYAiCh48CAWVlkqLYpFSrRqstVhKJVREREQQEUFEpFb/kzHfrl/y9u1su2k20oFHNpvZzm/fzLyhqdT6b2ljD9vvLW9pMztcMDNDeS+mbx8w5Zv7vSDiw6Pj5v1kr3k3ccyC0i/RNNwHEQUQQ2PePjhqFu8XAwPjO37TEUQ1hEybuTsHQyh8AsIgqHK3aOZHD3l98WkDob9EL1dKZmn+3NpQBOGa2SHozfgRD8S+USA89+vVgPm9eNn8eX3VA2GMjrY2L/Toqvlp51sThEE1SL41YmHssBX0cepEAIRrgvToqqUD0wAEQfguQehbzOdNobvb9HR1mX2dnd49G+jTk5PJgZglvL0G3XN3mjF3hxfXnHbTl8EA6RDoc7kOQjQE4rrQINwjiBgN6s9stoK+POsLgJYWLjQPwn0JGnE7vABmaiRnrldB56ugnsyGEOrbzOnkQZhKGwiYyeGcueFsMwPOlhAI/b/PnqmBlisXa5jEQcwOQIPOdlNytppCZmMI9ONlvxWkR49o9S0sUfjjeg1J0C3XBxUzm0Kgn3Nn1wryty0ytBpowt0VAA1VM3apCupdFVQvinp01fwtbwMhNOhxdreXJYIQV5xcYOujL55JHIRPghAyQ09H22so7DRMW8tBuCaI2YkLwrFBEKo0MbFA2GEESRSu44KwjiQIx4bMUMzsoEWDeD6hz3R2r3noRoOwjgjCC+DYaBqkp02Cytk9VhACxREgbn2Avj4/FQARpUe3tGgQ7hPE6Rr/V4ckCMVRHrIA4dggCDWogTrkg+S0SRB+f1GdrpVAKI4801oCIooguX5YqSUIxVHuNOywpkDY9lEgTlncQHbCoFLjdci2jgjCILjGNPKfABZOudZYEBMD6XWkQTzfNAjPSxBqUBMgtHDqbSExMghidjSI0QAolWJZXyk0UIacrkRAcZtGxsEy6n3/U9NIW+hn1nX7C1yowUh3TiLsAAAAAElFTkSuQmCC",
     "wiki_name": "Menaphite red robe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Menaphite_red_robe",
     "equipment": null,

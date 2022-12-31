@@ -1,7 +1,7 @@
 {
     "id": 24594,
     "name": "Blighted anglerfish",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-04-23",
     "duplicate": true,
     "examine": "An unappetising fish, now blighted so it can be eaten only in the Wilderness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xu2WQYvaQBTHnW/gyUsugRwCgUAQgoQQUEREFFGQLe6yUrsIhS6Flt7aHoRSeinIwtJS6BfYXtpP+Jr3Zt9kMkabzcb20gd/QmZ03m/+M/Mmjcb/qBQCzJZ/FAgi4Kxv0TPTXw+ZeBS3wLMbSm2vCf2wWRKqzG9KhYAPnz+B53uGK1IIhs/Ato8kFJCE2F8LlIDVZg2O66jELAaKg2MuCehHDik/mUeFHCQDydp56Q67lC514uZUi1v7MByCgIpdkhOZ9TwlHah4vEdHBpRtcKmfdzt6LoaeUt4hnkAty8ghB2Og85EFVzMbXp07pKcTC2bdVibNpY4vy8ekF5BqgJKzX8/bVBKwPhHMKobriwieLzuwOQtJCIr9OhCDDBOPpLtrZioZApZjnxK+eRZTQtblNKA+3PSh14AkaKjfLkZhDqQXuSTsZ+CKUALWixgu5xEspx1yiYXLh9ILKWoYWQpEB4rbDoFgeYiCFgFV2PQCbNuCbhKCY7fkwIHc4Cjc7Ltvt+QQA3VDK7dUDBP6NqntNsG1pSq4JGDQiwgGwXzXgsB36Z0BBh25ZAiCM8cnulQERP93WyR2qKRLOrmggVAIwkJ38FRNujYJIRiKhe8s3RkUX0lZnoMhYPv+hToNH7cv1exM4R6iPXMPYwLpl7QO8wCHBHy5eQe3u7cK6PvXrVp/XQyFe8kEQTcyB6R0GB3IJDBCwOurIVyv+mqgXz9u9mB0sQMMosOYFzW1lQcSVHWXg2ZO2GYKNyuWg9mgnTvy+t4oWo4cWEG/EWmJjxskPDkofs9dDak2TxIqfniCdKBjMHr8qf8+BFVbBMEnV1+WXn9Q6BLtofRIFwGZo1cI+e3DMObMi4RARTA1AKUfWcMYwlDeTVVVozsY2RE1E5VRje5kkQ1YHuoBp6ZqCLqvPNem+4sTq+VM24tcOREMRvp1GAUEoC8hXrI62Ild4Uhr0bhLyfMJBcynPQWo95sj1BzpJ+t8UDB7ARfLsQZh9p80DiXLt+/31xO/ARzbFP5MIsYNAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAECklEQVR4Xu2X30sjVxTH9z7uwz74UAgBIYQQQpAhhEhIiEQybMiGKFGiEU0kxmhg/bHrxhXrKu5WRCxbFlrsS1sopVAo7NIf9EGWUiilD6X/07f5ntmZTMbojjG2Lz3w5c7M1Xs+95xzz9U7d/63vkzB+eU/MoIozD5vyNjRv26G44nWPEIpDZo+imghibFKDoXHZZdQbn7GlSm8Pv8Juy/2HVExlJzNyBjx+a5wqFAuhVyCv9cUjj45wc7hnuXYFN9Tc/eRbU5d4cyAWSiHHZu5kRmLdEA635m28cX8FVFSAlNbGBHxuVQM3hzqIoxpCpl64ZIoGRshyHLVkB2o93o3tg5Qp8AN/fXHaxlNGCdQZwMDSaNpxmK5tZIAVU/XsXK2jc1vDrH+9YG8T+1WLdnTViwE5HenyhHRAKCM3W80o5h+VsP8cRPLn7Wwt53AzlYcrc1RPF6LiRZOHmLmoN4FZIJMljSRPbpOTy5NYXVJE4cHOwlxSqi5oxU8bERkzldOIvQkj8jpvPWz5epoF0i+OCLivAncJ5TCUjOJaqMNsxS30lJ8WpEmyhQG17JdymV9FogdKFswTiJbRHpsWID6KHqF1qMKDnaXERrxGAu3i9uUvjKJ899/hfa8hPCHRYSfTgiQPVUmjJ4LiQiTSHhFfURJobk8LTCzpfuy4G6rhlQ6IB2cTXP0rI7I8Rz0zLCIQIW8vydQWg+ikPOLzAi5jJKdXAkApUW9iKf8IjZLpo/OKYKYUHY4U2ZUTAUfPXAbIYXvvz2xTsOb7z62dkcRjED8lt+c6XLqBGIEeUkzmpr2gUhPD18nQgpvf/kcb38+s4B+O/9SQm6vAxOQcFJLNgjWCBXJxa01qETci3SqHTXd1wXkJHCYwvp2BqubY9ZCf//5owXUC4ypYyc3QSh/zLj5nRc1dQ0ghcWXG0i/eYL0D9vG2Ba/OcViZStg4RKIFzDF2rjnGbo0HXawXvMOa4f1q6Yo/sWqyHxmB7aLvWlmISYnyARivcSnx105e9/8O1OIvqwg9mkNsVeL8kyxA1MsYLsYJSnsNpQc/8mxrug4V+/DFAJNXXqKdjSLkf1pq9lRvB6cIhCjwgIOj0ddRcelKXy0vypd2VdJCQj7BK8CQgYaGUN8ficeZaaKf38HE+FBR4fWOaLeYgz+WlouTmq4FBdQUfud6WF/oXxaAN6wUawDik7HOgsqeDJheLKajN58xLjV2/+RMD2MCsX3a5yafk2hXp1AVk8gGPThXtiLu94hSedQxIetjXlJUe9ecyum0FgqIp9LWru/G/DIjc+Rl+utpeiiKTzbqQtQt0OF4xdrFuDh3oo171xhwKYkEhd3r/DqdMsG4Zy/VbvMWff3i/ODsX8A4BSYAV6G5rMAAAAASUVORK5CYII=",
     "wiki_name": "Blighted anglerfish",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blighted_anglerfish",
     "equipment": null,

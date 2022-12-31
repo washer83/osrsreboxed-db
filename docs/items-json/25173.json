@@ -1,7 +1,7 @@
 {
     "id": 25173,
     "name": "Decorative boots (l)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-12-02",
     "duplicate": false,
     "examine": "Very decorative boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xu2W3WsTURDFe/8Dn3zxZaEPC4XAEgghlIWUUEJwEYOiSBEUEfqgoKAoCqKioCiiolL8QFFRKSp+UPz+28aevZ7d2bt3NRtjA+rAJS9zd35zzsxtZ2b+x98bRuyZeliQe3cX5MH93g+oqYEZefJ4MQV59LCX/q7c6crpUy0FtmGARlZXB/LsaT+FIhiAbt6I5eqVebl8qSNHj0SyYzjrAZwopJF3bxN59XIgL5730wMgqATrbt/qyvVrsZw905KDB+ak292SAgCYB9ATgjPy6eN2WXufyJvXWzMoKKWBoNDJE03ZvWtWwnBTpqS2Viv5G3BFINc2AKHQxQsdOXyoIUkSpECE1tZSyfPn2nL8WDNVM7d35DDy7etQPqxtKwBRHRSiXcvLFoh5PmuhEHIxa/v3hZm9URCMCmWBvny2KsEy1y4AYdMABHDOG/J0Li1DLtSEOlCzJhDC2oZihKJdvwICjGstZg3q9BdzdWoCIeymwQoUoHUoBCAUCoK5VEm9ka61mB/YtbQUSqezeRx1GFYlQqGQnh9YgCJUEnOkgfTTACBsYzMayy6EWR++PRLHO9e7GkqrNZAo6kmjEafbAqsAg4HGkDIPv4BygZAPNXHGADKy0NubFWm3kwwGc+MC2RW2B+tOELw9sIt3oCju1QSyMFCHMFQHB8MJ+X1A+h5nDOq4DXCO3MoVYa0iDIFwaBc6xQOngQCjVdUWowHkY4ZqbllxblwgrQ5WGAU0kG/mcAcNIB9vUI1HMYfhR10oVx3+CSAM7zPftwC11amCQrf8ONXxweh8DHOVXW51T1QD4YSh/b+H3XKQfXcmYBfC/3GfXT+DIZBrF++MaBejPNTslurkHVbPHO5ouzRIDRhG/sjp1YU6xQ7LQFwAbdcYqpRDF9Wn+OGymjx8DMt3JhBa6vKHTcle2vVHYEaLoop+NTc4XBWnCvNPxHcbLTPIRwPWigAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADp0lEQVR4Xu2V8S+VURjHe/+AfvBDm9lsd9bMzOyuacYy1l2G0WSkkSZJE0mSRJJEJDEhkUgUUcaMxBiKVlv/0rd9z/Vc5773td17E1v1bGd35pzzfJ7v93nOe+jQ//h7w4BzHXg4QUZf9OHtQP821IGBGZgaHsb4ywFMvBpEz+NWdDQ1obaiQgPbN0AD85PvMT06iumREfR3dKD3SRs6m5vRer8eD2tqUFdZibKiIqQmJloA7imkgZW5OSx+/IC5iXEMdXdjoLMTfU/bFVDbgwY8a2lBQ3U1Lp3PxXG7XQFQSdrKRfg9gjOwubKC9cVFLM/OKqjXPT0Y7OpSKhGEcAS7fb0MmWlpOBIQoJSkvVxira7kb8AZ2Fpdxer8PJZmZpRtM2NjKhGte/O8VylFlUoLC3EyLg5BgYFKSe4jrFjLPQRquluLW9dKcTEnR7PX6zDw48sGNpY+KyAmIgibmjBUiwnFrlMJCWrfwtSU+p9YSyUJRDDuLS8uRm5Wlsteu83mLZSBn1ub+L6xrlRiItrB/mBC2kZLOGkEIrj0GxXSreUvraNlVDPJ4VD2+gjEMPBtbQ1fl5ex9mlBJZscGnIBMRmBruTnqz06EPeZrb1zo1ypcyI62gXjIxDD+QbxYkJQKSbk32JHmC1AgQvQ7Pg7BaRb++henXoazqan41hkpD/qSBiqfyQBq21vbFRNerOkxNWgBOJUciJFIe5nL9Fa9g/tOp2chLDQUH+BDOQnRyDbEYbMhFCkxobAERWMeHswrhYUIC87G2dSUtSEsWrZx18WIapSyfqqKmUt1QwJOuwPkBMmNzHcA4aTwsvZD6w4PjZ2e4Sdi4pQRY45G5mjTrt4hoqey8jwFcgTJinapoC4ePnlC3mWQKJoetxRZSubntaaC4gID98+41UYLhheLEBcYpdUqgNJEQIk+2MiglQB3M+Rj4mKcinkhUruMAIkUCI9+4efCyYwA8lZAeIZFsD9fEB9mDInjDSnrpAAcVL4ELJaNjQTmNUx95wMgK6mT+rwUrlYV4mXS2PyPZHvEWF2A+IAiF3cr9tlzm4RTiArlbikF9icVEdvZP2M2CUDoNvl4zfMHUiaU+zSm9kMYwXEAnhGpkvOeGmXhOF2sT7y0sw7FVqrI2d0u3QQH2Akdh45aUxWy2Z2r9C656TfOABU1A9VPENPqi/3i3d/Ivg60y7PM3sQutSeFxtufSP20q4/AuNduKtoreY+h1nFA4X5J+IXKUBmvPSAvN0AAAAASUVORK5CYII=",
     "wiki_name": "Decorative boots (gold) (Locked)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_boots_(gold)#Locked",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 7125,
     "name": "Pirate bandana",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-07",
     "duplicate": true,
     "examine": "Essential pirate wear.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xs3WW2sTQRQH8OQb+OSLL4E+BAKFEAihlECkiEjf/QK++AV8UIu0Fi1esXgpWC+hlabRthpCW2tbSK1pvSDeil9n3P+u/+3Zk9m422ylA4fd7Mxmfjlndjap1NFvaWMPW/+ht7R5PXPFLFZH3Hj1/LKpP7nkBhFbzdum1bhpNt/csKD0j+gZ7oGIAoihMRtLE+bty2uBifEZfTqCqFjItGnMjnagcASEQdBqfdw058bcsTjaQBgv0Xs7M+bH9vTBUAThnNkh6N3idRfEsWEg3PerXTW/P9WcmHdBmCOfybihZ1fNSzt/NUGY1AZarl31QTi3gbaX7wRAOCdIz65aOlAGTMTFjc8ahMmBYHnDQDur95IDMUu4ZgMxkwQhaxr0cU2CavFAXBcahMkBkosTEQX0eX0yAPr54VnvIFxH/8rQgGk6sVApmbly0Yd1A33ZuJ8sCIG+tVMepnGyZOqVopktF8z0QN48LOXdfhsI5f3WeuSD9nZf+JjYIKKIYXYAQiz9hd0q5rqCvremrCA9e0jzSoAvBwjn66cHrSCc7w5XzIVcn38PHooO0Nbjg4K8PQgZigJCtIfLZjSfdcfhPg3CgxAAiU1Rz66a98hrUFjJUC6sn/dnym7JmCUdiYKIYqZsMXT8mHscL+TMxf6sGXECGcNnBPoSAcks4Yj04xWAX4xxGF8dLJizmRM+DhCGHTTvYyKB8ITYQHwdaNCEM+H5LL7YexkTBQj6uLZkhiJmB20fpNcRH2WCuElOlvr9tQMQ7iEUKJSP/YmAiMJ1PL4EoR/jnzolw8Tn+rwsMZM4lyEzRJSe3dI8kK1sYaAp5ylDFnAuS8v9B+O/bj7wQdiDYuxDQZAsmwThyNIAhCfLBgK8ZxAW679AmAzX+H5DYP3ItYaxiYJ02XBdguRfDmII4liA2it3gyBnD4q9D9nKJkE47waS6ycRkK1sEoQ++bdEgvgeY7l6BKF1vhpsITEyNAj/pSWIEQOUSnFb7xYaKEOun0RAUZtGRsEy9sf+p6aRttD3HOn2ByzVWcWxduk4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xs3Wz2sTQRQH8OTowYOHQgkEQgghlBKCVMTePSpatBV/IVoFRSFQUMSbIIgUC6VFaSmlWLRUQrGUaoiKiIgg4kVEpFb/k+d+Z/1uJi+z6W4SQwceO5uZzXz2zc7sJhK7vyTFHa72/16SsjZ1XCoPj5l4PnlUVh4cMUHExydn5cPSGXm/eNqB0jfRMdwHEQUQQ2PeLZyS2txow8A4R5uORlQsZFLWp0eaUDgCwiCo+mhUNmZOmL44ukDob6O3q2XZ2rjSHoog1Jkdgt7OjxkQ+4aBcN2vlzfkd+2m/Hl924AwRimTMaFHV8VPO++aIAzqAm3OngxAqLtAn5bPNYBQJ0iPrkqyYRowEEE41yAMDgSnNwz0+en57oGYJQzmAjGTBCFrGvRlpQ5CxALxudAg/AaQ/XAiooC+rl5oAG1tXuschN/Rvjo0IM+8WCwV5HExH8Bagb5VLnYfhLbKAR+zvL8g86W8zBZzMjmQlXuFrGl3gTC939cuBaDt6kSAaRtEDLMDEGLpH+xOPt0S9OPFuBOkRw8p/hTgz4Ey03Fw0AlC/c1wScbT/cE1WBQa9HP9crsgfw9ChqKAELXhopSzKdMP1+0Mqm+KenRV/CWvQZg215RhuvD8vDpUNFPGLOnAyuw6iJlyxdDePeY4kUvL1UxKrnuBjOEcgbaug1BH+nG3CPRD/+nBnBzu2xfgAGG4QNiliYkEwgohyEahboO4J93yBhxL9Zk6p5YYtPHZsjMUMTso4SC+nzTobiETPDsA4RpCgcL0sb0jkJ42DcI5+k95U4aBR/r9LLEf6nbYGSJKj+4o4SBudny5MhP3vVWGLKBuw7nc0R+vDYKwB8XYh3yQPW0uEI42CCurZyCiNAi/8ZWC4NZgvzbQFx9mHYGwnHcCoQ8G5ycHMTaI2WkGlePvQ67nyAah3nOQfo40iF8BGsT3GEH4dO0AhNL8anCFjbGDIGZHgxgxQIkEt/VWoYF22NPVFVDUopFRsIx63x4VjXSFvmZXl7+nM9Zil5GrvQAAAABJRU5ErkJggg==",
     "wiki_name": "Pirate bandana (red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pirate_bandana_(red)",
     "equipment": null,

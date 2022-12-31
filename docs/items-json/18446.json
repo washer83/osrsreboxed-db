@@ -1,7 +1,7 @@
 {
     "id": 18446,
     "name": "Shayzien helm (3)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "Dress like a tier 3 Shayzien soldier.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2W70tTURzGd/+DvdqbvbngC0EIRiAxREhkiDikMXHM4TCHLEwFm2WWhckaA1tapmUSJSsS7YcJroQ0xUYYviiTpP6Zp+/3zJN2Nn9Q5843feHhjjHu+ex5nnvusdn+j6VjIF/HMrnFT5SVCZWWlMB0OoUshFL/+a5OulxCp8rLxbUIUIZYbD9VuN1CVZWVh0BpBTPQ6PPhTF0daqurxeISgiUXPkzaodQFpBiKnVG/LySNUAZamoJ/3JzdYtfYPRmVCqCK7+MyTR1QBr5ur2Jzew3ffnzE1s8sshuvMb84gVeZccQuR44EJKHUu//FGALgfTaNtyuPsbj6BHPvHiA9k8LzuREMj13NK/NB0gBlILP8COOTAxi934+h4UuIJ7vxcCqO1GgfBhJdONfZdCQgGds/Rmdg5dO0WHyQQAYJgKNixxaWJvFyYQydsTCaW315ACqkph4ZWP+SEZ2Znb+HmTd38YzimmMQciYQqEWUriEC8tNnFcoSoOX1GaRu9WCY4uLuxFM9IrbYhTDC4Xp4qt3CoUCoDr4GD2q9p/NgtAJlqMiJm11IEsRkOoG+G+fRQTGxK9Foo4jS66tClccNd4ULLW3+vLi0Am1+X8EGxZb9PCvKnZ4eQoiciV1pQ4JcS93pxdjEdTQ77PA7bPDYbagkWQTEk3sncYm53EmC6O2PIkLusDNn6dpOPfLugBSC0QzEk3v8ee/h2EZoC4gPxQQY98Y0nSi35WDYIRXGEiB+/OUO/fTFbbEXiY3RVfrbGYbZ7/2mHag9EsHS2hQ+0B4UL3EguaPgnu5wbEUFumY6MEAQEqjDaUcriQstwYoKxBB7gS6adnQTUJR00BmJ3dMMxGOgLRxGaygkjiTNgYCQv75eHElUCBWIO5Z7YrXN7mGNQYINDeJM5K2pyQNQJYEshTqKGETGJaXhja9OYSg1Nn7iVAgLYOTkjrbcH5YKVwhEvYMFU9ipYwDZO7vdUF1Rf1m0UftxrDBWzC+xzCkTBJZX4QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xu2X30uTURjHdy534cUuBiIIMkJiiIg4RFEaE8ccm+iwJf5CpylLCZU1BFtiOTRDLMKCMvthhQwLSixq0A+8CI1+0R/07Txnnqlnr2J5Xr3pgS/vu12c57Pv93nPe2ax/C9TiyFXJ1KZ5kWFhUIF+fmw22xCJkKpv3xH1PiUw4HTxcXiegxQmaZGkiAlTqfQwVBawRg8tbWoqaxEeWmpaCxB6LMKup+0Q6kNpAiKnFG/N5JGKIbGBt+exasqKnCmuhr1bnc2KhVAFa1TVlSkA4ph88cbbP18h6+/3uPb7zTSG0/w7OUsHqemERkIHQpIQqmr/0MxAfAqvYDV9Zt48fYWllevY+FBAveWJzGRHMwZ5oOkAYohtTaP6blhTM0MYXziPGJj3bhxO4bEVBTD8U6c62g4FJCM7YjRMax/uC+aj3KQUQ5AUZFjK6/n8GgliY5IEIFmdw6ACqlpjhg+fUmJmVl6nsTi02u4y+NaJhDujNdbhTC/+jmQh9+rUKYArX1cROJyLyZ4XDQ7sUSviC3SE0QwWAtXhVM45PVXw13nQlVNWQ6MVqAUH+T4pU6McYi5hTiiI21o5zGRK+FwvYiyxl2OcpcTzhIHGls8OXFpBKJimJ4fQYg3n+HDPNAfgp87E7nQgjh3LXG1H8nZiwjkWeHJs8BltaCUywhGAxDD1vd1bPA5Sn9eEk9bF3enu69JRNTaFUAPv48OhbMwxZa9MJrdocq8JOmpoqeN9p5BHtvZNq+IiuTjcBJGdccEIKrMfkSbIc3RJN+TYuMR9HNnaJDtdlsWxuj9ZgoQ7UfylXHn4RWxOYqd2lGQnRu6HhtQayiE4fw8xLY1ti0fH2YSzRDJCEhCqaseoXaAJBTBtNusCG9LnpmMgMg5zS5lgAhit0NRuxV9XHQkOejQZgIQFUNLMIhmv1+ckQJerxCdjVxlxrvzbiCaMe2xyQYE4qurE4c0OuKqAKoIRso0qMMo03yvNO3Yu4sh3NQkXKI/ARQZuURzpMLI5qrUFTUUE7NEkRGUkTMmNt+vjOM7IRhZxzIjf1fqfBwV5g/16QYa1uPAnQAAAABJRU5ErkJggg==",
     "wiki_name": "Shayzien helm (3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shayzien_helm_(3)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4135,
     "name": "Thrower troll",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2004-08-24",
@@ -33,7 +33,7 @@
         "duradel"
     ],
     "duplicate": false,
-    "examine": "Small for a troll, but it's mean, ugly, and throws rocks.",
+    "examine": "Small for a troll, but it's mean, ugly and throws rocks.",
     "wiki_name": "Thrower troll (Trollheim)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Thrower_troll_(Trollheim)",
     "attack_level": 30,

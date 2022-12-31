@@ -1,7 +1,7 @@
 {
     "id": 2464,
     "name": "Blue flowers",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A posy of flowers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xu2W60sUYRTGnX/CL/tlYD8IC4IEIossrMh+kCSEFsPEMMMUvGCEJBWSVKIhVBBCdmHJbpYmXjAWFdtKFkmWJYmI6G85zXPeeS87rtE2o+uHDhyWmTnznt8853lfraj4H/8cFok8FmFROPLFydwfoI4MWMKYQN7mTk31N07v/f21vsMAqs6THflMdtWWk+9VMwGzx89xXWPb/CvqRAYIpcfFTSM7TmadJhnVSMKIGgHFNQyPuowB6juECj9yCfr1NUHfdxspv93gNNlwclWrBBgHfC/bSD/zCXUtwQICcmQPL1PITtFuJk65Tw2U3YzT9nrM/foNqgxNuHAZbo4aQDG0q5CE8QlkiQUZ6DF9WIvR5mo9pRejnHZVmp+HwnOsFOp2tuIqFXhwHnJ94AItva6jdy/qaH5W5PXUBTUumR/TMU4TXnooMCgkVABUZegejwj3+iZbaexVj+ENi9aXBcTaQlR9gAkczNhY8jT7JGTPMBg8hWeX7p81gER9yJ4VNXKUzrsBwOiv4gbO4kqp8LyTizxK3LvysNOtFe/hmYDBR2TYZzgqdE3JAQioMOtCzLMfYFRuZiiE7B5roZFH59W1ABHHATyIHLrbplTydvuL0EAAgB/gDWlSVsiFld6Bn0afdSsomfXNNdQ+3MTQPoAQelGYEyArb6Js0rlUrcfMot70k/aLRa2DCeq81qxUKuxTUggguc1fPq2lSnua1cHv+EK/oYaoH57uKNLUonMjJ6nn1mk/KsndkuIEAG95Fwi7DWa+szRIN+d6FRhGU2hysVas5QR1jZ7yoxKAAAMvzQggN+W2RhP4A+ObWBxQY4Sfrj7p2geFsfWOJ/2qJGAkGFKqIbOpI8r+mVoZottv+/gelLjx/KIBZVFDspYV9KESorC5/DqvcZHJ/kb+cyLHePlBu6qXa8HgULDwfonhBSi2kASDWmgIw8Mz2uRaKYzNp0qlhFYL5kZzHJomWKKtjgamzhywIw8hzDHCM2iOUXp3o8/Tu/QwwaTpNYAwvvST991DDov9VMzk8vrIVNJh8UntPTTLBCPjoEOzrCG8o/8zOBZRVu8Uj1JgfgPncTS2dzZ/VgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xu2W7UsUURTGvX+AH/aDsATCssiyDLIsy+4HwxBaDBOTDFPwjQhJqDCkEguhCEKoSIzshaW0RVEMk0SyEiuSBUkigqA/5zTPvZ57Z8ddaJrR9UMHDuPMnJnzm+c8965VVf/jn0OQykMRgr7Gw1SwszzUgQErmGIgd3NB362wTPf1vbW+wwBt2w0/xmpozc7XdTW6GUB2LHUf58lIRB5RxxkglBkXmn62j5t2rjsaMQxqGAo1gEcd0oD6DqXCz0KGfn/L0I+tNG1vpOitrdBi1KgEGIDvfErTr+2MPmewgIAEzdtNp2pDtLWepMKHFG2uJmljJSGbAGosXC2PUAHNUQMoQLNCDOMTSMgXAuihDfRuKUGri/W0nLdkvrEhcD8XCUmlUPdlLamTwQP0kPIBA83l4vTqaZxmplVenjqjx8X5fjkh0wnPHgoMCgkVAHX7SLUcEa713GimkeddDm8IWplXEEuzlv4AJ3AgY8OXYTzwyf1aBQZP4d65OycdQKp+eheeR4lnA4AxX4UGeDkrNRMNUd5OjBLXLtxr361Vz+Ee6gCCUcFn2CpMjecQ8gsBgr8BAD/AqGjmVAjZOdJEQw9O63OA8HYADyIHbrVoldzd/iIMEADgB3iDTQpAhmXvwE/Djzs1FGd9Y5RaBxsktA8ghHkpzAmQhReWNGnuUcxlZlXv9JPxi6Dm/gy1X2rUKhX38RQKiJf5s8kYTdirDOrgODrb61BD1Q9OtJVoKujU0FHqunbcj0rKzPAKEgBY8gyE1QYz35zrp6u5bg2G0RSbXL0r0VRHHcPH/KgkJAi8hOYA4eRljSbwB8Y3lu/TY4SfLk527IHC2LpHs/5UYhgGQ7IanA1tlvTP+MIAXX/ZI69BiStPzjqgBKWyMamgD5UQxc3569zGRWZ70/LnhMd4/m6rrud3weBQsPi6x3ADlHoRg0EtNITh4RljcqMUxuZTJS9h1IK50RybphMs0xKnvvETZVbkPoRzjPAMmmOU7tXoc/f2Hk4wNr0BUMZnP7mf3ecQ0k+lTM7nB6aSCSF3avemWSEYjnKbZkVDecf8Z3AooqLeKR1eYP4AKlYPfUXXZ6IAAAAASUVORK5CYII=",
     "wiki_name": "Blue flowers",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_flowers",
     "equipment": {

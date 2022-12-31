@@ -1,7 +1,7 @@
 {
     "id": 1739,
     "name": "Portal",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2006-04-18",
@@ -26,7 +26,7 @@
     "examine": "The Void Knight will soon weaken the shield.",
     "wiki_name": "Portal (Pest Control) (Purple)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_(Pest_Control)#Purple",
-    "attack_level": 10,
+    "attack_level": 0,
     "strength_level": 0,
     "defence_level": 120,
     "magic_level": 0,
@@ -41,6 +41,6 @@
     "defence_slash": 100,
     "defence_crush": 100,
     "defence_magic": 100,
-    "defence_ranged": 100,
+    "defence_ranged": 0,
     "drops": []
 }

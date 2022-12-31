@@ -1,7 +1,7 @@
 {
     "id": 21534,
     "name": "Coal fragment",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "A broken up piece of Coal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xu2WXUsCURCG2z/RteBFIAQiREgIgoSIIklRVAgVSBHiRSEUUhB0E3QTRH/31DuH8cyZs7u5H0IXvTAo+/Ge58zOzuzGxr9yKTIuiqgUn8j0ujtmMNilyGdmITqdOnkh8vmQrFGrtU0m9UqFQl8VLwvSbG55MAWgrBlCAvmpTzKNTK1WWd7PATAO55dJbmGGmV/1zOvs0Hwuzs3H41kKWGSq1U0Ck4HNccTf94vcY4rMzUmbgN7nJwTz9TRehjN3NcOZQjQaVQWStQQCWaDF9cC8TA/Mw6RvZuN9gpMZxML8eHhhHOPjEqQADGSBxsMmxeSoZaZnHYKTQJwNzghDlZQVLV3QepHwEemMlAQTD+AvEoL6sKXJ1QV27GrDvyZsoGuBgfyilH2Jz+OYBNJgfhSWrQv0FO4r8o1BcObC8RCeKwHMNrg4ICzCxSu7MS8qi1tCjUbN4lB652kR99bJ0cE+OevL1pB+VPot0yHvZyCuP382ZpabSbq3yGuSI/58CJ5JaWYRdevn2yGNFQTGCo693R8voXQGC8BYJZtFBIChe3fRpeB5F8KvXZG5HO3RkMVcQ+A/gPCJwkD6roLS9eCf40GL4M8TACVnJ85nZbnG5ndee+60v7uc/sgUoDSQ9GK/5A2myo4EGPBY0L3o6Oc/oBgM9QOgMDtu/MgxlAHKGnB2ZGdmmINOgwJQDIb6kUDST36WJLePRIUGsiHid9Cue0CoHwCF2bF+8vtabm5FIMjvPeFC9pFxdgAUXiP1m98K4htk+Fe4wl5lAe2Vdm0B5dztOvWnYNapb+gs5u/fS2CVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoElEQVR4XuWWX0tbQRDFsx+gD30QpBAIQUIQCXmIiKJEGpAqQSyEWhChgiBFKgjik0+F0o89enY5d2f37ubPXgOFDhy88e7O/nZ27sy2Wv+XGQlVbE2duLlfdjoyHXTlYrgls1Gv1J+pHODv6k6M7Hc/yaTftkDwQeHdsNNZxZ+RUWfTOhr32pWD5Z24+ZhLIESIKgCC+ePyMMvkgpFBe8NGhwIYBDCoEKjVIghhbr/uy9P1Z/n7a2qVBzPS3/xoBTgK0aLS85Y2I5cnQwv0eDWWu9mBXE935ffPU/lzf6ac+yTmM2EYKf5/tRSomQOaHm1bzSYDuTodyfOPiQq/yxsmso9eqDDqxWbkcNiVyV4vAHr4fhQAIRKAYkQIpiEagmir71bDQN2ND1Xe4HgafFHzzC+uvxCd7Fxc544Gfkcgnxe6prjF3Hu80zUmLn7vCAPzeaHB/DH4AqqLn36fVrG5eoLcgAgHMMKwrsSFD4orNSJ3udtvAuUSlQKcbgl8ZkXWXxU3o6HY0/yYIjPZhE0pzBtfsRnJRq0DExEFfso8Kv2VpaTnM6r6w2gEpGtL2lk9SotUB1/J5jkztrehYt9/O7RCn8NvNOGX25NgTjqKBZZ3ZiwAmu7N+Z4VoAhU38Ba7e1Gebxjuz76GoRnHSECxTMbmD6u2EzVaCFeTwCEKKWjk/O1lLnCpmuHd/bW1w761XUEkQIUjgxQGojjofhO5NdaaP6Czt6k2wKEqwigCIbjIlAYHVc6eC2Jq328csL8BR3RSV26xqMtK0ARjDmkgegPEPpKS//huKy5YpbaDXeMy5oGQv4QKIyO88dapgtsuqZlLaw9qUV0dHiDrI/L+8uPzRgHa4UjfGIDaNECsa95YxtY4W7XaWvc7b9lr0Y69kG1y0DGAAAAAElFTkSuQmCC",
     "wiki_name": "Coal fragment",
     "wiki_url": "https://oldschool.runescape.wiki/w/Coal_fragment",
     "equipment": null,

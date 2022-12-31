@@ -1,7 +1,7 @@
 {
     "id": 9176,
     "name": "Blurite crossbow",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": false,
     "examine": "A blurite crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xu2WTUsbURSGvb/DTaALoSCIEERESBAJISEoBkMSpiQTkhQdQ6KNidqEqLV+oxaVliD0w10ppZQuSilddFEKXbSr0l/zNueMk0zGSZyYpB/gC5cMGc6dZ95z7jnT03OjGxkloK5/QgKLST/S8uR1oa4V1EACu0sxLMSnGGhG8rYKJTA9vd1qUBMJbGSjDDQX8SEZ8iAWcLWyv0As/pQDBmw2q0ENJFDeTKOUkaruEFDEPw5p0mkVSmAu9Rp2u18XYCnQIIHznQRO1xWsKEF2h4DInZHBW7D308taemkBZe4Venv7L4AEglOOFuEEXhwssjuPSjNc0ATkd9nhHOqr7kswloBmlZeGAO1NKu7FfdUNzeEEHm+kcFhIcu2QO5QugnGN3K7b1wIMSSAUPtJBqKpdqyD5dADFbNgAJ5CSxrEsO1BMhbmQqWaCnqHq/RZANAm4XPOXgPTS3NLWVlHG/loC5dUog1DRRn2DavH6hutAGu3ZRAJh6bgpkCZ9Ss/WZTwpRZCfCXB6vI6BSykyxltUxfb0G/j9Dy8csCKBnZQbhbiT0zMxNlh1r00YksD94lckkufwePMWoAQf7a2cDCUwzO60mSIzVWZP7uMVqVMdoNOkNT6qGb0zxog2JLC69p2Pfzzx3MQl1RVtJOhB+N6uYhLTtgRy+U9cT5n5d3UPJFfoNHGz84xWHdEXeQfTpUlg7cEPhlpa/oyVwhccLYW4Vugk0Qjwjqn9xfzhHXeIJFAqfeP0nRYkrCoTiPtHeTCODqmjpRFM+TDdnbRtbv3ihreXDWA+4uJjrR+Ml2E0dam4T3I+7Gfc7M7dgIMbnjYgmz9M4Hh7ttMuVTrwdoYbXlZ28xhwu7Pcn67uUZXYo4wF8JZVO13UvelrMhDcQzB0wL+1+2bqStrqZxYtOXbGX5XUo+haunPaAKzyKbKfMvm/g9KDUY9KZ97yFyaNmtjFp69+PTu51x2XjNKD0coufmBA6u60FrLveSZubP6EzabOt646pcmYTrNFByEql9HX5/wzUJo0OOPSw9X++8uqB/wP9RsaK2zFudV+cQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVUlEQVR4Xu2VX0sbURDFdz6CD4IEhEXCUkRCkAaxJCgJlVhsUVEE04jaUB+UgKUtFZGKIEUp9MEPPHLudXbvXm/Wu2aXtuCBISFhNr+c+RcEL3qRLWId/4SI15Znudt69VyoZyWNEHF/vREDdRajvFDE0VSQNylDxL33r2OYpUaVm/MzeZ5PXKtooHoY+iaNEPFxr8lbK7VHQAu1aV8o4kYY8PSE6ZJXoiXi228f+GjnDa935lIwUTjJYWXC908/AE0KEHG3Xc8JR/z1sK3cGWwvqv4BEGDmqlPxcwHjDZROkH9C/HGrFT/QDafLdLC5oHoH7qBcgJmfraSe6wEDJU1tJiTvNcjR3goPB+8sOOKd1bqaKrzCGZQJId/nABFR3D+jEsUtiR/DDb74ss0/T7oKBG6IKzLmOV0x5XbIJbOkV8NVBYQSwRFMkV0iO99Tril7SsTDfkv1jTTvGCWyRdysBmoX+UGRGm30jbgzZolc0i5ll047AFfMBjadsTPGUOKS+4xoVzDWNgji13nPkTO2tEuAklNiu4JJkhOQLlEhvWNLuwQoie+DTqpXsqeocIcgDYU4+/xWlQklknuUBfP7cq+csrWjQO2X0/0lVSY4Yx7GxzCikpobZcKOwZFEqVAmOZDZP0Z8fbZbtEuknJFDiaWH3SSR/WPEf672PcBzK5kurAA7ku9dKqVs6ZuFkFUge2o0GPHNRd/xeYEywWQdCJi9rxB315/KccmWCSZw4pqAYl1gSpN+K9EpkV1OV0QPoE8PQsESODtMuOSzv6w04H+oe68lAY7kYueGAAAAAElFTkSuQmCC",
     "wiki_name": "Blurite crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blurite_crossbow",
     "equipment": {

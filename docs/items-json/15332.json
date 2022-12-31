@@ -1,7 +1,7 @@
 {
     "id": 15332,
     "name": "Elysian sigil",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-16",
     "duplicate": true,
     "examine": "A sigil in the shape of an elysian symbol.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7klEQVR4Xu2XYUsCQRCGm3/iT4ggIiKoDxKShKAYJkYmihBFSIVUSIUYURBBBBFBRF/6lRPvLOPuXSp1rXcSvjAoy3rz3Ds7c+fMzFRT/X8RByNREZdPH3mr/cClk3vePLoLwSUCSFy9eOGdzrMAFQ57nN/vcm7vUiIhMBIguKQgG82OBL6v19pJgJEAwR2AZBtnEgoIqHT5IH4olAzJNQCHNUAB0LoVm0gSZ6rHEu4Bd89XjFDEte4br223JOlsKtUPF86uxSLiyvlTqMuMI0HA2ERc7733zw5Kt1JsjijTsHWvIplLgFEoLVV433K+PgLWi4gb1x9cbN04ziiMLZ/u1c77DutNxLtXr+LMYrYSgAHk3GrOgTJOBte8yjiAJHYQ2kAH6rpC4ry5XRm+YkSZhCgVJjYGIkqBuQM4PO+at5/yiIFLLhAg8Zv5dMGXS+aiSIYnPxICBF2mnYZPgGEdg1Md0d9qA3h0yVxcX0MABZBBZcMeAGJW4azBPewH5EKm5M8lgCCQEC5oO7vDUMsENwEDELxTwTn3bHl1CUn0Todf3OwFmL6m6IgYvD+ySO52NIzKNgHccR0N7/yjfgKjsjNrKVcdF5B5iIbXhoukO8cwi6LKtL5b6vCOBGT+wUwQEPSbsxeTJgomir4AXsPmQFa6iZ8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+UlEQVR4Xu2W7UsCQRDGm/+kD32IiJAowjAEwzCx0NCE3sBeECqkQiwpCIIIIoggguiPnXhmGXf3SJHY7iR8YPDcW29/98zujBMTY431/0XsR6IiLp4+8nrzgQsn97x2dBeBSwSQuHzxwputZwFaPehwbq/N2Z1LiYTASIDgkoKs1FsSuF7eaiYBRgIEdwCSqZ1JKCCgFov78UMhZVhcA3AYAxQArVuxiWThdPlYwt3g7v6KEYp4q/3GSxsNWTQ1OdkLF86OxSLi0vlT5JQZR3zA2ERc7bz39g5Sl8rXB6Sp33hQkdQlwCiUpio6by5XHQAbRMTb3U8Bss4ojE2fzu0PG0xmYyNls9myB4MTODWfdaBITp4/FlTGAVRu1KCZTMlxhaTvaYoUEv1wobAb2iWzYP32iytXr/LWcAOfSB36He7BOS2OCoQDENgl81AsBph8oysLIGV6rVBwA2MuEH6H+9paArlk04KHY1EAwSWkTqHUOS2cLhA293S6EMolyDRYbbJ+Q7WB+4BF8YSjcA7fXYcCuGScwSfcsW/qtw9NEza9phdpxAv82cbGw6Mg0Zk6V08jiqfWrJ/n/1LqQH8QV8S16w9JIdLll4PAGv6hJKmDQ34RTVSmYLp/WaIzYpY5+u7ei85IQKaFjBRQ5fBmlICgYU+n1TctPegHpQeMpwAAAABJRU5ErkJggg==",
     "wiki_name": "Elysian sigil",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elysian_sigil",
     "equipment": null,

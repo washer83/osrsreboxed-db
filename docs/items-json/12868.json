@@ -1,7 +1,7 @@
 {
     "id": 12868,
     "name": "Blue dragonhide set",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-12-10",
     "duplicate": true,
     "examine": "A set containing a blue dragonhide body, chaps and vambraces.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xs3XfWtSURwHcH0n+zsIRm8hhgyHNJKGDiMnzbAp5h4SlYtmaltbrZCoFjVW5FasGmMtokFjbdEfQQ+jt/Nr33P73Z17PIrXh9iBL/d679H7ueeec+7R5Tr5xU366M73vLjp7YpB68s5kdfPsrT2JCPCiN3Nefq8MUc772Y1KPUmOoabIEYBxFExn95U6MOrku3C+IxzauwoR0g3bTzP16GwBYTDoO21Im2+LIi62OpAqC+jDw9W6OfeUnsoBmGfW4dBH9fLAsR1G4Hwvd/7y/TnW+0oqwKEa/T39YmoV1eK2ex81/KddRIZhH0cawkjPwZ8zsfPUnHmIsUuDdFMzE/p+AhlkwEyUqOUnwqJc6V0mG5lxuh2LkIL+XFaLETpfjEmtjjv95wSv9V1UHzMR8nLwzQZPa/FAQYUINXSVYHCcTuo5gzE/UIHigQ9FA15LRxgQAGEOmglxjycTYitDvTry9POQLhzQJYqYUfpGQh3jlbhCwWCWRHDeKTdbwY6/PrCwrQFKiYHBAiPSAeS0wgU8J7WgtSrNyjmMN2q3bBA6KiNQGrrdBlkzkFoIRWE0XXPCIroWkgGcT0tSJoU1asrxRzyOhDmFoyo8rRfRAeSUVyv56DZ6xdEdBgZxfW6CkJwrJzyiLkFE+HdXEBEBsmtxftcj0EhX/8/0KqFaQmEEdYMVM2Pisj9RYUhXK8eVGu1dVCOQYySQZiRdZ1at6926p6A8M5CR+U+pCJae2TmTI199eqaYoLkx4Zjc1OD4iUJUHZiiIyEjwrXztUhOPOZESsMCg+fEb+FOcjBPGQH8dKUQXiBJsIDlIp4aHp8kNJXvDbgzUlzWuARJo+ytkEYZY1A+GG87fFO4yUIv+lxjpcemCJQ/0FlonsgRskgIHg9xGshGYP3HWPU5YcFOpqDHM9DusfWjWBR1hZIfWzo3DiGhf3e1oI4J/8rwT5WBgjq8aIedfff36HvO1X6sfu4HRBK/Z3pImPkqKCD7UUbiOMA5HLxtN4sKlAOWhIgtE5XQK0WFdkKlnNc9z8VFamL+p0TXf4CPgeuo4E7shQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xs3X/WtSURgHcP1DghH9Af3QkMmkkTR0uKEyncwX0s0Jusxhc9kLRTGiMQqiCIqIKCKIEYyxkEVERAT92k+xVv/JE99zefTxeJR7fYkdeLhH7/Gezz33nOceXa7jX9xkDtP5kRc3vX8QoZ37YRXvtufo7dasCkZ8e5Wiry+T9OXFogGl38TAcAvEKIA4dMzn5wk6eBpv6xifcU6PdpQjpJt2H0Y7UDgCwsGgxpM47T2aV21xNIHQXqKPGhU63FvpD8Ug1Hl0GPTp2YICcdtuIPzu94eL9OegRn8/1hUIfZweG1Oh964Va9j5ruWdDRIShDq+s4WRjwGfK6kzVM3PUmJukvIJPxVS01TKBKicnaHKUkidWy+E6UoxQtdWo3TjUoxurcXpTjWhjjjv95xQ1xo6KBXxUWZ+inLxc0YcYEABsrm+qFD4XoIQjkA8L0ygaNBD8ZC3iQMMKIDQBqPEmHv1tDqaQIf7xcFAuHNAtjfCjmJkINw5RoU7CgRLKsrlLWO9F+ioUW1i+gJVM+MKhEdkAsnoBgp40XEnSO+9S7GW6f7jWBOEidoNpI/OkEFWDsII6SCsrtvloArTCEkQtzODWklR710r1pI3gZBbsKJqy34VJpBEcbuRg+or51WYMBLF7UYCqmU9KrcgEd5cDaiQIDlaXOd2DAr5TqprIUszxhYIK4xBCB20WZlRIeeLDkNwOx2EEbI5Oii9QcjIpkltquuTemAQoyQI7yxMVJ5DOsLOI+NMjbreu6GYQVeXJtRLEqBScpLKaR+tXTjbgeC4XpxuBoPCU6fUtZCDHOQhCyQfmwThBZoOj1M26qHl2AQVFrxtwMs5Ky3wCpOrbCQgXBhve7zTeAvCb3qc460HUgTa391IDg7Csu8GAoL3Q7wXkhi87xijbz9aoIrzPGSaR8MIbMr6BslRQoLEZ96soy7/laCOnQECv+d/GWj7402Gfu7k6Nduvh8QSuedmUJiZDAImO+v0x0gDgcgl4vTeq/QgTJ4dIYGslt0pB0sR6vtfyo60hT6b451+QecMzkaZvhomAAAAABJRU5ErkJggg==",
     "wiki_name": "Blue dragonhide set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_dragonhide_set",
     "equipment": null,

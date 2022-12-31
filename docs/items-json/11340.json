@@ -1,7 +1,7 @@
 {
     "id": 11340,
     "name": "Barbarian skills",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": false,
     "examine": "A record of Otto's instructions to me.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACV0lEQVR4XsWX4UobQRSFnefon/wrBAKLEESkkCKhSKUoFksQxVqsxYaAtRX1KaRqaZHSJxCsaFuxFt/stucuJ94dV9nZTDcXDiEJ7Hw5587MzchIUDnJaqjl5MXCoup5pyOz8/MeXOWAN0CdpeU+1LO5OXk6MyNPpqerhHIKQSCo0WyqCAbV6vWq3EqBCGGBrAAFtyanpv5nnE6WVldlYWUlA3Wf/CgjA6ZARWHuEqIFZBYwuJy8XFuLBgPnAPSgVlOgRF8Ll5NX6+salb9AGaHv6BBhgoEQlf/gMuIxgZ4ayJ1Bo6J4NACo3mioAnsonjsQe2h/f0eS0dFQl+I0stXDJFGNT0woUGAPxdnmFGHgCoCCYeBOLCAL86j1WJpjY2FRcZsDZlAgHwYKdieWMxBh8oD8lXPqppEH3V08b1rtdi5MASAnr7tdjYv9Y2MLic/eV9hNgAqEQTnZ2N6W7uZ7edPr3QKjioLZ+4ouBUSFSh3Crzs+3uvDWdcIiAV99/CZnY/okA9TCujq95FcXh7Jr5+f5cf5J4V7u/FOv09wqP0TwPz5yE6SAMJ54wP5q95T6XZn/hysAHd9/U315+qrjE+2pdlq3YqUTlkgwPC+CnSH5WRzd1fF+dhOfRcXX9Q5QhLIQlkgHIAl3bGVHTEBB9f8fxfnZ4caKSDzHEJcJXZWfvEB6UOygIiLYrzfTz7K6elBHwafl7giipcPiD6CeDxwxsGu4qyM91HcKVapW70PWwrFXuJWtwN8BTBp+XHyymFsFbqTrbt6bSgwftleGzpM7PoLoeNDoh8NImUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4XsWX72tSURjHd1/2ci+EEASRISEiIoooykRRdNwJDrMokVoxqNgYFQZF9ItRrFpJazFWMQj2oqDBKiL64574PpdHz71peK43/cIXfXXOh+/zPOecOzenJYPsnqkMetLJ0dblPN2/kKHu2bQDbuqABsMA6tnqIj1sZ+nuuQzdaqZovZ6gtVpsmlAGQwBIvJQtsQGGtOBMNDmttCwggVCBVKOUm40kXalG/2c5DepdK9HzqwUb1L8sPQa462acLpU9BbSAxoUZZUCi3+yA2vIWBkMAIP/8KQaKB4M6UAbtrZe5VM4N3BjTCSiZRsBoAyEd58JuLMcEesp1Ors3Ji+VWM4snFfJUIRiwbBuDxm0s1b8a2G3lqnrbm9QJhzTTcnbdOBSKk+5eJoKkRQnpNlD3kyWWGB88z7KnUnowyAdr4AqmQLDBHx+KsXSNiDnzkNkjTl6R+dUHmWBCfmDDANrpwOYSUHEgAkHF7hUTiDnzkNkpQMYlMy5uI4x4hjvi8UIl6oaz+qmY9DHmzXa36j0+0dKptq58TDLUwTXw2I0wDCwBgxk0PGDBn25V6dPXZMONqucFsBQQvG4faXeV4BByTRKBRmcDhbaOdrqw6mpSXLL+QqDqQkCQn0fISHcV2YizyXTTAcaAH349YYOfrym/W+v6O3xC4Y7urPMqTWLJjUKNQZzvo/UlySAzHTIbTrQAOh8rkbtvMm/gDv8vcfG/47ZYiiUUxJTSykfALjRkU5y4bSbdEQGnTxaoe+PmwwEdwr1PhxSe/+z14dU+0uA5AMANzoOQM37apjsT0zArRYbbIFrZStcyncnLxlSQAQGxog3c9Zt7jKdgWQBaxE7YKtc7xuQSK73+Sntft3mcYdxq/O5Ew9Mms5wOQHbtSb78PYS9x2SQ2or6RK7nirwoehJOuPJSgvHAqDQ3OgjpCVQ8oCfAowlZzkBpfbQFNOxa1SvzQTGKbXXZg7jtf4A4e12TBi7JjMAAAAASUVORK5CYII=",
     "wiki_name": "Barbarian skills",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barbarian_skills",
     "equipment": null,

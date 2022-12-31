@@ -1,7 +1,7 @@
 {
     "id": 25035,
     "name": "Trailblazer trousers (t1)",
-    "last_updated": "2021-09-30",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": true,
     "examine": "The trousers of a trailblazer relic hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xs3W+0sUURQH8Nn/YH/qF39Z2B/8KRBBJEIwQiKSpRA2MFasCCPZQGiLUmI3aaPQHvSCjBKLVgsrEbOHwoppL6KX9O+c/M5yZs893mln3Cm8cLjjzFnvZ899zDrO1m8xsoft+T9vMXoxcZ6mx4fcePZwkKbun3ODEUuzI1SeuUKLLy9bUPpL1A2vgBgFEIfGLDy/RK+fXjQGxt94psNEhULGaOZRfgMKPSAcDJqfGqbZJwU3F70NhHyJXludoB/LY5tDMQjXXB0GvZ0uuiDO9QPhc79Wxun3p9J6TLogjNGUSLihR1etUnb+1gzCoDbQXOmCB8K1DbQ8N2qAcM0gPbpqMWMaMBAvbvytQXIaEH6g1fnr0YG4SrgnQcg9dqiLUj0Zamlvo/bOTvceqqZBH99IUCkciNeFBuGbMwh51wqnaTR/irqaHOpodKgl4fiCPr+7YYB+vn9QPwj3AUIg73ZxkI7vSVCmNU69uxpob/M2X9CXhZvRghCYSgkaG8nT0Y6EG4CldzTQzsa4+0xiUNFv5TseaO3DYw8TGiRR+OcSlN1XwQBSC/S9fNcK0qP7tOqOCQLavT3ugXBtBS3d2yyocgahQkFBqApA3W3VdSRByDdA4lDUo6tW2fI2EMIGAgQgXGNh7281QahOpCBGITAATlwGDaSSxpTZKhQpSFYJvQblDiS97c59c9JcQwCtvLoqQJMeJhAIO8wG4teBDYQKca9ByMVrQ1YoYHXQqiC9jviwqwWSU8bThddGZCBG4T4GYBCeI58XM3qsIT1dyMUpLUGM0qNbWgVkmzY/UCHXTz3pFA2fyVJfJr0BhPyvi7c8EM6gEOeQCZLTJkHocR/5QwN9bl88e5L6ew8aIMDrBmGX1QJhMNxDfu7EYbfHmz97pNsD8XRFBtLThvsShIWO0xufwaGJnivMuQBhyxug9TMo9DlkmzYJwjWDEADx4cm7kXMjAdmmTYLwTP4skSDkyfVTJwjN/I3sFxIjQ4NwKEoQRwiQ4/Cx/rfQQBly/UQCCto0MgiWo5r7n5pG2kJ/Zku3P0gxYd+F6pagAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xs3Wz2sTQRQH8M0xBw89BEJPQUopIiWIRZQGpRChJQltqWmJqUSbFvyFKYWAoHjqRfwBogiKiChS1FIspRIqIiIiiIggIlKr/8mT7y5vd+Z1tsl2N6UDj5ndfdv5ZGZ2ppa1+0uMzGF63vYSo6XbI7R4a9iOlzcKtHA9bwcjPj0t08cnJ+nD45IBJX9EaLgDYhRAHBLz/tEErT0oah3jGs9k6KhAyBgt3xndhEINCAeDGveLtHJ3zM5FbQIhX0VvNGq0vjKzPRSD0ObRYdC7h+M2iHP9QHjvz5uL9HetTv/eXrZB6COdStkhexfFGXb+1QxCpybQ6r0TLghtE+jzs0kNhDaDZO+ixLRpQEcMwrUEqdOA8AN9eX4qOhCPEjpTQcgdGxqgTD5H3eleSvf32/cwahL0dcEDIQKBeF1IEO4xCHnXZqfp6qUpGthrUV+nRd0Jyxf07UVFA62vngsPwn0VNF8/T+OHEpTriVPhQAcd7trjC/qxeCZ6EKZSBd28UqPRvoQdgGX3ddD+zrj9TMUg/+fSlAvaaMy5mEhB5SMOBpBmoF+vq0aQ7N2neF+MisIfN4EOpuIuCG0T6Pfy9HZBzh6EEWoVhFEBaLDXW0dbg7xNUfYuivPJm0AIEwgQgNDGwj7ao4OQi3ciB6FmEAK5lUxSmzLTCLUNhLYEVY8l3c+d666kvoYAwrHBIOzSjGkJhC+MQSoKbT8QRohrEwjHhjpCLY4Oij+Iz6dmIDllyMWxERokp02CcI18XsyosYbk6CD3+6vTGohRsndD8QfxccBfGZ4hf7Zaonw2Q3MzZSrmskYQjg0GYQ8KsA85IHXaTCDUDLpQcer62UkqFY63H8QoCcI95Fcnhu0aJ395ZFADIRdfWCgQPvtmIORg1LB74x1sC6j5B6mjsxlUC74PmdaRCkKbQQjeONWpjRwk15EE8fkmQXhfBWEPCgFC0f9H9gsVowaDeHQkiCMAyLJ4W98qJFANdboiAbVaJLIVLIeXu0NFIk0h39nV5T+5JNwFgDBHTQAAAABJRU5ErkJggg==",
     "wiki_name": "Trailblazer trousers (t1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_trousers_(t1)",
     "equipment": null,

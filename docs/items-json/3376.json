@@ -1,7 +1,7 @@
 {
     "id": 3376,
     "name": "Burnt snail",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-14",
     "duplicate": true,
     "examine": "A slightly super-saute'ed snail.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xs3XzWsTQRgG8MkfIOZiFQUp6KmnIoingCIexOKlXnLopSD1qIgXtVIVFUVFUSyoaKlirFK1lFo/WkiprV+IX8V/Z8wzw5N9580k7HZX6cBDdrOTnV9m351NjFn7rWTjiR3/561kX46fsZNjp12ePzxlJ+6fdCFiYfqqrU9dsfOvLkdQ+kvkhnsQUQAxGjP34pJ98+xCMDD2cUwnRGVCluzUo5EWFF4BYQianThvp5+cdX3xGgOhv0SvLI/bn4v3VociCNucHYLeTV50IPZtB8Lnfi+N2T+fa408dSCM0dvd7aJHV81PO781QRg0BpqpnWuCsB0DLc5cC0DYJkiPrlopuAwYiMWNfQ3C4EDw8rYDLc/eKA7EWcJ7sg5iAQizpkGf3kpQLRuIdaFBOLZ+nekYfl6Dvry/GYB+fXiQDxTD7OxNolEa9HXuVnEgjenba2z/fmOrB8t24FCSnh7jolGot+/1O03QysfHTUxmkMbsq4SYwWqSSuMYUt1dbgH9qI9GQXr0Ni0pUomp7GoFDQ2EQb+hA/6VKAdauLtakF+DeEcRs2lDAgJGztD2rcZly0Yf+SVwDiwVAUgsinp01fwtz2eTPPHmLg9i/XCWtjUgMuiHaFThIH57gBDMFIC4w7CPmcKMAQmsvAPRD+crFCRhnCE5U0TpmWFtDe7xhY5VmphUINxhsobawRjWE2Aag4LmOYb7u1y4nwKDloCIwqMgLUxjcHehoPHY4DlwyXKBiML7PGksqB9uy/UHIKzSsqiJ0qNHmgfJyyZBGAA/IziwfKwcO+xB8knP/t/mbzdBWIMyrEMhSF42gtCnb4dxkbMzctzXhwRhdnKDcJd1AskZOnGk7GZm+KjH4FHDJz0vV2EgfdnwPkEYkM85BvsEsS9AS6+vh6DGGpR5HYpdNgnCNn/eIqglCZL1UwgodtkkCMfkvxIJQj9ZPzlBaK23dCwSI6NB+C0tQUwGkDFc1jtFA2Vk/RQCSts0Mg2WSfr+p6aRsejPrOn2F52xlzb2ogbQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4Xs3X70tTURgH8O1db+qFvQlhuRchoSOGOMQwFogiUaHhL5rFShtkSUPJfkeRRYUkSEtLJKIo+2GWiDGMiAgJIiKIiDDrP3na91yeu3Ofe2abm+KBL7uXnXvPZ+ece86dx7P2i5fMMX2/4sVLU0NNNHmrUeX54F6auLlHhRHzDzvo44MIfbi/34CSPyJvuAViFEAciXk/3k5z91odDeMc38k4UTkhvTQ9vM+FwicgHAYlR1pp5nazqotPEwj1dfRiMk4LM7HloRiEY+4dBr0ba1MgrpsJhOt+v+mhP3P99PftGQVCG0G/X0W2LorV7fyrGYRGTaDZRIsNwrEJ9OnRAQcIxwySrYvidQwDGmIQziUIjQPBw5sJ9PnxwcKBuJfQmD4PTEEd9JoEfZlIg5CcQDwvJAjfFRWtWzJ8vQR9fRZ1gBZmu/MDmTA7a312JEqCvk8eLhxIYjqiAeqMbaOjPRXU219FJ/pCKrFjpRTt2uJCYb79mOq0QYvJPhuTM0hiWtq2Uqw7qCAnz1bT6QvVdO7SdpWhRIgGbgQp0lzmAv183WUEydYzlPQk1TFNzaXUHilzgC5f3UED18N2UC8eq3T0EkC/po8sF2StQeghHeTzrbdBx+OVaoiAQg+VlxdReWAj+f0bVPQfgXu4QelFUbYuivXI896k33hziQXC/EEPIZhDgOgpSYEQiSo4iH89QNHOgMLVNfipJuxTvXbxSo0aQvQcJnxt/SaVhl3FtLuxWN2voCAdhgbRQ/hEgAAUE1v2zLXBCpW+3pA6xyrNmKxAeML0OZQJxsGwqUc+BZQYTGi+x93RerqTqLPPs8CgOEGIvl1IjIRJDIK9D9sG3wNDtiwQowDiVwq+qSl44vhYX38A+vbikGNSM0q2biiZQbw/oQFuWN9WEmMWSN/pGYRtg0FYg3JYhyyQPmwShDptqdUaYdip8wF6+iq8OiBGmXpoZLyahker6MlLC6PDuS5ezPIC4bH/Hwh1eJ/j4FwHce+4QfHc1yHTPNJBOObXWwRzacVBch5JkP6vRAfheh2EV9c8QCjuR9oUHaOHQdw7EsTJAeTx8LK+VCRQjz5cBQFlWyQyGywnXXeVikSaIq9Z0+UfmO1c1kptgB4AAAAASUVORK5CYII=",
     "wiki_name": "Burnt snail",
     "wiki_url": "https://oldschool.runescape.wiki/w/Burnt_snail",
     "equipment": null,

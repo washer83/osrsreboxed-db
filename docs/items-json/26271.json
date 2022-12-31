@@ -1,7 +1,7 @@
 {
     "id": 26271,
     "name": "Festive cinnamon",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-12-16",
     "duplicate": true,
     "examine": "Not sure I'd want to eat a mouthful of this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVUlEQVR4Xt2XwUtUURSHvf+BKzezEd5iQBBkYAgRwZAYwiGMGRQVIxMp0qQsSQoEIYogiCCiEikqgoIIBUEiaBetWtbCFv0nt/nO4/e83CEafE8CD1xs3n3zzne+c941u7qOVzgfX/mP4Xx/UvIpVLjSvfbPRxrO1wcHfLmn25JOjZ7wtWpfBrjUGPVzY0PZ5+ZINYArPJy/ND5iMCwSjw9X/FB/4pNSj1+ZrNn+yUrZIGZrgxnQQG9v0VDOr06fNhsCCu2szYz55eYpA2RvoT5swNg8aG+hkVYc28EG/waWdmGLfdnhswwVaMlZO5SMxNjZ//nDv958aot9zVZoJ5yvgiw5awfVVkrdtkj4/dtXS4Yl9r/s7doK7WBPhrivoNals/P7135mg4QAkWx97oztCyi2I0DgGPycA+787XN1qw4ztOXdqxe23mw9N4DPuzv+087HzJ7aCaxaLDs5gZxVT8UkHkx6LBlzo3ZszI9bu/a2P/jt928zOwDEdtSuQw6383cvNs0O6sN2aD5ICjA/gWVh7t7GenY2cSbx/WoZgEPDEM6qp1oSYUEnMEBUf2ehYcCCkR1gV5YWrX06p0KgOFMHkdqhehKNlEs2tFSrdty/PGHAVM89OoOAZf/G8pKfaJzNTOWw4/yDxUmrnuoEwwksIBbAAITAGNKbZXYmmm1AcbYOwln1AJBIr7SAaIeAScw9vHlqp+YJOO4tJzntPLwyZdXzsFpfmkwJZQhgEgLDPWqnfacFCXx4MB7SjvOPr81Y9TycRAwswywgWihgwZCcBWBoR4Ofy86z1fP+0dXp9GGtZLQlBMIOwPbmtPbr/b3ZMFsRLYCwdSFQnK2DSNtlvyBbiVgAMkNcAxJY2iUYzGgPAKyFb2IuOxpUwTQqiZ+sJgaBJZLInvaB1bADEw5+Lpiwch6Kma21C7Ze3po3ICoWsGCZMdmI38RcrQJIbQAsbhFJtU9bn1yfzWD1AoSDn8MO4doqx4iAsKA2YUBDzPeAxU78Juawo0gHOmxTCCrY2J7+Dy0grue0E0b895Xzmzfn7GwCFnNaISz7nEuyWoCdg1BlBxWmYBpykpOYaxgCSJC6XpCdv0cIphVeCw0Vaudf0W6vHfbI7XQaMeixij+92QN5loa7RQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADV0lEQVR4Xt2Xz0tUURTHvUsXLmYhPAaEIYYhRGQIY0gmJmZQVCxMpMLJyJKEAkGIJAiCIKJfWFAR1CLCokCIoGW0axstpEX/zG0+5/F9Xt4QDb4ngQcuNu++eedzPue8a/b1HaxwPn3lP4bzpajgY6hwxXvdn/c1nK8PH/LFgX5LOjV22NcqQwlguznm58ZHks+taiWAyz2cP9uoGgyLxI3Rsh8pRT4qDPjlyZrtHykXDWK2NpwAVUulvKGcX5k+ZjYEFNpZnRn3S62jBsjeQn3UgLG5295cI644bQcb/BtY2oUt9mWHzzKUoyVn7VAyEmNn5+cP//zxfVvsa7ZCO+F85WTJWTuotlzot0XC79++WjIssf9l+4Ot0A72ZIj7cmpdPDu/f+0kNkgIEMnW5o7bvoDSdgQIHIOfccCdv3aybtVhhra8evbE1ovNhwbw+eM7/+n928Se2gmsWiw7GYGcVU/FJB6OBiwZc6N2rM83rF3bW2/81uuXiR0A0nbUrj0Ot/M3zrTMDurDdmg+SAowP4FlYW5jfS05mziT+H6lOJgFhnBWPdWSCAs6gQGi+usLTQMWjOwAu9xetPbpnAqB0pl6iNgO1ZOoWizY0FKt2nHz3IQBUz336AwClv3LS20/0TyRmMpgx/lbi5NWPdUJhhNYQCyAAQiBMaQ3y+xMtLqA0tl6CGfVA0AivdICoh0CJjH38OapnZon4Li3GGW0c/v8lFXPw2pDcTIllCGASQgM96id9p0OJPDhwbhHO87fvThj1fNwEjGwDLOAaKGABUNyFoChHQ1+JjsPVk75Oxem44d1ktGWEAg7ANub09mvlwaTYbYiOgBh60KgdLYeIm6X/YLsJGIByAxxDUhgaZdgMKM9ALAWvomZ7GhQBdMsR36yEhkElkgie9oHVsMOTDj4mWDCynkoZjZXT9t6enXegKhYwIJlxmQj/SZmahVAagNg6RaRVPu09d6l2QRWL0A4+BnsEK6rcowICAtqEwY0xHwPWOyk38QMdhTxQIdtCkEFm7an/0MLiOsZ7YSR/vvK+UdX5uxsAhZzWiEs+5xLspqDnd1QZbsVxmAacpKTmGsYAkiQup6Tnb9HCKYVXgsN5WrnX9Ftrxt23+30GmnQAxV/ALHVtIQVMSdEAAAAAElFTkSuQmCC",
     "wiki_name": "Festive cinnamon",
     "wiki_url": "https://oldschool.runescape.wiki/w/Festive_cinnamon",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3008,
     "name": "Energy potion(4)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-01",
     "duplicate": false,
     "examine": "4 doses of energy potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xt2X7UtaYRjGe/6Tvu9LMQZRYi8rs45aljnLHXPmNEv0mKnLl9hoWwSNRiNiMcbGGHth1da0BmMfxv6wa97Pw3M6nvoyOB5hN1wIco7Pz+u+7ltPV9f/UQyt6mgxPH+s4GHpNnLJAajBnk5DMfxpJPH7LMF1tOfH0+p4J6GYDvPrdAmHu9PY2hjjQD3d3XZDicxIoJ/HMRzs+Hj7OpAnBlWNIRqN6+5cfIpif9uD2vowFGUKvqlZO6EYksmVK7qr3sOdkIqZ2RDGXJN2to4hk9W4stmcrnA4imAwjMlJHwYcg/YCFYslXeuFIvL5dcwvROD1zWJoaBQ9vTftBKJiOD75ikbjAvX6Ob7XG7xdrnFFDzXB2AqUTmdQLldQrVa5qF1ut7cTMFSs2aYCKpUqlwSi/NjcKlkMP9Y2uUPlihC1TPFMw+kcsXPkqRg+pwo4z23qIriduQhKygyWnKN2usRwFE3hXKu1AL1cTGE3uIiadw6pYTci/WLszXe3oRi+rBQFkFQTiCD35mPY9AWRGfXY5RLDq9gqzrRKK1BT9P6L8H1s+Regubx2uSSyU9eqXEag17E0DiPL2A6oKEz4sToy0W6XGN4sZfAts6EDGUVAMkdlT4C7lBh0IdznbJdLDB9Ted4ukhmIYAnoWSjGgy1dijrECrDYJeHOyWpJBzKDvY1rPNj7C3E8mprn499GlxjeJ3O8XWYgqXcJjQf7QE3gSSDMXcq7fe1wSUwWjToBGWUEImAZbFqQ0iVaAeRSpH/IKpcY//an6QdXgIxgBCRzRME2ukQrwEKXRJgJSMoMRPqwvMaB5IKk8Te6RCsgdMthnUtGoOvACFoGmxYkuURLklYA5cjf26c7ZIlLlCESTZqUEY4Wpgy2zBHBULtcN8QDpEUwssS/QDrYDCeBZLCpXQQjc9MGGFHiA+UzV6tr9EpA8qfDDGI5jLEuD7iEM8sWkOvKeLBZ5mv/tf4CNG1CJFSAILQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xt2X+0uTURzGPf9CUBAkWkoMTdF5yUSdzcuKLWuWW2KSuVBrKtsc2i5lF7qhFF3oQkEXSWQpolPDyBARkRKx6f/z9J7zet6977v6IdjOoC88v2xj58PnPOe8W0bG/zEE2qR1CG76K+HpKkWH4whsDYfSDUWwOOHAwngLy8hwLQZ7j6YTiigwsx+b8SBswsCVMgZUlJ0tGkruDAeafm/H3UA127409InAeb4dbW0XFTuf3zThzlAV+lxG1NWdgMVySiQUQaerKyEO5wXY7U5YbXZU15hFbh2Bu7efpVeVFkcbTp9pgdlsQUmJXG5hQH7/oBKfzw+Px4ez51rRaLGhoqIKBkO+SCA6BJHIFObm5hGNzmFmNsq2q8ZUp5SawggF6ulxIxAIIhwOs9Dtqj3ekA4YOgRerw/BYIglFAop/RG8VXwIdra7maFAUA7dsvr6kygvrxR55OkQxH6ZsBNzafJpLA+joznweg6ItESw/L1IAujQwCwtFSEykYenT3IxNJiJnu79oixJdmLmXaB4KOTMdAFevsjF9XAW+vuEWCJYWS6WAFqltGuA6Ovz0QK8e2vA7VtZoizx7lAYbVZXirH4pRBjHwwYeZgjwhLB2moxtmPNKkPx0Pe+fS3ExHgeHj/KYZb8A5m47EqZJcnOVtkuTGLW14ys2JORfDx/lov79w4ieC0zVZZkO7GYVVrcsRst0I91o1Ls168Os+OfQksEmxulKpjEbPw0smIvLBSyYqstua/KQEmyJJ8setRpf9TRA/Fi0wuSWxq+IVvq7kqaJcK2Qw+jDzXIi00vSGqJXpIpsESP+jFp0aa/RAba2ixVij09lc+Ov9oSfZx0XtqXPEuJINrQE8iLHZ0pYMefW6J3ktOxVzGUHEtSh+Q0qmKNR7LIi817xJ9rNuueZMLwkX8F0oXpba0FpEAmpdgUhl6O/A5KAYw88hfy/1zyYyQOZWbF5o8OPUjSYdQTXyAOp48QkD+NemF99J/91/kNOzx4lR9HT4EAAAAASUVORK5CYII=",
     "wiki_name": "Energy potion (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Energy_potion#4_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 465,
     "name": "Skeletal Wyvern",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "release_date": "2005-12-12",
@@ -35,7 +35,7 @@
         "duradel"
     ],
     "duplicate": false,
-    "examine": "A very dangerous pile of animated Wyvern bones.",
+    "examine": "A very dangerous pile of animated wyvern bones.",
     "wiki_name": "Skeletal Wyvern (2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skeletal_Wyvern#2",
     "attack_level": 125,

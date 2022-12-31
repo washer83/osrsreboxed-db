@@ -1,7 +1,7 @@
 {
     "id": 19517,
     "name": "Brush",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-06",
     "duplicate": false,
     "examine": "A small brush.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJ0lEQVR4Xt2WUWsTQRSFO/+k7774YGokaBLiJkajbMkaTdpta6Gh2I1YEw1J2rhtpUJitaZIqVWUooiCIL748445N52SLPjYGfDAEAK78PHde+fu1NT/HYXJYzUKa8ueHO92GsVC0iaUQqtWQbfxAK4Tw333OgrZBHLpy7ZsKXTXfTwL5tF4WEF5NoN8Jg4neQnZZGwIFjcJpXD8uoV+GGCrsYhX4SPMezkxlE3NCBSfuTg9LSf69jlE4dPbtpyP+0286VbhD4FcZ0bM6LIZg/lx9BxfD7dOT4iTgw14NxNDS1k41yzYOR4McNDrob+9jZ1OB+16HQulPPy7NybKFX3znKLwrXsP75/OYm8tj82lNBq1QMpFKON2fr6YOwPqrZ4ClRMIqlWk4hfM2/m16wvQYd3FbjUnQM3KVQTFK1gpxEwCKfzpLwnQScfD4HFhAmi9lDBfLsKwZJ9bHvZrtwQoXM6g7aekbAbtMEpAvofls/5hU++sOGLJsB0dhS+bJbFCEBoiGP8btsMoMcPeYc+suuNL1LgdJSBsZtqINrBhGEbhQ7MojcwG5ohbKJGOwrsnd6Sh2Tfj02QNSI85p2m8XNEnDUTJjcxycaLYzBbtKLGib2V9I1u1wzHXl6B1O7TCS5C/ej1YtcO+4eF6GIexADQac35i8De6q6JPG8hoX+lyWVycOqOvQk4XR52GLNphFH6/XBA77B/LdnSsbfF/R4OYgPkLCJ3lqzWaxiYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKElEQVR4Xt2WW0sbURSFPT+k4ENbRIPYVps72iQTMxovhQRrIiWdRkscbFMNESOCbQwVpYWCSi+ohUJf+iNXs3Z6JBnoo+dAF2yGgTPwsfbaZ8/Q0P8thcGyKoVXpazUcnYKS5lHNqEU6pVZ7NWW4YTvouBG4c48QCY+bssthYaXw1svjzcVtwv0GE48hFR0tFtjyCQ0mBEpnL9fR6dRwm7VxYdmGc/yMXEoHetB8czE8LBU8OtbkMKXo6rUxbsKDmtzXaAonMg9cUa3zRjMZcfD9akvdXXi41tnHfPJsS5UBE8iFtz52G7jqNXC/vY2dnwfm56H0lISqwvxgXYFv7wlKXx9ncVpdQYHpSi2Fh/i5VpZ2kUo4+78aMzdALVW/gLlQigXiwiH7ph352czL0DH3jSaxbAAbbjjKKdGUUjcNwmk8Ht/UYDO/DTazxMDQBUnZL5dhGHLPtfSOFyLCVD96SQ28xPSNoPuUEpAvtdzN/lhqHcKU+KSYXe0FC62HHGFIHSIYHw37A6lxBlmh5lZmR4RCF2G3VECwjDTjWCADcNQCp82UhJkBpgjbqFFWgqdF0kJNHPTP03WgPSYc5r62xU8aUBKbmS2ixPFMFt0R4kr+lbWN7JVdzjm+hK07g5d4SXIp14PVt1hblhcD/0wFoB6Y85fDD6Duyp42oB6+0q3y+Li1Or9FXK6OOp0yKI7lMKv3QVxh/mx7I6WtS3+b2kQEzB/AOQkyprCSxs/AAAAAElFTkSuQmCC",
     "wiki_name": "Brush",
     "wiki_url": "https://oldschool.runescape.wiki/w/Brush",
     "equipment": null,

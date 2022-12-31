@@ -1,7 +1,7 @@
 {
     "id": 8516,
     "name": "Beer barrel",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACP0lEQVR4Xu3W20obURQG4ORNfATvvSqleKEI0oIUqXjABrSWlLQqJkjiNJpqQ6f12IaQitoYD8RoradYBNHSA77SX9bAksmetbMbsbmQWfCTkBmyv6y1Z5NAwC+//KpbBVHfVK0gcosRZOdfIDMbxpL9HAvvnmEuPYgP0wOwUyGkJ586mbH6kEr0IhnvgRXrQnzsCcZHOhF99RijkQ4nw+FHiAw9RHiwHUOhNgz0tyLU04K+rmZ0dz5wYkAFsfzxpQelg7lROpgbxTA3itZsbGjQoYJYy45gJTMswhhVDcYoCSZ1ygjK50Y9KB3sX8YodcqNMoI2V6IofB4TYYyqBmOUaXyMMoK2V2Me1P2mRhHGKLrOKKlLKqomUGk9jmJ+vAJGC+q6RSi63t5yz9MlN4ruoahdMoL2NhIiShqhCuIu0Xv36BgjoYygP1eX+PX7HD9+nuHi8hTnF2XnS76ffUP5dA9HJzs4PC5i/2ALu18LKJa+XIPyhZzzSsktLyKTncPSJxvzC2m8n52GbafwNv0aU2/isJIxJKzo7YLcv5ohOhDdcyPQ/tbE9djoS2hsvCiPjUdGC9PYGERPHL9X9xF9rm5uGpsRdLBteVAUaR/RwrS5JZC6uSUQpWaQtLl1ID4CJJB0BFCMoMNisgIlgdSnjRDuM4lA1Y4ARlFqBkldUkHqQak7vVUUxQg6Lk1WoCSQ1KWboCg1g3Rdug0UxQgq707VDUUxgKjUv5j/N4QxgAIBvqleUdf3y687WX8BwP2DIpACT30AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xu3W/UtaYRQHcP1PYj/3w4jGIBpEg4ioYbJJtCZhsyCltJvlamJRrjdD2Wi9OFaIlZEgSa9bbGzR3/WNc+GJp9Pjeq6zfoh74ODlXrnPx3Oe56DDYYcddjxoOPEwqRVOpOd9SCV6kZz1YmH6Hebib5GIdWNmogtTUQ9iY28wabgRDXciMuyCEexAaLAdQ/1tCLxvxYCvBX7vS/h6muHtbkKP5wW6XjfC42qAu+M5XrU9M1MT5cSXxT7LKCswgaK1ntbU3IVyYjXVj5WkvyLYXSi5UtqgjfSAZZQMK4fi7dMGfV8JIPN5sCKYqlK8SgKlDdr6GryBqq998k8UPSeUqn28SoSyDMplhpFdH7qG0YKiWioUPW9qqLu1p0SV6LlIuUraoN1v4VsoqpaqfTJItI6uRZVkDEdpgy4uz/Hn7xl+/T7Gz/OS+ZKjkwJKh3kUD7ZRKGaxt7+J7XwG2dzaNWgjkzY/KVPpT1hansHcQhyziUlMTUfxMTaK8Q8hGJEgwkagctDpj6ISJP9qASkHou9UDMpvjtxoG71MdepoYdpHAkQnTlzLm1s1Aqht2qD9LcNE8d5TchDtIxWIjwC6z1GWQVQlAVHNJg4SI0CA5CrRfV4pbVAhGzFRqtPG20anjRaTZxKB+Ajgw5JQlkHyXuLDstxMUk3vcihtUDE3ZqL45iYUb9v/oCyD5CrxIVkNlDboYGfcRPG2VRulCaLgfzXvJwmjCXI4xJfvO/m6dtjxaOMKRbLHwdjAEjkAAAAASUVORK5CYII=",
     "wiki_name": "Beer barrel (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beer_barrel_(flatpack)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8795,
     "name": "Saw",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "Good for cutting wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xs3Wy2sTURTH8eQ/6J+QnSAIIogLEQQRF7pz5cKNG3diKbVSS/GBiqKiKAoqWqo0rVK1lFofLbTU1hfiq/jvXPud4ZecOb2TZpJReuEwkzszuZ+ee+aklcrmH9UQj9j1fz6q4eXocJgcGUri+eMzYeLhYBJCLE5fCwtTV8P8qysRlP8juoanIKEAKTxm7sXl8ObZxczCfOaajyyqELIapp6cXYfiCEQh0OzEhTA9di65l2MMxP0WvboyGn4uPegMJRDnyo5A7yYvJSDdmwfiud/LI+HP5/pajCcg1theqyXhV3cjTbv+aoFYNAaaqZ9vgDiPgZZmrmdAnAvkV3ejmtkGFlJx89mDWByEtjcPtDJ7szwQCzHPXAykTApE1jzo01sLqhcDqS4EYu7w7kqjIC3IFnQr0Jf3tzKgXx8edQbi81B/fxgeGAhH9/WE/TtSGCBl0r6ReaCvc7fLA53u7U1Qgtls2YLOA4H/vnC3AVr9+LSBKQTi/NTJE0mAGuzrSwKYzZYwwPJAPxbuRUF+9ZzR/Ot1LpSH2WwJxFauAy3e7xSU9iAyxJfbwrbZsjCytWdbCuM5D+LNzIBMU/Sru5G+8jGQR8VwNls2O6WChCJYQAt6nIUpW0SpIJsljoD4CWAB7vM4QMcO9CRxaFclbK01YUQKGm9g2gLxhsRA+jmwIDVEgY4fTDECHNmbvok7t6TBHBlqMzuMJsjXkV5lgfhsOzTPUtxkhnO7vdSWWkTXIKGYpx4E4rptiCp6sqJsEACFsZ06vb7hSEGxbWsHpM6ujCiYU1HTgwr0oSzIbpsFcWTeYgTiGb4HCNlRK+gYRLFuBKI+mIuBVGvKFMdv83e6B/ltY96CbEELI5Du5fuWX9/IgtZ6UOE+FNs2C7KvfAykDs29pYBi22ZBXIsVNKHfMQq/BBCj2Vlbha8fhQfxv7QFKQqAKhW19VbhgTb0+0V2SgG1OzyyHayiee9/Gh4ZC//Mph5/AZRsWDwd3nvvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xs3WwWsTQRTH8c2xf4AXQchBxINID4ognjx5ULGiUdSWENMIRaUgCP4LIgqiCIpIUaQopVhKJVREREQQ8SIiUqv/ych3l1/y8pxNsulWOvDY2d3ZnU/ezr5Nkmz9VgnxiJ3f9FYJi3cmwsLtE2m8vHU8zN88loYQH59eCB/mzof3T85FUP5HbBiegYQCpPCYd4/PhtWHtZ6J2eecj15UIWQlLN09+Q+KLRCFQO0HtbB871Q6lm0MxHiLXm/PhrXl1mgogegrOwK9fXQmBWlsHojrfr2+En6vXg9/3txIQcwxXq2m4Wd3LUu7frVATBoDrdw/3QHRj4E+PZvsAdEXyM/uWqXnMTCRQOx7EJOD0OPNA31+PlUeiIk4zmQxkDIpEFnzoC/zXRBRCKR1IRDHDu9JOgvSguyC7gf6+qLeA1pbmRkNxP7lZjNcbbXC0X1jYf/ODAZImbRvZB7o20KjPNClej1FCWazZRd0Hgj898WLHdB6+1oHUwhEf3pqMg1QM41GGsBstoQBlgf68aoZBfnZc1r316svlIfZbAnEo/Sgn0vTo4KyGkSGuLld2DZbFka29lYzGNcNBnWLop/dteyVj4E8Koaz2bIYSkXpILZMoAk9zsKULWLTQPQBcXOCcR4HaOLAWBqHdidhx7YujABElRZmKBBviEAWRd+CGKeCKFDtYIYR4Mh49ibu2p4Fx8jQkNmh5YP0fYqBhGJxkxn69vGytlQiRgb5x+ZB7NuCqEVPVpQNAqAwtlJn5we2fJCKnT6u/pOhhW8zouCYFjU1qEAdykD2scVAbDlnMQJxHfcBQnZUCkoDCeVBHIuBNE6ZYsuHdWQQr/MgEGPsghbGgnis3I9/ir2g2eJ1KLaOLMi/YXkgxpYG8uvIg2ILmtB3TCD+um4AROtW1n7h149CIGXHgxQFQEmist4vPNCGfVylgIZtHjkMVtEd+5+aR8bCX7Ol21/nWNQ3612gXAAAAABJRU5ErkJggg==",
     "wiki_name": "Saw",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saw",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17705,
     "name": "Battered book",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-02",
     "duplicate": true,
     "examine": "Book of the elemental shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUklEQVR4Xu2WUUsbURCF3X/iT/A1SCFFgoSE0JCQpQmGNCVaqgVtkNAWRWxRtEitIkLpg0ihtFUQJYTQhJD2h017ZpnN3bvRpXRWXxw47G7C5n57zmTuTkzc13+VQ2HdWTm0t5imrflZ2qjP0Ou5JLXKD8YAxg7pLXL0MkcHy1k6bj6iSqbIAlw2OUupRJJWStO+YoRyaPdZmmEA8mk1z+eQQEH7LzIMJ7C4b2pyUhvKobeNFC8GkNM3RfrcKrBMl8ZpFKVaeTDizsmrIn1dd1kAw/VNULhX2SWvgdEzcOfLWol+bJbpcrvKR4DhcxvEFBpf0SXHh0FEALjYmqPO+xrr/F2FXbIhTCFqdZckKrjS3qnSzw91Gnxs8Pm3jcc3xgYhckWXUI4fVXfvCfX3nzIQjnAM/WRD2MJYUIdCTHBHgCAAAjaql4qpnHZ0KMcHEqjh4TxHh0htCFuxuAQg2yWJLqrB3XSe0tOq/zpU2CUzuqgGzz/M8BajCBV0aVx0UVAYmEuFRHxQ/+oSJKNAscnDUHAJowET3Qa4ToouoUb9NM6lqFEgQOou2b0El2TzlVcWUwIjrzCKLoVjM11CgyM+gYOqOdd/dYEEKBaXBAgu4RpgmO5wDBsx9r1e75IGgzYNhx36/avLUNjA1V0KzKW/C5rq968CkkjFIQCpQ5lAz7NlXwsZlzqdM1a7/d2Xt3hQiE0puhEQBMfMqBZKNVp069Qs1BmwlsqzTAhFGKnwE5uS+YRRYEblfR9T2U8bfPIwpOmQ/Vu3UjbkncLcV9z1B4KTwNUZnby5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu2WbUvjUBCFzT/xs4iUxSItLZaWBiu2bBff0GVREUFFERXFFXHfBEERZNfFxfUFFBFEBBFFRP/ayJkw6e1NNYgT/eLAIUlLep+cM52burr3elE5FNSblUNLfQma62qhqXIzjXXEaKTQVAMwckhvkZXBNP38kqLVoVZqT+ZYgEvFWijeEKOBfKOvCKEc+tqTYBiArA1n+BwSKOjb5yTDCSzui9XXa0M5NNMZ58UA8mc8RxsjWZbpUi1VolQrD0bc2RzN0b9JlwUwXD8FhXuVXfIaGD0Dd/5O5GlvukDH80U+Agyf2yCm0PiKLjk+DCICwOFcB50ullgHs+3skg1hClGruyRRwZWThSKdL5fp8kcnn+9MtT0ZG4TIFV1COX5UZ0sf6eL7JwbCEY6hn2wIWxgL6lCICe4IEARAwIb1Ui6e1o4O5fhAAnX1q4ujQ6Q2hK1IXAKQ7ZJEF9bgbiJDiUbVfx0q6JIZXViDZz4keYtRhKp2qVZ0YVAYmP3ZhuignusSJKNAscmDUHAJowET3QZ4TIouoSr9VMulsFEgQOou2b0El2TzlVcWUwIjrzCKLgVjM11CgyM+gYOKadd/dYEEKBKXBAgu4RpgmO5wDBsx9r3/15u0f7tFh3fbdHS/w1DYwNVdMmPDgqZ2b35XSSIVhwCkDmUC9aYKvrqTLm2drwfkLV4txKYUXQUIgmNmVN35EvW5ZRrKlhmwFM+wTAhFGKngE5uS+YRRYEblfR9R2U9b/eRBSNMh+7depWzIN4V5r6jrAclse4eoz88dAAAAAElFTkSuQmCC",
     "wiki_name": "Battered book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Battered_book",
     "equipment": null,

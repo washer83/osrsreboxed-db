@@ -1,7 +1,7 @@
 {
     "id": 26920,
     "name": "Big bucket of camel milk",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-04-13",
     "duplicate": false,
     "examine": "It's a big ol' bucket, full of camel milk.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYklEQVR4XsWXWUsbURiGPf+gV954E+iF4JUUvCgiWKSUUBFDJaEGg6lExQ3j0jRupGpTl6bGLbYu3ShIKYVSKMXr/rCvPid8Ok4iTTOT+sFLZCbmPOf9ljlTV/dPYaRUNxZG+iIReRKNylA8LmODgzI1OnpTYEZGBgbk6eSEPEsmZW56WhZmZ2UplbJ/z4yP/U8wIxPDw5JJpyW3uipv8lslaVuZn7f3ga0x2OWCW9lsCYhT+bU1C/xiccG6VwMoI8HWegvT3V4v4Y4G6e9skIHugIxHApKON8rKSJPMxm7ba8M9AQt0+u7EppLrPkMVgUgFACygEACUE1D7rzbtJrSumgMBP6CMdWX9eUZeZpZsulgMh3CqN3i92ABpAwhIn1wy1nZSgFgIQLeAKyc2AhCjIdnrOXXG/hi2U6gne3vS0XJLfp+dVSSA2IwCJWIxWUg0eoEyVwo3M9RYsmglUiBGhrpdJZSxKQIKu4FyL1apmOTMJupQC7yKIjeSjLVetDhQ7oUqESlnslPkB5luLx1nJJVou9LO7sUqEa4wIDeXlyWXCnoDIudA0eoq94J/EyC0//5il2TGO7wB8SCdG2q3AkadIo06b9ytruIe32N2AYM7bO5wO19tURPG2g3Q4sg9u8OVyftW1BSiC53imk5z2hxtTjbZ/y28znkpasJIOBQqAcpOPZCNmaDddT790GpnvvNCOOIU39vd2PAKQ5w/x9oa7SxRICeUE8wphVSRts+bYS/1o1EESoRbLJS2L8VeDs4JqQLw225UPq33+AcUD92xDrlPirS0HsroJJ5dehbikwLmGII7H7K+ABHnZ+iuZtshOIID7JpFnVIYTpI48n2/T34UYvYTd45XH/kLxNR2AlG8TF4WwoHTXES+bD2Wr9u9V4Dc7vgCxBvGWPSuTRs14wbCARYuB8Q9Z7u7f73KKB7wFYhipXto6cPlkHWAhdUlJ9D7QuHihcBXILqMYr4ubeoSULjE58eDA3uO8qnlnVGsIzqLjqK7eEaVcwlHVAABVwMgovj0V6eYRdpdDD7EyZKJzAGflidtAPlY0M4wJTWkMApB8R7t7FhnmD/UUI1gNEzZgnbWjhbzr6P+WsNoXL6lKoy2u8L8fBuTs+N4LeqmfFzuuvRV2ikv7vwBsSYcKZ7hjk8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoklEQVR4XsWXcUsUQRjGnW/iXxIScoQhiZIkiUmGSWpohpkZppkZEdKX6Wv06UZ+Mzx377634DY3mwMve7fD7vvb53lm9m5q6p9GiON1byPEJ/PzcWlhIT5bXo7PV1bi+urqfYGFBCAI6uXaWnz1Yj2+2dxMx/8IFhIATd9ub8cP+/tjth3s7KS51xsbfYPlm9OIhh7EQ318d5COu1tbfUCF+HB2NsE8Hgwa2cEumgKAZbIS6MvT0zTXA1SIj+bmUhNlhc9Sgc++AD3c2xtewz0G09M1oEJShaekwaf3h+nIdxrdVQBzRLlKKoVhiFEE27AEy2xp5fnVBzzX830U9OKRlzg34klRh/3n75/dTsW1UkoPMVoQRSMvc60slrlv2qUERGkBFEKF+HRxsQHlm3Ut7OMeWKiAF4Q8DDMiKN+oS3GdcqjNtACGkS2zYfXNuhTbBAWMMlQMZP1X+YZ3FblhUWCXVloxEBnCf0pqyUbm2LVZebY4RzGvlaVNknuwWgtDzcgq6Y1O8ZRYwFH5ELSdRxkgUOfz0VE6bzNUrBJP7Zv5hrJERWNbUmlCGEaID2ZmGup4KIGpBOjry/HxJPnRyEBkwgK1wVlAW0D+OD9PtlUDwjafIZrZLHkb2ZH5CXLz/SqpozBPCMTIb3xtjvr54S0hI0BcnJwkRX5+vYi/vl2mI+pUB9KL1gIRWBrREBAUuTo7awB5daoAYRl7CpbJGgGhCkA0bgPSXCV1NPJ7zQPJJhSgqVSyQMxxvjqQfkNjm8KrPUe2WZWA4Jw+VwciRwLyObIqAWELtXqwjJHf/h5KKglKIKiCbShUMdB2hFbLLIgsQxX2HzLUE4xGaCijFdYWZoB6htEY/UtVbtpgfl9f95Gb9jF66vG/0rYmUecWz8R20KzWl2AAAAAASUVORK5CYII=",
     "wiki_name": "Big bucket of camel milk",
     "wiki_url": "https://oldschool.runescape.wiki/w/Big_bucket_of_camel_milk",
     "equipment": null,

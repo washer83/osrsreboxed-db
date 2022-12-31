@@ -1,7 +1,7 @@
 {
     "id": 11054,
     "name": "Shield fragment",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-24",
     "duplicate": false,
     "examine": "A piece of an ancient goblin shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIElEQVR4Xu2W2y5DQRSG97xJH8GruJFwIURUQzWKqmpJUdRZCDceduSbyV/T6XY3sxtikpXZx1nf/tdhdlH87mFsfGWOw9izbtd6qLmDeZj7iwv78fRoj/Za84QydtDpTGBajYYd9noOaKFWqxrK2JODA3t7PrTvD/f2ZnjmYFBLUPEbGYexx+22gwDmcTSaAkK1CqGMC81lv2/f7u6clQFhFYXO2MPd5kSdl/F4Bgj1lNyVAOGQREYdgDgGCNUEA3QFQF4dwgHI8/W1M4CuTgfuOkA8s7+z40KbOY+8OoSGMMmoNAFReSgETLNez62Sb4KEB1UwYDhXMgMklQDaWl/PqZIHQo0QJgQKVSJsS4uLOVX6BgICIEERRpKaWVCEbW1l2cFnUslMOQYsBhKsKo4ZONTKAPUNpC1CADFQqJ4+gAJIDGXc4gLSFiEQZsGo+jjnnpom1xJCeSAtrorDufoRxrG6dwzEfdZIDiXDGQBsI5+vr+43BBh1bwGFqqoqE0GZKUeEACBAvANvul8GpGTnuUTtwEySVuHS4jLOFcJw81XjVMdPppKqJoYJn0EN5RogdG96U2hJVVIezML4+6FjbSPY5uqq3d7YcL0JpRKpxPgZBoeAMANAx2YGDKUAUddPqFJRzC5k3JezlxEmhUvnYYcn5PzGUKEJVYqHzx05Vl/SzE9dXJE/K51sTDsrs7AiM8P4ETsrs/id//HnxhdeCj09+9EgAgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACO0lEQVR4Xu2WyUoDQRCG02/iI/gCXjzkIAZU3FAjLjHivsV9F4OIBx+55Ovmz3Ta8aIzExQLisn0LPXlr+qqqdV+tzlLVwZozvbbbQtQAwdztttq2W2nY29Pj7a5sjJIqABzfXxsrw/31pybs8OtLQ80PDRUNZSz7bU1uzw69DDnB/sehtQJKn2iRHM+NcC83N36dMVAqFYhlLPFmRk72dmx7s21PV9d5QLhFaXO2erCggdAHYDuz876gDaWm7a+tFgdEAEpZGAeLy56CqEaqeQ60BUAOf/PSQcgcuBO93b9OkDcAxCpLbmOQjGTGtKEMjjFLSB2HgrRAgRUokqhI5MeVMGB4VzFDJBUAmh2YqJMlQIQasQwMVCsEmkbHRkpUyXn0wWQVBIUBc061wUF0Hi97u8rSaUMiCMgKZDW+E3qWAdQbSB94w/N+QA4QIIAIAVClbjguc55wVAZUDwiBCI4YNiFSqmAtCEKhHK9l6srE4DgGiE4vYk1YFIgIAuecwFKQTgSnDHy3u36ya8elQeEqpxr1qVv/4a5vu3ObwGFAMHje1IgdmDB302u1xhRAiC9XM65Uhh/Dahx4tln748tbH9AqJcYJr5HjVKqsPUZKbEXqpL+4WeYcJ3REft0o9Hz+akp3zgL/gb/GoagmmWTY2O+Y3OMQTSGClSpVvv8IudTQXpIE0E121TM6ldqF9mGKMVC7Wi0xE2SeuOzl9YQADLPV7ow6w+W5/GOLBkmWBosz9Nn/u3P2QcAFwdSF33bIgAAAABJRU5ErkJggg==",
     "wiki_name": "Shield fragment",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shield_fragment",
     "equipment": null,

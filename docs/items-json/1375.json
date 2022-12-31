@@ -1,7 +1,7 @@
 {
     "id": 1375,
     "name": "Bronze battleaxe",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A vicious looking axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABg0lEQVR4Xt3WsUvDQBQG8Nx/kOmWLgEHoSCUghQpgtBBilAsBKRKQAvFgl0CVXQQOjg4CoKDq3/ok+8el7tcYqfkcvjBW9KQ/PjutTSK/k8E8XQehqzmx7S5OukSxZC72VBh1umI8uuxujZIEt8oQYvzI8ouBgUG7WyzTkCC0km/ANkNmSPzuk+CLs/6ClUHw+cfuaSvJ+kLxiA9LgwD0OdW0vdzj352Pae1xpEGNB0fqtEwoHYrSe8PstISGtRg3NcgqgqajA4K1ONNTC+3Mb2tGQWIHhfU0PKXQfYxAGMPXuwBhBgEHsoProIARms2piVQFGnIXxhcOx0mBcrGtAIqpwwyLzMoHLEnkFBLrKcOhKXXi+8d5O6VBtk/D5iWQHxU9e2Ye+rGoBvNvnZM7C+APfY9DYTbeV3KvRiPEQrjgty7PEVQvuB2MEG1U7/IXmPaCWZ3AMHfjCAwm5QxASwywu0Es8jLGf/xCqAdQdk0pvt5MO0gvD+BYHSCwnCCwnSRX2AH3TS0HHDPAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABn0lEQVR4Xt3XT0sCQRgG8J3jHvbgN/ATiIQhSpIkiS0pKv4JrdhQkaDAQ4eOHYIOnfu8bz3zMs7sunmaZoceeC/rsv545lU0CP5PBPEUHoYsp1Na3S6LRDFkNhxKzMNiQdskkdeq5bJrlKDBVY8m/f4es7m/o6f1ugiQoOtul0ZxLEE34/EepY/M6T4Jumy3qdfpSJhqSh0dXn9LIvrYRK5gDLpotQ5gqjWA3lcRfW5L9LUrZVqzjtQgNSZsN4nodREdtIQGgcUAbhHFIIU6bzbprF7fw9ZxSI+DkF7mjMKOAZMHsrT8aZB5DMCYg2NUIBNjGYRoBB7KDz4EAYxjdAAKAgX5DYNrp9WqPFLsl4lBc9ZB6aRB+s3SKEcgIZdYTRZ0UqlQo1aTi4+9A8YpKLtXaAgYtKS+Hv4QxEeV346+J2802mqOtaNjfgDMMe+xEG7neRQdxTiMkJgsKHuXowhKetwOxqt28hfZaXQ73uwOIPiZ4QVm2WGMB4uMcDveLPKoxT+8PGjn559GI6RZ25t2EN4fTzAqXmE4XmGKyDcM2NiqjAlxiQAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze battleaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_battleaxe",
     "equipment": {

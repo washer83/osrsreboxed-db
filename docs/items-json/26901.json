@@ -1,7 +1,7 @@
 {
     "id": 26901,
     "name": "Abyssal protector",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "Your own personal abyssal horror.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuUlEQVR4Xs2WDU9SYRTHfb5Ea9mcZRPEUaQpGSNplcwQqsmyKE1jARNxKqn4EiNTI8kk82211voWbX2I1lyf55/nuTuPF3xJUe7lbGeXPXDP87v//3kOt6rqRCFQvGJiCEwnk6ggKIH05KQEctTWmg0l8P5NBpmpqcoBWp6fx8LrWcyOj1eCbQIri4t4l0lXgkoCXz7l8XlpCbm5ObydmTEf6OvqKtY/5JRKpgN939jAVn4F+WxWNjerVPxLA0Lgx+amsowb28Q+Evi2toaNj8vKLlLHpHkk4GprK7CK1SEgE6a2drqomW+53UodgqRZxEAGqiSUVQREyUCUqdFRI4GEsopmD6lTbBcBvUoMGWWbkFbRqeLeIXUIiO2aGBlWQAaopP1VFKtDVrE6BDQWjxsBJNTMIXW4mfdTh4CGIpFy27arjt4u6h0C0qszHIspoLKr9ODnr/+mPZ5QMIYAhXzRPRCU4Ycj8upZ3yqHOuQ/Z+E6Az3987cAiIFpfS/QQfWOFEL2CPVFl9erKyQwEEgg4HmC0O9tuTFDMQSvFwJo7910AEp4I9BgqACfmkh3EmO9GaSjeQTv9qtN+u8nFNQdpx/nzpyX67HgBCYGFhDvSaG3a1CNCX6z7A4Ejg9F2eRwwG6zwVJXhx5vWFpFGzBMn39QwoTuRRFof4y+zpew1DTI76fDOZmpF1lVo7a6Wj3MMRteg6HkIafPa40uPPfHJdAzX0zmo44whoPjEqr49zwm9FDHguG5QjDOlhZdgZ2r1QmHpVVer1qvo6mhDc22G/IzrTl3YBsvXC5SQag5xanBHjkKn7BQXoGAz4HODjtue2xwu+p3gXZAXfZ21Jy9uI8Kh9U8QvAN+9+oFfXctMLjtkogUupKfSvsl5oP3PDwmicMtoKSFSr56U8z9GBle/pS4rRB/gHfouHnxEv+IgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xs2Wf09SYRTHfd5Am7UaK01EpkbK0PxBCspwWZiVoohDdAoqU8nM1EgzNcN0rdXW2+iPXkVba72mb57n7jzdiz8ClHs52xns4d7zfO73e57Drai4UAjkrlgYAouJBMoISmB5fl4Ceex2q6EE3rxcwcrCQvkAba+tYf15GunZ2XKwTWBnYwOvXyyXg0oCn97v4cPmJrZWV/Fqacl6oM/7+8i+3VIqWQ709eAAR7s72MtkZHOzSrlXmhAC3w4PlWXc2Bb2kcCXbBYf320ru0gdi+aRQJPLZbCK1SEgC6a2drqomVvdbqUOQdIsYiATVRLKKgKiZCDK1PS0mUBCWUWzh9TJtYuAkvEJs2wT0io6Vdw7pA4BsV1zU5MKyASVtL+KXHXIKlaHgGZiMTOAhJo5pA4382nqENBEJFJq2/6po7eLeoeA9OpMRqMKqOQq9X7/8d+0x+IKxhSgUNfYCQjKcGBKfnqyR6VQh/znNK4z0MCvPwYgBqb1k0Bn1csrhOwR6gtfZ6eukMCQPw6/5xFCP3/LjRmKIXjdCKC9d9MBKOKNQIOhAnxqIsEEZgZXsDy2i772p2qTSF9SQXmbAqi8ck2uR/vmMDe0jlh/CoO+cTUm+M0y6PcXDkXpdDhgr67GTZsN/Z1haRVtwDAjgWkJ86wnjmDbE4z4J1B1o0b+vhjekpkazqga1ysr1cMU2PAaDCUPOX26nR0YPVaNgIZ7p2Q+7h5HMpSWULnX85jQQxUEw3OFYBrr63UFBFy1LSrvOlrR5LiH5ro2+Z3WWo5hnbcac1QQak5xarB5h/EJjfIKDDx04UGwAT2+Ong7agxA7Q1dsF2tOkWF82rmEXzD6TdqRX33Hej21kogUuqO3YP6281nbnh+zQsGW0HJChX99JcZerCSPX0xcdkgfwG61Lkg2J3ZzgAAAABJRU5ErkJggg==",
     "wiki_name": "Abyssal protector",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_protector",
     "equipment": null,

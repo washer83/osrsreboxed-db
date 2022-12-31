@@ -1,7 +1,7 @@
 {
     "id": 4126,
     "name": "Black boots",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "These will protect my feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xs3WW2sTQRQH8OQb+NSXvizkIRAILIEQigQiQYIEgoGCVChURHzyC6iIF1QUFUXxQUVLFdMqVUup9dJCS229Id6KX2fsf9b/5OzJRBKzlQ4cutmZ7fnlzCWbSu38ljb+8PVve0ub51OnzOzkSRtPH5wwM/eO2yBidf6KWZm7bJZfXPKg9JcYGB6BiAKIoTFLzy6aV0/OxxLjM/p0xFF9IdNm7uHpDhT+AsIgaHHmnJl/fMaOxV8fCOMlenNjynxfu/tvKIJwzeoQ9Gb2ggVxbDcQnvu5Pml+fWxtxbQFIUcYBDZ0dtWisvNbE4SkPtBC66wD4doHWlu4GgPhmiCdXbV0bBqQiIsbnwnCOCRCciA4vd1AG4vXkwOxSrgHEMaMVnOxNYEgCFXToA+vJajVH4jrQoO4m4CZGN1rxpt7zGi9bJq1EZMNdsVwGvTp7Y0Y6Me7+4OD0DdWy9s4fKBmUWONiqmWMg4ErKweQZ+XbiYLwv1DjYIZr4c2CNtfyZlyIbAg3iMUlSPs68ptB9p8/8hh+gYRJUFIykoQRKiuXCk/7KrnA+nsXVr0rbBAJehIs2hRCGIQSCqxrFxCoOgMQoUkiNNWCMOOCIYjEDHEAhRmhzpB4lDU2VWLtrwPxCodm2iYowfrboeVS3mTCYZc9WTlMJXAIhIDEYW+UrFoK5LP5Uw2k7ExUshaEKdZ9gNbyGdc/8Agorph9lWKrkJ6DPqAzWWRNG2+rd75A5p2mJ5A2GESpBMxAKruDl1SjOE42UdsG9TqtTpobRBRnAYGQVgXnBKNJkhO17aBGKyAxPjWD/pxSksQUTq7p0Ug37TJ6jBh9E/bYPZzbaEPrx1flm85EM6gPs6hOEjuNiaXIc8mub4Awn28GQwMwi7zgXAP70FIgB9L+Q6E5+Tuw2eMTRSkpw33JYhvkwgemgyOBWj95bU4aOsM6vsc8k2bBOFag/hDjOcA5thEQL5pkyD08fdNgzAOIE7XgCC0zsXrC4mRoUF4l5YgRh+gVIrH+t9CA2XI9ZMIqNemkb1gGe2x/6lppC/0Mzu6/QbsSbRjtWtQpQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3WQWsTQRQH8OTooQcPgRAIhBBKKCEEiYQGgoFAaaGGWmoqtkpV9CAIBUHwK4goFEVQRESRopZCKZVQERERQUQE8SC1+k1G/7P+J29fJpqYVTrwyO7ObN4vb2YnG4vt/RY3/vD1//MWN+vXj5i1azM2nlxtmtUrh20Q8ebBonl9f8G8unfcg9I/Ymh4ACIKIIbGvLx7zGzfboUS4xx9OsKogZBxs7Ey24XCJyAMgtq3Wmbzxpwdi08fCOMlere9bHY2z/0diiAcszoEvbgzb0Ec2wuE+74+u2C+bV8y359ftiDkKGUyNnR21YKy81cThKQ+0NbNow6EYx/o7cMTIRCOCdLZVYuHpgGJCMI5QRiHREgOBKe3F+jdo5PRgVglJAMIYxrldGhNIAhC1TTo/WoHhBgIxHWhQbhGTLNx0EzXD5hGtWjqlTGTSuwL4TTow+OlEGhn6/zwIPRNVjI2ZicqFjVZK5lyPulAwMrqEfRp7XS0IFyfqeXMdDVrg7BDpbQp5hIWxGuEonKEfV4/40C77YsOEwkISVkJggjVlctn9rvq+UA6e48W/CosUKJwPlcftSgEMQgklVhWLiJQsAehQhLEKs038hYmcQQRQyxA2dSIB9TZFHV21YJH3gdilRabNdOaqronrJjPmGRixAFl5TCVwAIVOQh9S1MFWyFWA0nHcikL4jQDhr7xQspic5mk648M5MOgEuOlUVchjgGIfcCmUwnb92XjrAVhlyamLxCeMIK4EUqMfMrKhaxLijELE2Nu2thHLEGoUJ/VQfODkIiLmSg5JXKMBMnpGhpElA+EYAVYQYxBvw/78empEIgond3TukFYR7iu1w8SBl8aBlvQr7WFPvwZ42+DIOxBA+xDAUhOm1zYOvTe5KbzJwjX8ZoSOYgovlIgAT7lOxDuk9XDOcfixWwoEB77P4Ewhm+TCO5TDIxjdbpBy4PvQ751JEE41iCcIzgucpBeRxrE/zcNwv0ShFfXIUBo3YvXFxIjgyBWR4MYA4BiMW7rvwsNlCGnKxJQv00j+8EyOmP/U9NIX+h79nT7AQFFTwJctPcJAAAAAElFTkSuQmCC",
     "wiki_name": "Black boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_boots",
     "equipment": null,

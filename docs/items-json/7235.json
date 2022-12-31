@@ -1,7 +1,7 @@
 {
     "id": 7235,
     "name": "Skewered chompy",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "A skewered chompy bird.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVElEQVR4Xs3W/UtTYRQH8O0/8U/wdwmKiIhiJIqRw2GJBf1UFElmYkoLQ1NLZ6nomOKmsnTJWparDV96I7KS/p2T33M51+ceH8fmbuEDh/vs3iPP557n5RoIHP8WJHvYnv/zFqTlRDel410cSzP3aWGqk0MQxdUBKmSeUH6l34LSL1E13AEJCiAJjVl/9ZjeLj7yDIzfeKbDi6oIGaTMbM8BFK6ASAgot9BHq/MPORdXGwj5Jnp3O0E/NyaPhhIQ+lIdAb1LRxkkuYeB8He/t+L050tyL1IMwhi1NTUcenTVnLLLWwsIg9pA2WSvC0LfBtrIDnpA6AtIj65a0DMNGEgWN35rEAYHQqb3MNB2btg/kFQJ92wgqaSAUDUN+rxmgpKVgWRdaBAG1yBzQZcCfX0/4gH92pyuHoT7AAlKKik5soOQh6sJ+rb+3F8QAgATJAtaIEuLzfSg6xT3h/odFAK5PwoxF7T7ac7FVAwyUXhTDUJ+NHqWkvOX+Irffb1naOZFjPsNoRBfdwrjVpAe/ZDmvBnevhQIOc9GLtDcbBMND51nyNRkA+M6752kpvp6t0I7xYmjgpwzCBUqBUIeBk/EG2k8dpFBUikAb92so5ZwLech3wMyDkU9umrOlreBEBoUn26kwYFzNPGyniuF/spyCyNRrY67J/wHCQoBEE5c5N25XceDojKoFFDor+WuuFUDsKfnNOf7AjKrhCtAyMFOwuCoEKZoIXWZEUAVC9d4yoAECvlbb54aoJSLKQuEnWMDyecAOWOjIcZgm+eyrZRdjfBU4Tf6QOK5TBc+G2aFyqwO2j5IryM5fZFzo62N0ukwYz5+aKf8ehvH60yEq4UcBHYXQPhs+AYSlJw57ZEIdXd00NbmdTeAAg5I5MjpLCCc0iZIUHp0S3NAtmnDs6thZ8BSYX7pAcIm+J4fdUE4gyo4h7wgQeF+a7MzFRgAA+G+fFLkWDDXmhwRVYOwyzRIKiRvjMFwzwaStSbT5RtITxvumyDzXw7BCEhyAcKW94D2zqCKzyHbtJkg9EuBzPXjC8g2bSYIz8x/S0wQ8sz1UyUI7eDOsYVePxIahEPRBElUAAoE5FgvFRpohrl+fAGV2zSyHKzEfu5/ahppC/03x7r9BRkalsYBjwstAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xs3W/UtTURgH8O0/kX6WkCiiaCSKkcOJDjXpRUxzkGRJwkAojMJerLREexPLUszSIZoszIiIiCAigogIs/6TJ7/n8r2ePZ6NzU3xwMM9d/cZz2fPufeeBQLbfwTFHa7rmz6CMjtQK4n+GhPTt6plqi9igohP48fl49Nj8uHJUQdK/4i84R6IKIAYGvN+tFGWHjWkFMY5rulIReWEDMr8YHQdCkdAGAQt3m+QhaE6k4ujC4R8G72y2CnLC7GNoQjCnN0h6N3IEQNibjoQvvfndYf8XYrLv7fdBoQaJUVFJnR1Nby281cThKIuUHK43gdh7gJ9njiRAsKcIF1djWDKMqAQQTjXIBQHgsubDvRlsqlwIHYJxVwgdpIgdE2Dvk6tgRA5gXhfaBA+0yD7hs4E+vayOQW0nGzPH4TPbRA7yRw+QcjD0Qb9SLQUHgSADeINTcjj0UrpOLPLzHu64/7nyP052+qDVha7fEzBQciPx/fKwweHzBHnXef3yJ0bV828LBQyx19zp5wgXT3N8H4Zfr2NQuttEHKuXD4g94Yr5FLPfgPpv11mcO2nS6SitNTv0O/5to2CvHcQOpQJhDwUHxosl+vXDhoQOwVgc1OxVIV3pAGtvRR1dTW8R94FQmjQ3YFyuXhhn9zsKzWdwnz8WZVBoluxtp0mD98pOAhHgpDX2lJsiqIz6BRQmCdmavyuAdh5brfJLzgIc4CQgycJxdEhLNHIyGGDACqZrDdLBiRQyMe2QRDe0sRkBcKTQ5CNwpyg3t6QweAxn36x+l/pecQsFc4xBxLXef9g27A7lGV3MNKDuD8hpzEalbGxsMEsvFrt4FzUxORExHQLOQguMbaNvEF62XCO63WRiJyNxWTpTYMfQAEHJCEIdAeg7zMnU0BE6eqOkR6Ea7Vhr2CmsHd6grBtEIR3UA7vIQ9kLxu3hupKbylQAMVwjRsqXwv20m4ayEbxnsARn7lA9k6PXDxheYHw2LtALIQiyLH/chBjg9id9aDO3N9DrvvIBmG+5SB9H2kQ9zcNwvdtEN5BeYAw1j85rtD3D4MgdkeDGDmAAgG+1jOFBtphL1dBQNkOjcwGy1jL3aKhka7Q39nW4z/QUw/xzv2T8gAAAABJRU5ErkJggg==",
     "wiki_name": "Skewered chompy",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skewered_chompy",
     "equipment": null,

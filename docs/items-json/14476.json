@@ -1,7 +1,7 @@
 {
     "id": 14476,
     "name": "Mithril knife",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": true,
     "examine": "A finely balanced throwing knife.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaklEQVR4XuWVwWrCQBRFfX/iJ3QnLgRLkSwM0pBQiSElKqjUttQGqzY2pEhp+9W3vAkzJCl0Z16gF2YTZuBw7ptJq/W/Qqh+EQzBsuZoCBRhdP2gYC7abbWqO2oMwXVjY0ccxrt5gW3f4fIqlAYi+JME4/G+ZEcIiBAEqQJqgB1CGGYKiJewnRxGAwnbIdxGJwPD13wwiNDreRJAZRg9yP2+L1HXbxhdlZidIozjPJmqul1HBogN8RXnR3A4XKqqinZqB5rNv5AdDthvNqYqITscwilJ8BrHiCa+sdPp2BJAhI+3I47bLZ7Xa/ieB9uyFIhAXYTPLEW62xk77mhUAqkRhkNqbtjO/WKh7AhY0cnnhu0w0CwISnaqu8+cvCq2w0DL6VTSDuH7PVN2GIhnR9wO36rG2OGqtJ3H1UrZEYPhqtiOBqraqZ44c3I7GkjYjk4+PwwkbKeY/P3hV1nYTjEi/6m/0yiYuvMDv4+GKmzCW9sAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVElEQVR4XuWWUUsCQRSFvf/EJwkJWcKQJEmSxCTDQBOMwEQM08yIiH79iTPDLLMT9LZzBzowL8MufHznzuxWKv8rgnBHMYLzVguJQAkuOx0Dk1WrZoVPRIzgqtvN7ajDDHo9XLTbOM0ybSDB7fUAN/1+wY4SkOBuODRACdixMG4p2xFMRqNU7BRheMzPmk2cNBoaQEUYN8g+TESg3zCuquN6XceOD+NXpQZEQwTiJeiq8mGiA92PxzhsNnheLExVIVD4RskRfGy3eFkujSUHc1SraQAJPl932K1WeJrP88q4r1CX4Ottj/16ndsJfzEiwjBi5oZ2HqZTY0fBioudG9ohEI+9byd8uuTYqmiHQDxhinYE3+8HY4dAnB11OzxVydhhVc7O42xm7KjBsCracUChnfCNkmPtOCBlOy52fgikbMePvX94Kyvb8aPynfo7ScHEzg8wuGc5Cu4OmAAAAABJRU5ErkJggg==",
     "wiki_name": "Mithril knife (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_knife#Unpoisoned",
     "equipment": null,

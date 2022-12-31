@@ -1,7 +1,7 @@
 {
     "id": 4746,
     "name": "Torag's helm",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-09",
     "duplicate": true,
     "examine": "Torag the Corrupted's helm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xs3W60uTURwH8O3v6M3eBYNgb/YiZGCELySJJFFCEgrE6MYqupAVdtEwulIYVJhoOC8sW7LMG01M7UJkZb3qf/nl9zx8H3/P2ZluboYHvuzx2Znns9+5PAuFtn8Lizuu97e8hWWs/5qk+66YjL5sl+EXl02ImBu/K7nMHZl90+1A2V+ibLgHIgogxsbMvL4t70c6AwPjb7xnJ4gqCRmWzEBHHgqvgDAETQzflPHB66YvXl0g9NfolcV++TH/fHMognDN6hA0le4yIPYtBMLnfi30yZ/PqdUMGRDGiEUiJvboVvPKzm9NEAZ1gbKpGz4I1y7QfPZeAIRrguzRrRYOTAMG4uLG3zYIgwPB6S0EWpx4WDkQq4R7LhArieh1ghD0aVKDUqWBuC5sEAa3QeinAbW1VVKzd7dUV8elqirmo75MPwqAfn7sLR+E+wARRURz8z5paKiR+gN7pK6u2qAAisd3+aCvM48rC0IwlQShX2vrQT8tLfulqanWwAiKxXaaoO/3XI8PWll65WNKBmkUvqkGtbU1mhw9Um+qBBCqpEGRyA7Tdzn31AmyRy/QvKnAjlkPdOJ4kwlBqA6mjGuIIKI2CfLOIFSoEAh9ksnDkkiETOLxkESjXnSFotGIDyLKgNShaI9uNW/L2yDcB0qDWB0EIKwhLmyCbIxfoXJAuDcxeta88sTFNRczMJyy4d5jeSBWqSIgjRpPJc0rg4ogrA4WdLr/ZGDbu0FDPqYoEHaYCzSZPieZwdOmWh/eXpSlqXYfxB02NnBKHnQeCqyhfFCq2OqgrYFc6yg7ckZmMxdkLnvJhCBgfi/dMlXs7mj0d9mWgHSVpsfOB0IQFvPf5R5Tva6rDQbDbe8CEWWP7mgeyDVtuOf9k7XHhQZx7ejnmAuEM6iEcygI0tOGe3h+cZdhZxHkwuA5hiQS3vNsee7Z5kDYZRuBsP11tTbKt9kn5YPsacN9DdK/gXBo8rmHz7EvDtGFd/eDoNUzqORzyDVtGoTr9UAAs29FQK5p0yC8p3+WaBD68RFTARBa/hpwRWN0bBB+S2sQUwIoFOKxvl5soI5ePxUBFdtsZDFYZq3vf2o20hX7M9u6/QMMwPeR7q14qAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xs3X70tTURgH8O1P6IVvgoH4Yi9ijBH5wjCShhKSoWFT/DHM1KAQhErwVS+DiIRQCu2HmZj9sJUMQyyJiBBCehMSYdZ/8sT3XL53zz2e5eZu4oEv9+7uzPPZc865d0YiB79FxR3X+/+9RSU33iaLd1pNXt4+Kwu3WkyI+PK0Rz4/6ZZPj7scKPtLVAz3QEQBxNiYjw87ZXUqExgYr/GenSCqLGRUlu6e24HCERCGoJV7GclPtJu+OLpA6K/R2ysjspUf2huKIJyzOgStTXcYEPsWA+Fzv94Ny+/VUfnzfsyAMEaqutrEHt1qXtn5rQnCoC7Q8uR5H4RzF2h9rjcAwjlB9uhWiwamAQMRhNc2CIMDwektBvo6nw0PxCphMBeIlUT0OkEI2lgogJCyQFwXNgjXbBCuaUBdXUJqjx2RVCouiUSNj/r2oi8A2lq+XDkI1zWIiObm45JO10rDyaNSX58yKIDicQzmgb4v9ocPwlQShH7t7af8tLSckKamOgMjqKbmsAn6buYu+qDtlas+JlRQJtNo0tbaYKoEEKqkQVVVh0zfH28HnCB79CLNmwosYo1C6TWoq7PJhCBUB1PGNUQQUXsEefcgVKgYCH2y2TOSTEZM4vGIxGJedIVisSofRJQHKtwU7dGt5m15G4TrQGkQq4MAhDXEhU2QjSlUqAIQrr16dMEcNYiLGRhO2fR4xw4QqxQaiBV6NpU1RwYVQVgdLOiZie7AtneBcJcmpiQQdhhBukqvZ/pl7n6vqVZ+fkg+5K74IO6w2ckeuXH9dGAN2SBUqMTqoLlBrNLzB32yNDcoywuXTAgCZmPtmqni2Eijv8tCBbmm7c3sQCAEYTFvrt801RsdThsMt70LRJQ9uqMVB+G690cKjwsN4trRzzEXCPegMu5DHkhPmwbpXYadRZALg+cYkkx6z7OfS4PhgIjSIBx1tXYLHqx7BmHb7wZCH/0bCDdNvNaVxOMFffFLMQgaKf8+5FpHGoTzfQfZ68gG6f9KNAif1yD8dK0AhLZzDbiiMToEsTo2iCkDFInwtv6v2EAdPV2hgEptNrIULFPou0/NRrpif+ZAt79fennezDejmgAAAABJRU5ErkJggg==",
     "wiki_name": "Torag's helm (Undamaged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torag's_helm#Undamaged",
     "equipment": null,

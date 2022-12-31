@@ -1,7 +1,7 @@
 {
     "id": 5330,
     "name": "Cave goblin miner",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2005-05-31",
@@ -30,7 +30,7 @@
         "spria"
     ],
     "duplicate": false,
-    "examine": "He's working away.",
+    "examine": "This one is slacking off.",
     "wiki_name": "Cave goblin miner (1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cave_goblin_miner#1",
     "attack_level": 10,

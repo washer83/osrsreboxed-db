@@ -1,7 +1,7 @@
 {
     "id": 10896,
     "name": "Wolf whistle",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-06",
     "duplicate": false,
     "examine": "A silver whistle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSklEQVR4Xu2W70tTcRTG/f4n/gn9D76QUCRJEpMkgt5V9CICEUQMVDDIxLRcNnPmdM1cyzVtG3NNNzbXcj9omQX9J089Z3y/Xhe9cPeu3twHzps7Ludzn/Ocw9raXLly5cqVE1I4X7VEpw0udnSY8s7PY+25B8GVFYTX/YgGg4iHw0jtRJFJJHCYTjsNVYd4ubAA37On0ry7s9OU/8USNrxehF6tIvI6gA9bW0hGItiPxZBL7aFwsC/vX2hvdwJKYdWzaJrShTc+Hy51deFyT4+p7cCGwOxsbp5xJ/8xhWI26xSQwszUFALLy/L1HAcbcyRsfKW31xQh6Mpe9D3Su7s4iMeNO6V8Hl+OPtsdm8KDkREB0tngKNg4sf1OGg/09eFaf78pOkIIZoYgdIYwlU8F1MplOy4p3Lt9S4AeTUzAMzsrzsRCIQHh1+vm168OSN0YHEQxk8FRLody4RDVYlFcIci3ahXfazX8OP7arEt/AjEf1mxoBwhyc2jIFJ8RSjujwQSuVGrWJYX7d+9gbHhYgBYfz8hmcVTMRzaZFDfoBJtYIfhMg/A3DaGLME0AUQqTY6OSIQJx0wikV5kuEYrNdZkx/QXCBgylMD0+jicPp7E0NycOcd25SRpGXPidEWs5DNEoJe7wGHL1mSEGmvmhIzqsLL3WLYCwShl3eHcYaI6LWTmuVPDz5ESg6JTNfJxHCm/9awLEcdEh3hkNRaes7jS+3SLVc6GPI2+Rdorb9Q/dOVW9WeNfCturbF+N2/NfYVy5ctWkfgF2at1z2dDTEwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu2V0UuTYRjF9/4n/gldCBIkSJCUZBB0Zd1EIIglhiaGhZlMMLMNcWZOm9msqauxMWbTsTGXc2xstQwbQX/LifOu9/Pd7MZ93/TmO3Aux/Pbec7zfg6HLVu2bNmyQgKnc1N0POBia6th99QUFl/Nwjc/jw/eJQRXVxEJfET88ycko1FkdneshqpCcLDnxTQWXs7gUlubYcJ43W68f72AjbcrCPn9iG1tYjccRvrLNrLJpPz9hZYWK6CEhFBDV+bm8M7jweX29hoHlr3Y8vkQWls7kU4unbYKSGBidNT491yHPvhKR4fh8Po6ohsBbAeD2AmFkIhEjHQKXzP4ns+bXZvAUH+/BGIqhCGEPvh6Z2eNmQghmApBmAxhSgdZHBaLZlISuNvTg8G+PoyPjGB2clImw24QhP9eDb9x7SpudnVJH6RSyGf2UMzu41suh3KhgJ+lEn6Vy6gc/sDvo6NGUzoJxLIyHdWN/URCJnCru7vGhFLJKDCui3AmUhK4d+c2Bnp78XR4GDPPJ2SpWVb2Q3WDAzmIADTTUStSCdHqShVMA0CUwKMH92VCCojd4SnvxeNIxWIyDQ7XrdL4H4QJGErg8cNBOJ+MweV0YsnlkpfG94UrIwxT4Bp0WwxRL4HpZ+PyHeKlsUMsNNfFNFRZaXXWTYDQJWQ6XBc/B7wwros94fX8qVQkFJMy2Y/TSMD/ZlECcV1MiO+MgmKx9XTqf90kVXshH8d/b5FKSv8snCGQw1Eddnw5us8cRlf99ZwrjC1bthrUX7evwzomNQinAAAAAElFTkSuQmCC",
     "wiki_name": "Wolf whistle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wolf_whistle",
     "equipment": null,

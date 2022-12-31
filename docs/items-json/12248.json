@@ -1,7 +1,7 @@
 {
     "id": 12248,
     "name": "Red beret",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Parlez-vous francais?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xs3WS09TQRjG8fYbsOqmmyYuTExMGr+NCzdu3Lhx4cJr8H4JGgwGEyTagAFRERERUUggCN5ivBG/znj+5/Qp73mZYsuphkme9HQ67fz6zpxpS6W938ohntjr/7yVw8zY+TDdOJvm6cMzYWr0dBohVucGwsrszbD84kYE5b9EYXgGEgqQ4jFLz6+FN0+u5CbmOa/55FFdIcthdrx/G4pHIIpAC1OXwtzEhXQsjzEQ4y16c2Ms/Fi7vzuUQFyrOgK9nb6agjS2HYj3/VpvhN+fJpM8TkHMUa/V0vjZXcvKrm8tEJPGQPOTF1sgrmOgtflbORDXAvnZXSvnloGJtLl57kFMDkLL2w60sTDYO5CqRF8MpEoKRNU86OOiBU12B9K+8CAm9yC7oXcCfX53Jwf6+f5BcRD9gISikvbOsfGgL0tDvQURAGDsxCf7auFoXzXNkb5KONyMRYH/tjLcAm1+eNTCdA2yKD5cCDJQ2R/OVbLrEwmIHE9yrAkUCtD3lXtRkJ+9Tcu+PfvBgujrr+xLc9mFPnCnmljheE8KWh3ZLSg7g6iQBdFPRQabGUoy3AzX9F1vg9MXbIHMoehndy275T2I/pHqgTSNJOPVg2EiyVTzkef0jyYREDxA4VhGPqcwiD5NPlOth5e1eniVZLF2KCwk4Zo+XnuWREjwVI2KAdLyFQIR+qgAEzGhUB7jq0WlqJJAWjpOaWE6AnGHxUCqklBgfFXs0mnZAPEZRHuow+rQtkB+2WyYXECL5BqU9hJ7iPH8bNi7rBBIKPq5ffnVZtxSsmR+HwEDapeMsZzSFiSUnz3SMpBfNg+yp7VFqUq2moz/uny3BeIM6uIcyoPsslkQj/TrsPTRTwbwwiDusr+BmMz+B+LgJJxZjNPPRU9BftnotyD7l0MYgTQW0Prr23lQcgZ1fQ7Fls2CuN4JpAoxtieg2LJZEK/ZvyUWxDi7fwqCaNs3aSx+/ygexH9pC1K6AJVKOtZ3igfa2P3TE1CnzSM7wSpbY/9T88hY/Hv2dPsD4hQemgy95qwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6UlEQVR4Xs3WX0sUURgG8N2P0IUgwsIiIiKyiOiFERh000WFhWmkhWV5IQhCEPQVIgqiCIyIKEIqEUWMxYiIiCAigogIs77Jm8+ZfWbf884Z29lZxQMPO3/3/OadM2emUDj4rSjhhPbveSvKyp3Tsnx71OXlrVOydPOkCxEfn07JhyeT8v7x+QDKXkRueAQiCiDGYt49Oiebi+Nex1jHPhsflQlZlLW7ZxIo/ALCEFR9MC7r98bcsfgNgXC8Rm9XF2RrfbY5FEFYZnUIevtwwoF4bBoI5/1+PS9/Nq/L3zc3HAh99JfLLrZ306Ky86oJQqch0Mb9szEIyyHQp2cXPBCWCbK9m1b0bgM6IgjrFoTOgeDtTQN9fn6xdSBWCZ2FQKwkQaiaBX1ZqoOQTCCOCwvCNgvSA3o30NcX0x5oa2MuPwjbNQiV1E+OjgV9X77cehAAAOmOS10j0l4alLaOisuh9h4XjQL+x8pMDNquXosxuUFEIJ19J6TUfcwtd3QOu2gcUQD9XL0SBNneU1p09RgPGoVt5d7jXoDCL2HEAYbgHIB+rV1tFhTNQaiQBmE7Ou+qjMbpHhiLg/U0HC+wDqpPirZ306JH3oKwnR33DE5I79Ck9A1Px8E6gn1B3E5YrdwgbIsBh2ekcmRW+kfmZODovPvFOoJ9LjUkcIARxUrtCYioEITVQqXsLcR/YZYmpiEQnjCCEA9UQxEWgqAyrA5B+A+EY6jB6qAlQaySjh4/HrAG41giBq8N/ZQ1BbIDmy9MTowYQxxH3u1T4wcVwrHfXl3yQETZ3gMtHcT3E18drFYCtQPS1cTxeG0QhDkowzwUgfRtC4H4UuVkaaNfGS0HEWVB+hsIEyei4TwWH2a5QHjs/wfCMfqTgxgNYnWSoIXs81BoHGkQlvcdZMeRBfGFa0E4X4Pw6ZoDhJYcpKHY8cMQxOpYEJMBVChwWt8tFqijb1dLQI02i2wEy9SP3admkaHYcw50+wfLlJubJ9sPiAAAAABJRU5ErkJggg==",
     "wiki_name": "Red beret",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_beret",
     "equipment": null,

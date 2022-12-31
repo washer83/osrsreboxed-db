@@ -1,7 +1,7 @@
 {
     "id": 24791,
     "name": "Long rope",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": true,
     "examine": "Like normal rope, but with extra length.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKElEQVR4Xu2WQUsDQQxGu7/DS8GDIAhFEBERFBERRRRFUVHUIoL//z7yZniajrbb1trTBsJ0d9PJmy/Jtr1eZ50t1Zo03pdqJenmYJA21tfT2upqOtjbS1fn5+lofz/1V1aWBVcSkJzEANxcXqa76+t0dnyc3p6e8r2L09PsxOzu7PwXVJNODg9zkhro8fY2f35/eclw3Hu+v8txqIiCC4YqqnjqCAQAyVWGzwCycgBit7e2MtCg318UVFGHRKyUgRUHglKpzOvDQ1aKVXjiUWqBPdXkHrFXTIJbKmDxj+EwO5BCo5BqLaCnyqk8LYqgBCBcM1H0CAqQmITEAo4DwjNVUqk5y1dAPB2bWRYUAM5Gt6TcE8SVVwMxAP+hyUuZ3NgRZkNK5ETZzDZyBBL4N6XmUKn52pBkqGI/UCb6hPtC8RyvgVDWqQQkvptmBqI8bOrkcE0yNiSJIw4UJcRtXCEsKdcqPdrcU5euycmcKurOtZBAOFmAAY1SxLPiESZOpo3vs2+wiXDNV0+YiA2EsrGjC8uKkwwo+0gnJrolZv9WKGAAw+0XEtnY0X0dEOcrIMJ4OH9yiHNPnk/xRm9G+kN3g9gnMaHJ6gavQSw593w9tABhzQ8l/Jlw5Ot+0iNQhDFW5xlq+relBQgrDefPQjyZJXXso0cgYkeb93cHZgqgXq8ElS+pQD3ytY9L1uZ17okWwdq8TjRzslmsTjTO6+911llnnbXYJ9BJJnyzSeSwAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xu1V7UtTcRS+9+P9A/ooSB+iDyEjlBAKor6MECkIPxRBRQRGhRUmNULCLHuxWTYZG6KZpthkZaXMxDGHtrQ1zdChNuzl/zjxnMu53t32pq19ugcetvvy+53n95znnKsodthR0lApO0oaelJX01W6cP4s1R0/Svv3KFRTrZG/q4P2OipKRU5PgKQvurvIWaUxiWMHNBp7PUynnRrNRCZp4n2Qn4Fk1W7lf5FS6ZBD4SRAf4+XyQB1BzX6GA3TuSMaLS3EKTYT4Xse931qunaZFSwyKV0VOTXwstdnqHPysEbR8AQrs5Fao5Vvi3xPDlCxU1fJUV5eLFK6Ojj1UJ+fWm+7+Dcw2EvjowEulSgDIrgGcAio1N7WQrvKpHRFUUonBDWCw/3sC5waCH8Y41J9X0tScvkr/wdACGuAZtd1w09F8JR+qud+D3U8usuKoFQoX7f3KVXvq+TTg5wQRXIhAzRcqmeV4KcbjQ3/Uj6dCMrT+biNGq9cpLnZaaMsUOfVQI9BACWFj94EBngNSOP+mVMnDC+B0DZNvtlV8gsFcFopy2JintscqoEMMBV6xyMA/hJCsh5KiorbUEk1NkQiKBIc6mM/VFU6qL5Wo9XkMi3E57jDoJq526AS1sPUXU8eks/jZkLm2bRlQuIVkIEiX+ZnaXRkkO403+RNf26kaH11hUnhHRBCQvgFRNBlmFfSbWalN81dcOlUVgYEsFltjZOTg1To7Qh3nJTJ7Cl0oQxMzKoe3zPydrZzQ7gftBqQeZZOLCc5lRPBH1I6bJBaX6X4pxlj1piBaS1kASSzdhyA/cyQvYG8pOAJUQJJcHIoJsY2I/E5RpHJcX4XZb3XciuNkHz7ZMKLyrjG8wLMrrI/xLCC6akQmxZmzZRQkllHgJWIQAjJNM9BCKH+pcTyUoLmY1FWAyXNlMQ6AoSM9R0hhPKW7SiIEEI3HFodkM8EDC4ltapoHQEgk27ezACZAggpiv6Svuj3rx/8VZc5ZDW3jIBsyfLBmjtnmInlgzXRlpNtJayJssG6zg477LAjT/wBDhpu5EY0n00AAAAASUVORK5CYII=",
     "wiki_name": "Long rope",
     "wiki_url": "https://oldschool.runescape.wiki/w/Long_rope",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3370,
     "name": "Thin snail meat",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-14",
     "duplicate": true,
     "examine": "A succulently slimy slice of sumptuous snail.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xs3X3UsUURgG8BlCvN266KayvavwRryRkC5EIoLoRggM9kIvMjACwworYysqioqiKKgosWizsBIx+1BYMe2L6Ev6d04+Z3hm33n37DLjTOGBl52Ps3N+c857ztn1vNVffOMO1/1/XnzzcvS0GR85ZeP5w5Nm7P4JG0TMTV4x5YnLZvbVJQdKv0RqeAAiCiCGxsy8uGjePDsfaRjnuKcjikqE9M3Eo2IVCp+AMAiaHjtnJp+csXXx6QKhvkQvLY6an/P3VoYiCMfsHYLejV+wINatBcL3fi+MmD+fS8vx1ILQRks+b0O3rkrQ7XxrgtCoCzRVOhuCcOwCzU9djYBwTJBuXRU/MgxoiMmNcw1C40BweGuBFqevZwdiL+GazANXAIRe06BPbyWolAzEvNAg3Fu3dk3d4Pc16Mv7GxHQrw8P0oFcmJ0dXhgapUFfZ25mB9KYQnfO9PXmzKEDOXP0cM4M9AfR3RWERiHfvpdvh6Clj49DTGKQxqBBYAAAZuhINHC9a69XBfpRvuME6dZrlEqSSgwaYu8QNHxsvSkOVQL1egvRXrKgubsrBQVrEGcUMU0bG0IQhkr2UPO2RtO8tdHkmxpsyJfAM7BUREBiUdStqxJMee5N8sGbNwUgvD16iDkEiAzUQ2hU5iC+PUHIpT27ghmGXsPQMcFxv611Qxg7tqNhP1uQhMleYj4BheHTPXOwp83G7s4t9hyrNDGxQJhhModqwRjMJ8A0BgnNZ/TsbzWFfS3heQwMSgVEFLaCuDCNwexCQmPb4DMwZKlAROE6H+oK5A+P5foDEFZpmdRE6dYdJQDJYZMgNICfEWxYbiuD/e32U+70rP9t9lYIwhqUYB2KguSwEYQ6cuYgkB/F451VIPROahBmWT2Q7CH0ykBfuxke7LDn2Gq403O4MgPpYcN1gtAg9zkGzgliXYAWXl+LgpbXoMTrkGvYJAjH/HmLQC5JkMyfTECuYZMg3JP/SiQI9WT+pAShVE9pV0iMDA3Cb2kJYiQAeR6X9XqhgTJk/mQCils0Mg6WUan7n4pGukJ/Z1WXvxEcqr36CZ1KAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4Xs3X70tTURgH8O1db+qFvQlhuRchoSOGOMQwFogiUaHhL5rFShtkSUPJfkeRRYUkSEtLJKIo+2GWiDGMiAgJIiKIiDDrP3na91yeu3Ofe2abm+KBL7uXnXvPZ+ece86dx7P2i5fMMX2/4sVLU0NNNHmrUeX54F6auLlHhRHzDzvo44MIfbi/34CSPyJvuAViFEAciXk/3k5z91odDeMc38k4UTkhvTQ9vM+FwicgHAYlR1pp5nazqotPEwj1dfRiMk4LM7HloRiEY+4dBr0ba1MgrpsJhOt+v+mhP3P99PftGQVCG0G/X0W2LorV7fyrGYRGTaDZRIsNwrEJ9OnRAQcIxwySrYvidQwDGmIQziUIjQPBw5sJ9PnxwcKBuJfQmD4PTEEd9JoEfZlIg5CcQDwvJAjfFRWtWzJ8vQR9fRZ1gBZmu/MDmTA7a312JEqCvk8eLhxIYjqiAeqMbaOjPRXU219FJ/pCKrFjpRTt2uJCYb79mOq0QYvJPhuTM0hiWtq2Uqw7qCAnz1bT6QvVdO7SdpWhRIgGbgQp0lzmAv183WUEydYzlPQk1TFNzaXUHilzgC5f3UED18N2UC8eq3T0EkC/po8sF2StQeghHeTzrbdBx+OVaoiAQg+VlxdReWAj+f0bVPQfgXu4QelFUbYuivXI896k33hziQXC/EEPIZhDgOgpSYEQiSo4iH89QNHOgMLVNfipJuxTvXbxSo0aQvQcJnxt/SaVhl3FtLuxWN2voCAdhgbRQ/hEgAAUE1v2zLXBCpW+3pA6xyrNmKxAeML0OZQJxsGwqUc+BZQYTGi+x93RerqTqLPPs8CgOEGIvl1IjIRJDIK9D9sG3wNDtiwQowDiVwq+qSl44vhYX38A+vbikGNSM0q2biiZQbw/oQFuWN9WEmMWSN/pGYRtg0FYg3JYhyyQPmwShDptqdUaYdip8wF6+iq8OiBGmXpoZLyahker6MlLC6PDuS5ezPIC4bH/Hwh1eJ/j4FwHce+4QfHc1yHTPNJBOObXWwRzacVBch5JkP6vRAfheh2EV9c8QCjuR9oUHaOHQdw7EsTJAeTx8LK+VCRQjz5cBQFlWyQyGywnXXeVikSaIq9Z0+UfmO1c1kptgB4AAAAASUVORK5CYII=",
     "wiki_name": "Thin snail meat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Thin_snail_meat",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 2925,
     "name": "Teal boots",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": true,
     "examine": "Very stylish!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4Xs3XXUsUURgH8Nlv4Efw2qtuvAqvpKu6CAIhQggh+g4V0QsWiUpgKFSUWLRaWImYFgor5ktI5Bt9ndP8z8z/zHOefXbZccfwwMPOzjkzz2+fM3M8Jsn5bzVnh9V/5q3mvszdd4uz93x8envXLby+44OIzeVx11gacxtfnxko/SO6hmcgogBiaMz656du7eNolBjf0acjRpVC1tzSuwdNKHwCwiBodeGxW/7w0I/FpwXCeIk+2Zlzh1uvTociCMesDkE/Fp94EMe2AuG64+1Z9/dXPY15D0KOC729PnR21bKy81cThKS4sfyliJX6owDCsQXaWpmIQDgmSGdXrRZNAxLx4cZ3j7h8xSVXr2WB4xzWDrSz+rw6EKsUMIOXXM/Q9RglYFbsfZegejkQnwsJkhiCZITkRBKaj0efBB39fNM9KCSXoJsjRXWQOIX03Bhuwu6vT50BCIlU+EqwClbl8ur8aUwH0Mnu+4ApDSLKg9JqhMir4KtzcSCeKjll6EuvPWjMmCCdvUUrXucIdOt2FgABw+r09xffZeR9HrT58rSgbA1ChSQoTBtAnCpWoK+vAPGNY58FEouizq5a9spboGjaOFWsAEByClVfpSCiuCi2BOXPVVS5qkGySiZGJY1A7G8CzQdMRyC8YRoUYXRCVih/ttqBWaEOq4NWgIgKGCZrMSVlpqxSUFjsxBtkLgVtQETp7EbLQHrafFKrOv6mqoJG/++NFwGENajEOhSD5NvGm8sIa5MEsTpJttXFPqgrEN4yC4Rz2CUiAfY3OBf9jZPTlZ7D2EpBetpwXoK4mwxbExEcC9D2t8kYlK5Bpdcha9okCMcShFWciyeu46YeYysBWdMmQeiT/5VIEMZxU18BCK354bVCYmRoEPbSEsQoAUoSLuvtQgNlyOenElCnTSM7wTKKsf+paaQV+ppz3f4B8pyMkh/R5DoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADmElEQVR4Xs2X20tUURSHZ/4EH3wRAvHBB/FhiHxQEsRQMjRMxEJMxDTxkrdJs4vd0JDCFFOppLASlJJCwcQUi4julz9px7cP67jPnq3MOKdww2LO7LX3rO/81trLbSRy8EdUuc3l/+cjqp5Pd6v5qS5tTyc71dz9Dm0Csb54Ta0tXFGrLy47oOyXSBvcAxIogMRsmJVnl9Tyk4FAYL7jsy0IlRJkVC3M9CRA8QmImAC9mourxYd9ei2fLiDWm9A/t6bVt43x/UEJEM+ijgC9mR/UQLJ2NyD2/dicUr/fP1J/PsxpIGLEsrO12dGt4ckuby1ABOWHzTfFlh73+0A8u4A2loYDQDwLkB3dGtFAGggkxc13/LW1HaqhIa7q6rpUTU2bD7YX0NbyzfCARCV8AFRWNqrm5qvqbOOgOn2mRwNWV7ckKGfa9utbPhCWEpDUhQnEPEErKho00Pm226qpacg3CVxf36e/8wlo1clmvQefCfT93UT6QCiCoZKA9PaO++oACkh7+4gGbm29oc61DGvfx5WR8IEIIoEkGCkrP16vYTBTNQwfez+v3fGBfm3P+jApAwkU86jR3X1XW2fnqFYLdYqLq7QyFDomSuIrKTml9355O+YEsqPvMnaOswk0NDSrBi/NaDBRh/qIxY76BQ4YJsoVFpbrvV/X7+0XyOtBKGQCSdouDjzw1aGWUCcnJ1+nEBBaASbqAGsDmU3Rjm4N78i7gESleHxS1xHBqZnDR0pURkam6rowpmuGkwWoqJObGwsXSKCkKUq6UIGgAGVmHlJ9/RMalBoy1cnKygkPyFQJH0FJjaSktLRWFRWd0CnDj0qSyrKyOqdCdGmBSQqIE2YDmTAoQMGSLlQgKEpQ7ADRwQGm2IHNzy/0VRKFklSHsQMkUMxRNzQ7UkWdAIQCFHRBwbHAGlMhgPLyChJSljYQdcPbUyNAEVDShZ+TR2+SkybqAesCEig7umN4QHbamJe/XWa6vB/10kkrkHRR7Kgn/k+roz4QPSiFPhQEMk+b/Lhp0ptQD3UA5o8p6WKeuxP3oLSAOGUuIOa4JRKA+w1zAiQwoh5zrA0VyE4b8yaQ3CYFyjRZC9Dmy+sBIHpQyn3IlTYTiGcTiC4uzZN9cqlnbShArrSZQPjM/0pMINbJpT4EIEZi8brMhDHNBuIubQKJpQAUiUhb38tsQNPM+gkFKNlhQyYDK7az9j8NG9Jl9p4DPf4C4OutkFl4QrkAAAAASUVORK5CYII=",
     "wiki_name": "Teal boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Teal_boots",
     "equipment": null,

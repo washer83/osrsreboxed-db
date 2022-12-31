@@ -1,7 +1,7 @@
 {
     "id": 1193,
     "name": "Steel kiteshield",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A large metal shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+ElEQVR4Xu3WTUtCQRQG4Hv/QT/BtSs30SKCNi6CCKI2LdokGKQtzMRMEyEisS8ziyj6rRPvTMc5zp253i+1oAPvqrSnd45z9bz/yXR8ofIrxhfb657Y2/R+UEuFKcxlvS46jYZEHRRXlgmbBnWbTdFrtSTqcGvhMF8U1zSGg67bbdkWUMe7C4PZ2yHQzVVH3Pa6EnW0o6JhmeN8sVFwt0Mg2ik6QoJNt5YJLrwdE/T2+CDzPnwKwDLAudvhIGBsoI/nocznaBSAVfcJF2uC7bhAwLze300wJgj5Go9lAKI9K+RyUVH2dkwQbycM5MLEAvF2ZoFeBgMriLfDlzw2Bu3g7gEKsYF4OybIPK5UmNW8wlAIhdhAw35/JggYutFjYDCqnbNKRZyfVsVFrSaPjaMo1I4LxNtJvDdop1ouB0Dmo4JfhBQbKMVRYXxxUiqFglwYuqERAlEz+Fmio0I7UUAE4EdFGB5g+N4kAmF/XCATQ+FHxTEJ94bGF/mcN0FFBbmWGRj8foKj4qNbMkEuDIWDMmiHj0bZQPyoCGM2BAyuhZTt8NE3NUB4c1c7wFBohzJsh0a3BJTZDj8qwvClzrgdGt0SQOZH2paUH/Moo1D8UcGX2wQh+Afm0A4fhaK2+MPWBpxjO3z49+DwLACjhv5QlJiv/fPzDcwTNRTIxR23AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu3WT0sCURQF8JllHyCIYEAkREJiFkoYSZIQLlwURC38/p/j1ZnXdc5c73Pe/FELunBWVv46787TJPmfXid1Pr9iUvc4SdxznvygzgrzmNU0KwLUenZxTlgVhKzvBwVqMz85LHWzcRWzA30HbQH1sTwZLNAOZfMwLFBvC58S1jsudXfDcDvcEo5PjlBg1dZ6wdW3w6DP1XgXDesBF9+OBeJo2HYluEaz304IBMz7crQHsQKQ7Fk+GMSi7HY0iNuJAWlMI5DVjkYJCJg6EC95Ywzawd0DlAWz2jkE6oQZZR4jERTDGPS6uKkFASM3egMMxrczn1y7pzwrAgCjJNJOHYgvy1btAKNB1t7IRSixQB2OCpO66fjqICiEkRsa0c3gtVZHhXYAElQIJAAclRyXYDjA8N60AmF/dEsCsjB6fxjTcm9kUpddJjuUdWwxIGT7cltg8PMtjoqnbEmDQhhG6d3p0A5PFaVBGmI1BAyuhY7t8JQ3NTD446F2BMM71GM7MmVLQMW0w6Ce25EpWwJIP9JWOj7mMeNR/FHBy61BCP6BI7TD41HSFn/YWsAjtsPD34MP5wQYP/JGMdG/++fnC07CQRxC1CEQAAAAAElFTkSuQmCC",
     "wiki_name": "Steel kiteshield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_kiteshield",
     "equipment": {

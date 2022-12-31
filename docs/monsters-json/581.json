@@ -1,7 +1,7 @@
 {
     "id": 581,
     "name": "Zombie pirate",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-31",
@@ -33,7 +33,7 @@
         "mazchna"
     ],
     "duplicate": false,
-    "examine": "An undead sea scoundrel.",
+    "examine": "Aaaarg, me hearty!",
     "wiki_name": "Zombie pirate (22)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_pirate#22",
     "attack_level": 49,

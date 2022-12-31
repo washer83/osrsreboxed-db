@@ -1,7 +1,7 @@
 {
     "id": 4276,
     "name": "Jail guard",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": false,
     "release_date": "2001-02-28",
@@ -25,7 +25,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "I wonder who he's guarding?",
+    "examine": "A dangerous looking guard.",
     "wiki_name": "Jail guard (1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jail_guard#1",
     "attack_level": 19,

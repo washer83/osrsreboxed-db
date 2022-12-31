@@ -1,7 +1,7 @@
 {
     "id": 23067,
     "name": "Treasure scroll",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-02-07",
     "duplicate": false,
     "examine": "A scroll that Veos gave to me. It should lead me to some treasure.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xu2VfUsUURTGvd/Ej9D36N8gTBRf0CRNFEslJMIwEXtxW3doWTVfEomQNJGQkOiTnfid25m5c9fFWdtt+sMHHnCHuXd+Pueec3t6btVROclcupx8qU3Kp41xOao8LBvMydf6Y/lcnVCob8mgnNcH5XtjqCwoJ8fJlCYDGDCY53d6e9Xxii7LlwufNqZz6ZQAg5yWi5TOd2YVZnd9tFwgykU6F3tzCrT/ZkxdwuH2MKRztjUjP/fH5GJrWLvtoDove5Un6tZg4aho9U5heRjODof518G4/NgZ0WeHtYUcUDOYN+9z5o6r/VpmK3X8pYLKgCjX5e6oVJ4/0N9HyWJLKMxzYCjvSW0gLTEm7RtAZTBsAAylYkODCYE+bszlgADhfWYW5cXbayPaHJT+8nC+HagMBrMx/21jdTgHEtqgMDBmANiLUgFF6cMOLdClvvYxkLV6CBA7hrH1pMpa/rb9C8OEINiGIOmEIJZG7BiGVLTMf+4/AykEY8PPbFeEpRPCbL+dbXKcjp0d3EYqyMnixF2tr5lNDYh0wlT4eGN9psmt0mkTBjl59fSevFvq07bmzBhMsjyg6YSp8PEPa9M5dxDG5GTzRX/q+spQ6jgVg0hWp1LHpQqvlhvAmHwHUKLQcTIGsbkyqe5COpn84vz4j9MxmPcvH6mvSqcjMKHy7enBwlIZENcCZ46utJnTgVJdrxDMgGgAroYQqM0p/PcKwQAyGxD3VdfTuUoGZkCvn91X0wSlAGXyUAbEmCgZCLkUCP8HQCgbE//sQF+n/Ki4VXf0G1+84du/Bp3iAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGElEQVR4Xu3Wb0vCUBQGcPdN/Ai9KCKpV0GYKKRghpn4X8y0hWiWDSWJCIKC6PPefO7l7N7dNt3KtV544AEVt/085+7OWGxTay2DyUReBptfnzGrm2ez3mnUMIM9D8455OmmyIP3L8OLqFAGR6A7gFDw+VY8zqMfEXKJcQH1elt2dCcCDMrg4wLk7a7CMcPqSbQgjAvd+bDqHDSuZ3kiWNwCQ90BCLBJM8dmnQSzWns83jB1q/D6ju8SGKwddAUYoKx2ns27+xykopwwEXyf7tBJJ8fzC5QEoSvvkxp77B8vEIvbv3dgo1SQGhyDH0L7FwIQzvcDlMTQuHABrBtgVJAbChCEtgt0aNzKchzO8zltBkFJDHUHoEE5Y0PU6CDCUHcQYGgt4jWu4XMPE7NXQXRydEftih4dQ8fT2pGjCoBRITQunBzdWTYivTs6hp5/BPGFoc1PD3VHx9zXndG7Qxj8yABdQRmsXUg4TogQCN1ZBhlVd3m8uhMQgzLYqHHIpldJflvT8wrpF1O8OzqGECFgqBZPdDNlxyyl7XhhBuUdO26jUkH61XyWuAMwIjXLMGZpO4zuyBIHO7d/t/VCGB20VoxazttTwNy6AwStObzGpreGUa0uFUagbiH5DTRsyP9JoYKoVBhAFDeQfmyoRTACPVwe8QxqmWhAsgSKQGYlHTUIZdgg5B+AUHKb+LMFvaqcW8WmwqkvJcxdQ7uyGvoAAAAASUVORK5CYII=",
     "wiki_name": "Treasure scroll (Step 1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Treasure_scroll#Step_1",
     "equipment": null,

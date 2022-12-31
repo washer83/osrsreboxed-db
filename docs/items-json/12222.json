@@ -1,7 +1,7 @@
 {
     "id": 12222,
     "name": "Bronze full helm (t)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Bronze full helm with trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3WW2sTQRQH8OQb9MmXvCz0IVAIhEIIJQSUPJQiSIWAVCjYh0Ae+lJfCiriBRVFRVEUtGipYlqlaim1XlpIqa03xFvx64z5z/LfnD07hmyzSgcOmezOZn45Z2aSVGrvt7Rxh+v+P29p82LutFmcPWXj2cOTZmHmhA0iNpavmubSFbP+8rIDpb9Ez3AfRBRADI1Ze37JvH56ITQx3uOejjAqFjJtlh6diaDwCgiDoNWF82b5yVk7Fq8uEMZL9M72nPmxeX93KILQZ3YIert40YI4FiA8q0F47tfWrPn9qdGKeQvCuLzn2dCzq+annd+aIEzqAq00ztl7/PYjw9kIanPlWgiEPkF6dtXSoTJgIi5uvNcgwAHCc1OTJTM+ljeVA/0R0PbqjeRAzBKuuUAs02R9yIxVcxaU7e8LoT6+kaBGPBDXhQZhcg3iODxXrxUtplzyIqDP726GQD/fP+gdhOsAEcVMcv3UJgp2/bhAX9ZuJQtCACBBekEXCxlTHR2IgDD2W/NOANr58DjAxAZJFD7cBcI9riGUTe8yjP3evOsE6dn/0vzti8k6geSCRrmmj5eDDEVAG/d2C/LPIGSoE4hoRLUyYEZKWVMpRncXnwmBxKGoZ1fN3/IuEIIfbstzZMjUDhfMxKFBMzacM6P7W5kZ9Ewxl4lkJ1EQUQhMgDHTx8pBADV+MB+Asl6fDaISBcks8TSuV4vGy2RshtBnllCyfHZfCEPQ1qvrAjQfYLoCYee4QPyLQRCCGPRZLg1CdvCzITPUZXbQ2iC9jnCda0eCEOgjQyyZLhd+NhIDEeUCsWToY4cBhNAgnNISRJSe3dF8kKtsuIYJJAoglpAgnSH87fi6fjsA4QyKcQ6FQbJsBGECorC75Bmk1xCy0zMIu6wb0NTRkl3QBLFUulyJgXTZcJ0gnkdYPzgUAcJ7Ln6OBQhbPgRqnUGxzyFX2SQIff6GMXh44jm5fhIBucomQbgn/5agTxDGyfXTIwit/a07hcTI0CAcihLEiAFKpXisdwoNlCHXTyKgbptGdoNltMf+p6aRrtDP7On2B5DkMD+QdORlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xs3W70tTURgH8LuX94UvfBGMQPBFSAwZI5TRUBpKYuJExU3xR8y0RYEhFEH/QkRBFEEREUVIJZKIMYyIiAgiIoiIMOs/eeJ7xnc797lH29wWHnjY/XGu53Of55xz9byD3yLiDtf9preIrN0ck9UboyaeXx+RlWsZE0R8eDwr7x/NyLuH0w6Ufom64SUQUQAxNObtgynZupcLDIxz3NMRRNWEjMj6rfEQCr+AMAgq3s3Jxu0J0xe/LhD62+id4rJsbxT2hyIIx8wOQW/uTxoQ+wKEZzUIz/16tSS/t67In9dXDQj9Eu3tJvToqpXSzrcmCIO6QJt3suYe3/6I1xdCfXwyFwDhmCA9umqRQBkwEEE41yDAAcJzPS1LkvBz0u71hECfnp5uHIhZwsAuEMuU8s9Lpz9mQC1eWwD1eaUCQtQE4rzQIFzTIPbDc0l/0WDavO4Q6MuzfAC0vXmhfhCu2yBmkvOn28+b+eMCfVs903gQADZIT+ioF5eYPxwCoe/3tYUyaKd4qYxpCgj3OYdQNr3K0PfHy0UnSI++SystXwxmo/DHbZA9oVGudMvlcoY06Of62f2CSnsQMrQXiGjE8MCA9PX2yvGurtDccYMqm6IeXbXSkneBEASh38LsjMxNTkpudFRGTg3KyXRauhMJOdrREcoOnmk4CL8YAH0uFgrlmBofl7GhIQM6Fo/L4WhUDrW2llFNA3E3RlYwIDI0Pz0tM9msyVJPMmmyY2MIwmeDIOzSxFQFwsohyEbh2AYhkB1gcIxydcZiThA+G3aGqswO2u4g/s+DrBCE7ACF4xOplCmZBqFc+GzUDdJlIwilIgjZAgrHKBmyBJSeP19fzAdAROnRHW13EK5zUhMFEEuIJQ+Qa0Ljs0EQ9qAa9qESyC6bBtnLHqtrsL/flAsgPambAiJKg87l8zKRyZjljnKxVMSwL1ZYXSAs+3+B0Ad9MaGxSwOEczuTzE4YtFz7PuSaRzYIx/yGMXDeVJCeRxrE7xuCOzkCz9sg7EF1gNAqb71X2Bg7CGJ2NIhRA8jzuK3vFRpoh12uhoCqbRpZDZZR6fufmka6Qj9zoNtfG7m31yw96asAAAAASUVORK5CYII=",
     "wiki_name": "Bronze full helm (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_full_helm_(t)",
     "equipment": null,

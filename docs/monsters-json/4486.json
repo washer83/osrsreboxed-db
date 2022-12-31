@@ -1,7 +1,7 @@
 {
     "id": 4486,
     "name": "Vampyre Juvinate",
-    "last_updated": "2021-09-02",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-22",
@@ -36,7 +36,7 @@
         "duradel"
     ],
     "duplicate": true,
-    "examine": "An initiate juvenile vampyre.",
+    "examine": "A juvinate vampyre. It looks really hungry!",
     "wiki_name": "Vampyre Juvinate (Level 50)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Vampyre_Juvinate#Level_50",
     "attack_level": 50,

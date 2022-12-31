@@ -1,7 +1,7 @@
 {
     "id": 26675,
     "name": "Black slayer helmet (i)",
-    "last_updated": "2022-07-06",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-07-06",
     "duplicate": false,
     "examine": "You really don't want to wear it inside-out.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xt3W/UtTYRQH8Hv/iX4e7IfBYDAGFxljsBCR4ZBESUySTLKRNjLzLV8YSBhBZUQRSmUpysYqW5mYmpqmlFHQP3Ta99yeZ8/uroT6LKEDh+Huy/PxPOeeO8P4v8Mk5zea4zALmDT1eJIOd82hwqTs/IyyAD7dFisen5uZ4nOCHo/LeccOk96/yfxBFBYJ+jhLUSadjkblOa8zs5UFrS3ny0CWFZDfeb2nGIRczuc4Kwra2Vyl9ZV3vLDAiMRxv98jQciNj0uVBe3vbdOXrbUyUCQS5HSC8F16dEjZVreeO3KY9OvnPn3/usMogYnFrJJsaWqi7s5OxgE02Ncjt3T22RMFd+ww6cf+Hu1tb9Dm6geJqakOcwrQhXMtjHEDZeae69xCk3Y/r9O33S3a/rTCiwESj0ckSuSltjYJ6u9NScxidk4vCA2NLQNsa32Zt04FhcM+zsvt7ZzYukRtLSPQ4EuLWb0gDEY8aagQEjCAkAIjEpibvb3Ufy3FEIA0bxnCHo7oIWDQT4lETCKi0UAJKpVM0tjAAOPf5uYlRhMIc8bgDIW8ZRU5KG9c7S4ZkNowyJpYTM4YoA6CiWMigYqEw3wP552PEPb7Cf2A8o8PD9NEeox75HpXF/cIjjX6vPSoKkgPqgJ0rzASJkJ+Gi9kujBARwI+qrIsXf1jg/DUjPT1UXpoiG6NjvAARI/gvx/s6WEU8mkkRNPhoMQlfR7G43qMAw1VskG42ZWODlmleHU1nW9uLqmSSMCBBBbHAcK1QGmr0sXWVjlbUCWAMJWBclYJIMAFBtfhtxFQ2kAYcCoKIDS5ePLUtCyDz0cCi+rOv5im/KsFfSAshAVwc3wChIXdUmBQJfQZqqO+NrSBnFVwZjRaxKDPsH2oJn45il+SGjCIv4OAweeZujpOVAfNnlt4ya8OMYc0gRAHowRGBaGx0T/oHfQa+k8zCGFPbDcUEn+roMm7t+nh/TsMwtNYAZBh2De0YU4cEs0utkycg/5prK+vDEhE8Wkp4pCohqiSChK/iyoGUkPgBBCYsw0NEqS+x/4JqDxMR8+cKEZEKeKEMXboQPwGWntu7c8+z10AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xt3W/UtTYRQH8N0/oB+FMRiMMS4yxhihyERJlMQkwyRbaIaZLyynDSSMoMKoICzszTEcY71oWSnmMm0mRgv8oX/qtO+5Pc/u7iYxfW5CBw7D3Zfn43nOPXcOx/8dGlm/URzVLKDR7IMZqu6aqkKjdPKZaQF8VlqseDzxdJbPCXk8Fc47dGi0/Dr1B6GR1+viLEVpdDwYlOe8Ss3bC1pfWSoD6ToWM75zOo8xCPlxKcNpK2j7yxplV9/xwgIjEsfd7hoJQm6sLdsLyu/m6NvmehkoEPByWkH4Lj4RNW1rpZ47cGj0ay9PP79vM0pgQiG9JDva2qi/t5dxAI0ND8otnZ97aMIdOjTay+/Sbm6DNj99kJj6Oj+nAJ051cGYSqBU4onKLdRo52uWfuxsUe7zKi8GSDgckCiR57q6JGhkaEBi3qQTakFoaGwZYFvZFd46M8jvd3Ge7+7mxNY1NTQwAg3+fjGtFoTBiCcNFUICBhBSYEQCc3VoiEYuDTAEIMVbhjCGI3oIGPRTU1NIIoJBTwlqIBKhydFRxi9mkhKjCIQ54+D0+ZxlFdkvr1zsLxmQyjDI+lBIzhig9oOJYyKBCvj9fA/rnQ8QxvsJ/YDyT42P0/S1Se6Ry3193CM41upy0v1aL92t9dDtwkiY9rlpqpDxwgCNeVxUq+uq+scA4amJDQ9TPBql6xMxHoDoEfz3Y4ODjELOBXz0yO+VuIirhvG4HuNAQZUMEG52oadHVilcV0en29tLqiQScCCBxXGAcC1Qyqp0trNTzhZUCSBMZaCsVQIIcIHBdfhtBJQyEAacGQUQmlw8eebUdQefjwQW1U0+f0xvXy6oA2EhLICb4xMgLFwpBQZVQp+hOubXhjKQtQrWDAaLGPQZtg/VxC9H8UtSAQbxdxAw+DzR2MiJ6qDZMwsv+NUh5pAiEGJ/lMCYQWhs9A96B72G/lMMQhgTuxIKib/NoJlbN+jenZsMwtNoA8jhMG5owKw4JJpdbJk4B/3T2txsD0hE8Wkp4pCohqiSGSR+F9kGMofACSAwJ1taJMj8HvsnoPLQLD1zpBgRpYgjxhihAvEbMR0z2QhzZOIAAAAASUVORK5CYII=",
     "wiki_name": "Black slayer helmet (i) (Emir's Arena)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_slayer_helmet_(i)#Emir's_Arena",
     "equipment": {

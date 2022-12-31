@@ -1,7 +1,7 @@
 {
     "id": 25446,
     "name": "Steel locks",
-    "last_updated": "2021-09-30",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": true,
     "examine": "Perhaps someone can do something with this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZklEQVR4Xs3WbUsUURQH8N3P4RtfC0FvpTeChIQhSZKEJJhkkiaZmema+JxPq6tum2m14kZqqSmybaWSYtoT0ZP0dU7+73DGM3fvbjs6hRcOM3P37pzfnnvn7vh8x7/5yRymz/9589PLmTZanG5V8SIaoPlHLSoYsbU6RJsrA7Sx3G9A6T/iyHALxCiAOHTM+tI9ev28x5EY1/hMDyfKFdJPK7H2JBSOgHAwKDHfRavPOtRYHE0gjJfovd0Z+rE9dTgUg3DO1WHQ28VeBeKxqUD43q+dafr9aXY/5hQIOU5mZ6vQs2vNKjv/agYhqQkUn+20QTg3gbbjQQcI5wzSs2vN75gGJOLFjWsdhORA8PSmAu0mQt6BuEpyDUgQV5JBqJoO+vhGgmbdgXhdSBD6Q319FOzupv6OdhsmF3Q60Oe1UQfo5/snhweh7108TmvLy5RYWKDYwwkaHxignrtW1eQTmQr0ZX3cW9B8NEq3rtfalcH1SG9vRiBM77fNiA3a+/DUxrgGIdB3s6ZGHbGoETifHA2pI2MASwX6vvnACNKzp2hWFXBzBrU2NtrVkVVqaWhw9OE7eCiSQFuThwVZexAqhJvjGlPT1tSkkt++UWdXi6FY6BiDdYU+HYSKOkBiU9Sza826mQ5CovtDgyoxADjnJ669uVlBl2IxikYiCq5X0nNQZDhIj8Nhys7KUoFrBmGhX6usVFXjzxFXysvpQnExncnPV/fwBITgCgExERqxE6JKg52ddKe+ns4WFCSBgLxUWkoXS0rofFGRuo8FmrMxGYHwhOggrI9UIEwhrjFtQMmoraqiqxUVdLmsTOFwL1Qow+qgHYAYhT7szJgiEwhr6EROjqoUL/i66mp7bWFKGeYZCDfHrgwApm9qbEwdAcUiPpWbqyqISqJPx2A9yQoxSs9uaBbING0ykFSCTufl2ZiuQMC4ZyGwhrAHudiHnCD5tKEPGxzeayQMoHOFhUnJef/B+K8bYfspcw3CU/Y3EJLxlsCBvw3s6vy3gbGegvRpQ78EyVcOxjCIxwK082rYCdrfg1zvQ6ZpkyCcpwNxhTDWE5Bp2iQIn8lXDgni/zGeriOC0JKfDlNIjAwdhHdpCeJwAfL5eFtPFzpQhlw/noAybToyEyzHwdj/1HSkKfTvHOv2B+ojPsVUj6z6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xs3W70tTURgH8O1lL3rhCyEGwhAJiSEjjCiIAiEKTDSWilqYW4KisdCGChFGCFmURCNIQqQRlogkwxhGREQEEb2JiDDrP3niey7f7dxnd7pfigce7rl3597z2XN+3Ovz7f/iF+/w+n3Xi19WH3XIysN2E8sP2mRp9oIJIj6/6JNPi73ycaHHA6X/RMVwB0QUQAyN+fC8Wzaedbo6xjl+0+FGlYT0y9rji3koHAFhEJR52inpJxHTFkcvENrb6K1MXDbTg+WhCEKd2SHo/XyXAbFtIRDu+/N2VP5uJOTfu0kDQh/hYNCE7l0VJ+381wShUy/QevJSFoS6F+hL6rILhDpBundV/K5hQEcE4VyD0DkQHN5CoK8vr1QPxCzZc8AGMZMEIWsa9G0pB0KUBOK8sEG4Pj0xIbfGx2XyhjP+CHtCbwf6/rrfBdpcHy4fhGvpV0uymkrJ8sKCJGfvyd2pKbk5OmJ+s1dkIdCPlYHqgubn5iTal1u6OL+dSBQFwvD+XI1mQVuZsSymbNDVHmdj46RG/f6daXMkBm0LgX69iXmCdO8FipMFPBwo1EdisWx27CwNDwy4ruEeLAoN+r12rVyQswchQ3g4zgfbmqT9VIO0nqyXc8eD0tJclwUAiomO4cO8wrWdQblNUfeuivMwDRruCMto5KiBdbU0Sv/5kPSePWLq8aEhk6XFZFLmZmbk+iBfB7nAMFcVBMxY9zGprakxgXMgmbnT4TqTPf6OQBZPhALS1FBrnlFVEDOEYIe4Fm0NSeTMYdOpBmFoAQWqufGQeQ5A2KWJKQqEFUIQAteQiUIgDFug9oCBAWUH5xtheBYyVGR2ULxB6JhZ0iDMJYI48XcFRBSuoVNMZMLinc2uDNUHDmYnOmEaw2HjTo267t2j5IM4j+wgDAiAGoM1Lgyyo+9BYA5hDyphH3JA9rBxc+TuiyXMDgjiSrKD+w/a4z3GVVYxiCgbhKPOHF4bNpxt8WFWEQjLficQ2tifHMTYIGYnHxQvfR/ymkc2CPU9B+l5pEH2J4cN4nuMIHy6VgBCyV8dXmFj7CCI2dEgRgkgn4/b+nahgXbYw1UVULFFI4vBMnJt96hopFfoe/Z1+Q9EAJGCaBjQSwAAAABJRU5ErkJggg==",
     "wiki_name": "Steel locks",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_locks",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1418,
     "name": "Javelin",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "A javelin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xs3Xb0sUURTH8d030WNfQk8iQoKiVxAEQRBEIPWgJwvBhqtiiUVRURQGFSUWqYWViNkfhRXT/hH9k97Oze8Mv/HM8e62407hhcPMztyZ85lz79xhK5Wd36ohHrHz/7xVw4uJoTAzPpDEs4eNMH2/PwkhlueuhubslbD08nIE5R+ia3gKEgqQwmMWn18Kr5+O5hLzm3M+8qhCyGqYfTS8BcUWiEKghemRMPfkfNKXbQxEf4teX5sIP1bubQ8lEPuqjkBvZy4mIPVtBeK6X6vj4fenyY2YSkDk2N3Tk4TP7lpadj21QCSNgeYnL2Qg9gXiPgKtzF/LgdgXyGd3rZobBhJpcvPbg0gOQsMrEPfZNUayFLW2cKM8kKrEsRhIlRSIe4w0GkkI9PGNBU0WA2leeBDJPchOaILrRwcHEsy5Wi0DfX53Mwf6+f5B9yCOAxJKlbRvpEBD9XpuDn1ZvFUuiABgQX5Cc23tWG84e7w3h6Hvt+ZYBlr/8DjDFAZZlF5fD7IYwmIE+t68EwX57C1auniRrB1IE9pjqOQW0PLd7YLSNYgK/Q1EH4tpBaJ/DmQWRZ/dtfRmMRDhQTEM11kQ/UoFCUWQgBWXBOxb0OkjezOQH67SQLZKbC0oVh2qGAOtvrpuQFMZpiMQb04MpO8TIPrxahNg+g7vaQkCz2fDVqjD6tA2QX4ecTwGshgP0nDx2SgNJBTHNZHrJ/YnoXnDGwjGVtKCWKUtSCifPdJSUGzYOMb5/pMHkjhzdF+GaQeiol+Xbmcg1qAC61AeZIdNoMG+g9kktpgYiOp0DeIti4E4N3zqUPad0ifDgzTXNFylgfywae6wJSHJ/XAJxD0E4pXPgTbWoMLrUGzYOM55npj9diA7f0oBxYZNT00Szun75kH6bGi4ugTR/J+7ePj5o/AgFkULUhQAVSpa1tuFB9qw86cUUKfNIzvBKjb7/qfmkbHw1+zo9gf1BpmshfmaHgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC10lEQVR4Xs3X22sTQRTH8eQPEfIkIkWCFHxUKIiCCELRB18EwYd6V1QUFRUVQbxQqlSDUrXQosXSQi21pV4Q75c/aeS74Tc5e5zEbLNKBw672Z3d89kzs7OkUln9rRrSkTr/z1s1PB05EsaGD2Xx+O7B0Lg9lIUQ8xPnw9z4uTD77GwC5R+iZ3gTJBQghcfMPDkTph6dyiXmN+d85FGFkNUwfu/oHyi2QBQCvWicDBOjx7O+bFMg+lv096WR8GXh1spQArGv6gg0PXY6A6lvOxDXfVscDj/fPAi/3jYyEDnqtVoWPrtrzbLrqQUiaQo0+fBEBLEvEPcRaGHyQg7EvkA+u2vV3DCQSJOb3x5EchAaXoG4z+b6mohamrpUHkhV4lgKpEoKxD22baplIdDyy8sRRBQCaV54EMk9yE5owmIG+lsVejd9JQf6+vpO7yCOAxJKlbRvZKo6xPuZq+WCCAAW5Cc01+7b3hf27+jLYej7ce56BP1Yvh8xhUEWpdfXgyyGsBiBPr26kQT57G1ac/EiWSeQJrTHUEkP+jx/c6Wg5hpEhf4Goo/FtAPR34Lsouizu9a8WQpEeFAKw3UWRL9SQUIRJGDFJQH7FrRnYF0E+eEqDWSrxNaCUtWhiinQ4vOLEcQqLUxXIN6cFEjfJ0D049UmwAxuWdsWBJ7Phq1Ql9WhtUB+HnE8BbIYD9Jw8dkoDSQUxzWRD+zckIXmDW8gGFtJC2KVtiChfPZEa4JSw8Yxzg/tqmexd+v6iOkEoqIfZq9FEGtQgXUoD7LDJtDhwY1xEltMCkR1egbxlqVAnDu2uz9+p/TJ8CDNNQ1XaSA/bJo7bElIcj9cAnEPgXjlLYg1qPA6lBo2jnOeJ2a/E8jOn1JAqWHTU5OEc/q+eZA+GxquHkE0/+cuHX7+KDyIRdGCFAVAlYqW9U7hgTbs/CkF1G3zyG6wilbf/9Q8MhX+mlXdfgP5EzfbFV3sFgAAAABJRU5ErkJggg==",
     "wiki_name": "Javelin (unobtainable item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Javelin_(unobtainable_item)",
     "equipment": null,

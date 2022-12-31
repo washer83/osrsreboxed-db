@@ -1,7 +1,7 @@
 {
     "id": 13983,
     "name": "Yew logs",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "Logs cut from a yew tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB90lEQVR4Xu2WP0sDQRDFd7/B9jbpBEFIIyISMEiQYAhIbFKkSZPGIoogIlaChSCI4OcdnT3f3ezk9rKXHCZgBl6R5HLz2zd/7ozZxS62LiwtaiORJe+0DfWODQ1ODY3ODI17bhNQNoCYDh1N+pkA1G611oXStsfFSWdXzoNoNQSUJeHTsvjk7IB0gU/PCRkkpoaAfmBOnNek4+jmupBOCMlr5HUAOtgzv26uFJamXUdfz0Ov23F5sjIQLQCxo2u4ZHMYAGkoKfyuJYEA0wgQl01D6eRlYge5z9Z0hyMOlCIGlv3DQ1BMZK0oxlgCsbindOIYBHYPptNP6KGhzn6txrb5ImOlwKB8GgTCvbCP5JJcAmZpdGR84mCp8efu4uhjN8USy90ke07DV0Ble+fj8ZLe7vv0eneR3xAw8uQxkNg6iJW1otEtzc4dfT4N6P0hBMKCDJxTKoPQMLWBsAgZiF1CEpRMly1FZT2XDMQJGQhlgzux5tbJq0BWBuKSSSD5+EgF0hBSvif74aKMAvk+6WaNzWV7mfdqO6QB5HUYebw1VLiDKJ7waGJeBTEgDaW/R2lY2XiHqnBHxuIfJRAr5oCE0PdAci2dvTTCP4SvIViUgMknUUHoxMnJ06KAkjDLIPRdGo4MCq5sCEJHuRv6qj+NrQH59/ENHkjAgBjDinsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xu2WYWdbYRTHcz9AX+xFqBCiZqZiYjLVUa3FopmsVmoZbQmdsdkonbJVldrs3Sg1ZswY+5pnfvfu5J57cp/b2yWWsh7+0jy39zm//J9zzr2VynVcx5WLSMY1k0iSLzdrstqqy/pSQ56s3JSttVuzgIoyEHv9pgx7TdnuLo6AWo3GpFDe9rBI/GbrrrzabMmLjTuxgEJTAorijfi1/fsL0mnXYwc4Dv5mHQgSAgGMFWtoSkCRDDvz8rw7L6/7NTncXpKDZ/dk/2k744KCsO6lYApUr1b+uPlXEcnBZl1+fuzHygOyMFzLE9cUiNqawKVoBIPe7y5noFR8Zz0kC6QwUwHi2CyUBWE9JByk06i3CdwhskD7GzU5Ho4nzJNCA0OdUfg0RdqRl4q0jS2QhQqBKYR2ls4fYKifXvuGrDbnLgOVzBKVh7EO+DrRruN4Bp3bMQif7MMagPZ6CbciGaxU48R6M0noNPSyl7S+il+tjwSf2N5vu9DCq4MFUMnc+fHhkXw97srZYWe0IQXNhtY9C2Ed8BC+AfKAAoUeydEgmTsAnb9LgRiOO2vV0ezR41GFIPxIsHVWCoij+fXpsXw7Wc8AsY5LgPmEIXkQX/jafYVAJAXo+2lPvhw9jIGACM0jVARiYbQ7WVMgjroQiMIlqdaRFnUZoBCIhUEcKyAlJndS1HQZDnFsn98+GHOoqP09jM4r1iwIM4k3hgJ3NNInPMIhRkFZILtua4UCTto7qwJ3bIzfaIGQPQ4LoG8CQPg9NLmXz54b2RuyryE4pC4BYh8VFwH4PBNECgWMOnIRhN9lypFAAYIjM4Lwke+G/69/GlcG5L+P394bAgoA+1H7AAAAAElFTkSuQmCC",
     "wiki_name": "Yew logs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yew_logs",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20841,
     "name": "Corrupted platebody",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-12-14",
     "duplicate": true,
     "examine": "The platebody of a forgotten warrior, corrupted by the dark altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xu2WW2/TQBCF48c8VIoUpcFxHJI4qBVQUaGqghJxDZTQUi6Cci/lgf//E4Y96x57MrGL6xaeMtKRFe/uzLczs940Gitb2X+xQHLZ32Xv/4mlzsNm4hU3N/3vO609udnakWTttnuXSLsR+vct96SuGCx1NnQBtUZr27Lbfip321PZau3Khvs9cpBhc7AEtAxWGy6QDRcscRkAgIbBGIB22o8Ks2RhrGpABbLpAmkgrXudWQaks0QoC2AF/9vDYVWoFIbSUHhi3AJZKGSp48pnZaFs5BIL5JYLoIEIBe119heAKJRO95OFsVAVs5TCUDZLGCcQBTA2OPsJUGhwnsoioApZCmTL7RQqg3rYPZBpd+4FMA2n+ymHSoEsWMUs5UBlUI+7Rx6qCEyfOpYODV4EdaEsQU/CNz4Yds5d8z2gisBYPl069BIa/Hn4wa/FfMBjDmMhQ+dkCRb4gAjCAFw8C997xxaMmbJZwonDOg0EcG6wAgwszQQDwDmB4BhQBLNANktFQABG9ghkoxdYDsTdEmg/Os6gzgNig6NkGojlImgtIKaXJauSIbsRAGEuy0XQykBYXATE/tF99DegNGjg52GsNhBPGG9wvtfSJ80C6ca9NJBezIV0/HbwW17Hv7wO4p9eh4NTmUc/XI99deX5JM9cie47QA2EDdQG4pHHx007tSAQQF71T+Rl/9sZ0GcPNF0/yqAuDYT0owfwpaXDeHLDwZw6iJNMgNFAL3pfzoA+uh57Jw86h7I+ijIftZsaO8G3gn9JmaF4Msk0j75nQIAh0Kx3LL3xSMLxdbnmpNdzoxcASu8z3Oy4d5YvwHSnUD9JnCYS+WfinmOvXjLK5nAtgXAv4n+V9r0Yv9ByZ4sOU9MBysQ5dm3ZvHy8xModLpqdV2eNHV/Zyq7K/gD5Bl04pOCgxAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu2WW2/TQBCF45dIfUiJFTtOikoSKQ+ggqi4SkFtaQmhVUEUyqWKoAipQuL//4Bhz1rHnkzs4rqFp4x0ZHkvM9/OznrdaKxsZf/FAsll38va/4mlzpPm2Ot2c8u/P27ty/3WRMZrD13bWNqNxLe33JO6YbDU2cAF1BqtPZEX7XfyvD2V7daO3HPvIweZNDeXgJbBasMFctcFG7sMAEDDoA9Ak/ZRYZYsjFUNqEC2XCANpLXXOcmAdJYIZQGs4H97OKwKlcJQGgpP9FsgC4Usddz2WVkoG7nEAnngAmggQkH7ndMFIApbp+vJwlioillKYSibJfQTiAIYC5z1BCgUOE9lEVCFLDlit1KoDGoWzWUaffUCmIbT9ZRDpUAWrGKWcqAyqKPo3EMVgelTx61DgRdBXSlL0Nvkpw+GlXPVbAdUERi3T28dagkF/jH55ediPOAxhrGQoUuyBAt8QARhAE5+n1x4xxaMmbJZwonDPA0EcC6wAgwszQQDwDmB4BhQBLNANktFQABG9ghkoxdYDsTVEuh043cGdRkQCxxbpoG4XQStBcT0csuqZMguBEAYy+0iaGUgTC4CYv3oOvobUBo08OPQVxuIJ4w3ONu19EmzQLpwrw2kJ3MiHR93L+Qw/uE1i7+n6uJUzuXAge2Gn2QnPJFH64sZwgJqA/HI4+OmnS6BOAFkGs/lVXzmgfbCzx7o2a3DDOraQEg/agBfWjrs90fyJj6X1/G3TB5GAb3sfPFAu+EHmYTH8nR9JmE3/zmrXdRYCb4V/CVlhnr9YaaD6CwDAkwG5BbT7W1K3NuQyEnP50KvABT4eww3O+6d5QswXSmU9AceLH0OJOnd8QKMHqfrD/ci/qu078X4hZY7W3SYmg5QJo6xc8vG5f0lVu5w0ey4OnNs/8pWdlP2B8AAZthznWe9AAAAAElFTkSuQmCC",
     "wiki_name": "Corrupted platebody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_platebody",
     "equipment": null,

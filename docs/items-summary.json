@@ -1829,7 +1829,7 @@
     },
     "716": {
         "id": 716,
-        "name": "Bull roarer"
+        "name": "Bullroarer"
     },
     "717": {
         "id": 717,
@@ -1881,7 +1881,7 @@
     },
     "729": {
         "id": 729,
-        "name": "Shamans tome"
+        "name": "Shaman's tome"
     },
     "730": {
         "id": 730,
@@ -13926,10 +13926,6 @@
     "5605": {
         "id": 5605,
         "name": "Knife"
-    },
-    "5606": {
-        "id": 5606,
-        "name": "Makeover voucher"
     },
     "5607": {
         "id": 5607,
@@ -31989,7 +31985,7 @@
     },
     "12727": {
         "id": 12727,
-        "name": "Event rpg"
+        "name": "Goblin paint cannon"
     },
     "12728": {
         "id": 12728,
@@ -47829,39 +47825,39 @@
     },
     "25484": {
         "id": 25484,
-        "name": "Toxic blowpipe (beta - bronze)"
+        "name": "Webweaver bow (u)"
     },
     "25485": {
         "id": 25485,
-        "name": "Toxic blowpipe (beta - iron)"
+        "name": "Webweaver bow"
     },
     "25486": {
         "id": 25486,
-        "name": "Toxic blowpipe (beta - steel)"
+        "name": "Ursine chainmace (u)"
     },
     "25487": {
         "id": 25487,
-        "name": "Toxic blowpipe (beta - black)"
+        "name": "Ursine chainmace"
     },
     "25488": {
         "id": 25488,
-        "name": "Toxic blowpipe (beta - mithril)"
+        "name": "Accursed sceptre (u)"
     },
     "25489": {
         "id": 25489,
-        "name": "Toxic blowpipe (beta - adamant)"
+        "name": "Accursed sceptre"
     },
     "25490": {
         "id": 25490,
-        "name": "Toxic blowpipe (beta - rune)"
+        "name": "Voidwaker"
     },
     "25491": {
         "id": 25491,
-        "name": "Toxic blowpipe (beta - dragon)"
+        "name": "Accursed sceptre (au)"
     },
     "25492": {
         "id": 25492,
-        "name": "Black d'hide body (beta)"
+        "name": "Accursed sceptre (a)"
     },
     "25493": {
         "id": 25493,
@@ -52157,7 +52153,7 @@
     },
     "27339": {
         "id": 27339,
-        "name": "Liquid adrenaline"
+        "name": "Liquid adrenaline (2)"
     },
     "27341": {
         "id": 27341,
@@ -52173,7 +52169,7 @@
     },
     "27347": {
         "id": 27347,
-        "name": "Ambrosia"
+        "name": "Ambrosia (2)"
     },
     "27349": {
         "id": 27349,
@@ -52198,5 +52194,581 @@
     "27358": {
         "id": 27358,
         "name": "Tome of fire"
+    },
+    "27359": {
+        "id": 27359,
+        "name": "Masori assembler (broken)"
+    },
+    "27361": {
+        "id": 27361,
+        "name": "Masori assembler max cape (broken)"
+    },
+    "27363": {
+        "id": 27363,
+        "name": "Masori assembler max cape"
+    },
+    "27365": {
+        "id": 27365,
+        "name": "Masori assembler max cape (l)"
+    },
+    "27366": {
+        "id": 27366,
+        "name": "Masori assembler max hood"
+    },
+    "27368": {
+        "id": 27368,
+        "name": "Dawn scarab egg"
+    },
+    "27369": {
+        "id": 27369,
+        "name": "Ancient key"
+    },
+    "27370": {
+        "id": 27370,
+        "name": "Mask of rebirth"
+    },
+    "27372": {
+        "id": 27372,
+        "name": "Masori crafting kit"
+    },
+    "27374": {
+        "id": 27374,
+        "name": "Masori assembler"
+    },
+    "27376": {
+        "id": 27376,
+        "name": "Masori assembler (l)"
+    },
+    "27377": {
+        "id": 27377,
+        "name": "Remnant of akkha"
+    },
+    "27378": {
+        "id": 27378,
+        "name": "Remnant of ba-ba"
+    },
+    "27379": {
+        "id": 27379,
+        "name": "Remnant of kephri"
+    },
+    "27380": {
+        "id": 27380,
+        "name": "Remnant of zebak"
+    },
+    "27381": {
+        "id": 27381,
+        "name": "Ancient remnant"
+    },
+    "27382": {
+        "id": 27382,
+        "name": "Akkhito"
+    },
+    "27383": {
+        "id": 27383,
+        "name": "Babi"
+    },
+    "27384": {
+        "id": 27384,
+        "name": "Kephriti"
+    },
+    "27385": {
+        "id": 27385,
+        "name": "Zebo"
+    },
+    "27386": {
+        "id": 27386,
+        "name": "Tumeken's damaged guardian"
+    },
+    "27387": {
+        "id": 27387,
+        "name": "Elidinis' damaged guardian"
+    },
+    "27388": {
+        "id": 27388,
+        "name": "Adventurer's top (t1)"
+    },
+    "27390": {
+        "id": 27390,
+        "name": "Adventurer's trousers (t1)"
+    },
+    "27392": {
+        "id": 27392,
+        "name": "Adventurer's hood (t1)"
+    },
+    "27394": {
+        "id": 27394,
+        "name": "Adventurer's boots (t1)"
+    },
+    "27396": {
+        "id": 27396,
+        "name": "Adventurer's top (t2)"
+    },
+    "27398": {
+        "id": 27398,
+        "name": "Adventurer's trousers (t2)"
+    },
+    "27400": {
+        "id": 27400,
+        "name": "Adventurer's hood (t2)"
+    },
+    "27402": {
+        "id": 27402,
+        "name": "Adventurer's boots (t2)"
+    },
+    "27404": {
+        "id": 27404,
+        "name": "Adventurer's top (t3)"
+    },
+    "27406": {
+        "id": 27406,
+        "name": "Adventurer's trousers (t3)"
+    },
+    "27408": {
+        "id": 27408,
+        "name": "Adventurer's hood (t3)"
+    },
+    "27410": {
+        "id": 27410,
+        "name": "Adventurer's boots (t3)"
+    },
+    "27412": {
+        "id": 27412,
+        "name": "Adventurer's vambraces"
+    },
+    "27414": {
+        "id": 27414,
+        "name": "Giant stopwatch"
+    },
+    "27416": {
+        "id": 27416,
+        "name": "Speedy teleport scroll"
+    },
+    "27418": {
+        "id": 27418,
+        "name": "Bronze speedrun trophy"
+    },
+    "27420": {
+        "id": 27420,
+        "name": "Silver speedrun trophy"
+    },
+    "27422": {
+        "id": 27422,
+        "name": "Gold speedrun trophy"
+    },
+    "27424": {
+        "id": 27424,
+        "name": "Platinum speedrun trophy"
+    },
+    "27426": {
+        "id": 27426,
+        "name": "Dynamite(p)"
+    },
+    "27427": {
+        "id": 27427,
+        "name": "Clue scroll (special)"
+    },
+    "27428": {
+        "id": 27428,
+        "name": "Hood of ruin"
+    },
+    "27430": {
+        "id": 27430,
+        "name": "Robe top of ruin"
+    },
+    "27432": {
+        "id": 27432,
+        "name": "Robe bottom of ruin"
+    },
+    "27434": {
+        "id": 27434,
+        "name": "Gloves of ruin"
+    },
+    "27436": {
+        "id": 27436,
+        "name": "Socks of ruin"
+    },
+    "27438": {
+        "id": 27438,
+        "name": "Cloak of ruin"
+    },
+    "27440": {
+        "id": 27440,
+        "name": "Infinite money bag"
+    },
+    "27442": {
+        "id": 27442,
+        "name": "Adventurer's cape"
+    },
+    "27444": {
+        "id": 27444,
+        "name": "Graceful hood"
+    },
+    "27446": {
+        "id": 27446,
+        "name": "Graceful hood"
+    },
+    "27447": {
+        "id": 27447,
+        "name": "Graceful cape"
+    },
+    "27449": {
+        "id": 27449,
+        "name": "Graceful cape"
+    },
+    "27450": {
+        "id": 27450,
+        "name": "Graceful top"
+    },
+    "27452": {
+        "id": 27452,
+        "name": "Graceful top"
+    },
+    "27453": {
+        "id": 27453,
+        "name": "Graceful legs"
+    },
+    "27455": {
+        "id": 27455,
+        "name": "Graceful legs"
+    },
+    "27456": {
+        "id": 27456,
+        "name": "Graceful gloves"
+    },
+    "27458": {
+        "id": 27458,
+        "name": "Graceful gloves"
+    },
+    "27459": {
+        "id": 27459,
+        "name": "Graceful boots"
+    },
+    "27461": {
+        "id": 27461,
+        "name": "Graceful boots"
+    },
+    "27462": {
+        "id": 27462,
+        "name": "Fresh start helper"
+    },
+    "27463": {
+        "id": 27463,
+        "name": "Treat cauldron"
+    },
+    "27465": {
+        "id": 27465,
+        "name": "Treat cauldron"
+    },
+    "27467": {
+        "id": 27467,
+        "name": "Treat cauldron"
+    },
+    "27469": {
+        "id": 27469,
+        "name": "Treat cauldron"
+    },
+    "27471": {
+        "id": 27471,
+        "name": "Treat cauldron"
+    },
+    "27473": {
+        "id": 27473,
+        "name": "Witch hat"
+    },
+    "27475": {
+        "id": 27475,
+        "name": "Witch top"
+    },
+    "27477": {
+        "id": 27477,
+        "name": "Witch robes"
+    },
+    "27479": {
+        "id": 27479,
+        "name": "Witch boots"
+    },
+    "27481": {
+        "id": 27481,
+        "name": "Witch cape"
+    },
+    "27483": {
+        "id": 27483,
+        "name": "Terrifying charm"
+    },
+    "27485": {
+        "id": 27485,
+        "name": "Bruised banana"
+    },
+    "27488": {
+        "id": 27488,
+        "name": "Smelly sock"
+    },
+    "27491": {
+        "id": 27491,
+        "name": "Spooky egg"
+    },
+    "27494": {
+        "id": 27494,
+        "name": "Old wool"
+    },
+    "27497": {
+        "id": 27497,
+        "name": "Halloween wig"
+    },
+    "27499": {
+        "id": 27499,
+        "name": "Halloween wig"
+    },
+    "27501": {
+        "id": 27501,
+        "name": "Halloween wig"
+    },
+    "27503": {
+        "id": 27503,
+        "name": "Halloween wig"
+    },
+    "27505": {
+        "id": 27505,
+        "name": "Halloween wig"
+    },
+    "27507": {
+        "id": 27507,
+        "name": "Halloween wig"
+    },
+    "27509": {
+        "id": 27509,
+        "name": "Divine rune pouch (l)"
+    },
+    "27511": {
+        "id": 27511,
+        "name": "Kasonde's journal"
+    },
+    "27513": {
+        "id": 27513,
+        "name": "Word translations"
+    },
+    "27515": {
+        "id": 27515,
+        "name": "Dirty note"
+    },
+    "27516": {
+        "id": 27516,
+        "name": "Dirty note"
+    },
+    "27517": {
+        "id": 27517,
+        "name": "Dirty note"
+    },
+    "27518": {
+        "id": 27518,
+        "name": "Warning note"
+    },
+    "27519": {
+        "id": 27519,
+        "name": "Stone tablet"
+    },
+    "27520": {
+        "id": 27520,
+        "name": "Stone tablet"
+    },
+    "27521": {
+        "id": 27521,
+        "name": "Stone tablet"
+    },
+    "27522": {
+        "id": 27522,
+        "name": "Stone tablet"
+    },
+    "27523": {
+        "id": 27523,
+        "name": "Wood carving"
+    },
+    "27524": {
+        "id": 27524,
+        "name": "Wood carving"
+    },
+    "27525": {
+        "id": 27525,
+        "name": "Wood carving"
+    },
+    "27526": {
+        "id": 27526,
+        "name": "Wood carving"
+    },
+    "27527": {
+        "id": 27527,
+        "name": "Wood carving"
+    },
+    "27528": {
+        "id": 27528,
+        "name": "Wood carving"
+    },
+    "27529": {
+        "id": 27529,
+        "name": "Wood carving"
+    },
+    "27530": {
+        "id": 27530,
+        "name": "Wood carving"
+    },
+    "27531": {
+        "id": 27531,
+        "name": "Wood carving"
+    },
+    "27532": {
+        "id": 27532,
+        "name": "Compass"
+    },
+    "27533": {
+        "id": 27533,
+        "name": "Wood carving"
+    },
+    "27534": {
+        "id": 27534,
+        "name": "Wood carving"
+    },
+    "27535": {
+        "id": 27535,
+        "name": "Wood carving"
+    },
+    "27536": {
+        "id": 27536,
+        "name": "Wood carving"
+    },
+    "27537": {
+        "id": 27537,
+        "name": "Wood carving"
+    },
+    "27543": {
+        "id": 27543,
+        "name": "Antique lamp"
+    },
+    "27544": {
+        "id": 27544,
+        "name": "Ghommal's lucky penny"
+    },
+    "27546": {
+        "id": 27546,
+        "name": "Anim offhand"
+    },
+    "27548": {
+        "id": 27548,
+        "name": "Anim offhand"
+    },
+    "27550": {
+        "id": 27550,
+        "name": "Ghommal's avernic defender 5"
+    },
+    "27551": {
+        "id": 27551,
+        "name": "Ghommal's avernic defender 5 (l)"
+    },
+    "27552": {
+        "id": 27552,
+        "name": "Ghommal's avernic defender 6"
+    },
+    "27553": {
+        "id": 27553,
+        "name": "Ghommal's avernic defender 6 (l)"
+    },
+    "27554": {
+        "id": 27554,
+        "name": "Perfect gingerbread"
+    },
+    "27555": {
+        "id": 27555,
+        "name": "Broken gingerbread"
+    },
+    "27556": {
+        "id": 27556,
+        "name": "Very broken gingerbread"
+    },
+    "27557": {
+        "id": 27557,
+        "name": "Shattered gingerbread"
+    },
+    "27558": {
+        "id": 27558,
+        "name": "Sack of coal"
+    },
+    "27559": {
+        "id": 27559,
+        "name": "Snowball"
+    },
+    "27560": {
+        "id": 27560,
+        "name": "Golden snowball"
+    },
+    "27561": {
+        "id": 27561,
+        "name": "Light beer"
+    },
+    "27562": {
+        "id": 27562,
+        "name": "Mulled pine"
+    },
+    "27563": {
+        "id": 27563,
+        "name": "Eggnog"
+    },
+    "27564": {
+        "id": 27564,
+        "name": "Santa's list"
+    },
+    "27566": {
+        "id": 27566,
+        "name": "Christmas jumper"
+    },
+    "27568": {
+        "id": 27568,
+        "name": "Snow goggles & hat"
+    },
+    "27570": {
+        "id": 27570,
+        "name": "Sack of coal"
+    },
+    "27572": {
+        "id": 27572,
+        "name": "Festive nutcracker top"
+    },
+    "27574": {
+        "id": 27574,
+        "name": "Festive nutcracker trousers"
+    },
+    "27576": {
+        "id": 27576,
+        "name": "Festive nutcracker hat"
+    },
+    "27578": {
+        "id": 27578,
+        "name": "Festive nutcracker boots"
+    },
+    "27580": {
+        "id": 27580,
+        "name": "Festive nutcracker staff"
+    },
+    "27582": {
+        "id": 27582,
+        "name": "Sweet nutcracker top"
+    },
+    "27583": {
+        "id": 27583,
+        "name": "Sweet nutcracker trousers"
+    },
+    "27584": {
+        "id": 27584,
+        "name": "Sweet nutcracker hat"
+    },
+    "27585": {
+        "id": 27585,
+        "name": "Sweet nutcracker boots"
+    },
+    "27586": {
+        "id": 27586,
+        "name": "Sweet nutcracker staff"
+    },
+    "27588": {
+        "id": 27588,
+        "name": "Festive games crown"
     }
 }

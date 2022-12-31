@@ -1,7 +1,7 @@
 {
     "id": 4236,
     "name": "Signed oak bow",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": false,
     "examine": "This bow has been signed by Robin, Master Bowman.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUElEQVR4Xu3WsUoDQRAG4OwbWF2zzUJewPdIaSFil0JBLAKHxlMMEYIoBBQCQUJAJahoI4gggiCCEHyqX2aHYXW1jJkp/GGbheM+bv/d21rtP+bikM8oxqG/XcAAigA8Ou02dstSA5UQk2OPwV4RMTK3GEIc+VMzTkLcDzxuTzxOd3iJBCOQP8Yw4uU84PEsREjqyk9M/vSM4/B6GfA0CrjuexyVCaKCoa9CHem1EoRfrIB5vwoYdgqsNBayF88dQ+Hds75sBEPlrdaMYGippDPqGBqjA6+NYcjzOMQTt7mUlkoFQ+fMuOex1WSIKoZO3fyMEUy3quaLeRgGbK5+30lKGMpv5eV5FQz1Zn8jbW2ZV8BQuDvKnZHwwSf3GGUMxcWrhBnM9KaOi0NeLmUMhctsBvNxV493YQMYisPbRL0zX8PXUSMYSf6/MhBTGAv5BC0+kCXcYU7KAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTklEQVR4Xu3XMUsDQRAF4LvSYov9ByksLVIoQkAQBTGQQgUNqIhGjVwgksLCwsJCsBAECyGQHzvydhg2btqYN4UPFsLCcR+7s7OXqvqPu9RSzhBTy93+mjhAAaDjcTiU0WDAQGXE80mQcTckjM21W600yqeWnIx4Ow/ychqkOdAtMoxB/hijiM+bKO+XCsm1sogpn15yavm6jfJxFdPWXO9mCAWDVXk6CnKxkyH6YgLm+z6mYt1ar4oXrxyD6OnZ23CCQfEeb+s20THYKiteOgZj0gtsjEJwtNHo5uuGgkGfwar0Nh0cbXTdsscYZtI0q8XgPjps/y5eEgapU9NbfCkJgyvhrJNXx+YJGERrh1wzFm189vlAxiB6LbjBTB/0cwK/yRhEm6AbzGwU5bWvq0PGIFrMbjAY6D0uMNgmdOX5RkjCWPK/BAcYjUHYmB8qMoItF7e0TgAAAABJRU5ErkJggg==",
     "wiki_name": "Signed oak bow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Signed_oak_bow",
     "equipment": {

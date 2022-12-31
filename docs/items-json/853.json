@@ -1,7 +1,7 @@
 {
     "id": 853,
     "name": "Maple shortbow",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "A shortbow made out of Maple, still effective.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdElEQVR4Xu2W20rDQBCGu2/SR+gLeVFELVSLUmtqDSEhWqs9GOuhqIiIgiL2wiccmYRNs7MbKU1314v8MBfLHuZjZnZ2K5VSpagYqM2KGNwFJzALXXg48+Dp3IfnQQAvl6ENKAbDbhv26xuK6DCoVaux0V0alDj0HAf6nZbgnBrdqUEJCLfgoJkC0ZUGJMJg3fithg2gRYq44fjGPwZ3d8c0kAjCYdCuPcc0UD7M6+gUrtwj6DW3TACpU7RwzOI+M+4dQrexqRtIHRXxKrO4+WEP6mzXdQL9DcPXYHSwfsL2ni4gOUV5MPg8YKr4HnlNYalBREfJGN8sOmcERnSUpAh7jjy3Ni2fIuzGFEY8q7BkkGyasmYFJguAzQ6vMxYu1gveJGx+HIieVlAyzNftGD6iC3ib9OM6wc8VRoVGSlt0fh6nMJ9FEkgegKYC5mLwfT+Bz+nQFgAVS2Goc0MAVAzeo0EKRGctSVuBrq5/BVOq1Ir6BWYR6wZDqQy7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMklEQVR4Xu2WsQrCMBBAm7FD/qGf4CAIgiAIgtBBBRXUwUEKDoqDg4ODg+Bnn1zDtc0lFWxJ4tAHN5Qmvcddrm0UdXRwBNgjCALOMwnXVMVtruK+lCGkBBwnMaT92FIdAb0kyYPvcoBKeMkyOIyVDCXnwXc6QIlQ7EalEF/pAV0Gz856GESobBEFXp+mcQghXYRkAgnVy+Bo44QtBl6E7C0qE3sVsldFH2VvQt9laA3K4PnBkXckZLaoTgY/D1gZ2mOuaY1dRE+krvG9w+95kdETqRaRjAMJ5LcWcRn9Wa0xRaptqkYQmaoA/sNge0gEJwmDhPjTWmLKPDcSHiv1M1UV4ZVyVp33XsJrKw2ROgFHB5gQhUwgAY4oZHhyTwIckbeJhPjdQDg7oM35K5mOjoZ8AKX4rvQFQqwqAAAAAElFTkSuQmCC",
     "wiki_name": "Maple shortbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_shortbow",
     "equipment": {

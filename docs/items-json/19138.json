@@ -1,7 +1,7 @@
 {
     "id": 19138,
     "name": "Anchovy pizza",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "A pizza with anchovies.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xu2WwUtUURTGvf9EGzcD7Vq5bSEUES0MQZRiEMMUG9CMKUutiWHSzNQmxrS0NNRERcVUZDJKQYlaFP1Np777OO+dOfNmvDOMBDEfHGTGN+/++M5377k1NVVVVdU/lyH3OnUZym5u2Ho12k3poVv0PNnhf/fuXC319TRTPNZE3R1XTxvO0NLr+/7ibyZuWygJg0rci/rf9XY1Uqy9gdqjlysNZmjl7QAtz/TTwlSfXWw2fYemx3pyYFAMMxi/Tv29Lb5bna1XqO3axUq4Zmhr8TGtzQ1aKLj0fvIuzWXi1iVASaDjowilBtoo+aA1DxIFt6LNF6ilsb4cKEN7q08s0Pr8IwslF5cQsvT/UWgfO8VQeH9dJOIKFQRYv5wh9GcNhN/yZ4SdM8XtYyi9cogMHe2O05etZ0WBXAvPc540lKNLho73XtDBx1HaXx8OhdKLhpV8HiGXRwLvviDoRRUAfd4YyYORxW0pVvJZLgnl4JKhb9k0He6MWSC4hHDvLqdswKVLchENooF0ceuCc6qgPCDOEaCya0MWavtDMgdKVyEI3XbedYBih4q4ZOj34bQFQtsAZbP0F0ovpEEk0ESqM2+0cHHAz0bOuLQM8nKEtoVlSbaKF9NAetbxc9hxCHhTw3kXd1hB2wAFl8KA5He6Mk9jvkvDD2/YExyzDjsO2SkBhmXo+6eX/o7TQPiLPG0uJPJAudilkcRNC4WRwjeBEmEgQ78OpujHfiYn5JwnGXKMFobCrOPhq11Cdi7V17nmJkxewH9+nfTd4uMAUDgKAAWXMOv4RsDDV96bkB157pQJBHnXBekUB11CwSV5I2AgwCA7jlvcTd4LgrsMt062TTuEdiE7CDG2eMVgpIIXemB8eqNl7A7ygzYhM2gTQlzCIC1f2rWTquLuFBIv5FL6t1X9d/oDCziO/Ho80ncAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xu2WX0tUURTFPR+gBx+EXgLpsQeRUAJJECUZREWlBlEbylKxicn/ZjYxmENWUlJJoRRmgqKCKJREvSR+ry3rXPa9e/bcmc4MI0HMgo3MeOeeH2uvc/apqCirrLL+uQy517nL0Gai0tbz2V5KTtyix4lu/7vXlyppsK+ZYtEm6u2+ft5wht6n7/mLv5jvt1ASBhW/G/G/G7jZSNHOBuqM1JcazNDHV8O0ujREK4uDdrGXyduUnuvLgEExzEislYYGWny3etquUfuNq6VwzdDGu4e0tjxioeDS24U7tJyKWZcAJYGOf1TR2HA7Je63ZUGi4FakuZZaGmuKgTK0/WncAq2/eWCh5OISQpb+PwrtY6cYCu+vra52hQoCrF/OEPqzBsJv+TPCzpni9jGUXjlEhr5vPaGDjZm8QK6F5zlPGsrRJUPH20/p8Oss7a1PhkLpRcNKPo+QyyOBd18Q9LwKgPY/T2fByOK25Cv5LJeEcnDJ0M+dJB19m7NAcAnh3lp9ZAMuXZKLaBANpItbF5xTOeUBcY4AtbM2YaE2PyQyoHTlgtBt510HKHYoj0uGTo/SFghtAxRcApReSINIoPmxnqzRwsUBv1h1waVlkJcjtC0sS7JVvJgG0rOOn8OOQ8CbGq64uMMK2gYouBQGJL/TlZqK+i5NjnbYExyzDjsO2SkAhmXo1+4zf8dpIPxFnr6sxLNAudil6XiXhcJI4ZtAgTCQoZPDRfq9n8oIOedJhhyjhaEw63j4apeQnbqay665CZMX8D8HC75bfBwACkcBoOASZh3fCHj4ynsTsiPPnSKBIO+6IJ3ioEsouCRvBAwEGGTHcYu7yXtBcJfh1sm2aYfQLmQHIcYWLxmMVPBCD4xPb7SM3UF+0CZkBm1CiAsYpMVLu/a3Krk7ucQLuZT+bVn/nc4Az2Ymn0vn4OcAAAAASUVORK5CYII=",
     "wiki_name": "Anchovy pizza (Full)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Anchovy_pizza#Full",
     "equipment": null,

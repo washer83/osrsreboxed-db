@@ -1,7 +1,7 @@
 {
     "id": 5051,
     "name": "Skirt",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "Lilac skirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xs3WW0tUURQH8Jkv0fM89xTBIBKCISIyg4w4KONQNIQUdsEMS7JEzaamNLXMqOkiGl4KSxMzU2HMWxZhF+nrrPzvwzqus2c7zOUUblh45lzcv1nr7L3G4zn4w0vmMF3/58NL70baaWr4uoo3L9to8tk1FYxYme2h1MxdWp5OGFD6lygYboEYBRCHjll6e5s+vr7lmBifcU0PJyonpJdmRjvSUPgLCAeD5idv0uxYp7oXf00g3C/ROxsj9HM1mR+KQTjm7DDo01Rcgfje/UB47vf6MP3ZGt+NCQXCHEd8PhX67Nqw0s7fmkGY1ASaG++yQTg2gVbneh0gHDNIn10bXkcZMBG/3PgMkEx9ppCgjfl+90CcJZzD9c81vbQYukNzwS6aqrxBo+VXKHm8iR6UNFKi+DR1+KPUcjTsQH1ZkKDx3ED8XuggXk3bkSHaDPdTqvoezVd103Sgg8YqWul5WbONavPXO0BfFwccoF9rLwoH4dqTUy00dOIyDdQ3UU/dOYqHz1BnaBcQPEktlfV0sTxMZ0tDFDsWcIC+LT10F4SQoMHoJeqLXMgKhAWwnRqyQTubr2xMziCJMoEStY3UXdNA7VUxag1Eqbmijs6X1aSBfqQeG0H67PsMa5VgCWcCmcq2L2jlab4gaw9ChvIBoWwANZQEbRC2CgdIbIr67NqwlrwJhGvJ2NU0kCybDooUlannXAUxKhMIWeL3SL7YroNklkzlYgwyxGWTLzaD1j/cF6AJG5MVCCssH5BeNmSJQWgbMkNZZgdjDyTLhvOAZMJwlnj5SxDahmsg7l+ZQIAwSi7/sL9UPYtdWoIYpc9uGBZILxvOA2LCMIhR/HJL0PflQRuEPSiHfcgJYpT6p3WPVGzVDtBauE811uXqhOr6erwPdqpmiwZbfOiwej5vEFaZBOEcJgdChyyE4irQ8RE4h+vo/uj8AAV9Re6AZNmseucfjpLt7kE570OmsuE8ehJ+iuKYf94isJNzI8Zz3L9wL/aggkF62XQQrsmfJRKE+7h/uQDCSE+5KSRGhg7CpihBHDmAPB7e1jOFDpSBTAKE7LgCynboyGywHHv3/qehI02hP3Ogx1/I6xbyR23hvgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xs3W70tTURgH8LuXe9HLXga+CIm9kJBEiomyUawwaZJLsiRLCwrRfiCNkKiIICQhkqKICitGZtaQ1bJfhEgQEUFEhFn/yRPfc3i2cx/Pbru72/DAF7f7g/PZc+49j46z9keI7LGdr/kI0dxkkmav7VGZmeiizNXdKoxYmj5Aiw/66OO9/RaU/BGB4RrEKIA4EvPhbi8t3E65JsZ3nJNxo3whQ5S93r0Khb+AcBiUv5mi+Rt71bX4awPhehO9kh+l5fmjlaEYhM9cHQa9u7NPgfjaUiDc9/vlMP1ZGKO/b9IKhDk2NzSoyNnF0GXnX80gTGoD5aZ6CiB8toE+PTzoAuEzg+TsYoRcy4CJGITvAJml94oJ+vy4v3ogrhJ+Pc6/io3T8/azlImeovtbh2mqZYgmmvvpUlMvpSPdNNK4iwY3xl2oL5kiCPEF4udCgnAM55cSV+ht/ALlOs7RTNsZmt42Qrdaj9HkloEC6kTjThfo65NDLtBy7nhwEM719YQplQxTslOnMxGmRCxMsTZHJdrqUEuzjgn6Pnu4tiBGMYhRNhBegB9zRwqglfzpAqYmILNKADHKBP18MWgFydlLDP2W4CE2UTaQ17KZoF/ZoUpBeg9ChfyC5LKVBhU3RTm7GPqVt4EYUwoklw2gpohGYe+qK0guW11BjPFTIbQNBmGXZkxZILxhDDJREiSr4wVC2zArVGZ1MOwgHDcrY6uODcUgtI3AIHPZJMhWHS/Qt6cDLhCj5OyW8X+QF6YUCG2DQdiDfOxDGmQuG4MWd1xWeb/9Ir2On1eNNduRVl1f5lH0pGq2aLCRdRvU/VUD4RgmB0JCnrWPqaDjIziG8+j+6PwARddvCgbCay8fbL3elce9ZKP+9yHbc4RjaAPY5PCZ/71FsE/hO8LXoV3gWuxBVQHJ50iCuL9JEO43QdiDAoAwVpfcFhNjhkFcHQni+AA5Dm/rXpFAM+ZyVQVU7pDIcrCc4rV1GhJpi7xnTY9/NZ1WYF8xKNwAAAAASUVORK5CYII=",
     "wiki_name": "Skirt (lilac)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skirt_(lilac)",
     "equipment": null,

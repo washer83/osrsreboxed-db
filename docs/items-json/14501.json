@@ -1,7 +1,7 @@
 {
     "id": 14501,
     "name": "Bronze crossbow",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "A bronze crossbow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu1WXWsaQRTN/IM+9Vnog1AIiBBERDBICBIJEaViwhZjMBajwTQ2lbRI2hCaEART2lAopeSX3npmct3ZcTed9aMfkAMXo+bunj3n3jMuLT3iESYEqfonIOi4UaR2bXNaUlM1BUDQRW+XOvWCJNRwNsKSErSVeR626QEIOus6klCzmqe97XWqvlgLc31BlfVl2RCLRGybAiDo9lOL3nUqY3VAyCmuUmUrY0tK0O5mnGLRp1qDVaMBQXc3Xfp83qSTZkmqA0JQJxmPUnz5me1DK0LRyJN7QiPFivrT2JAT9HN4LNUZnO2P7SrkkpROKPWZjDUhbwM/iaB2nTclaI2VTSByfvKSeu2ytAtksqmY57oWZAB3qPUG929FpNcpU//NjkFOyJuDRP/1jlx12FTKp8ffhyDCEJSO66pMgtXiuuzXaPBxfzzAGFrMCoqHN6QqOvwV8oNu6berQ0kIAwxF8muJCYvMfkuoGcqlovcK2EDQ9fs9aRMUwbzMYJEJQUfbKXI2YpRNqNU0/8MLIVcbaYxN4nmZwSI/CHpVSvzGOqUAK4PVdhM4qGdqCOo6SiVObfN7qIK1xibpRFC31y2fnpmhVMI81QsrnhsiY6BKsEVzmR0TSiWQapWTsoYfGnJWsEk4k7BJwTefu0KAGnAQg0VQhbOFj4AgMt+HncXY9raalvlyeVqTKQyL9INxkgxjQcP95eJAbhISGDblVlc8gWd2uBj1Xh3MWyWVwHwuSatGxwrXwzcT9OPmyIJ4aLjbhfTmQka5aR5EbCG2ec8sFLJJr1KWf/KaxEYKDw59Pp8jdGLIJxSyisnpiqLuvnYXo5IJnRiKQxTpjle8R2Sc1jKeX5/mdeYO006/wgLAVpfYHwKTM0sn5372l+El+B/iF4lLSqOICUJvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVUlEQVR4Xu2VX0sbURDFdz6CD4IEhEXCUkRCkAaxJCgJlVhsUVEE04jaUB+UgKUtFZGKIEUp9MEPPHLudXbvXm/Wu2aXtuCBISFhNr+c+RcEL3qRLWId/4SI15Znudt69VyoZyWNEHF/vREDdRajvFDE0VSQNylDxL33r2OYpUaVm/MzeZ5PXKtooHoY+iaNEPFxr8lbK7VHQAu1aV8o4kYY8PSE6ZJXoiXi228f+GjnDa935lIwUTjJYWXC908/AE0KEHG3Xc8JR/z1sK3cGWwvqv4BEGDmqlPxcwHjDZROkH9C/HGrFT/QDafLdLC5oHoH7qBcgJmfraSe6wEDJU1tJiTvNcjR3goPB+8sOOKd1bqaKrzCGZQJId/nABFR3D+jEsUtiR/DDb74ss0/T7oKBG6IKzLmOV0x5XbIJbOkV8NVBYQSwRFMkV0iO99Tril7SsTDfkv1jTTvGCWyRdysBmoX+UGRGm30jbgzZolc0i5ll047AFfMBjadsTPGUOKS+4xoVzDWNgji13nPkTO2tEuAklNiu4JJkhOQLlEhvWNLuwQoie+DTqpXsqeocIcgDYU4+/xWlQklknuUBfP7cq+csrWjQO2X0/0lVSY4Yx7GxzCikpobZcKOwZFEqVAmOZDZP0Z8fbZbtEuknJFDiaWH3SSR/WPEf672PcBzK5kurAA7ku9dKqVs6ZuFkFUge2o0GPHNRd/xeYEywWQdCJi9rxB315/KccmWCSZw4pqAYl1gSpN+K9EpkV1OV0QPoE8PQsESODtMuOSzv6w04H+oe68lAY7kYueGAAAAAElFTkSuQmCC",
     "wiki_name": "Bronze crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_crossbow",
     "equipment": null,

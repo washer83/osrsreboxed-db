@@ -1,7 +1,7 @@
 {
     "id": 13744,
     "name": "Plant cure",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "Use this on plants to cure disease.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2UlEQVR4Xt2XW08TURSFOf+EB598ghgTAoSbUC5DWyhYS0tLrUiRIBehgG0BFQQ0IAQkJJgYjTFeIqBCwcT4YPxhS9eZnGE6xQeT6WniTlaatpM5X9dee2daVvZ/lEC+SloCW8sGHsxew2SyBtFgRamhBH7lkvj5dUhqf7MbK9nWUkIJC+bH0S3srXdh6X6LBKooL9cNZWZGAX0/SGD3iU+2rwR5EohGE4jHBy13zj7Esb3aifnpRhiGHz5/j04ogWRypED90Zu4EYoi0BNCi6dDZ+sExsYnpMbHJy1FInEEgxF0dPhQU1uvF2hmZtbSdGoGU1PT6AvH4PX1oKGhGRWVV3QCsQQODj8jlzvDyckpjk9ysl2eVsMKNWG0Ao2OjiGdziCbzUqxXW1t3lLAsMSfNqWQyWSlFBDzo7lVqgT2viWkQ+mMKbbM6OxCXV2TzpFnCax/DGP3NJ6nibU2JObqEbitNdACiy8CeJ4byINZ2O/G1EY7hhYaERqpgjdWqcslgY1P4QIgQqY2DQwvNiF8t0qXSwIPXwawcxyTQHbx87kdL0aXPYjdq0Xv8FUdLpnZccIooPk9P8ZWPIin6qRL/kRRXRJYetWLraN+6ZDTJX7HHE2ut2MwU4/+iepiuyTw9H2fBWMXgZZfm0DMEYNdZJdMd54dRgpglB6/uS6DPbvdiTuPmvNcMiKuP9oKrL0LYftL1NJFQMxRetcnc6Rc4gpw2SVzsjjqdiAn2OrboHSRweaCpEtcknSJK8A34FqWhPz1DDPlBFKigyrYXJAcf7rEFWBflC64ZIZZAf0NjNcw2GpB0iUuSbqkFqWLWRIFQE4oAqlgc0Fy/OkSw02HmrovWw654hIzRHHSlOxwXJjMkVqQdIgwnLLq9ktuwqgynwJ5sBOOQHyvgq1g1HQVAcYs84bqP1e+a3xlsAnDcXeCuA5jr/MDzuGc0gJyUdkPdsp57b/Wb57MR6Ds+4o7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xt2X/0tTURjGPf9DUEHQEGIiiDZhk2U0FMVUNGJLmSkLZJNybjG21EqzkrAv9gUpzElCVpaCIIgUiBSCiAZFBiIiSIlg03/h6b7neu7u3eqHYDuDXnh+uRs7H573ed+zm5X1fxSDURkthhvt5xC8WI0mtwPV5ZZMQzHMTFzD9LtOTI11oK+nEeHAmUxCMQ1mcjSC3utu7hY9LzCZZEOpmRFA4yMh3OqsR5u3MhN5YmhsrIPH49bceRO9zPN0qbkCFRWlqKoqkwnF4PU2wefzGNTQ4ILLVYva2tNwOIplto4hGPQlye12wumsQVmZA1brcblAHR1BTZFIAKFQK+rrz/JWFRfbkJtrlglExTAwcBfR6CMMDT3E4GA/b1dJyUkt1AQjFcjv96KrK4Tu7ggXtau09FQmYKgYwmG/AhTmEkCUH8mtEsWwtxvSgEjUMhp5u90qc+SpGGK/yrEXCxj0fiYfw8NmdHcdlekSw+p3qwLQaoBZWbFibjYfoy9z0HvbhHDoiCyXFHdilftAcRHkwrwFb8dycP9eNq52SnGJYW3VpgA0K2oxANHzpUULpibz8ORxtiyXRHYIxqj1NRu+fC7EzHQeos/NMlxi2Fi3YTd2XudQXPTZt6+FmP2Qj5EXZu7SzR4TgoG0uaS4s3NiHyZZmxtFPNgf5wrw+lUOnj09hr47pnS5pLoTizmVwz37MgL92CzSgj0xnsvHP40uMWxv2XUwydr6WcSDvbxcyIOtd6n9igqUIpfUyaJRp/zolQgkgk0LUrjU/0B1qcV3OFUuMd6ORJhEkYMi2LQgySVakmlwiUbdoRxa9xepQDvbdi3Y858K+PjrXaLrpM1/KHUuJYMYRRMogr24YOHjL1yinXTBc1BzKDUuKRlSVaOTMy7FRRFskSNxr7mcB1IJI0r9F0gH07Y2AhJQuRZsgqHlKHZQGmDUUn9QvHOp10gcqpIHW1wdiSAph9FX/IA4XKKkgPyp9AcnKvG7/1q/AeDmpwXrq1acAAAAAElFTkSuQmCC",
     "wiki_name": "Plant cure",
     "wiki_url": "https://oldschool.runescape.wiki/w/Plant_cure",
     "equipment": null,

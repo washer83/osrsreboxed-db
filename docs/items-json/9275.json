@@ -1,7 +1,7 @@
 {
     "id": 9275,
     "name": "Diamond bolts (e)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Enchanted Diamond tipped Adamantite Crossbow Bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2klEQVR4Xu2U30oCQRTGnTfxEXoXL8KbUESNzEhsTVNkozDDRDMVSqLr6kIIpQjBhCICoyToz4UXPcmps9sZZ3bxrtkV6oODewbk/Pi+M+Px/IoYWE9cFIPu+RnMCBSDl8chDK4uDaA5r/cHzDU4BuOPdxje3XKQ+34frtttt6AYFCoFeBuNDIDP8Rhen5/gYXBjccwRMSg19sAf8HN3aq2aASjCOOSWOVzf1TlM86QJxWpRgrG7pUzMGK7lNA6EbuV38hJQ9ahqcUypGESWIxwIYUTA+nFdckwxEINsIwsLyQAHWCtrUm93TKkYrBRW+XC9pUN8Ky4Mlx1TDPQ97DAPQS3IgTIHGQhvhG1AFKlyoGQpKQ0Xezqj+BzZn1A6xN1Bt2KbMQkQ98kxmFQlJQ3HuOZj5uNIZxSnYhgUg2guKg23xre+n3bOHXRDHI5xibuCvxSnchisRX1pqhtWYIVADDqdU6N8YZ8EYI1P7pVoAoM3qVzeNgbSOQFi4cut2J0JDH73ehe8x8KrLQLKcSqTOSxRTBgvsQiEjom9HKdSmVdbBCJHqEen6NwBIJTpFBUtMQHhVRdhrf9WIlpWeWntcTro0jRNbt2MAJnuiXG6DkSaKZh//Vl9AbQoHIEY2rpjAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwklEQVR4Xu2UQUsCURDHmw/RpZOISIiIiCIuK7soikpEH6BDp04dgqJDIAQSBEFRVBBReBGEILIvODX7mrfzdu3WeyvUH4bdeSzMj/9/3q6t/YoAkycZCrCQz+OKQAGWSyXcLBYjoGou9w2WGRxgrVKJoBiE4DJ0DPA5aEVQEi7tmBMBzjo+7hbWtTtv/SAClDCO3FLD7/2GhvkYhDgNTZi0W9YE0fDzRlUDkVu3Xt0Aeu21E45ZFeBBeUMDXXsFnNTVLlG9fzkoHbMMBPi41cfDpnKE6qrfMfq0Y1YFeNEN9PDpzggnoS+Gm45ZBgJ82R7iUSte6IdRD099c6EJiCO1DkTxyOGy5zOOz8n+nHhN7Q65lYzrZtB1B3M3jIfRk+Lar8ldAR2nZRgSpHblshcavQS2DKSuuhxOccldoSfHaR2Gatw23VkWnwN3AOfzp6j2KmUDIBmf2VtRDHMWeDgeH0cD+ZwBqWScloBiGHpfLGa6p6J/jwQ047QmNYxuEi2rBCLHZG/GaVUKiPZDOkaOcE9O8bkDIJJyiouXmIGke+obB+JlNZd2uXuOXPpJ8a1bESDlnowzcyDWSsH868/qE0IP3fb5MHQhAAAAAElFTkSuQmCC",
     "wiki_name": "Diamond bolts (e)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_bolts_(e)",
     "equipment": null,

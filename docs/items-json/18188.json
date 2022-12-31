@@ -1,7 +1,7 @@
 {
     "id": 18188,
     "name": "Pet cat",
-    "last_updated": "2022-06-28",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-28",
     "duplicate": true,
     "examine": "This cat definitely likes you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXklEQVR4Xu3W30tTYRgH8J3/4Fydm3NzYBfCYDAGIiLCZIiIIoricKLYIhWb4q+ZmsoyszKppfgDnbhcJWERRBBBEEEQ2kV6kRYm0f+gObz51nPe3nOOZ245W9OgB74XOyLnw/M8795ZLP9eCTA/OcUSsDFbgzOEEvBxvhZb4dqzghKwvVivZidS/wtlTkZLwNelBjXfog14Mafg+ayCp5MyHt2REb0pZxom4O0DBW+iCl7fU/AyHA8Kj8iYHpIyARMQ6XXi3bJVQyUDhXoljLT/NRjDGEHUoVeLDEWjM6MmL0u40cVQAZ+YTpSO4SA+Mg6iLj2bZqjHIRmRUdal8R4JQb+EwRYJfY0clSjHLh0U7XciFothvtuBmU4HptoduNtqx+2LdtxqtuF6ow1XfTYEG7Iwd0XWxkYg6tJsmwvz7QVaFjrdWo6JErDQo3fn/YoVBwcH2N/b+y2oz5uljY2DmjwiQk35aiZa9NB7HIqixiwwlQ4iDAfF9vfxfXdXHR2hEoECHitaKxR1bATy14oYrs/BtXO5WlLAUDEQjYqDjKeMMATZ+fwJX7a2sL25eSSouUxRd4hANSUiej1ONSliqAR1XwjBwzG00NQZ6gplc/0DNtbWsL66ioE6BuqoYqDzJQoaimR43bIKai61w2ZhS54ChoqBCEAxYuio8zHx8O4YQdQdAhGm2iWjstCCwlwLbFZLqiABK2PeuHAMHXMzhGNoVObuEKY8T0K2nWFSBB2NoRS73Sh0udSYu5IIQ90hTHGOpGHSBiJIJFiFuYEKhLpKNAhf4mQYt1M8OWh51IMn47VxIHq+NFyF8FAlJgKlGPUXaZBkGFpmIyZFEJWA+yPV6ssp9JlDzaB+n0uFHIXxVbKjXurSIbRHJzjyVPpdY/ytQ1Aa29SlMoy1FWPwQgE6vHlJMYSg5GefGMOK/ZOgXpoPxxlqpr/8EIg65Pfkahj6AjRiCEGh405JcVSJinWJLk26ozgm2ORGd10emqty1BCCvmsIUlfGUPwz5Y+6E1/CoR9f/NLkHeEA/ryjPv5vaeqOsdge0YVJ9xO9lG5xemlQykaf6ECHaIdftMEnZqFGtKLUou9fGrujF98rcwgT+BkjxgxJO8ZYxpckQmYEkqzMyFOD/K/Tqh9hdAMjIBcdmAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2UlEQVR4Xu3W70tTURgH8J2X94Uv9mIgg8FlDBkyxkWuyGSiNBpzbENBVBjGKjGSimEpIRUjC5LEfmBBBBEEEfSX9CLoTUTQ//LU99yec4/Hu9Vdt82gB77gFLkfnvM85y4W+/dKkPmbIZagD/sVOkUoQR8PqvTpsHpaUII+P67LfHla/4kyM9AS9PWoIfPtWYOe3zhLR1slOrx2hh5sztLeenHQMEFv7tTo9a0qvdqdpxc75ROg260C7TSnBgET9O5und526grVC9Redmmjkf9bMA+jg9ChlzcrEoWjM1HXVydpc9GRqJVSNkqUj2EQHxmD0KUnba9TD6/MUefCtOzS1aUJuljLUWs+R83yeMAC9LUMPuj9vQYl4vFjIB5sgIDhLu2uFdSxAYQu7a85dHBuQuXReVflN1FCdsQEITzU+qYBdH9jRnYIID42BtWm09RZzsvsrfrBcxzbljEFRvkgYHQQdwoo/bhMEB8bQAszGdqqZ2l7YVwlBAblrTljEHPLANGR5qahQwBhhgCadVJ0qZyRCYlBeSAgOIzB/OCo0BVER3UDLc2NSdBK0aZUzFIg86k9SsiHc3QMZocxGGQeZhwXQDzU5gwVcknKZxKUTIQGCTm4ZhijbxXmRscEdQfHVZmyKZ0ckZiQoGAMUnBdmnQcGRPSDYOjQndKbkphIgMBwt0BhDcKkF9hMD99g7BBfAHq0d9f6A5DsOJhMCFBKKEuPQSfGWqCgMB9E4TB3ADjZkcVBHPUx8qj/HeN/l2HhxozhOMCBpvUCwMEkrXj/WK88v5JqFsYP2OzdBA6AwhjeKMYAwSCdUdCHlW38rrErwTGYG741YAAgbsGEJ4d/oz8UXdOljj25YsvPO4IA/j3erf4bxF1Ry9vjoLmpT0yRpetNLUsm5pWihatJFWsUSrGvLmJuDt+8VyZAWb9R3SMCYkco5f+kG7IgUB6lYkcGuR/Dau+A7yeyYjPBTWkAAAAAElFTkSuQmCC",
     "wiki_name": "Cat (Brown)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cat#Brown",
     "equipment": null,

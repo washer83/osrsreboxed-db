@@ -1,7 +1,7 @@
 {
     "id": 10979,
     "name": "Swamp weed",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-20",
     "duplicate": true,
     "examine": "Swamp weed found in the caves near Dorgesh-Kaan.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xs2WXUsVURSG5/wDr7zx5vyE/oCX/oDoIhKMUMggg4KCPiysqCgqiqKgosTCo4WViNmHgmLaF9GX9Hd2PjO845rVHjnHM4UbXmbPnj2znnnX2nsmSbZ/q4W4Ytf/eauFF2NnwtTocKpnj06FyQcnUwliaeZqWJy+EhZeXo5A+ZdoGzwDEhRAkoeZf34pvH56oRCYc655FaFagqyF6ccjf0FxBEQS0Nzk+TAzfjadyzEGxHwLvbY6Fn4s398alIDoyx0BvZ26mAJpbhkQ9/1aGQ2/PzXWNZECEWNHvZ7KR3cts11vLSCCxoBmG+fShzOXfgxoefZaAYi+gHx012qFNACh4ubcA6l++vo60mMZ0OrcjeqA5BJjZUCD+ztCd3eS9nFNIJxz/PjGAjVaA1JdeCCCeyDN474TxzOXrI4czsY+v7tZAPr5/mH7QFwDCFknmaPgIyOdobe3K/T3d4ShgxkM4F/mb1ULZN8WHTu60RcQAmjXziQFEgxuflu8kwOtfXiSw7QMJCjGSQm1Ijikc6WLY09PkkJZoO+Ld6NAPnpJy96WFRNzSSuKlMg1+sCcHu7M3SoALd3bKlC2B+GQBbJBPAgQwCBShfbszsQcaq4AZDZFH921rFA9EOO2SK0jtk/6ECCMcY/crAzIQhFMtUNRE1SSM3LHOlqZQ94lpUXat7crX+KSBVH9rLy6boAmcpimgFhhZUByw8LEHLJwuMNnwzrUpDu0DSCbNqULaSWVwViHcAcgPhuVAVkoagcAmyrtQwKmiLUHCYhd2gIJykePtAwoljbGuD4wUE9hcErFqz3KSvXDb8fXhds5EHtQC/tQEcin7cBgPXdHgYFhn0LUmv31wJ22gVhlHojxQ0P13B3OgdQvrgXSr4fSVRmQTZt1R+kguAXSd4/7eIaAWPIFoPU9qOV9KJY2pYg3Zs5mQLZ+KgGKpU1vTRCu6YPrgZhn66dNIFpxtZTJ14/kgdgULZDUAlCSaFvfTB7QytZPJUDNNg/ZDKy0Mfc/NQ8Zk79nW7c/XSn54gG/2DIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xs2WUUsUURiGZy/3wgsvvPcXSDfehxeRoJJLruGaWFpRJAlB0F+IKIgiKCKiCKlEEjEWIyIigogIIiLM+icnnpne3W8+z8SuuyseeJlzzpzZ75n3+86ZTZKD30ohrtj9nrdSWLs5GVZvHEv1/PpEWLk2nkoQHx7PhvePauHdw5kIlH+JjsEzIEEBJHmYtw9OhK171VxgxtzzykO1BVkK67cqu6C4AiIJqH63GjZuH0/Xco0Bsd5C79SXw/bG2b1BCYi+3BHQm/vTKZDWFgHx3K9XS+H31pXw5/XVFIgYhwYHU/normW2660FRNAY0OadqfTHWUs/BvTxyckcEH0B+eiulXJpAEJAjD2Q6mdsrJxei4A+PZ3rHpBcIlgRUHWqHIaGkrSPawJhzPXzShMItQWkuvBAzHkgreO58+cyl6zm57K5L8/mc0Dbmxc6B+KegKyTrFHw5Ut9YXS0P0xOlkNtJoMB/Nvq6e4C2bdFiwvNvoAQQCOHkxRIMLzA97WFBtBO/XIDpiMgUkKtCA5prHRxHR5OUigL9OPlYhTIRy9o2dtSxB4KCO0oUiLX6AOzdLGv4ZYF+rl+Zq9A2RmEQxbIBvEgQACDSBU6eiQTa3YDNQ9FH921rFA9EPO2SK0jtk/6ECDM8Yzc7CqQHCKYaoeiJqgkZ+SOdZSd2RMgpUWaGO9vbHHJgqh++GwIiFNaMC0BscME5NMmNyxMzCELBxCfDetQi+7Q4kBKF9JOKoLxDpEuPhsdA/m0cY/aAcCmSueQgCnikX9nEO4A9PXFqRyQoHz0SCsGYp77lcpACoNTKl6dUd4dAfHZEBBnUBvnUAZk02Ydmq4ONNxRYGAoesQ6+9ejJ0CI+dnaQMMdxoDqL64Fsn89gGGHdQTEto8ByR2tIbgFYmyB5M5uoOX2z6FYHSlFBOH+vgP5OlIgAemD64F43gJxBnUARMvvliL5+pEEJHc8kNQGUJLoWP+fPKCVTVdXgFptHrIVWKm5dp+ah4zJP3Og21+1EX/eNtgMSwAAAABJRU5ErkJggg==",
     "wiki_name": "Swamp weed",
     "wiki_url": "https://oldschool.runescape.wiki/w/Swamp_weed",
     "equipment": null,

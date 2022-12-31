@@ -1,9 +1,9 @@
 {
     "id": 3298,
     "name": "Man",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": true,
-    "members": false,
+    "members": true,
     "release_date": "2001-01-04",
     "combat_level": 2,
     "size": 1,

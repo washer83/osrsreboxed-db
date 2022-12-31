@@ -1,7 +1,7 @@
 {
     "id": 23066,
     "name": "Jar of chemicals",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-31",
     "duplicate": true,
     "examine": "Looks unstable.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xt2X20tUURjFPf+JTzIUmQ0o4ujMNOPo3NIHHySkwHpQMIKSkDIjTcG8lCiNpoWlNilN2E1UTMQKAx+C/o+CbjpNTqz22sdtpzP51p6BPljM5uyP8/3Ya50znLy8/6cM/F05KQOnGhpwor5e/jY1NuJsczPOt7TkAszApdZWXO+8itiNQQx2d+NaezuutLWhp+Py3jqLYAb6u7owNnRzX90a6MdQb6+EzQKUgZG+vgwIq3hyqof9Rfn5uqAMOAoKMgDsmhgexmQshunbYzjocOg6JUPe3Fl0OAPADnN/dBQzE+MSqNjpxJHCQh1Qhry5q7RUDuTg/WDidyYwNzkpgcpKShCJz+qwzpA3d5eVITE1JQdysILh+tnsQ6wtLGAxkcCTBzPwud3wuFyoffRYDxBhjlZUwO/1yKEE4GCuCfJmZQVv19awvrSI1RfPEfB64fO4UTf/VA+Qt7wcfo8HVT4fgoFKvF5eliAbq6vYfLWOdxsbeL+5iWgohEgwiGBlpYTKX3qpB6h4e0cOqPb7EaqqkkM5vCYSQU00akqsj4XDci8setirDejQ1g7OJNMIBQIIV1dLGA7/A0iI17jHHoJrBWoSQEPf03unI4F2QWp3RUDusa9HSDvQgBgSS6UzTkcBxVM/MZ4y+zqzAdQrhowI3RODEz9MzVs0La4TmH0dSY1AB76lJBBtoB13xdA5MZxSYBRBCcy+i7qBTidNG2gHbaE9lAKjCEpg9l3QDXRSPPq0QeWI9lAKzJof9p3TDXRcANEGa44oBWbPD18T+oC+JFEngGiDNUeUArPnh5lTMP8e6NMWogKINlhzpKTgrPlh5jScDksAffyKwLb5tqYdtIX2KCkwa36YOX1AHz6jYtt8F9EO2kJ7lBQYQblPcGZOExDL/IOlDbSDttAeJQVGUO4TXDMQy5BAtEM9/lap/HCf0hRoe5nfXOrxt0rlh6ekMdCZZQ4x5GCrCKWAs3Q69rJ/2/+GyAGMWXaAnEDoql/vS4QK9IXDEgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xt3XbUtTYRgHcM838SOEbyTojUIKormFbmnz2JyNmWtM58acaQ+WaWUMMouEjAwf8CnG0EyzVlmGiAQR0Zf5d/73uNbhTN91b9ANFx7Obs71u6/r2pFVVPw/y8DxUZZlwN3QgMa6OvXX43Khw+uFv729HDADV7q6MNgXxd2RYQwPDCDW24tIMIj41XDhuoQwA0P9/Zi4cf3EuHNtCDeTSYUtAcrA7VSqCGEPVk72cP+pykpdKAPVVVVFAGdMjo4iPTaGx/cmcKa6WleVDPXw+traIoAT82h8HNMP7itQY309ztbU6EAZ6uFet1slZOKTME8fTmImnVagluZmDMddOlpnqIf7PC2YnZpSCZlYMLyen3mG7NIilmdnMfdkGgGfD6b1OriVatUDIsbf1oZgp6mSEsDEvCbk7fo6drNZbK6sILO4gJDfj27Th7GRNj2gTmJMEz2BACKhELbWVhVkJ5NB7s0m9nZ2sJ/LIWG9o2KRiLUnqFCpgdN6QKuvXCpB2Hrx9VkvQCZl8mQshsFEPB/xuHWvD/FoRO3hXm2g5ZfnsJ3xINoTQiwctpJGVXIiCiArCORn3EOUVtDWaw/233eoCjirM5RIqOA9fnaQM/F5+6J+0Jd3Phx+MlV1jgP9PAjgaO+Sgn/catcP4ql5+u9f/Sr5r8PuQvw+uowf37oUmPCSgXh6VoEgCUERKu36sHFBL2hjrVWdWkCsBsMOk3ZpBy2+aCqAZI5YDUFJ2OdnN+vVC8qutKhTEyRzZA/n/PA1oR3EU8tgsxoSgrLPD0GC+eeg+edNyCydL4DYFlaDYYfJ/HAfvwQaqsNlYG6mEesLbnVqmSNWQ1AS0q6SgtgOaZs9BCTt4pdAE4gr/w+Wp7a3TUJQ9vnRDOIyCiBpG8MOk3YxNA20c+V/c0nbBCVBEO9rnJ/ilU9iqMT2IEjAJaqOczl/2/9FlAGTX05AWRC61h/E1h1KLGTTgwAAAABJRU5ErkJggg==",
     "wiki_name": "Jar of chemicals",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jar_of_chemicals",
     "equipment": null,

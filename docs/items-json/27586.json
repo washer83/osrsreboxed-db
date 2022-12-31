@@ -1,0 +1,84 @@
+{
+    "id": 27586,
+    "name": "Sweet nutcracker staff",
+    "last_updated": "2022-12-31",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27587,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-12-13",
+    "duplicate": false,
+    "examine": "A sweet-themed nutcracker staff. Yum.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrklEQVR4XuWWz0sCQRzFd4572IMHIYSF8LB0kFgiD4ZQJIFFHYooyIQQIzTtB2EIZQklglEGgggZdFCwiCIKIjr0p71mdhlZq/PMQA8e3zkszIf3XXafpv0vEQxaqgiqAQPvj48o08nOEsEILkwfzilEr32DYzqZ834Dab8uGorg7b6H1tUl9oYMx+zMYJgTPhfIHh4WBUXw0u06EF6oDE1mg8KsUIdtW2RKBM+dzgAMM19XNpXqJyQoJfdlLnrWxSaDYenEDQkrY+Zrqp6UnFUtUk8bmvh09EQIejwIzfI5iRTyOczTVKK6DBgGEjVdm97vjmuBMEz00nAA2qjfSYcDcQjhMLvJVQTNgMxEuAgO00lYQXaxtES4CE5zm7BHLJmJcBFU9rcRsUNqwNSL+4iOu78A6TDNchGxSFgNmNtKCXOTE2rAdC7OsBibUgPm4bqKldkZNWCeGjWklhbUgHlt1ZFdW1YD5qPdwEFqXQ2Yz7smjraEt7u/RPDVbeN8N6MGDHOtsKMGjJ4egz5vDXSZn08Jkqd6sranQjr96skan9x0uKQ3vd/iIDJhvgELw1TnAj6gtQAAAABJRU5ErkJggg==",
+    "wiki_name": "Nutcracker staff (Sweet)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Nutcracker_staff#Sweet",
+    "equipment": {
+        "attack_stab": -50,
+        "attack_slash": -100,
+        "attack_crush": -100,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

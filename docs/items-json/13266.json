@@ -1,7 +1,7 @@
 {
     "id": 13266,
     "name": "Abyssal dagger",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-10-01",
     "duplicate": true,
     "examine": "Something sharp from the body of a defeated Abyssal Sire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4Xs3Wz2oTURTH8ckbZJ9NoItAV27ElStxIbjwGXwMFfEPKoqKoiioaKliWqVqKbVVW0iprf8Q/xVf55rvTH+TMyd3aqYZpRcOmUzu9Hxyzr23SZK9PxohHrHP//lohJfTp8Pc1Kk0nj86GWYfnEhDiLWFq6E3fyWsvrocQfkvMTY8AwkFSOExKy8uheVnFwqJec9nPoqoSshGmH98ZgjFKxCFQEuz58PC07PpXF5jIOZb9NbmdPixfn93KIG4VnUEejt3MQVpbhmI535tTIXfn7r9mElB5NjXbqfhs7uRlV3fWiCSxkCL3XM5iGuBbEUUAoETyGd3o1FoA4m0uHnvQSQHofZyreSTSTIUGWpMkKrEvRhIlSRikP3bkEGFutVAWhceRHIP0rxYVSzk87ubZg11w8/3D8cHcR+QUKqkhxDtViu9r0X9ZeVWvSACgAUxz1cGiMcw91vvTg7a+vAkx1QGWZS2r0AWcriZhM7ERA60W56533t3oyCfvWRkf5QdUwbSHNaJQpWhkkOgtXu7BWVnEBUqAzFHraE6B5tZhbjPcx7EMwWQORR9djeybxcDEb5CgI5NTqavR0tAVKdWkFAECdYXr+WYQ/01QxzpdPJ28ZxvV20gWyV7Agtk3xNUMQbaeH3dgGZyzEggdlgMJITd1vaEVls9iOpsLt0oVGjE6jAGINs2i2HNaN7fQGrXxzc1ggjus60PbC/e461m3iILAmh/egjEKW1BQvnskZGBfNu4D4QKsYCJUUFsgq+rt3MQZ1CFc6gIEsq2LPtm2W7y7fIgqjM2iF3mQXYd8Uoy+xvIgnjWtqs2kG8b9/mcBCT0C1pnFc8xVyC2fAHUP4Mqn0OxtikJIK53Atn1Uwso1jYL4rPYgib0b0PtGhPEKJ6+ZeHXj8KDOBQtSFEBlCQ61ncKD7Rh108toFGHR46CVQzm/qfhkbHwz+zp8Qe0ozkOAdhMhQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvklEQVR4Xs3WTWvUUBTG8cxylrMQysBAV+JKXOhCEPwEihWt4hu+LwShIAh+BREFUQRFRBQpaimWUhkqIiIiiIggIlKr3+TqP+mTnpy50aSTKb1wyCS96fnl3JM7kyQbf7RCPGJ/H/lohdkbE2Hm+r40nl3bG6av7klDiPePjoV3D4+Gtw+ORFD+IYaGZyChACk85s39w2Hx7mQhMef8zUcRVQvZCnM39w+gOAJRCNS/Mxnmbx1I53KMgZhv0cv9qbA0f35tKIH4rOoI9PreoRSkuWUg7vv58mL4tXg5/H51JQWRY9v4eBo+uxtZ2fXUApE0Blq4fTAH8VkgWxGFQOAE8tndaBWWgUQCce5BJAeh5eWzkveSZCC4PjRIVSJZDKRKEjHI5hWIKkTUAqkvPIhrHqR5sapYyOenJ/MeIpYWLgwP4roFqZIeQmzqdNLrauqvM6ebBwGwIOb5ygDxGOZ+mz2Tg5b7l3JMoyAL2dFOQndsLAfaV56531+cjYJ89pKR/VOa2KK0nwhD0CcKVQa4B/2YO7dWULYHUaEyEHO0NFRnazurENe57/+g1U3RZ3cje7oYiPAVArS710uPu0pAzOWexkEcfYW2/+0ZYme3my8X9/nqjARkd2CB7DnBvBjow+PjOYhdWphKIN4wgSxKCPta2x1ayxoDfXxyolChitVhxEEWQ89oXhUQy/VpugGQXTau81pvWWneiU47XyILAmh/eqh/vjw/VQAJ5bNHRjkICBWigYk6IL42BGIPqrEPZSC7bH7JsifL3ia/XOsC8iiOJLO/gSyIe23/8IYNBeK1j4H0RUoS5viG5tyCVJ1B0FT9fSjWR0pEktgbNnKQ7yMPijU0oa8NgdiDhgAxirtvWfj+UQik6niQogYoSbSt/ys80IZdrkZAVYdHVsEqVueu0/DIWPh7NvT4A/TRuRm/VkqvAAAAAElFTkSuQmCC",
     "wiki_name": "Abyssal dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_dagger#Unpoisoned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 19439,
     "name": "Absorption (2)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-09-05",
     "duplicate": true,
     "examine": "2 doses of absorption potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVElEQVR4Xt2XbU+ScRTG/X+K3vjCj2DrpW6Zj0wULZ1phsMHxDQFFUW4yZmPs2FaPpXO0mnOKHxAAZmioqiRKzfb3FxbX+WK8ydugfRFG95sne3aGGOcH9e5zgESEv6PYohUXIthpFeOLkMGmjUpUJYkxxuK4cChgddeyzU1fB/95px4QjERxrNSjUlLIXqMWRwoOSlJaqhgZkJAW7YqjA8q+PjikCcGpbIKKlWN6I7rowqvB/LwTH8PcnkBFAVFUkIxaDT1f+mxshIPS5V4UFSKrOxcKUfH0KTVcWm1zaLKy1UoKSlHbq4CKal3pQVqbzeI0re1o7VVj7JHFchXFCEtLRPJt+9ICUTFYFtehcPhwsaGE+sbDj6u7By5GGqCkRToaaMWJpMAs9nMReOSyfLjAUPFoNe3QRDMXCEgyo/EowoVg0kQIkQjk+cVIjU1TcqVp2LQ6VpgNJoiRKGm+5Oeni21S8Et6+gwilLXPuHHkm5QKNgSATF+cwyGDlEERIdRVanmOaJLnZEh2ZcsQ3Nzq3iDQlB1dQ2ortGIY8uR5UnhEkN9fSPfrrbAMWwfGEaD6TmU9TooyiqgVteJY6NwZ2bKbtolBuuuH3PuA0zbPRi3OjCyYEPvmzkIQ+PQ9w2h0dwDtd7EIYtU6pt0iWF+bRN7p+dwfz3DxtEpbN4TLG4fY9bl5YATNidGFlcxNGdF/9Q8ukanOegNuMQwY3Pgk8sD554P3y5+wX/+E76zCw64dfID9sPvWPJEwgmWMTR19t2ESwwLdjfWPfvY9B5eqbVtL5ac25hdcWJyaQ0D0x84kK57EC09L2LpEsP7ZSeW3Ttw7x9dqS3fMeweL6wBoLlVlwhkfjmB1j4LGoRu3EpMjBUU45+cXKDGV2nb94W7RyMNB+p8NQVDYBNpbGq9EKvRMd6Mml4nj88Px84BPm/uiECDM4voHnsHo2WUj63O0Mk3L2YuUdPrtHPoh3PXx4FoEwnIMruEvsA5oLGRQ8WqWtGhmLgUnpdwZwgmGuit1c4dIhjKj6y4NJYwoQr+CqS1pzyFwxEYPU/Bp20MBbpKZ/gzopjDBCv4hqH/XCwCjB6vbO1yGApyNEjMYcLrssElXLQkAbmqwhtHK/q1/1q/AX2Ejo2dc5PpAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xt2X/0tTYRjFff+HBAmjIZUyLE1tS5s4lImpaMimMpsIrkk62nK4/NbUSkKTSrEf1ElCpqKSJIhYFEUQhkrfDEREEBNBV9BfcNr7Xu/13qsFwd0d9MD5ZWy7H845z8MWEfF/DIFUYR2C1vpiuKvzUW41Ij87KdxQBLOTzZgZb8T0WAM62myoc10KJxQRYKaGvWi/aWVu0dcTNRq1objO8EATQx7cbizFNUduOPpEYLOVoKLCKrgz6r/O+lRjz0FOThby8kxqQhE4HOWoqqqQqKzMAoulEIWFF2E0GtSMjsDtrjogq9UMs7kAJpMROt1ZdYEaGtyCvF4XPB4nSkuLWFQGgx5abayaQHQIens74fc/xMDAA/T13WdxZWamC6WmMKoCuVwO+HwetLR4mWhcWVkZ4YChQ1hUPl8dEw9E+6NyVPwQAYYXjYyuPF9o+SdCOCRY4moWl1jiUqvsErdlzc0eQXa7jd0heoP4YqsERFBbexVNTbUS0UNJLzffo4yMVLVio3E5JXeIil7qysoyITaVXCJwOu1su+rrXWi/E4Mb3mOwV0ahqChSEhsttwouESzMp+Dd20S8nDuDqWfxGB3RYqD/FLo6Y3CrTcMAnTVHg/FFoaQ4MpQuEax802FzIxVrq3osfzmHj0spmH+fhDevOcDp5/EYH9Ni+Ekcg+zpPsFAQ+ASwaelZGysn0dgNxu/fqYjsGPA9lYaA1xfS2WA1D0x3NDjWHTd44AUdolgdUUfhLiAQCD3UO1spzHg5WUdFj4kYXbmNAPq6Y5BWyuFUcwlgq+fk7H1PehOoODPCsJSIBorD0Sje9R7Eh13NYiOjlAKigQj0e85IYYwSxUE2tyQAo08jYO/n4utxXdcqejIXlQyALl2jRKgudkETE5oMTjIxUY3sM4TrZxLPwIlf5Uc6NWLBExPcbFRhxxXogSHlHFJEhnnyj7QZbZ9tGe0/IuLycwhCkP7YzEfURKGH+5XIHWCPvwAoAiI37CmRq43IYDhhvtC/j8XhROD5bK7RGFokeUgisOIZ/8B+3ByqQJy2IgfLJf8vf86vwG/ZWVq7+dMwgAAAABJRU5ErkJggg==",
     "wiki_name": "Absorption (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Absorption#2_dose",
     "equipment": null,

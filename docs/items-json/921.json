@@ -1,7 +1,7 @@
 {
     "id": 921,
     "name": "Mithril arrow",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "Arrows with mithril heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuUlEQVR4XuWSQUvDQBCFk3/Qk+eA50IuUnooVErooUGUeqkgWDxUBE+eRHr07j9encTJzrxMGmzH9uCDJTPZJe+bl02S/6M01OtoQkNdLxabMB7fHAuqNpxMbn8MU1VfXb+Ey9l9yPNZ1edZ1gHuomg4GpWVoaxprdcfYT5/rJYGSsN0uvJMrTajRYkMhxNVM9BmNqiM2bwGSkNRPDS/Uae2t2qg1d17k4CsGebiPGngrNT4LH59T8UEsOae67J8bhKRQDq5g6QTwDRkv1y+qouNsARzIJANECeN/ebps3Wx5VkHGJKe0IJrkvsGkhdb7jmAkGwAK52+s65Auwyxt/ZcYSzDE6RjG/T11p4DDKk7DewRAM86ANkGfb215wBD6k4DewTAsw5AtkFfb+25w2AafT3uuQGhmUxjm52ZAHjWDUaaoyHD0JMW7jum056cTfkdwhSDpAXjlE7bTMJw/ZZFMIJhCAQ/MJ2YxHYZJ0cwBuB7ZcHQ0yUdmpynZ2N+hzAWEA/lkA6rNmAzaSr3+D3+IgTCr+8lOZl8yoUwGsItnd9IX359r+IgR1b7F50IJOqEv2i3/gLmC1OQ0NusowyVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB40lEQVR4XuWWv0oDQRDGc2+SwgewsRAsbARJEaKIihBRMQimEBGRgOAftJFgCCgoQtAqCCKSIp22WtnYWfoiI3Pn3M7OTXKYjEnhB8vN3C75fvPdFslk/o8CiNbAJA39eq3+CLmt00FBBbByfg+F3eqPYeDV5cYzzB9ew8RiOexHs9kO4CYKYOOqDQvHNzBVqoSGvMZ18fIJy9VmuHygAGb2apapRWa48jtnMD637tUElDu6hdlKPVwOKIClkwZMbx4oqfWsCGi/9REnwGuCGZksxHBaanRW/nqPcgnImnqqS5et+GJzID+5vuQnINPg/Xbz1bvYEhZh+gTSAdykrn96/0pcbH7WAAblT6jBUY9A/GLzPQMQlA6gpZN21hSom6HstT1TGM1wCOnoBmm9tmcAg+qchuwlgDxrAKQbpPXangEMqnMaspcA8qwBkG6Q1mt75jAyjbRe7pkBSTOeBv4f0gDkWTMYbi4NCQafuOS+YTrJycmU3kmYsXwxAWOUTtKMw1C9WnuIwRCGICR4n+m4JIp3b7GZBCMAulcaDD5N0sHJaXoypncSRgOioQzSIUUGZMZN+R69l59IAslf70l8Mv7kS8L4EGbp/Eb+5ffvlRtkwEp+oiGBOA3xE3XXX8B8A6lBcUbH9gixAAAAAElFTkSuQmCC",
     "wiki_name": "Mithril arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_arrow#Unpoisoned",
     "equipment": null,

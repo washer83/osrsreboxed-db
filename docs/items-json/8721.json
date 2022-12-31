@@ -1,7 +1,7 @@
 {
     "id": 8721,
     "name": "Onyx dragon bolts",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "Dragon crossbow bolts, tipped with onyx.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xs2VTUvDQBCGmz/hxUuhB6EQCIVQSgk0lFCKHir24k0PggcvBUX8gmJBwYIgtHiQXjxKr/19a2eX2Z2dpIeuSePA0sxssvvsOzPbSiUX8wSP7NgogCf8el2UCEUBPNEMQ9EIAvkcVKs6zr8qyGwAGO1WS8ayAPnXBVgaYBrXZQye4yiy5o1ihZkN8JH4YlDb03CfvUDOU5gC1fLEe9cX4/aB3nwSmVr66gdynsKk1crNlBoAcNOsyQ1ACXzGeYRFoHnCFVNr2Ws7mSdhRmFNnPn7GoI+37UOLECuGELmdEV44v6wI87bDb3heNC1fD6fpVj6inCytTrHibiKVSHj4te9tt785aQnRonycZ4rlt2BTqZOfxGZVgdA6oNal52mBfS4VoemlHegI1D26W/70UYfYzR9WE92Cp3ME09HsT49AnKfA4Oi1Ocd6gi0eTOertPQvn9wHv3XjoLBFDoDgTq8mDkgTx9XB+qNps+kdWtTnUTVoIAwQEHcDAF4cfP6coAxqUA1cAAgrR8ApJuDTw/wNuwzwK3NE8vltxxwMlwMYzxdXA0+T4EdgMzGoM7k+cGCgdrAGMaHDfPnmnUX2YBbm7051Ar6UJir1Y/2swDx5kYYej04ABkYGIvFTKsAvyA9bEjfgdNznwLRbnMAAjOFStOFi1MAiFkKrt/POV3KcDG6MI3xOQSi6kE8XU9/NCoz/aVDvakU5erxu8esvBMzXYdA0AC5qeNiNIXz2VSmC+H4uzsy+0KlapWmEqaO11OJQHaX/gsgNAQrqcs2mwvMLwETMlzDlhPuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpElEQVR4Xs2U30sbQRDH3T+i0JdCCD6IlBJCQki4I5IjISlGsBT62oc+VYSiULBWEfUgbaWiaKiI+iAtSh/64v83zdwyezNz+pA1PxxYcrt72fnc9zuzMzMjCQN6ZcLBAQysBnswRSgOYKC3eA0b0VHyXMjl3Lr+15hCAuA4Xv4Hu+1zN99q9mGt3psUVBbgNCjDQfcmee6/vYPv3T+w0zpTio0tJMBFvQpv8s8c3O9GkOxzmDGqZeBXWIG4XHDJD6pFB/O3GSb7HCar1sjCqoEAG4X5JAEm/1p86YBw/1vFwhLQdaOmFLNnybO9YlA7wSxsFl/Ah7nnDoI/x+W8g8VxEwVCMYIc0RUx6K6oDh9LVgEcJ51IzPX+fYrtdy7VFeEVBs4WW/AlqIrDd+o1l/y824atUO5rxbADsRmoQx8F9KO5AKvltID7r5vwqVJy86N2BOtV2V29Sl5YqjvQE8iqk/n6RiiTD+ySiYywjzqQOtQTBsPAz1ZDqIH2fK7ZYn0ImAPir+5QTyCbnGqFJ9N2vX9l25/eoX2an4azsF3KOQu9gVAdUoMO12po+7De+BzrjduX2jp0GNhbCIQamEzbRckIQH8AB/aESa2gVqeBgNRNOFBBnlzX2+VSR3Xf0GHg6uokGfhldBitabt0q+t9/CiaewClifEWXl9bETBYzLRG6+/m59wck2u7ZEMMHTI5Hs4Bb28v3Pw+QLSTw2B9PcKuFAbH4WHsVMBfrA38Wv4O1hefa7uyl+XQkRYqt4sO5wC4xhXE97VdEtAz6DB+MF/TewSEdnHYpAb97coGl5n/8mHftIqiGhxI3z3pyROJtOsICBtgZOr4BLcwjjcTuwhOvzuhkBcqV2tqKpF1up6mCCS79EkAURDYlLrs4fCB+Q+Y/kHIU0tTNwAAAABJRU5ErkJggg==",
     "wiki_name": "Onyx dragon bolts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Onyx_dragon_bolts",
     "equipment": null,

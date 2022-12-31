@@ -1,7 +1,7 @@
 {
     "id": 7026,
     "name": "Reanimated chaos druid",
-    "last_updated": "2021-07-12",
+    "last_updated": "2022-12-31",
     "incomplete": true,
     "members": true,
     "release_date": "2016-01-07",
@@ -29,7 +29,7 @@
         "krystilia"
     ],
     "duplicate": false,
-    "examine": "This creature has been dragged back from the grave.",
+    "examine": "This druid has been dragged back from the grave.",
     "wiki_name": "Reanimated chaos druid",
     "wiki_url": "https://oldschool.runescape.wiki/w/Reanimated_chaos_druid",
     "attack_level": 8,

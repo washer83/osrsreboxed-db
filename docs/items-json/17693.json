@@ -1,7 +1,7 @@
 {
     "id": 17693,
     "name": "Ornament",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-28",
     "duplicate": true,
     "examine": "A fixed Weathervane ornament.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmElEQVR4Xu2W70tTYRTHff4T/wTfiUjQOxElCodhY9Eca2Jr5MbcdCabP5lZU7JRLWPZaIiIRIRESERERBH9R6e+5+HcPbtzy7rbfF504PA893LvPZ/zPec8W09PR02R+845mqKV2BhZBKUonxhnoL7e3vOG0uoUUhP2AEGdnYzfHiCo8yR7wx4gqJOLXrYHqHg3QFNXL9oDVMoFHRgrgMqrIVvUgSmqbNy0BUg39P6DKQaq966aDro246O99TArVN2MsON6d3myXWDuLN0Z6/3ESD8FLg3Q60KMgwuUOMCwegRTFPcPUT42TruLk3R4L0rvi0kqLQQpeX2YPxr2XaDglUFe99cbywQwcRNQmv4vwBRne/wwTiePZ+nTszn6+mKBflZzvH5+Pu84nj3I36LqaoT3Muq6oRsBBQr7GlhLU3R0/zYHlw9tJ6+xAoDDXu5/e7lIb7dnGN6EMb/WCrDZO4ZpmI+ltPMCAn54mqIv5QxDomxQDDA/XmV5rSyffcxNwBYwOjgyRXAT5nsl25AVHIBYAYVnasp5tt8nazbEjYueQAAJihK5yyHSQyWBxjvorWI6YED/symeIGQ5OtjnBMcKwJ3Z0/7XKHqzdccBworS4Xkoh70HKD0l6BtAFRL6nx4cmTfvD+WU02xYKIX7e0thb1BwgZJrlEsUcCsEUCgrz2ZCo6wQgKTsLZr2zyZZAgCThD2yRJPjMJTA4lIygTPPJc8wNVPc3GhmOXmRMZRCw6aDI7QyPcZ9JUcDBgJ9sxb11YG0AUZM8amLbM2pwTXUA6xMI+DfPUo0wLi/2AbTkyc/G26F0PgoIwC7ACOmlcLvGUoCMOzRXygX7plT1mEYsfpGPs27CKPNbNJm7n7nv3XKfgG2ROUjCJlI6gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeklEQVR4Xu2W70uaURTHu/9FL2UvIoZIRCOMJEkMkwwbpqAIbg1hrWjSD7G2ig3Z2KIQIhAhgsbY/sqz53vuzuPtOmXtMbsvduBwf/jcez7n3HPPdWzsQUWRPfOIomivvEgOQSlqvEwy0FQo9NhQOjon1ZQ7QIhO803aHSBE58vOqjtAiE6ttOAO0KftFSosTbkDdFbL+jBOALX2n7sSHYiiq8N1V4B0QneOCwx0V0cq2uhBJUGX9RxHqP0uz4rxxe7asMBsL22PdT81N0krsaf07aTMxgVKFGBoA4Ipys1OUDUZoYPsLDWLMbp6leQ+5vn3RISy8TC3nXrvMQFM1ASUpL8HmKKv5Ti1XiQYovM6RTdbafpRy3B7vbnsK769bhSpvZ/nvlx1ndC9gAKFfhdsoCj67FVZGJeNtpen6WNhnuHQl/lbrwACGkdlwpi7DQLst8YQDdOuLvkLYBBjidDlRoIjBpjvOxluT9fn/M3tHW0xAQfAaOM4JhsGRm2voABEi9+h3cgFFkWHa1FW5IQJADhAivdm6CV/fn6o8BoA7maeGdD/LPqYsOnMk3HfuEThbXrGmOuuOa/ov6gAQoujAyTWoB8ASnHCIhqA2vz9SkORM/3zQx+X6YA4AaD3uWgwKKhAyViufi+QYoM3RyX/25JXGCVCJmivI38p4qXUHjEKSBRDMWzCSh9RNOtSYJiu6AQHECozxvAYxpGwBe+J2FgMc17JbeRIed+gopsgQ4AR0R6j1pi3BmMkMmDlNgIedcmGsXccgij/7QKIHSHUHBwjjncEMCI6UjCKiADMftuGkrz3k7uJ/CcdIYwWM0n7qb3mvzyU/AJEPpNklkXKpgAAAABJRU5ErkJggg==",
     "wiki_name": "Ornament",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ornament",
     "equipment": null,

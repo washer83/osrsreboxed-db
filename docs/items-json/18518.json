@@ -1,7 +1,7 @@
 {
     "id": 18518,
     "name": "Graceful boots",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,9 +26,9 @@
     "release_date": "2016-03-24",
     "duplicate": true,
     "examine": "For your graceful feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu2V7UvTURTHd/8T/4QRSEgIhoSEIUmSmCSZRNCL6FWvKkzMCItKTLMwTSvTMs0stQfUBEdqK7fYMjWmopuP8zH37hvfM+5my2zT3+rNDpwX2733nM/5nnPvz2SKWcxitpkphP7zH03hbkkJ/FBRAYs0qMKdmzfwtKYGL580GA0VWm24wRXq7lWivbFRzpjj4sI8F5YpNFRXo6qsDNcKC8OE8qukFTIcqL6qCs/rHqHlcV0ECRRaG+ojVDYsU7hfXi5A4bfAD0GgN83NuHIx33gotk0DbV21f+6oKlvW1fYKh9PTsS8paYsz27JgC25dLZaZ+hVOJ/O3mDDHs7NxIicHRzMzsTcxUfb8Xd2ITGFtZUVgqBgB37W+EAV2x8cHwI4dyQrAaN+TkBAdoB+rqwJAmLctLZKYALvMZkl4Of8CntXWBkB6OjrwuqkJzQ8fRAeIirAFWgEOLeFqK25LwkNpaQJ4MjcXp/LyZA9/Z2VkyFqwtYaYkheYMEzY3d4mQ8t5IdD1oiJYLRaMOJ3wTE1Je6lWZWkpigsKcPbMaaNV8itAIK0QwajYgZQUmaMP3V1wDg5iwuXC8uIiFhcWpF0bH1YDgWgKtoF+uIaHMTc9Dd/6uqjAq37p/DmZmcG+PrhGRgRmyevFrMeDybGxQFsNBFKwdHbii9WKsdFRAeKQUwm2kp8LDrq1txffvw1hfmZG1rhvanxcihiy242aIyUD3Pe+G47Pn0QBVs45WVlakqR8Cuj9PT0YdjhknWsEc09MSBsJ5rTZjIBSUj1nhAqx2hm3G6vLywK1MDsryajMwdRUUcIzOSnrXCOUd35OWkgwFrVDKIX9ycmSzP5xQBLzJlGB9bU1SUYA+ujQVxn+jc+Ddl4Cg54BJTeJQHwYGZDJOSM+n08q18728Opz+HmOewmnX3D+Zhz9fdvBkAe/W6yOgZlEV66dyblORTee2cwJswMgkykY4Pfgm7nev5WH5ti2hQb+k4eei1nM/qX9BC/aMprif+4pAAAAAElFTkSuQmCC",
-    "wiki_name": "Graceful boots (Kourend)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_boots#Kourend",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4Xu2V/0uTURSHd/8TkZAYIUMmY8Mx2XBsw8k21hY6JcySLE3TRoRRFFJEFIIIIohUVP/liee8nH1rrVf3rn7ZgcP2vvfec577OefeNxQa29jG1s+c9L75j+aknngtHtRIwK4a1AO6lzmWh9mzoKF6d+s3uJP19CfZzl/omsjEhM91vswLvjz3Vkqz+z6hnNTiL+VR7nx0QJsLp+r+E7iOkvnZhG9zqg4w/kvgQQC0U7iUwsx28FCoZCUYvGuv75gP0NPid1mYn5fZSGTAmmtZuwTlWFNV64azZB48c8uFglSLRVnMZmVmelrn/F3dK5mT540vCmNJdxe/qgI3p6ZaYEv5XAvG/FY4PDogAOgp+oPEANyYnNSEuciWwhrIQfGn9t79zMlogFCEEpgCQKFUI3mkCdPJpALWSiW5U6noHJ5zmYyOtUsbiDm9gYEhIbunaQ2Ie+pu/o1slj7Kk9unqibKUOJidFdS4ZWgVfIUAMgUAgzF5mIx7aNG9lA2Ft/JTvVEmiuX8mz5QstrwAEDYU4TPq4cy379XF6sflMVOOr0Tz3TlPXCkY4Dg+/VzhRwNfU+aCDXUsCAKAtJKSWfi1r6QMu2Vf6s451AvHuw9CGoPnJSTe11AZEIIErDf05XIb4ha7lX2ke8YwwwegoofgOC6gZitwaEk9RUSCUSmpTkBmRq8cw8YgwJ5SQejWoyesSASEAfkQwAHHVo/s7rwZxDENA14PQkAcTFSEBT4HDth/6aGxS9xDrmAmc3OM/Ese/bEE3e/m6xOwKTxHZuTnLGUbRzTT8HZgigUKgd4Pfg/dzmD/LeHNe23sB/8t51Yxvbv7RfyF97F8DY+xUAAAAASUVORK5CYII=",
+    "wiki_name": "Graceful boots (Kourend) (Inventory)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Kourend)#Inventory",
     "equipment": null,
     "weapon": null
 }

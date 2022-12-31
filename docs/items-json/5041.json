@@ -1,7 +1,7 @@
 {
     "id": 5041,
     "name": "Trousers",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "A pair of long dwarven trousers... long for dwarves, of course.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3Wz0sbQRQH8M1/4KnnQA4BIRACIQQRFPHWW0/9D3rpoYce2kqxlVZaW6n0h1D7I2hR01ZbCcZaFWKt2h/0t/Tfed3vTF727ctsyepGHHhsMjvJfPJm5m087+S3FLnDdb/rLUVvZq/SUmXExKvnV6j65LIJRmzX7lBj5TZtvb3lQOkfcWS4BTEKIA6N2Vwep3cvb4Qmxnvc0xFGxUKmaGVutA2FKyAcDFqrjlFt/poZi6sLhPESfbA3S792Zg6HYhBec3YY9H7ppgHx2CgQPvdnt0J/Py/4sWhAmCOfTpvQs6tm086/mkGYVILkL5bhAu2s3g2B8JpBenbVUqFlAII3N94zCOPOlnvoTNGj0wWPhnMe9Wc9KmY8c0+D9tbuJQfiLKFPgkrl11QoVihfmKbe3ARle0cok7ngBH1al6CFeCDeFxqEpQAIY8r9dSr1LVOhNGdAufykDxqNBH3ZmAqBfn98dnQQ+jWoWJqnfHHGgHpzY5TJXnSCvm7eTxaEwFK6QIXiUx80FQnCEv9oPGqBDvZftDCxQRKFL28DlasGlC889EHjlM1eonTmXAgF0M/GtBOkZ49o9viuLlxvA6G/b2CrCVppgrCxmyB/Y6cz59tB248PC7J1BBmKAvUPNqjcVwsypDe2WjZkNQQSRVHPrpo98i4Qwgny95A9/ryP7LIxCNlJFMQoRAD6YJfMhwAEXLgejXYHJLOEawDaDUD+kqEPV3v87WmToN36pAAttjAdgXDCXCB+PgWg9RDIFMnW5p5ogZAdPDZkhjrMDloA0vsI/QwaGNo3IGAYhGXjIol91HNqyPQDhMdGYiBGoZ+fYRKEE2ZAzYwhSxqEKi1BjNKzO5oFuZYtCoSNbJexYeuSnyUJwt+Ob1sPWiDUoBh1KAySyxYF4v1i++pN0FhyIJyyOCBUZvQNDn/3K/iGWcKugPSyoR8gTIBxMlA0dR8C+wdHPgTya1DsOuRaNgnCa5w8/hcAEBdPPo08NhGQa9kkCPfk3xIJwjiuPwmA0NpT7wqJkaFBKIoSxBED5Hlc1v8XGiiDn1/ITiKgTptGdoLlCMYeU9NIV+jPnOj2D3cjHYwl7UmWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xs3X30sUURQH8NnHeeg9hGAfZB98kAjCl3rxaR8s2sgtNENLgwJBCIL+hRCDKIIiIgqRSiQRYzEiIiKICEEiwqz/5LTfGb7umTP3rjPOrHjhsLN373o/e879gUFw+FtF3OH6vOetIiv3GrK8cC6K1/NnZenumSiI+PLisnx+Pi6fno05UPZHFIbHIKIAYljMx6eXZONxMzEx3uMzG0lULmRFVu+fT6HwCgiDoNajpqw9uBCNxasLhPEavdOak+216/tDEYRnZoegD08uRiCO9YHwvT/vZuXvxm359/5OBMIcx6vVKOzspsVp568mCJNqkP7FOlygry8nEiA8E2RnN62SKAMQBOE9QRhXHwhluBbIqf5ATlYDGewLpHY0iD6zoG+LV8oDMUvrD0cToMZIKCP1UOrDbdjpNmyoDTvhBn1f6oAQuUBcFxaEPoAwZnw0lGYjO+jHq8kEaHv9ZnEQ+i2IWdoLtLV8tXwQSukDIUs+EEr8c+XaLmindWsXcyCgWn8SBdCvt9NOkJ3d0+Lti0WsUfjj6J8cC7uCBgfSoN+rM/sFxecIMpQVhOi2sNOgzqFoZzct3vIuEMIH0rvNgoBBmUsH4ZWg6YkkCM82Sz0H4dkHQp9dSxqEa4MgnNLEZAJhhxGkUXjWIJRNg+whqUG4NnSGMmYHzQ/ihYkxN6Y6ZSKI74FCho71xSiUC9dGYZAtmw8EAPqYMRdo881UAkSUnd3R/CD0u0AoEcvIEloQrg2CcAblOIdikC7bXiCuF93XUxBRPhB31OzMkahsFoQdVgiEbd8NxLtMB44F28fspEFz+c8h1zrSIDyjjPwngAenLi0PxNJAdh1ZEO83C8L3NQhnUAEQWjr1rtAYHQQxOxbEyAEKAh7r3cICdehylQLK2iwyC5bRGXtAzSJdYb9zqNt/8kN/YwRbSIEAAAAASUVORK5CYII=",
     "wiki_name": "Trousers (blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trousers_(blue)",
     "equipment": null,

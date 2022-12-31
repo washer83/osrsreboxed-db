@@ -1,7 +1,7 @@
 {
     "id": 13168,
     "name": "Bandos dragonhide set",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-19",
     "duplicate": true,
     "examine": "A set containing a Bandos dragonhide coif, body, chaps and bracers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xs3X7UtTURwH8O3v8M1eB4H0L4QMmYxESaYYTcmF6TCfEh1ja+nyqSxEIqPEommxSsyMSEhMoxdBD6MX/TO//J7b73rub2djd7sLD3y5T8edzz333HOPPt/pL34yx3S97sVPr9eTlF9LqLx8MkWbjyZVGLG/vUCftuZo782sASVvoma4BWIUQByJ+fgqS+9fTDsaxjGuyThRrpB+2nqaKkJhCwiHQbubGdp+nlZ1sTWBUF9HF47W6cfBanUoBmGfe4dBH/IzCsR1S4Hwd78O1+j319xxNhQIbTQGAiqydVGsbue71u+slugg7ONcRRj9MeA4NXieMuOXqP9yC433t9PEYAdNDUUoOdxFqdFudW16Ikq3J3toPtFLi6k+WkrH6H6mX21xvT14Rv2W56DBnjANXWmlkVibEQcYUIAsT19TKJx3gnLuQDwuTKDeziDFukM2DjCgAEId9BJjHszG1dYE+vn5cW0g3Dkgq9moq9QNhDtHr8gGkUBDQ9G5cqDCl2c2pipQZqhJgfCIZIPA/CkUVOQ1HRQJnTWCZOslivWa7uRu2iAMVAnSMaVQHoCsOQg9JEF4u+4lO1UYs/d2m/IrzWrLKK6DGEHapChbF8V65U0gzC14o2bG2oswHB2FekjdQbM3LtoYHcTHHNRBXU9BCM7NDAfV3IKJ8G4iYgTJXkI9hEHd4cZ/oA0bUxEIb1g50HKqS0VHyZ7hOipFoFylvYNyAmKUDsKMrA9YiZIDWh/UdQHhm4WBirGxMNnhGNzY4pgfVelHZs3U2JetG4oF0h8bzs2NNquPJEBTAy2UjIcpff0C3Rpps1HYAinDoGjrOfVbmINczENOEC9NGYQPaDzaRMO9QRrra6aJqyEFBIaB3IOcmkF4y0qB8MP42uObxksQ/tLjGi89MEWg/kp2wDsQo3QQELwe4rWQjsH3jjFy+WGDjucg1/OQ6bF5ESzKqgLJx4bBjXNY2B/sLKpr+n8l2MfKAEE9XtSj7uG7O/Rtb5m+7z+sBoRSfGem6Bg9EnS0u+QAcVyAfD6e1stFAvWgJwFC73gCqrRIZCVYzknd/1Qk0hT5N6e6/AW8XdegdTc3qwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xs3X72tSURgHcP0T9qKXwYj+gF40RJk0Jg033HAyncwfpJsT3DKHzWU/KIoxilEQRVBERVGDGIGMhSwiIiKIvapXsVb/yRPfI48eH4/i9UfswJd7r/fo+dxzzz33aLMd/WInc0zn+17s9O7eNG3f9au83ZyirTuTKoz4+jJKX15E6POzOQNKXkTX8AqIUQBxJObT0zDtPQ7VNYxjnJOpR1lC2ql0P9CAwhYQDoPKj0K082BG1cXWBEJ9HX1YztHBzmJnKAZhn3uHQR+fzCoQ120Gwvd+vz9Pf/YK9PdDUYHQxqnBQRXZuiiVbuer1q+sm+gg7OOztjD6bcBxLnqa8qlJCk8NUyrsoXR0jJbiXsomJig371PnVtN+upSZpivLAbp2IUg3VkJ0Kx9WW5z3OI6r3+o5KDrtpvjMCCVDo0YcYEABsr46p1D4XAchlkA8LkygwLiDQj5XFQcYUAChDnqJMbeLMbU1gQ52M92BcOWAbK75LaVvIFw5ekU2iBwbGGj4rBXosJyvYjoC5eNDCoRbJBsE5sf+voo8p4O8LjTcCJKtNymVx3T3YbAKwkCVIB3TDNUDUGUOQg9JEJ6um9lxFcaUtt7Q8w2n2jKK6yBmUG1SlK2LUnnkTSDMLXiiCgueBgxHR6Ee0ndQcfFsFaOD+JiDOqjbF1Ah4VBzCybC68teI0j2EuohDPK5T6jfwizNmLZAeMIYhEjQem5CRUfJnuE6KgKEHmqzd1BagzAj6wNWouSA1gd11yBG6SC8szBQMTauZsbqBje2OOZb1eyW8UyNfdm6oZhBl+ed6iUJ0FJkmLIxN62cO0MXk6NVFLZAyjDIP3JS/RbmIAvzUAWk3zYdhBdozD9EiYCDFoJOSs+6FBAYBnIPcvoKwg/jbY93Gi9B+E2Pc7z0wBSB+htrke5BeOybgYDg9RCvhXQM3neMkcuPGihnfR4yjaNeBIuyjkF6L2GCxDEv1rGv/yvBPlYGCL7P/zJQ9/vrOP3cTtKvUqoTEErjlZmiY/QwCJhvr2INII4FkM3G03qrSKAe7p2egdotEtkOllOr+5+KRJoiv3Okyz+yiWbFc/2dCQAAAABJRU5ErkJggg==",
     "wiki_name": "Bandos dragonhide set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_dragonhide_set",
     "equipment": null,

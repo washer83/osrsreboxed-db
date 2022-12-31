@@ -1,7 +1,7 @@
 {
     "id": 17020,
     "name": "Silver pot",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-06-09",
     "duplicate": true,
     "examine": "Frank's shiny silver coated pot.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xu2XXU8TURCGOb+Dm96ZmJgQEn+C4cYbYmKiVxAiEvmIiIgIEkREpBo+RIpULFIEqSC1goCFAAIlFKz4Ef7OyDvrrKeHFmx3QU2cZC7YpHuefeedOUNOzv9wPRSlz2OLX4febWig5vp6aqqro8baWrpVU0M3q6vpxtWq4wCzDuhsa2OQxx0dFHzaT+OBAIVfjtDM6xBFw2Fann1Po8/85G1pYbgjUk3RQHcXPWptZUUe3Gmmrvb2JJiFSITWolHaWl2llblZejs2SoO9vfwbqHelpMQtKMUvBwRKcr2ygg/o7+rk592XTpGvLI8GK/MpWJ1P47WnaXt9jeGgGNQCVFVZGQPleTxOoRR/PQAuFxdzlpzxUP25E+QtOpkSSM8XPh+XV3zlEEjRm2CQlmZmOOGPuclJGvEPsJdwCFSDqeErqAjwseeDnCgZ/kZ5oaorQABYnZ+3E6WQhFcWp9/Rh6kp9hFKiA+AtwAd6Otj7wEI3iu6eMGpjxStLyzYGVtcTEoAQjl4ZXZigqZD4wwUGhpi76Bc/p4eBrrf3MTldqCS4q/eWFqizZXlfYnnUAllhMdEJXQdgFAyjAUdyKGxFcU/rnAbm4nngIJqukpStonhYQZC2XQgeO5sQUG2ZVOUiMX2JVoaCShTJZQt8mosyUc6EIx9vrAwG5UU7Wxu7svExoaVP8FEJTE3GgA+krKlAoKxPbm5maqk6Ov2lp1f4nE7bbg9KKgk5ja7DWVLBQRjC1AGKin6nkhwfvu0bacOCKXgJymb3m0oWzqga+Xl2QHt7nxOShMQKullEx9J2dIBodNcATKTVdLKZg7JVECY6n8ESFdIJvVfB3TvdqMTIMTBUDpQqtYHECa1q0DoKBgYZnYChM0AQNggK0pLbZiMgXg677U3OgoAOqAA6cNR7zIMRgBh/ZBNE1eHDmSeeEgoPkzuMxPOHIzmrY+rA+vHk4de3pNcAEJY64fc+ADD7DkMBlcH1g9peVl/8b4sy6WH9RIcDABRzYTR7zHdP+ba4RDGCusFilsaE1mH0X0jdxjKhT1a1lYXVEkX1stxsKwZsh1CEXgGezRUwX8nrqqSLkSt38kjBTFD//KD0vzdPx0/APwDatfAtoUKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4Xu2WMUsDQRCFc+UVW6QIhEBALMRCJE0KQUG0CSJCQBQUIaAWFkIKCwuLFIL+B8HO2sbGwsIuYGltKf6MkXfDmL3J3p2X24sIGXgcXpLd7968W6dSmZX3CihZU6vRpp12+KONViWmKYDxBt01BsC11wnpZCuks52QzruG+ruGLvZNdH97hSFLci2gvXXeBDC4AsgFc3XEV9w/3ByBLc8LXOEKosVl4dUlbgkAcf/loU7Dxzq9Pzfo47VBn8MGDXqGLg8YUtxqLzJQa26uKFQQLQwALAoN+obubqv0dF8bA/p6a8YEl+AmHsQDUBC1BUAitAdPjU0kwBJsOAFwfA4BBn/Ld70AAQCZSJJAQmghhIdwAXnIURBlIUlJUC4gOFgwRxxmGwBvEKSh7HaWCiQASXK5lAaEYC80J25bEL2+WhrIdskGEigbyM5RTpfcMC4wDaRdcgFVTW6XAro+NmNyQWXlSAMhR81abpfcQBouq21egW5OTUwuIJdLWUAIthcgLe2SztEMaMpAqHSoPwGyQ+wTSGByA9lnjn7L8gDJpKmB9I4ZFf9fpuHSziEBkuHMExCKxw8XWBoMziG7XXrgn6BddvEiGiwNRtyRdtljR0EYLl6AZ2sA6NzoExqSKdGTK0nFi2NjGwDtkfkH0sNYSTBc4tZvVCqILvvJ06R/96/rGy1qEkREejb0AAAAAElFTkSuQmCC",
     "wiki_name": "Silver pot (Murder Mystery) (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_pot_(Murder_Mystery)#Normal",
     "equipment": null,

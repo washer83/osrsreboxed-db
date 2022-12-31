@@ -1,7 +1,7 @@
 {
     "id": 19100,
     "name": "2/3 cake",
-    "last_updated": "2021-08-05",
+    "last_updated": "2022-12-31",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "Someone has eaten a big chunk of this cake.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAEBElEQVR4Xu2U209UVxTGOf8EL/NyknmYxCdiYpr+JT4YTdRoSTUmNLVqUDNSvEXUKaUjHS9MAaEgCE4HR8oQHEEmA3TKrUy5ZoCAd64l3PP1fOt4mHEY8LSKTaor+bJhz9l7/fZa394pKZ/i/x0KzGnLQ0+0e+dOHNizB4cPHsSR9HQZv9y/H1/s3Svz+3btEm0RVOzEXx06hOMZGTh97BjOnjqJS1lZcFy4gKvnzuFydrb8f/GMHeftp2E/cQInjx59n9XSN+Km32ZmSiIm/iHnElzfOVDgdKL4ugtlBQUod7tlLL11U+Z+unYN13Nzke+4Kt8T+h2hlA2T3y0qgufnUvgqKlBXXY2Gmho01tbK6Pd48GtVlfzGb6pvF6OisFDWcf2/rJaCm3l5KPoxX07MDe+VlqDmTrkkq/f+gsADHx77/Wiur0ewoUHEvzlHNdXVCSS/e+i7L2sMUG952T8FU+RkXPigslJOzU2ZhIlbHgXQ2tiItsdNCDc3r4lzFH8PBR6uA+X6eFDKBJTyRhu4GROsJQ8G0R4KoaOlBZ1tregOh9H1W5uIc/yN3xiQXMf1BCMMIVgt5uBhmS9NVTeDUuR03Cg+MRMyeU/774h0dCDS2Ynerq43VHHegrJsC0qydBXZLXCf0nUj0wLXcV3Ob1Lx/depcGSkmgNKlrivuxv9PT0YiEQw2Psnhvp6k+ptQPEwOUdMAj0dG1uXPNrfj+jAAIYHBzEyNISx4WGMRqPrlAxoIxjTQBMvXmBpaQmTr15KEiYfHxnBk9FRgX06Pr6h3Ns0AE2u13LaNAhNjjjlxMkUULjQKkAcFxYWMD83h5fPnuHV8+cCu5kSgeLBkskUUG2uiganiiaXitAtK5aXl7G4uChgf83MYHZ6elOxbYbi22fI8BVlCohe8abFgFrdVnSVWBEpt6K/0oaVlRWBZBUJyiouzM9jZmpK2lp10bIm3jzj9lEEoqfoJ9O3jED0Te12rVI7VAFqL7bij1Ir+u7YsLq6uk4GDC+D94oq8uSoAsMKsRo0Nk1NM2enp8J+wCQQW0YgmtSvQQU0qOBnMaAn92Ma8+pihegzgnAPsyLMW4H8ebqHAvmqGHl6clKAWjW1f65DsXVDVTZEq20Y8ejiJfA5dCAjkRklEiSEsgZjeIhAc7OzCGlA4ddgBGzaobeUVfRpou88aTGgxJ3fIRSBCd6wChBPTg/RvPQLRwJOTUxIm/g28bHkA8oXfQuAGHqPaWgC8ZbRQ7xp/xFQSoq+qSLVMYDoH46cIyyryPbSd/QPb9aWAcVCrxarkwyInuPNJAzfmg8AFKsWRSC20aiOAcM3hw/fBwEyIh5sI5m8zu83Et+SRCV+/yk+ivgbBcPBxPUXk8YAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcUlEQVR4Xu2U4WdWURjA7/nYh/vhfrhcL2P6kD4k+7IP0Uh9mSRGijLGSmbGZFRMRmUyllIzNVumZYqIEZGIiEQkEpH+kSe/czzvPe/Zfd97VnsXtYefu933vO/zO8/znJMku/Fvh5E4uh4u0b6exHJwr0P/h568pEtS5Y5VoH+/4/CBEn0Hug62sVqlRChwtM8x2L+nBX0PoewfSpmOAicOOYYGHKePlH/rZxDK/ma1TLREDLrel92imKkVOHdsM6FIDBFSplIiTA4jg62En1eJ+tUC8vX19naSMpUCYXI4f7yVlcuZPJzKZPGS4/5kJncmHPPjmcxddMxeSOXGaCozI2mcUJi4Knk76oR8menhSKGJoXRTIhg7WU+VUDuZaKHJU6lcOZvap58M0TrazYx/FfhECb27V1ghnlNnUosmRLIToVAdUULPr+eyMZvLq7lc3tx2cqByddA2xW+fonMFUUI6Lyr09m4hHxYL+bRUyJdHjWb/Q5CmiqtXsyacPD19gBAzxTxFnzIV0hYh9H6hkI8PCvm83LCDGYIQa/nu+rXcsjadWxkqRDUYbF1LJVkfJUTLfCG+zO5V6OfTkh/rDnbLOkT4jViQqRV6cdPN0MtbeYsQOyMxUrTu62pDvj1uyPcnDg7BsxknpIliCA2CME0ZnaFQSOdFhxhpqqnXQ0QbthrGyryeL6wQO2eGqoR8Gb1AuyBEuB4z0AhxypghTtpfEkoS96PGVkeFmB+evEOWKtJe5o754WR1TagMVy2qUyXEzHEykeGu2QGhslqAEG3U6qgMdw4X344Iafhi7Yg8ztsb4V0SEq7fjf8ifgE31eJHaRnoywAAAABJRU5ErkJggg==",
     "wiki_name": "Cake (2/3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cake#2/3",
     "equipment": null,
