@@ -9,8 +9,8 @@ authors = ["Neffarion <main@neffware.com>", "PH01L <phoil@osrsbox.com>"]
 license = "GPL-3.0-only"
 
 [tool.poetry.dependencies]
-python = "^3.10"
-dataclasses = "python_version < 3.11"
+python = "3.7"
+dataclasses = "^0"
 
 [tool.poetry.dev-dependencies]
 setuptools = "^51.0.0"
