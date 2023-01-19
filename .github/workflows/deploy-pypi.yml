@@ -23,8 +23,8 @@ jobs:
     - name: Install Poetry
       uses: Gr1N/setup-poetry@v8
 
-    - name: Poetry version
-      run: poetry --version
+    - name: Poetry setup tools
+      run: poetry add setuptools==60.0.0
 
     - name: Install Dependencies
       run: poetry install
