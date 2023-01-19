@@ -21,7 +21,7 @@ jobs:
         python-version: "3.7"
 
     - name: Install Poetry
-      uses: snok/install-poetry@v1.1.1
+      uses: Gr1N/setup-poetry@v8
 
     - name: Poetry version
       run: poetry --version
