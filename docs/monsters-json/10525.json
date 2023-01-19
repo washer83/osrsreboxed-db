@@ -1,7 +1,7 @@
 {
     "id": 10525,
     "name": "Forgotten Soul",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-01-19",
     "incomplete": true,
     "members": true,
     "release_date": "2021-01-06",
@@ -18,7 +18,9 @@
     "venomous": false,
     "immune_poison": true,
     "immune_venom": true,
-    "attributes": [],
+    "attributes": [
+        "undead"
+    ],
     "category": [],
     "slayer_monster": false,
     "slayer_level": null,

@@ -4559,17 +4559,9 @@
         "id": 1197,
         "name": "General Bentnoze"
     },
-    "1198": {
-        "id": 1198,
-        "name": "Ceril Carnillean"
-    },
     "1199": {
         "id": 1199,
-        "name": "Claus the chef"
-    },
-    "1200": {
-        "id": 1200,
-        "name": "Guard"
+        "name": "Claus the Chef"
     },
     "1201": {
         "id": 1201,
@@ -4579,21 +4571,9 @@
         "id": 1202,
         "name": "Henryeta Carnillean"
     },
-    "1203": {
-        "id": 1203,
-        "name": "Butler Jones"
-    },
-    "1204": {
-        "id": 1204,
-        "name": "Alomone"
-    },
     "1205": {
         "id": 1205,
         "name": "Hazeel"
-    },
-    "1206": {
-        "id": 1206,
-        "name": "Clivet"
     },
     "1207": {
         "id": 1207,
@@ -4605,7 +4585,7 @@
     },
     "1209": {
         "id": 1209,
-        "name": "Khazard Guard"
+        "name": "Head Guard"
     },
     "1210": {
         "id": 1210,
@@ -4615,17 +4595,9 @@
         "id": 1211,
         "name": "Khazard Guard"
     },
-    "1212": {
-        "id": 1212,
-        "name": "Khazard Guard"
-    },
-    "1213": {
-        "id": 1213,
-        "name": "General Khazard"
-    },
     "1214": {
         "id": 1214,
-        "name": "Khazard barman"
+        "name": "Khazard Barman"
     },
     "1215": {
         "id": 1215,
@@ -4637,31 +4609,15 @@
     },
     "1217": {
         "id": 1217,
-        "name": "Fightslave"
+        "name": "Slave"
     },
     "1218": {
         "id": 1218,
         "name": "Hengrad"
     },
-    "1219": {
-        "id": 1219,
-        "name": "Lady Servil"
-    },
-    "1220": {
-        "id": 1220,
-        "name": "Sammy Servil"
-    },
-    "1221": {
-        "id": 1221,
-        "name": "Sammy Servil"
-    },
-    "1222": {
-        "id": 1222,
-        "name": "Justin Servil"
-    },
     "1223": {
         "id": 1223,
-        "name": "Local"
+        "name": "Spectator"
     },
     "1224": {
         "id": 1224,
@@ -13265,7 +13221,7 @@
     },
     "3544": {
         "id": 3544,
-        "name": "Desert snake"
+        "name": "Snake"
     },
     "3545": {
         "id": 3545,
@@ -17003,10 +16959,6 @@
         "id": 4563,
         "name": "Monk"
     },
-    "4564": {
-        "id": 4564,
-        "name": "Dead Monk"
-    },
     "4565": {
         "id": 4565,
         "name": "High Priest"
@@ -17054,10 +17006,6 @@
     "4576": {
         "id": 4576,
         "name": "Bones"
-    },
-    "4577": {
-        "id": 4577,
-        "name": "Ceril Carnillean"
     },
     "4578": {
         "id": 4578,
@@ -39639,156 +39587,396 @@
         "id": 11962,
         "name": "Alchemical Hydra"
     },
-    "11963": {
-        "id": 11963,
-        "name": "Guss Mistletoad"
+    "12003": {
+        "id": 12003,
+        "name": "Desert Lizard"
     },
-    "11964": {
-        "id": 11964,
-        "name": "Guss Mistletoad"
+    "12004": {
+        "id": 12004,
+        "name": "Small Lizard"
     },
-    "11965": {
-        "id": 11965,
-        "name": "Santa Claus"
+    "12005": {
+        "id": 12005,
+        "name": "Muphin"
     },
-    "11966": {
-        "id": 11966,
-        "name": "Santa's scribe"
+    "12006": {
+        "id": 12006,
+        "name": "Muphin"
     },
-    "11967": {
-        "id": 11967,
-        "name": "Santa's scribe"
+    "12007": {
+        "id": 12007,
+        "name": "Muphin"
     },
-    "11968": {
-        "id": 11968,
-        "name": "Gnome inspector"
+    "12008": {
+        "id": 12008,
+        "name": "Crow"
     },
-    "11969": {
-        "id": 11969,
-        "name": "Gnome inspector"
+    "12009": {
+        "id": 12009,
+        "name": "Crow"
     },
-    "11970": {
-        "id": 11970,
-        "name": "Snowball champion"
+    "12010": {
+        "id": 12010,
+        "name": "Crow"
     },
-    "11971": {
-        "id": 11971,
-        "name": "Snowball champion"
+    "12011": {
+        "id": 12011,
+        "name": "Crow"
     },
-    "11972": {
-        "id": 11972,
-        "name": "LazyLaura94"
+    "12012": {
+        "id": 12012,
+        "name": "Crow"
     },
-    "11973": {
-        "id": 11973,
-        "name": "Bernard"
+    "12013": {
+        "id": 12013,
+        "name": "Crow"
     },
-    "11974": {
-        "id": 11974,
-        "name": "GreatScott85"
+    "12014": {
+        "id": 12014,
+        "name": "Muphin"
     },
-    "11975": {
-        "id": 11975,
-        "name": "JoyfulJudy02"
+    "12015": {
+        "id": 12015,
+        "name": "Muphin"
     },
-    "11976": {
-        "id": 11976,
-        "name": "CharlieChimes06"
+    "12016": {
+        "id": 12016,
+        "name": "Muphin"
     },
-    "11977": {
-        "id": 11977,
-        "name": "MerryMax2000"
+    "12017": {
+        "id": 12017,
+        "name": "Door Guard"
     },
-    "11978": {
-        "id": 11978,
-        "name": "WhoLouCindy57"
+    "12018": {
+        "id": 12018,
+        "name": "Door Guard"
     },
-    "11979": {
-        "id": 11979,
-        "name": "Guss Mistletoad"
+    "12019": {
+        "id": 12019,
+        "name": "Khazard Guard"
     },
-    "11980": {
-        "id": 11980,
-        "name": "Guss Mistletoad"
+    "12020": {
+        "id": 12020,
+        "name": "Khazard Guard"
     },
-    "11982": {
-        "id": 11982,
-        "name": "Ebenezer1843"
+    "12021": {
+        "id": 12021,
+        "name": "Khazard Guard"
     },
-    "11983": {
-        "id": 11983,
-        "name": "JacobM7"
+    "12022": {
+        "id": 12022,
+        "name": "Khazard Guard"
     },
-    "11984": {
-        "id": 11984,
-        "name": "MiniatureMarie"
+    "12023": {
+        "id": 12023,
+        "name": "Khazard Guard"
     },
-    "11985": {
-        "id": 11985,
-        "name": "DeathlyFuture3"
+    "12024": {
+        "id": 12024,
+        "name": "Khazard Guard"
     },
-    "11986": {
-        "id": 11986,
-        "name": "CanYouCratchit"
+    "12025": {
+        "id": 12025,
+        "name": "General Khazard"
     },
-    "11987": {
-        "id": 11987,
-        "name": "Guss Mistletoad"
+    "12026": {
+        "id": 12026,
+        "name": "General Khazard"
     },
-    "11988": {
-        "id": 11988,
-        "name": "Snowball champion"
+    "12027": {
+        "id": 12027,
+        "name": "General Khazard"
     },
-    "11989": {
-        "id": 11989,
-        "name": "Barbarian bartender"
+    "12028": {
+        "id": 12028,
+        "name": "Slave"
     },
-    "11990": {
-        "id": 11990,
-        "name": "Goose"
+    "12029": {
+        "id": 12029,
+        "name": "Lady Servil"
     },
-    "11991": {
-        "id": 11991,
-        "name": "Father Gnome"
+    "12030": {
+        "id": 12030,
+        "name": "Sammy Servil"
     },
-    "11992": {
-        "id": 11992,
-        "name": "Bobby"
+    "12031": {
+        "id": 12031,
+        "name": "Sammy Servil"
     },
-    "11993": {
-        "id": 11993,
-        "name": "Paola"
+    "12032": {
+        "id": 12032,
+        "name": "Sammy Servil"
     },
-    "11994": {
-        "id": 11994,
-        "name": "Elson"
+    "12034": {
+        "id": 12034,
+        "name": "Justin Servil"
     },
-    "11995": {
-        "id": 11995,
-        "name": "Saunders"
+    "12035": {
+        "id": 12035,
+        "name": "Justin Servil"
     },
-    "11996": {
-        "id": 11996,
-        "name": "Waitress"
+    "12037": {
+        "id": 12037,
+        "name": "Bouncer"
     },
-    "11997": {
-        "id": 11997,
-        "name": "Waiter"
+    "12038": {
+        "id": 12038,
+        "name": "Bouncer"
     },
-    "11998": {
-        "id": 11998,
-        "name": "Waiter"
+    "12040": {
+        "id": 12040,
+        "name": "Khazard Ogre"
     },
-    "11999": {
-        "id": 11999,
-        "name": "Waiter"
+    "12041": {
+        "id": 12041,
+        "name": "Khazard Ogre"
     },
-    "12000": {
-        "id": 12000,
-        "name": "Waiter"
+    "12043": {
+        "id": 12043,
+        "name": "Khazard Scorpion"
     },
-    "12001": {
-        "id": 12001,
-        "name": "Festive Cook"
+    "12044": {
+        "id": 12044,
+        "name": "Khazard Scorpion"
+    },
+    "12045": {
+        "id": 12045,
+        "name": "Guard"
+    },
+    "12046": {
+        "id": 12046,
+        "name": "Evelot"
+    },
+    "12047": {
+        "id": 12047,
+        "name": "Evelot"
+    },
+    "12048": {
+        "id": 12048,
+        "name": "Hazeel Cultist"
+    },
+    "12049": {
+        "id": 12049,
+        "name": "Clivet"
+    },
+    "12050": {
+        "id": 12050,
+        "name": "Hazeel"
+    },
+    "12051": {
+        "id": 12051,
+        "name": "Hazeel"
+    },
+    "12052": {
+        "id": 12052,
+        "name": "Hazeel"
+    },
+    "12053": {
+        "id": 12053,
+        "name": "Big Fish"
+    },
+    "12054": {
+        "id": 12054,
+        "name": "General Khazard"
+    },
+    "12055": {
+        "id": 12055,
+        "name": "General Khazard"
+    },
+    "12056": {
+        "id": 12056,
+        "name": "General Khazard"
+    },
+    "12057": {
+        "id": 12057,
+        "name": "General Khazard"
+    },
+    "12058": {
+        "id": 12058,
+        "name": "General Khazard"
+    },
+    "12059": {
+        "id": 12059,
+        "name": "General Khazard"
+    },
+    "12060": {
+        "id": 12060,
+        "name": "Dead Wolf"
+    },
+    "12061": {
+        "id": 12061,
+        "name": "Assassin"
+    },
+    "12062": {
+        "id": 12062,
+        "name": "Assassin"
+    },
+    "12063": {
+        "id": 12063,
+        "name": "Strange Creature"
+    },
+    "12064": {
+        "id": 12064,
+        "name": "Jhallan"
+    },
+    "12065": {
+        "id": 12065,
+        "name": "Jhallan"
+    },
+    "12066": {
+        "id": 12066,
+        "name": "Khazard Soldier"
+    },
+    "12067": {
+        "id": 12067,
+        "name": "Khazard Soldier"
+    },
+    "12068": {
+        "id": 12068,
+        "name": "Khazard Soldier"
+    },
+    "12069": {
+        "id": 12069,
+        "name": "Khazard Soldier"
+    },
+    "12070": {
+        "id": 12070,
+        "name": "Captain Malleta"
+    },
+    "12071": {
+        "id": 12071,
+        "name": "Sergeant Raymond"
+    },
+    "12072": {
+        "id": 12072,
+        "name": "Scout"
+    },
+    "12073": {
+        "id": 12073,
+        "name": "Strange Creature"
+    },
+    "12074": {
+        "id": 12074,
+        "name": "Strange Creature"
+    },
+    "12075": {
+        "id": 12075,
+        "name": "Strange Creature"
+    },
+    "12076": {
+        "id": 12076,
+        "name": "Strange Creature"
+    },
+    "12077": {
+        "id": 12077,
+        "name": "Phantom Muspah"
+    },
+    "12078": {
+        "id": 12078,
+        "name": "Phantom Muspah"
+    },
+    "12079": {
+        "id": 12079,
+        "name": "Phantom Muspah"
+    },
+    "12080": {
+        "id": 12080,
+        "name": "Phantom Muspah"
+    },
+    "12081": {
+        "id": 12081,
+        "name": "Strange Creature"
+    },
+    "12082": {
+        "id": 12082,
+        "name": "Phantom Muspah"
+    },
+    "12084": {
+        "id": 12084,
+        "name": "Snake"
+    },
+    "12085": {
+        "id": 12085,
+        "name": "Ceril Carnillean"
+    },
+    "12086": {
+        "id": 12086,
+        "name": "Ceril Carnillean"
+    },
+    "12087": {
+        "id": 12087,
+        "name": "Guard"
+    },
+    "12088": {
+        "id": 12088,
+        "name": "Guard"
+    },
+    "12089": {
+        "id": 12089,
+        "name": "Butler Jones"
+    },
+    "12090": {
+        "id": 12090,
+        "name": "Jones"
+    },
+    "12091": {
+        "id": 12091,
+        "name": "Butler Jones"
+    },
+    "12092": {
+        "id": 12092,
+        "name": "Alomone"
+    },
+    "12093": {
+        "id": 12093,
+        "name": "Alomone"
+    },
+    "12094": {
+        "id": 12094,
+        "name": "Alomone"
+    },
+    "12095": {
+        "id": 12095,
+        "name": "Clivet"
+    },
+    "12096": {
+        "id": 12096,
+        "name": "Hazeel Cultist"
+    },
+    "12097": {
+        "id": 12097,
+        "name": "Hazeel Cultist"
+    },
+    "12098": {
+        "id": 12098,
+        "name": "Hazeel Cultist"
+    },
+    "12099": {
+        "id": 12099,
+        "name": "Scruffy"
+    },
+    "12100": {
+        "id": 12100,
+        "name": "Ceril Carnillean"
+    },
+    "12101": {
+        "id": 12101,
+        "name": "Henryeta Carnillean"
+    },
+    "12102": {
+        "id": 12102,
+        "name": "Ali the Tea Seller"
+    },
+    "12103": {
+        "id": 12103,
+        "name": "Morgiana"
+    },
+    "12104": {
+        "id": 12104,
+        "name": "Cassim"
+    },
+    "12105": {
+        "id": 12105,
+        "name": "Elias White"
     }
 }

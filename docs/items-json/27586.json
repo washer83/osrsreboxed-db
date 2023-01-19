@@ -1,7 +1,7 @@
 {
     "id": 27586,
     "name": "Sweet nutcracker staff",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-19",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -30,9 +30,9 @@
     "wiki_name": "Nutcracker staff (Sweet)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Nutcracker_staff#Sweet",
     "equipment": {
-        "attack_stab": -50,
+        "attack_stab": -100,
         "attack_slash": -100,
-        "attack_crush": -100,
+        "attack_crush": -50,
         "attack_magic": 0,
         "attack_ranged": 0,
         "defence_stab": 0,
@@ -49,7 +49,7 @@
     },
     "weapon": {
         "attack_speed": 4,
-        "weapon_type": "spiked",
+        "weapon_type": "blunt",
         "stances": [
             {
                 "combat_style": "pound",
@@ -63,13 +63,6 @@
                 "attack_type": "crush",
                 "attack_style": "aggressive",
                 "experience": "strength",
-                "boosts": null
-            },
-            {
-                "combat_style": "spike",
-                "attack_type": "stab",
-                "attack_style": "controlled",
-                "experience": "shared",
                 "boosts": null
             },
             {

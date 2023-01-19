@@ -156369,7 +156369,7 @@
         "id": 27499,
         "name": "Halloween wig",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27500": {
         "id": 27500,
@@ -156699,7 +156699,7 @@
         "id": 27559,
         "name": "Snowball",
         "type": "normal",
-        "duplicate": false
+        "duplicate": true
     },
     "27560": {
         "id": 27560,
@@ -156880,5 +156880,11 @@
         "name": "Festive games crown",
         "type": "placeholder",
         "duplicate": true
+    },
+    "27590": {
+        "id": 27590,
+        "name": "Muphin",
+        "type": "normal",
+        "duplicate": false
     }
 }

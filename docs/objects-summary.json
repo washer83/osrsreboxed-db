@@ -297,19 +297,19 @@
     },
     "77": {
         "id": 77,
-        "name": "Door"
+        "name": "Prison Gate"
     },
     "78": {
         "id": 78,
-        "name": "Door"
+        "name": "Prison Gate"
     },
     "79": {
         "id": 79,
-        "name": "Prison Door"
+        "name": "Prison Gate"
     },
     "80": {
         "id": 80,
-        "name": "Prison Door"
+        "name": "Prison Gate"
     },
     "81": {
         "id": 81,
@@ -6303,18 +6303,6 @@
         "id": 2853,
         "name": "Stairs"
     },
-    "2854": {
-        "id": 2854,
-        "name": "Wall"
-    },
-    "2856": {
-        "id": 2856,
-        "name": "Chest"
-    },
-    "2857": {
-        "id": 2857,
-        "name": "Chest"
-    },
     "2858": {
         "id": 2858,
         "name": "Crate"
@@ -6325,7 +6313,7 @@
     },
     "2860": {
         "id": 2860,
-        "name": "Hazeel's coffin"
+        "name": "Coffin"
     },
     "2861": {
         "id": 2861,
@@ -33697,7 +33685,7 @@
     },
     "14867": {
         "id": 14867,
-        "name": "Barrel"
+        "name": "Barrels"
     },
     "14868": {
         "id": 14868,
@@ -49630,10 +49618,6 @@
     "23046": {
         "id": 23046,
         "name": "Fire"
-    },
-    "23047": {
-        "id": 23047,
-        "name": "Fairy ring"
     },
     "23052": {
         "id": 23052,
@@ -87231,14 +87215,6 @@
         "id": 43103,
         "name": "Rock wall"
     },
-    "43107": {
-        "id": 43107,
-        "name": "Fairy ring"
-    },
-    "43108": {
-        "id": 43108,
-        "name": "Fairy ring"
-    },
     "43109": {
         "id": 43109,
         "name": "Fairy ring"
@@ -91734,5 +91710,545 @@
     "46539": {
         "id": 46539,
         "name": "Wintumber tree"
+    },
+    "46562": {
+        "id": 46562,
+        "name": "Prison Gate"
+    },
+    "46563": {
+        "id": 46563,
+        "name": "Door"
+    },
+    "46564": {
+        "id": 46564,
+        "name": "Ceril Carnillean"
+    },
+    "46569": {
+        "id": 46569,
+        "name": "Broken Window"
+    },
+    "46571": {
+        "id": 46571,
+        "name": "Broken Glass"
+    },
+    "46572": {
+        "id": 46572,
+        "name": "Chest"
+    },
+    "46573": {
+        "id": 46573,
+        "name": "Rowboat"
+    },
+    "46574": {
+        "id": 46574,
+        "name": "Barrels"
+    },
+    "46575": {
+        "id": 46575,
+        "name": "Barrels"
+    },
+    "46576": {
+        "id": 46576,
+        "name": "Boulder"
+    },
+    "46577": {
+        "id": 46577,
+        "name": "Boulder"
+    },
+    "46578": {
+        "id": 46578,
+        "name": "Boulder"
+    },
+    "46579": {
+        "id": 46579,
+        "name": "Boulder"
+    },
+    "46580": {
+        "id": 46580,
+        "name": "Fallen tree"
+    },
+    "46581": {
+        "id": 46581,
+        "name": "Fallen tree"
+    },
+    "46582": {
+        "id": 46582,
+        "name": "Tree stump"
+    },
+    "46583": {
+        "id": 46583,
+        "name": "Tree stump"
+    },
+    "46584": {
+        "id": 46584,
+        "name": "Bush"
+    },
+    "46585": {
+        "id": 46585,
+        "name": "Bush"
+    },
+    "46589": {
+        "id": 46589,
+        "name": "Cooking shelves"
+    },
+    "46590": {
+        "id": 46590,
+        "name": "Wall"
+    },
+    "46591": {
+        "id": 46591,
+        "name": "Wall"
+    },
+    "46592": {
+        "id": 46592,
+        "name": "Chest"
+    },
+    "46593": {
+        "id": 46593,
+        "name": "Chest"
+    },
+    "46594": {
+        "id": 46594,
+        "name": "Chest"
+    },
+    "46595": {
+        "id": 46595,
+        "name": "Chest"
+    },
+    "46596": {
+        "id": 46596,
+        "name": "Crevice"
+    },
+    "46597": {
+        "id": 46597,
+        "name": "Crevice"
+    },
+    "46598": {
+        "id": 46598,
+        "name": "Crevice"
+    },
+    "46599": {
+        "id": 46599,
+        "name": "Crevice"
+    },
+    "46600": {
+        "id": 46600,
+        "name": "Gate"
+    },
+    "46601": {
+        "id": 46601,
+        "name": "Gate"
+    },
+    "46602": {
+        "id": 46602,
+        "name": "Gate"
+    },
+    "46603": {
+        "id": 46603,
+        "name": "Gate"
+    },
+    "46604": {
+        "id": 46604,
+        "name": "Gate"
+    },
+    "46605": {
+        "id": 46605,
+        "name": "Damaged Table"
+    },
+    "46606": {
+        "id": 46606,
+        "name": "Damaged Table"
+    },
+    "46607": {
+        "id": 46607,
+        "name": "Crate"
+    },
+    "46608": {
+        "id": 46608,
+        "name": "Crate"
+    },
+    "46609": {
+        "id": 46609,
+        "name": "Barrel"
+    },
+    "46610": {
+        "id": 46610,
+        "name": "Lever Mechanism"
+    },
+    "46611": {
+        "id": 46611,
+        "name": "Lever"
+    },
+    "46612": {
+        "id": 46612,
+        "name": "Lever"
+    },
+    "46613": {
+        "id": 46613,
+        "name": "Pillar"
+    },
+    "46614": {
+        "id": 46614,
+        "name": "Brazier"
+    },
+    "46615": {
+        "id": 46615,
+        "name": "Brazier"
+    },
+    "46616": {
+        "id": 46616,
+        "name": "Chest"
+    },
+    "46617": {
+        "id": 46617,
+        "name": "Chest"
+    },
+    "46618": {
+        "id": 46618,
+        "name": "Chest"
+    },
+    "46619": {
+        "id": 46619,
+        "name": "Chest"
+    },
+    "46620": {
+        "id": 46620,
+        "name": "Chest"
+    },
+    "46621": {
+        "id": 46621,
+        "name": "Chest"
+    },
+    "46622": {
+        "id": 46622,
+        "name": "Smoke Cloud"
+    },
+    "46638": {
+        "id": 46638,
+        "name": "Crevice"
+    },
+    "46658": {
+        "id": 46658,
+        "name": "Gate"
+    },
+    "46659": {
+        "id": 46659,
+        "name": "Gate"
+    },
+    "46660": {
+        "id": 46660,
+        "name": "Gate"
+    },
+    "46661": {
+        "id": 46661,
+        "name": "Gate"
+    },
+    "46665": {
+        "id": 46665,
+        "name": "Blockage"
+    },
+    "46673": {
+        "id": 46673,
+        "name": "Heavy Door"
+    },
+    "46674": {
+        "id": 46674,
+        "name": "Damaged Table"
+    },
+    "46675": {
+        "id": 46675,
+        "name": "Damaged Table"
+    },
+    "46676": {
+        "id": 46676,
+        "name": "Smashed Chair"
+    },
+    "46677": {
+        "id": 46677,
+        "name": "Chair"
+    },
+    "46678": {
+        "id": 46678,
+        "name": "Chest"
+    },
+    "46679": {
+        "id": 46679,
+        "name": "Chest"
+    },
+    "46680": {
+        "id": 46680,
+        "name": "Chest"
+    },
+    "46686": {
+        "id": 46686,
+        "name": "Lever"
+    },
+    "46687": {
+        "id": 46687,
+        "name": "Lever"
+    },
+    "46688": {
+        "id": 46688,
+        "name": "Crate"
+    },
+    "46689": {
+        "id": 46689,
+        "name": "Crates"
+    },
+    "46690": {
+        "id": 46690,
+        "name": "Barrel"
+    },
+    "46691": {
+        "id": 46691,
+        "name": "Brazier"
+    },
+    "46692": {
+        "id": 46692,
+        "name": "Strange Barrier"
+    },
+    "46693": {
+        "id": 46693,
+        "name": "Spike"
+    },
+    "46694": {
+        "id": 46694,
+        "name": "Spike"
+    },
+    "46695": {
+        "id": 46695,
+        "name": "Spike"
+    },
+    "46696": {
+        "id": 46696,
+        "name": "Spike"
+    },
+    "46697": {
+        "id": 46697,
+        "name": "Spike"
+    },
+    "46700": {
+        "id": 46700,
+        "name": "Scoreboard"
+    },
+    "46701": {
+        "id": 46701,
+        "name": "Crystals"
+    },
+    "46702": {
+        "id": 46702,
+        "name": "Wall"
+    },
+    "46704": {
+        "id": 46704,
+        "name": "Staircase"
+    },
+    "46705": {
+        "id": 46705,
+        "name": "Staircase"
+    },
+    "46706": {
+        "id": 46706,
+        "name": "Cupboard"
+    },
+    "46707": {
+        "id": 46707,
+        "name": "Wall"
+    },
+    "46708": {
+        "id": 46708,
+        "name": "Wall"
+    },
+    "46709": {
+        "id": 46709,
+        "name": "Wall"
+    },
+    "46710": {
+        "id": 46710,
+        "name": "Chest"
+    },
+    "46711": {
+        "id": 46711,
+        "name": "Chest"
+    },
+    "46712": {
+        "id": 46712,
+        "name": "Chest"
+    },
+    "46713": {
+        "id": 46713,
+        "name": "Chest"
+    },
+    "46714": {
+        "id": 46714,
+        "name": "Chest"
+    },
+    "46715": {
+        "id": 46715,
+        "name": "Chest"
+    },
+    "46716": {
+        "id": 46716,
+        "name": "Ladder"
+    },
+    "46717": {
+        "id": 46717,
+        "name": "Ladder"
+    },
+    "46718": {
+        "id": 46718,
+        "name": "Scruffy's Grave"
+    },
+    "46719": {
+        "id": 46719,
+        "name": "Potted flower"
+    },
+    "46743": {
+        "id": 46743,
+        "name": "Vault Door"
+    },
+    "46752": {
+        "id": 46752,
+        "name": "Brazier"
+    },
+    "46783": {
+        "id": 46783,
+        "name": "Entry"
+    },
+    "46793": {
+        "id": 46793,
+        "name": "Rockslide"
+    },
+    "46794": {
+        "id": 46794,
+        "name": "Rockslide"
+    },
+    "46795": {
+        "id": 46795,
+        "name": "Rockslide"
+    },
+    "46796": {
+        "id": 46796,
+        "name": "Rockslide"
+    },
+    "46802": {
+        "id": 46802,
+        "name": "Table"
+    },
+    "46805": {
+        "id": 46805,
+        "name": "Well"
+    },
+    "46807": {
+        "id": 46807,
+        "name": "Tent"
+    },
+    "46808": {
+        "id": 46808,
+        "name": "Camping Equipment"
+    },
+    "46809": {
+        "id": 46809,
+        "name": "Campfire"
+    },
+    "46810": {
+        "id": 46810,
+        "name": "Crates"
+    },
+    "46811": {
+        "id": 46811,
+        "name": "Ladder"
+    },
+    "46812": {
+        "id": 46812,
+        "name": "Ladder"
+    },
+    "46813": {
+        "id": 46813,
+        "name": "Incense burner"
+    },
+    "46816": {
+        "id": 46816,
+        "name": "Fence"
+    },
+    "46817": {
+        "id": 46817,
+        "name": "Broken fence"
+    },
+    "46839": {
+        "id": 46839,
+        "name": "Cave"
+    },
+    "46840": {
+        "id": 46840,
+        "name": "Wall"
+    },
+    "46841": {
+        "id": 46841,
+        "name": "Bed"
+    },
+    "46842": {
+        "id": 46842,
+        "name": "Altar"
+    },
+    "46843": {
+        "id": 46843,
+        "name": "Altar"
+    },
+    "46845": {
+        "id": 46845,
+        "name": "Pillow"
+    },
+    "46846": {
+        "id": 46846,
+        "name": "Tent"
+    },
+    "46847": {
+        "id": 46847,
+        "name": "Noticeboard"
+    },
+    "46848": {
+        "id": 46848,
+        "name": "Drawers"
+    },
+    "46849": {
+        "id": 46849,
+        "name": "Bookcase"
+    },
+    "46851": {
+        "id": 46851,
+        "name": "Altar"
+    },
+    "46852": {
+        "id": 46852,
+        "name": "Cooking shelves"
+    },
+    "46859": {
+        "id": 46859,
+        "name": "Staircase"
+    },
+    "46860": {
+        "id": 46860,
+        "name": "Large door"
+    },
+    "46861": {
+        "id": 46861,
+        "name": "Large door"
+    },
+    "46862": {
+        "id": 46862,
+        "name": "Door"
+    },
+    "46863": {
+        "id": 46863,
+        "name": "Door"
+    },
+    "46864": {
+        "id": 46864,
+        "name": "Door"
+    },
+    "46865": {
+        "id": 46865,
+        "name": "Trapdoor"
     }
 }

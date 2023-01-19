@@ -1,7 +1,7 @@
 {
     "id": 6818,
     "name": "Bow-sword",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-19",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -17,7 +17,7 @@
     "equipable": false,
     "equipable_by_player": false,
     "equipable_weapon": false,
-    "cost": 1,
+    "cost": 30,
     "lowalch": null,
     "highalch": null,
     "weight": 3.175,
