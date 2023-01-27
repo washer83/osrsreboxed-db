@@ -1,7 +1,7 @@
 {
     "id": 27514,
     "name": "Word translations",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-11-30",
     "duplicate": true,
     "examine": "A list of translations.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACM0lEQVR4Xu2Wa0sCQRSGm3/ST+jXFBVBF7rQRTQrJSS6ICJmaZoUXc3CoiIiIqJPfeh3TbxnObOz41ixO2kfeuFl3JXd8+w7s7Onp+dfHZGQvrsuIWubI/KiOCnva/PdhhLyJD8ubyozBAM/HC50GkqfHkEw8G5mUJ3r6+0lm1eGULCYzc3ytILA7+3VAVleG6Jpcw6DuDn62/05Mhe+LE0pEECwGeYoN6aAzDuHlPf0NttATKDzwoRrIEioQlgTZnGbAYSFDSCGMu8aQT7QT32YHVVAePUdpyRkPtVPhZCQzUiEXV0fprWjAzGUeeeQEoGiKIj1gZGtn0c6ADorJWW9vCQblRV5tZ9ymZJQhVGQrQPBBFKIk092Ei1AGJ2mhIL89Bh1yIN8LADzFZCjlCDvkwADiJLKzRMMA+kwNiAcO0wJElQQANXs3Lcw7YDcpmQA/QSmWUvTiHP432FKggAwVXtbswEgG4wJhGMfSHdoBYEwfgejAz0exayODIXpKm1MB4DawTyfJlThp+O4Mo75gx1xXflAGJGYDeatsWwF4W4BnYK+i0cCwnQV16cUEBJimPfrdABEb110EP7wYhuJCAQJAuKF/XG3SgYE90y6uXdiEN7PeJN1AlTITBDAaz2pkuAU9O6RQTDiuPUNc9ZRCoJAEXSVvD64gQMA3K64afPuIeR1k4B5OV9UQCaEWdhRcZu8LgAwPG3tIMwrf1FeN6m/KV2AMOV0YbrRn4LphD4BGToVWPzptvIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMklEQVR4Xu2Wa0sCQRSGm3/iD4hu0I0sC+0uiHQlRMwSuyCJdBHDogsVBEEEQdC3vvQvJ96znHF2HDN2J+1DL7yMu7J7nn1ndvb09PyrIxKy4a5LyNLGkDzPj8uH0nS3oYQ8yY7K2/1JgoEfyzOdhtKnRxAMvJvuV+cGIhGyeWUA+YvZfFWMKgj83k71yeLKAE2bcxjEzdHfHcbIXPiiMKFAAMFmmEpmRAGZdw4o7+lttoGYQNXcmGsgSKhCWBNmcZsBhIUNIIYy7xpCDaCfurw1rIDw6jtOScjsci8VQkI2IxH2wdogrR0diKHMOweU8BVFQawPjGz9PNIB0FlhXtaKC7K+vyQvD5ddpiRUYRRk60AwgeQS5JOd2SYgjE5TQkF+eow65FE27oP5DshRSpD3SYABREllpgmGgXQYGxCOHaYECSoIgIOtWFuYVkBuUzKAfgJzXUrSiHP432FKggAwVXubUz4gG4wJhOMGkO7A8gNhbAejAz1V4laHhsJ0FdajPqBWMC+ns6rw83FCGcf8wQ65rhpAGJGYDea9vmgF4W4BnYK+i4cCwnTlVycUEBJimI+bpA9Eb110EP7wYhsJCQQJAuKF/XmfIgOCeybd3DsxCO9nvMk6AcqlxwjgrTavkuAU9O6RQTDiuPkNc9ZRCoJAEXSVvD64gQMA3Kq4afPuAeR1k4B5rc4pIBPCLOyouE1eFwAYnrZWEOaVvyivm9TflC5AmHK6MN3oT8F0Ql+v7GkgOCxNdgAAAABJRU5ErkJggg==",
     "wiki_name": "Word translations",
     "wiki_url": "https://oldschool.runescape.wiki/w/Word_translations",
     "equipment": null,

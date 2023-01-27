@@ -1,7 +1,7 @@
 {
     "id": 10104,
     "name": "Kyatt fur",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "It's a perfect-looking kyatt fur.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWElEQVR4Xs3WiW7TQBAG4ORNeASeDxDiECAQIBAVhXL0Cs3RJE2aOm6amNg4R3O0tLSqxNMM+dfMdrzdVElrUFca+chG82V2vE4qdfNHmuxh+/yfjzRtrd2n0so9FZvLdyn/+Y4KRgS1l+RXX5BXeW5BmT/i2vAIxCiAOExMq/yMdgtPYolxjc/MiKPmQqapuv7gAgpHQDgY5OYfU23joZqLow2E+RJ92luj4/DT1VAMwjlXh0F7pacKxHOngfC9k+4KnQ2yk8gpEHLcvnVLhZndGFHZ+VczCEltICf7SINwbgOFzqsYCOcMMrMbIx1bBiTi5sa1CeL+4eWdBuq5b5IDIZFcfzO2qnsX7skAaL8hQdn5QNwXDMK95dU8ra0XKZOt0HB0TP3BIQXdITmNto6GF5IX9Ki+65Pjtml7p6Wxw+bbGOhX5+vVQbJCix9XqeZ41Gx3VHK/M6DO/lgdcQ1UvelTbdejQsnRFRq13iULQmAp8fnChy+0tJyhlW8Fypa2qXdwSI0foa6UuVzot5/+ew067Wc0Zm6QRPHjy8ny5R2q+z6Fo5FCoUItv6shHAAd+YtWkJl9yogS4omxgRgFECrT7vepMx6rnsLyWUHB0lVB0R6ECk0DYU6mUNEVanW7FAyGqo/C/qRak4aXKHwnBhKbopndGNEjbwMhbBWqeV6sSoPxUQyD6iQKYhQCCbDjYt7GZtUKQoXksiUKklXCUYLwdAHkfG9TM+xoEJYNvSRB3fprAcppzEwgPGE2EL8OGIQeKlQcVSE3CFQf+fsDaod9hWIQqoPXhqzQjNXBOAeZfYT7ErSeK6sKbTX2YihsmEBhDi8XXhuJgRiF+0gAEDc1lq3oujEUQLxkDMIuLUGMMrNbRgSyLZsEYR6aWkax6qojmnp4cKxBmH/gLWgQ9qA59qE4SC6bCcJyoYcAiX5tFLh3cvZbnaM61wbhKbsMpKqTq6pgBO9T6DVcF8sRMlGQuWz8Ys0WtvVfCn7pMoabX1Xq75sej3wMNNmD5t6HbMuG+1whBJJPA+FpxBxUJxGQbdkYhCT4TP4tkSDM4/0nARDGxb+gtpAYGSYIm6IEccwBSqV4W78sTKAM3n9QnURAsw4TOQuW43zufxom0hbmd270+AMBn7FfStFhfwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADaUlEQVR4Xs2WjU4TQRSF2zfhEXwTNRo1ajRq1EgMSvwh0FCBlraWplK2pZSma1nrttaytVBE/AsmvteVM+sdZocpaWE1THKyu7OzuV/PvXOnkcjZH1Eyy/T+n48oLcUu0evpi0KpqQuUfH5eiCEahTu0kb9Ndu6WAUr/EacG94EYCkAsHaaWvUnl1PVAYDzjna4g1EiQUcrPXj4ChStAWAxUSl6jwtwVsRZXExDWq9A/2jH66j47GRQD4Z7dYaD1zA0BxGsHAeG7b61p2vfm6ZeXEECIcW5sTEiPrg3fdv7VDISgJiBr4aoEwr0JyLXuBoBwz0B6dG1EA2lAIC5uPOtAXD+c3kFA7dX74QEhkJp/XUv59SNzqgC0WXkggaCRgLguGAhzUzNJis2mKT6fo25vjzreDjU+dMmq1KXWbJfsRpuKZYesUp3erNQkbLf6MAjUfHlyINWhiaczVLBsqtabIrjT9Ki5uS2ueAZUsepQoWxTKmNJh3q1R+ECQUgl3o8/eUGTU3GafpWihcwytfs7tPbelU7p6UK9fd54LIF+duISZmQgFYq3LwdLZleouOGQ+6knoOBQzWlJEBaAdp0JI5AefcDwA2LHmIAYCkBwpt7pUHNrW9QU0mcC+tKYPCmQ34Pg0CAgrIkv5qRDtVaLGl5X1JH78cCtg4JXofCNCqQ2RT26NvwtbwKCTA4VanbAJW9rNwADd0IFYigIAdBxsW4ulTcCwSE1baECqS7hqgJhdwHIelunqtuUQEgbakkFahXvSSB0aYYZCgg7zATExwEDoYZSOUs4tPquIerI2fSo7nYEFAPBHRwbqkNDuoNxCKTXEeZVoNlEVji0VFkPQKFhAgprOF04NkIDYijMIwCAuKiRtnSpFIACEKeMgdClVSCG0qMbhg9kSpsKhHUoalXpfElcUdTd/p4Ewvq+PS6B0ING6ENBIDVtOhDShRoCiP9rfWHu+/5vcQ93Tg2EXXYckHAnkRdiCO5TqDU8p7M+ZKhAetr4YF1YXJZ/KfjQZRgufuHU35MeW14FQg8auQ+Z0oZ5dghC8EFA2I1YA3dCATKljYEQBO/UvyUqENZx/wkBCOOwQI+TCqNKB0JTVIFYIwBFItzWj5MOqIr7D9wJBWjYoUMOA8s6XPufhg5pkv7NmR5/AJ7jxyE/k1bMAAAAAElFTkSuQmCC",
     "wiki_name": "Kyatt fur",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kyatt_fur",
     "equipment": null,

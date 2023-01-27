@@ -1,7 +1,7 @@
 {
     "id": 3995,
     "name": "Zulrah's scales",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-08",
     "duplicate": true,
     "examine": "Flakes of toxic snakeskin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4Xu3VsUsCYRjH8fM/cHJpOXAQnCRoiAgScZAkhKYGQYQIysWtIeEagtqKCIocwqIhGiKEhhpyimb/g/6Ry+d9fV6fe+597141s6EffKfuvI+vSo7z95fwR819CT9Zq/tONiubP4yB5g+TIC1qPjAJcnsPfqH/pDLDZoobYLZ3FIijonEzmR0ogKtsClDOdWeBCoNMqMzXqzyd3wBRDAcBBIsHTfU9G56OBgRRiAIBRguSiNurS9F+szkJygDqXohSR8cWIAk5OfQUBkEjlDWMgYYQCsJ0IIRwDAUFYbEjIIbhIAxBCKGYx05H9JxzRVuFNdEYpzX443pZFQVK7jZU9+1rFSJoCKIoWjxq0EL7JgQTmJanIHgtYj5O0yoTiKPgfvju6X+hagl/tbQUWW45IzKBaG+LbigO4gK2hN86SIlePtPaEAQBprZRDEF6dVcUhxkL9N4PY6pN2UoppVAUhBBbEH+6ZkEQRyEIUQjjEB2oViqOezqwMIiiKIiioGo5HwJRFAfxJxumByGKg6B8RWJoHMQxY4E8Tw+C7rpuoMZeUoDgPkgH04H4UyNmBuHHZgLR/2ccBqAJTgemB/FfmxnkODoYBfEnxiwM4hiKApDpnVOY6RqLBUEcwaMg/ko4hERdEzEJgs7P4rMB/cBGx2zTFO/efvSYbeL3/2+W+waWkpuztLfsyQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAklEQVR4Xu3Vz0oCURTH8RlEYkQEKYgK/2CY0KYIRIIoN+7aJNkiqGURLQpyERTRJlpF0KJNtAl3QS/gW/RCk+fezvXMmXtnrprZoh98V804H69KjvP35/r9Jj7XT1RrvpPJyCYPY6DJwyRIi5oMTIK8zp2f7z6ozLCx4nqY9Q0F4qho3FhmBwrgKssCtFosjgMVBplQ6c8XeTq/AaIYDgIIFg8a6Xv2fToaEEQhCgQYLUgirs/PRNuNxjAoA+jpVJTcP7AAScjhXkthENRHWcMY6BtCQZgOhBCOoaAgLHYExDAchCEIIRRzf3Ulesx6opX8gmiA0+r9cbGsigIlNuuq2/aFChE0BFEULR7Va6p9GYIJTLOlIHgtYt6PUioTiKPgfvju6X+haq4/X5qJLDubFplAtNdpLxQHcQGb6zd3kqLnj5Q2BEGAqS4VQpBOzRPFYQYCvXXDmLWGbK6UVCgKQogtiD9dsyCIoxCEKIRxiA5ULRUGPR1YGERRFERR0Fo5FwJRFAfxJxumByGKg6BcRWJoHMQxA4Fau3oQdPPkBapvJQQI7oN0MB2IPzViZhB+bCYQ/X/GYQAa4nRgehD/tZlBjqODURB/YszCII6hKACZ3jmFma6xWBDEETwK4q+EQ0jUNRGTIOjkOD4b0A+sf8w2jfDu7UeP2SZ+///GuS9Qr/DuLGPdjAAAAABJRU5ErkJggg==",
     "wiki_name": "Zulrah's scales",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zulrah's_scales",
     "equipment": null,

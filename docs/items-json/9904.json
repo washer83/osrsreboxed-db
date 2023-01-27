@@ -1,7 +1,7 @@
 {
     "id": 9904,
     "name": "Sailing book",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-30",
     "duplicate": false,
     "examine": "A book for sailors.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSklEQVR4Xu3UMWvbQBgGYOsfaNLiRaChUCiYQMYOoUOHeggYEhpwICkhpbiDoR4MNRjqQAodGgIZioeEQLbSKVBTWje1sbFxTdf+movfOz7pu9NZQ3VJh+TghVhx8j1676RC4X7dzeUJPbe+dEAlLMiUiyq3hEoA+0/8VHbX/BiF75TC8CZQyxG1p3o4DHHckkKYQ235enFgRTlsyRPVyBfPo/Tw+jM9wCDvL//KzxzmFLT7wJcoE4BgOEIY5HP3rUzvIoxhDrdtcV4e+hqqUVaxYTiINwaUo5YWZ4eBOGbQ68UhxNnRmxSIUI5aUg1RS0hz3Y8hGEQAE2RDOWhJnSG0RCiAaLv4cAKZ1wkUvZu7aEk9ZfVHCapVCTJBUefPUpCjJ87TQAgfGtUnKotrABGK0nkZyADkrCVgOKq9EaQG8sx+fJGJYQsImsVT6qAldbAbpQSFdDYTFCV8fZW6hhxuBfIm8ITiFVB97KAlAhEKIBuKAGbwXWoJb/7cLQHCUeZAyoeqPdQSvT5ygrA80SzZUeZwno/bKviZtpteIbm3jUCEModzgC38HAKVsyUF4igkC3G8E4iTF4Ho7hfFea0oBr96ot+/lC9XwuQAYXmitRJosCzEZPJTDAff5NnBoabDjc9Izi3DUiCOQggx/z0S0+mVGI2+xwBqEL93vGVYOmg87kvEbDaMAbwtID7tFeMtU40kcbBlWJ5or6q7NR93QgBw+mo5gMf87/+wFAgNof4shDncEcC29DvPQph/eWPLHPxfEHd+XQP3NM73UAXzPQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRUlEQVR4Xu3UzUsbQRgG8CzLErKIRepJUCwiBSlWgvgBKukhUC+CgtAUKngQ6cGDkIOIB6/i0YOKoEHSBEKI4Af0H+jfNeaZ4d19Z3ayh+5EDzrwgFmj72+fmd1c7n29zeUJPS++dMBUISczmVd5IVQMWBrzE5kf9SMUvjMzPt4PVG9E6ZMeDkMct6QQ5lBbzo9/WlEOW/JEMfTF1zA5vDyhBxhk6+yf/MxhTkHzA75EmQAEwxHCICfVdZnL40IEc7ht3fMy6Guo1UkVG4aDeGNAOWqpe3YYiGMalxdRCHG4+z0BIpSjllRD1BKy9tmPIBhEABNkQzloSZ0htEQogGi7+HACmdcJFP54ctGSesrKH2LUxlSQCgorf3uCHD1xngZC+NCw3FHpXgOIUJTKciADkLOWgOGozS9BYiDP/c2pTATrQtAsnlIHLamDvToUo5DKdIyiFL7VE9eQXzOBvAk8oXgFFEcctEQgQgFkQxHADL5LLeHNn7klQDjKHEjZLtpDLdHrIyMIyxNrQ3aUOZxnZ1YFP9N20ysk87YRiFDmcA6whZ9DoDK2pEAchaQhfs8FYm8hENWlvDgq5UXjz4Wo1c7ky5UwGUBYntj4GGiwNESncyuajSt5dnCo6XDjM5Jxy7AUiKMQQjw9tsTdXV20WtcRgBrE7x1vGZYOardrEvFw34wAvC0g9hfz0ZapRuI42DIsT2wOq7s1H3dCAHCw0hvAY/73/1gKhIZQfxrCHO4IYFv6nachzL/s2zIHvwriza9n/SI22ek4v8sAAAAASUVORK5CYII=",
     "wiki_name": "Sailing book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sailing_book",
     "equipment": null,

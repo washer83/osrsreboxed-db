@@ -1,7 +1,7 @@
 {
     "id": 8670,
     "name": "Banner",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with the symbol of Misthalin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABR0lEQVR4Xu2UQWrCQBSGzTmy8QheQDB0WZdCUbDQbgRxI6IWuhFE8AzSRbcFwSuIUHqsKS/xmeR/z2CSGUm1P3wLk3Hel39CarW/Hc9cxlXimUHvMcWw3xbXCIdS+ORFsRLPfPjbFHKQzsb/SmFJSgpp4HAN2qtRr5eVip4UBfLK3L5QlhQOPsftC2lSOFSD1rFM5YRw9wKR35M8QrzuvoSahyDiO8i8lxS3KESJpZr7QEADP/2daf08nKDfjGUh2ZDayBE8SgcNSaHkUXA71BTfIzFc60yIB4SN8LFBS9p650JJsEFtfWWE+D9OhFDkXyhKeSHCuhBK5BXilnD3ArErZKGlCgqhgAYKaDgXit4JCYo4FcLhDA1izslZE5oNOuZt+GTeR12zGPdDlpPnkNX0xaznr0eBOJpcfK10ZCNI1rB0e5flF1SDw+uoUipOAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRUlEQVR4Xu2UzWrCQBSFzSrvoESE4kpQkdJuRNyI+LNwIxShD1Hoog9Q6MK3EAqFPuTITbwmOfcmmGRGou2Bb2Eyzv1yJqTRuO145jKuEs+Mhw8pJqOuuEY4lMInL4uVeObd/0ohB+m8+Z8pLElJIQ0crkF7DTudqlLRk6JAUZn7F8qTwsFZ3L+QJoVDNWgdy9ROCHcvEfk9KSLE6/6WUPM7iPgJcu8lxS0KUWKp5iEQ0MAPf29av+0z9JuxLCQbUhs5gUfpoCEplDwKboea4nskhmudCfGAsBE+NmhJW+9cKAk2qK2vjRD/x4kQivwLRakuRFgXQomiQtwS7l4idoUstFRDIRTQQAEN50LROyFBEadCOJyhQUyWnDWh5bhn1pO+2UwHZjsbhbzMH0N2iyfzuno+CcTR5OJrlSMbQfKGpdu7LEdtixgqxkylxQAAAABJRU5ErkJggg==",
     "wiki_name": "Banner (Misthalin)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Misthalin)",
     "equipment": {

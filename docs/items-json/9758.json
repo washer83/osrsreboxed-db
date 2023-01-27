@@ -1,7 +1,7 @@
 {
     "id": 9758,
     "name": "Ranging hood",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "Range skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbElEQVR4Xt2W3UvjQBTFM/9BnvLSl4IPgYBQCiKlFPShiFjEpaJUsVSlVtSKUQq6u0LxA5X1Ydl/+C5nhttMJrFN86HghUOaNHPz6zkzk1rW9ypBgb6sAojtvkc/Dl1q7btfBSXofLxE/dsqHY2qtD9cnECt7y58NpQg/7lGw4dlGvxSUF2/Qp1TBQWXPhFK0M1bTQpQpks6FO6tlMtFQwm6/dug0Xt94hKg4BSg4BTAEN1KCzCFuiQkyM9/Dbr+49HVi0cXjx6djV06+e3S8Z1LvdGCFFxqtlVsBbokZsIc+EpwCrHV10pFuaSimgXTGZYnUIiOYyvAJeXOLBhduIboKjUnb5eCqKbB7JwqmWCY4E7JyhNKhKLSYbaObNq9sGnPt6k7sidQJhjvSzlEF40KIGsdmzYObGoPwkCHd0pxYLzqzCfMWYE7AFluWtRoWREgwOhA/XuHBmNHjtHBcnBJyKYbeyXylqwIEEdmwjAQdP7kyOuImaHMpyQsIWNCk81eGGi1bSUCAgyEc8y9jC4J2QSrCJbHAemRmTA6ED5zr0xAmMSwGo0AVG1EgfQJPQ0IvdCnfZw6tgAIVicFYhgGunxVRxMohUtqDqUFYncKAeI5xED6so8DYhgTiLeBTEDcxATCCvsIiCFwzBVIb2ICAYZl7tYcmw6kx58bEJa97g6LzxlM35P8d0fu9OayTw3E+xBgMJnx8GniGFkAyyEuVHhj5JXFO7Qp/o4nuy6OKsMKQ4WB8PrAtXkV1yNXIM4/iXA/omJ38JLOAIQSIaDmzrx/2uPHZwBChSMIfn3Syjo+pqJRzFdpxv8HXljd0gryGmgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZ0lEQVR4Xt2W/0vbQBjGc4RQlJAhFUsrUjupY530i7RqsZ2WLZOCqBsTv6CiPwz2//8Drzx3vM3lkrVpvijshYc0ae7Np89zd6ll/V8lKNC7VQDxZejR5wOXmj33vaAEnfxep+F5mQ6nZepNPsygPrZX3xpKkH9focnNBo2uFFTfX6POWEHBpTeEEnT2VJEClOmSDoV7u9vbRUMJOv9To+lLdeYSoOAUoOAUwBDdZnOlaJeEBLn8W6Mfzx59f/Do9Najr9cuHf906ejCpcF0VQou1VsqtgJdEgth9n0lOIXYqo1SUS6pqBbBdCYrMyhEx7EV4JJyZxGMLlxDdGsVJ2+XgqjmweyNlUwwTHCnZOUJJUJR6TCfDm1qn9rU9W3qT+0ZlAnG+1IO0UWjAkijY9POvk2tURjo4EIpDoxXnfmEJStwByAbdYtqTSsCBBgdaPjLodG1I8foYDm4JGTTnW6JvHUrAsSRmTAMBJ3cOfI6YmYo8ykJS8iY0GR3EAbaalmJgAAD4RxzL6NLQjbBKoLlcUB6ZCaMDoTP3CsTECYxrEYjAJVrUSB9Qs8DQi/0aR2lji0AgtVJgRiGgb49qqMJlMIlNYfSArE7hQDxHGIgfdnHATGMCcTbQCYgbmICYYX9C4ghcMwVSG9iAgGGZe7WHJsOpMefGxCWve4Oi88ZTN+T/BdH7vTmsk8NxPsQYDCZ8fB54hhZAMshLlR4Y+SVxTu0Kf6OJ7sujirDCkOFgfD6wLVlFdcjVyDOP4lwP6Jid/CSzgCEEiGg+t6yf9rjx2cAQoUjCH590so6PqaiUSxXaca/AjYmKYpZMcS5AAAAAElFTkSuQmCC",
     "wiki_name": "Ranging hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ranging_hood",
     "equipment": {

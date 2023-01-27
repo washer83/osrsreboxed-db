@@ -1,7 +1,7 @@
 {
     "id": 75,
     "name": "Khazard armour",
-    "last_updated": "2023-01-19",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-07-23",
     "duplicate": false,
     "examine": "Armour, as worn by the minions of General Khazard.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTklEQVR4Xu2WW0sDMRCFzT/oky99KfggCEIRRIoUlCIiSlEsihbFC1axKt4R8b+PnCzHnYxJu25bnzow0E0yM1/PJNmdmZna1P7FnORun1PjE7Es+c7mpvfd7W3/vN5sysrysizV6zI/Nye1atWP47d+HiNYluyo0wn85PBQtlot2Vhbk9VGwwMtLix4CKzHb+0cHxHOye3lpVydnsrZ8ZGHoGOOQFSJxaEKAOkWDl4CysnDzY3c9XpyfX7+AwW/6HY9jAaCSmwdCuI3XcNxHvnrtVpRKCev93fy3O8HUAABGNXRQBYKKuGZYxYwb2Ehc/L++BBAoXWAgmNTx4AslB7T/keVnHw8PQVAGgrzFohuoaBCCph7bYhKTj5fXrzHoNA6HHcefUJpMKtKDJoqsW0DVHLy9fbmPQW13257qBiYLcrCFlyrNFupDFcJfrC354siCQtwHFApMKsSlcBVwVisxTxrQaEBKsF+AzEYlyLmLJgGsq1BnAXiHywAA0sDITFvaxbQQFolC4QYrMc8WkYgWz1imRIoxJ4TiDe2BbIqsW0WCOv0+MhAKYViQDYO69muP9xDsLxlFkjDFAXKijq/FvOlgXga9CcEQeymnjiQDmYgE8dgLJBWVseVBkIBBIenIQONgdi7yKo0MhDblX+7OP9iHQYTA9ItL72pqQ6TUSF+LeL4D4JBUQBhTMfbP1oAKHvb8yMsBMrm6dzcPHncdyiq1+n9h3ejzR3Wj1qeLEyYmS6Qcq6xsal1+XzC0glDs+vKxNj5qU1tXPYNqxb3E4KHAxEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSElEQVR4Xu2W60oDMRCFDSKiSKUoihUvVax4oVXRqmitUusNQXz/hxk5WY47GZN2u1V/dWCgm2Rmvp5Jsjs1NbGJ/Ys5yd0+p8b/xLLke/W69/3dXf+8UavJyvKyLFWrsjA/L3Ozs34cv/XzL4JlyVpHR4GfNZuys7kpW+vrsra66oEWKxUPgfX4rZ3jY8I5ubu6kuvzc7k4aXkIOuYIRJVYHKoAkG7h4CWgnPQ6Hbm/uZHbdvsbCn55euphNBBUYutQEL/pGo7zyH+yvV0UysnLw708dbsBFEAARnU0kIWCSnjmmAXMW1jInLw99gIotA5QcGzqGJCF0mPaR1TJyXu/HwBpKMxbILqFggopYO61ISo5+Xh+9h6DQutw3Hn0CaXBrCoxaKrEtg1Qycnn66v3FNRho+GhYmC2KAtbcK3SzPT0cJXgxwcHviiSsADHAZUCsypRCVwVjMVazLMWFBqgEuwnEINxKWLOgmkg2xrEWSD+wQIwsDQQEvO2ZgENpFWyQIjBesyjZQSy1SOWKYFC7DmBeGNbIKsS22aBsE6Pjw2UUigGZOOwnu0a4R6C5S2zQBqmKFBW1Pm1mC8NxNOgPyEIYjf1nwPpYAYycQzGAmlldVxpIBRAcHgaMtAYiL2LrEpjA7Fd+beL8y/WYTAxIN3y0pua6jAZFeLXIo7/IBgUBRDGdLz9owWAsrc9P8JCoGyezs3Nk8d9h6J6nd5/eDfa3GH9qOXJwoSZ6QIp5xobm1qXzycsnTA0u65MjJ2f2MR+y74A+ig1kuyUsUEAAAAASUVORK5CYII=",
     "wiki_name": "Khazard armour",
     "wiki_url": "https://oldschool.runescape.wiki/w/Khazard_armour",
     "equipment": {

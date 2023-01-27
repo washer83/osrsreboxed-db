@@ -1,7 +1,7 @@
 {
     "id": 22265,
     "name": "Magic shield",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-02-01",
     "duplicate": true,
     "examine": "A solid magic wood shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPUlEQVR4Xu3WXUsCQRQG4OYfdN/NQhdCIEgQEREoISFJJElSYviBKeqCVpZ9EEE/fNr3rGednZ1dddWtiw6cixSbh3fO7szW1n9tvIQ0d2LlX7hcOpE35Sx1rZKjvwunB0mhhKxX87J1dyY7jXPZaxep7c4F9bBfou8SQgla/HlYltvjQbBHXbk9aFMngBKUwOSx4i7+OpJ73+++JlCn7vYUhW3cAErQVngYp1NfE1/T50jHwVj2vdwd9TaFEvLRvorEEIjTaVY9EKGcz9aIEjQvwDBIh5jSUUGMwoOwIkp4kCiMKR0dtDu2PRQGvVg4jIOagSIxnI6C0UHA4BWBd1SpeCQta4dAGctaFCXk+/hmMZAhHR2lzhFAjIkFwoKpj6cABE2PuiEdE4i36/gws3w6ny9VAtELkEEGVFQ6DFK3C6BY6TCIFlRBCso3O91mAKOCeLtUkL5qRLkgvHsCGAXlS2cOiB/5g/30siAhv95q3uyEgbwzizEhIHyvgmJvF46JuSA1HQOKME4Dg/lRQfqqEeUmxANtghnT0UCMwewAg86kU/FAk4eWA6kFYUAwxpTOFKRjkFD2xD0ultwuLvcWGAbDFSQMpGL4ElcsxJodf7k/dGHjYSMAwxMIHC5rjFAxfJtEr4xRKwyGwceTyDikBhwj+Fqbz82OCf1/r1QmWL9d8Y4XTozv1ejyZX696ZhKhaEBs7u3stO89m1ltbLmrZpXs4VmuHb9yutEMXqZcL+G0YshfwLzX0nWD3/0zhllxnNdAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOElEQVR4Xu3WXUsCQRQG4IYuwpBEiiKlNMPCDFPJVNJ0QStL+iCC/v8fmfY961lnZ2dXXXXrwgPnIsXm4Z2zO7O1tam1l5Dmjq28C5dLGXlTzlLXKyf0d+H0IC6UkI1aTrZuz2Tn7lw+tIvUVueCetAr0XcxoQQt/jIoy+1R39/Drtzut6ljQAlKYPxUcRZ/G8q9nw9PE6jTcHqCwjauASVoK1yM3cnvsafpc6RjYxLWvdwdPqwLJeSTdRWKIRCn06y5IELZn60QJWhegGGQDjGlo4IYhQdhSZRwIWEYUzo6aHdkuSgMerFwGAU1BYViOB0Fo4OAwSsC76hS8UgmEjsEqubz86KE/BjdzAcypKOj1DkCiDGRQFgw+fnsg6DpUTekYwLxdh0fphdP5+u1RiB6ATLIgApLh0HqdgEUKR0G0YIqSEF5Zqfb9GFUEG+XCtJXDSkHhHePD6OgPOnMAPEjf7CfWhQk5Pd73Z2dIJB7ZjEmAITvVVDk7cIxMROkpmNAEcZuYDA/KkhfNaSchHigTTBjOhqIMZgdYNDpVDIaaPzYsiF1PwwIxpjSmYB0DBLKZpzjYsHt4nJugUEwXEGCQCqGL3HFQqTZ8ZbzQwc2Gtz5YHgCgcNljREqhm+T6KUxagXBMPh4EhmH1IBjBF9rcyfTY0L/30uVCdZrV9zjhRPjezW6fJlbbTqmUmFowKxuVXaa156trFVWvFWzarrQFNduXLkdK0YvE+7PMHox5F9gNhVn/QLajxHS/+ptMQAAAABJRU5ErkJggg==",
     "wiki_name": "Magic shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_shield",
     "equipment": null,

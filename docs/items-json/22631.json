@@ -1,7 +1,7 @@
 {
     "id": 22631,
     "name": "Statius's platelegs",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-09-06",
     "duplicate": false,
     "examine": "A powerful pair of platelegs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4XtWY70taYRTHe/6T/oFBDGJEb5QhIYogipcUJRW7kl2xzLS0UCwzalRrRVtray3WfhCxX4ytFyPGGHsz9mYv9td85/fIdWHbi0H3bjtw8N6L956P53yf85xrT8//bwq/d9tNIab5EAl6oPnd4ntrCWw3o3BfH7QbSiGT0MQTYT8+vpjF8d1xnNwzcLg1CpdjQID6envtglIojMfxYHuh4++Pi5IhYzSMSMiD/qtX7MySwuGdJh7uNMRvr89jc3kGBSOOXDoKPR6yO0sKj/dWBIp+oz6FetlAJqkhFQsgEfEjNuyzF+j+Vr3ja4vTaMxl/x2gjaUimtUJ0Q+BTCizbN13X7K19dMNtFLLXwDyDjmszpISERNob7PWcQK9eTQpgiYInVBmP7IU6NvZAr5/WMKXd9WOn52U8PYoL02xZHjQmAlidV5DNuVCOtbOUveTLsnaQF9Pa9DDHoxFvfJpArExPtlJY9jngH9oAG5HP24tRqzMkhKI2akUCrlWz8lE5Xgk6BKP+p1IRP3iqZEA9ERI4CwEoikBYcDd1TgKY27kjZjA8JPdmtcXigFoAXcHxlIg/vKjbR0vD3LYqIcxqQ/BSIfxbDfT8f31JJYrIdGRhRqiKdFQrZyRTLE8FDEDm6XMpDS57vc67cgQTaE+Z0hgBqV73Q5UpnXZ7XnOcvGaxfoxTaFZm5AMMTiz43IO4PRpQUpHffHcViAKmIE5mPk9TmmCHEmMVAsoGkBE88DtsrwxmqakPJINBm9NjQSq5HXkx2Ltwa2lIVsztFLPozSZ7EyNBGqUs6gW0ihlk5K986LufsIlW1tDn16VRcRcZdwiuPo4ObJjc8nbtMJoCrViBs/3s1irDksfGrzWJxpiyQjJjDkG+63uQaYp0QvLU855JTCBcnpURE2Rnx9hbcnQ7ERKtMItgsEJRD3pI6ELQN13W2BKYFgelsyce7jiKHACmeWyDcjsOQQws8FjvjwGfS77gZgdlocC5lDGawc3U3LODTeu2dYUTVP4/LqC6kxa+hEB+AZrntso6PPW/QfDT/8LMG0zA//Ku7/7p/YDmxrtgQhezogAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4XtWY7UtTcRTH/f0FEUkiY003NtgD123MbRfvnJdN59zQzYcxmxMNy0zEkuzJkJ4RhKKCoPBFIEQQ9C562Zv+r29+z7hLZr0IvLc6cNi9l917Pjvn+zu/c9fV9f+bwu/dcVNIaAHEwj5oQa/49koKG804vBd6nYZSyKY08VQ0iI8vprB3cwT7t0zsrg/B4+oRoGhfn1NQCsWRJO5tzLf9/V5JMmQORRGL+NB97oyTWVLYvdHE/c2G+PXLM1hbnETRTCKficNIRpzOksLj7SWBol+qj6NeMZFNa9ATIaRiQSQGAs4C3V6vt33l4gQa07l/B2h1oYTm7Kjoh0AWlFW2zrtP2Vr66QRaqhVOAPn7XXZnSYmICbS9Vms7gd48GBNBE4ROKKsf2Qr07XAe3z8s4Mu7ubYf7pfx9lFBmmLZ9KExGcbyjIac7kEm0cpS55NOyVpAXw9qMKI+DMf98mkBsTE+2cxgIOBCsL8HXlc3rl2M2ZklJRBT4zqK+aOek43L8WDYIx4PupGKB8X1wRCMVETgbASiKQFhwK3lJIrDXhTMhMDwk92a1+dLIWghbxvGViD+8ocbBl7u5LFaj2LM6IeZieLZVrbtd66ksViNiI5s1BBNiYZqlaxkiuWhiBnYKmVW1+R60O92IkM0hfq0KYEZlO73ulCdMGS35znLxWs268cyhWZtVDLE4MyOx92Dg6dFKR31xXNHgShgBuZgFvS5pQlyJDH1I6B4CDHNB6/H9sZomZLySDYY/GhqJFC1YKAwnGgNbkcacjRDS/UCymPp9tRIoEYlh9liBuVcWrJ3XNSdTzhla2no06uKiJirjFsEVx8nR3ZsLnmHVhhNoVbK4vndHFbmBqQP9Z4/KxpiyQjJjLl6u+3uQZYp0QvLU8n7JTCB8kZcRE2RHx9hHcnQ1KguWuEWweAEop6MwcgJoM67bTAlMCwPS2bNPVxxFDiBrHI5BmT1HAJY2eAxXx7DAY/zQMwOy0MBcyjjtZ2rupxzw01qjjVFyxQ+v65idjIj/YgAfIO1zh0U9HHr/IPhp/8FmJZZgX/lnd/9U/sBYvFqPhs3cUkAAAAASUVORK5CYII=",
     "wiki_name": "Statius's platelegs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Statius's_platelegs",
     "equipment": {

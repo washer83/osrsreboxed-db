@@ -1,7 +1,7 @@
 {
     "id": 8656,
     "name": "Banner",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with a picture of a dragon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRklEQVR4Xu3XXWrCQBAHcHOOvOQIHsG3PihCURAtLbZBBFERBFEKvvSxxygI3sCiYhU/jrUyK2Pj7PjRxOxQdODPboYk88vLQhKJ/1+OuixWylGNcvYgteeMTrWU1vELDzoxoOgX44DDXjGbYu7jEqkcNZt6RswhPGgy9oxERPEgLnTwscA7kx6soeoOOld30LkKD+J6YqD1dG30RECryUpjNrONPAggmPnPL5ImVtDAfWUjAqIIGrzPCogOH7o+2xMBcT0xEAcRAZ2CiIG+3LIOhVAQRcUGgqGIOoazCgoO+x7tAnvowTmEZ5E1UPDw4zAioCCKYqyCuMGwLhdm3zoIEbCKgCiG5rZBOAj6YQOYSKDW2+P+3x3/2WHfruTUe72oPtov6rPn6+t+80l1awW9x+c61bzuXwGDZX4lFwDQXjB/xWwBS/zVhKGMOgIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQ0lEQVR4Xu3XzWrCQBAHcHMKPoMXiyhYwS+0jSBSURBKKQUvHn0QDz30HUSKIqIo4juuzMrYODtWTcwOogN/shmSzC+XhY3Fbr8cdV6slKOa1cxBGuW0Tr2Y0vHyTzoRoOgf44DDXiGTYJ7jEqocNZ3EjZhDeND4N24kJIoHcaGDjwW+WUwmg6IeoFP1AJ2q4CCuJwZaT9ZGTwS0Gq80ZjPdyIMAgpnP/pA0kYK+3Rc2IiCKoMHnrIDo8B/XY3siIK4nBuIgIqD/IGKggVvVoRAKoqjIQDAUUcdwVkH+YaPhLrCGHuxDuBdZA/k3Pw4jAvKjKMYqiBsM1+XC7FsHIQKuIiCKoblvEA6CftAAJhSo/Zrdn93xzA7rTu1Zfb0VVK9TUf1PT993WyX10cjrNb73Xs/p/hUwWOZfcgEA7flzKWYL34cdtoWqq+8AAAAASUVORK5CYII=",
     "wiki_name": "Banner (Dragon)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Dragon)",
     "equipment": {

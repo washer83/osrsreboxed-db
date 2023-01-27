@@ -1,7 +1,7 @@
 {
     "id": 333,
     "name": "Trout",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": false,
     "examine": "Some nicely cooked trout.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOElEQVR4Xu2U60obURSFPW/iI/geglgERYvSKtHgjVqvUVvGW1Ti3Ziq8VIvoIiCFloqoq+22++Me5ycqH/MUX9kw8bgDLO/vdY6p6KiXOV6qoy4/3nDMpL+2ivvBMpI0J2UuYE+C1RVWfmWUEZGkwmZ6uuJYDwDPWeBkcG2zzLe2RHZ5R2mp7npiVyEz0ba22Sit+s17AoHdjU1PDLISEdjvfS3tkR2ZYb678G1S17GwjC4ECgc2FJbY58DhWUbwZgsp4YsmIfT9gCTqK8r2PxjTbW01n2IFAJmcWRAdmcmZGvye/ReicMdWgIMw1EjDvLlU7MNM3YBc7a6KCdL8wUgXmCA4C9qAYEihBhVCDIw+elAfm1mfahChXKjhIIQbED0eBNgMrI6NmxtcpVxv/iCegBBIUDUGm5hIDjaqEKA92en5HQl4w9GQVQVrFEQTg4nCFV+BONylEnb3HiACS1SCFVEb17UAGL9W8qqQl6w6HxtyQ9MPCMaVr3kAAECRQBRi7zBKAhHF2sAISMKwp2iIFgEzEV2xQ+M3iFuRhSE06MgxwtzNi+XOU8wqMAQssDWDMMGtkeReCvYVW7NBwxlbEABClIp+b29YYexPY1CWOYCe4KhjN2YgQoTbwKsx5r3Duan7W8Fcr/2wjLWArYGhuvebZ7TqAKIWucNiEHAxPtPPid/dzataqqG297sigNc723Jzc+83B7k5e5wtygrbrtfK1EVb/8KSjxf7uZuu++Xq1z/6x+p8NGF3+DoFAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xu2UaUtbURCGPf9EECyKaCrWBaNW3BeitolrldR9baJxQ0tBhBZBRGhBRMSfOvqc61xvjtUv5qgfMjAYvJc7z7zve05JSbGK9VQZcf/zhmVkqrtD3gmUkeTnFpnu7bJAsdLSt4QyMtTSJONd7SGMZ6DnLDDS11gvI63x0C7vMO21sSdyETwbbG6U0Y6217ArGNgWq/7PICPxmirpaagL7Ur399yDaxe8jIVhcD5QMLDuQ7l9DhSWrSWHZT7Rb8E8nLYHmKaqyrzNP5aXSUNlRagQMLODvbIzOSrZsa/hewUOd2AJMAxHjShI56daG2bsAub30qwczc3kgXiBAYK/qAUEihBiVCHIwOQmUnKeWfWhChXIjRIKQrAB0eNNgMnI0vCAtclVxv3iC+oBBIUAUWu4hYHgaKMKAd77Ni7HC2l/MAqiqmCNgnByOEGo8iM1Ij/TUzY3HmACixRCFdGbFzWAWPmSsKqQFyz6szznByaaEQ2rXnKAAIEigKhF3mAUhKOLNYCQEQXhTlEQLALmZHXBD4zeIW5GFITToyC/vk/bvJyuL/qBQQWGkAW2Zhg2sD2KRFvBzjaWfcBQxgYUoFQiIX831+wwtqdRCMtcYE8wlLEbM1Bhok2A9Vjz3sHMhP2tQO7XXljGWsDWwHDdu81zGlUAUeu8ATEImGj/y23IxXbGqqZquO3NrijA5W5Wrva35PogJzeHO4+y4rb7tQLV4+1fQYnny93cbff9YhXrrm4Btmpf7d+FbNAAAAAASUVORK5CYII=",
     "wiki_name": "Trout",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trout",
     "equipment": null,

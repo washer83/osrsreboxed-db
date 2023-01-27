@@ -1,7 +1,7 @@
 {
     "id": 16390,
     "name": "Sluglings",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-31",
     "duplicate": true,
     "examine": "They look at you balefully. 'Feed us...'",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xu2X30vTYRjFff8Ob7zzdrfijRG7iEQYiReJUoopgWKpmTZkogxlzNScKWtMUVRmwx+UZla41lg6K81IMiLpHzl1nvVt23ebbbr5vfGBg9vQd5/ved/nvI8FBRd15lJIliEV/fKvgS18WF1BcGYab7weUTJg3kEVDt8G8PHZKkKzM1ibGMe8YxDuXhsmbT0Jiiz5sbu8JNB5glL4/HID4fk5vJicwILTgcc9VvS1NKO5+jpaa2rQdqMW9+vr0X2rAdamRswM2DE7OCBApqKiXEMp2Z6VsVF4+nphb21BR91NNFZVobr8qqi2okJUZ7GIGiqvifIApLDhnoRvyIlH3V3iAt3gl1WazTCXlIiulJaK9GeIMDkHejo8BGdHuzjCp6cT5WVlKDWZUFRYmBIgXvoVY5X1+Yq64+3vg+12k2wNQeiIqbg4LYR+lcSKwf/c+/T3dcalsDw6LFvFg2u5fCnBldNAsFP3N9alE7emvKKsoXiIuU10Ru+K/ndTibm1t76GHf+iNAdd54NO2/vhsj6Ao70teyg9SCqYH5EIjvf38OvLAY7CIXFie9GH1x63dKiWWwRgNFD6dRPXPKHSg7CUABy82pS8ohvMLDrBhiDEwN07EhXcemYXdfIDnrqUANCJ0NwsAtNTEp6MCaY2IbRs4rZruXUqVzIrhefjLjkPdIIJzbRmRrEJ2JUUM0rLrDzBxB/C5IN8knIME12UBzgeKv4sZKL4Fc9Qf0B2d/F9ZxvfQu9wGAwmQJ1zRTvp6H1YOoliW1MGQal/Mw5TlmJnhX0L8jN2Rs61FDafuKW1GfmcFBl6FN/zc0OgmDGrrjFJX//IsIiv2f6xcfZcS8nEyNzhJMChjTnEq4HJTBcNgeKdpGmkq1MgCcfRlTO3IVDaJUlxZtLg6By31RAobdDXhn2K/wA87LwnW2lAB6q0Qz4vVw54BrgVu6vSKcfXxv9Lf1+lkv5vLioX9RtUmQGE+3WexgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xu2X30vTYRjFfa8k8MYrEalJobD0QsVSSQPRUjO0oclEFJmZ5jCHJpYMscSVWCZlZYmEWJZoamaZWFARFUUE/UMnzrO+bfvuR3Nu+974wMFt6LvP97zvc97HhIS92nUp+MuQcn/5h/k5bNyewIJzEI8H+kX+gDEHVfj4dB6v70zi+ZATUz3duNragr6Gs3DU1/lobXwM67fGBTpGUArbj6axdG0YDxw9GLG14mKdBdayUpTm5qA8Lw8VR/JxurAQtceKYCkphrO5CUMtzQKUk54ebSgl2zPR1Yl+awOaystQVXAUxdnZyM04JMrPzBQVmM2ioqzDohgAKTzsdcDVZsOF2hpxgW7wy7JMJphSUkQHU1NF+jNEmKgDXW9vg62qUhzh09OJjLQ0pCYnY19iYkAAb+lX9NSOz5fbnYFGK+qPl8jWEISOJCclBYXQr+JbHvifm2/+vg67FG52npet4sE1H9jv40okEOzUren70olzVwZEO4biIeY20Rm9K/rfDSTm1ua9KazecElz0HU+6GBTI+yWM2itrNg5lB4kEMz3l2v4tfUWv9+/w5elRXFixTWK2f4+6VAttwjAaKD06/quGaKCg7CUAGzPzkhe0Q1mFp1gQxCi+eQJiQpuPbOLCv2AEZcSADqxODyEJ4OXJTwZE0xtQmjZxG3XcisiV8IrhbvddjkPdIIJzbRmRrEJ2JUUM0rLrBjBeB9C/4McSlGGcS/KA+wN5X0WwpH3irsohR+v1vFtdQWfF5/h08KCD1Scy91JX18sSydRbGvKICj1b8ZhylLsrOXREfnpOSNxLYWZS73S2ox8TooMPYrv+bkhUMyYSXuXpO9YR7uIr9n+nnE2rqVkYmTucBLg0MYc4tXAZKaLhkDxTtLUUVMtkITj6MqZ2xAo7ZKkODNpcHSO22oIlDboa8M+xX8AzlWfkq00oANV0CGflysHPAPc8txVwRTla+P/pb+vAkn/N3sVjfoD29me7SC+ECoAAAAASUVORK5CYII=",
     "wiki_name": "Sluglings",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sluglings",
     "equipment": null,

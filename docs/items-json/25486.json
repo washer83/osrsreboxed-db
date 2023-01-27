@@ -1,8 +1,8 @@
 {
     "id": 25486,
     "name": "Ursine chainmace (u)",
-    "last_updated": "2022-12-31",
-    "incomplete": false,
+    "last_updated": "2023-01-27",
+    "incomplete": true,
     "members": false,
     "tradeable": false,
     "tradeable_on_ge": false,
@@ -15,70 +15,20 @@
     "linked_id_placeholder": null,
     "placeholder": false,
     "equipable": true,
-    "equipable_by_player": true,
-    "equipable_weapon": true,
+    "equipable_by_player": false,
+    "equipable_weapon": false,
     "cost": 120000,
     "lowalch": 48000,
     "highalch": 72000,
-    "weight": 2.0,
+    "weight": null,
     "buy_limit": null,
     "quest_item": false,
-    "release_date": "2022-09-14",
+    "release_date": null,
     "duplicate": false,
-    "examine": "An ancient and peculiar chainmace, corrupted by the power of Callisto.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdUlEQVR4Xu1WzWoaURSe8wZduZnNBReCIAyCiIigiIgoYphgkJCSpiQpqQRasu0bdNFVV10X+giFQil00yfpY5zmOzdn/oid69SJLvrBwUHPzzffOedePa90EFs7CBA3g4Br1eoDqb2Ss2RWv6p89NXw9IvPg48VrobePkgRt1stNr4vxUFs0OvJs34XGFMmqWQ7iMNvRtQY9fu8mE7lu26nIwZiSiqbZUewxRr1Ol/9rvHJT8OjTz4H62cpkkoGn6pQCSrZYr33FZ4Mh1IsOcBxURIyUAyt1N+y2f4RJMUnn32unaXVUCJxURIyMMzTjgnFLYC131WkXY8TiWOgIFRK+qZ9CsG+abfTvVen9qgq2QgL4tl4nGrpZl9nKJmOyI43HfT6DmQAq1DyKPi7fy5iyZFUT1/35PZlEOcesxHEd+s7Sahr226190WI+O3rN6KObslsPJOkMJ2j/OSW0A5aRny+OhdC4TwUa9QbESE8uyUnvji9kHjjw9clxksf/7Czk1NeHa8k0WQ4ke1CQiXUDJqOyUlO8P6HimsMyZ0DC+dzMagCW0wX0iaQsepYQmgXZskhuQef5Q8jJ7r658QQX7+45puXNxERezEu7j9H0nuseUzIpNqVk9yD3/H3uFX5/gLi9dWal0dLaRHIxFuVJIR2bZ3c295fQHz76jYipIOshLDqdt2dBzOFbf0fQNI6EFG1dKCtSvXChArCrujl88towzBHuCZAyh5uJvE3o3TYs0fJ6OonZwtbt8NLMg/2/AEBFEe79BLNWoEhLQKK1IESaFeyeNay0SWAUuo8oRKbQJE6B0BG8aQz4oaDIvMfh4w/W2Yw8DpyuesAAAAASUVORK5CYII=",
-    "wiki_name": "Ursine chainmace (Uncharged)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Ursine_chainmace#Uncharged",
-    "equipment": {
-        "attack_stab": 53,
-        "attack_slash": -2,
-        "attack_crush": 71,
-        "attack_magic": 0,
-        "attack_ranged": 0,
-        "defence_stab": 0,
-        "defence_slash": 0,
-        "defence_crush": 0,
-        "defence_magic": 0,
-        "defence_ranged": 0,
-        "melee_strength": 74,
-        "ranged_strength": 0,
-        "magic_damage": 0,
-        "prayer": 2,
-        "slot": "weapon",
-        "requirements": null
-    },
-    "weapon": {
-        "attack_speed": 4,
-        "weapon_type": "spiked",
-        "stances": [
-            {
-                "combat_style": "pound",
-                "attack_type": "crush",
-                "attack_style": "accurate",
-                "experience": "attack",
-                "boosts": null
-            },
-            {
-                "combat_style": "pummel",
-                "attack_type": "crush",
-                "attack_style": "aggressive",
-                "experience": "strength",
-                "boosts": null
-            },
-            {
-                "combat_style": "spike",
-                "attack_type": "stab",
-                "attack_style": "controlled",
-                "experience": "shared",
-                "boosts": null
-            },
-            {
-                "combat_style": "block",
-                "attack_type": "crush",
-                "attack_style": "defensive",
-                "experience": "defence",
-                "boosts": null
-            }
-        ]
-    }
+    "examine": null,
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcElEQVR4Xu1WzWoaURSeQ5HhiiiiKCpqVFQykdiEpmlImgqhJeu+QRdddtcH6KIv0UWhi0B3fZ8+zWm+c3Pmj9i5Tp3ooh8cHPT8fPOdc+7V8woHsbW9AHGjXudKufxAaqfkLJnlrzIffjM8+epz/1OJy4G3C1LErWaTje9LcRDrd7vyrN89PzgoklS8HcTBdyNqDHs9nk8m8l2n3RYDMSWVzrIl2GK1apUvf1f4+Kfh4Wef66tnCZJKBp+qUAEq2WLdDyUeDwZSLD7AUVESMlAMrdTf0tn+ESTFx198rpwm1VAiUVESMjDM05YJRS2Atd6XpF2PE4lioCBUivsmfXLBvmmn3blXp/KoKukIC+LpaJRo6XpfZyiZtsiON+13ew5kAKtQ/Cj4u38mIsmRVE9f9+T2ZRDnHrMWxLerW0moa9tqtnZFiPjdm7eijm7JdDSVpDCdo+zkltAWWkZ8tjwTQsEsEKtVayEhPLslJz4/OZd44xvHGC95/MNOj094ebSUROPBWLYLCZVQo95wTE5ygvc+llxjSO4cWDCbiUEV2HwylzaBjFXHEkK7MEsOyT34LO6MnOjqnxFDfPXyiq9fXYdE7MU4v/8cSu+x5hEhk2hXRnIPfkc/olZl+wuIV5crXhwupEUgE21VnBDatXFyb3N/AfHN65uQkA6yEsKq23V3HswENvV/AEnrQETV0oG2KlVzE8oJu6IXLy7CDcMc4ZoAKXu4mdjfjMJhzx4lo6sfny1s3RYvySzY8wcEUBzt0ks0bTmGNA8oVAdKoF3x4mlLRxcASqjzhEqsA4Xq7AEZxZPOiBv2isx/7DP+AE123b8cEH8aAAAAAElFTkSuQmCC",
+    "wiki_name": null,
+    "wiki_url": null,
+    "equipment": null,
+    "weapon": null
 }

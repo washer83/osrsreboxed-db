@@ -1,7 +1,7 @@
 {
     "id": 19329,
     "name": "Prayer potion(3)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "3 doses of Prayer restore potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xt2X7UtTYRjGff4PP0gIgoFsiBApvpTv0+lSp3Mu1izXqrmpc7qXREiyaL2olSKWiQVWpmGbGiUhRkQRUeTfc7XnnufxnOMQgrMz6Ibrm9vz47qu+2bm5Pwfw6BUVofhwYQJ4yNnMeAuhcNqyDYUw17Cjd2NPtL8fQtuRuuyCcUEzM56L2ZjrbgRqiEgQ16e3lCpzkhAH9648Oi2meLLQp8YHA4XnM6Lwp2tl05MTzbheqAKJlMLzC1tekIxuN1XjqjHcQGdXQ6ca+tCTW2jntEx9Pv8JJ9vQMhud8JqtaOx0YzSsgp9gYLBEaHAcBBDQwHYus+j2dyGyspqGIzFegLxYVhbe4tEYgvx+CbexRMUV22dSZSaw+gK5PX6EQ5HEI1GSTyuhobmbMDwYQgEhhGJREkE1NkDU1Or3lFJwxCORBSy2Q47pOPK82G45vVhdDRECoXCFB2/Te0d3YrY1J/M0DD4/YMYTm6XtGkez1Vc6vMQlMVi1R+oY/+1UPWfFVT9XEbF16co35tHyeokiqYG9IqN4cyv5wqgegno2yIBnVq7haKZIT1cYqj4sqCAkYA4pABavwPD3AhOxvoz7VLSnd8vjgA1HwBVfX+G8s9JoI0YjAsRGJ+EM+kSowfVMAIoCSqA4ndhXByj2AonPZlwiaFsd47Kq4bhsuy/UgJt3kPx8rgiNo1dSrnTvb+aVhyINu3HEnXs9PYUSlYmKDa+bUVTg1q6xKio/EE1iCTukgLo/TStviK2/FytoI53Jy3QxxlafXlsBWO9WkXHjnVHkrhFyeNYtvOQNk0eW+HEZeQHHdq5pAZQSwH0aZaKTbEtjZFDJzztwiFNXOLF5ZJvlxxIukXiOPJblOwQ70+uvV5LGGlSvwK5E/xxOaAaiF9qHlVB1HUQkeYwqUl9ofQ/FxNg8lvEy2x4HDwCojmMfA4fOIRTSxeQdCN/WC313/7r/AURw11IkJ/xQwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC60lEQVR4Xt2X7UtTYRjGfT4JodbSFJuakhpm1Azn0mlpmzpfZk6xdGZpyzUZzo0591JIUmJv0osIghSENITAl4IgiOhDBBHon3S15zmex3OOQwjOzqAbrm/q8+O6rvvezMj4P4ZArrQOwfjQaQx0laC1sRAXz+nSDUUQX2rE2iszU+BuFYYdZemEIhzm7fNL8I2dwWDPKQZkKC3VGkrojAi0+sQE761KFl8a+kRg7+mHw3GDu7P82AjPzQr02YpRV2dGg7lFSygCp/P2AXXb+9HaZseV5jYYDEYto0tsl9vD5HZPcHV2OWCxdsJobEBFZZW2QP5AkMvn88Pr9cHWcQ31Dc04W30Ber3QJY2A6BB8iK9je/sTNje3sLGxxeKqqanjpaYwmgK5XPcQDkcQi91nonHV1tanA4YOweTkFKLR6J5isLZ2wWRq0joqcQjCkahM7bYe3iENV54OwR2XG8FgCNPTIYRCMyw6epuuWjpksSl/M0VD4PF4MTUV4Js2MjKGwaERBtV02aI9kGH3DVfZzguU/FpA8beHKPocQ/6SCzp/t1axEZT+fioDKt9ZFIC+zzGgguVx6IJ2LVwiKP46K4MRgSgkB1rxIDfSh2MTtlS7lHDnz7MDQFU7LxlQyY9HKPryAAWrE8ibHcDxsCOVLhH2oBKGAyVARaDCd17kzQ2y2HJc1lS4RKDfjrDyKmGoqndfy4HeT+LEwrAsNpVdEtyp3V1KKgrENu3nPOvYyTU/8hdHWWx024562tV0ibCi0geVIKKoSzKgeICtviy2rEy1oA53JynQepCtvjS2bKdqn3HkUHdE8VuUOI76jyG2adLYckZbkNVrUs8lJYBSMqCNMCs2i23eyRw6Yj3PHVLFJVpcKul2SYHEW8SPI71FiQ7R/mQay9WEEUf4FkidoI9LAZVA9FLTqLKvm/ciUh1GGOEPiv9zEQ4mvUW0zLkzvQdAVIeRzv4D+3BKaQKSbKQPK6X82X+dv9ptDamhVmDYAAAAAElFTkSuQmCC",
     "wiki_name": "Prayer potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prayer_potion#3_dose",
     "equipment": null,

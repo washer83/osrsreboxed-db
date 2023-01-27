@@ -1,7 +1,7 @@
 {
     "id": 26311,
     "name": "Festive elf slippers",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-12-16",
     "duplicate": true,
     "examine": "A pair of festive slippers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu2WXWsTURCGs/+gV7nZm4W9CAQCIbCEEgopoYTQECINSgsFpYhFVFAoKpXiFxYpKgp+oAjFiiIWRVFEBREq9CJQ8LNYP7D+kdd9z2Gas8e22E1rbzIwJN3Onnn2mdnSRKITndiWcBDNbQ0HnuuuZCnZtQbUatc2PaIwI76HdFdCAWU9zwBwcDWf3WqLUZgTmRR2ei7qtX4LyMHtQi5Sy9xkKAf3egLc6s7iYpDByWwKY2kfu30X+/eNGEC6zoahybVHGysc/F7+iW9fv6hRTObSytC1KxcwMX4UB1Ma5lFv/i+YwyF4xU2uMdrY4eD70iI+vV9Ac34Oc29e4tXzx7g7fRPHQzAaECAa4sgITotqrCHQ8NCuzQLSjR4UA8z05FSz6+Ho2PBMaIowHB2TNdPh7zlWwtAO7U1Nno6YtDtsIBwFweSTsxn3iDBsSjtDoQHmbDGP5V8/sPj5Axaa83j39rWyOHv/zsrOick2LOk3RpJmLuczmArSyg7H4QUenoQGCURo26Lsm1gUKLvTP4SjDmXye/3UDpSPlCNAPFwMSpowtMi60XBUYpJQMS05aD708eyGfqLaRB19h/rQs7eI/GBeNeKOcIR2mtDcGzGpzWiYWEAEYHN+r47XUDpQQmFPQV3LVrPwCz6WXqQwc14/deNcA5WxirpPgLg7rBOg2DByMJsTojjaq7J7uBtBI0C6nFGNPj7VFgcvDWHg7IAaK8FpkkBcfNa5GRdJPxlnf7QNAhGAQDycIEyxk+rVjQS6Wkyo+/gz77NNmkAbMKSXV4D4pIQQIJrJ1XMrdkyg/mNVVS8wUm8CMdsCkiU2gaSBJCFkrJJmrZgkjLlHdud1ojUyAsk+mLvDZCMZkQDxkzU2jCw1P2MAMVpLzRHIq85xsRFTwLnEhBUgGakJIyBtvGUMfYC5oGwm15ncG0LLqEwgASGYCRITRoe+2fyvz3zCliEaNIFoUEbbppXVw3y61sF6rAQSS/JnQd7GLYFZP6L27PzPMDpse3ba9Z3oxFbHH5/ZGUNC66GtAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu2WXWsTURCGs5SwZAkJIUtKGpI2KWmwFRsKSgUriigURSrFLyxSVFAQFQVB8QMRsaCgoCCiF+JNvelNL3pjwS+kIqKof+h133OY5OyxLXbT2JsMDEm3s2eefWa2NBbrRCc2JByEc0PDQcJ1G1mKd60Atdy1dY8wzKiXQKorpoDqfX0GgIPzuUy7LYZhDqWT2JxwURvot4AcXM1nQ7XMdYZycKfHx5XuDE77aRzOJDGe8rDVc7Fzx6gBpOtsGJpcebSRwsHvn9/x5fMHNYqpbEoZunDuFCYn9mN3MqGaPSjm/oLZG4BX3PgKo40cDr4ufcS7twuYn5vF7KvnePH0IW5fu4yDARgNCBANcWQEp0U11gBopL5lvYB0o3sFH7d6sqrZxWB0bHgsMEUYjo7JmuvB7zlWwtAO7U1PHQ2ZtDusIRwFweSTsxn3iDBsSjv1wABzppDDrx/f8On9Ihbm5/Dm9UtlcebujcbOickWLOk3RpJmzubSmPZTyg7HkfATeBQYJBChbYuyb2JRoOxO/xCOOpTJ77Ujm1DeVw4B8XAxKGnC0CLrxoJRiUlCRbTkYP6+hyeX9BMNTNbQu6cXPdsLyA3nVCPuCEdopwnNvRGT2oyGiQREADbn9+rEAEq7Sshvy6trmWoGXt7D0rMkbp7UTz10YgiV8Yq6T4C4O6wToMgwcjCbE6IwVlTZPdINf8hHqpxWjRYfa4vDZ+oYPD6oxkpwmiQQF591btpF3ItH2R9tg0AEIBAPJwhT7CSLupFAVwsxdR9/5n22SRNoDYb08goQn5QQAkQz2Vq2YccE6j9QVfUCI/UmELMlIFliE0gaSBJCxipp1opJwph7ZHdeJZojI5Dsg7k7TDaSEQkQP1ljw8hS8zMCEKO51ByBvOocFxsxBZxLTFgBkpGaMALSwlvG0AeYC8pmcp3JvSG0jMoEEhCCmSARYXTom83/+swnbBqiQROIBmW0LVpZPsynax6sx0ogsSR/FuRtbAvM6hG2Z+d/htFh27PTru9EJ9odfwBG9ZBKhnEtJQAAAABJRU5ErkJggg==",
     "wiki_name": "Festive elf slippers",
     "wiki_url": "https://oldschool.runescape.wiki/w/Festive_elf_slippers",
     "equipment": null,

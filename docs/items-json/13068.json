@@ -1,7 +1,7 @@
 {
     "id": 13068,
     "name": "Quest point cape (t)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-05",
     "duplicate": false,
     "examine": "The cape worn by only the most experienced adventurers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4XsWX309ScRjGPf9E125deNtNF1120VzTNV2uRq3NYpFLx6ZNhVCGivh7kCL+YISJyVBRxJQMCcyMuXXTWmvaXf/Ik89LB4Gs4dY5vNs7Dmfny/nsed73+36pqtIsFJTe+Y/BH7/ICxQ0NRkuuKbsUFBbW49L1ZfLfIGC1tYONNTVyfNXqqvLWHPhUFBz7fpvoL+plbvf0zuYf4YwGgExFFytb0Jj450CO87SbO7C2Ph0EYiGMGoomJjwwWRqQ3u7Bf39Y3A4RmC3D8HpnIDXG9DSpvNCQSAQFiUIZLU6BMpmG5DvOthUGgrW1hJYXt6E2z0rIB7PvIAZDM36q5PJHMGb/SFQ8/NL6OzsweSkXyxjZ+kOlE5n4T48kc9o9K3UzMzMK6mrmy2d+gOlUp8wfnCCvb1D7OxkEIsl8zVVESCCjHw4RjL5EVtbKVGJ1lUUaGj/GLu7B6LOysq2WDY6OlUZICozmPkudlGdcDgOny9YOSAq43z/DdvbaVis4dOuC+Io2yPXFQFKJPYxkPqah7GtZiUJRSCj8alAla7UKHJA/ckvRTA16z8lCWVwuPVUSYEtnpVUgQphqNrd3nH9gZ7HDuXlhChM7to6Ap0euuZW0bN1BOv6gYyOQiheE6jhWZ9+QOaXm3AkPsMS3Zf9Z3FxTTZFDlcePbq77bhhNOPhqF/rwlZgmlpCVySF7tU04vE9RCJv8kCc+gTixCfQA5dPa5UUPJkOCwxzY+OdHD+CwQhm50IyYIeHPXJ0JdC9vhf6ANEqArF+QqF1GaoE4k7Nac+DWq2pQ4/CVtDii0gxE0i1i0CcY1SIdeRyuQWoyeISizWso1yHsYY4v2jXwsIK/P7lIiBOfALd7nLC6F7QUqUzIHbX0uvYH0AsbBWIra92mmZAbf6oANEuFYgdxvrhEbYQ6Fa7XTqNNmtkmyIF3RlOynGDBc0OOw+I3cYtgLapCmmmEhXqCCVkg6Ri7LzHnsX856OJAJqH53Df6dUaRo3if6r/Sh1gcqG+qJwsXVtu/AJBIlVrw2taKAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4XsWXy08TYRTFnYULDUsTV0aQIMEaQRO0piIkDZhCUynlVcqzaSqUNwQrIohNU94g8vABxYKIRAgLl8bEmPha+w8dPRentBVNSZzpTW46nczX+eWce7/79dgxzUJB4p3/GPzxo7xAgcGQe8Q1SYeCjIwsHD9xMskXKCgsLEF2ZqY8n5eensSaI4eCtNNnfgP9Ta39+/aKuugzhNEIiKHgVJYBOTkXY+w4SLO5FM0t7XEgGsKoocDt7oTJVITiYitqappRVdUIh6MeTqcbPt+AljYdFgoGBgKiBIFstiqBKi+vle862JQYCsbGljA6OguPp1tAvN5eAcvNzddfnY2NPfh2vgtUb+8ILBY7Wlv7xTJ2lu5AkcguPNvf5HNi4qnUTFfXfamrcwUW/YHW1t6iZesrwuFtLC5uYGZmJVpTKQEiSOPrL1hZeYP5+TVRidalFKh+8zOePd8SdUKhBbGsqaktNUBUpm79k9hFdQKBx+jo8KcOiMo4X37EwkIEVlsA6+t+7O3a5TolQMvLm6gNf4jClId2JAlFIKPxpkAlrtQo9oFqVt/HwaRN/pAkVG6lR0+VFJTP7UiqQLEwVO1SRYv+QLent+XlhIhN7to6Av06dPWEYJ/fg21yS0ZHLBSvCZR9q1o/IPPdWVQuvYN1/JXsP0NDY7Ipcrjy6FFW5sBZoxlXm/q0LmwFprYRlAbDKAtFMDcXRjD4JArEqU8gTnwCXXF1aq2SghvtjwSGOTX1Qo4ffn8Q3T0PZMA2NHjl6EqgvOo7+gDRKgKxfoaHJ2WoEog7Nac9D2oZphI9CltBQWdQiplAql0E4hyjQqwjl8sjQAarSyzWsI72O4w1xPlFuwYHQ+jvH40D4sQn0IVSJ4yee1qqdADE7hp5OP0HEAtbBWLrq52mGVBR37gA0S4ViB3G+uERNhbofLFDOo02a2SbIgVtCazKcYMFzQ47DIjdxi2AtqkKaaYSFSoZXpYNkoqx8657h6Kf19wDyG/owWWnT2sYNeL/qf4rdYDZD/VFyWTi2mTjJzKw38j2o6oNAAAAAElFTkSuQmCC",
     "wiki_name": "Quest point cape (Trimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Quest_point_cape#Trimmed",
     "equipment": {

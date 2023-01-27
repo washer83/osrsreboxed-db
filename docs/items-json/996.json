@@ -1,7 +1,7 @@
 {
     "id": 996,
     "name": "Coins",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Lovely money!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA7ElEQVR4XmNgGAWjYBSMglEwCkbBKBgsgPE/dkxXgLB4z3wFrJiOjsLtCHQHGSiAaIQ+BJuqgDgHwRyFHJI0ilbG/7+vuWJYjozXTJD+35AjhiGOjqnkKKCDrgf//30zEojjIPiK6f/3p7T+P9qv/v/gYoX/c1qk/+dEC2A4AB1jRivZgBHqmEiw475f1Pr/8oj6/+tblf9vmYGIGnQHoGMqOggE0NMDAkMsATkaEYogR4NC8Phy5f/LeiAhSGUHMTCADMOF0UPx42ktcAjunIMIQYRaugHM0EN2CJ0dAwHoITdgDhkFo2AUkAgAxEU8bhI0QBcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA7ElEQVR4XmNgGAWjYBSMglEwCkbBKBgsgPE/dkxXgLB4bjknVkxHR+F2BLqDDBQUkBxFMwcS5yCYo5BDkkbRyvj/50F5DMuRcXsa+/9QB1YMcXRMJUcBHXRI6//PI/r/fx41geB9Iv+fref7f2kBz/8lNZz/SyLZ/zsYMmM4AB1jRivZgBHiEJCjgI77vJPv/53lPP8PTeb6PykfETXoDkDHVHQQCKCnBwSGWMKIEoogR4NCcHUT1/+GREgIUtlBDAwgw3Bh9FB8uZEPHIIzSxAhiFBLN4AZesgOobNjIAA95AbMIaNgFIwCEgEAAkYdjLTByZsAAAAASUVORK5CYII=",
     "wiki_name": "Coins",
     "wiki_url": "https://oldschool.runescape.wiki/w/Coins",
     "equipment": null,

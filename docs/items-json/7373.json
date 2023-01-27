@@ -1,7 +1,7 @@
 {
     "id": 7373,
     "name": "Green d'hide body (t)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "Made from 100% real dragonhide. With colourful trim!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3WS08TURQH8Ok3mNVs3LB25cY9xrhz56oLNm5w4caFC4UQKgqBFFOj0USNEkTbSgBJg1WkSRsEXzG+Gr7Osf9775meOb21HRgMNzmZ123Or+c+ZoLg5Lcc+cP3/NhbjjaWp2htadLE6vMJqj69aYIRrVqRmpsL1Hgz70HpP3FkuAUxCiAOjdlZn6N3r+8kEuMaz3QkUamQOdp8Md2DwhEQDgbVqzNUe1UwfXH0gdBfotv7y/Rr98nhUAzCOVeHQdtrswbEffuB8Ls/e0t08KXciYoBIceZkRETOrtqtuz8rxmEpD7QVvlWDMK5D7S7tZgA4ZxBOrtqucQwIBFPblxrEJIDwcPbD7RfL2UH4irhngbJeYEACFXToM/vJaicDsTzQoPwzwGSgHAspDAfUnDJhXgmQV8/3EuAfn98dnQQ7ptkSHwxNBich5fd+YXAHk8HNgTq2879bEEIDKWpSt4hOMajnmsJwvD+aD6MQe1PKzEmNUiieM4YEBAc6hqV0qCfzUdekM7ep3UnqBfk5k14NbLh5hBfe0Gtx4cF2T0IFRoIuuaqcz2y0bnG3NIgLIQESGyKOrtqdsn7QIgY5CZxeMNBVEgQqpMpiFGIBAgYDULFXARnjwEkq4RjDMLk1ZURc8pUSID23t4VoEqMGQqEFeYD8evAgJAYVQIEQ8coDwjVwWtDVmjI6qB1QXoe8esAfaLSqS5IBjDYNLFBYuU5EF4bmYEYhfv8TRMVHUhXCcMGCFaaqBB2aQlilM7uaRbkG7YeEG+EgEiYAuGz43vjQQzCHpRiH0qC5LBJ0Er7pcVglXGlRJUAOjd2PhsQVtkgUOWgSsXWIs03Fmh2e45m6repUCvQ1MY0TaxO0njpCo3mR7MF6WHDfYCQwI7/4MD8wZJPgDp7UOp9yDdsEoRzrDz+CsAuzpsnr0bumwnIN2wShGfys0SC0I/fXxmA0HpL7wuJkaFB2BQliCMFKAh4W/9XaKAMfn+hOpmAhm0aOQyWo9v3PzWN9IX+zYlufwEnTutsrq0nzgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xs3Wz0tUURQH8Dc8Hu1atZPKTZs2I27cGLRp0aYUZTIVZYwpigiiKESyHw5DpQiDPyLDAWMwkTKCqCiS/MtOfe+95815Z+408/QpXji8X3e4nzn33vNeEBz/liN/+J4fesvR/MwQvZoeNFF5PEDlh1dNMKJeLdLG4iTVFiY8KP0nDgy3IEYBxKEx66/H6U1lNDEwrvFMRxKVCpmjxSfDTSgcAeFg0Ep5hKrPCqYvjj4Q+kv07+0Z+rn5YH8oBuGcs8OgtZdjBsR9W4Hwu19b0/Rn5znt7cwZEMbo6e42oUdXzaad/zWDMKgPtPTiWgzCuQ+0uTSVAOGcQXp01XKJacBAvLhxrUEYHAie3lag7dVSdiDOEu5pkFwXCICQNQ369PZmDEKkAvG60CD8c4AkIOwNKcyHFJx3IZ5J0Od3t5KgD48ODsJ9MxgGPhcaDM7DPnd+NrDHk4ENgfqyfjtbEAJTabKSdwiO/qjpWoIwvd827sag3Y+zMSY1SKJ4zRgQEBzqGpnSoO/v73lBevQWrbFAvSC3bsKLkQ23hvjaB/pRv79fkK1ByFBb0CWXncuRjX/XWFsahI0gQbIo6tFVs1veB0LEILeIwysOokKCkJ1MQYxCJEDAaBAy5iI4dQggmSUcYxAWr86MWFMmQwK0tXwjBqFKM6YjEHaYD8SvAwPCwMgSIJg6RnlAyA5eGzJDHWYHrQHS64hfB+gTlU40QDKAQdFEgcTOcyC8NjIDMQr3+ZsmKjqQzhKmDRDsNJEhVGkJYpQe3dMsyDdtTSAuhIBImALhs+Nr7U4MQg1KUYeSIDltEjS7+9RisMs4UyJLAJ3uPZMNCLusHWhur0zF+hRN1CZpbG2cRlauU6FaoKH5YRqoDFJ/6QJ15buyBelpw32AMICd//aB9YMtL0GoQanrkG/aJAjn2Hn8FYAqzsWTdyP3zQTkmzYJwjP5WSJB6MfvrwxAaM2p94XEyNAgFEUJ4kgBCgIu6/8LDZTB7y9kJxNQp00jO8FyNPoeUdNIX+jfHOv2F/F8C5Ueks6AAAAAAElFTkSuQmCC",
     "wiki_name": "Green d'hide body (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Green_d'hide_body_(t)",
     "equipment": null,

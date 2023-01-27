@@ -1,0 +1,77 @@
+{
+    "id": 27652,
+    "name": "Webweaver bow (u)",
+    "last_updated": "2023-01-27",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 27653,
+    "linked_id_placeholder": 27654,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 175000,
+    "lowalch": 70000,
+    "highalch": 105000,
+    "weight": 3.175,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-01-25",
+    "duplicate": false,
+    "examine": "A bow of a follower of Armadyl, corrupted by the power of Venenatis.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xt2X70tTYRTHd16EKGJIgujIXDLDDH8ELYRZ0iayLYsxnRtOWzNNXZsR6JgsxR/UYuKbFOxlUb71Rb3sf/u281yee7erDrLdH/SFw+52D8/5cH48zzOHw3QR9L9YKMKrWBA2giKsJJ4JoKHubqugOBsyI4RsMgy3y2lWlmRwzV7GYniXTovnrewcAmMeNUMGZUkL/vvXT5z9+I6D5SV8er2Ij4sL+LCQwudMGl/zOeylknA7lewYBhMJhZCKx/F0fBzJmRk8HB7Gt+MjnH45EQA7yXkcri5j6tGoCm5QdggPhgaF+Ua1YLVMghgAwyIM9vdjPjp9Llgt069SRxHu9vYi6POpQHoPk0VobmrC84kJK4DO98NK8zW0ORwIBwJmAxFud3XhVnlcb3Z2CutobxfGQNOTk+YDMQQDSbvX14c7PT1izOPhsPlAEkoaA7ldLmxms0hEImYCEbwejzAGuT8wIIyni4F2N9bxIhrV9ZdhUnqnsaGhKiCXiPceni5+z2XjxpZ9ZRAU4XpLCx6PjIhgfEByaWQDV5aRMyU/DcoUibIwkL98JERCQYT8fjVQ9a6rZFHCcaPzd36uIxSJpr3R2oonXu8lINX+Eq7SLva9kkic3PqFay0u31X61vL/CxG283kkprRRrtPCVxXhfS6HTPlSpZXCUillKrxdswMQobi/L0AOtrfsAVQqFnG0lkFhblYdZ72XiSIclkricl55pbAwS8rflM3VuD1gCm9msb4UhbOjzQ79wzJkl/031XmX/T/0ByEcn4ke7ZHwAAAAAElFTkSuQmCC",
+    "wiki_name": "Webweaver bow (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Webweaver_bow#Uncharged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 85,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 65,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "bow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

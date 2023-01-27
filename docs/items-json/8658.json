@@ -1,7 +1,7 @@
 {
     "id": 8658,
     "name": "Banner",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with a picture of a fairy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5klEQVR4XtXX3UoCQRgGYL0TL6GbiA6KIBKkwrAiBKkoojCC6KS6iDpLLBQxI+o4QsS/yh/c7OdaJt+x2T5nVl3b2ZUGXnBndb5nv12V8fn+9/Aze/Fk+FksPKMkujjN1kJTPJHgJI9LKPmqncTx8LNC6lpbNKD87NMwlIX/EqyD9SYCASeoboc+Wi2lwCgRF6UNhAXfm02lkJ3gs66A0KV8MsEKV0mlaL9QjFaQWBxdMlEinXO3y2fm+4rpVA/GVRC61G40elEEBAwyCKMNRLtk1Ossn7jkoJvwKQdZYaxAcoURhwoSXTJqNY5Ct16r9wMxroJol4CqFLPs6eKA1Z4fvAfJXaqWcqxcyLDH8zjvUj+M6yDkpXJngtCxQd3RCMJQUV/tt9/b1km6lPUKpGJEQdw2YACjIMzzvxr6W9WJJyA8R8AgOPYcRG+JKJwp58zQeRnlCYhixg5C8HWXQ0EUpR0kYzAnY1B4LCAxZwWSUa6D6C2UUfSZ6YeSK4w4uqB+GArixwREURq7NBwkUDLGCqUVJCPsggRKG2gYxowFREZpASmFU2LDNzwySgtoPxpk8ViIHW0tseOdMDvZW7EMzh1uLPD3b6/O8f0+9vnY8+P1ZmSW7a7P/2AdDfXKnQQdstOlb4DYu6Qu4OaqAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4klEQVR4XtXX7UoCQRQGYPdKMqKgBDPJPkCkqIhCIoj+VHdRP0OkUBBDIqIbCKJIVMQKUURNiuiiTrxjs4wzq67t7EoDL6yz65xnz6zC+nz/exhkL54Mg2LhaSXR0BStBCdZIoEJFpdQ8l07ieNhUD51qS0aUAZ9tVvKwn8J1sF6Ib/fCarboc9mUykwSvhNaQNhwY9GQylkJ/iuKyB06SmZoOeLpFK0X0SMVhBfHF3iKB6cu148Ma8rpFM9GFdB6FKnXu9BiSBgkEEYbSCxS+1ajR4T5wx0FT5mICuMFUiuMOJQQbxLrWqVodCtt8rtQIyrILFLQJULWXo426Pqy533ILlLlWKOSvkM3Z/GWZf6YVwHIa/lGxOEjg3qjkYQhor67ryb24aki1mvQCqGF8S2AQOYCMI8Iv5XIZ6A8BwBg+Cz5yBxS3jhTClnRpyXUZ6ARMzYQQh+7nJEkIjSDpIxmJMxKDwWEJ+zAsko10HiFsoo8Znph5IrjDi6oH4YEYRjESSiNHZpOIijZIwVSitIRtgFcZQ20DAMj4yQA5QWkFwY6T6cwyOjtIB2owGKx4J0sLFAh1thOtpZsgzO7a/Ns+s3l2fZ+z7e8/HOj+P1yAxtr879Yh0N9c6dBB2y06Uf8T8HM7C/mS8AAAAASUVORK5CYII=",
     "wiki_name": "Banner (Fairy)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Fairy)",
     "equipment": {

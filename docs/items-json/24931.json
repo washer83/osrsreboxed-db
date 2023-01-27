@@ -1,7 +1,7 @@
 {
     "id": 24931,
     "name": "Oak chair",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xs2Xb0vTURTHd9+JL6E30KMIiSIKpcgQTFkLGWO5LHMmrqVrarqlDGXmn5TKxErELCkooogiekknPud6t9/GepT32oHLfrtTz2ff8z3nXmOxfwojzTvHGEZ213Lyn0AZqRSSMj14WYFOtLWFguLbt1LAyObCsEzc7AwJZOTjVlFyyQstoIzsb+RrnwUDWivfaqGCVe3zq2l5kOoICUQYBRroaT9UycjsnStSzV2TjcnrUsxcCg9EUoCyiXMKszjWI6vjfbI5c+N4TE1SgLaqWdlbvy+ftifl686MfN8rSfluV3ggVBnsPSM7q2Py7tm4fHhZUKgvbx7JfPZqeCBUAAgwnoGgbE/yvfK0EK95yy7vYTT5UPysPK8MyfbSiE5nlEIlysYr7Y/HAoDZeTPaf77mI4AOXkxo2/94W1YAwCglYyDZdconlJHXy6Pa5qhEMtdZLLotWjLA8NZCMeULymipKBslcfPImtioj6LvAXdw7Hkwu5GVUkYq97q1VPjl4bCFcAD1o8V2pEcYws4hgFyn4ROGJR3HvttDvQBnm1EjA0BSICgdiXkfXRwxQKe6Tx8q5iWMPM7364QmITMIJTA4ncceCrHPK+DZdL1szX/tCMLI+txt7Sb8wwIGhUgOCIspznI3SK8eIgldxjNt/XN/Tr7tlnQWucUMYnF/8qgOYTShO0RZAAGIQgCk4xd1P/pzXoGYyHhlaqRPqlNp+fV+vuEKAkQm0aElC3DY2jJxocc3gDkgp1i886SqxQBlDHgEMpqcE52JTLe5vWYgXgFmn9a3nx15WL+4KyvfvpRLKJArDYtSMs0pmetCTypZIHfJBwK/AMT0dpMaWPzEHRtPeb741w9K9/z7oKKecQMxWj5U8t5pjUOuDuQgosD829R4A/AeFihalmbg6H7j73oJC8Q59jcVAsIQFshjJ8X+ABa0Dmxq30B4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xs2X7UvTURTHd/+NXpQZFWnoEkxHSwZbTUtypqyla2q2ltIwRg9iJVEmPSGIPSEUBBERRATRv3fic653+22sV3mvHbjstzv1fPY933PuNRb7pzDSurOHYWRzJS//CZSRajElcyM9ChTv6AgFxbdvp4CRtaUxmT7THRLIyMf1kuRTR9tAGXmzWqh/FgxopTLcRgWr2ucXc3I53RUSiDAKdLb/4I5KRq6d75Va/qSszpySUvZ4eCCSApRLHlaYW5P9sjw1KGvzp/fG1CQFaL2Wk60Hl+TTsxn5ujEv37euS+VCPDwQqowMdMrG8qS8ezQlH54WFerLq6uymDsRHggVAAKMZyAo253CgNwvJuresst7GE0+mjgkj6uj8vz2uE5nlEIlysYr7Y/HAoDZeTMxdKTuI4C2n0xr2/94XVEAwCglYyAV3+8TysjLuxPa5qhEMtdZLLotWjLA8NZSKe0LymipKBslcfPImtioj6LvAXdw7Hkwu5F75axUL/ZpqfDLlTEL4QAaR4vtSI8whJ1DALlOwycMSzqOfbeHegHONqNGBoCkQFA6EvM+ujhigE73HdhRzEsYuVEY0glNQmYQSmBwOo89FGKfV8BzmUbZWv/aLoSRhwvntJvwDwsYFCI5ICymOMvdIL16iCR0Gc+09c+3C/Jts6yzyC1mEIv7k0d1CKMJ3SHKAghAFAIgkzim+9Gf8wrERMYrs+ODUpvNyK/3i01XECCyyS4tWYDD1paJCz2+AcwBOcUS3ftULQYoY8AjkNHknOhMZLrN7bUC8Qow+7S+/WzXw/rFXVn59uV8UoFcaViUkmlOyVwXelLJArlLPhD4BSCmt5vUwOIn7th4yvPFv3FQuuff2zfVM24gRsuHSt47rXnINYAcRBSYf5uabwDewwJFy9IKHN1v/l0vYYE4x/6mQkAYwgJ57KTYH+iwm8K7eKarAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20396,
     "name": "Prayer potion(1)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-08-04",
     "duplicate": false,
     "examine": "1 dose of Prayer restore potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xt2XS2sTURiGe/6HSHeCblJEEJo0SW9Jm1vTtGmbNM00SXM3F9PcmgiCxVoQFEELpbjRhZe2iiZ2IaIiiDsRzO95O+eMM0km3VQmJ+IHD4EhzDy833fOnBka+j+KoJuBFsHDbRtulyeQj40i4NUNWorgWzOGr++ijP0HbtytWwYpRRSZT2/C2Ls/hzvVKSakGx7mLSXNjCz08SiEx7tO1r4BzBNBIBCCIESUdE5eCni0Y8etTTNsNhecLg9PKYJYLNnDamAdS8sBzHuWMTU9y7N1BJlsjpHN5hX8fgFerx+zs06M6o18hUqlssJmsYRCYRMrvjU4nB6YTJPQjVzlKUSL4Oj4LZrNEzQaH/C+0WTtmrbYlKGmMlyF0ukMtrZqqNfrDNouq9UxCBlaRGxTEbVanSEL0fnh3Cq5CEuHUZOgLbPZ5zA2Ns5zydMiyOVuolrd6kIearOZ625NEI0mUKlUu2Q2xGv+VQFutxeTk1YYDGZeKRHk84UeISq5FgzDI26KFqudLX0OKYk7dDyFcrnChDqh14X1DSx6fWywOaXUTkdNXBQKh2NYFgfb7nCz/ajPKREkEikUxV2ZJqROKZFMIxKJw+cPwjW3gJkZByYmLNDrTf1KibD3lSyjJpm8wQabngLc80tKSkaTdBzROCXCEqAboVpEJpXKsMEOCuJgL6yw40cfUxLf7plc1wuVYviy1wUd7PXQBrxLq2z5002SHkM0TklaWXSYi2dInAeNUiI9N/5bNEpJOyHKP5HSld0ULkZdSkKapORuvWIstl4r+FqHCtbfL2D++QzG7wfQf97D9eN7GDmo4fJ2HBf8Vi1l5JJOgfTBDpFOQSpErzGhH0+ZjG6/ikv10J8WaS4jlXRD+ZuLKGJUiv6O/3qOa4c70D0p9YhoLtNZ7Qe05dRwETmrOh+sRv3f89YpxlNCnXXOsUUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xt2X3U9SYRzHfa7qplaz1cpptnzDV0QRFd8QwRd8AQlREARFwnCIIiDWXBdt1VrrxXnVuqlZd8q6a+u6rRv9k77xe44cONKN7XBo/bbP2M7YOZ99f7/nOc8pK/s/ikFKSYthdeE+HJYqmPpuQ9N8vdRSDF/2+/D5rZ6zGVDBbbtXSikmynx81Y2Ivx7z03e5kLq6WmkpYWayQh9e6BD21vH2lWCeGKam7bDZnGI6B8+0CC3WYnasEl1devTqDUpKMbhcSwVMTtlhMk9hcMgMtVqrZOsyqysY4gSDayITFhuMIxPQantRW6dSVii6GROJRKIIhyMYG59BT+8QGpvaUFEhzJJCQlQMh4dfkU5/w/FxGkdHad6u9vYucahJRlEh//Iqkskd7O4+5lC7Ojq6SyFDxbC+HkEqlTpjV5wfhVuVLcbT4eykONQyna4fDaoWJZc8FUMoFEYikZSQHeqmZrWSKTEsuLzY3o4jHk9wSGZ+wQPL5Cz6B4xobetAQ0OzUikxrD1alwgRJDkz48CQYRQajY4vfQVSYnC7fdjainGhfOj6rN0Jo3GcD7ZCKWXSWQsjFotLIKFFjw8Ohwvm0cxgdw/w/ajIKTF4PH5sbGxmJLbPyEl5vctwOt0Yn7BC3zeMzs4etLRqUF/fWKyUGH9fUbuInJTA0tIKH2w6BQwMmsSUVI2txUiJ8QRoI8wK5UNCPn+AD7bVOgfD8Bg/fhQxJYZA4KHkhUrc+RSRQINtt89jxGThy582STqGyJySsLJoqUejWwUSF0GmlFjBjf8WmVKST4j4J1K6FjTj8qAw2DIdSxiaTt9x1KfvRTpP90VqTl6j6udzVH7fQ8VRErcOVnFjz4GrPgMuaWvklMmWcAqkB6tO3kgESYiucaEfT7lM+ZMHuDKnP2uR7DJCCTfMfnMxUYyk6Lf610vc3F9BecJaICK7TH7lHpCTO48iIn+q/Aef5/x/L1q/ARCz+FcMAQUHAAAAAElFTkSuQmCC",
     "wiki_name": "Prayer potion (Last Man Standing) (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prayer_potion_(Last_Man_Standing)#1_dose",
     "equipment": null,

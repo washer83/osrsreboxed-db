@@ -156886,5 +156886,623 @@
         "name": "Muphin",
         "type": "normal",
         "duplicate": false
+    },
+    "27591": {
+        "id": 27591,
+        "name": "Muphin",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27592": {
+        "id": 27592,
+        "name": "Muphin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27593": {
+        "id": 27593,
+        "name": "Muphin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27595": {
+        "id": 27595,
+        "name": "Dusty scroll",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27596": {
+        "id": 27596,
+        "name": "Tullia's letter",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27597": {
+        "id": 27597,
+        "name": "Ancient map",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27598": {
+        "id": 27598,
+        "name": "Strange cipher",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27599": {
+        "id": 27599,
+        "name": "Strange list",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27600": {
+        "id": 27600,
+        "name": "Duke note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27601": {
+        "id": 27601,
+        "name": "Numbers note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27602": {
+        "id": 27602,
+        "name": "Settlements note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27603": {
+        "id": 27603,
+        "name": "Lever handle",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27604": {
+        "id": 27604,
+        "name": "Icy chest",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27605": {
+        "id": 27605,
+        "name": "Jewel shard",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27606": {
+        "id": 27606,
+        "name": "Jewel shard",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27607": {
+        "id": 27607,
+        "name": "Ancient jewel",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27608": {
+        "id": 27608,
+        "name": "Icy key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27610": {
+        "id": 27610,
+        "name": "Venator bow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27611": {
+        "id": 27611,
+        "name": "Venator bow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27612": {
+        "id": 27612,
+        "name": "Venator bow (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27613": {
+        "id": 27613,
+        "name": "Venator bow (uncharged)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27614": {
+        "id": 27614,
+        "name": "Venator shard",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27615": {
+        "id": 27615,
+        "name": "Venator shard",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27616": {
+        "id": 27616,
+        "name": "Ancient essence",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27617": {
+        "id": 27617,
+        "name": "Ancient essence",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27618": {
+        "id": 27618,
+        "name": "Ancient essence",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27619": {
+        "id": 27619,
+        "name": "Ancient essence",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27620": {
+        "id": 27620,
+        "name": "Ancient essence",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27621": {
+        "id": 27621,
+        "name": "Ancient essence",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27622": {
+        "id": 27622,
+        "name": "Frozen cache",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27623": {
+        "id": 27623,
+        "name": "Frozen cache",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27624": {
+        "id": 27624,
+        "name": "Ancient sceptre",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27625": {
+        "id": 27625,
+        "name": "Ancient sceptre",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27626": {
+        "id": 27626,
+        "name": "Ancient sceptre (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27627": {
+        "id": 27627,
+        "name": "Ancient icon",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27628": {
+        "id": 27628,
+        "name": "Ancient icon",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27629": {
+        "id": 27629,
+        "name": "Forgotten brew(4)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27630": {
+        "id": 27630,
+        "name": "Forgotten brew(4)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27631": {
+        "id": 27631,
+        "name": "Forgotten brew(4)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27632": {
+        "id": 27632,
+        "name": "Forgotten brew(3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27633": {
+        "id": 27633,
+        "name": "Forgotten brew(3)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27634": {
+        "id": 27634,
+        "name": "Forgotten brew(3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27635": {
+        "id": 27635,
+        "name": "Forgotten brew(2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27636": {
+        "id": 27636,
+        "name": "Forgotten brew(2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27637": {
+        "id": 27637,
+        "name": "Forgotten brew(2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27638": {
+        "id": 27638,
+        "name": "Forgotten brew(1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27639": {
+        "id": 27639,
+        "name": "Forgotten brew(1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27640": {
+        "id": 27640,
+        "name": "Forgotten brew(1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27641": {
+        "id": 27641,
+        "name": "Saturated heart",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27642": {
+        "id": 27642,
+        "name": "Saturated heart",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27643": {
+        "id": 27643,
+        "name": "Charged ice",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27645": {
+        "id": 27645,
+        "name": "Mystic cards",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27646": {
+        "id": 27646,
+        "name": "Mystic cards",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27647": {
+        "id": 27647,
+        "name": "Saturated heart",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27648": {
+        "id": 27648,
+        "name": "Venenatis spiderling",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27649": {
+        "id": 27649,
+        "name": "Callisto cub",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27650": {
+        "id": 27650,
+        "name": "Vet'ion jr.",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27651": {
+        "id": 27651,
+        "name": "Vet'ion jr.",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27652": {
+        "id": 27652,
+        "name": "Webweaver bow (u)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27653": {
+        "id": 27653,
+        "name": "Webweaver bow (u)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27654": {
+        "id": 27654,
+        "name": "Webweaver bow (u)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27655": {
+        "id": 27655,
+        "name": "Webweaver bow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27656": {
+        "id": 27656,
+        "name": "Webweaver bow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27657": {
+        "id": 27657,
+        "name": "Ursine chainmace (u)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27658": {
+        "id": 27658,
+        "name": "Ursine chainmace (u)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27659": {
+        "id": 27659,
+        "name": "Ursine chainmace (u)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27660": {
+        "id": 27660,
+        "name": "Ursine chainmace",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27661": {
+        "id": 27661,
+        "name": "Ursine chainmace",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27662": {
+        "id": 27662,
+        "name": "Accursed sceptre (u)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27663": {
+        "id": 27663,
+        "name": "Accursed sceptre (u)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27664": {
+        "id": 27664,
+        "name": "Accursed sceptre (u)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27665": {
+        "id": 27665,
+        "name": "Accursed sceptre",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27666": {
+        "id": 27666,
+        "name": "Accursed sceptre",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27667": {
+        "id": 27667,
+        "name": "Claws of callisto",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27668": {
+        "id": 27668,
+        "name": "Claws of callisto",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27669": {
+        "id": 27669,
+        "name": "Claws of callisto",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27670": {
+        "id": 27670,
+        "name": "Fangs of venenatis",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27671": {
+        "id": 27671,
+        "name": "Fangs of venenatis",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27672": {
+        "id": 27672,
+        "name": "Fangs of venenatis",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27673": {
+        "id": 27673,
+        "name": "Skull of vet'ion",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27674": {
+        "id": 27674,
+        "name": "Skull of vet'ion",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27675": {
+        "id": 27675,
+        "name": "Skull of vet'ion",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27676": {
+        "id": 27676,
+        "name": "Accursed sceptre (au)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27677": {
+        "id": 27677,
+        "name": "Accursed sceptre (au)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27678": {
+        "id": 27678,
+        "name": "Accursed sceptre (au)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27679": {
+        "id": 27679,
+        "name": "Accursed sceptre (a)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27680": {
+        "id": 27680,
+        "name": "Accursed sceptre (a)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27681": {
+        "id": 27681,
+        "name": "Voidwaker hilt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27682": {
+        "id": 27682,
+        "name": "Voidwaker hilt",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27683": {
+        "id": 27683,
+        "name": "Voidwaker hilt",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27684": {
+        "id": 27684,
+        "name": "Voidwaker blade",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27685": {
+        "id": 27685,
+        "name": "Voidwaker blade",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27686": {
+        "id": 27686,
+        "name": "Voidwaker blade",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27687": {
+        "id": 27687,
+        "name": "Voidwaker gem",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27688": {
+        "id": 27688,
+        "name": "Voidwaker gem",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27689": {
+        "id": 27689,
+        "name": "Voidwaker gem",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27690": {
+        "id": 27690,
+        "name": "Voidwaker",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27691": {
+        "id": 27691,
+        "name": "Voidwaker",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27692": {
+        "id": 27692,
+        "name": "Voidwaker",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27693": {
+        "id": 27693,
+        "name": "Ore pack",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27694": {
+        "id": 27694,
+        "name": "Ore pack",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27695": {
+        "id": 27695,
+        "name": "Dragon pickaxe (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27696": {
+        "id": 27696,
+        "name": "Dragon pickaxe (broken)",
+        "type": "placeholder",
+        "duplicate": true
     }
 }

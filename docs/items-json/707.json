@@ -1,7 +1,7 @@
 {
     "id": 707,
     "name": "Chemical compound",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "A mixture of strong chemicals.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFElEQVR4Xt2XYUtaURzGO5+iNyExisCBKBGIiWZbJt7SlmCWu8O5MWFELlIjvYPBxkYQLAZjsG/QC9sorRexF2Mf7NnOuZzr6Xg0gnvPhT3wvJHjPT9+/79wnZj4P0Jwu76G4PSDgXeHj7BfW4RZDPsNRfCnX8Pvi1es3z8/wUdr1U8o4sD8+vEC30428P5ohQGFp6d1Q9k7w4FuulV8Pc6x8fmwTwSmWUWl8tKxc31WwZdPa3jbSMEw8sjlCzqhCGq110N9aj7HVsnEZqGElXRW5+gI9upvWOv1faflcgXFYhnZbA6L8aReoFbr0Gmj2cLBQQPbO8+wnitgaekxwpF5nUA0BN3zn+j3r9HrXeGy12fjSq8azlJTGK1Au7t7aLc7sCyLlY4rk1n3A4aG/BtTE52OxcqB6P5oHhUPQTqVYobaHbt0ZMbaBhKJZZ0/eRqCZCyG5UTiVucjETwMBvEgENBpiSAejQ7B0M9EIA4lf9uDqO2IQHMzM7osqe1woOjCAsKhkAOkwZLajgpIg6XRdkQgeWweWhptZxSQh5ZsO/cB8tjS+HFxIHGPPLRE2CXj7IwCEi3NMhhXLN1tRwXkoaXxy8xLz4h7pLLk4i6RIQC5KiDR0tTkpGPINUt3lQPJi+0yDI/9FihDyEC0HGYwItdh7NgP5P+51HAcRgZxHUbM4IIBnFwtIKqIF8uVz943fwFKopxlmZaPBAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCUlEQVR4Xt2XSy8DURiGnQ0iiMYttKqIS12iJW1pCeISt5IScQ0hNKTNpGJRra2FxEYiVmIl2NH4gy/njDMdx7Qi6ZxJvMm7aWbmPHm+b5JpUdH/CMH3WhqCo802rC04MT3SgIFem9VQBM+3I3i8CbGeHrqxHWmxEopoMA/XQ1D2O7Gx1MyAPC6XbCh1ZzjQ/VUAsd0ONj4L9okgvLSKSGRds3N36cPxTjtWZpvg94cQDE3IhCLY2tr70cXwKqZnwhgbn4HH45M5us+3K3rMGo2eaJ1fiGByah4+XxDtHW65QInTM62KkkAspmB2bhnDwXF09/TDbld3SRIQDcHT0wsymXe8vWXw+pph4/J6/dpSUxipQPsHR0gmz5FOX7DScQ0ODlkBQ0MQjytIpVJfTWv7I3lUPAStTiczlDxPsdKRBQKj6HL3yXzlaQiaGhvhcji+tbamBlWVlSgrLZVpicBeX/8Dhv6mB+JQ4t0mxNiOHqiivFyWJWM7HKihrg7VNpsGJMGSsR0jIAmWctvRA4ljM9FSbju5gEy0pNr5C5DJlvKPiwPp98hES4Qdks9OLiCTLP1uxwjIREv5l5mXXqPfI9MtiQBijYD0lkqKizVDBbP0WzmQuNgFhuFRvwJFCBGIlsNkR1RwGDXqA/l/LmM4DiOCFBxGn+wBWTixUkCMoj9YrHjtX/MBzlg6OpWRhGgAAAAASUVORK5CYII=",
     "wiki_name": "Chemical compound",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chemical_compound",
     "equipment": null,

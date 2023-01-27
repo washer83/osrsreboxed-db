@@ -1,7 +1,7 @@
 {
     "id": 21271,
     "name": "Eternal gem",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-05-04",
     "duplicate": true,
     "examine": "Like the enchanted gem sold by Slayer Masters, only with an eternal charge.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xs3WX0sUURgG8Nl7P0FX3gldBd12EWEQXRiIF+Ft132BisikpKjYqIxK0kxcV9FcRO3PCiubZkr0T/o6J58zPGffeffddcaZwgMPOzt7Duc375k5O1F0/FvJ2bF+/+et5N5N33SLUzd8Fiavu+rENR8iNlceuEbtvttYvmeg9EXkhscgogBiNKa+NObez99JTIzv+E0nicqELLna21ttKHwCwhC0Xh11K7Mjvi8+LRD6S/T+9rT72Xx1NBRBOGZ1CPq4eNeD2LcTCON+b025P18rB5nzIMxxqrfXR8+uWlx2XjVBmNQCrVZuBxCOMV6DmqsPEyAcE6RnV62UWAZMxJsb3zUIcCC4vBg//uxEG2p7vVwciFXCOYLk/SBjYZCdDxJUyQbifaFBqAZAnBi58GLenavVfWbWzrrTV1tbAwPQ7qfHCdCvz6/zg3AeIKIWmpdcdW8oBCiAdNB3r/6kWBCCpSQGlUEqu4M+BGnUyeErvv/3xngA7X+ZCZjMIIlC6TVmdicOjgligCHoR+O5CdKzd2jx2uPp6QQiRgIk6sxI2SeANl8eFRTvQaiQBsnqaIxEEcNEfX1+bACJTVHPrlr8yFugNBhZGZ3CQNx5idGAwzA9/ed9CgERhfMDk8s+GpEGkwTNBUwqEJ6wbqCLE0s+WTAShQqlrA5aCySXzQIxGmJhMF4uWS6QRklMf/lNKgx2afnYE6VnN1oM6rZsEsNYGFYFrx3fNp4GEPagDPtQEiSXDefwuwVCNAabKP5mcoPwlB0GCojLw62IqgCDV5RCQXrZcJ7vQT2DQ23BeWyiGMe+AG2tPUqCDvagzPuQtWycBFfMSsjwjxjjWCH0LQRkLZsE4Tf5WoJjgtBP3j85QWjtV29FYmQ0CO/SEsRkAEURt/Vu0UAZef8UAkrbNDINlmn1/U9NI63oMce6/QXbjDCbo8rEDAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyElEQVR4Xs3W3UsUURgG8FmvupOuugshhQiCqIvQq6j7Pigq+iRDo4ggimRZij5MNFPZtMTEBcN0kVKCPmSjqL/syHOGZ/add95dZ5wpPPCws7PncH7znpmzEwQ7v5WcHev3f95Kbrxy1o2Vz/iMDJ12ww9P+RCxVL3hFievu9rrawZKX0RueAgiCiBGYxZeXXGzI5diE+M7ftOJozIhS27y8bkECp+AMAS9Hb7oqk/P+774tEDoL9G/ViuusfxgeyiCcMzqEPR+9LIHsW8rEMb9rJfdn7Vn7u/aCw/CHIe6unz07KqFZedVE4RJLdD08wsRCMcYr0HL0/0xEI4J0rOrVootAybizY3vGgQ4EFxejB8b3ZVArb4bKA7EKuEcQfJ+kLEwyOe5wQiEZALxvtAgVAMgTozsf1lz++oNn6laj9tz8moCCdD6/K04aOVRfhDOA0TUzHqve9M4HgUogHTQ98vC7WJBCJaSGFQGmdo45kOQRu3uPeH7f1+8G4F+f3oSYTKDJAql15iJb2FwTBADDEE/PtwzQXr2Fi1cezw9rUDESIBE7R0s+xC0sXR/u6BwD0KFNEhWR2Mkihgm6Oz0YwmSm6KeXbXwkbdAaTCyMjqFgbjzEqMBW2E6unt8CgERhfMHJ1Z8NCINRoKwSxOTCoQnrB3owPhHnywYiUKFUlYHrQmSy2aBGA2xMBgvlywXSKMkprtSTYXBLi0fe6L07EYLQe2WTWIYC8Oq4LXja+1OBMIelGEfioPksuEcfrdAiMZgE8XfTG4QnrKtQBHiaF8zoirA4BWlUJBeNpzne1DH4SOJ4Dw2UYxjX4DqMzdjIOxBmfcha9k4Ca6YlZDhHzHGsULoWwjIWjYJwm/ytQTHBKGfvH9ygtCSV29FYmQ0CO/SEsRkAAUBt/V20UAZef8UAkrbNDINlmn2/U9NI63oMTu6bQKlMV1HrhNxBwAAAABJRU5ErkJggg==",
     "wiki_name": "Eternal gem",
     "wiki_url": "https://oldschool.runescape.wiki/w/Eternal_gem",
     "equipment": null,

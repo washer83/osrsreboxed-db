@@ -1,7 +1,7 @@
 {
     "id": 14248,
     "name": "Fletching hood",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "Fletching skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxElEQVR4Xt3UTUvDQBAG4Ow/6N1LwEMhIBQhBAkBJXgoihQqShGhKqKgCIqiKIr/fM1sMt3JZEOSzUelA++lNNun72zrOJs1QuqsbTRicnEpd84X0pufrgslZPj0LPceHqV/cyt3l1cKBSDvZDY0Ssjo7V2GL68KFdzdr1DY0oAoIfc/PlUQBC0BCluiq5u4bt8oIQ++vhWItoQo2tR2HPfdUoqJf37laHmdJmlE5Wyh4szmKtDUeDrtuyWhMSUQ5+hYBZqCtblR1FdLBIOgEgwGVodr66El1k4FBgOr2wqCrlsyr6oKg4ELPhqPu0SJwqpWmDDSiQ8LGAz+L3WwuuKqFMT303AQxoDCXx3/hIaTtZNgFMTz0nAQxVAQX2n7loReDWKqQLwdeB5eR5x9SyJtBg6BA21A5OKrdbdrSeg7Awf9CxC9yHVAFMNBeA/hfXZrI6C6DZWBknCQRUstQQSz2SC8A41ADDMcqAEsd1anII6pgmUY/rO3A5n+hziCB1EElzvHrh0YA4h/eN3gGfb3B4aBssOaxnRGpyDcf50oFH0eVmgPgjEfyN9VPubnW4Bg8ivQ377utH3eMMVVNBub5/8AnqZjR24QidgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABv0lEQVR4Xt3U20rDQBAG4Cy9EKVExBBJxFgqWqhiq1APoCiIoigoiu//KGtmk+lOJhuSbA6VDvw3pdl+/Wdbx1mvEVJnZaMROxeXcvt8Jt3p6apQQgZPz3Lv4VF6N7dyd3GlUAByTyZ9o4QM395l8PKqUP7d/RKFLfWIEnL/41MFQdASoLAlurr5aNQ1SsiDr28Foi0hija1FUVdt5Rgop9fOVhcJ4kbUTmbqTiTqQo0NRyPu25JaEwBxDk6VoGmYG2bYdhVSwSDoAIMBlaHa+ugJdZOCQYDq9vw/bZbMq+qDIOBCz4YDttEidyqlpgg1IkOcxgM/i+1sLr8qhTE85JwEMaAwl8d/4Sak7YTYxTEdZNwEMVQEF9p85aEXg1iykC8HXgeXkecfUsiaQYOgQNtQOTiq3U3a0noOwMH/QsQvchVQBTDQXgP4X12ayOgqg0VgeJwkEVLDUEEs94gvAO1QAzTH6gGLHNWqyCOKYOlGP6ztwOZ/oc4ggdRBJc5x64dGAOIf3jV4Bn29weGgdLD6sZ0Rqsg3H+VKBR9HlZoD4IxH8jfVTzm5xuAYLIr0N++6jR93jD5VdQbm+f/AIuo01nkIOVBAAAAAElFTkSuQmCC",
     "wiki_name": "Fletching hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fletching_hood",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4164,
     "name": "Facemask",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": false,
     "examine": "Stops me breathing in too much dust.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1klEQVR4Xu2U/UoCQRTFnTfxEXqF/oj+KIIokBAlExP8iC0/sQgjCikk6TtEIqLnvHFmuTvj3TVXVo1oDxwUdcffnHtmEolYsWLF+hNS5PevyP3z08ae53Ytpb1kKAPCABIK368kk4uGGgdpOrvateqO994GXHBKwSBOeVvb3yE3ofApzdQ9ReetdCCM/HNpuVKw3M1edXNhoRR9jVo+y0RCLiakqFrc0kDdTsbbnPyVkB/o/aVGvYsDvavLs6xeDCnODmWAYKQfYo1xoI+3Og0fHLq9zAcChdihkOknPz9lDUWfw6Y2gEZPx/R8V6FBr6hTsoFMD6buUmimg2CAOJ3HflkDcUoMxK9mfGHA3N+EhIEMELrzOjii+5sS9a8PfUD2Zckn0oAFGyc2HLgnpZOB7XEByB7ZpHsKpS0VNimfXaf99BplUqvkVDLUOMlRp1nQMDOkA7lASAfjYiC71PY9BZBJMHBEGJbS6WBc6A+nw+PidOzbW8LgFSDtej4qDKS8dNAfpMPj4u4gHQaxYeBibkMbn3N3IsCw1MTTZacDEJgh8N4uMYNEhIGUd7pkmbk7nAw7CGIOILaUr8z2uH4CkSvNUf67RHpJIEZyBEGWz8T6l/oG3vi0Z0gxKWYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0klEQVR4Xu2UC0sCQRSFnR8SGVFQgaWYKYkP2vIJFj2QQgqp6EEPBAmC6KffOLPcnfHuWrv4iGgPHBR1x2/OPTOJRKxYsWL9CSny+1fk/vlhY9Nzu5bSnjOUAWEACYXvt5LJWUONgjSdDe1add17bwPOOKVgEKe8pu3vkJtQ+JQidU/RcSsdCCP/XFquFCx3s+cnubBQij6HLZ9lIiEXE1JULa5qoNNOxtuc/JWQH+jtuUa9sx29q+5RVi+GFKNDGSAY6YdYYxTo/bVOg3uHrrr5QKAQOxQy/eTnf1hD0cegqQ2g4eM+PV1X6KZX1CnZQKYHP+5SKNJBMECczkO/rIE4JQbiVzO+MGDub0LCQAYI3Xm53aO7yxL1L3Z9QPZlySfSgAUbJzYcuCelk4HtcQHIHtm4ewqlLRVWKJ9dou30ImVSC+RUMtQ4yFGnWdAwEdKBXCCkg3ExkF1q+54CyDgYeEIYltLpYFzoD6fD4+J07NtbwuAVIO16flIYSHnpoD9Ih8fF3UE6DGLDwMXcsjY+5+5MAMNSY0+XnQ5AYIbAe7vEDDIhDKS80yXLzN3hZNhBEFMAsaV8ZbbH9R2IXGmK8t8l0nMCMZIjCLJ8Jta/1Bew/kIy1FKt3AAAAABJRU5ErkJggg==",
     "wiki_name": "Facemask",
     "wiki_url": "https://oldschool.runescape.wiki/w/Facemask",
     "equipment": {

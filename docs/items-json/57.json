@@ -1,7 +1,7 @@
 {
     "id": 57,
     "name": "Oak longbow (u)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "An unstrung oak longbow; I need a bowstring for this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xs3Wy04UQRTG8Zk3cMWGDYkv4HuYuHHlwo1LV65ciBrxgsHgLRg0aISAYUCjiIh4gQSCgJcYb8TXKfl35es5fahhppnWUMlJ93RXV/04VX2aWu3gt3pIR+r+P2/1MDd5MTyfOJ/Fs/H+MPvoXBZCrC0Mh9X5G2Hl5VAC5f+IruERJBQghccsv7ge3j69VpiY39zzUUSVQtbD/NSlXSiOQBQCLc1eCQvTA1lfjikQ/S16e3My/Fx/uD+UQJwrOwK9fz6YgdS3FYjnfm9MhD+fGzsxk4GY40hfXxZ+dtdi2vVXC2SXy4IWG5dzEOcp0PrizQKIc4H87K7VC8vARIC4/voBD8eUC8TkILS8rUCbS3eqAylLwrwabcIIZVIgsuZBn95ZUKMcSPvCg/jLWTL6jPT3hLmR3rDVOJz9bgf68uFuAfTr4+PuQVwHJBQxPdzbEejr8ki1IIKlFEiv8YXTPW1B9P2+OpqDtree5JjSIIticAuinzLFffq1Av1YvZ8E+dlbtDgJg+8FUoU+dfxQdhSITO4CrY3tFxRrEBlqB1IWeebksYjimgfRvwAyRdHP7lp85VMgIgUSlmdPHI0owmanUpBQBBNQcZmAc1uhhcrGGI91qnKQzRJHC6KfrdDKImNMDcVSINDGm1sGNJNjOgLxhqRA+hxYkK3QFnT1TCwFWmI+GzZDHWaH1gT5faRXWSB+p0A8wzhUcY705bNRGUgorpN+gbhv9w/nyiTjzN5ugqjSFiSUnz3RIii1bGVBw2d78s/Kt5V7OYgaVKIOFUF22SxIr7xfLrvXGGtisAIQm7UdSK98CqS9xlhjA705qmuQXzauW5Df0KpVPKe+cZ+4DO3UoNJ1KLVsFpR65S1I9Ye+1KCuQallsyDupTY0oe8YG78CEK35r+le4fePwoMoihakKAGq1VTW9woPtKHvF9mpBNRp88hOsIpm3//UPDIV/pkD3f4CRhuh+vKZoIYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xs3W3UsUURjH8V1ClvorhKCLbopuuuuqq26yF+zFMLZXNqSQIhMrzEQqwzB7oULBEBMrI4iKoqi/7MR3ht/sM09n3R13Cg88zOzMmXM+PufMM1Yqm79VQzxi9/95q4bpsSPh/uihJKZG+sLktYNJCLE0Ww+LM6fDwsPBCMr/EV3DU5BQgBQeM//gVHg+dTI3Mb+55yOPKoSshplbR/9CcQSiEOjp5PEwO96f9OUYA9Hfon+sjoVvy1c3hhKIc2VHoJf3BhKQ+rYC8dz3ldHwa+1O+L12NwExx+7e3iT87K6laddfLZBdLguamziWgTiPgZbnzuRAnAvkZ3etmlsGJgLE9cdXtmYpF4jJQWh5W4FWn50vD6QsCfNoqAkjlEmByJoHvX9xIQMRhUDaFx7EX86S0afR1xOmG7XwdmJb8rsd6MOri3nQm+vdg7gOSChivF7rCPRxvlEuiGApBdJrfHhfT1sQfT8vDmWgn+9uZ5jCIIticAuinzLFffq1An15fTkK8rO3aOkkDL4eSBV6784tyVEgMulBX5eGNwpKaxAZagdSFnlmz44UxTUPor8F2aLoZ3ctfeVjICIGEpZnd21PUYTNTqkgoQgmoOIyAee2QguVjDGS1qnSQTZLHC2IfrZCK4uMcXMwLQUCrTw5m4Go0sJ0BOINiYH0ObAgW6Et6MT+tBRoifls2Ax1mB1aE+T3kV5lgfgdA/EM41DFOdKXz0ZpIKG4TvoF4r7dP5wrk4wzea4JokpbkFB+9khLQbFlKwqqH+jJPiufFi5lIGpQgTqUB9llsyC98n657F5jrBsDJYDYrO1AeuVjIO01xhrur2WorkF+2bhuQX5Dq1bxnPqm+ySfIWpQ4ToUWzYLir3yFqT6Q19qUNeg2LJZEPdiG5rQd4yNXwKI1vzXdL3w+0fhQRRFC1IUAFUqKuvrhQfa0PeL7JQC6rR5ZCdYRbPvf2oeGQv/zKZufwD2xahivHW1WAAAAABJRU5ErkJggg==",
     "wiki_name": "Oak longbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_longbow_(u)",
     "equipment": null,

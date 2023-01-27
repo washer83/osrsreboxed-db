@@ -1,7 +1,7 @@
 {
     "id": 20281,
     "name": "Puzzle box (master)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "I need to solve this!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClklEQVR4XtXWQWsTQRwF8Mw38NRLLgs5FIRCKZRQQiElhEUSgsFAaSEQlVIxKhrBs34L0U/gUbx68ZONvAn/2de3s5KJicWBB91t2f3xn5dpWq3/azlfz70t518vJv7lfBxyez0KuUfgGrRaLv3y3Srm+WUZspgNQ+rAvSHXIMZgQsAwcj69iLma9EP2AFxjmkB8D1Pia4Bmo/OQaXkWUgdmIyuQdkhBikF0m8eDbsij/mlMJqrqz6fvP2IYZT1SkGIwIb13elT4TnGwKcr5m9l5ACkGD0a02AziFxuIrzEdgPCe46IIUYEs598+m9ZA2DYD/fxWhBiIS80vtx4p6OiwHUH69sT6M8gwBuK/sQ5ZqXcAcv7FZT+ADMXFZoyCMCGb4MfOQQh/0qzYvZNO/nYh9lCLftKsQwpiDMITRLg/+vbEcv79zZMayLaL73GprUP8+xQGE8oAOf/qehBBumU6MTuxi3Y7RE/rnYDQHwNxEVOHI2IYTMl+tgAUpvrla8xF9zCvP8AgjElNSHukIDsgGYNic6H17bKcfzMfNoJ0u+yQtL/RswhhzFYg60+qQykQY7Tweh7ZR5+3TAWynP9wOwsYPHxcljF6FlmPGMQYPo+GD1ox9l9/g/44v1qUEcQYTAkP/vW5iNFiN4EUkzUd9AcgxhiIMTYhnmLqPGLMViD0ByCbEvdIQbqlAPG1nkWWcf94cxC2DFMCjM+iFEinqGEQozbsj63qqyXDEPtuZMVWgMbOIr5X9h5uOp1qVfo0DrCn056fT87uFDsF4uvM7UqvFA4xGOOuRt07xVZg2LJy/R16axAvwylQpwYYXvx4cFIrtmF2AtKVwiFNuL/erpzVND2F/TOQrhRur9uVs3h6OZjflLRCG6Ex5loAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4XtXW0WoTQRgF4CxSwoZikZaUNDTpGhKJgTYEohaqUdQI3utriPgKXgs+gHe+55Qz4Z89PTsrOzGxOHCguy27H/+cTNNq/V8rc9Xc28rcm+XEvVqMfW7mI597BG5A69XKrd6vQ15cFj7L2dCnCtwbcgNiDCYEDCMX0/OQq0nfZw/ADaYOxPcwJb4GaDY685kWpz5VYDKyBGmHFKQYRLd5POj6PO6fhCSiyv58/vEzhFHWIwUpBhPSeydHuevkB01RmbuenXmQYvBgRIvNIH6xgfga0wEI75lfXPioQFbm3j2fVkDYNgP9+p77GIhLzS+3Hino6LAdQPr2yPozyDAG4r+xDlmpdwDK3MvLvgcZiovNGAVhQjbBT50DH/6kWbF7x5307ULsoRb9pFmHFMQYhCeIcH/07ZGVuQ/XTysg2y6+x6W2DvHvYxhMKAGUudfzQQDplunE7MTO220fPa13AkJ/DMRFjB2OiGEwJfvZApCf6tdvIefdw7T+AIMwJjYh7ZGC7IBkDIrNhda3y8rc28WwFqTbZYek/Y2eRQhjtgJZf2IdioEYo4XX88g++rxlKpCVuY83M4/Bw8dFEaJnkfWIQYzh82j4oBVi//Ub9Cdz62URQIzBlPDg31/yEC12HUgxSdNBfwBijIEYYxPiKcbOI8ZsBUJ/ALIpcY8UpFsKEF/rWWQZ9x81B2HLMCXA+CyKgXSKGgYxqmF/bJVfLRmG2HcjK7YCNHYW8b2i97DpdMpV6uM4wJ5Ne24xOb1T7BiIrxO3K75iOMRgjLsade8UW4F+y4rNd+itQbwMp0CdGmB48ZPBcaXYhtkJSFcMh9Th/nq7Ulbd9BT2z0C6Yri9blfK4umlYG4Bnd09+nsarbEAAAAASUVORK5CYII=",
     "wiki_name": "Puzzle box (Cerberus)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Puzzle_box#Cerberus",
     "equipment": null,

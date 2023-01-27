@@ -1,7 +1,7 @@
 {
     "id": 12274,
     "name": "Bandos cloak",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "A Bandos cloak.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xs3W3W4SQRQHcHiDPkIfwVsvvPLSxDcwUW+88dIrNY0fwaZGjVGjUdpCwLCFQvkqBQsECC3VNH43vs7Y/2z+w5lxatiymk5yssvubOa358wMm0ic/ZZU/vDd/+ctqaq5JVXJ3tWxmbmjiqu3dRAxaj5Rw/pj1a+teFDuS8wND0FEAcRwMb2tZdUppayB8Rv33LBRkZBJVc/f+wOFIyAMgtrFh6pZuK/74ugDob9EH01y6vs4fToUQThndgjarTzSIPYliAMThOd+7mfVr0/BcWxoEO6fW1zU4Y7utDDtfGuCMKgP1AoeGBDO8fyViwvqxqUFgxq3nlognBPkju60pFUGDMTJjd8uCHAgWF4JwvHm5fCIiA3ELOGaD8RMIkyptpvmXMJCUBANxHnhgjC4C5ITmpBurWYCZUO2mDGCfuytzw/CdYCIYibRx8XsVquq12joYJamJYsBhABAgtCPg7mYdrlsMOj7dfjagI4O3htMZJBEcfkShL4Hg4EOicERGBwJ+jZ84wW5o5/QwrfGivGBeL+wmlbFTEaVslmdkVGnrRHMjgUavTstKNyDkCEfCPcbG4EeMFhf05hyLqdeLF1Qh+Ox+jKZWBi+hAUSm6I7utPCJe8DceICUw8KelBAEFv5vOpUKmrS7+vY63at7MQKIgr3MD84RxBAIFK3zmskMSgdInYQUcQQgWNrs6Rj0GrpGLZ3rGC5ANrfeSZAGwYzEwgrTIJw7W3qqsmGxGDycjL7MJw/k/ZzK0MzZgdtCiKKoPTyNbOsiZHlwzUXw3J9/BAjiCiAiJFziecI9JPfQgQd9l5aIKLc0T0tBPnKBhAy5WJQRmL4LSRB+Oz43H9lQNiDIuxDNkiuNpaOASDn1drKdS8I2ZkbhFXmA8n/LWaMASBB6CfLFRvILRuuswTcsWXwfw/PsS9AWPIW6HgPirwP+comQTiXH2XYxSVIzp9YQL6ySRDuyc8SCUI/OX/mBKHZpTgpJEaGC8KmKEGMCKBEgtv638IFypDzJxbQrM1FzoJlTPv+p+YifeE+c6bbb6LepLx7MFY9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xs3WXWsTQRQG4IT+CMELKQhei6DeeOGldyoVlVgqKoqKiNovQoikaUhMY1NjmgYbEtIS0hJqoeAXiqK/bOSd5Z2ePU4l26zSgcNsdyfMs+fMTDeROPotafzhe/7PW9JUMhOmnL5qozh/xRRmLtsgole7Yzaqt03n9ZQHpV9iZHgAIgoghsa0lyZNs5gKTYy/8UxHGBUJmTTV7LU/UOgBYRDUKNw0tdx1Oxa9D4TxEv19kDFf+9OHQxGEa2aHoPVXtyyIYwnixAThd9+20+bn7oL5tbtoQXh+enzchp5dtSDtfGuCMKkPVM/fcCBc4/dnToyZCyfHHKpfvxsC4ZogPbtqyVAZMBEXN/7WIMCBYHklCP3FU0GPiA3ELOGeD8RMIlyp3tbctYQBhIgE4rrQIEyuQXJBE9JaXnaBsiFbzJgDbc2NDsJ9gIhiJjFGY9YrFdNeWbHBLLFksYAQAEgQxnEyjWmUSg6DsZ82njjQj52XDhMZJFHcvgRh7E63a0Ni0AODnqDPm0+9ID37AS14a+wYH4jPczPTpjA/b4rptM1Ir7lmEcyOBH3pPT8sKDiDkCEfCM/fLObthPm5WYspZTLm4cRxs9fvm4+DQQjDl5AgeSjq2VULtrwPxIULTHUhZycFBLGUzZpmuWwGnY6NrVYrlJ1YQUThGdYH1wgCCETq0jGLJAalQ8QOIooYItDXi0Ub3XrdxmZjNRQsF0Dbq/ccCKc0MUOBsMMkCPeepc66bEgMFi8Xsw/D9TNYux/K0JDZQdsHEUXQi8lzblsTI8uHexrDcr1/9yA+EFEAESPXEq8RGCe/hQjaaz8KgYjSs3taAPKVDSBkSmNQRmL4LSRB+Oz40HnsQDiDIpxDYZDcbSwdA0Cuq9mp814QsjMyCLvMB5L/t5gxBoAEYZwsV2wgXTbcZwkwocQRQxDHAoQtL0E4gyKfQ76ySRCu5UcZTnEJkusnFpCvbBKEZ/KzRIIwTq6fEUFo4VIcFBIjQ4NwKEoQIwIokeCx/rfQQBly/cQCGrZp5DBYxv7Y/9Q00hf6N0e6/QachLIs2XjaGQAAAABJRU5ErkJggg==",
     "wiki_name": "Bandos cloak",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_cloak",
     "equipment": null,

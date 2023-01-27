@@ -1,7 +1,7 @@
 {
     "id": 2293,
     "name": "Meat pizza",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": false,
     "examine": "A pizza with bits of meat on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuUlEQVR4Xu2W3UtUURTFPf9EL74M+NaTrz0IiUQPhiCKMYhhSg1oxuR3jQyTZmY2MaalZWEqKhZmImb4AUrUQ9HftGOdy753z54705lhJIhZsJEZ79zzY+11zj5VVRVVVNE/lyH3OncZ2klW23ox1UPp8dv0JNnlf/fmYjUN9LZQPNZMPV3XzhvO0MrLQX/xVzN3LJSEQSX6o/53fbeaKNbZSJ3RK+UGM7T+eoTWFoZpeW7ALraYvkvz071ZMCiGGY1fp+G+Vt+t7var1NFWXw7XDG2/H6PNpVELBZfezd6jpUzcugQoCXR2GqHUSAclh9pzIFFwK9pymVqb6kqBMrS38dACbb19YKHk4hJClv4/Cu1jpxgK76+NRFyhggDrlzOE/qyB8Fv+jLBzprh9DKVXDpGh092ndLj9uCCQa+F5zpOGcnTJ0NneMzr+NEUHWxOhUHrRsJLPI+TySODdFwS9oAKgrx8mc2BkcVsKlXyWS0I5uGTo236aTj5PWyC4hHDvrqVswKVLchENooF0ceuCcyqvPCDOEaD2N8ct1M5qMgtKVz4I3XbedYBihwq4ZOj3ybwFQtsABZcApRfSIBJoJtWdM1q4OOA1kQsuLYO8HKFtYVmSreLFNJCedfwcdhwC3tx4ycUdVtA2QMGlMCD5na7Mo5jv0sT9G/YEx6zDjkN2ioBhGfr+5bm/4zQQ/iJPH5cTOaBc7NJk4qaFwkjhm0CRMJChX8dz9OMgkxVyzpMMOUYLQ2HW8fDVLiE7DXW1rrkJkxfwn0ezvlt8HAAKRwGg4BJmHd8IePjKexOyI8+dEoEg77ogneKgSyi4JG8EDAQYZMdxi7vJe0Fwl+HWybZph9AuZAchxhYvG4xU8EIPjE9vtIzdQX7QJmQGbUKIixikpUu79rcquzv5xAu5lP5tRf+d/gDyWmwgVJJhggAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuUlEQVR4Xu2W3UtUURTFPQ8h9hD0FBiWIQlqNCn5EQ2aOGmp2MRkmo5mE4Np9KEUkiKGiKSGIPYBhUIhIr1E0P+3Y53LvnfPnjvTmWEkiFmwkRnv3PNj7XXOPhUVZZVV1j+XIfc6dhnaSlTaepLspNTIdZpItPvfzZ2qpL6uRopFG6iz/eJxwxlafHrLX/zZ1A0LJWFQ8d6I/133tXqKttZRa+R8qcEMrbwcoOXn/bQw02cXe5HqodnJrgwYFMMMxi5Tf3eT71ZH8wVquVRTCtcMbby5S6vzgxYKLr2evknz6Zh1CVAS6OB7FQ0PtFDidnMWJApuRRrPUlN9dTFQhnbe3rdAa6/uWCi5uISQpf+PQvvYKYbC+6/U1rpCBQHWL2cI/VkD4bf8GWHnTHH7GEqvHCJD37Yf0pd343mBXAvPc540lKNLhg52HtHeZpI+ro2GQulFw0o+j5DLI4F3XxD0vAqAPq+PZcHI4rbkK/ksl4RycMnQ4W6K9t9PWiC4hHBvL9+zAZcuyUU0iAbSxa0Lzqmc8oA4R4DaXR2xUFtLiQwoXbkgdNt51wGKHcrjkqHf+7MWCG0DFFwClF5Ig0igqeGOrNHCxQE/WXXCpWWQlyO0LSxLslW8mAbSs46fw45DwBvqzri4wwraBii4FAYkv9OVfhD1XRodumpPcMw67DhkpwAYlqGjD4/9HaeB8Bd5Wl+IZ4FysUtj8TYLhZHCN4ECYSBDv/Zm6MendEbIOU8y5BgtDIVZx8NXu4TsnKs+7ZqbMHkB//l12neLjwNA4SgAFFzCrOMbAQ9feW9CduS5UyQQ5F0XpFMcdAkFl+SNgIEAg+w4bnE3eS8I7jLcOtk27RDahewgxNjiJYORCl7ogfHpjZaxO8gP2oTMoE0IcQGDtHhp1/5WJXcnl3ghl9K/Leu/0x8imbsLyaJ6wAAAAABJRU5ErkJggg==",
     "wiki_name": "Meat pizza (Full)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Meat_pizza#Full",
     "equipment": null,

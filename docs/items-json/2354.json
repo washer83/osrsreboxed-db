@@ -1,7 +1,7 @@
 {
     "id": 2354,
     "name": "Steel bar",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "It's a bar of steel.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xs3W+0obQRQG8ORNfATfIv/4AvqXz2FFYqVKSxVLJWhbVFQarcQLwWq9gGK1N6Q38XVGv12/yZnjmbibrOLARza7s5lfZiYnWyo9/VZ2dqzrD97KbnNpxDUWh5OsLzxzax+GkhBx0nztjrdfuaOtlwZKf4mu4SmIKIAYjTncmHB7n14EA+M9rumEqFzIsttert5B4RUQhqDdtTHX/Dia9MWrBUJ/ib48X3J/T993hiIIx5wdgvYb4wmIfWMg3Pf/bNFd/ajfZDUBYYzenp4kenTV0mnntyYIg1qgnfpzD8KxBTrdmQxAOCZIj65aOVgGDMTNjfcahMGB4PLGQOe708WBOEs4Z4E4kwRh1jTo+xcJqucDcV9oEAbXILlRkRjo58GbAPTv63z3IJwHiCj0naiOBCFMg34dvi0WhGApCbIwMRjwv49rHnT5bcVjcoMkCh+eBbNQqyWRMMQC6dEjrbUfNCgrRobXcG8HoLQGYYY0qFPM8txsEg8SRVGPrlr6k7dAEjM40O+TFVMYCIlhZLJg/B7qFEQUQRoRA1mYPyfvbkGrHpMJhF+YBeqrVHys2WqHwd9GC1TPOjtoLZBcNg2ycIzGoEzgb6MwENIOJKMxKIgAoUpLEFF6dKOloNiyMRqiQejDCo3HjoujGQ9CDcpRh0KQXDac4wAxnMSwqncNwq/sPhAG4zOQxPELcXYKBellw3kJks9AKJz838N97AvQ2eepEHRTg3LXIWvZJAjH7UBy/xQCspZNgnBNPpZIEPrJ/dMlCC3cE7FIjIwGoShKEJMDVCqxrLeLBsrI/VMIKGvTyCxYptX3kZpGWtH3POl2DUH+bdNp1aBTAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfUlEQVR4Xs3W30obQRQG8ORN9KLXeuNzaIlYqcFSi5VKoIpFkVSpVYK1RRCt0hYFQVTEPwhSiqVFn2zkm+XbnDmeSXeTrTjwkc3ubOaXmcnJlkqPv5WdHev6f29l97lecZ/mn/o05gbcyrt+HyIONl66/fUXbu/LqIHSX6JjeAIiCiBGY3bXqm6n8TwYGO9xTSdE5UKW3frC4D0UXgFhCPq6Muw2Pgz5vni1QOgv0X9O6u76cKY9FEE45uwQ9H11xIPYNwbCfb+P593N+ZK7PV/2IIzR29Xlo0dXLZl2fmuCMKgF2vz4LAXh2AIdbo4FIBwTpEdXrRwsAwbi5sZ7DcLgQHB5Y6CT7fHiQJwlnLNAnEmCMGsadPbtdQpCcoG4LzQIg2uQ3KhIDHTxYyIEHc12DsJ5gIhC3+pgJQhhGnS5+6ZYEIKlJMjCxGDA/9yvpaC/p4spJjdIovDhWTBztZqPhCEWSI8eac39oEFZMTK8hnvbACU1CDOkQe1i3k+99SFIFkU9umrJT94CSUxfb0+arJjCQEgMI5MFwz3UNogogjQiBrIwvw6mPQhVmphMIPzCLNCT7u401my1wuBvgyDMUMbZQWuC5LJpkIVjNAZlAn8bhYGQViAZjUFBBAhVWoKI0qMbLQHFlo3REA1CH1ZoPHZc7U2mINSgHHUoBMllwzkOEMNJDKt6xyD8yv4FwmB8BpI4fiHOTqEgvWw4L0HyGQiFk/97uI99ATreehWAUINy1yFr2SQIx61Acv8UArKWTYJwTT6WSBD6yf3TIQgt3BOxSIyMBqEoShCTA1Qqsay3igbKyP1TCChr08gsWKbZ94GaRlrR9zzqdgdKt2szYGg5+wAAAABJRU5ErkJggg==",
     "wiki_name": "Steel bar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_bar",
     "equipment": null,

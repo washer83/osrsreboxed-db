@@ -1,7 +1,7 @@
 {
     "id": 9948,
     "name": "Hunter cape",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "The cape worn by master hunters.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4XsWXbUvbUBTHvV/CN3tTyAtBGBShiIiwIqOUFrEYLF1pWJUuUlfpqE+oSEtZCTrxgT06xt74PY/+T3bCNVSXgvfmwCFpktv743+ekqkpY6YofuUFDX8+yQaKXs++mnBNYlPkONPkZKYTbqBocd6h7laDn89mMgnWTGxKA3pKrfB6uZCNngGMISBYCDWXdWghNxODU1RczpG7mnsEYhBGTNH7+lvePL80Q6ulOVak5r5h3/QKJsM0zhS1W2XeuFJeoEJ+lqEAA0gLYYqbov2uy+43S5EqOEoYrcLcnLXp7+2Qep01VgoqiVq6QvGVhkzRVeDTn58DOt6rUXe7wiohp9zKErt1oIvRB/r9vU+nB3U67FUZDFCpAZ0PN+nX19MICLmEkKUGFAw26MfNCSsDGORSqiH73G/St6tjBlpezEYuQK3mGkPFVxqwsNwvgl1ObIQLIHe3ATtgUGkbXsWWSoohBEiHgeN3uTifDhAqTSBSBULe6EA6DI4A8uordoEuz/a59FFdAiKJDaB6rWQPCL1nHJAesqpbtAfUP2rQ9ZcDBsLYiANhlqHSOu13pks/LPnRYIcbI84BhOGKsdGo5rnsoRCAtv2qaZVCoGD4iYEQLh0InRqvHwLkt9bNA6HkdaCOvxIBYZZBJcDApVsbBzof9Z4Eknkm3RqKGsyjfwpp+TMOCGEDEHoRoA2qFPag/wFJ2NCLcN8KkCT0c0DoRbgHVQ2FLXwxSwKEsCGXcC4KGVMJQMMTjxskFJM3xsPdh86941H3Y4N7kF72hmDEHn+pPucWYEKTjZJ4fG1SuweWSseZJqpOOQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4XsWX7UvbUBTGvR9kGMRRLIqOqm2pUjNaW7JqMdYVO+pUmOIsxRJ0optsY1PG8Nv+9TOfE0+4hupS2L05cEia5Pb+eM5bMjZmzBTFr/xHw5+PsoGil1MvRlyT2BQ5zjg5E+MJN1A0N+NQZ6vOz68tLSVYM7IpDegptcLrpXwmegYwhoBgIdR0xqHZ7GQMTlFhIUvuSvYRiEEYMUVvaou8eW5+klaK06xI1X3FvuHlTYZpmClqNUu8cbk0S/ncFEMBBpAWwhQ3RXsdl91vFCNVcJQwWoW5PmvR3W2fuu1VVgoqiVq6QvGVhkzRVeDT7589Onxfpc52mVVCTrnleXbrQBeDTfr1/YSO92t00K0wGKBSAzrvb9DN1+MICLmEkKUGFPTW6cf1ESsDGORSqiE7/digb58PGWhhLhO5ADUbqwwVX2nAwnK/CHY5sREugPy5DdgBg0pb98q2VFIMIUA6DBy/S4WZdIBQaQKRKhDyRgfSYXAEkFdbtgt0ebbHpY/qEhBJbADVqkV7QOg9w4D0kFXcgj2gkw91+vJpn4EwNuJAmGWotHZrzXTphyU/6O1wY8Q5gDBcMTbqlRyXPRQC0LZfMa1SCBT03zEQwqUDoVPj9UOA/OZr80AoeR2o7S9HQJhlUAkwcOnWxoHOB90ngWSeSbeGogbz6EEhLX+GASFsAEIvArRBlcIe9C8gCRt6Ee5bAZKEfg4IvQj3oKqhsIUvZkmAEDbkEs5FIWMqAah/5HGDhGLyxniwe9+5dzzqvK1zD9LL3hCM2OMv1efcAkxoslESj69Nan8BbVxJeTjBtvUAAAAASUVORK5CYII=",
     "wiki_name": "Hunter cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hunter_cape#Untrimmed",
     "equipment": {

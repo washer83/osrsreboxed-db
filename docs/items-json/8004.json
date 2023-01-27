@@ -1,7 +1,7 @@
 {
     "id": 8004,
     "name": "Small map",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A small map of Gielinor.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdklEQVR4XtWX30tTYRjHPX+HN4MuhEAQISS87EIEb4IQJAgSxK68iS6yXQwzSMZIwtZojJmOjY2Zuhxa21iRTiZW9suhl0XO3NA/4Rvf5+09Ow5vgnrP/MLDudn2fvi+z/k+z9razocsqGoJWUgkIlIuQylXkskoXizMIx4PIxKZcQvKEoDl5ThWVpICRIcI9GTG7waUhaXFGDKZhADxSaei0aAATU35TENZ4o4GWl1NI5WaxfPZpwgGA/D7J+BpbzcJpRzKZlNSBCJgLPZMQHQ13j4jb6ElIK9fLWJtbUHAnDBnlRGoQuGlVC63ZB/MqwyHH8Pnu4ve3su2Q10ej1Tzr/xjqcOcTqy/y4ljbPIHk150d3fZQM3f/i9SB1mo1Q5tqI2NvFwp+8rrvYPOzosmrqxZyqnD6k/sfvuIUqkgPcaMGh29iY6OC+5AnZzUcXRUFahy+Y30F2NhYKAPHo+R5m6W6qt6/Rcqu5+wtfVWGp+JPjR0DT09l8xD6b46Pq6hUvmM7e11FItZCc+RkRvo779iHkpJubW398WGmp5+iLGxWxgcvOoe1MHBdxsqn88gEJjE+PhtDA9f/wNlHExB7e9/xYf3JUl3DuL7E/fcdKsBxUZneDLR9TA2NF6cUuGpoTY3izJmNEwo9MixTxm7xgYU3z7nyDmrjEJVqz/sgxmc83MhcYk7FZ8sftbQDDw9kFmce1yDNRABWYZcotT6QhjOOx5OIMKw2QmYTs+ZdUnvUdzJmeIE0bv5zk7ZhjEERFnyprGHCEJX+GR4MtUNuuOU+n+ngegUdykX3HFK5Q7/7zn7xiUYJb0htASMUy0F87f6DaKrf40wJtmMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4XtWX30tTYRjHPVeykCQMw5swwYtIsCASwa68iG6yXQwzSMYICctGjDFMG2OMDbPMHCI1NkZEypAJ/ZIoKkX8AwqSZWID8d/4xvd5e89Oh26Ces/6wsO52fZ++L7P+T7PGhr+D1lQVReykExGpTyGUq6kUjHcnbqDRCKCaHTUKyhLAGZmEpibSwkQHSLQ9dGgF1AW7k3HMTubFCA+6VQsdkOAhocDpqEscUcDzc9nkE6P4/b4TYyNhRAMDsLX2GgSSjmUzaalCETAePyWgOiqvX1G3kJLQB4/msbCwpSAOWF+V0agCoWHUrncfftgXmUkcg2BwAW0tR2xHTrZ3i7l/pW/LHWY04nFZzlxjE1+eciPlpZDNpD72/9E6iALu7vbNtTSUl6ulH3l959Hc/NBE1fmlnJq++sXfPzwGqVSQXqMGdXXdwZNTQe8gdrfr2JnpyJQ5fIT6S/GQmfnMfh8RprbLdVX1eo3rK29wcrKU2l8Jnp39wm0th42D6X7am/vO9bX3+LF80UUi1kJz97e0+joOGoeSkm5tbHxzoYaGbmC/v6z6Oo67h3U1tYnGyqff4BQaAgDA+fQ03PqJ5RxMAW1ufker16WJN05iC8NXvTSrRoUG53hyUTXw9jQeHFKhaeGWl4uypjRMOHwVcc+Zewaa1B8+9wD2F1GoSqVz/bBDM7JibC4xJ2KTxY/a2gG/jqQWZx7XIM1EAFZhlyi1PpCGM47Hk4gwrDZCZjJTJh1Se9R3MmZ4gTRu/nqatmGMQREWfKmsYcIQlf4ZHgy1Q2645T6f6eB6BR3KQ/ccUrlDv/vOfvGIxglvSHUBYxTdQXzp/oBEhEzqXa+nH8AAAAASUVORK5CYII=",
     "wiki_name": "Small map (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Small_map_(item)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11903,
     "name": "Leaf-bladed sword",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-01-23",
     "duplicate": true,
     "examine": "A razor-sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xs3V8UtTURQH8O0/8U/oLxGGkNRQMsh+sRCMftCQmrRMrURXgSs3TJozrETMCoUt01oRrRT/nZvf+/jenXe8W3vuFV44bHvvvp3Pzrn3LpE4+yNp/OG7/89H0rxZGjdrxVs2XhXGTPnZqA0iqhszprI+ZXbe3veg9I/oGB6AiAKIoTHbr++Z96t3Q4nxGfd0hFGRkEmz/uL2CRReAWEQtFWeMBsv79i5ePWBMF+iD/eXzK/d/OlQBOE9q0PQx7WsBXFuMxCeO9grmqNa6ThWLAg5znV12dDZ1QjKzl9NEJL6QJuljAPhvQ+0u/kgBMJ7gnR2NZKhNiARFzc+axCSA8H2NgPtb81aQCwgVgnXfCBWkiBUTWK4bh5lsw4VCcR1oUFIrkFyQWsQITeuDZnZyUlRoZL5/XmxcxCuA0QUKyl3JEH4nqsDAxYzPxXssMYaigGEAECC9IImCN9xOZ0OYX5WnjjQ4Zdlh4kMkii0wQciBvPYpiv9/ebxzLRZzi/Yz/XKUy9IZ28ygi9FslYgvaDxTE93t+nr7bUgfg/m1qsLpwUFZxAq9DeQXNB47nwqZVs1MRb8xXCXYX4IJA5FnV2NYMv7QAgfiFW4dPGCGRocdFubGMyLFUQUAglw4iIBtzUqAsjN4esmPzcXwsQOklXCqwRh7mqxaCGoyvNczl7DMxq09+6hAK04TFsg7BwfiH8HEjSdyZhyoeDahrZqEObib0NWqM3qYDRAeh3x9CWIhx/OGaI0iO36+iFGEFEEMHBfnjvfPlXddQ36vj0fAhGls3tGAPK1DfdGR0bMcE/KjPelXUXkGSRbSxAq+mMn50A4gyKcQ2GQbBvu1Ws1VxFclyc0QoNQnY5B2GU+EFuGBEim/zII4lpju2ID6bbhOluAhPIvgxiCOBcgbPkQ6PgMinwO+domQXjfCiTXTywgX9skCPfkgpYgzJPrp0MQRmNrtwq9fhgahENRghgRQIkEj/VWoYEy5PqJBdTu0Mh2sIzG3P80NNIX+pkzPf4AaPyeoUlPBzEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xs3V/UuTURQH8O0/8SdhEubEjLAfjASjXzSMJi1TexFdEZiVDEl6GaM3BLEXChSMZSK1CCKjKOovO/G9D9+785zu1uaewguHbc9zn53Pzrn3LpXa/yMt4Qjd/+cjLY+XxuRh8ZSL8uKolG6MuCCisjotmyuTsvHkfABlf0Tb8AhEFEAMi1l/dE5elM/GEuMz7tmIo1pCpmXl9uk/UHgFhEHQs9K4rN454+biNQTCfI3+vrMkX7cW9oYiCO9ZHYJePcg7EOfWA+G5b9tF+Vm9K7+q9x0IOXo6OlzY7GZEZeevJghJQ6C1ezkPwvsQaGvtQgyE9wTZ7GakY21AIi5ufLYgJAeC7a0H2nl+2QESAbFKuBYCsZIEoWoaw3VzKZ/3qJZAXBcWhOQWpBe0BRFy4tigzExMeIwDvb3VPgjXASKKldQ7kiB8z9H+foeZm4x2GNdQIiAEABpkFzRB+I7D2WwM83nzqgf9eLfsMS2DNAptCIGIwTy26Uhfn1yZnpLl6/Pu8+7ra0GQzV5nRF+KZI1AdkHjma7OTunt7nYgfg/mfqnM7xUUnUGo0N9AekHjuQOZjGvV+Gj0F8NdhvkapA9Fm92MaMuHQIgQiFU41HNQBgcG/NYmBvMSBRGFQAKcuEjAbY2KAHJy6LgszM7GMImDdJXwqkGYWy4WHQRVuVkouGt4xoK2n170IJzSxDQFws4Jgfh3oEFTuZyUFhd929BWC8Jc/G3oCjVZHYwayK4jnr4E8fDDOUOUBbFd71/OJAciigAG7utz58Obir9uQR/X52Igomz2wIhAobbh3sjwsAx1ZWSsN+sros8g3VqCUNFPGwUPwhnUwjkUB+m24d5uteorguv6hEZYEKrTNgi7LARiy5AAyexfBkFca2xXYiDbNlxnC5BQ/2UQQxDnAoQtr0E4g1o+h0Jt0yC8bwTS6ycRUKhtGoR7ekFrEObp9dMmCKO2tRuFXT8MC8KhqEGMFkCpFI/1RmGBOvT6SQTU7LDIZrCM2tz/NCwyFPaZfT1+A9lyoiQv0GEIAAAAAElFTkSuQmCC",
     "wiki_name": "Leaf-bladed sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leaf-bladed_sword",
     "equipment": null,

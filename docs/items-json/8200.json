@@ -1,7 +1,7 @@
 {
     "id": 8200,
     "name": "Picket fence",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBklEQVR4Xu2UPQ4CIRCFl5tsbWVvbbyBtR7BI1jZeQHjBTyDd8OgIbu8GWYJA0KxL3kNP3kfM8AwrKoqY3GkoYx9v262I6gJaDuOraGMPR33fQJ10jZjD7uNfVzPXy9XqTqwBOTCQz/vl9pVpEDzcG8/T6GLKwSKQVQE4tuAoZKVQPpwtIPJBArbkeJYOBqTEpUHVCicEw+EVcBXJkO4PSrF78AvWAKie4v8Q9iCsAIUaB6O1aXQatFTc22VrASiJeeMoZIVQDwABkjGA3mYbKCcdnDhaExKlAzkQ/FSFwrnRIHw9LhmGq8muQUNgOg/FM42AJK1Ai1pBUoRfYW44u+Kv8J8fQBysLMe60+7MwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBElEQVR4Xu2UPQ4CIRCFlwvYW7n2FjZ6A69gZecNTDyCx/CsGDRklzfDLGFAKPYlr+En72MGGIZVVWUsjjSUse/XzXYENQEdx7E1lLGnw65PoE7aZux+u7GP6/nr5SpVB5aAXHjo5/1Su4oUaB7u7ecpdHGFQDGIikB8GzBUshJIH452MJlAYTtSHAtHY1Ki8oAKhXPigbAK+MpkCLdHpfgd+AVLQHRvkX8IWxBWgALNw7G6FFotemqurZKVQLTknDFUsgKIB8AAyXggD5MNlNMOLhyNSYmSgXwoXupC4ZwoEJ4e10zj1SS3oAEQ/YfC2QZAslagJa1AKaKvEFf8XfFXmK8PNaxUjFnqLrUAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

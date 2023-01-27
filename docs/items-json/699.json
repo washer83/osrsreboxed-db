@@ -1,7 +1,7 @@
 {
     "id": 699,
     "name": "Stone tablet",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "An old stone slab with writing on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCElEQVR4XtWXYU7CQBCF2ZtwBI/AH2/AH0NCgkQkgkRERAQJIiKCCCIao/Gsa96SsdthW0u3pXGSSSmknW/fm52WVOr/h5CbmVgIWSuXXXmUzycFJuRVvS7vOh05HQzk29NUHXEOsP1MZpdQbpjFeCxnw6G8v+mq7/rttvr9IJvdBdQaBkUf+j0FMh+N1GcdqNdqyW6zKU+KxTihhLw8q6lCKPx421cwOHoBXTcaagExQAl5Xqmom6MYisMuZFCgvXQ6SighL06rqoBuF/IvKABB2YhVMtulA3GoGFXatAsg2F0cyqQSAUWoktsuFAbM62TiCeVnWwQqOXaROhiESA6lq4RzbhsWZqmSY5euzvvz7BcIyVXys80Sam0XV+djMXdBkUq8l0y2YYEW1jmTmdQBzOfLwgXFe8kLCIuzBuLqfC2XKgGlq2TqI24ZgPDwtQZCARQEwPdqFQqI7LIGwg1RgOwyAZFlNDT1rc/7p1oq2QFR/0AFPyAA6EAA1IHILmsgeu/hQKam5sPR1D/0ShIaiBp6GyC//okECMW8gExziIBM/XNcKNgB0atGUCDdLlP/7AxI3/J6/9DjguzCP5PDXE5B8WoBwgykT2o+g7z6Zw3gJBQKrVIQIP7IgF0mAD15pS1CGIH4DvNSIQIAUwgXEG15P4AYIHi4FTBB8CtiDw6QCERS8QM+k+kw9nFepAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4XtWX0U7CQBBF2e/gQd55UBKCGEQwiIgYBBEREUFERIwxxvj9a+6SsdthWwvb0jjJpBTSztl7Z6clkfj/IeRqxhZCVopFVx5ks3GBCXlRrcrbVkuOez359jhWR5wDbCeZ3CaUG2Y2HMpJvy/vrtrqu26zqX7fTae3AbWEQdH7644CmQ4G6rMO1Gk0ZLtel0f5fJRQQp6fVFQhFH646SoYHL2ALms1tYAIoIQ8LZXUzVEMxWEXMijQXioVJpSQZ8dlVUC3C/kXFICgbMgqme3SgThUhCqt2gUQ7C4OZVKJgEJUyW0XCgPmdTTyhPKzLQSVHLtIHQxCJIfSVcI5tw0Ls1TJsUtX5/1p8guE5Cr52WYJtbSLq/PxPHVBkUq8l0y2YYEW1jmTmdQBzOfLzAXFe8kLCIuzBuLqfM3nKgGlq2TqI24ZgPDwtQZCARQEwPdisREQ2WUNhBuiANllAiLLaGjqW5/3T7lQsAOi/oEKfkAA0IEAqAORXdZA9N7DgUxNzYejqX/olWRjIGrodYD8+icUIBTzAjLNIQIy9c9hLmcHRK8aQYF0u0z9szUgfcvr/UOPC7IL/0z2MxkFxasFCDOQPqn5DPLqnyWAk1BoY5WCAPFHBuwyAejJK60RwgjEd5iXCiEAmEK4gGjL+wFEAMHDrYAJgl8ReXCAWCDiih+5WQZriKfxgAAAAABJRU5ErkJggg==",
     "wiki_name": "Stone tablet (The Dig Site)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Dig_Site)",
     "equipment": null,

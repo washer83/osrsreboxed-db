@@ -1,7 +1,7 @@
 {
     "id": 23018,
     "name": "Gielinor's flora - herbs",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": true,
     "examine": "Volume 5 of the Gielinor's Flora series.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeklEQVR4Xu3WzUsCQRQAcP0P9uTFi+cg8BIRERTRIYogiqKioCK6dImQviUqqCBBCDxIYJAUiqEsQkH+b9N7M292Z2d3xVn8iOjBA3Vl58d7b2c2FvuPvx9x5ubAI84SV7MscTnDrNNpBTYQHGBu50QqKCszxazDyX7DAPO4wBL3836QgrIOxvtVNQUUhFJAPPfHmLUz2iscYJ6WWCK/6KnS93fDSR+KQNbmiMi1dLdwgCkse0GEUkEeXBAKQUvDLDY/JDIaKs6SxRUB0lFK63SQBxeEwoR7p1MpUxSAnlddFIJ0lDJLmB5MWJUIYwgCzMu6AOkorXUdDzhgTk4Oo1QHMG+bLPm64aLatU6CwlAEurjIsLOzI37NYIYAU9nygnSUBAWhVJCKgnZls8diA53A6nRcJQLpKAL5UJ3sTTA/N9fnDsxghgBT32HJ2rYXZNo6GnCOAtDdXVZg6HjpGJOyd12QjoraOqjOw8MV/26AwQBQc8+LitI65fDFYc7lbsVbgfneQ7MDGB+qXetC9iZE5PP3Yo7owDWoDobYlfliuDAiwlrXbm+SIKgOgiK0SgadWZCtls0X8QF1VEjrcHgLhRyHRcRguCBMXEgeAXwh+o1jwlqH/4PZKRbzzgwZzo0acdEeXEx5tPHz19cH+/ysiXZgW3BxvKa3DqsD86K+3kasjgzxrsIHGucGqqDCms0KT9t+F08SArEqBEREqVTgsC5gRIgbuC9SzkBDJSQMEY16mSffBHHfAWC5XOwuRg33hgST80NVk7Bq9cVJrJg8OLuK0UOvGkKcJ5BgsoU9qU5Y6FXjOJojhPUVo0cQbmAYPSTkV2B6ET8DFQKwk9yzuwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xu3W60sCQRAAcOUQ6UsRRFHRg8KgBz0kekAf+hIhRVYSFVSQkBDkByGoICQikrAohOiD9LduM7uzd3t7d+IePiIaGFBPbn/MzO1eJPIffz+izMm2R5TFDsZYbH+EWTvDCqwtOMAcj4tUUFZqiFkbg62GAeZ8gsVOE16QgrLW+1tVNQXkh1JAPNf6mLXc2ywcYC6nWOxi0lWlavXNTg+KQFayR+Rcd6NwgMlPu0GEUkEunB8KQVNdLJLoFBkOFWXxwowA6SildTrIhfNDYcK950dHTVEAup51UAjSUcosYbowQVUijCEIMLfzAqSjtNbVPeCA2d7eCFMdwDwkWfx+wUHVap0EBaEItLeXYun0Jr9mMEOAeVp0g3SUBPmhVJCKgnZlMltiAx3oMKkSgXQUgTyoevYmmJ+jw10bZjBDgCkvs3hpyQ0ybR0NOEcB6OQkIzB0vNSN6XhfcUA6KmzroDpnZwf8uwEGA0CVVTcqTOuUwxeHOZs9Fm8F5nsPzQ5gPKharQvYmxCRy52KOaID16A6GGJX5ovhwogIal2tvUmCoDoICtEqGXRmQX5/v/NFPEAdFdA6HN58PsthITEYDggTF5JHAF+IfuOYoNbh/2B2CoWcPUOGc6NGVLQHF1Mebfz89fXCPj9Loh3YFlwcr+mtw+rAvKivtyGrI0O8q/CBxrmBKqiwSuWJ58fHo3iSEIhVISAibm6uOKwBGBHiBs6LlD3QUAkJQ8RruciTb4K47wCwWCw0FqOGc0OCyfmhqknY8/OdnVgxeXA2FKOHXjWE2E8gwWQLm1KdoNCrxnE0RwhrKUYPP1zbMHpIyK/ANCN+APhxWT7Tp4x8AAAAAElFTkSuQmCC",
     "wiki_name": "Gielinor's flora - herbs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gielinor's_flora_-_herbs",
     "equipment": null,

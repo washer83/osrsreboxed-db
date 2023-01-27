@@ -1,7 +1,7 @@
 {
     "id": 17780,
     "name": "Treasure map",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": true,
     "examine": "A complete treasure map.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFklEQVR4Xu2W/UoCQRTFnTfxEXqU/osKxQ+ssA+qv0MqiIiKslIQLcSCiIi+CImI6Mkmzl3uON7dHXdXSwgPHCLd2f3dc+/OmEpN9H+kdL/HJg+gc1wiv9SzutvMjQtK6dfWur45XQgEmkqn/xpK6W57U9+dLxEUPBqgxG33Enqor+jb6iJ5eCBF659qmSTzqPRjY5WAkBLcP0NBdknpz3ZRvzWyJnE42lqSIghO5762TDcDUGMvp5v7eX15UDBuHxYHACr9cVWgogCCe+Iv7ovC/dcHSplFAGEDiCHK5TNj/G/bhntv5clcIBsdwPcYgQFj4MFIoPpuxgDZMC4DjtczCO6LDkSEgdxAMh34qDLj+4yB0G6Y5xFQMWCg4HYBCPMjH8pAbAnE63kbsYHkk0PkB7rYnicgu102RBgQzDPEQDHTgUYHhOvxhsESSD7VIWVedwkkq7fh5Gc2EPahhEDB6SQFwswB6KtTSgKkqCLeIwYByVYFQTHQ97X3qscGwsmOdIKA4LhA2CYw0EiIz8aIQIqqQQUnW7PGnAxbPnCQbaDn5hp1ICIQpHwwwwBhD0KRSBlDjV8QfKxEBIJ6Z5ANg0rDdukw87mGQxVASChGy3rqbVryBPfaypYnfphxLYqrVuZM8t79EojhXJAuMxRSZqCdjWn6LlZKLklIlxkK7eaUGGZkQPHVn9qYYTz5k5toot/VDwBAexteL0DVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFklEQVR4Xu2WbUsCQRSFnX/it76Via9UVvTyPaSCiKgorEQQqTCkIIgIiiiiCCII+qET5y53HO/ujrurJYQHDpHu7D733LszplJj/R8p3euRyQPo7JfJT42cfm3lRwWl9PPpsr46nAkEyqTTfw2l9Ft7Vd8czxEUPBygxG33ErprLOjr2ix5cCBF6x/q2STzqPR9c5GAkBLcO0NBdknpz4uSfmnmTOJwtLUkRRCczm19nm4GoOZWXre2C/psp2jc3i31AVT647xIRQEE98Rf3BeF+68PlDKLAMIGEENUKkfG+N+2Dfd+WiBzgWx0AN9jBPqMgQcjgRqbWQNkw7gMOF7PILgvOhARBnIDyXTgveqk7zMGQrthnkdAxYCBgtsFIMyPfCgDsSUQr+dtxAaSTw6RH+hkfZqA7HbZEGFAMM8QA8VMBxoeEK7HGwZLIPlUh5R53SWQrN6Gk5/ZQNiHEgIFp5MUCDMHoK9OOQmQoop4j+gHJFsVBMVA35feqx4bCCc70gkCguMCYZvAQCMhPhsjAimqBhUcrE0ZczJs+cB+toEeW0vUgYhAkPLBDAKEPQhFImUMNX5B8LESEQjqnkE2DCoN26XDzOcaDlUAIaEYLeuqu2nJE9xrK1ue+GHGtSiuVs2Y5L37JRDDuSBdZiikzEAbKxP0XayUXJKQLjMU2s0pMczQgOKrN7URw3jyJzfWWL+rH0TWuuSd0GDgAAAAAElFTkSuQmCC",
     "wiki_name": "Treasure map",
     "wiki_url": "https://oldschool.runescape.wiki/w/Treasure_map",
     "equipment": null,

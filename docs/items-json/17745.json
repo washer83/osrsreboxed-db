@@ -1,7 +1,7 @@
 {
     "id": 17745,
     "name": "Enchanted bear",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "I don't fancy eating this now.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4XuWX3UuTYRjGff4OT3YmBIInOxBPPPFgGIIYSoYSSSyKhVKZ4hJraisxZ37GsrlmOZYjZ1nCMhZrDVs6LWs06Iuof+PO6xnP9u7dh+/77sODbriONvb8uK77vp9nFRX/RzHKriMpRrNzL8hm85LVukRDQ3a62jdJPT3Wo4Bi5HAEkho2b3GNj3uot3eCA9XodOWCYuR8GExKwEC2yVUyX5srP9DSoxCXFAZChBaLgy52j5YrNkZud5hLDgPZ7X66dXu5XLEx8ni2uOQgabEdNDliO3d+qNQuMfJ6I7S4+CYDQmh+foNP3OUr49TebiqlS4x8vm1yuTL7Js2dg6bG+JtMFmpsPFUKoNSye7ycvW+ERP9gF3WevkS1tQ3FBEpArD3b4TEd1jfQ9PQaXb+xwBdjU1MnVVYCpGCgBAjiAQRcQUz5+gZaePCaL8WBgRnq6uqjujpDEkYjUALk6eoHxRBSYf8Mjzh5M7e0nCWd7phWd1IgWHTyzatUGPXBwXt81Ovrj2txJwGC/tAKISRGvb9/ilpbjVRVVaPWHUZPVt6riiSfMOpoZlwXDQ0ntLmDiPIB4TO55N+BMOpjY26+mTs6uqm6Wq/WHRSj5+vRnIeoAcKoj9508WY2GNq0uINi9HJjL+chSoEw6mhmbGaMul5fr8UdFCO//1PWQ/IByb+PZsZmRjM3N5/R6g6KUSDwJeMAtbo75eNvH4x6gdcEo2AwllyCasEQFXoH7mD3tJ28UIg7KEahd3HuEnpJgGEfHQaHqcKYA0a8DKWLUH6SwmIUjf6gSOQbvQ19VQyGnoEzAgivQtzqBbqDYhSL/aG9j79oe+c7hcNxHuGrzf00MNxnAg4xwR1A3ZlY4VEZjea0UZeforIYxeN/af/zb9rd/cndEjFiArGn5GD4uwOHhkecPCpcohoXYa5KPb7gkogPQHAKbyFAiWcI3MFWlkZVhLjSK/VjKTi8hXDp4p8FXgAiMnGjIyopSNFg5JUNzn5/kzszM7vOoyqJK0oqG1xZXFFSUohigvwDO69kqEpuzjIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4XuWX70uTURTHva9kIEkwENmLySRBE1tiZLCKkVKZiMusma1kaaaWhmaWDUukiSTDMvLFGDGIpTVshA5N+sGIBoFEBNF/c+J7x92ePZvzeZ798EUHvq82dj98v+ece1dU9H8Uo/Tak2J0e/gF9fXNkcMxRZ2dY3SutZ+amx17AcVoYsIfV5dtlcvpdFNLSy8HMldUFAqK0eTDQFwCBrrRP0+288OFB5p6tMIlhYEQod0+QaeaugsVG6OZmSCXHAYaHfXS1WvThYqN0RP3KpccRCo0OWI7fuJCvl1iNDcXovsPXqdACI2MLPGJO3PWSWazNZ8uMfJ41sjlWk6BkApNjfG3Wu1UWXk4H0CJZfd4+l0KgFSif7CLGo6cprIyYy6BYhALz9Z5TLv1DTQ4uEAXL43zxVhV1UDFxbpcAMVAEA8g4ApiytQ30Pi9V3wptrcPUWNjK5WXm+IwGoFiIE/nPyiGkAr7p+vyJG/mmppjpNPt0+pOAgSLTr55lQqj3tFxh4+6wXBAizsxEPSHVgghMeptbQNUW2uhkpL9at1h5J59ryqSTMKoo5lxXRiNB7W5g4gyAeEzueTfgTDqPT0zfDPX1zdRaalerTsoRs8XwzseogYIo959xcWb2WSq0+IOitHLpc0dD1EKhFFHM2MzY9T1eoMWd1CMvN6ttIdkApJ/H82MzYxmrq4+qtUdFCO//2vKAWp1c8DD3z4Y9SyvCUaBQCS+BNWCISr0DtzB7qk7dDIbd1CMVt5+5y6hlwQY9tFucJgqjDlgxMtQugjlJyksRuHwNoVCP+jN8jfFYOgZOCOA8CrErZ6lOyhGkcgf+rj1i9bWtykYjPIIfb5PSWC4zwQcYoI7gLreO8ujslhsSaMuP0VlMYpG/9LnL79pY+Mnd0vEiAnEnpKD4e8OHMIliqhwiWpchDtV4vEFl0R8AIJTeAsBSjxD4A62sjSqHMSVXIkfS8DhLYRLF/8s8AIQkYkbHVFJQXIGI690cGN3fdyZoVuLPKq8uKKk0sEVxBUlJYXIJcg/wKSm9Yz1mvMAAAAASUVORK5CYII=",
     "wiki_name": "Enchanted bear",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchanted_bear",
     "equipment": null,

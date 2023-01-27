@@ -1,7 +1,7 @@
 {
     "id": 4442,
     "name": "Breathing salts",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-28",
     "duplicate": false,
     "examine": "An airtight pot with something inside, most likely breathing salts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xt3X70tTURgH8J3/wPd7I/RCCAYiiIgM7pAxhpcx2WjomDiHLpaTaWusrJjaSrHC7AeCCEUQEQQRRER/3FPfc3nuzo7n3tjdnUIHnhcK83z2fZ5zzzUS+T+WoMt1pat/89qqTZXlFK3eStJS1qK8Hb9KoKAXnQ06fLBGB60VerxTpN3GErVqeWqsL1J9LSOB1dKCiyzlEqNCCTo/btC7Z5v0pnuHTg9qLq7bLlOnWXKB7XqB7lZzLhKfnRwfDxsl6OPrFn141aSLl9sSd3a05eJO9qp0/LDiApEgI0cGwsYAICVgGIWfGQUQIEgKKY1olgQdVWZlAmgTNmYct47TQTKMwWzdy0/RbTtGxcREWChBZ1uWBGEztAMbM05tEWMAQWGWOsVpiSonHVAIrfs7O60kndbitL8yIzfEXKAt6pxwMYQLINR6+mYYIEFvNy361E659b45LxN7vjEngbwhF36HNFHd8qzzJZanZdtCAQHw+X7KWAAivYudeTpvJCQUX+CkGpdgRgG0vThJubkbw86RoC+7ac8CCiCggWIQ2guUCsIcFSwHFDAlITf5+ijtWV4pMQgpqaAhB1vQt86CZwHkl5IJhMG2YtGgbRP0fc/2LEaZUuK26SAMtj2DdAZOSdCPfduzGGVKSW2bCYTBjo5FBk1J0M8nGWOpKD0lvW0mEAZ7Ijo2aEqCfj3NXiodpqZkapsJhMEOBPp9mO0rE45TMrXNC4Q7LRSQXpySV9t0EB6M1wZSE+Kr41pAasv4lKkgPIcCgrD8USrINEMqqF2YCgeETXmITSDTUPMpAwh3GYPqmZgLYszAIGzIzx0+7l6nTD/2DOIXNBNI3/EfS8jZ4LtLx/mlgwcj7jL1yIcAwnJezk0wHWN6SvNA8zOI/16AdvWW88EejHGMUZ896j3G86O/Bw2FUZcOU2959VLlmx6zE1oqfkuFofS3RLQKp4pfV0NNxW/1NlH/EeyvYSF/AGG7Ys71K6HLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xt3X8UtTURQH8F38YRTSCEVxjzk3eRtuMbehc+JaDqetMcpyqa0UKyQrQhD8oSgIgiAI+iH6Ieh/PfG9j/N2d71vsbc3hS6cHxTm/ex7zn33GQr9H0vQxbrU1bt5ddmmcj5By7fitJi2KGtHLxMo6EV7jQ4erNB+c4l2tgq0XV+kZjVL9dUFqq2kJLBSnHeRxUxsVChBZ0d1evdsnd507tDJftXFdVoletwousBWLUd3KxkXic/m5+aCRgn69LpJH1416PzlpsSdHm64uOPdCh09LLtAJMjIkYGwMQBICRhG4WdGAQQIkkJKI5olQYflaZkA2oSNGcet43SQDGMwW/eyE3TbjlAhNh4UStDphiVB2AztwMaMU1vEGEBQmKV2YVKiSnEHFEDrBH1sxumkGqW9pSm5IeYCbVHnhIshXAChVpM3ggAJertu0edWwq33jVmZ2PO1GQnkDbnwO6SJ6pSmnS+Rn5RtCwQEwJf7CWMBiPTOt2bprB6TUHyB40pUghkF0ObCTcrMXB92jgR93U56FlAAAQ0Ug9BeoFQQ5ihnOSCfKQm5ybdHSc/ySolBSEkFDTnYgr635z0LoH4pmUAYbCsS9ts2QT92bc9ilCklbpsOwmDbU9f8pCTo557tWYwypaS2zQTCYIfHQoOmJOjXk5SxVJSekt42EwiDPR4eGzQlQb+fpi+UDlNTMrXNBMJg+wL9OUj3lAnHKZna5gXCnRYISC9OyattOggPxisDqQnx1XElILVlfMpUEJ5DPkFY/VEqyDRDKqiVmwgGhE15iE0g01DzKQMIdxmDaqmIC2LMwCBsyM8dPu5ep0w/9gziFzQTSN/xH0vI2eC7S8f1SwcPRtxl6pEPAITlvJybYDrG9JTmgeZnEP89H+3qLueDXRjjGKM+e9R7jOdHfw8aCqMuHabe8uqlyjc9ZiewVPotFYbS3xLRKpwqfl0NNJV+q7uJ+o9gbw0L+QvqZWbyTsWoywAAAABJRU5ErkJggg==",
     "wiki_name": "Breathing salts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Breathing_salts",
     "equipment": null,

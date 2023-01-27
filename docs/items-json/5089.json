@@ -1,7 +1,7 @@
 {
     "id": 5089,
     "name": "Sea snake",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZUlEQVR4Xu2UvUrDUBiGe67DpZfgJs4OXaQgBaEIwQrSSREH3UQk+AdBRHBwEaEoCkGMNGloiilJWlJrTRsoghfz6jlJ2+gF5GQ4D3xwtvPwfj+5nEAgEGQagqgyAYGqNVAoLMdSmRAj0AwLkrSZFTEC3QmY0ETsQD5JiHGRi6QqlSr0ps3E6Pv2/jEhlzqEpWPZHppvLsyWg3J5fdrG+Xyej5ThDmG7PiuaEhXj2DoKgemNWE2kaOsOj894is0GmooZVpvVX7GUoTMTzU2c2G/rXhsttNodFIslvmnV6h7bQtpCOuhqvYGbuxrkc4WXWPQplaJJtb0eNNOCcnUN+VSBvrvIR8rpviOUl1h1/AGeTB97Rxd42VlgQimfBoLexxCfozH8foDx1zdL6kHVsCZtYKW0yielfhCi2Q2h2QM8V+ewL19O52i2CKmSOAlbeVjb0SZykolIngTuMv/JlIxAIIj5AT0fJ7rE6+/cAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaklEQVR4Xu2UPUvDUBSGeyfpH9BN2sGCRahCrAhdRHHQUUSCX1AEcXBwEhyKiIJFsJXGpiUkSAitaSHFj1pKHAoO/qxX703aVH9Abob7wAvZ8vCec08sJhAIBJGGwEskICiWVSSTM75UJMQISo86JGk5KmIESqPHhIZiW/LemBgXOU8qm81B0UwmRr/PL6/H5EKHsHZ08xnaUxM1o4FMZnE0xvlEgo9UtdmH2XRYaEtUjOPoKAQ122UZStHRbe8e8BQLFpqKVXWL5a9YyNCd8fbGb+x3dA+qAcNqIZVK822rULHZK6QjpIterKg4uyhAPszzEvN+SqVoU5bdQammI39yCnk/D2V9io9Uo/0CV55maTld3NQdbOwc4X5tkgmFfBoIOu99fLgDOK89DL6+WVNXt2UsSEuYTc/xaemt9wmt7aJsdnGXm8CmfDzao+AhhEpwEuorceircZ4yHuMngbvMfyIlIxAIfH4ARN8HduYGFPMAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

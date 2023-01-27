@@ -1,7 +1,7 @@
 {
     "id": 24315,
     "name": "Spookier hood",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-10-24",
     "duplicate": false,
     "examine": "A spooky hood cut from a bedsheet!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xu2WX0tUURTFvV+il3kZ6M2nXnyQCIIQiSQExTAxmkQb8A82pU0qw2iTMmRMhkyIFVaSWImVmIhEREREEUVEaH2XVevc9nDm3Dszt3vGoujARhydu3+stfY+t6bm3zgOvPVHjtu8JdOPtmwC7blhdMyO4FBf+++GcxvF5tPovjOJroUMTt2cUL935sdwfCaJ5vFe1Hc2Yc/eyG5DOYgvX8bppSx6FqcUkA51ci6lVDo2fU4pdzDehmhd7W5BOehbyaH3wZUiKAEjFFUiEO1rnRzE0VQcjYkTqG2srzaUg8TGdQw8vuaB0tWiSmIbc0XrjiS70DDQgbrWhmpBOTj//BbObs7hzHoe/atXi6B0taiSaVvTaI9SifbtjzXbQjkYe3MPF17exvCzG0qlwbXZIihdLarkZ9vhoZiaPgHaF42GhXKQfn/fA0XrBEoHI1Q0EikUVdJtO9DdYg808XGlCEpvyBI4/jT/JkXrxDZroMznRwUos5FetNL8jMWg00KBssyRg6ntNVz8tIrxDw89zaRoIwNvQtFCCTozxTzJJg+pkgskKvlBcQKHtubVFAoYP6eNDLu+DhhyBtwKKLu9jktfnigoU6nR14sqVyaUBF+CLirJtWIFNL3z1BeKmUq9XSoJJUvUVIkL0woot7OhgEzr/IC4FgSIeRIgLk39rqsKEBWiOjJx6XfLFYEkR/oWtw71zNdNBeRnF3dTJSDmSBSiOhx9KyBaxRxRIT91Rl7dVUDJFwslgeRKYai5ta2ACEKVZB+Z6pQDYrBpGe1ioGUXWQPlv20VVKJlQYEkQwLEu03ekfhss1uA4yhVCMNijqoJ9Isqua8etIjKSLCDWMZtre8hEyjktnaB2Jxh1oEY6rBA3NShgdiQQISQsS83ZdzU5oTJ1SFAvPVDTpoG9AOA2SnsoZ9AbjCDldz48lobAojH+2C9+MCgVeq7ZseKx3ywWeb/lzs23/1//orzHRPZRueWy7KhAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xu2W/0sUURTFnR9isR/8SZAK8kuYoJJfqE2xRUXb0pZUNrVNWTIWDckQqZAKqRArpEIMKTAIggiCiCCCCCKopL/qyHnD3d6+md2d5q1F0YOLuLpzP5xz7n1TVvZvHAfe+iPHbd6Y6kVzOo6WzCDaZoewv6fld8O5jaILo+i8MYGOxRSOXh1Xv7fPjaB1JoGGsW5Utddj1+7ITkM5iC2fx7HbaXQtTSogHerIfFKpdGjqpFJuX6wZ5ZUVOwXloOdeBt0rF3KgBIxQVIlAtK9poh8HkzHUxg+joraq1FAO4huX0ffwogdKV4sqiW3MFa07kOhAdV8bKpuqSwXl4NTzazjxdB7H1y+hd3U6B0pXiyqZttUPdymVaN+eaIMtlIORN7dw+uV1DD67olTqX5vNgdLVokp+ttUNRNX0CVBrTU1YKAej71c8ULROoHQwQpVHItmiSrptezsb7YHGP97PgdIbsgSOP82/SdE6sc0aKPX5QRbKbKQXrTQ/YzHotFCgLHPkYPLrGs5+WsXYh7ueZlK0kYE3oWihBJ2ZYp5kk4dUyQUSlfygOIEDmwtqCgWMn9NGhl1fBww5A24FlP62jnNfHikoU6nh10sqVyaUBF+CLirJtWIFNPX9sS8UM5V8eycvlCxRUyUuTCugzNaGAjKt8wPiWhAg5kmAuDT1u64kQFSI6sjEnXm3XBRIcqRvcetQz2w9UUB+dnE3FQNijkQhqsPRtwKiVcwRFfJTZ+jVTQWUeLGYF0iuFIaaW9sKiCBUSfaRqU4hIAabltEuBlp2kTXQ3I/NrEq0LCiQZEiAeLfJOxKfbXYLcBylCmFYzFEpgX5RJffVgxZRGQl2EMu4rfU9ZAKF3NYuEJszzDoQQx0WiJs6NBAbEogQMvaFpoyb2pwwuToEiLd+yEn7CUQAZkf2kAC5wQxWcuPLa20IIB7vg/XiA4NWvu+aHYse88Fmmf9f6Nh89//5K8425O133Mm/dq4AAAAASUVORK5CYII=",
     "wiki_name": "Spookier hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spookier_hood",
     "equipment": {

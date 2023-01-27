@@ -1,7 +1,7 @@
 {
     "id": 8760,
     "name": "Steel kiteshield",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A shield with a picture of the mythical 'horse'.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xt2Xb0uTYRTGfT6Hb/YRJIiICAQJCUWMRmIxUEOKEKFCCqRI+gOZpdmaf9bacuZyzVzLNW0bc003NpfUetHHOXHdT+dxu7e5zd1j0oHrhY/w3D+u65znPmtp+T9KI/lJE0ujiZFeOiZQGlnHr9CTm2Yav9Z9HKA0yu7u0NRYn+FSm8nULCjdnb1EgvaTSeHS3eGuZrqkCRAA/UynhUv3b/TQrYHOZkDp7iCuzPc4/cpkaD+VMly63tf+D6qUGlK6O4BJx7fp94+scAnP4NLY0Hnh1KjlHI1c7hCAw+azNHjhTAnAukF1d3A4YKBcdo9Mra1CsWBQNDjAMHmHwVl6TlN/1ykyd56sB0oT8QAoFYsJITIG+ra+TiGfjza8q/TZs0Kf3G5adTpp5Y2d3Avz5LTZyD47K6AAxDCYziNMqEa2exYBhP5hIIaBgh+9FPjgESBel8sAeTc3J2AcVqtwCQ7BnTpgUJrRK5iufBBZnrcOAbNsXywAQmwM09txwgCST6qiDtzhhpYhKgEtvpxRFRVKK+iVapQPhL5BVAyD/9flzsKDAfGSP7lc0cHlxEDom/mZ6ZJRHRmIo+LD0NTc3GhkGYaFvsmPSgkM3EEzQzgEDY0eAsx26GsRBIujej31TLijICqU3jsQgABTacJYaGTbi+fCHUTV3d6mxh18iQEERyD54HJC77yanDSiwrO63cE9BSD+/siHHibExVEpcwdAfJvLB1YS4lLqjn1i0ICpJSoI08W9o2CyUBo5Hg4V7D3JaLTo4HLCqCucLJRGrsdXBRBgcInuRiJFB5cSxj3/q6zAHS5995m+0y/cSWxtiX1HBpCF6eK48LcCd7j0CxVAO+EwxTdDFN34QmG/nzbX1oxVw/9+mXxLS2LvwaWaf6MrdAelTxqAnt6+JNyJBAJFSxjD4N7Cx5DjUuwOl2YAYYl/NHqxYEXFUp+/pkJ8byl2h0sHws+cUlAyEG+DDXKHS/6FUJ0a4M5B8ctrlfyeWusvi2ZHuIRcnqcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xt2X70uTURTHva+kl1EUJZgmKrVQG6gJFYJUSL2QCukHZJaZLX/bWmaamW2YmeUyq7ExzKaMsWEmEetV/9iJ7306j9vd5jZ3x6QD3xc+wnM/fL/nPPesqOj/KEHqkwKWoPbmatolUIJsbSfp5jkLtZ2u3A1QgjbWVqmztcZ0qa6srFBQhjvrgQBtBoPSpUtNFYV0SUgQAP0Mh6VLV85W0fn68kJAGe4grsi3FfoVidBmKGS6dKam5B9UMuWlDHcAE/66TL9/bEiX8AwutTYelU61WI9Qc12pBGyyHKaGY4eSAOYMariDwwEDRb+v057iYim/2y0bHGCYvO3grFUHqbbiAFnK9+cCJWQ8AAr5/VKIjIG+zM7SostFC6+m6e2LSXo9Pk7TDgdNPhqhZ4MD5OjtpZGeHgkFIIbBdO5gQgX1XbZKIPQPAzEM5HY66d3LKQniHB01QZ7290sYu80mXYJDcCcHGJQwewXTFQuiauqxXcJMDA/FASE2hqku3WcCqSdlUFvucEOrEOmAhu5364oKJeJ6JRPFAqFvEBXD4P85uTN4tV6+5E80mnBwKjEQ+mbgXlfSqHYMxFHxYWhqbm40sgrDQt/ERqUFBu6gmSEcgoZGDwFmefFDAgSLo3rYeVu6oyEqlNE7EIAAk27CWGjkvrt3pDuIqrJkrx538CUGEByB1INTCb3zoKPDjArPcnYH9xSA+PujHrqdEBdHpc0dAPFtrh6YTohLqzvD7Q0mTDZRQZgu7h0Nk4USZL/WGLf3BH2+hINTCaOucbJQgp7cOCWBAINLdM3rTTg4mTDusV9lDe5wGbtP18Va6U7g8ye576gAqjBdHBf+1uAOl3GhAmjV46GVpY/kW3hPnrk5WpqZMVeNN88nyDU2JvceXKqxN7pGd1DGpAHo1oUT0h3v/HzCEsYwuLfwMeS4NLvDJUwgLPHXW47HrahY6mPXVIjvLc3ucBlA+JmTDEoF4m0wT+5wqb8QMlMe3Nkqfnm2Ut+Tbf0FuHOpkVYp+lQAAAAASUVORK5CYII=",
     "wiki_name": "Steel kiteshield (Horse)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Horse)",
     "equipment": {

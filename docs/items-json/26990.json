@@ -1,7 +1,7 @@
 {
     "id": 26990,
     "name": "Amulet of the eye",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-05-04",
     "duplicate": false,
     "examine": "An amulet in the shape of an eye.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKUlEQVR4Xs2U30oCQRTGm+fwRvAiCAQJQiIERSTCCCIhKgxTSjCLQvprhRFRIVGIWBDRRRcR0ZP0UCfOGc7u7LSW2YzbBx8uu7Oe357zzQwN9S0B/g5EAs53VuByrwhntWXYLeegvJiFXDYRBJSA6/oatBoVaJ+uQ+esSsZ7je08FHKZQUIJaB6UqDP4+3i1Dc83u/DWqcNLa5+u8VklPz2IEUoYHM/J5pJPdqQR7Pa4DLXVOZhOx21CydxsFWepSCwc9jU+w1HuV+adTMn7RuUWUWH0VVIC7s83qYv52ZQ9IDUb3xcQ8HCxRbuvND/Zw/q+JCgXvX2xgKdm7Rcf0JdkWOvVhR4KCDoSsEMY7J/X9y1B5833BWTWEAYPytFo5If1f5KA97sjSMSjVER/ymPFncijZRhLQCgBr+1DWJhJalCyOOZGB7EIw5J52ijMOMVxRAGAoGTR6MgIeTQWc4KrAulvGZJbRAVBiPjYGBmvGW44EiHLtcYlYCqdhkwySU4lEuSJ8XGyCsjX+Bwh3XvG9bVDbCzMcCoUfgSDGYaSRXEk3WA+4hEyj01fZzjYcgTcBS6KvyqMH5SlXSac/Kg58oNheztqRd4RqB3zA8EOhUMhp0v6vxlSdyg0w7jb3Xh2VAkqpp47bBVGB7EEg5I54jOIjfd1IMsgqrwjY/sB6W9akzoKWThgIK9ksDncfCIHCqSeSf8OCB0wEMob8AHusO76GnRz+gROfUdDCWLajgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJUlEQVR4Xs2Va0sCQRSGm0/REkkYRiupFQUldJHKIrFCQ7pQdiWkIqIgpAsE0ae+RAT9nH7hiXOGs86Oq5nNuL3w4rI7ep49552xq6ttCQh2KBJQ2VyE8+0snJbmYSuXhtzsGKTH3DCgBFyVV+D2KA/Vk1W4P10j473jjQwspJOdhBJwubtEncHP54sNeL3ego+7Mrzd7tA1PstnxjsxQgmD4zkszAVkRxrBbg5yUFqegvFEzCaUzE0xO0lFZlOpQOMzHOVOftrLlLxvVLUiKoy+SkrAY6VAXcxMDtsDUrPRvICAp7Mi7b6l6ZEW1rclQblo7Y0FvFyWfvECbUmGtbw200IBQUcCdgiD/fP6tiXovGleQGYNYfCgjEacH9b/SQI+H/bBjUWoiP6Ux4o7kUfLMJaAUALeq3swMxHXoGRxzI0OYhGGJfO0vjDhFccRhQCCkkUjfX3kaH+/F1wVSP+WIdX/LTBEbGCAjNcM1+s4ZLnWuASMJhKQjMfJw65LHhocJKuAfI3PEbJ2z7jqO8TGwgynQuFLMJhhKFkUR9II5ivmkHls+jrDwZYj4C5wUfxUYYKgLO0y4eVHzVEQDNvfUSvyj0DtWBAIdqinu9vrkv5rhtQYCs0wte1uPDuqBBVTzx22CqODWIJByRzxGcTG+zqQZRBV/pGxg4D0b1qTOgpZOGQgv2SwOdx8IocKpJ5J/w4IHTIQyh/wDu6wxqoPujl9Az7d9y516DnTAAAAAElFTkSuQmCC",
     "wiki_name": "Amulet of the eye (Red)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_the_eye#Red",
     "equipment": {

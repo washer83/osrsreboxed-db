@@ -1,7 +1,7 @@
 {
     "id": 6349,
     "name": "Villager sandals",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": false,
     "examine": "A brightly coloured pair of local sandals.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABl0lEQVR4Xu1UMUvDUBDO+wedumQJdAgUBOkiIg4iIiKIIhTURXBxcXBwEBwEf/jJl+N6dy8vMZX2VSEffCRtXu6+++4uRTFixIgR/w6B2r8tsyLQ69XMJA70fF7R40lJy8OSrg+mOUUF+ljW9H5bR4m9Q/tV1dC/uxVwwpfLqnHFtyisRGYTA2dExP1x2VCdyuYOJ/q8UzGcUEUc1RNazCYD3LGOrg1+GQMsYuAIBleDBrpYTOl0T8WoID0jhOh5WZhiBkGFoEVfD/NVMlzRItsm3EOUnuEY0l7MGgTLJkpRA7dRhdjKtHIVgaAInjqD9xHHD36bP8wbi7GMA0hl2jYNasXg+nTGjsj3KSWkR4yALU5RrJbgsRBQZk3+k/Mg2mqHP87cAw6OCoVxlb46/i7hg+ld1VjC9PAPgFQYW9622m+hMG4RaJdhLTEe7b7bZ2836kjcQtk+sNvdX6DtCqDD2/UctJuYPrcR+G3k5P551yb6cxuFbiMGWhLHYrboSgp+E8HMrqQwZBOzo28Td4Q/4MqI3eIbSiPFE5tGW8cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkklEQVR4Xu1UwUrDQBDNUkpoCfVQUBTUqqAoBfUgePHgwUMvBQ+C//8jIy/rZGY2m7iVdquQB4+kzWbmzZuZFMWAAQMG/Ds4av/WzApHb9dTldjRy8WEnk5LWh6VdHM4zinK0fuyovVdFSS2Dj0sFjXtuzuBT/h6NaldsS1yjchsYuBM48JJWVOcyuaOT/Rxr8TUCUXEcTWi+XSU4I52dGP4lzHALAaOYHAlqKPL+ZjODkSMCJIzTIielYUqJgkiBC36fJw1yXBFi3SbcA9RcsbH4PZi1iCYN5GLStxGEaIrk8pFBIIieOwM3kccO/ht/jBvXoxmGIArk7ZJUC0G1+dz7wh/n2JCesQwvMUxstUcPBQCNrP2/R+fB9FWPfxh5h744KiQGVZpq/PfJXwwrasSixkf/gRwhaHlbavtFjLDFoF6GTYSY9Huu362uhVHwhby9oHd7v4CbVcAGd6u56DexPi5rcBuo09un3dtoj23Vcg2YqA5cShmh67EYDcRzOxKDCmbmB19m7gn/AFXBuwXX7LNltEGAgs0AAAAAElFTkSuQmCC",
     "wiki_name": "Villager sandals (brown)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Villager_sandals_(brown)",
     "equipment": {

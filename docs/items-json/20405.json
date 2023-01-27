@@ -1,7 +1,7 @@
 {
     "id": 20405,
     "name": "Abyssal whip",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-08-04",
     "duplicate": false,
     "examine": "A weapon from the Abyss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvUlEQVR4Xu2XPW7DMAyF7UtkyRIgQ4AAAYwAQaZOnbJ16NKhQ4fe/whqaeJVj5RkO7biLH0Ah0i0+Zk/stM0/6qmNgzbKooBd9utsffTMdwOh/C634eX3S4DWB0yhWD76E7h63IOn+euh3s7WsDrr09FqLYP4CHEfBYABjj5LYDw7frsLZYCeSgEYGM4gH1fL+4BFqk1JeCsRAj1Y/Nw/iFsjLukQOgHBuGg+VI2DXxyezOkPSFAHqYEAkubuAqUAkl2MMq5J84ZX+Phpfxxb7Lafkr44qkwYtLMcq1kNmar/QO195wkzQ7fcAyIs4Gx5z2GmQXEN+PeKUH4Zmc/DAWf5NF3klIgrEuTc39YOPXhdYZJh2OycpnQdZQDpfTZ4usAlDs2bLxRpUCcJZzCPnjJBGgBDJRC8d49QBVgRAqEs2jssPOGElaCgTQTgLKl0/2SAaIiDBQbWQ47myV9X5WM/SorQmFavMcTFKer22xciaxfuvYw5Uee4fID8FANj7wMwMw3+hINjzy+p1fuNzvmHoo/fVfrKzviGlSyU/o7tAoUC2D49PVZXOF8ykmBGGClw3JIT8tGWTVgfgDysYBPjVasdQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuUlEQVR4Xu2XP2+DMBDFYYgioigRSpShQxV16dChVYdK/f4fzO1xevXz2QYCjrP0STfEPrgf98eQpvlXMbVu3KrIB+y228Dejgf3st+7593OPXVdArA4ZAzB9t4f3df55D5P/QD3eggBL78+BaHaIYCFELNZABjg5LcAwvfjei0BpUAWCgHYGA5g35ezeYBVaoMScFY8hPqxWTj7EGGMm6RA6AcG4aDpUjYNfFJ7C6Q9IUAWJgcCi5u4CJQCSXYwyqknThlfY+Gl/H5vttphSvjiuTBi0sxyrWTWZ6v9Aw3vOUuaHb7hFBBnA2PPewyzCIhvxr2Tg7DNzn4YCj7Jve8sxUBYlybn/gjh1IfXGSYejtlKZULXUQ6U0maLrwNQ6tgI400qBuIs4RS2wXMmQCtgoBiK924BKgAjUiCcRVOHnTWUsBAMpJkAVFg63c8ZIArCQL6R5bALs6Tvq5yxX2F5KEyL9XiA/HT1m40pUegXr91N6ZFnuPQA3FXjIy8DsPCNvkbjI4/v6cr9Fo65heJP32p9FY64BpXs5P4OVYFiAQyfvjaLFc6nlBSIASodlmN6WDbyKgHzA2wZMEcsx9z8AAAAAElFTkSuQmCC",
     "wiki_name": "Abyssal whip (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_whip_(Last_Man_Standing)",
     "equipment": {

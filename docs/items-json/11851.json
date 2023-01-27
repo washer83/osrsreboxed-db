@@ -1,7 +1,7 @@
 {
     "id": 11851,
     "name": "Graceful hood",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-12-05",
     "duplicate": false,
     "examine": "A sign of your grace.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4Xu2X7UuTYRTG9/wdfRn4QRgIIxgxZOAQiWEII0lKHFiMRaZUmllabCzG0sxlZdoYOiY2ZpL2YspoTHQN30qxpBL6V666DtyLNiJ6udeXHbh59mzP7uf3XOc652wmUyUq8V/DwM9X2cPA5Uvt6PC14LTHjWZ3A1xHa2Gz1cBsPlRuKAPh4MVfAlnN5nJBfQfqPHdKgFqaXQJUa7fCUm0up0oGJu7fEKC+njMC5G0/LkDHGutKgDSrZCCZGBIgroE+n6h04XybpK71ZGMhbWVSyUD6ZVSg7t6+gsD1jkLaqBKB3E1OOdY5bLpVMrAwO4rF+THEozcFKBToQo3Fguqqqh8WIekrqqVRJQNPZu5gPhVBdMyPB5F+HLZaS4B4fsRmE1if94QopkklA4/jt5CaHsb0VPibee0lQArG6XDAVV8Pf/9ZSac2IKYqEQthKNSNh6MD8nouGcHy8wmsvo5jY20WO5uL2N/N4uDjuhg/6O/UAWTA09pUSBVLnkcCMo301Up6CuurKbzbeIEPOxl83s8JNJc2IG5+b+Sq+IPHyUdBSSHLnn7JrySxnV/A3ts0Pr1fw5eDbX1ALGUFlF2elPRklmLIZRKiWHeXBw1OuzRHjhH1ANqA6BEFRCUIs5mbkzTFxgPSJGlgljxh+AC8VhsQjUvf8Cb0CZUh1NKzcfEWx4jq2GyS7ENagdh/FNDu1itRiVAEJRBLXI0R+omNk9ey0rQAsfcooGu9Xmy9eYp8dqYApIYtvUSokcFeuV4bEDdmRbE58sasNAXEalOzjZ+x0niuFUjBMB1MDRseb0ogvs8bs2FSPQJRUX6HqdYCxAnPcqZhCUQ1mBami0AcvPwlQF+x+ugzViChtAAxFRyUrB76hCYeDveIMlSDShSPEALyfQVVvOtfRvG/it9bVOgfq2QyqU3/dBXvV4lK6Iiv0BUiHoh1gwEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xu2X/0tTYRTGd3+KiUxGl4aTqU0SlmEawxqsTKw0k9KysRgrMzP7qiVDGUOM4UIqo5JERgxD1EpUxL4KJhTVL/1NTz0H3kUbEX151y878HJ3t7v3fu5znnPOZrHkIx//NQz8fOU8DBw+VId6fzV2ez2o8pTBvbUYplkEq3VTrqEMhIMHfwlUU16eK6jvQA37agSousotQMUOO2yF1lyqZKD/0gkBam3eI0C+uu0CtK2iJAtIs0oG4rFOAeJqb/WLSgf275LU1e6sSKctRyoZSD68IVAXzh5B4Hh9Om1UiUCeSpccS5ymbpUMjCd6MXH3KqIDpwQoFGhEkc2GwoKCHxYh6SuqpVElA7dGzuHOaA8GrpzE5Z42bLbbs4B4vsU0Bdbv2yGKaVLJwM3oaSSGuzA8FP5mXkcWkIJxOZ1wl5aio22vpFMbEFMVi4TQGWrCtd52eT0WP4+p+/2YfRzF0lwCr5YnsPF2Gp/fL4rxgx0NOoAMeGsr06liyfNIQKaRvppJDmFxdhQvlx7g3esUPm48FWgubUDc/GL3UfEHj4PXg5JClj39sjATx+rCONZeJPFhfQ5fPq3qA2IpK6DpqUFJT2oygvlUTBRravSizOWQ5sgxoh5AGxA9ooCoBGGW58ckTZG+gDRJGpglTxg+AK/VBkTj0je8CX1CZQg1ea9PvMUxojo2myT7kFYg9h8F9GblkahEKIISiCWuxgj9xMbJa1lpWoDYexTQsRYfVp7dxvMnI2kgNWzpJUJ1n2mR67UBcWNWFJsjb8xKU0CsNjXb+BkrjedagRQM08HUsOHxpgTi+7wxGybVIxAV5XeYai1AnPAsZxqWQFSDaWG6CMTBy18C9BWrjz5jBRJKCxBTwUHJ6qFPaOKucLMoQzWoROYIISDfV1CZu/5lZP6r+L1Fhf6xShaL2vRPV+Z++ciHjvgKLJaltvJKOeEAAAAASUVORK5CYII=",
     "wiki_name": "Graceful hood (Worn)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_hood#Worn",
     "equipment": {

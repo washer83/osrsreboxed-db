@@ -1,7 +1,7 @@
 {
     "id": 15834,
     "name": "Gilded kiteshield",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-26",
     "duplicate": true,
     "examine": "Rune kiteshield with gold plate.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACm0lEQVR4Xu2Wz2oTURTGe99gVrOZzcAsAq58CR9AcCNuRBALiiC0okihSEGFIsVKkVKkWGnxH5VSWgqCCIKIIEIpgoKIUIr4EEd+93rMyXUmaSbTVMEPDiR3kswv33fvOTMy8l+Nykmov0JOFicyWb2V/YI6VDAny9cz2ZzJZetOLk9vZPLibn6YYMEdYAB5OZfLq3sB7t1iMWwwJ/NX2u5YoNfzuazfzuXNQiEfHw8NrNwdYAB5e7/wLvH6w8NCdlYsWONwTm6eTyvdUSBc4hprvH//oJDt5di1RuCq3bFAAHPt21rL1+5667dzDcI5mb5Y7Y4CrU2H66xboL2NUN83Wx6KOAEj0jZcX+p0pwpI4/qy2oaJgagfW0d8AYN7/P7RnNaxL/3pThkQTVLj6gakMLiDWwrTFxDu9ALSuD4/a5UCWXc0rlowU6OpLFzLPNTSZOjKMRDdWuOKgeK42D+6b/qGuXAikbnLqW+GCsTYoCyQxsWNegHhTI19g5xMnk3l0VQYojhAJMCwZkvjqgJSGKKiarlz7njiHYmBcEabHuvAxO2gDGiAqJDz+6YKiKh0LYbhmkapQJwmouIztaK6ejqpBOJHuaF1hn/+6UmIKu7cFDHZfdM3EHGxfyyQAgBk3QHGAn193jkuBowKOTl5LJHxU4lviABxrC1QmTsxEFFpz+HzNaKyCi5NnEn9qbJAAGp81h1OF2WBdJgO4I6V8y7xyGGBbM+JYWKHAOK7A7pjFXrR7FjqgXDL9hyNSmHiPVRzVnVTOHHsJU4dcfVyxwLxBxp0RxXmGSMEIJ1l2nfi3mOPfMPuWDmZudTZBuJGGQMx+w7AHavwXMR+0mEbn0BtmgAdoDtW9jm4ew0BJkhvtJ+Kv/vP6ycaBtNALwRc7AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xu2W34dVURTHZzuO4xxX/0Lzmh6qh2SYFIlKkmFkqBhjqBgZRkrJSD9kZDIq9RA9DPMQ0cMQ8xA9jB4ieojoof9k5bN3q7vu7px755575k7RYnHvPr8+5/tde60zMvI/Gg0nIf+KcHJ9IpOli9kvqB0Fc7J4LpOns7m8uJTLg/OZvLyS7yRYUAcYQF7N5bJ6NcC9vVEMG8zJ/Om2OhZobT6XlZlcXi8U8uHe0MDK1QEGkDfXCq8Sv9/dLuT9HQvWOJyTC0fSSnUUCJU4xhr/128WsrEYq9YIXLU6Fghgjn153PL5daX1W7kG4ZxMH6tWR4GWp8Nx1i3Qtychvz9reSjsBAxL23B9Rac6VUBq16elNkwMRP54vssnMKjH/fePjm4V6k91yoBokmpXNyCFQR3UUpi+gFCnF5Da9fFhqxTIqqN21YKZOpzKwtnMQ92aDF05BqJbq10xUGwX9aN10zfM0b2JzJ1KfTNUIMYGaYHULh7UCwhlatQN4WRyLJW7U2GIogCWAMOaTbWrCkhhsIqspc74nsQrEgOhjDY91oGJ20EZ0ABWEc7XTRUQVulaDMMxtVKB2E1YxTm1rDpzMKkE4qY80CrDm2/eD1bFnZvEJls3fQNhF/VjgRQAIKsOMBbo86POcTGgVYSTfbsTOXkg8Q0RILa1BSpTJwbCKu05nF/DKhtBpYlDqd9VFghAtc+qw+4iLZAO0wHUseG8SnxyWCDbc2KYWCGAuHZAdWyEXnT5ROqBUMv2HLVKYeIaqjmrukXYcdQSuw67eqljgXiBBtXRCPOMEQKQzjLtO3HvsVu+YXVsOJk93tkG4kYZAzH7tkEdG+G7iHrSYRvvQG2aAG2jOjbsd3D3HAJMCH3QVjK+9p+Pn3jgNOESTBluAAAAAElFTkSuQmCC",
     "wiki_name": "Gilded kiteshield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_kiteshield",
     "equipment": null,

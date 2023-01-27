@@ -1,7 +1,7 @@
 {
     "id": 26492,
     "name": "Book of law (or)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": false,
     "examine": "The book of Armadyl's Law, plucked from the shattered abyss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAD3UlEQVR4Xu2X20sUYRiHd/6DrrzxRvBiQRAWIURkwRCRMKQIFItEk0xSIjMz88CiZqWZm+UhF9NcDylqJ7MiogNIBF5EXXTV3/Lm826ffDu76ViyedELP5yd3Znv+X7vYUafb1fhSEz7IhwZHghIYcGB/QDlyGg4IHU1GXK4KE2BAhkZ/wrKkcjdgFwPZcnRkjQpO5b+yyFbKQ1HopEcqanMUJiTJ09LQ8OlOKUQ0JG5BweluyNLTpSlS0VFlQKEQjelt3fwt0oE3BNQR5aiubIwdVCqTqSrQzU156S1NST9t4YlEpmTiYl57xrJ+VtAR54+ypVQq19hamsbpLHxijowOvpQxu5HkyoB5JfY2O3ebGm/7NfmoB53AeXI88U8mRrL0Yvr6y9qqjo7r0s4PJ4A4VXcj+ZovpCp92Udj93qyOvHebqbxvpMdaalpVP6+u5qquxFKHj3wm6Za+7dm9DNUZMGxgOQI29X87XVgWlubte66ekZkJGRycTFNn9njldmcxO+R+PjM5pmgHAYlzY+FHhJmSMfXwcVqLXJryDtHdc0VYODYwkLuQWQG8q4w2aA0cbYvDdd6yFljqy/CepUJl20d1dXv9y4EdZdmkXePMtX2Z+TwSDjDjDUIU0BkIeUOfL5XYGsLcdqBxAuBgarbRfcYAbGDWTcAYb7kXZGhseCjgHd6ctWEAqYi+1UuRc0UFsAm/Vk1xTuGBiGKvekQTy582X9kLY6BTcwMKIgQ0ORBAC6yl7YBrKFOwamqemqwpCyurrzO7njyPeNQgVicHETQCjC7QagkUkVoLZsmPLyU7pBCtqTOwBxU2rFtDZ2u2eOV9kwpaXH1fHKyjNeYHy+H1+L5P1aUIeVDcK4n5xckKmpxS3xmfNugN/BVFef1ZFBmnhL2CFVsWDu0Fk81bmYgqaYDcz09JJEoysyM/tExTHivA2J3DAlJUc1/bjkyR0CIJ7qzB4egKQM0e6msFlobu6pzM8/k4WFVRXHnEOA4iyFyzClVoChzYuLj3h3hwCIVwOgcIk6SiZT4PxdWnopy8uvVBwDxXdsgrFB+hl+/HZX7hAAAcKrBk9j8/LFbt1QCMdIk50qpjt1yAOZzdGtwAWDh3YHE4v4l6a2tu4tKDMY3VAGjO5hYUYGG2OOsTn+OwkEcuLcca+6bZgdxC6MB8QpA0VacISaAciIpmBsAINDAPGW+QfuJI/tAKkLxgIdBtji4ostMONYf3eWZPl9f+aOl9gO8NunQn0GUkM4RXPg0J654yVsOFLFuOBxQboYHzaQ+9oURLxjRilzJ1nYKY1P7//Y+/gJBsnsUMh/0mYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAD2UlEQVR4Xu2X3UsUURiHd4gQQ5TFMFrJPqSkiNLQMswUyswMS2VJ09LMLM00E5OtrMUWTQsrKwqEiCgoiC66Crzquj/qrefdjpydXe2siXXRCz+cnd2Z85zf+zFjIJBWeBLXPxGeXO0KSkH+mn8BypOBS0GpLM+UbZvXKlDxli1/C8qTG71BaQ9nS1HhWtm9M+OXQ7ZWNTwZu5Er5aWZClNSckCqq48naBUBPYneXC8tTdlSvDtD9u4tU4Bw+Ly0tXUvqmTAFQH1ZPJOnsQi66WsOEMdKi8/LA0NYem8cFWGh6MyMjLurv7cPwX0ZOZ+noQbshSmoqJaampOqgMDA7dk8PqdlEoC+SU2drEtRxpPZGlzUI9pQHnydGKDRAZz9eKqqmOaqubmdunpGUqCcBX3oznqjq7T+7KOY7d68urhBt1NTdU6daa+vlk6Ono1VfYiFLx/Yb/MNX19I7o5atLAOAB58np2o7Y6MHV1jVo3ra1d0t8/mrQYvzPH0/fykr5HQ0N3Nc0A4TAufXmX75IyT96/CilQQ22WgjQ2ndVUdXcPJi3kF0B+KOMOmwFGG+Pnvelah5R58mEupFOZdNHeZ850yrlzPbpLs8jc440q+3MqGGTcAYY6pCkAckiZJ5/f5MvzB/HaAYSLgcFq2wU/mIHxAxl3gOF+pJ2R4VjQcaDLHTkKQgFzsZ0q/4IGyhxTT3ZN4Y6BYahyTxrEyZ2vHzdpq1NwXV3XFOTKleEkALrKXtgGsoU7Bqa29pTCkLLKyiO/c8eTb18KFIjBxU0AoQiXGoBGJlWA2rJh9uzZpxukoJ3cAYibUiumtbHbP3NcZcPs2LFLHS8tPegCEwh8n98sb5+HdFjZIIz70dGYRCITC+Iz5/0Ai8Hs339IRwZp4i3hN6mKB3OHzuKpzsUUNMVsYG7fnpSxsWm5e++RimPEeRsS+WEKC4s0/bjk5A4BEE91Zg8PQFKGaHdT2CwUjc7I+PgTicVmVRxzDgGKsxQuw5RaAYY237p1u7s7BEC8GgCFS9RRKpkC5+/k5AuZmnqp4hgovmMTjA3Sz/Djt2m5QwAECK8aPI3Nyxe79UMhHCNNdqqY7tQhD2Q2R7cCFwptSg8mHokvTadPtyxAmcHohzJgdA8LMzLYGHOMzfHfSTCYm+COf9Ulw+wgfmEiIE4ZKNKCI9QMQEY0BWMDGBwCiLfMZbiTOpYCpC4YC3QYYBMTzxbAjGOdLdmSnRVYnjsusRTg/KcCfQZSQzhFc+DQirnjEjYcqWJc8LggXYwPG8h/7SpEomNGq+ZOqrBTmpje/7Hy8QNRhfxiVfBpsAAAAABJRU5ErkJggg==",
     "wiki_name": "Book of law (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_of_law_(or)",
     "equipment": {

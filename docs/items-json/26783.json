@@ -1,7 +1,7 @@
 {
     "id": 26783,
     "name": "Blood talisman",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": true,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYklEQVR4Xs2X3U4TQRzFd9+Aq970pgkXJiYmvgAJXBBuCAmRSCqR8BGRSCUiRsQAqaQg8iEVsSBoqlRrwMZoovHxDj2z/XdnhpKCzm45yUmzbXf72zNnZrae50Q+Al8J+Ti4nsTG8nINquVgIZC4xWABkLgxWKxwIZAOYzsmqDCB/LXEGQhxb5unHCFUAJGdn8ezmRlMT04iMzGhXnn86kVWAUhyAnMzlVK2r/YP0u/Mx+HODl5ml7A0N4enj6YVyP3RUYzcSeN2fz96e3qs/jiG0Qt68CaPrVwOK4sLCoiJPJ6awoPxcYwNDSE9MIDuzk4DwjmMAB0Xi3i7vq6AmBCH7PnsLBZTCTVk94aHcXdwUKUkQPYV/0M+Pmkzh8eVoyOU3u8jv7am3mNKhKH1lAiVSiZrqTrTWaDfJ8f49a2M/fw2tldX6zC03iVCCZDDlHyUb5hAfysV/Pz6BcVCAYXXW3UYGbonDzNq6PSEIgX68/0EP0ollD8c4uPuroKy+0QoFjs2IPaIQJ/39hTUu82Nep8465iQXmqHQJSPkgWlA3E9YkpScvaIM+1WX1+t0JHsY2a5aQKxR1yTCMOVmUPGUrM/XR0dxvcjgWJSelrNnE60KUc0dFS4SDZzJhkzjOzem9Udns61hyaM2OEsMzfGRkD2543sKJ3mQ6P/WDPbV7+kgvLqWwJ9HpB9dgSqPnRVe0CfB6ND2WdHoBCItiE4c1qSEm0/tLPIOlCMKVHmXxuB0YHG3E7riyhMSoB4zA2XMOIYU/K84O7NtUWA5NjR9L6czHXFBIkdppGuDEgcOgXynSiUOaNccQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXElEQVR4Xs2X208TQRjFd0OaBkP0HWKAB0gQQ8FwM4jUIGKEQASRVEQuchMRJGhqBLQmSBNifMDw9x56Zvt1Z4aSis5uOclJs213+9szZ2a2nudEPgJfC/nYvZnE4uxsEarqYCGQuMpgAZC4PFiscCGQDmM7JqgwgdW6xAUIcUuNpxwhVAAxMzGB8ZERDA8OIj0woF55/ObljAKQ5ASms6lJ2b7aP0i/Mx97Gxt4/WIa02NjePZ4WIE86O1FT2cKd9va0NLcbPXHMYxe0N31NSxnMng19VwBMZEnQ0N42N+Pvq4upNrb0djQYEA4hxGgo2wW7xYWFBAT4pBNjo5iqjahhux+dzfudXSolATIvuJ/yMcXbebwOL+/j4OPO1ibn1fvMSXC0HpKhKpNJoupOtNFoNOfR/j9I4ed1RWszM2VYGi9S4QSIIcp+cjdMoHO8nn8+v4N2a0tfHi7XIKRoXv6KK2GTk8oUqA/x8c4OTxE7tMePm9uKii7T4RisWMDYo8I9HV7W0G9X1os9YmzjgnppXYIRPk4sKB0IK5HTElKzh5xpt1pbS0WOpJ9zCw3TSD2iGsSYbgyc8hYavbndn298f1IoJiUnlYlpxI1yhENHRUukpWcTsYMI7v3UmGHpzM3QhNG7HCWmRtjOSD783J2lE7lodF/rJLtq19RQXn1LYG+DMg+OwIVHroKPaAvg9Gh7LMjUAhE2xCcOVVJibYf2llkHSjGlCjzr43A6EB9bqf13yhMSoB4zA2XMOIYU/K84O7NtUWA5NjR9L6azHXFBIkdppyuDUgcOgeCwqsMxQjNWAAAAABJRU5ErkJggg==",
     "wiki_name": "Blood talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blood_talisman",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 19108,
     "name": "Bucket of milk",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "It's a bucket of milk.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xt2X70tTURjHPf9Br3zjm4EvhF5J0CsJihEhyTAUxUVDiamEiqa2lj9Yaktda3Pq5o/spyARQQQRvu4Pe/LzjKPX45Sgcyd14Mvdvbv3PJ/7PN/nnK2h4f8YRk506cNIf7xPhgYGZGx4+LKhjGwVC/JsclJBnoyPydToyGVBGVlfXQ2Uysjs9LTMp1IKVucSGskvLSlAVywmnTcbVT3RJnkxNyuLMzPydGJC4u1N9YIykkmnNTjZmIg3q6YTzXodWL4D+GFnJOxsGSlks7LyPKOB+TzaGzmlzVc5KS4vq7c4H+6OKHAIYEbfHCMTkECUxVV/R5McvN1TILIGlM1geqDFF5TRiWeTLZIbv6pB8U30+hX5dXh4RgDjI5YCvAWozSBztUY4/tUw6gfeksnb2xrPQLgKAvEssqXzAkRWmNANfJ4w/MjgoCQTCX0JgGzJvAAxISl3A18kMoSA49nMkEcgTAyUG/Q8UTJWbszNcvAyMy+5hQX/QJQOuQCu7MpNZwJSyXTqcuENaO7RLcmMRmVx/LamHygMS7dhcjoOtbVWxYoNwOZcTLU61a7d5xUImOzjOzp5PnUUIH1XfVFLpZmOY3F/KnlDdtaKfoFshlwogpIFyrKzcE/eLHWdgqFsdjMGxgMQw6hR/xSMc74DhNW9/DrvKzt2GIUgOGalcy4C0/Oj/W5vY0MO8r3ycaXbPxAABCIgpdnP9WgG2GQJjontTxCuf9reks+FPoV5n60DEIF4e4J+WYvL1/X78m3zgXwvJ1ScA819+Mo7EP6hPJQFn/DWBKwFxNGWivtCAcI71keYlyA2SwBZmL35awoJLDD8RvLcYQxzvBXgF1u2YJbI0I/thFTSrXrtXbmsHeZx/XFHtfXt3oSZd0sl7SSCf6hU1Mj7uzt6znWbqdCArIfIEp10nsgWCh0o6B8C2S5zO4zP+IpnQvBPcFQDYOZgdwGBf37u9uvRBQkJpjqqk5/8SayluoC4Ixi0ltz7//nxG7VeIlRkrSNpAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xt2X/UtTURjHPYTIRAKpXywyW6ikoiumJGooamqLNbU5balr+f4yX8qKCqGIIOiHIIL6B/o3n/o84+j1OCXo3Ekd+LJ77+49z+c+z/c5Z6uo+D+GkUOd+TDSGeuQ3q4uGezrO2soI1uLC/JgZERB7g0NyuhA/1lBGVmdnw+Uysj42JhMJhIKVuYSGsnPzChAS1OTNF+uVLXVV8mjiXGZTqXk/vCwxKJV5YIykk4mNTjZGI5Vq8bi1XodWL4D+HZzJOxsGVnIZmVuKq2BOR5ojxzR+pOcLM3Oqrc472uNKHAIYEbfHCMTkECUxVVnY5W8f7GnQGQNKJvBZFeNLyijE49310hu6LwGxTf1F8/Jzx/fjwlgfMRSgLcAtRlkrlhDw99CGfUDb8nk0brKYxCugkA8i2zpvACRFSZ0A58kDN/f0yPd8bi+BEC2ZF6AmJCUu4FPExlCwPFsutcjECYGyg16kigZKzfmZjl4/HBScpmMfyBKh1wAV3blpjMBKaSbdbnwBjRx54qkB+pleuiqph8oDEu3YXI6DtXVFsWKDcD6RJNqfjSq3ecVCJjs3Ws6eT4RlcXkdfVFKa2kGg/E/YnuS7KzvOQXyGbIhSIoWaAsO5kb8nym5QgMZbObMTAegBhGjfqnYJzzHSCs7ptP876yY4dRCIJjVjrnNDA9/73f7a2tybt8u7yZa/UPBACBCEhp9nNtmgE2WYJjYvsThOtvt7fkw0KHwrzKlgGIQLw9QT8ux+TT6k35vH5LvmzGVZwDzX34yjsQ/qE8lAWf8NYELAXEpy0V94UChHesjzAvQWyWALIwe5MXFBJYYPiN5LnDGOZgK8AvtmzBLJGhr9txKSRr9drLjQ3tMI/rjzuKrW/3Jsz8bGVFO4ngrwsFNfL+7o6ec91mKjQg6yGyRCedJLKFQgcK+odAtsvcDuMYX/FMCP4JjmIAzBzsLiDwz7fdTv10QUKCKY7i5Id/EkupLCDuCAYtJff+f378AsG7c8nvOJT1AAAAAElFTkSuQmCC",
     "wiki_name": "Bucket of milk",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bucket_of_milk",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17798,
     "name": "Wolf bonemeal",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": true,
     "examine": "A pot of crushed wolf bones.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2X4UtTYRTGff+DvvtF8IMQDEQQEREmIiINMQoGiYFEJVFR0dJYhdkaBYYSpJLEkixSHIwo5tinWN/6o5543stxZ+/eO9q9m37xwPmwu7t7fvd5zvu+Zz0953Eepx4G4dn1cAsarN8aw+vFUazOD2MlPYSHlwexlErg5szFboOZpsL8vHl7HPu7H3FQKGBvexvvcjl8W5nGzv2k/f7ebKIbqhl8uJtE5moAwiIEozrHxSLKR0f4eXhgoXY2N/BieRkL6TQ+PZrElydTFpovMT8x0Ckog90HE8heG0Y62W8f/vbGKP5Uq6hVKvh9XEa1VELp6z4KW1vYyOfxLJPBq2zWKvX+zrj97eJUADTY1xcXyuDz40n7cL4trWABqsVe+VurWSgqRSDaRiiC6B6TvooJZCwI+4L5/Wlj8hptoT1UkffSXoIThkquXR+xL8BmT40QJpZtxhZj8cPsTFPyOoGoIO8TIFGHQFrRK2P9cVUytnDxuT99KgkQVdJAXBTswRhAQTOXVi95k0CuSmKbAEkPCRAbO5nojWqbwY+XKW8KlABRpTDbNBAbe3ooAIqgksGvtVRTaihRKcw2F0gae6D3QrsqGZRzs03pgmmVfLb5gNjYAtSGSgaV/NxJ+sC0SmG2+YDY2JGAqm/mbGowDSdQrWzzAbGxYwHpdMFa2RYGxDOtY0A6RaUw21wgGU3OBEgrJEfHmQBpy2SVaSDuQxGBGK2hNJCvhzSQDHWxgViQhdnEPiBfU8sqI5Cc9gTiYCdAAtM2EK1gQRZ24Vwgd9kLEGchrjAfkFvxP6J+2rtg7h4kq0t2aj3MdRCIEQzoLljY+KF3abeh5VkR7GqM4MfmZGp0YfQZJger3n9ckFgwjRE8mBA+m2QOEpgugtRD1JJ052jCnAqIG/VC+o9gZ0H+Aa+4BH2GbNKLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu2X70tTYRTHfeiFJOIIRdHhz5hSwdAQMfpB0Q9aSqySbI2CQiFIFIUYRViQJQMlKMxkvYz1ur/wG9/nctzZs+eOdu+mbzxwXuzu7p7P/X7P8zxnbW0ncRJHHgbh2fJwCxq8uNyPpzN9WJjqwXy6G7fPncHVVAKXxrpaDWZqCvPz8pUBbG6sY6tQwLvVVbzM5fBxfhRrN5P2+xvjiVaoZvD6ehKZCwEIixCM6uwXi9jb3sa3z1sWam15CY/m5nAxncabO0N4f2/YQvMlpgY7mwVlsHFrENnJHqSTHfbhz2f78KdUQvngJ37v/0Bpdxc7HzZRWFnBUj6PB5kMnmSzVqlX1wbsb2eGA6DJkZG4UAZv7w7Zh/NtaQULUC32yt9y2UJRKQLRNkIRRPeY9FVMIGNB2BfMT/erk9doC+2hiryX9hKcMFRycbrXvgCbPdV7Oq5txhZj8S/ZsZrkdQJRQd4nQKIOgbSi5/s74qpkbOHiQ3/6VBIgqqSBuCjYgzGAgmbeWTjrTQK5KoltAiQ9JEBs7GSiPaptBl8fp7wpUAJElcJs00Bs7NHuACiCSgbfF1M1qaFEpTDbXCBp7M72U42qZLCXG69JF0yr5LPNB8TGFqAGVDI4yE8cpg9MqxRmmw+IjR0J6NezCZsaTMMJVD3bfEBs7FhAOl2weraFAfFMaxqQTlEpzDYXSEaTYwHSCsnRcSxA2jJZZRqI+1BEIEZ9KA3k6yENJENdbCAWZGE2sQ/I19Syyggkpz2BONgJkMA0DEQrWJCFXTgXyF32AsRZiCvMB+RW/I+onPYumLsHyeqSnVoPc00EYgQDugsWNn7oXdptaHlWBLuqI/ixOZwaXRh9hsnBqvcfFyQWTHUEDyaEzyaZgwSmhSCVELUk3TmaMEcC4kalkP4j2FyQf0pZH20Z7AUnAAAAAElFTkSuQmCC",
     "wiki_name": "Wolf bonemeal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wolf_bonemeal",
     "equipment": null,

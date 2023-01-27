@@ -1,7 +1,7 @@
 {
     "id": 16546,
     "name": "Desert disguise",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-04",
     "duplicate": true,
     "examine": "A disguise suitable for the desert.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4XtWVb0tTYRjGfT5Hb/YRxE8QhC98KYxkhVCvfFFvDCGjGMMKM4nEzEYyMhsbE8U0q1mKW+pkbom5aGlu+Yfa2ubUT3DVfY9nOzsbec48R+qCC+Hx+fM7130/z+rq/l8JaLfpEujt7UJPjwPd3Xbc7roJh+MG7Pbr6Oi4ira2y7DZrGhqOoeGhnqzoQSmprwYGxuB1+vCixEnXK4BOJ0P8aj/PoPevXOL4To723Gt/QoD1VssZkAJzM+/RjD4FoHAG8zNvcLs7BT8/nFMT/vwcsINn+8Z3O6nDPl4oJcBWy+2mJGSwMpKEGtrYfbq6jKi0UVEIgsIhwNYXp5HKDTHoO9mJjjF0dFhTnBoqB+NjWeNhhLY3PyM7e/fkExuIJH4iq2tOJvGNzZiiH/5hPX1CMMS5MKHGU7Q4xniElosZ4yCEgyxt7eNTCaFw8M88vks9vczyGbTPJZO/UAqtYfd3STPJUgCXFx4z6UcHHxQLJ0B/SSQTv/EwUGOYQiEnMv9KsD8+R8BkQlQglF6qx9D3GPPh59wSgYACU7j6OiAYQiKDiUYmU6hDCXLOQQVj69jaWmWb2Vf3z1jgJQwBEKJ0F8JQAcoLccpMeo16ivqJWVK6lN0SBRhKCkqB1kNol4lwajvqOHphtLNo7fphCkVgAiGUqEyKGHUsytVSCsWi/L7RS/5CYFIgpuYSkDXXtuG5X1FN4+eA30f81cJ7Owk2McDCe6ZyUkPv0FKMINgpPRsWgmhbZ1O6dnUNIhy1XJla1mjSQKtLXp/uQUuXbDpXKNZAuebm4t9oRwvd2lcfoCJpROwWa2KgwX84+NllmBynokwUjKhShgJpEzSZBip6jBKqH8GRgmlXmmStAGdEpR2mFOC0g9UgjIcrDaYSjDDVBtQKR1Tbl5hY/Wh1ayGMAGmIPkoHmdTIapJ/eXVrF6jV78BGyIPkbsT7MQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4XtWV30tTYRjHfa/Cy/AySPFOFs6EuhLqxhCSKESsMJMIMcMkxggzxpChDMPMovWDjSFLRcZkmUhMAs0MWRM0KZZTm8jyv/jG84x3Ozsbec48R+oLX4TX98fnfJ/nfVdS8v9KQLtNl0B7ewva2prR2tqEqy2X0dx8CU1NF9HQcB51dWdhtVpQWXkSZWXHzYYSGBnpx+BgH/r77XjU1wO7vQs9Pbdxp/Mmg16/doXhGhvrcaH+HAPVVFSYASXg9z9DIPACY2PP4fM9hdf7BB6PG6OjLjwecsDlegCH4z5D3u1qZ8Da09VmpCQwPR3A3FyIPTsbxMy7CYTD4wiFxhAM+jE15WPQ16+GOMWBgV5O0GbrRHn5CaOhBJaXP2I19gWxr58RjX7CysoCm8aXluaxsPABkUiYYQly/O1LTtDptHEJS0uPGQUlGGJjYxVbW3H8Tu1hb+8Xdne3sbOzyWObP78jHv+G9fUYzyVIApwYf8Ol7O6+lSmdAf0kkEj8QCqVZBgCISeTCYah/xEQmQAlGKU3+36Ke+xh7z1OyQAgwWns76cYhqDoUIKR6aTLkLWcQ1CLixFMTnr5VnZ03DAGSAlDIJQI/ZUAdIDScpwSo16jvqJeUqakPkWHRAaGkqJykNUg6lUSjPqOGp5uKN08epsOmVIaiGAoFSqDEkY9O1/ptObnZ/j9opf8kEAkwU1MJaBrr23D3L6im0fPgb6P+asE1tai7IOBBPfM8LCT3yAlmEEwUno2zYfQtk6n9GxqGkSuirmyxazRJIHaar2/3AJnaqw612iWwKmqqkxfKMdznR2XH2Bi6QSsFoviYAGP251jCSbnmQgjJRPKh5FAyiRNhpEqDKOE+mdglFDqlSZJG9ARQWmHOSIo/UBZKMPBioPJBzNMxQFl0zHl5qU3Vh9ayGoIE2DSko/iQTYVopDUX17I6jV69QeeE7NkQI3xmwAAAABJRU5ErkJggg==",
     "wiki_name": "Desert disguise",
     "wiki_url": "https://oldschool.runescape.wiki/w/Desert_disguise",
     "equipment": null,

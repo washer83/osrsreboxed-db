@@ -1,7 +1,7 @@
 {
     "id": 1718,
     "name": "Holy symbol",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-07-12",
     "duplicate": false,
     "examine": "A blessed holy symbol of Saradomin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB60lEQVR4XuWUz0pCQRjFmzfxEXoBF+FCwpAkCXoBVxGBEBgVJmZGRK20Mogogkw3UtlC0DARUUoUDAt6lS++O829d+b+CXWuCh04i3DuzG/Omb6ZGSkiYO+xisBRPG7rMYIZYYzpaGscBuNh2GGzLpfBVmvFHUcUf3MewEx8WhqYFBE42I3CcSLBwYirqKzrs/9uIBE4jMU4IHGFHgDX4gX2ozvK3/bfDSUKdJJMWmxMQfBghBBTkpwOilamj17/G6tFrFS09o0U0ZQQTLy9+HAdONxKNCkE00NMCIjAos+nHGgG5NBbsRKB53xeBTKzg29FFIUpFQqw4PUaDh8jCEqDWQ4EFKA5t/s3FakyRm5mBlMpPsGS3w/zHo8KJDERAhvrawP7IXsHl6mUMvhWQyHZKdEENsPhP92sVmElGFT9eJ+Fq3RamEcSRCOnG0YjEVN3Wk2ol8sqDL4j5mIuB9dnp8oIkAaF0oPtbW+p/uh04K1eh1qpZAqEb4r5JnMuNy2UHuz7sw+99jtXlxUMzibm24uMfDDc7KvXU+pqvFQMQFYwaBwLzBKhCPS7Xcu6tATsLXFYEqWuVu3VFEacznYWdx5SxLQuybceRATajQZX1wRhUISra8IwKKLWNQUwTNL/U0bXVMH8a/0ARNPZJIKAAVYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7ElEQVR4XuWUy0tCQRjFnX9DSDTJMIPauwkKhBZGDxMzIyJaiT0hiIgWpbgSKmkliIG5EMGiXOhCoseqv+mL7073MXPn3lDHB3TgLMK5M785Z/ocDikiYO+BisBOLGbrAYKZYczp6Gv6DMbCqIfNut0mW63ld+xR7M1ZAJHYtHQwKSKwtR6B3XicgeFXUVnXZ/9dRyKwHY0yQPwKIwCuxQtsrq0qf9t/15Uo0F4iYbExBcGDEYJPSXI6KFqZMXrjb2otfKW89W+kiKaEYPzt+Yfbh8OtRJNCMCPEkIAITHq9yoEioD69FSsRuM9mNSCR+/hWeFGYQi4HEx6P6fABgqB0mGm/XwEaczp/U5Eqc+QiqzCl/B1M+Xww7nJpQBITIbC4MN+xb66v4DSZVAbfXDAoOyWawFIo9Kfr5TLMBAKab9NpOEuluHkkQTRyumEkHBa6+VSHarGoweA7Up3PZOD8YF8ZAdKgUEawjZVlzW/NJrxUq1ApFIRA+KZUXxwdyk0LZQT7/vyAduOVqcsKBmeT6suTY/lguNlXu63UVXsomYCsYNA4FlRLhCLw3mpZ1qUnYG+Jw5IodT1XHoUw/HS2M79zlyLCuiTfuhMRaNRqTF1DhEERpq4hw6CIVtcIwKiS/p/Su0YK5l/rB/FzeWKyD7qmAAAAAElFTkSuQmCC",
     "wiki_name": "Holy symbol",
     "wiki_url": "https://oldschool.runescape.wiki/w/Holy_symbol",
     "equipment": {

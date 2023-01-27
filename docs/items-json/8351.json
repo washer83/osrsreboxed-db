@@ -1,7 +1,7 @@
 {
     "id": 8351,
     "name": "Crystal ball",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xt2WTUsCURSGvf/En9C2XxBRm2gRFoEmZqGZSGU2hYoOoo42pk6aWSJCH2IlURFUKFaE0qKP//PG3GlcDG3zXnzg7M5wH849w31NpuGCQCsuIFheC6JwfMqDFIHNtQGfICKVURAUJdZSBKuBCJJyDkrxEGJShncrylKKwO0PQ87uo1gqQ5LzVGbEbKZl7B4A2v70us9I7yk4KB/1hYydA4JA2ZlHsxKiIpnALHuhUtiGQtwDwWvB1PgofNYxljukQrDrt6CWWETUM816h1QIHs5j+O7UeJBR+RVqV1nvjw7BYz3Ol1CrkeBLqH0h4atd4Ueoc5XiS+ilmeZP6LPF/NnQIXi9lvkServhTKh7m8HHU4kfod5dli+h9/scL0IEyW07lJib/mk5YY5KGbsGCMGmY4LGj7P0EuuARmgYk9ZnUBHtaOY9ND0yFVIDWTFkxYnkxGV2haZHRkIEgnOSXlU5soBGxk2rGnP0U6Pxi39Gm466xGp0rcsuKqROSp8Qkyn9VYxkNPTDjWXsGwp+AKvSV7sZouJUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlElEQVR4Xt2WQUsCQRiGnV/R1YoOdUgLLCUjwwqiKDOpFNM200VTCtOwRKNME5WNrMRLhSQSQoTUqai/9sbOYsHSNWfwge82wz588y68Gk13QaAMFxAsb4aRuijzIEUwa/fCJcZwki0hHE+zliJY90eRyhQglSuIp7JwBqIspQhWhT1k8pco31aRzhapjF6rpaM+3QGU/Ly2mjjLS4gdK0/GSEaGIGIfhZRwUBFxSc9eKLo2hj2PFbYZHQb7ejBn6GWZIRmCnQUd0t4JOK1DrDMkQ3CXdeOr8ZsfhjIyitBnPck6P20I7nMevoRqeS9fQvWCgI/HI36EGqVtvoSeJB+HQrVDfoSaV36+hJ6vA3wJvdyIeH844EeoVQnyJfRWDfEiRLC1YkTEbaF/Wsg2QqXUpzoIwaKpn9aPc98k64JGaBkT5oeRcBkh7Vppe2QqJBeyfYcBp4IZxeA0bY+MhAhs5gH6VPGNceRFC52k2/TTGtU3/hllO3KI5eqa809RIXlT7Q0x2dJfw0hGof1x9ajPdQXf4UI1IvZvdl0AAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

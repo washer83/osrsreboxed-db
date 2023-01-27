@@ -1,7 +1,7 @@
 {
     "id": 4139,
     "name": "Basilisk",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4Xu2UP2sbQRDFb7+BKjVpBCoMAoEwCCHEgYQQwsgYB5sEJSjEDiEp3BgCBoPBYHDhwuDaVfp8x0nerN/daG8v0hFZENDAoD+3N/PbN283SXaxi13s4r8MJ6tza+Hk6l0ql8cD+T7rydlkXxajzlI295vbgnJy+3Es1++HGdTFUV/BkF+nXc122pZGq/HaUE5Gi7HcfZoo1M2HUQb242SgCUAmVHpFKA+DnHzOgaiMVQfZO+xJZ9xRoHqzvmkoD2PVwJjgnfmwrQD8fjpoKQiAkHv9vU1C+dMCRcpGRQ8RCgAWqHvQ3RSUk+F8KOlpqkDTL1N5OD9YgkLSL4SCmeEdAnF0/wjlsmIAYd6fTZeAoJBVxzaPQQGWzypAOem/7avUUAjqUCFrZqgCENw58A7HhPcIZTeGmqiH5wTqNHAC/xq5X1CAMDbxDMoACgY+7rWivsFvNrZAPHlrAiGc+gbJY86jjkRRjA1QUCZtN7SxBSIURkTP4D2mVSnsXhL5nWOTI5x9m+mOqUIMiFBsbIEqqpSfLlsEQPQREs+pAorHgABtVQoTMCuAPAwKsaAFe366VXWoFlVC0xgQVaLBCWAzJAjC+4emxCfBAPDr56PM67XM3OqHJJHDWqIqQKkYEI97Bc8wXKTAcp6/qcniD5ReDS8wgA/XhUAVPMPIi7BBUV4/UqiEPKl7GHokXKv/vRjfrgk7R8KfKprZzj1caddiXda44Ak/fihp1VkbiHdPeNPGCxRPSghjNwjVMbb4Bkuj6JdiozziIAw/WgtFoPj6krBNyputG35TvBpWbXAr4ZuvVnvrURXmN7l8AxUbtdTxAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYklEQVR4Xu2UX2saQRTFdxAJiigSUVzxPyY0CdVI/hVa6Eug0IdAIBDIQx760A/Qt36Bfuzbnpke9zo7y7pEhYAXDknYyb2/OXNmouhQhzrUod5lGcnX3srI94tY7k+78mXalpvhsSz7zTVVj6v7gjLydDmQh4+9FdTXk44Fgz6NW1aNuCGVemXXUEb6y4E8Xw0t1OOivwL7dta1AiAFl3YI5WCg4XUCRGe0O1B71pbmoGmBytXytqEcjHYDx4TszHsNC8Dfz7t1CwIgqNapbRPK3RY4knVUzBChAKCBWpPWtqCM9OY9ic9jCzS+G8vr7WQNCmJeCIUwIzsE4tG9EcqsmgGEerkZrwHBIe2OHh6CAiy/FYAy0vnQsVbDIbhDh3SY4QpA8OYgOzwm/B+h9MbQE/3wnUCL0SgPKskLGhBGC9/gDKAQ4NN2PZgb/M3BGog3b0MglLG5gXjNedUhNMWxAQrOxI2KHayBCIUjYmbwf5R2yZ+eUcmbo8UjnH6e2h3ThRAQoThYAxV0KbldugmAmCMI3+kCmoeAAK1d8gWYHCAHg0ZsqMF+/Xyy7tAtuoShISC6xIATQMsn8Mrlh6HET4IB4M/vHzIvl1bhtnmIIpmVIusCnAoB8boXyAzLBBqs6/aoJMt/UPZp+A8DeH+dD1QgM6ykCQek7XVHCpegs7KDYUb8tRCDr9f4kwPlbhXDrM/dX6nXYh0HpzPhjh9Oanc2BuLb47+04Qbpm+LD6A3CdRxbeIOZlc5LelBSYRCWO1oNRaDw+ozSQ7KHbVpuU3wa8ja4l3LD893eexWF+Qs5lnQcaMt1pAAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

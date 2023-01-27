@@ -1,7 +1,7 @@
 {
     "id": 13011,
     "name": "Mithril gold-trimmed set (sk)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xs2XbUuTURjHt2/i6yCQvkLIkI2ROJIpk+bIyXJjzYfGNsbW2tZMbYVEZJRYNC2sRMyIhMQ0eiH0IH2ZXlz5P3fX7dnZ2drDvfCCP/e5zzm7r995us41m+3sm5300rV33ez0ZjVNGyspoVdPk7T+OCHEEHtb8/Rpc45235Y0UOogOgY3gBgKQCwV5uPrIr1/ma9yjHe0qaqGagnSTpvPMjVQeAKExUA76znaepEVffHUAaG/DH18uErf95fbg2IglHl2GOjDRkEAcd96QPjdz4MV+vW1cqI1AQQfvT09Qqp3xYxp51HLI+tEMhDKqGsKRl4GvGfCFyk3O0qhKy6aDXkoHh6iZNRL6dgIZaZ9oi0f99PtxBjdSQVoITNO5WyQ7udC4ol2j+Oc+JblQOExN0WvDtBUcFALBzBAAWQpf01Aob4aqNIaEO8LHVBg2EFBn9OEAxigAIQ+mCWGeViKiKcO6MfnJ50BYeQAWS76W1LXgDByzIrq8F/SAR1/eW7CtAWUi/YJICyR7MzlCgkFJ8pC/K4D8jrPa4FU73XMOKbblZsmEDYqA7FjGUYGksEsADJiEGZIBcLpUp02ArqXHtYDSUFR9a6YceR1QIgtOFGqUxlIB9V1oNKNy6ZzuayrQ9lSIAh1hZhDxBYEwrspr+lQLuvqUGYgn7v3L9CaCdMUEE5YI6ClzIjpUC7r6lCuBao0OzuwUyCGkoEQkbFR4QxPSN0z3M59ugqEO6sw4xHO5hNDNTDqRtcvmRGpUVa9a8wAkpcNdXPT/eKSBFBy0kXpiJuy1y/R76NRrQDLYiD/wAXxLcSgFuJQNRCnpgyECzTi76NYwEEz4/0Un3BWAd6aGhQziNPF6hgIp6weED6M2x53GqcgfNOjjVMPhAj0f1CctA6IoWQgQHA+xLmQDIP7jmHU9MMEOolBLcch3bJZISRlbQGpy4bNjTok9vvbC6JN/leCMjIDCP04qUffg3eLdLS7RN/2HrUDBKsdmU4yjCwV6HCnXAXEagHIZuOw3kgqoCzMJIAwO5YANWsqZDOwrNO+/8lUSJ3U35xp+wPXYKsnxlU5+AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xs2X+2uSURjH9R8oot/bnGhsxnSynDFnE81dElScZmruUlIIEV0oxii6jNGNwVgXCBoEY40R+2k/RFHUn9VPT3zPy/PueDyal9fYA1/e855zfJ/PuT3n0WY7+mYnvXTtPTc7vVrJ0IvltNDagxSt3ksKMcT2xiJ9Wp+nrddlDZQ6iK7BDSCGAhBLhfn4skTv1wo1jvGONlW1UG1B2mn94VwdFJ4AYTHQ29U8bTzOib546oDQX4b+sbdC33budgbFQCjz7DDQh+dFAcR9GwHhd993l+nX/hP6vf9MAMGHr79fSPWumDHtPGp5ZN1IBkIZdS3ByMuA92zkFOVnRyl81kWzYQ8lIsOUinkpEx+h7LRftBUSAbqSHKOFdJCW5sapkgvRjXxYPNHucRwT37IcKDLmpti5QZoKDWnhAAYogFQL5wUU6mUgqC0g3hc6oKDPQSG/04QDGKAAhD6YJYa5VY6Kpxbo8/3ugDBygNwpBdpSz4AwcsyK6vBf0gH9/PLIhOkIKB/rE0BYItmZyxUWCk1UhPhdB+R1HtcCqd4bmHFMN59eMoGwURmIHcswMpAMZgGQEYMwQyoQTpfqtBnQ9YxPCyQHRdW7YsaR1wEhtuBEqU5lIB1Uz4HKF8+YzuWyrg5lS4Eg1BXjDhFbEAivpb2mQ7msq0OZgfzuE+JbiNIM0xIQTlgzoGp2xHQol3V1KKtAmKEWZwd2CMRQMhAiMjYqnOEJqXuG27lPT4FwZxVnPMLZYnK4Dkbd6Lol40iNsupdYwaQvGyom58eEJckgFKTLspE3ZS7cJr+HIxqBVgWAwUGT4pvIQa1EYdqgTg1ZSBcoNFAH8WDDpoZH6DEhLMG8PLUkJhBnC5W10A4ZY2A8GHc9rjTOAXhmx5tnHogRKD/zdKkdUAMJQMBgvMhzoVkGNx3DAMQOf1gIMSgtuOQbtmsEJKyjoDUZcPmRh0S+53NJdEm/ytBGZkBhH6c1KPv7purdLBVpa/btzsBgtWPTCcZRpYKtPeuUgPEagPIZuOw3kwqoCzMJIAwO5YAtWoqZCuwrMO+/8lUSJ3U3xxp+wt52al96CLH2QAAAABJRU5ErkJggg==",
     "wiki_name": "Mithril gold-trimmed set (sk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_gold-trimmed_set_(sk)",
     "equipment": null,

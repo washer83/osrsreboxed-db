@@ -1,7 +1,7 @@
 {
     "id": 13758,
     "name": "Leaves",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "A pile of Magic tree leaves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xu2WXWtTQRCGu//Aq954E8hFoFAohVBCCESKhNJQIg2WGAqNEglqCpFUI9GS1mqpBC2iohR/65h31zdnzp6T9tQkKNSB4cDZj3nmY2d3YeG/3Gwx4v9x/+L+z1RoJKztzopn3MjLfjbm/0zFyNG7nPQHWWusc7AqD5+ty16raBXjK6mU/WIOxreqWfV/pmLkdJiXk7OcHB6vydODDWnu3x0DaRiMd3urUm8W5F5tbR5ARj5+LsiH84KF6h5uyX5vU1rPSxZKw2CcwICtNfLzARq8XRqlISP991V5cVSRTr9sjWoYAiOtAAZsOHqJJFqggQZzAHP8qSZvzu5L72TbRomGCIQoMq06itcAMtZThJYKj5B7qA/lawDjxs+/FuXbxR0bQQBhb+g1gCBGvv9ct+HGYhZqXO4JoFXvhPm915kQUBQ8kTiP4SHyjxNS3c1JsbTkRekqMdJsufRdronEnRD2mMajlJQri2MP/bmTNw7XFQsbDqIn7Ty4fcnaiLgeAih8w5u7cSiKlScsbnPCsFcBCM7l8rdi9pwoflj9he4AEAb6pL0stXomBsrYOuIpw/XxuLUsuw03NxFMq52S0saiNRIGC+agB+HIAwx1hquBd1XYiJuLekT6OTfq5ERxxgHFxdQAytgeBM95T2kYHUn2Iqh2LjHMYLgT6sC8OBkt1gQaI2qL43osULenD5EQBuI8RyoAxNwz79ro6Zf6ODraKACpcSC+xQTick7VUCxEzkNKaRQ9p/sqMwJMj+am7RiiGl7zx+KMIH2MmAbSNRJ4/jtqIyfYmXH6cLICqCnAdD2gXgAVBeI8iJvHqLIGEV3e9ptl7jmFaDAYqGyn1aZB7WggwLMOES0q30VTQ0GiJ8iMX4wo7EaTd93VOkWBx4m7xfEmQhHzpOEUslPrUzVJ/V2nFCPDH3vjgufzVb+p/RVzltGL8KIxbqKAmmNKkkp8XfwlGCf/BMSNlV8d4i3F/9yMQAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xu2Wi2sTQRDGu0iRhNAiDQ1JsDYtabAtTVNoNEjUUCKpBon2ZbVUgg9EBaXg3z/m2/XLze1d7NUkKNSB4eD2Mb957OzOzPyX6y1G/D/uX9z/iQqNhLXVvuUZN/Ksl435P1Excvw6J73DrDXW3l+Qe4+XZLdZtIrx7eVl+8UcjK9tZNX/iYqRs35eTs9zcnCyKI/2V6Sxd2cIpGEw3ukuSK1RkLvVxWkAGXn3qSBvPxQsVOdgTfa6q9J8UrJQGgbjBAZstZ6fDtDhqznpHWWk92ZDnh5XpN0rW6MahsBIK4ABG45eIokWaKDBHMCcvK/Ky/NN6Z6u2yjREIEQRaZVR/EKQMZ6itBS4RFyD/WhfA1g3PjHL0X5enHbRhBA2Bt6BSCIkW8/lmy4sZiFGpd7AmjVO2F+90UmBBQFTyTOY3iI/OOEbOzkpFia86J0mRhpNFORSEY1kbgTwh5Tv5+ScmV26KE/d/TG4bpiYcNB9KSt7Zu/WRsR10MAhW94czcORbHyhMVtThj2KgDBuVz+RsyeI8UPq7/QHQDCQB+25qVay8RAGVtHPGW4Ph4052Wn7uYmgmm2UlJambVGwmDBHPQgHHmAoc5wNfCuChtxc1GPSD/nRp0cKc44oLiYGkAZ24PgOe8pDaMjyV4E1c4lhjnqb4U6MC9ORos1gcaI2uK4HgvU7elDJISBOM+RCgAx98y7Nnr2uTaMjjYKQGociG8xgbicUzUUC5HzkFIaRc/pPM8MANODuWk7hqiG1/yxOCNIHyOmgXSNBJ7/itrACXZmnD6crABqDDBdD6gXQEWBOA/i5jGqrEFEl7f9apmdewzRYDBQWU+rTYPa0UCAZx0iWlS+i8aGgkRPkBm+GFHY9Qbvust1jAKPE3eL402EIuZJwylkp9anapT6u44pRvrfd4cFz+erflP7K6YsgxfhRX3YRAE1xZQklfi6+EswTv4JiGsrPwGqg7oEq8ODSgAAAABJRU5ErkJggg==",
     "wiki_name": "Leaves (magic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leaves_(magic)",
     "equipment": null,

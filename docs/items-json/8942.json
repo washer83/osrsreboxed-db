@@ -1,7 +1,7 @@
 {
     "id": 8942,
     "name": "Monkey",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": false,
     "examine": "A confused looking monkey.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4Xu2V/0tTURjGPX+Hvwz8IRCEEQyRMZgMGWNDHA7HDGUV7YfYDxWFJBaFIFEIfiEFjRCLIiKIICL64954zuG5572nu/TOyQT3wOHO67n3/dznfc45Y2MjjXR9ZCQ+hiojH3eX5N2bRXm7OS/5mZlhQhn5ergcA6qUSnJjYkJBhe71cjHpXmoZ+XLQigHtvazJdC4XFV6q12WhWpVauWxh54pFmS0UAjBj5/SGPZecO0lAKJoZH5dWo/HPAAyApyYn7Ry85+hVXXaeV+3/cL9PKAf0eb8ppzuNCAgvBhSKrzSbduA3nIJLdIhQBNreqMiLR6XI3WwmkxbKt+tkOw4EiPZyKwazOO/yxbZhYAEAnkCbT+ZkvVvs1yVjQeAOrngpgPTfh1sLtiAgURAOMUsceIZAW2tlefZgVtbuF4KFcW4ZW5TF0T7tGO7RNbaE7qBtuPJ5zHn91M2BS487+ShjYdUz5FYGnEALmakkl1AMhdAqDEABHPMwR7dNZyl1ntwDxn4RhwbBl7PQw7t5udfK2YKA0u0mNOYwR6lhvOJADLm+B0cAAZib2ay96hWKDCE/uM92XQjo58mqfDu6ZdvGL4dLeDkcQmCToHBFiH1m3OirXU5Gup2O/Dpty/fjlWg7IBBahq9nYLkPAYRDAxGkTxjIyJ9PdywQXMKGiVbosDJHcCkJKgQKK6SUkd8fbie2TC97usS9BisuqWUDAYI7gNFnG1caYbRDXP48Qgjkc3Qh+UADKDzb2C5miO4ASLsTZiiskkJGfrx32dFAcEgDaXew14TuDAgGMnZ18fTXLQuB6E637dzRS31AMJQ//f/nEIDgDoBCkAHCUH5T4zkWAuk5lwji5Qv4wr0gLhUkSWHxoUCMdJX0F7bychOvR8JlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmUlEQVR4Xu2V3UsbQRTFnSepFEUMShKMxqASI0kU0w8CJQ9taREsVVoEKS2CtKUiiFIEaWmhCEIfCqUg+MdeOTOcnbvTjboxkkJzYNi4zu797blnZgYG+urr/5GR+OipjHx9vyiH7xbk0+acZCcmegll5GSvHgOaKRTk7tCQggrda+di0r3UMvJjtxYD+vB6VsYzmajwYrks86WSzBaLFnYqn5fJXC4AM3ZOe9hrybmTBISidwYHpVap/DUAA+CR4WE7B+/Zf1OWnY2S/R/udwjlgL5/rMrxTiUCwosBheLL1aod+A2n4BIdIhSBtl/OyKunhcjd+vR0WijfrqPtOBAgGvVaDGZhzuWLbcPAAgA8gTafT8mLVr5Tl4wFgTu44qUA0n/vbc3bgoBEQTjELHHgGQJtrRZl/fGkrD7KBQvj2jK2KIujfdox3KNrbAndQdtw5fOY83bNzYFLz5rZKGNh1SvkVgacQAuZqSSXUAyF0CoMQAEc8zBHt01nKXWe3APGfhGHBsGXs9CTB1l5WMvYgoDS7SY05jBHqWG84kAMub4HRwABmLHRUXvVKxQZQn5wn+26EdDvoxU53V+ybeOXwyW8HA4hsElQuCLEPjNudNQuJyOtZlP+HDfk58FytB0QCC3D1zOw3IcAwqGBCNIhDGTk/Nt9CwSXsGGiFTqszBFcSoIKgcIKKWXk7Mu9xJbpZU+XuNdgxSW1rCtAcAcw+mzjSiOMdojLn0cIgXyObiQfaACFZxvbxQzRHQBpd8IMhVVSyMivzy47GggOaSDtDvaa0J0uwUDGri6e/rplIRDdaTWcO3qpdwmG8qf/ZQ4BCO4AKATpIgzlNzWeYyGQnnOLIF6+gC/cDuJWQZIUFu8JRF//ki4AHxTUYeZ5wHsAAAAASUVORK5CYII=",
     "wiki_name": "Monkey (Trouble Brewing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_(Trouble_Brewing)",
     "equipment": null,

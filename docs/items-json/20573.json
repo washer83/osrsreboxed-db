@@ -1,7 +1,7 @@
 {
     "id": 20573,
     "name": "Farseer helm",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": true,
     "examine": "This helmet is worn by farseers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xu2UbUtaYRjHO9+gV77pzYFeCMIggpCQgSEhUsQkmVRMZiFGpeTMp7QwnJU1y6yUklatNlttVBtFWy2KrbXWtvbE9nH+8z6nc0qPpdnaeuEfLo4cz31dv+vpLijIK6+8rrUosPbfxYJ0WNpgaNRdNdR5zlkQa4sO3i4XnDYLGjRVUFdVZAGVUzUpTE/6zjhIodNigNPchD5fN3xeNzwuGxrr1dDUVEKlkJ1xjojC+koEq0vhc74RiMKzJ0OJQCaolKnOKXhtzfBYjYwF/F74ezxMlQx3apkqVSvlkMvK0gSksL0xhVcvJxDs72BiCL8RiMLX/UkszgfhdTczB0pomjHyu8fRygMND/byQCZDPYx3b0OnreGrJJOWCJLZ3ZzB5loMIw8c0KgrEZ8NZIJKAO1F8XzeA4/TyANx/3FAxLIBoumi44AU9ncX8HFnBK9Xe5nqc+9PEhaIwue3Yzh6F8HSnBvdjgYBkM9l4qHSAZE50qpVPJBYXMwHJoke7o5idcEL2z19JhgiFojY05lOuG11p4Ao9HdZsgYic0SASku5trGjwPk26GtTkk2rkyzi0044rdokoFg0jMlICJFwEOOhwSQgsmV2qxnmtmYYDXrUaTWorlJCJivn2/b94CHjezpqRZ1Gnh3Qt/0Y0+fHUw4BEBlGLltio8MDDFQwcD/pfapxQD8OZvBhO4SxYCuqVdLsgLhDczE77O0a3unKYghiulBgBOpmKQ2FtBgqmRi35JIk0ygkPNDPw0fYWR/AoK8JCjnbyoxAvz7F8X4rhNmJDlhNbJ/JakbDHgFMiVjEAElvFPFQ5wGRlm0s++H36lFeJs4O6PfRIvY2h3ig3h5zIqgLnXbDpYHIOCzHu5ntlUhoVFaUH3fgTCUq9GUBb9YCiI22My0ztdQz9xF5XhaILAy5TshsFtMivkIZq8QBkUzIejbq1NA11KQFIpYtELcsJNHTQKkEKaKw9aIPU+OJO8ejQ5NOyd/YuZpIVMg8yWySZSGjcGEgMkNkdjinXGlzMc4HN5vtreokn6kEaXSSXbLj3MWBkUvxgjCs/haIUDnAXLWuFUxeef1L/QHKNVSq6GLG6wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xu2U+09SYRjHPXPM4RjN6XDERMFpQxpiI5QNLwwJuQxF0REqGhrijXmZmVaWWbRmuZpurpw5N9fVbqus1drqL/vGe/AchIOCmOUPfLdnhx3O+zyf5/ZmZWWUUUYnWhQi9t8VAWkyNUBXrTluqIOcR0DMdRq0tzpgt5hQpSyForQoBai0qklhety9z0EKzSYd7MYadLnb4Ha1wOmwoFqtgLK8GHKpeJ9zRBRWHo5iKRQ44BuOKNy71RcOZIBcFu+cgstSC6dZT5vX0w5Ph5Ouku5cBV2lMpkEEnFBgoAUNlan8OTxGHzdTXQM7jccUfj2ZhyhOR9cLbX0AXVJCW3kd4etngXq7+1kgQw6NfTnz0KjKmerJBblcZLZWruKteUJDFyyQakoxvysNxkUha+vgrg/54TTrmeBmP8YIGKpAPH5ObsBKWxvLeD95gCeLnXS1WfeRxPmiMLn50PYeTGC0PUWtNmqOEBuh4GFSgRE5kilkLNAAkEuG5gk+nFrEEsLLlguaJPBEEWAiN2ZaUaLpXIPEIXuVlPKQGSOCFB+PtO2yCgwvnXairhkEyqaxe1pO+xmVQzQZDCA8RE/RgM+DPt7Y4DIllnNRhgbaqHXaVGpUqKsVAaxuJBt2493V2jf00EzKpWS1IC+b0/Sfb45ZeMAkWFksiU22N9DQ/m8F2Pex1sUaAZvN/wY8tWjTC5KDYg5dGPCCmujknX64K4fAn42xwjU6Xw+pKJcyMUCnJEIY0wpFbJAPz9cw+ZKD3rdNZBKIq1MCvTr0zxer1/G7FgTzIZIn8lqBgNODkyegEcDiU7lsFAHAZGWrS564HFpUVggSA3o904IL9f6WKDODmM4qAPNVt2Rgcg4LM630dsrFPJRXFS424F9FQb6soBny15MDDbSLTPUqen7iDyPCkQWhlwnZDZz+Ty2QkmrxACRTMh6VmsU0FSVJwQilioQsywk0b1A8QRxorD+qAtTw+E7x6lBjUbG3tjpGo+XTT/JbJJlIaNwaCAyQ2R2GKdMadMxxgczm431ihif8QQJFM0u1nH6YsDIpXhImIj+FghXacAct04UTEYZ/Uv9ASlj1ZXHweW4AAAAAElFTkSuQmCC",
     "wiki_name": "Farseer helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Farseer_helm",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 1762,
     "name": "Soft clay",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-28",
     "duplicate": true,
     "examine": "Clay soft enough to mould.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xs3Wy0sWURgG8Pn+g1azdt3KTbQIoY2LIISwjUQgQhQUgYsWdsPuFyyMoqCixKJPCzMRs4vCJ6bdiKykf+fkM4dn5j2v79iMM4UHHr6ZOWc4vznnzPkmirZ+aTg7Vv0/Lw03OXrWTYycTvLi8Sk3/vBkEiIWpodca+q6m391zUDph6gM9yCiAGI0Zu7lFffm+aWgY5yjTidElUI23NSTwXUo/ALCEDQ7fsFNPzuXtMWvBUJ7iV5dHnU/Fh9sDkUQjjk6BL2buJyA2DYPhPt+LY2435+baxlLQOijva0tie5dFT/sfGqC0KkFmmmeT0E4tkCLMzcCEI4J0r2r0gimAR1xceNcg9A5EJzePNDy7HB9II4SrlkgjiRBGDUN+vRWgprlQFwXGoTOAZKLMy8a9OX9rQD088Oj6iBcR3337sjt3eXTudOno91nx3Yfjfo6d7teEIK6g3u2Jenr8jm8LwvOUUcwRwvT+711NwWtfnyaYkqDJAp1EnBsv09/T3YsYT2dPrhvpXXPBOnec4p/MixQDSKAOXHAh+caJUdrkyC/B2GELBABA71ZeI0wogjiGsP9CUhsirp3Vfwrb4FQR8CZvjiIhhElQcEIVQERhbrBQ7EZCyZHCPeuLNyvDiIK1y8eic1YMIC4hnDv0uubAjSWYgqB8IZZoKtHYzMaBhCmDCDch40UfxtyhAqODkoG0uuoKAogrB+0x/4DEP42agMRxV166HgchCBisIbQDrszQdilJYgo3btRPMiaNlzjR9Zwf5yEIInB+pEgfHZ8m7+TgrAHldiHQpCcNoLQgX+6/PD/C6NTGYS37G8gdCa/gbBPIVhraCenqzaQnjZclyD5DUQMQWwLEF75ALS2B5Xeh6xpkyAcbwSS66cWkDVtEoQ6+VkiQWgn109FEMr6RWpFrx9Gg7ApShBTAhRF3NY3igbKyPVTC6ho0cgiWCZr+5+KRlrR92zp8gfagBlMgA/sBAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4UlEQVR4Xs3W20sWQRgG8P2IvQ2CCKoLJSioLqwgRCgKwotuOh/sKCYWhQhRFCJGh4+PtBDEDmQoGGIipQSRUhT1l008Ozy7776+a7vuGg48fLs7s8xvZ2bn2yBY/6Xm7Fj1a15q7sXAWTfUfzpK4+EpV79/MgoR06Ndbmqk002+vG6g9EOUhnsQUQAxGjMxfNW9bVxOdYxz1OmkUYWQNTcyeG4ZCr+AMAS9rne40ccXorb4tUBoL9E/5wbc95l7q0MRhGOODkHjz69EILbNAuG+H7P97vf8E/dn/lkEQh/7mpuj6N5V8cPOpyYInVqgsacXYxCOLdDM2I0UCMcE6d5VqaWmAR1xceNcg9A5EJzeLNDcm57qQBwlXLNAHEmCMGoa9PndzRiEFAJxXWgQOgdILs6saNDC+1tp0McH5UG4jvo92wO3c6tP0xafbZt8Nm/00agvE7erBSGoO7BjQ5TWXT6HdifBOeoI5mhher9N9cagX58exZjCIIlCnQQc3evT3pIcS1hLkw/uW/zQZ4J07xnFPxkWqAYRwBzf78NzjZKjtUqQ34MwQhaIgBMHk/AaYUQRxDWG+wGSm6LuXRX/ylsg1BFwpjVMRcOIkiA5QqVARKHufFtoxoLJEcK9S9N3y4OIwvVLh0MzFgwgriHcO/uqOwZhlyYmFwhvmAW6diQ0o2EAYcoAwn3YSPG3IUco5+igJCC9jvKiAML6QXvsPwDhb6MyEFHcpbuOhakQRAzWENphdyYIu7QEEaV7N4oHWdOGa/zI6mkPoxAkMVg/EoTPjq+Td2IQ9qAC+1AaJKeNIHTgny47/P/C6JQG4S37FwidyW8g7FMI1hrayemqDKSnDdclSH4DEUMQ2wKEV16CsAcV3oesaZMgHK8EkuunEpA1bRKEOvlZIkFoJ9dPSRDK8kVqRa8fRoOwKUoQUwAUBNzWV4oGysj1Uwkob9HIPFgmafufikZa0fes6/IXmQImwlxPdMQAAAAASUVORK5CYII=",
     "wiki_name": "Soft clay",
     "wiki_url": "https://oldschool.runescape.wiki/w/Soft_clay",
     "equipment": null,

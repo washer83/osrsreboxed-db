@@ -1,7 +1,7 @@
 {
     "id": 27325,
     "name": "Silk dressing (1)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-08-24",
     "duplicate": false,
     "examine": "Restores a large amount of health over time.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPUlEQVR4Xu2VX0vbUBiHe64HwytvchMoWCgMyqCMMoSUrmSdRSbKihbFP1tbZhW1Oud0o2MOHCq4iym4i+mtX8JLP9ZP3hNOevom0bY2zS78wUMPaU7Oc968SWKxxzwmsgi0E2kErv4WcHl2hquLC9xcX0cpJdBsDOPX96bkz9Eh/p2e4vz3SVTVEvi2vY3mzo6Exj+/7uHk4ADH+/tScsBiAp/WVl0+r69jc6Uuxz92d7G3teUeG5CYwIe5OdQrFZfVWg0fl5awWC5jY3lZHqsuLGB+ZhrTU1NhizlCajGSUMyWSpgcH5f/vZuYwNuxMRRyOWRHR/EinQ5XihYnIRKgxQkaF20becuSvMxk8DyVQiIel1J0TghSQvbHl0bDUwX6JRGqxrNkEqZhSGzLQHV2SJ5L81Om2S8pIZuWoD4hMeoV/bZwmWQiJilaJiZzcZSLiX5VqSWjQw1N0O65jBJKmEPIpIZhZwyU7HgvVeKfBX8ZLkZ9FSREWGlDVqlLIYGRp08k9MLToYXnX2VduBRBTyD1kZ+Q2hzJdCFEcSZyofev8xJdIEiMV1gX6VpGfacUSkRHVcwPvniPIhSvTOWN7aLL8FvpJ8Sv3kWckgaJcHiluNgDhVpNrMS4QBBKKKhX+Eodpl1IjYn7KqVQcx/QKzyt3elCCi6gIGEuw6/cc5yL+QvpFeNVC0XGyd0yOnqFlBC/Wp/ifZlxGZ0Qq6OHPyleSe85oYW/ApzoTw9Hnx1SBrb7zvNfyUSdWy/x6aLX4CAIAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNElEQVR4Xu2V30rjQBSHO1sktJRK12LRsLVRq9RKtaLVxVZdXO2qi3+pqKCoF+7FiiB7sXQfwOfwAfYdf3ImTDqeJK6tTbMX/uCjQ5rJfHNykkQi73lPaBF4TqgRePg1ij93d3hoNvH38TFMKYFGvQ8Xxw3Jz6tL/L69xf2Pm7CqJXC0s4PG7q6ExmeHB7g5P8f16amU7LGYwPbXdYfvGxv49mVNjk/293GwteUc65GYwOf5eawtLzus12pYWVrCYrmMzdVVeaxaqWBhdgYzxWLQYraQWowkFHOlEqYmJuR/04UCJsfGMJrN4tPwMAbT6WClaHESIgFanKBx3rIwYpqSoUwGA6kUEvG4lKJzApASsj/26nVXFeiXRKga/ckkYoYhsUwD1bmoPJfmz+Zy3ZISsmkJ6hMSo17RbwuXSSYikrwZw1Q2jnI+0a0qtWR0qKEJ2j2XUUKJWBSZVB+sjIGSFe+kSvyz4C3Dxaiv/IQIM23IKrUpJPAx+kFCLzwdWngxP+7ApQh6AqmPvITU5kimDSGKPZELVQuTEl3AT4xXWBdpW0Z9pxRKREdVzAu+eIciFLfMSrHgoMvwW+klxK/eRuyS+olweKW42BuFWk2sxLiAH0rIr1f4Sq/McyE1Jv5VKYWa+4Ze4WntThdScAEFCXMZfuWOY1/MW0ivGK9aIDJ2XpbR0SukhPjVuhT3y4zL6ARYHT38SXFLus8JLPwVYEd/ejj67IDSs92/Pv+VTNh5AkzVcHc1Rb/eAAAAAElFTkSuQmCC",
     "wiki_name": "Silk dressing (1 use)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silk_dressing#1_use",
     "equipment": null,

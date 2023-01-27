@@ -1,7 +1,7 @@
 {
     "id": 2965,
     "name": "Washing bowl",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-13",
     "duplicate": true,
     "examine": "Used for washing your face, amongst other things.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xs3XTU8TQRgH8PYb9NTLXjbhCxivxpPxQPRiQrzLQY03jS9BKClSBUlLGko41Eab1lCqoiJixZQoQVBjTHwhfp3H/c/wtM8+nWLfNEzyz253Z5nfzszOLpHI0S9Rcsd1/p+XKL0oTdJqccLk6aNxqhZumzBiez1NH9bmaOvlfQdK30TfcAtiFEAcjak/n6G3T+6GGsZvnNMJo7pCRmmtnGxBYQsIh0G16jStL0+Zuti6QKgv0ft7Jfqx86A3FIOwz73DoHer9wyI67YD4bpfu0X6/aUSZMWA0MYx3zfRratiu53vmkFo1AXaqNxpgLDvAu1sZEIg7DNIt65KNDQMaIgnN34DJLu+XTRor5YdHIh7iRuLZz2bnG+zFM6F88dbgJ83JajSHYjnhQQZyGyASB9EoxwpZkZobmyYrl88Ya6XoJ8fH/YOMpiUZ0EulCsCBtTAQAaT9GyAcsF0NC6IBO1/etzAdAXCfnbyDMUT8fYoVyROHMff0yDdepvSnIwAxcbi7VG874KK47Gr8V5Bdg3iHspMDDdBHIlCNFQeC5KfPUexSwIkFkXduir2kZcg3Gny2ik3iiOPyTpBcF0pO0Kx0Vj/IKy6BnXwCC9MnaXpG6fp1pWTLY3yloOhxjVmHqXUpO4VJFFe0bcptEneJrRI4rEHKClBKw1MRyA8YRrEj//mQtDo8hB5ZT8cjWVcDg3ah+P7dr7RQx32DkoTJIcNIBzH+XJwt++Du/eqQzYASqSAoT7efXhtDAzEKByX3zTPZjx6lfaplvWpvujT63mfqsFcKSY8WrppnyjUB+hrPRcCMUq37igW5Bo2BuEzgt/4aLgw7plkg3UmdTlOiVGL4Y8y1P+2tdgAYQ3qYh0Kg+SwSRC2vCy4Ij/K+gbhKfsbCI3hGH/i4gWM8Fzj3hkoSA8bjksQf00yCL8ZxHUB2n0zHwYFa1DX65Br2CQI+4eB5PwZCMg1bBKEc/K/EglCPTl/+gShtE5SV/T84WgQvqUliNMFKBLhZf2waKCMnD8DAXVaNLITLKdZ9z8VjXRFX3Okyx8XB8kOUUssXwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3XzWsTQRgG8IQQlu3Vkx60VDxIPXiyBz9uih9Q29TURltLUiJtoYdg0JRUqRrqJ5Vaq1RIUSi1FC0IHkRR9C973Wemb/Lum0nNl9KBh93MznZ+Ozs7u41E9n6Jkjuu4/+8ROlZcYiezA6aLNwZoFL+sgkj1pfS9H5xnNae33Cg9EW0DbcgRgHE0Zjy01F6s3At1DF+45hOGNUUMkqLd6/UoLAFhMOgldIILc0Pm7bYukBoL9E/tor0beNWaygGYZ9Hh0FvH183IG5bD4Tzvm/O0q/t+/R7+6EBoY/j3d0mundV7LDzVTMInbpAyw+uVkDYd4E2ljMhEPYZpHtXJRq6DeiIJzd+AySHvl40aOt1tnMgHiXuLJ71bKZ8m5lwThzbVwP8tHqzAkKaAvG8kCADGQsQ6Z1olCOFTC+N9/fQ+ZP7zfkh0IfbrYMMJuVZkAvlioAB1TGQwSQ9G6BcMB2NCyJBPz/eq2CaAmE/O3SY4ol4fZQrEifq8fc0SPdep1QnI0Cx/nh9FO+7oKI+djbeKsiuQTxCmcGeKogjUYiGyrogubGjFDtVBclFUfeuin3kJQhXmjx30I3iyDrZJgjOK2Z7KdYXax+EVdegdh7hyeEjNHLhEF06c6CmU95ycKtxjplHqfCkbhkkUV7Bt8nXSc4mtEjisQcoWQVhlWZMQyA8YRrEj//qZNDpfBd5c344Gsu4AITzkK/rucoINTg6KFWQvG0AoR7H54KrfRdcvVfqsgFQIgUM7fHuw2ujYyBGoV5+0zwa9ehF2qeVrE/laZ9eTvhUCuZKIeHRzEX7RKE9QJ/LUyEQo3TvjmJBrtvGIHxG8BsfHecHPJNssM6kTscp0Wcx/FGG9l/WpisgrEFNrENhkLxtEoQtLwuuyI+ytkF4yv4GQmeo409cvIARnms8Oh0F6duGegnir0kG4TeDuC1Am68mQiCsQU2vQ67bJkHY3w0k509HQK7bJkE4Jv8rkSC0k/OnTRBK7SR1Rc8fjgbhW1qCOE2AIhFe1neLBsrI+dMRUKNFIxvBcqpt/1PRSFf0OXu6/AHgWOWuwb+xFQAAAABJRU5ErkJggg==",
     "wiki_name": "Washing bowl",
     "wiki_url": "https://oldschool.runescape.wiki/w/Washing_bowl",
     "equipment": null,

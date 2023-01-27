@@ -1,7 +1,7 @@
 {
     "id": 19194,
     "name": "Stew",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "It's a meat and potato stew.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACk0lEQVR4Xu2Wb0sUURTG936DXs2beTPQFwghJCQwYhFJJHEpNlFMMKWWqMj8UxtbillpLFarLCJLQSEVgRQRBBH0pk914rnDmblznHtn1K0w9sDDMnN3zvmd5/6ZKRQ68f+FooOp7REmfrdxiT4+9ml3NaBPzwL6Ug/o63pA317EwrWpyxe62g2naP3BAL156FthfmwG9L2RFMbwP1PTo92HhVPUqvr0uubTzpId5mczlgmDBmy6faVnv1CKtu76EdD7R74V5tf2cVq97tHKNY+Wpj2qTXpUnfBofvyYbgTPQiZQc2VIA50IgjxQihp3vAgISZEEMCjGBbkoNDNiF8YZBC7jFzlrt87mcUlR/f65CIjdcRW+WXaLodAAHEQ+rMkcLilau9ev7QcQ3JHJ01QpuWWCAQruoFHkRz2HS4qWZ/sioDxFp4bckmDsFmBe1UvaMYdLip7Mxw5lFZ8YzFYaHMCwHACE9egE2lg+TwuV3n0VH+1Pl/yfBAMQ3HICYW4XZ4p7ksliUuViUnJcgmEWAIQpzASCS5XxU9ZiaRruLSTkgsPu2no6TK21UgRjBcJ2xC7AA9gBmL7J8sk9BaUGemLJMQbDK+jt84u6BhrHOnK4w6H04WVqp1Gml4uDVL1xRr8szeKsYncoeZ+hdrfH9IGIMwgNY5c153IC4UR26UNzRM8/IHFMzF49rV3EL65x/3NrLPFi5ROaD0W4g52cAwihEp8Utk+LPEIDJhSAMF2okbF+ZIRThxdo2udFlswGGAr5JEhOGI7wYSQyPzFcMhtgKJ7qQ4DEET4YgmENoIh0Q7piOnLA6ckOCSbXigThBdsWV1whweRO4rE/DiLDBLNB/BUQGRLgn0B0ohNHJX4DUfpyyJCBpbsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4Xu2W30sUURTH9xLDML0ahkmuGRq60apoImUt9IPMsNrYUvxtLNgPjQWRhXookCJ6KIoeegh6CHrrXzzxvcOZuXOce2fUrSj2wJdl5u6c8znf+2OmUGjH/xeKDqaWR5j49dYwvVv26f1aQB8fBvS5HtCXjYC+Po6Fa1Pnz3a0Gk7Rxv1+evnAt8J8fxbQt82kMIb/mZoa7TwsnKJm1acXNZ925+0wPxqxTBg0YNONC137hVK0fcePgN4s+laYnztHae2KR0uXPZqf8qg26VF1wqPZ8SO6ETwLmUCNpUENNNzbmwdK0eZNLwJCUiQBDIpxQS4KTY/YhXEGgcv4Rc7a9Z48Limq3zsdAbE7rsLXym4xFBqAg8iHNZnDJUXrd/u0/QCCOzJ5miolt0wwQMEdNIr8qOdwSdHCzKkIKE/Ri4NuSTB2CzDP6yXtmMMlRSuzsUNZxScGspUGBzAsBwBhPTqBthbO0O1K976Kj/alS/5PggEIbjmBMLdz08U9yWQxqXIxKTkuwTALAMIUZgLBpcr4cWuxNA11FxJywWF3ba8OUXO9FMFYgbAdsQvwAHYApm+yfGxPQan+rlhyjMHwCnr16JyugcaxjhzucCh9eJnafVqmJ3MDVL16Ur8szeKsYmcoeZ+hPuyM6QMRZxAaxi5r3MoJhBPZpbeNET3/gMQxMXPphHYRv7jG/U/NscSLlU9oPhThDnZyDiCESnxS2D4t8ggNmFAAwnShRsb6kRFOHV6gaZ8XWTIbYCjkkyA5YTjCh5HI/MRwyWyAoXiqDwESR/hgCIY1gCLSDemK6cgBpyc7JJhcKxKEF2xLXHGFBJM7icd+O4gME8wG8UdAZEiAvwLRjnb8K/ELknW5dfjNs3MAAAAASUVORK5CYII=",
     "wiki_name": "Stew",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stew",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1729,
     "name": "Amulet of defence",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-24",
     "duplicate": false,
     "examine": "An enchanted emerald amulet of protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXUlEQVR4Xu2X709SYRTHPf9Br3hz37D5grf9b9acWY6UlGZNM0MnGjQJklaQWUrA1FCaQCawvNqIVRujtVp/AfvG89zuBe/tx/OU97K1vtsZbNzz3M89P+459PX9178rwq/NURG2N9bxYnMT+/k8KqUi1EoFb4+P8CgWxXWfz0kwwtb6UzxLJLB6L4ZcKoVyoYCPjQZarRY+NZso7e4gHg5jcnTUCTDCTjqN7Npj/mlNlWYf6nUOuxIK4eplr51gxFPFUsO+n3W7f2g6gFou8/TGbi9hwjty2lDE64WlJBJcMIDMV+nqBksnk3Arym99JEU4PHhliY75qpMivKvVJH2ERSjmcrgwMCDxpITjapUXubiPsOgPnpRwsLeH6GLQHqCp8XHJgwmF59u4Mzcn6SckMt4t4gcT8tksgjMzkn5CIqN1xQ8m/j6an56S9BMS4cqlixIHE6ovS0jejRg+Yn7CIniHhqSAWHRCgYCEj5QII4ODgodr0VmLr9gVHSbCk/txYaDdTMaudtdFqKmq0THmXzvSxgXbCGyMDhPxFYNN+mm//zuU1VgU2Qv04fKyndHRRXwZYzcdGx6Gb8yFa5Mu3LzhwtLsLB+6bOWwsbPMInz98hkL8wrCIc0CtzQoVi9sZsmPl78SYTXpRuKBgmhEgbLo5uafcPEUsS3SUZhMWgMwG0udXkMOwTC1l/stK4xu58+dcaKIu0XYL/VbQLrNcaA3Rx4LRE+Bmg0P1MOfR8lhIKb2X5z3GlSx0M9rKrXR6boeADG1F/e6B6+rHagedJhZJ8eFDnLaMN8AQHpfWC/XmlcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xu2XbUtTYRjHvYhxmOxD+BH6FhaCD5np0oWGlZkpprYMXMtsUGs9mGU2NkRsygjHWiZjg3RKMGIUvTBG9KJe9CUM/u2+T+dsntPDfafnDKQ/XGywc93nd66Hc12rqfmvgyvCn81WERZnH+P5/DxW43FkXiSRy2TwdmsTd6/7cdrtthOMsPBoBk+DQdy/MYnY3BOkEwl82t7G950dfC4WkVpeQmB8HN3t7XaAEZbCYUSnH/BPc6pU+1AocNgprxenTrRZCUY8VSw17PvhurpfmgawkU7z9E5eHkPX8db9hiJeLywlvkvDOpDxKk2VYOFQCE5F+auPpAjra69M0TFetVuEd/m8pI+wCMlYDE319RJPStjKZnmRi/sIi/7hSQlrKyvwj45YA9Tb2Sl5MCHxbBFXBwcl/YRE+rtF/GBCPBrFSF+fpJ+QSG9d8YOJv4+GzvRK+gmJcPJYi8TBhOzLFO5c8+k+Yn7CIrQ1NkoBseh4BwYkfKREaG1oEDxcjc70zSmrosNEeBgICAMtRyJWtbsmQj63oXeM8dey1HHBNgILo8NEfMVgk/6sx/MTymwsiuwFentiwsroaCK+jLGbdjQ3w93hQE+3A+fPOTDW38+HLls5LOwsowjfvn7B8JCCK17VLl5QoVi9sJklP172JMK9kBPBWwr8PgXKqJObp8vBU8S2SFthImEVwGgsdVoN2QTDVFruF8wwmh09csiOIq4UYTVVawKpNNuB3my6TBBVBSp+dCG3/vso2QzEVPqL816FSiZqeU3NzZa7rgpATKXFveDC62wZqgodZtTucaGB7DfMDzylJ0UJAqUWAAAAAElFTkSuQmCC",
     "wiki_name": "Amulet of defence",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_defence",
     "equipment": {

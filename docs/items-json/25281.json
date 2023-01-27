@@ -1,7 +1,7 @@
 {
     "id": 25281,
     "name": "Essence pack",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-12-09",
     "duplicate": true,
     "examine": "A pack containing 100 pure essence.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0ElEQVR4XtWXi2oTQRSGs2/SR/CZFC/gBS94F6nGUpSiFjWopRhiJWpbtWqIpZZYagmieEFE2mqtT3LMN+HfrLMbm4lbqgd+druZ3fPNP2fObguF/z8i21i5hf/gtN4+POv05v4Zp9rNQ1a/fdgdJf+etHqKyD14I82OHbG58aM2f+eYNcrHbaFywhbvnrSle6ccIEeu8TtjuedZ6aA9vrbfJq/utQeX9/QKFbkEiIdlid+UvFk97QBw693koL2fHnRHrjOGsYDLvZkbB2x6dJ+D2TYw4OQTeBG5REnxYEkQSv7x0Tn79OS8fZ4p2penF9yRvwH0XQJILgnIz54RnfrIEiBAkPzr8yFbrg3bcv1iW61zriHG4JzvEkC4FATEw7LEzAWyMnvFVudGbfXl9bZa51xbeTHixDgcxE3fpWCgernokvJQybnRcoFkJF97NWZrC+Nttc6/N27Zt/lSDMhYlg9Hs1wKACKieKaS3CAxAD+bVTdTLQF1gRxoS4xPLp3vUjBQvBQJiB+LZVt/XbH1pQmXHBi1ARWs4HDLX7qkS8FAmmkSIikcyhLjmQATAYhC19Kx6+RSMNCHWikF4QPVp6ZSioFaS0Yd4RDLpjYglwKBiCgFIfkQWZJD1BG7U82SWurDISIbyE/cbDRi+b8hLRl1RHHjUB81RKSBsiC6KQsIh6ihPnYZ8TtQCIwPRR2pqKmfPvoQ0QHqtkS9SPdR1DRI6iewUyvyBVJzpH4CX66KfIHUGKmf5OeHn/UPEcXNLg8gNUXqhw+0QKAOzGYA6WtxS4G05QGqjuzeGiDdox7ElmeHTVza9XdASSg/aTclJwGQehA7LBAoDdMPlMbyLhMQPYgdVhnemQ9QL1BJZwSkr0Z6EEDloR35ASWhepFeG2qKbPnx4vZ8gXqB4lubj36AeG2oKbLlA4EI/1/e/AVMAFChoBs2U37Ofzp+ASV5TkArCpNRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4XtWXa2sTQRSGs/+kP8FvKioq3vCCF7zFUpSiUrwUlRKMBCtFbYtKUUOUopWgUpWKiKCCCCKoVbHqPzryDLzJOLuxO3FL9cDLpruze55558zZban0/0di86uwCB+c1vPLu52eXdzlVD+1wW6d2eiOUnhPWrkicQ+eT5NDm+xuZbNNnd1izXNb7UFtm02f326PL+xwgBw5x3XGcs+NwfV29dhaGz262i4dXpUXKnEJEA/LEteUfGZkpwPArReje+zl+F535DxjGAu43Js4sc7GB9Y4mCU9PU4hQRCJS+SLB0uCUPLXV/bZm2v77e1E2d5dP+CO/A1g6BJAcklAYfaMaNdHlgABguTvb/bah3qffWwcdOI35xBjcC50CSBcigLiYVli5gKZnTxis3cG7PPUcSd+c+7T7X4nxuEgboYuRQM1qmWXlIdK/I0LJCP5t/tDNvew4sTvr83T9uXeYAuQsSwfjma5FAFEJK2ZSnKDxAD8nBlxM9USUBeIa4jx/tKFLkUDaaY+xNx01b4/qtmPJ8MuOTBqAypYweFWuHS+S9FAmqkP4QuHssR4JsBEAKLQtXTsOrkUDfSqfjIFEQI1xsZSEhBLRh3hEMumNiCXIoGIJAUhhRBZkkPUEbtTzZJa6sIhIhsoTPy02WwpvIa0ZNQRxY1DXdQQkQbKguikLCAcooa62GXE70AxMCEUdaSipn666ENEG6jTEuWR7qOoaZDUT2SnVhQLpOZI/US+XBXFAqkxUj/+50eY9Q+RtJpdEUBqitQPH2iRQG2YhQDS1+KiAmnLAzTSv3JxgHSPehBbnh02fGjF3wH5UGHSTvInAZB6EDssEigN0w2UxvIuExA9iB1W61teDFAeKN8ZAemrkR4EULV3WXFAPlQe6bWhpsiWr5SXFguUB4pvbT76AeK1oabIlo8EIsJ/eYsXMBFApZJuWEiFOf/p+AVHEVQrf5v8dQAAAABJRU5ErkJggg==",
     "wiki_name": "Essence pack (Generic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Essence_pack#Generic",
     "equipment": null,

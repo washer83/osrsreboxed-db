@@ -1,7 +1,7 @@
 {
     "id": 6684,
     "name": "Ground seaweed",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-24",
     "duplicate": true,
     "examine": "One of the ingredients for making fish food.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0ElEQVR4Xs3VS2sTURQH8Mk3mNWsu3blF+jSheBCEIQignTTjRsXLnxS361UURQFFS1VTKtULaXWRwspffhCfBW/zjH/e/0nZ07OpJlmlF44ZDJzk/PLuefeJMnOHzXxw3v+z0dNXk6dldnJ0yGePzolMw9OhiBiZX5CGnNXZfnVuIOyP6JveAQRBRDDYpZeXJE3zy7lEuM9ntnIo0ohazL3eLQDhVdAGAQtzlyQ+afnwly8eiDM1+jNjSn5sXp/eyiCcM3qEPRu9nIAcW4RCJ/7tT4pvz/VmzEdQMixe2AghM1uRiw7fzVBSOqBFurnWyBce6DVhWs5EK4JstnNqOWWAYnY3HhvQUgOBJe3CLSxeKM6EKuEex6IlSQIVbOgj281qF4OxL6wICS3IN3Q3UCf39/MgX6uPewfhPsAEcVK6h1ZBPqydKtaEAIADbINXQTC3G+NOy3Q5ocn5XaYBmkUvtwDxbOkHR7oe+OuC7LZC0b8YiTrBuIJnZ44KOnxA5Ie2y/p0X3hXgdo5d52QfEMQoW2AmEO5mcXD0t2ZijAbLUQmJ8DqUPRZjcjbnkPhCDIJrSBKrFarFhlIKIQAIWEw3skHdnbTjw0KMngrg4Yo7IK6SqxeQMA/YK+Ye+o/gEU83T/rL++rkDTLUxPIOwQD8QGzkYPxUDf4LXZO+wfwDSGS4y/DV2hHquD0QbZPuJW5jJkE8OSjR2JsL+B+/iMrg5A+NuoDEQU7iMB/rWLGpuVtCCc0hpElM3ujAjyls2C8Fyf0Lj2QJj/dfl2C4QzqMQ5lAfpZdMgnkEa44EA7xuEXbYVCMlwzwOx17hclYHssuG+BiG5XS6COBcgbPkcqHkGlT6HvGXTIFx3A+n+qQTkLZsG4ZnX0AjM0/3TJwijczt7YfuHYUE4FDWIUQKUJDzWu4UF6tD9Uwmo12GRvWAZ7bn/aVikF/YzO3r8AUDGkP2nEf68AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xs3VS2sUQRAH8FmGufoBcjEIIogQFSQXD148ePH9NipRVBQRRFFCUHyE4ItAiCZESSASYggaEURFUfSTlf67/c/W1NZsdrKjpKHY2Znerd9WV/cmydofDfHDe/7PR0OeDh+Sx0MHQoze3i8jN/eFIGJ+fFDmxs7K7LMzDsr+iK7hEUQUQAyLmXkyIFOjJwuJ8R7PbBRRlZANGbtzuAWFV0AYBL0YOS7j946GuXj1QJiv0d+XhuXrwo3VoQjCNatD0MtHpwKIc8tA+Ny3xSH5uXxffi0/DCDk2NrbG8JmNyOWnb+aICT1QBMPjuUgXHughYlzBRCuCbLZzWgUlgGJ2Nx4b0FIDgSXtwy0NHmhPhCrhHseiJUkCFWzoHfTF3MQohKIfWFBSG5BuqHbgd6/ulQEvbnVPQj3ASKKldQ7sgz0YeZyvSAEABpkG7oMhLmf5q7moB9v71bbYRqkUfhyDxTPkmZ4oM+vr7kgm71kxC9GsnYgntDp3i2S7tks6e5Nku7aGO5Z0Jf566sFxTMIFVoJhDmYn53YLtnBvgCz1UJgvgbpQ9FmNyNueQ+EIMgmtIEqsVqsWG0gohAAhYT96yXduaGZuK9Hkp51LTBGbRXSVWLzBgD6BX3D3lH9Ayjm6f5ZfH4+B+GUJqYjEHaIB2IDZ0e2xUDf4PVP77B/ANMYLjH+NnSFOqwORhNk+4hbmcuQDfZLdnpHhP0N3MdndHUAwt9GbSCicB8J8K9d1tispAXhlNYgomx2Z0SQt2wWhOf6hMa1B8L8j7NXchDOoArnUBGkl02DeAZpjAcCvGsQdtlKICTDPQ/EXuNy1Qayy4b7GoTkdrkI4lyAsOU1CGdQ5XPIWzYNwnU7kO6fWkDesmkQnnkNjcA83T9dgjBat7MXtn8YFoRDUYMYFUBJwmO9XVigDt0/tYA6HRbZCZbRnPufhkV6YT+zpsdv1SOXaLQcfhAAAAAASUVORK5CYII=",
     "wiki_name": "Ground seaweed",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ground_seaweed",
     "equipment": null,

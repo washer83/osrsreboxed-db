@@ -1,7 +1,7 @@
 {
     "id": 6914,
     "name": "Master wand",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-04",
     "duplicate": false,
     "examine": "A master level wand.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4Xs2V3WvTUBjGc/4D770p9KIQCIRCCCUEOkIZY0MqG0o2Kluho8h2UagUh4VCYeIHyhh+wBgMBsrwAxRvRARvxD/r1eeNb5pkvVCWk/SBh9Ocpj2/PO97TgyjcCmKXLoiEMcyqNUwyoZSZFYN8p3IuLYrFXb2zgK0YDAo0QLAzPplIWBarkFrXuQSYGQbRxaQ9ebMApT9pQYpevXIpovXDqciAGHrWuwC01H0YFCjZxOLzo/rKYhSYHZW6tRvuzS45dFo0+eUSoNpeyY7DCzqrTk0DD1683IGpBkmecQrCupVtm9XKGxaNGh7nNJBp8kpaYdBjyR3kWteZ++tN2jSDWi8uRSXDSm9P3H/3qtFERAW2QhM6qza1Lvp0N7tBo23lxjocXeFJlsBJ4S5j6cufTq7MlT6LBE/PDBjoHDZop0bfxp5w42Bpr0WHe4ucw9JQjmUTdF0ZNLR1KKTpzb/KZ7y69tGCujnZ5++v/N4HglgDkD91WinAQrb/4owUASExeEn4wgCgAJ0+rzOi+HpAQKgYcdjIGx/9BMeJgcY0QxKgDBi7sWhzYudHdXjkiBBAI22/VSJc4KB0kAYcY2TGEnh9SApSUkBlITIEUYUNXESBiMAkykB6tuFx40tQNl/ylGKJsMaw9y7W+VR+khSQkK/vjTzLtE8Kbq/X2MPdqvUv1PhEdeAFDAAISHN6ShORIDweb87Hwilk4NPO5BYUpLySS9JgyMljUCKF4ezUJJKFgi9pBEIuvzagAUIO+vHB21nznxdPk9UfEhmXwnaYeZrBqS5Z/5HivumkBL9m9JA2W9LUrHp/AatRad76xdQ6wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaklEQVR4Xs2V3WvTUBjGc/BCVkpCaUhJytJ9MIubmFrcShmV7aJQKTgsFAoTP3AwRFEYDPRCUBiKXih4JQheeCX4R776vPHN13qhLCfpAw+nOU17fnne95wYRuFSFLp0hSC2ZVCrYZQNpcisGOTZoXHdWVlhZ+8sQAsGgxItAEzcLwsB03IM2nBDlwAj2zi0gGw2YwtQ9pcapOj5/RqdvbA5FQEIWpciF5iOorvDKj2eWvT6ST0FUQrMzlqdBm2HhtdcGnc8Tqk0mLZrsgPfov6GTaPApTfPYiDNMMkjXpFfr7C92hIFTYuGbZdTOug2OSXtMOiR5C5yzMvsvc0GTXs+TTrLUdmQ0vsT5++9WhQCYZEt36Tueo36V23au96gyfYyAz3ordH0hs8JYe7jqUOfXl4YKn2WiO8dmBFQsGrRzpU/jbzlRECzfosOd1e5hyShHMqmaDY26Xhm0cmjGv8pnvLr20YK6Odnj76/c3keCWAOQIP1cKcBCtv/gjBQCITF4YeTEAKAAnR6VOfF8PQAAdCo6zIQtj/6CQ+TA4wohhIgjJh7eljjxV4d16OSIEEAjbe9VIlzgoHSQBhxjZMYSeH1IClJSQGUhMgRRhQ2cRIGIwCTKQHq25nLjS1A2X/KUYqmoyrD3L5V4VH6SFJCQr++NPMu0TwpurNfZQ93KzS4ucQjrgEpYABCQprTUZyIAOHzfm8+EEonB592ILGkJOWTXpIGR0oagRQvDmehJJUsEHpJIxB0/rUBCxB21o8P2s6c+Tp/nqjokMy+ErTDzFcMpLln/keK+6aQEv2b0kDZb0tSsen8Bud6P3YCmR8YAAAAAElFTkSuQmCC",
     "wiki_name": "Master wand",
     "wiki_url": "https://oldschool.runescape.wiki/w/Master_wand",
     "equipment": {

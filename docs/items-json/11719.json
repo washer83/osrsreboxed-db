@@ -1,7 +1,7 @@
 {
     "id": 11719,
     "name": "Rune pickaxe (nz)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-09-05",
     "duplicate": false,
     "examine": "For use in the Nightmare Zone. Doesn't work for mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYUlEQVR4Xu2WQUvDQBSEN/8kt4IgSKF4kIIeioeWQmkupShqD4Fii6B404sXDx48+m+fTJZndrebxHY35CEODA1h03ydN01Wqb+lhGx3qoSGx4pGfUWTU0XzM9U2lPvrdz25XVN2/0zLp1e6e3kvzp2kaWwofbOL7KrRl8sVTVcbmq8fKX/7jA1kg5zPFo0e9PTIkNIsfzDSC1ZCo8VN4Sqg4TSzfJSqokMwAyEtOBLYbkfqjHR8QOPr/KdbwWCYf5NxAzMdHxC6BeOYyx4EVi87HdhMjoF4/PjEue3HVxtQfhg3QTZ3D2AYI691vzVANpAJY67ywSGp8p8YRdXpuCtNuXB4ZkWC0q8KF6YJyBSD7XudR3Y6OP5NOlU69DpD4elE1GHdaVGC0+kYBirTCS1yBAlOR0SR/9OpVwkkIh0eF/bLItJhIAHpQHqLKuC5w9JAsBAgSG+mBIyrlCiYLvUNT4yzxlficXMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4Xu2WQUvDQBSEN0dB6kERrJRWpIU2h9pStYdQFAXFo7304sGDZ///6ZXJ8prd7SbR7oY8xIGhIWyar/OmySr1t5SQ7VaVUPdEUf9U0fBc0eRCNQ3l/vp9D+9WlD680ex1TffvH/m5m8EgNpS+WS+d1/pqtqTR8pEmqxfKNl+xgWyQy/G01mfHemRIaZw9G+kFK6H+9DZ3GVB3lFruHKm8QzADIS04Eth+R6qMdHxA14ts161gMMy/zriBmY4PCN2CccxlDwKrlp0ObCbHQDx+fOLc0+d3E1B+GDdBNncPYBgjr3W/NUA2kAljrvLBIaninxhF5em4K025cHhmRYLSrwoXpg7IFIP99jqP7HRw/JN0ynTodYbC04mow7rToASn0zIMVKQTWuQIEpyOiCL/p1OtAkhEOjwu7JdFpMNAAtKB9BZVwHOHpYFgIUCQ3kwJGFchUTBtagt/QX0lBhedAgAAAABJRU5ErkJggg==",
     "wiki_name": "Rune pickaxe (nz)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_pickaxe_(nz)",
     "equipment": {

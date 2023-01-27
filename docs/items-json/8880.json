@@ -1,7 +1,7 @@
 {
     "id": 8880,
     "name": "Dorgeshuun crossbow",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-21",
     "duplicate": false,
     "examine": "This fires crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xu2X2U5TURiF2W/CI/hE3nphYuKA3vRCohKMImgUNUgAIUhAwhAGCUNaoVYsQ7G1FZBJ5JJn+PXbO7tnKj3t4RgudCU7NO3Z/1l7rX/YNDT8u1Di/+YCoaT7TbNEJMWmSBvPgJL29tsyMf5Mx73U2FhPbCV9vfflZWciJlJKmpuvyuJCl6RX+uXL6ki9cZWkUr3S03MvymlcMCrfvHFZJiefSzY7KrncjHwrLMnOdrp+Uu8GH+oTOfa5VxiUtDy4Jvn8vI7zdWtOSsWU7O6ulmNw0DoPq2T5Y58kmpoCyyFViaTS6qIKBFBmb29NLzeRusmMjnZo64LqWBtVBZJKhofb9L7NjSk5OSnJ8c9C2aIIRCyUjI91SDLZEziVN6iXKKpkPg3qPDk62pLT0xMpFpPnJQMMoaXFbpcilWHV6n/bInNzr7VFpdKy/Douyt6PbDxksIueQamGETJQ8n7kibaKSlrLjmmrYiADjDoQmp+vhZDpwNNTL7RN62sTcnCwqfd5CyAyDCHyAQuqEzK5gyLkzcb6ZNkmN6Gz94fCsQtCH2ZfVQmoZGjokS5nEpeqskQcm9xVGQkmF5B/ZrpTLxvU/xz5AhF6TSG/4CHiEDi3baaPoBB2kUMo5UxpsyCMPYeHOd1jbAcOKhGTbeQQ6tCHWNjIsE0krmgb0+kB2f6+Ivv763okuNXxx4qBEDBKoBDzjPInXzKZIdnKzcrOTkaXNZ/PJmPiBMdNRNikRCGIYBG5svp52Cjzp/m5u7B/v4PYVLIwarW2XtfDlpyhz3R13Q1Rx+IvEGp7fEvbhzoQghh5VdtLYrTNkqHSqCgSneGJfcw58ir8JV5C4QeoCtMoyReunvQeujIDlBFBa2CoWlvD1tOOOzUcoCqUHpaUNrc+SNjgqMSNkAqkTw0MtGryqIh69v5MB6cY+I3bYywquZetPnoRZU8/4rO9M/NyvuMQzDdIcxieob/Z+eh/S12wleStKKXbAS+kDdCbIAEhewXxHwZCqBbhP49aobQy2MJfEt6vpnMIYzNXFPdv/ogxIGhpUE3vs5V/ixHVSXhRyzP/EYbfnsbaZSbwQ7YAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xu2XW0tUURiGXf/En9BFl0EX0cG6moukkokysyis0MQyEUOcEEtExQwxEctDmU3mKS1z7GBlYkf7Af6QL561WO7TOHtmu6OLemHhMLPXt9/1vt9hWVT070KJ/5u/CCW1V0slIik2Rdq4DZRUVByW9jvnddxdxcWFxFZSf/24XKpKxERKSWnpXunvr5HRkQZ5OpEqNK6SB0PXpK7uWJTTuGBUPnhgt3R0XJB0ulVmZ7vl9eKAvH83Vjipm00n9Ykc+9wrDErKTuyThYU+HWdhvlcymSH5sDKxFYODFnhYJcMP6yVRUhJYDqlsJJVWF1UggDKrq5N6uYkUTKa19ay2LqiOtVFlIakk1VKu981Md8rGxrJ8/7a4ZVEEIhZKbrdVyuBgXeBU3qBeoqjy+FGTzpOvX+Zlc/OXLC0N7pQMMIQG7te6FMkOq1bDjTK513tFW7S8PCw/f2Tk08d0PGSwi55BqYYRMlByK3VGW0UlTT5r01bFQAYYdSDU11edByHTgbs6L2qbpp63y9rajN7nLYDIMITIByzITcjkDoqQN9NTHVs2uQltvz8Ujl0QuttzOUdAJc3Np3Q5k7hUlSXi2OSuykgwuYD83V1Vetmg/ufIF4jQa1697PcQcQjs2DbTR1AIu8ghlHKmtFkQxp719TndY2wHDioRk23kEOrQh1jYyLBNJPZoG8dGG+XtmxFZ+zylR4JbHX+sGAgBowQKMc8of/JlfLxZXsz1yMrKuC5rPm9PxsQJjpuIsEmJQhDBInJl4kmLVobm5+7C/v0OYlPJwqiVTO7Xw5acoc/UVB8NUcfiDxAqP31I24c6EIIYeZXfS2K0zZKh0qgoEp3hiX3MOfIq/CVeQuEHyAnTKMkXrp70HroyA5QRQWtgqFpbw9a5yiN5HCAnlB6WlDa3PkjY4KjEjZAKpE81NiY1eVREPXt/poNTDPzG7TEWldzLVh+9iLKnH/HZ3pl5Od9xCOYbpDkMz9Df7Hz0v6Ug2EryVpTS7YAX0gboTZCAkL2C+A8DIVSL8J9HvlBaGWzhLwnvV9M5hLGZK4r7N3/EGBC0NKim99nsv8WI3CS8yOeZ/wjDbxifgYeHQ+KdAAAAAElFTkSuQmCC",
     "wiki_name": "Dorgeshuun crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dorgeshuun_crossbow",
     "equipment": {

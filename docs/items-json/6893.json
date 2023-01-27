@@ -1,7 +1,7 @@
 {
     "id": 6893,
     "name": "Leather boots",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-04",
     "duplicate": false,
     "examine": "Comfortable leather boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4XtWWQWvCQBCF3T/RixfBgyAURBARESwipSClhV566KGHgofS/39LeRte8nZ2oyGbNjjwMJjNzLdvxo2j0W2GK2INFq542SyLt93KC9fQQIAlzGm98DDv+3UEhnvQP0DVMAT6OGw8lILhOnard+dqmMflPAD6PG4rfT3tKncUsOfWhjAPi5m/pjMqriEAgdRFzQV1gHJR4ZR0tniNT9yDe3BTRZjFZOJlq14IFyWzskPN3RPICmvgNIFsxSvh/GyoODMcanVHZUEIw9Z3BEK44nzaByIQ3UERFLRQKoIDZjuf5gH9vB69vp8PlUsEYBF+x4G2UncygRAlFNwBkHWHBexMqdSd1QwgPQGl3GEBwqZg1J37yTgfCO1SIBbSAlhj71PqTm9AnB91B0Wm4ztfgD8AXZNyh+uzgKw7nB3umEUIznlKuZMJFMNcKmJbqw7ZtR2AYphrQKlntGVY3xEoTKwHnC0AIB1szlqbttmqDVHD8BVBKABpcv3VsF2cIW2xnTk61MKlEkZ3yeRNu2WrdH7s4Zl6pgUMIgRSl1CAO2VyC5N6tfwJEE9gTVwnjd2x7Uqd0i2BEOVrwLrDkxlKwdhhTs1PBxhG/d/XJg6TxjPX1K4MmDK0qCpMmgay7Yqfywwmi5O6atZ0mBWod5jrUbtngQaAKaNdeweK5vbeePwCjYXjyCzv9pgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAElEQVR4XtWWUWvCQBCEzUMRRSyiKCpVW7Cl9KGlD4U+FAr9/78pZS5MMrd3MSGXNrgwGMxl97vZ9eJodJ2R5aEGiyx/2izzl93KCdfQQIAFzHm9cDCv+3UAhnvQP0BVMAR6P2wclILhOnSrd+cqmPvl3AP6OG5LfT7sSncUsOfW+jB3i5m7pjMqriEAgdRFzQV1gMqCwjHpbPEan7gH9+CmijBvp5OTrXohsiCZlR1q7p5AVlgDpwlkKzZE5mZDxZnhUKs7KgtCGLa+IxAiy7/Oe08EojsogoIWSkVwwGzn0zSgn+ej0/fjoXSJACzC7zjQVupOIhCigII7ALLusICdKZW6s5pN+gOKucMChI3BqDu3k3E6ENqlQCykBbDG3qfUnd6AOD/qDopMxzeuAH8AuibmDtcnAVl3ODvcMYsQnPMUcycRKIS5VMS2Vh2yazsAhTBNQLFntGVY3xHIT6wHnC0AIB1szlqbttmqNVHB8BVBKABpcv3VsF2cIW2xnTk61MKlAkZ3yeR1u2WrdH7s4Rl7pgUMwgdSl1CAO2VyCxN7tfwJEE9gTVwlDd2x7Yqd0i2BEMVrwLrDkxmKwdhhjs1PBxhG9d/XJvaThjNX164EmCK0qMpPGgey7QqfSwwmC5Nm5azpMCtQ7zDNUblngQaAKaJdeweK+vZeefwCyQcitb+/G8cAAAAASUVORK5CYII=",
     "wiki_name": "Leather boots (Mage Training Arena)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leather_boots_(Mage_Training_Arena)",
     "equipment": null,

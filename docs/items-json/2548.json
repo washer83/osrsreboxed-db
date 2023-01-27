@@ -1,7 +1,7 @@
 {
     "id": 2548,
     "name": "Bronze fire arrow (lit)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-03-03",
     "duplicate": true,
     "examine": "Arrows with bronze heads wrapped in oily cloth.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB70lEQVR4Xs2Vv0vDQBTHc5MIFX9BO1QhTlIcLHaQ4iRdFHSoFIt262IFrQ6tXbTWSYRuLlrdFCy4VSfRP8G/6cnLcbnL9ZIm9pL2C0eTlyPvc9/vIzUMLSIgV0YoAmvpNIwJFIFmowEb2awFlDbNUUMRuDivwnYuB2Yy6eES1t2eaRUF2s/nrYZ7mzFFYwK3rWYUsRI4ys1YQHhd3p2G2tYsJOYMoTGB16cO1E5PooiVAh0UClaj+8OEBbQ8ZdhQve4b3N20oFwq2ZGGBERhcOH1WXEe2sU4dCoLsLMag6UJCvTd68FlvW5HijChAtFoKNDXdQqejxchn4nZDv18fjhmjMJonyOnO6zJbzcD7+0UrK9M2qC4p1qp2LHiwgHXDMXd4RE4IVX3uHDAQxhuJ5DcXFXDhQPu75sVSMHdYXtwwOV50uBScHdY7eXxoQ9IfntADXZHrKn2iQOuHUhd8wZkS0Nc7qd2ay7vE2tDwqBkJ3hNPL0/wKFF4MqMKxupal7uyG/+hzgM/uJSuSHfu0MPLQok/qpPPtgdTUAo6oCXO/4i1SjWRD65COPloHYgLu6QDCTDhOYOF28uAzidiMQdCqOOh0YasTso/umXgdhztYMhSnTCGYcTRg0csvy4EylQv7T+m+sRAxkLGF36A+JqcDSDTpSmAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5UlEQVR4Xs2VTUvDQBCGuy0h1EOlaKleQvFkragFoYgWLPVgLYha9SAiHry3igcP4kERj1Wvov/C3zd2smz2o5s0sZu0LwxJJkvm2XcmSSplRATUzARFYC6fhymBItBpt2GxWHSBNkqlSUMRONhrwpLjQNa2A1zCvN89o6JAq+WyW3B7Oa0pTODytJNEWwnsOBkXCM8PNzNwNACyrZRQmMDT3S3sN3aTaCsFWq9U3EIPW5YLlBsAMaj3l2e4Oj+DWrXqtTQmIAqDgefXDQu6NQt6DRtW5gnMpCnQd78Px62W11KEiRWItoYCfV3Mwv0AaG2BeA79fH5IM0ZhjM+R7A4r8vtagLebHDgF9kbRdc163WsrBg64YSjuDm+BDKm7xsABj2G4ZSC1uC6HgQMe7psVSdHdYWtwwNV5MuBSdHdY7rHXHQJSnx5Ro90Rc7p14oAbB9LnggFZGGiX/679iqvrxNyYMCjVCZ4Tdx8OcGwROMla2kK6XJA76pP/IQ6DRwydG+q1P/TYokDiUb/z0e4YAkJRB4LcCddSg2JF1J2LMEEOGgfi4g6pQCpMbO5w8eIqgOxEIu5QGH17aEsTdgfFP/0qELuvdzBGiU7I7ZBh9MAxK4w7iQINy+jf3IwYyFTAmNIf2AMxa1weK2cAAAAASUVORK5CYII=",
     "wiki_name": "Bronze fire arrow (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_fire_arrow#Unlit",
     "equipment": null,

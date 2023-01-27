@@ -87215,6 +87215,10 @@
         "id": 43103,
         "name": "Rock wall"
     },
+    "43108": {
+        "id": 43108,
+        "name": "Desecrated Tomb"
+    },
     "43109": {
         "id": 43109,
         "name": "Fairy ring"
@@ -92250,5 +92254,109 @@
     "46865": {
         "id": 46865,
         "name": "Trapdoor"
+    },
+    "46910": {
+        "id": 46910,
+        "name": "Desecrated Tomb"
+    },
+    "46911": {
+        "id": 46911,
+        "name": "Desecrated Tomb"
+    },
+    "46925": {
+        "id": 46925,
+        "name": "Cave"
+    },
+    "46992": {
+        "id": 46992,
+        "name": "Signpost"
+    },
+    "46993": {
+        "id": 46993,
+        "name": "Candles"
+    },
+    "46994": {
+        "id": 46994,
+        "name": "Candles"
+    },
+    "46995": {
+        "id": 46995,
+        "name": "Crevice"
+    },
+    "46996": {
+        "id": 46996,
+        "name": "Memorial"
+    },
+    "47000": {
+        "id": 47000,
+        "name": "Cave"
+    },
+    "47068": {
+        "id": 47068,
+        "name": "Web sack"
+    },
+    "47069": {
+        "id": 47069,
+        "name": "Web sack"
+    },
+    "47070": {
+        "id": 47070,
+        "name": "Web sack"
+    },
+    "47071": {
+        "id": 47071,
+        "name": "Web sack"
+    },
+    "47077": {
+        "id": 47077,
+        "name": "Cave Entrance"
+    },
+    "47078": {
+        "id": 47078,
+        "name": "Cave Entrance"
+    },
+    "47083": {
+        "id": 47083,
+        "name": "Signpost"
+    },
+    "47122": {
+        "id": 47122,
+        "name": "Cave"
+    },
+    "47132": {
+        "id": 47132,
+        "name": "Dead Explorer"
+    },
+    "47140": {
+        "id": 47140,
+        "name": "Cave Entrance"
+    },
+    "47141": {
+        "id": 47141,
+        "name": "Cave Entrance"
+    },
+    "47145": {
+        "id": 47145,
+        "name": "Signpost"
+    },
+    "47147": {
+        "id": 47147,
+        "name": "Cave"
+    },
+    "47148": {
+        "id": 47148,
+        "name": "Cave"
+    },
+    "47149": {
+        "id": 47149,
+        "name": "Exit"
+    },
+    "47174": {
+        "id": 47174,
+        "name": "Rubble"
+    },
+    "47175": {
+        "id": 47175,
+        "name": "Cave"
     }
 }

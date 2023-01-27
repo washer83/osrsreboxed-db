@@ -1,7 +1,7 @@
 {
     "id": 1413,
     "name": "Halberd",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A halberd.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfElEQVR4Xt2WXUvCUBjH93wDr3bjjR9hdBMiA7sQCWU0HImJ4AtplETDJpYKQiXeZQRdeNsH/dd5xtxc5FWec+gHBzY4Gz+el3Mew/j/EOIVvUslKUBYr1aYBQHOXZffW/V6Qu7gEDZva5Z4mc/wOBph2O+jfdHYCnabTZxVKrKkCK/LJctMfJ9lRERqjsMC866J0rHBz1Yuxyv9hz+G8DSdssx1r8cyIhqlYhGrGxONUkamjIAwvrtlmYbnscyJbWMzyWLgSpcREAadDstUy2WWObIsBE0lMgLayhTyeZZYXJqoFuK6SX9xYIjrJeqoj7GJ1qmy6EREkSAMPeUyET9bPL1DIoT3exO1otTzZh/fp7GjUaoe2hnYlkapSra4ciEFV8NvEJ/G2qRq7Uu/xfdBerW4Vl0lxgpNuorwucjqdVeJQlY4ViQJU6XBWCEIU/V8tTvnpHdJJEyVNtERqRJtnizm9C5JxKnSqrPEEhFSHJ2YUEKL6OwiU+YLnB84lJUh0VoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xt2W3UvCUBiHfZHhtQSJk1ATF3PhVPAjtBJq2ERKBaES78roogvv+99/dd4xNxd5lecceuDABmfj4f04502l/j+EaIXvUokLENarFWa+j3Pb5vdWvR6TOziEzduaJZ7nMzyMRhj2+2g33K1gt9nEWaUiS4rwslyyzMTzWEZEpGZZLDDvGigep/i5USrxSv7hjyE8Tqcsc9XrsYyIRrFQwOragFtMy5QREMa3NyzjOg7LnJgmNpMMBrZ0GQFh0OmwTLVcZpmjbBZ+U4mMgLYy+VyOJRYXBqr5qG6SXxwY4noJO+pjbKB1qiw6IWEkCENHuUzIzxZP7pAI4f3OQK0g9bzZx/dpbGmUqvt2GmZWo1TFW1y5kIKr4TeIT2NtUvXqSb/F90F6tbhWXSXGCk26ivC5yOh1V4lCVjhWxAlSpcFYIQhS9XS5O+ckd0kkSJU20RGpEm0eL+bkLklEqdKqs8QSEVIcnYhAQovo7CJT5gvirBR8nvqu/AAAAABJRU5ErkJggg==",
     "wiki_name": "Halberd (unobtainable item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Halberd_(unobtainable_item)",
     "equipment": null,

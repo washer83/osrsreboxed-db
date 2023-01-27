@@ -1,7 +1,7 @@
 {
     "id": 8334,
     "name": "Oak lectern",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACU0lEQVR4Xu2X3UobURSFPS/hdcAX6CMIRbwQpFCpNBJQRBQJQautP1ExrRrSpjFBHdKmrTWJidH8qm3aoNBSKthSeu3T7LL29MwcJwql5MRcuGAR5oc5X/Y+c86atraGSZDplpCgSilDuez2X6gbhRN0fJijciFN6eRrihvrFA2Mkn/ioS4o9R/Xu/ohz87vJ8kIeike8lnX7rhcbOcT/1PmQzOpBLcDFZAu5lOWa9USHZaztBObZqsgDYV5EXrK5UcbVBjASQMEQLn4PFtDVSBBy9MeLn/hzQKdHUXpazFMJ/tB+pRZpaOdAJXeLTHA7tYMHx8k/LpgIEHb0Ske3Fj00KZ/gH/hV8uDlAgMsavpZwwGoKwxawE5n9YACQpNPWCvTfZZludic24Ge786TLW9NQZKbTzRCQTVv01L470MFn7cz1VDlZLBEeu6pnbZUt8UcyAbLhsepcqWjyvVFJjrJMEkEOaV5lb9iwTlImOtCYS51BJAF+fF1gOCsQTcAtXLBlqfMSPGLZAtc2GUQFi15TnnnZplDjrW38lWgbzuu+TzdDUTzAbBfgZLIGy2Ae89GnZ3O8C0SdCjwW7LeKuucoernWZHetia55S5y0sjqMHfyi/peyVCXwrPOait+O5zpWDtQGoe+vV5k/2zusEGEHI05pLMS9qBZFuwTajpUSZImSrlfdqBUAVYbZdsGY5PD0KctxFpNUdZSFjtgX98jF0yPgAAByB8ELyNTOoGguyk+LtmXDIgUSX1HsBoBrLjrDrwVRBNgXHKOfiNQDRTfwA30s9qsO3WWgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4Xu2X70tTURzGPS96Uf9CUEpQUGFrYChoDJZpKbWyVulYrTmG2ljZD8OxNW1tudnKSotBQRARvSiC6C/o/3ri+d7Ovcc7g4iduRc+8DDuD+757Ps995zndnW1TAqOO0IK9VoRpaWFP1DbCqfw8nkJqysFFHJ3kM1MIxUdROTUMVtQ5j9u9vqrirhSziETCyEbD7vXAt3dYv8T/1POQ4v5u9IOVkC7Wsm7bmzU8OLZMhbTo2ITpKUwN+JXpPxsgwlDOG2CEKiUPS+2UBVK4fJoUMq/cu8Cvqyl8LGawLsnMbwpTmJtMYragwkBeDQ3Jsfl+YgtGEphITUig2cuBjEbOS6/9O1LfZiPnhCvF64KGIGWM+MukP9pLZBCfOSoeGr4iGt9Ln0uIGAPJ/vReDwlQPmZszaBqOa3aeLkQQFLnOmVqrFKudiAe91SuzyZb4ozkAe3lBhEfS4slWoLzN+kwTQQ55XlVv2LFErJoc4E4lzqCKBfX6udB0RzCdgBapYHND3mRIwdIE/OwqiBuGrrc/47LcsZdKh3r9gECgX2IRzc304wD4T7Ga2BuNlGQ4fQH+jxgVmTwum+Htd8q7bynt27MD5wQGx5Tjm7vDaDGv1p9SY+15P48PS6BLVr4cNSKdo6kJmHfrydFX/fmBETiDmac0nnJetAui3cJsz0qBOkTpX6PutArAJttku3jMfvy3HJ24y0lqMspdz20N9epzeZHwCEIxA/CO4nh20DUV5S/Nm4tcmEZJXMewhjGciLs+bAW0G0BcYv/+DbAtFO/QZeQnCT7GU5XAAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

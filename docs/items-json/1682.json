@@ -1,7 +1,7 @@
 {
     "id": 1682,
     "name": "Diamond amulet (u)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "It needs a string so I can wear it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xs3VW2sTQRQH8M036FNf+rKQh0Ce/FT6BRS8IWrVqqgoagUVLbU0jVJtLTFeGpJQ29jWe2sVH8QLPkgpfoRj/xv+m7MnszGbrNKBw25mZjO/nDk78byd3zLiDtf4P28ZeTB+RKbHDgdx7/YhKd48GAQR9blzUps9K5WZMw6U/RF9w5sgogBiWMz8/RF5fPdkZGF8xpiNKCoRMiOzd462oXAFhEFQuTgsc5PHgrm4ukCYr9HrS+PybuFGbyiCcM/sEPR0+lQA4tw4EJ5bWxyTjeXCdkwFIKyxy/eDsKub1kw7fzVBWNQFKhWOhyDcu0ALpfMREO4JsqublolsAxZiceOzBWFxILi9caCl8sX0QMwS+lwgZpIgZM2CXjzRoEIyEOvCgrC4BemC7gRaeXYpAnr//Fb/IPQDRBQziTl8e+JAq/OX0wUhANAgIhD79g7Int0Dwb0FYe6b2mgIWm9MhJjEII3ClxOEeeWSL8XCkDSq1SAO7I8Hva1dc4Ls6jGtlX4XCGOvX2alXvNDDOL0yGCQKYy3gerXewU1zyBkyAXC+M8fOfn8KSerK9kICHFiuB2FHxEBqUPRrm5a85V3gRAE/d7Ky/dvOfm40Q4avToo+bwXgpCdVEFEIbAATlzM29rMy9cvOfmwlpXlRlaqFV8ezvgyOTEUyU6qIJ0lXAliHSE2f+UDFOqJfbZ+Fh9dUKCpENMVCG+IC8S/A4IARz8RCGwrntEgzMXfhs5Ql9lBa4FsHfFVJgif9QnNOtMgbhf+NlIDEYV+LEAQxvWhiXudSQ3CKa1BRNnVHa0Jcm1bryDMf1W5EoJwBiU4h6IgvW0ahCv67XZZEOB9g1CsfwNhMfS5QKw1bldqILtt6NcgW9A8q/Ac5wKEVz4C2j6DEp9Drm3TIL7ycSBdP6mAXNumQRhzFTQC83T99AlCax10ncLWD8OCcChqECMByPN4rHcKC9Sh6ycVULfNIrvBMlpz/1OzSFfYZ3Z0+wOQQNQjAblyfgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xs3VW2sTQRQH8A2llISQz9CP4Lt+AAXxgqJVq6Ki4hVEUUqx1BqKl1opaRWVhrSEWkpMKV7xWhV8E0XBJx+Kgl/jyH/Df3P2ZDZmk7V04LCbmdnMLzNnTzxv7beUuMM1/t9bSm4O7pDrA9v9GL20TfIXtvpBRHnikMyMH5Ti2AEHyv6IjuE1EFEAMSxm+ka/3B3dG1oYnzFmI4yKhUzJ+OWdDShcAWEQNJXvk4nhXf5cXF0gzNfoNwuD8nLufHsognDP3SHo/rV9Pohzo0B47tX8gCxXr8j76lUfhDXW9fb6YVc3rbbt/NUEYVEXqDCyOwDh3gWaKxwOgXBPkF3dtFToGLAQkxufLQiLA8HjjQIt3DmaHIi7hD4XiDtJEHbNgh7dOxaAELFAzAsLwuIWpBO6GWjxwfEw6OHFzkHoB4go7iTm8O2JAi1Nn0gWhABAg4hAbNrYJRvWd/n3FoS5z2ZOB6C3laEAExukUfhygjBvqpCW/EiPVEolP7ZsjgY9nz3rBNnVI1p9+10gjD19nJHybDrAIPb3d/s7hXELelE+1y6oVoOwQy4Qxn98z8qnj1lZWsyEQIg9fY0o/AgN0kXRrm5a7ZV3gRAE/fmdk29fs/JhuRF05lS35HJeAMLuJAoiCoEFUHEx79dKTr58zsq71xmpVjJSKqbl9q20DA/1hHYnUZDeJVwJYh4hVn7mfBTyiX02f+YnjwQgVGliWgLhDXGB+HdAEODoJwKBY8UzGoS5+NvQO9Ti7qDVQTaP+CoThM+6QjPPNIjHhb+NxEBEoR8LEIRxXTRxr3dSg1ClNYgou7qj1UCuY2sXhPlPiicDEGpQjDoUBulj0yBc0W+Py4IA7xiEZP0XCIuhzwVirvG4EgPZY0O/BtmEZq3Cc5wLEF55DUINil2HXMemQXzlo0A6fxIBuY5NgzDmSmgE5un86RCEVi90zcLmD8OCUBQ1iBED5Hks683CAnXo/EkE1GqzyFawjPrcVWoW6Qr7zJpufwGLp9XRk/SHuQAAAABJRU5ErkJggg==",
     "wiki_name": "Diamond amulet (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_amulet_(u)",
     "equipment": null,

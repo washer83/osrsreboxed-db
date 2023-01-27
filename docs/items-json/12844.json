@@ -1,7 +1,7 @@
 {
     "id": 12844,
     "name": "Voice potion",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-23",
     "duplicate": false,
     "examine": "A 'voice of doom' potion used to deepen your voice.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC10lEQVR4Xt2XW1NSURzF3d/Ej2DTmzZq5RUQvCCpeIzQxAshxE0BUUMlE0XxljQ1XZ56sJqSfGh6aPpgK//7zD4ct77UcDYzrZk1zDDA/rH+a+8NDQ3/hxiuuq5i2Fu3YzV5H5FACzRPU72hGH5XAvj1dZq7XBzAZqa7nlDMgPn5eRInhX7kljo5UFNjo2oovTMC6MeZH0dbTj6+OvSJQdP88PmmjHQuPvpQyjuwHLsLu90Fp2tIJRRDIDB3zePaIzwY0TA4NILOLpvK0TGEFsLcCwsRw16vDx6PFzabEy132tQCJRJJw7F4AtFoDKNjE+hzDqG9vQNNt26rBCIxnH36gkrlAufn3/HtvMLH1dVtN0pNMEqBgsEQUqk0MpkMN42rp6evHjAkdjmmONLpDLcAov4oHpUQw4dymSeUSuumkdkd/Whtvadyy5MYjnd28P701DDBLUUimJuawsjgoMqUGLbW1vDu5OQKUH5lBcvxOEIzMxj3eOB26l2S322BGF7u7nIgYQIiyNXFRYRnZ+HzelWlxLCdy+HN0eEVIDI9n8ukEXsSxOOHE6pS0tN5e3zMbQYqrK9jM5tFMhzGrN+vIiXGF319eGAAmb27scF7lI5GEZyeNlIacDisSonhsFDg4yLLQMX8Ju9RNpnkxQ74fZgYHcWwy2VFSownUC7tG0AymAB6llrC0/l5vv0nNQ1jbrcVKTGUXmzxcclAwvvP87zYG9llJMIhK1PSdxaVmYDMNgMRsCg2HZBySm6nfqXIn/4PYvzbvzooXQMygx1sbxvFpgPSwpT0a4KAhGUgMhVe9IgOyJtS6uvtrV1KZqCbwAha9IgOSJESHQGUUE9Hh5FQTVIq7xWrvtxtZDMcdUzuEcHQWdTW3FxLGCH9VyAlQYub4WQgASN6YwGMLv0DxX8u/RoxErt8pGITDF0dMkjNYcyqLlCFk60E5CaZF5Ytv/Zv9Qcri2MAfA22OwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xt2X0U9SYRjG/f6ELtNZusIEMyA6QICipYQoGKKhYioEhKEnyBSBVq25auumrXXVumrWnbL+wSff7/Qdj0du2jgfW+/2jI0B34/nfd73nNPT838Uw3l1tRgKK9ewNHsF06HLuH3zUrehGH5+CeHH5yBXNW9HJjnYTSimw3z/5IeavYHlxFUO5BoYkA2lZUYAffvoQ3l9iLevC3liiCdSSCbTujtfDxWU1mxYiPbD6w0iEJyUCcWwurpxQXPxFKYjcYQnInC5FJmtO52uYomrWNzSFZtN4v5UDIoSgG3ILheoUt3VpaoVlMsqojPzuBuYgGPEib4+LUuSgKgYjo5+odX6jZOTFo6PW7xdbrdXDzXBSAXK5gqo1Q7QaDS5qF0ej78bMFQM29sq6vX6XzX0/EhulSiGD80md6h2UOeilvl8Yxi2j8oceSqG/XIZ70+dESK4xbk5TI+Pwz2qAUlyiaG4tobDWu0cUD6TQXp+HtHJSXjdbtxyaGNv/rYFxXCws8OBhAiIIDOpFGJTUwgoiiyXGErr63i7t3cOiETvbzxaQuJBBGG/X5ZLmjvv9ve5jEDPNjeRW13BwmwM90IhGS4xfuibl7s6kFHbuSzP0VI8jkg4rLs0MjxslUsMe1tbvF0kM5D6JMdztJJM8mBPBAPwezxwORxWuMS4A68qFR3IDCaAHi8uIh6J8PEf8/lwx+m0wiWG6tMib5cZSKhSyPNgZ5fTeDgTtdIlbbIozARklBGIgEWwaUFa6BLj//71i+oFICPYbqmkB5sWpIUuaZcJAhIyA5Eo8CJHtCDbuWS32TrnkhGoHRhBixzRghQu0Qogh64Pao9HHbotYWg8V3XRtJGMcJQxc44IhnZRf29vJ2FEaXeB5AQdboQzAwkYkRsLYLTSflA8c2mXEQFFrxRsgqFLhxmk4zDGOjvgDM4sKSDtyniwWebP/mv9AU7P999kcW9hAAAAAElFTkSuQmCC",
     "wiki_name": "Voice potion",
     "wiki_url": "https://oldschool.runescape.wiki/w/Voice_potion",
     "equipment": null,

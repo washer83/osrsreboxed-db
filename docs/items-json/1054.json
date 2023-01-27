@@ -1,7 +1,7 @@
 {
     "id": 1054,
     "name": "Green halloween mask",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-10-31",
     "duplicate": true,
     "examine": "Aaaarrrghhh ... I'm a monster.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3Wz08TQRQH8O1/0FPPnD158ejRmzdPHvBgAl7qwcQeUDBFgwLxRw1G8UeUFNKCWtum1lZbQhvs+iuAP5B44eCBv2Pc7+y+5c3sFLp0MUzyskt3yvv0zZtpLevoj5gwh+n5oY+YKGavicLcqIxXL66KpWdXZBCiXbktWuVpsVyaMqD0D9E33AURCiAKHdN8c0vUX04oifE3numhokIhY6I8nw6gcAWEgkC1pRuikhuXc3E1gTCfozftrPix+vRgKALhnqpDoA+FmxJEc7uB8L5fnTmx9SXvxKIEIcfxgQEZenZtuGWnT00gJDWBqvnrPgj3JtBq9Y4Cwj2B9OzaiCnLgETU3Himg5AcCFpeDsJ8Atm1THQgJJL//G1FXnUQVZJAqBrmzWbu+ajP7zkoHw5EfcFBVKFyPuejkIg3NIHwPDM5qVToa+O+Avr58Xk0oE6zKeYfz8p7qiTfkXh9ajwtJsbc+QT61pyJFoQAQD4vFsXMtLqNKdIjI2I0lVIwqOZG66EP2vy04GNCgziKGnXdtsXrbFYmt05aSly+mBTJ4eEA6HvrkRGkZ+8y3E+LftBB2GV4Fj8fF9YZJ047ccoDnfDimBUEtZ8cFOSeQajQnqBkQqLiZz0YR2kgvEcBsUNRz64Nt1FNIIQCuuSALjgxGJc4BcVAqE6kIEIhkAAnLuYlxhJulQa9CgFCS3hYIF4lXDkonkq4VfKWTlYHARCWjYE67+4y0KKP6QmEHWYC0ddBAAQMEKgQgXD1QKgOvjZ4hXqsDsYuSO8jvB4AoToI9BJVCSBtufC1ERmIUHgdCQDijb2z81eUiguiXi+IoaFzSnUIhFOagwilZzcMF2Ratm6g7e0/skqNRkmpDoEwf235gQ/CGRTiHFJBfNk4CFcCbf3eEOVyTqysVJXqUP/0DcIu2w+EZNRH62u27KF2u6ZseVquyED6suF1DkKju30QDJoLELa8AnLOoNDnkGnZOAj3/DcQTnE6PGk30txIQKZl4yA84z9LOAjzeP/0CcIILoEpOIaHDsKhyEEUIUCWRcf6XqEDefD+iQTU69CRvWApduf+p6EjTaG/50iPf6jMPHGLygcAAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xs3Wz08TQRQH8G2aXj158iIXL140xMQQPNSDib2goKBBgfgDDMaIRqMhVVKUoFhsUqs02pSAabBpFGMCaDQqxiMXT/w7z35n9y1vZgfs0sUwycsu3Snv0zdvpnWc3T9iZA/b8x0fMcqmz9DUaKeKyfunaeLuKRWMqOQv0XxugGan+y0o80M0DXdBjAKIw8SUn12k4mSvlhh/45kZOioUMka5h2cDKFwB4WDQq4nzlM/0qLm42kCYL9Hfa2n6unBneygG4Z6rw6A3Ty8oEM/dDIT3fauO0uriOP1afKxAyHG4pUWFmd0Ybtn5UzMISW2gwqNzPgj3NtBC4bIGwj2DzOzGiGnLgETc3HhmgpAcCF5eCcJ8BtVmBqMDIZH65y/y6mqCuJIMQtUwb2Twqo/68HrIByFCgbgvJIgrlBvP+Cgkkg3NIDwf6uvTKvSxdE0HvbsXDahaLtODWyPqnispdyRe7+/ppt4udz6DPpWHowUhAFDPs1kaHtC3MUd3Rwd1plIaBtVcmb/hg368H/MxoUESxY26XKvRk3RaJXf2OVqcPJ6kZHt7APT57U0ryMy+yXA/LfrBBGGX4Vn8aJycg/U4UI/9HmivF3ucAOhL5fZ2Qe4ZhAptCUomFCp+yINJlAHCeyRIHopmdmO4jWoDITTQiTroWD1a4wqnoQQI1YkUxCgEEuDExbxEV8KtUqtXIUB4CXcKJKuEqwTFUwm3St7SqeogAMKyCVD15RUfhFOaMQ2BsMNsIP46CICAAQIVYhCuHgjVwdeGrFCD1cHYAJl9hNcDIFQHgV7iKgFkLBe+NiIDMQqvIwFAsrHX1//QdHaMisUpams7olWHQTilJYhRZnbLcEG2ZdsMtLb2W1WpVHquVYdBmL80e90H4QwKcQ7pILlsEoQrg1Z/rlAul6G5uYJWHe6fpkHYZf8CIRn30fJSTfVQpTKjbXlershA5rLhdQlCo7t9EAyeCxC2vAThDAp9DtmWTYJwL38D4RTnw5N3I8+NBGRbNgnCM/mzRIIwT/ZPkyCM4BLYQmJkmCAcihLEEQLkOHysbxUmUIbsn0hAjQ4T2QiWY2Pufxom0hbme3b1+AvYRlZOxUCaFAAAAABJRU5ErkJggg==",
     "wiki_name": "Green halloween mask",
     "wiki_url": "https://oldschool.runescape.wiki/w/Green_halloween_mask",
     "equipment": null,

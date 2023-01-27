@@ -1,7 +1,7 @@
 {
     "id": 20764,
     "name": "Ardougne max hood",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-10-13",
     "duplicate": false,
     "examine": "The hood worn by only the most experienced players.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xt2WTWsTURSGO/+gq2yyGcgiUAiEQAihBFpKCKVBLAmWGiL5IG0JCIr1A6RSqMVWK4hLV10p/gIpKsWV6F7cCy7d+AeO89zbk5lODOZj2oAXXlrae848855zz52Zmf9nOeJr6suRK1dvGuXzq9OGcqRSuSMrK5tSLndlcak+TaccWVt7YIBKpbaBQriUjOcuG8qR9esPDdDq6i3jzNtU3IAtLKxLLlc2QGnXvQwoWxKA0Hb1WL7kEvIp68qrubg0i3tSKFQlm12+DJcsSL2+K0/bH+VHISnf8gn57AGdekDHHlBtcUfWCvdN6VKpwkVC2Z550jwxMJtbL6TbfSnf5y3Qh4wrxWKjp+r8tpRzW5JM5i8CypHqtXuy33gnR51TA3OUjMlBIia/v76RXyf78vN1qwdDT6lwKZHIRA1l3TlsvZeNjecG5HFAbjxuVI/NyronGlu1nO30gCJscse4gzMA7J5JQYJSqEpsxjQ30rJFCoQ7O+7fQTjuDMYwmEKVMs0ogXx37rqzvQfyIPpFhyJADElKq3tacQulV0pkQHqqXHfOzBceQH8ABAjDERBGQq32yIwFdKOxZ0E9qAjnkmMamXLFYgmTWGFwhksVZ4ABIKhmc9+CeuXTmRSBSxbotme/AoVheCjOtNoH59TuPDM/6SdOGvERuGSB6AdKxj01LJCKfcQq0IQuOeZNKRNvqc08ChB7gg5FAoQzzBPA9JjTzMMA0V/ERjQgLRAJ0+klcx0EgbhS9MINgyBi+R9NTY4J+8jpJSURQOrQMCXjlCF+B4j4CcpmYWhodQgxg7SHwi4pAOLY6zxiL6eTstPcYwMBokAkpAdIGixb0CWdP0DgmA5KgIjTHEzxMcrmAyFOF8m0bMGTpi4FQQDkb7is39rEKgwOjeiSD8S1gRsKBFz4gh0kwBSIPgoChZ/4j+WYNwaIL0MuVv9Da3gpkOmfM8ixgUimQOFkw4i9GqdAE34b+QmDsm8/zBocPyYQ63zSoEPhnf2rP3a0+IHL74nRk/XHjhY/YE2SbNzYP5bkrmOsUeAMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xt2W22oTURSGO5QhTAgNpSGhKT2kJUoTSZtgTvQAgmI9XEilUINVKwjeetdLEV9BKEihF94J+giCj+CFL+CdL7Gcb++uzHRiMIdpC274aWn3WvPNv9ZeeyYm/p/lSKArX45cu37LKJdbvWooR0qlu7KysinF4rbML9Su0ilHKpWHBqhQaBkohEupRPayoRxZW39kgFZXbxtn3qcTBmxubk2y2aIBWl9augwoWxKA0E75SL5kk/Ip48mbqYQ0Fvclny9LJrN8GS5ZkFptT563TuRHPiXfckn57AOd+kBHPlB1flcq+QemdOl0/iKhbM88bRwbmM2tV7K9/Vq+z1qgkxlPFhfrXZVnd6SY3ZJUKncRUI6Ub9yXTv2DHLZPDcxhypWDpCu/v76TX8cd+fm22YWhp1S4lEzOxA1l3XnW/CgbGy8NyJOQvETCqOZOypovGlu1nGl3gWJscse4gzMA7J1JQcJSqJI7YZobadliBcKdXe/vIBx3BmMUTKEKM404gQJ37nmT3QfyIPpFhyJADElKq3uaCQulV0psQHqqPG/KzBceQH8ABAjDERBGQrX62IwFdLO+b0F9qBjnkmMamXK5btIkVhic4VLFGWAACKvR6FhQv3w6k2JwyQLd8e1XoCgMD8WZZuvgnFrtF+Yn/cRJIz4GlywQ/UDJuKcGBVKxj1gFGtMlx7wpZeIttZmHAWJP2KFYgHCGeQKYHnOaeRAg+ovYmAakBSLh9PSCuQ7CQFwpeuFGQRCx/I+mJseYfeR0k5IIIHVokJJxyhC/A0T8GGWzMDS0OoSYQdpDUZcUAHHsdR6xl9NJ2WnukYEAUSAS0gMkDZct7JLOHyBwTAclQMRpDqb4CGULgBCni2RatvBJU5fCIADyN1zWb21iFQaHhnQpAOLawA0FAi56wfYTYApEH4WBok/8x3LMGwPElyEXa/ChNbgUyPTPGeTIQCRToGiyQcRejVOgMb+NgoRh2bcfZPWPHxGIdT5p2KHozt7VGztcfN8V9MTwyXpjh4vvs8ZJNmrsH26qAchQI2kNAAAAAElFTkSuQmCC",
     "wiki_name": "Ardougne max hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ardougne_max_hood",
     "equipment": {

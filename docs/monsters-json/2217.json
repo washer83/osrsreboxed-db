@@ -1,14 +1,14 @@
 {
     "id": 2217,
     "name": "Sergeant Steelwill",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
     "combat_level": 142,
     "size": 1,
     "hitpoints": 127,
-    "max_hit": 16,
+    "max_hit": 15,
     "attack_type": [
         "magic"
     ],

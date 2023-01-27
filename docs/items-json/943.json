@@ -1,7 +1,7 @@
 {
     "id": 943,
     "name": "Worm",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "Ugh! It's wriggling!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xu2VzUpCURSFO2/QIwgNmkoQIRIUEiKKKIqiopjgD6aRpgmWISUSlqSFBVYkIliUFIVFOBCJiEbRoEGTiF5kxTmhXaNp5yLcD/bsDj7WXvvcoSEJCQmJgYKgf0SFIO1RIWZTImRSYFQ2LKYUQSVtRnXNjJR7Ggn7JCIWJQKGCTGkCE43bCivGLGfNDAxKkWTUo2NMCG5TMZLiuCq4EItY0EpoUc+osHhqglJ51SvR1SGq1ApqkfWp2YStDtUSCjCUYZCUF02IxfQsBV5deNipCKE4DLrRLPoYisLWRW8O/MXBI+VABpbDhQWtQiYu5fF/bq6EHw0l9Aue1m56YXRLjnVcoEY98eS4OVkHrWUBeW4EYWwlp3/TlyH9eAMYk4lE+yX/HcI2kUvbjfdaGQc6Bz4WLfqWSsrfX5Ow94pKhixK/lJdef9Oo7nepjJ0eI/HPtxV5rFWc7O0qPfcCn/z8l/i3V2fWhte/B2EWVrfaoGcX/kF6yPI0Kxz5sEXs8XmFBrz9NLiEtKvxGKdUc0GSHC34noMhISEoPCF2APGul8TNINAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xu2VS0tCURSFPTQqmkSRWGQ+UPGBLzQRHymlaQ4sQ0okLEkspEAqKgRBikJqUFgQOBGEIIiGQaMmDaNBf2jFOaFdo2nnEtwP9uwOPtZe+1yZTEJCQuJfQdA7okKQ9igRsykQMskx2N8nphTBYdqMyrIZKfcEEvYxRCwKBAyjYkgRnKzaUF40YidpYGJUiialHB5gQnaVipcUwWXBhWrGglJCj3xEg70lE5LO8W6PqAxXoVJUj6xPzSRod6iQUISjDIWgsmBGLqBhK/LqRsRIRQjBRdaJRtHFVhayynl35jcIHo4CqK87UJjTImDuXBb36+pA8N6YR6vsZeWmF0a75FQPCcS4P5YEz8czqKYsKMeNKIS17Pw34zqsBCcRcyqYYK/kn0PQKnpxs+ZGPeNAe9fHulXLWlnp89Ma9k5RwYhdwU+qM29XcTzVwkyOFv/+wI/b0hROc3aWHv2GS/m/T/5LrL3lQ3PDg9fzKFvrYyWIu32/YH0cEYp9XCfwcjbLhJrbnm5CXFL6iVCsM6LJCBH+TkSXkZCQ+C98Ap9481bGZagtAAAAAElFTkSuQmCC",
     "wiki_name": "Worm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Worm",
     "equipment": null,

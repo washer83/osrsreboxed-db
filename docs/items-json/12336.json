@@ -1,7 +1,7 @@
 {
     "id": 12336,
     "name": "Briefcase",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "For your first day in the big city.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfklEQVR4Xs3Xf0sUQRwG8LvX4T8H/hEIwhEcIr2zDLGkxCgpjISUEhVPC38hptUdnJg/UkRT6e1M98zy7H3n68ze7jmFAw83NzvLfG5md3avVLr/pWz88R3/56VsNhZGzdr8E5svn0bM6txjGyL2t1+Z1tZL09yc9KD0j7gzPAERBRCjMY31CbP3+bkzML7jmI6LKoQsm63FsVsofALCELS7Om62l5/avvj0gdBfom+OFszvg9neUAShztkh6PvaCwti3xAI510fzps/v+rtrFgQxqhWKjZ6dFWSaeevJgiD+kA79WcpCHUf6GDntQNCnSA9uiplZxkwEC9ufNcgDA4ElzcEOtp9Ew/EWUKbBPF64EwShFnToJNvElQvBuJ1IUHygmQqfX02si0EOv3x1gFd/fzYOwhtj4aH7eCDAwM2D6tVByTrPtBZYzouCIgH/f1pCEIdx/RsSQyW96L1PgXdHC+lmMIghCCNQgjRdbmMAF22ZrwgPXqgdK4HDfLBCAkF51/uf+gVlOxBmCEJwhIhvaBugcSmqEdXJbnls0BZqBAsKghB+1CtFkR1g0UDEUWQRmXBiEHdBa2kmFwg3GFZoLywMKied3ZQOiC5bGjHxqhRWTDOUnQQQpBMNxhBwGkQUXp0T0lAoWVj8sBCIOxBBfYhFySXDW3YcfFe48NpWDQQ7rJuIDyf+A6kcQQRgpw3390dpJcN7RIk34HwAOYGKoN3p8OvUy6ovQcV3od8yyZBqPtACM7jEx59o4B8yyZBOCb/lUgQ+gGE2YkAQnGnPRSJkdEgvEtLEFMAVCpxW8+KBspgJnn9RAHlLRqZB8t0+v6nopG+6HPudfkLYh2iImW4o5EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xs3Xf0sUQRgH8Lu/JBFFksT/fAm+Ew2jpMSwsFBECKUQMfyF5A8EMROVExRRETMC0SiKemUj31m+e888zuztnpM48OXmZneZzz2zN7dXKt3/Vjb++I7/91Y2K1O9Zmnysc3ihx6zMNFtQ8Th+qDZX3tp9lYHPCj9IW4NT0BEAcRoTGW532wtPncmxnsc03FRhZBlszb95AYKr4AwBG0u9Jn1maf2XLz6QDhfon+fTpmfR+P1oQhCn9UhaOfTCwviuSEQrvt1Mmn+ns+af+fzFoQ5ujo7bfTsqiVl56cmCJP6QBtzz1IQ+j7Q0cYrB4Q+QXp21crOMmAi3tx4r0GYHAgubwh0+mUoHohVwpgE8X5gJQlC1TTo6/abFIQUAvG+kCB5QzIPGhps5FgI9G33rQs6fl8/CGMd7e128pbmZpuHra0OSPZ9oO+V4bggIJoaG9MQhD6O6WpJDJb3cn80Bf05+5hiCoMQgjQKIUT35TICdHUw5gXp2QOtej9okA9GSCi4/sfhu3pByR6ECkkQlgipB6VBclPUs6uWfOWzQFmoECwqCMH4o7a2IKoWLBqIKII0KgtGDPoShF2amFwgfMOyQHlhIRAqlLM6aFWQXDaMY2PUqCwYqxQdhBAkUwtGEHAaRJSe3dMSUGjZmDywEAh7UIF9yAXJZcMYdlw81/hwGhYNhG9ZLRB+n/gMpHEEEYJc7I3cHqSXDeMSJJ+B8APMDVQGz04nn187IOxBhfch37JJEPo+EILr+AuPc6OAfMsmQTgm/5VIEM4DCNWJAEJzyx6KxMhoEJ6lJYgpACqVuK1nRQNlUEneP1FAeZtG5sEy1XPvqGmkL/qae92uAXASwCL7f52GAAAAAElFTkSuQmCC",
     "wiki_name": "Briefcase",
     "wiki_url": "https://oldschool.runescape.wiki/w/Briefcase",
     "equipment": null,

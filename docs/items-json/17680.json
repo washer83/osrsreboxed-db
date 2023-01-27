@@ -1,7 +1,7 @@
 {
     "id": 17680,
     "name": "Bowl of hot water",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-28",
     "duplicate": true,
     "examine": "It's a bowl of hot water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADfElEQVR4Xu2VW08TURSFOf+gT30pJvMTfNRIYqJgQAMolHKpjYBUCoWWihJILdQK4X5RTFVugkC5yk2gElBKRC4qxMQftOw+4ynDUGKKLRjjSnbaM+mc/Z291kzj4v4dMaivnKEYMjIN+IugGHJyTBzovCQpoM4MkCG/wKwCYki/qT+LqVFDhpLSMhgMRhUAQ1ZWzmlCMSQmpfCGDkclTKbCI1MyZOchzyjbefjeqIvh+o103kiflYdLCZdhNluQqc9VNJen53J5YLNVxBqKgmzEo9p6XLl6jTezWm0wGvMRH3+Or833SlBaWo729m5cuJigml7UxTA87ENLSyeyDHm8mdvtgd1eCePtAhQXlwYBy9HXP8RBBUyMgBi3x/uiF3fy7/6ygqG62hmcihUWi5XDkE3NzR3IDvtKiJoYPz29d0pKrIoni8FeUYmm5s4QTGpaJrcsNTUjVkAMVVXVwSb24MnbUVRk4Y1q8jWYeu2Bt+0+RnvqMD7QgNYnNj4dgktOTo0dkNNZyyexPDeCgc5i9Dl16H6gxeJEEwa6q/g6MNeI1SkP/PND6O+yIjExOTRF9Y4nlLxZl0MLt1mLpbHHHKi1oYbDvFv6gPXAFt7O+Pn3re097Ozu49PaJIZ72/C0Lh2DLh0eGjUKsBPDHYDQhmTP/GgjPga2MeqbQUeXl0MEAjtYWFgNPnnTfL375Tv29n9gcnoJte4GTDfqMFEvFx2i+JaAi0gyTGGaBmV6DW8kan1jm0/kVc8bvt78/BXL/nWMj8+HfkNTWlhcQ2//CA+7uN5TrYO3SosmqzZSKAZ/l4TFDomfrN6ihSNXBtvc+sabDQ5NHAJV1/uVDfjGZvnBCIA+xXdXoQwUQdgZVp5JvAhMwFEeaFPakEZP0yNQspSukb0E32bTcntoGmIqtKbrIgIRA617JV5rz+UKB7jQJmG2WcdLZMXnkYvg6ckTQHQQgqUs0kEiBtrskbDxUq5wcMeBEdSw+zCQGoayGSEQSYYSFQ5OCUZQYkpKILJK5IbsNaUcwEQIRDoMpYQTYAQlpkRAZJcAIquUuflDGKHjocSUCEjkSACprYoSjNBRKAEkciTyQ0Bqq3KTogojxEI5EpYJIBFqAlJaFUMYIRlKmR9loJVWkU0xhhGS31Hq/CitOkUYIeU/9/F1SjCyRLPflfq+/4qWfgKyH+AQ7nC4mQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADdklEQVR4Xu2V+0+SURzGPXOMMfsfcm2xWVtarnmpJmqQkiiphDcEFFJRJPEGXoq8DInMu+YPurxs2sX6web6pb/tie95O/j6imsYaGs923dwzl7O+Zzv85yXjIx/RwzKmUsUg15vxF8ExWB4ZOJAednZMqhLA2SorbMqgBh0pYbL6BptyNDa2obyh0rbGCoqpc4dz6VVDPn5hXzDrq5umKrrTnXJaKxBjbn+IqAYiu/p+EZl5ZW4rs2BtaEFpWUVss2l7rlc3bHqSDcUQ5XJjHaXF1rtDb6Zw+mC8fETZGVd4eOGRhvs9nYER0LxZ06GPqViWF5eh78/iPJYh2gcCIzC7nDDYDChqckOh6Mdr6PzHFTApAmIcXsmJyMwm5/+soKhp8cXu21NaLE5OAzZ5B8IQm9I9EpImRg/Pb13bDan7GaRZW709g7HYYqKddyywqKSdAHRbfLGsmHH8PAIrNZmvlH13UxEJ/x43tGM6dFeREIDcNss6PNLcOImpgXI5+vnnXi3MIuhDhMGzGp0VaiwFPYj4Gng4+3FIWxEvbFnZjDsqcet3Px4F5UrnlPSYm69CpYiFVbCPqwuvIGzycJhFpY2sbXzGZHoKv/+6eAIB1+/Y39zGeODPeisz0OgVo3K25kysHPDHYPQgmTPYniQA7x8NYtnnX0cYnvnAHMLGxh7EeHjLzGgb0c/EJ5ZQZ3FhnCLGlONUtEh7ucIuKQkwRRoM6G7mck3ErUVA4hE12LXfpyP9z4cYmVtGxNTc/FnqEvzixsYGArB2eaJz/dVqeE1qmArUSULxbDi1mCxXcNP1vhABX2uBLb/8ZBvFhydPgGqrLX1XYQm3vKDEQB9iu+1BRJQEmFnWO/U8CIwAUd5oEVpQWo9dY9AyVKaI3sJ3lmu4vZQN0RXaEzzIgJJA733anhteKRKBDjn1CDaquYlshKySkXwdPMEEB2EYCmLdJCkgfb6NNj1SZUI7iwwghqznARSwlA2kwQiSVCiEsHJwQhKdEkORFaJ3JC9d64dwyQJRDoJJYcTYAQlukRAZJcAIqvkuflDGKGzoUSXCEjkSAAprUoRjNBpKAEkciTyQ0BKq3KvphRGiMVzJCwTQCLUBCS3Ko0wQhKUPD/yQMutIpvSDCMkvaOU+ZFbdYEwQvJ/7rPrgmAkic1+V8rf/Veq9BMl02SSizk9hQAAAABJRU5ErkJggg==",
     "wiki_name": "Bowl of hot water",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bowl_of_hot_water",
     "equipment": null,

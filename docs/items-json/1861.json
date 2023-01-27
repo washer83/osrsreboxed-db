@@ -1,7 +1,7 @@
 {
     "id": 1861,
     "name": "Ugthanki meat",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": false,
     "examine": "Freshly cooked ugthanki meat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdUlEQVR4XuWW30dsURTH2/9BT/NyX4YeYogRGclQRq5RMmmUyoymTDOuolL6ndGohxSJRHpIIkkkkiS5ruv+Wev67mPN2XPmzMw5+5w5PbT4vs2Z/fFd37X2bmv7HiXIXl9Sgs5yw3SSTdLh1E/aTQ/QeipOy0N9XwEl6LIwWtFxJiR1NJ2k1WEDKBoOBwUl6Ko4VhHDQHBra7Q/eKDrX2kpFQZCC0vjCVpI9gbVNkE3C2kpKwx0kU/JPAXUNkG3i+NSVhC7tuUTPa12SdDd0kRNblSdz41QeWJQTtpkX1crXRJ0vzxpmxs7d4qDMUpGO1sBZC67erlhqfmBO7GOH34CGRBwBW1qlhvodGZILkdMGNzpDLX7AWSCAAKuoE2NcgNhOWIpYlNn4lGKRwBhwGgCGSBwwymEKt4/CHOqJ+LFHRPELYQqddQ13TFA0BZdCBaPOsKs6Y4/ICy4gzBj1LXdabbg1MvT7hJl8agjzBj1aDjk1h2UMUX1DnEDhFHnMCe6OnTcQQl6XJ2ue4hTIB51hBmjrukOStDTWsb2kEZA1t9j1DnM6jWhBfS8nq05wK04zBh1D+6gBL1sZCtL0C0YWoXswB20Kx2LeHEHJehtOyddQpZUsGZwmCo4AxgedR8uUUGfpTy978zS6+aMYzAsQDjDQHyre3QHJehvuUC/S/P0sTcn3UILEXQVjK8SCM4ACEHmycr1d1eNuvUUlyXo30GR/uwXqtxisIeVqRowzg4/4jWviUZlPr7gkgoEpxiKnyFwSH2A8bce21Vd5p+ZcOqjTHXH+njnb32DsZYdnJodtKolrjgpO7hAXHFSKoSfIP8BKs01EYugWAkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdElEQVR4XuWW3UsbQRTFM0goBomESiSRRptgg0ZMDDE1mJQIWiyK36LogygIgiAIPhQKBUEKhT4IUihIoVAoFPo/3nJmubuTzSbZnd2sD144b9nMj3PPvTORyPMoQc56khJ0UZ2ks0qWjkuvaafwitbyaVrJpZ4CStB1fcrUaTkqdTKXpdVJA6g0MREWlKCbxrQphoHg1ubUWPhAH98VpFQYCC3cn8lQMzsaVtsEfWoWpOww0FUtL/MUUtsEfV6akbKDOLWtlhnpt0uCbpdn23Kj6nLhDR3OjstJK6aG++mSoLuVomNunNxpjCcpmxjqB5C17DrlhqXmB+4kYy+CBDIg4Ara1Cs30Pl8Ti5HTBjcGYoOBAFkgQACrqBN3XIDYTliKWJTl9MJSscHTRhNIAMEbriFUMX7B2HOj8T9uGOBeIVQpY66pjsGCNqiC8HiUUeYNd0JBoQFdxBmjLq2O70WnHp5Ol2iLB51hBmjnhiMenUHZUxRp0O8AGHUOcyZ4ZiOOyhBX1fnOh7iFohHHWHGqGu6gxL07UPZ8ZBuQPbfY9Q5zOo1oQV0v1ZpO8CrOMwYdR/uoAQ9rFfMJegVDK1CduAO2lVIxv24gxL0Y6sqXUKWVLBecJgqOAMYHvUALlFBv/Zq9Lj9lr5vzLsGwwKEMwzEt7pPd1CC/h7W6ff+Iv3cXZBuoYUIugrGVwkEZwCEIPNkVcdetoy6/RSPJejfUYP+HNRb3GKwL+9LbWCcHX7Ea14T3cp6fMElFQhOMRQ/Q+CQ+gDjb322q7WsP7Pg1EeZ6o798c7fBgZjLyc4NTtoVV9ccVNOcKG44qZUiCBB/gM0CHW2KxfecQAAAABJRU5ErkJggg==",
     "wiki_name": "Ugthanki meat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ugthanki_meat",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 2021,
     "name": "Brandy",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-12-12",
     "duplicate": false,
     "examine": "A strong spirit best served in a large glass.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACL0lEQVR4Xt2Wv2uTYRDH8/wHmTL3T3BxcHCQDh10EAoWK3Xo0sXFwcFBcOjQwcHZqUM1VQhNRbG1FIwFIZmaUih2kBZJSUmbNE1ifvOV73Nc8/Sl6pL3eYMHR8KbQD587i53sdj/FQaSIxEGWx/nkFp8MCpQBhupWSRfTVmga2NjUUIZPL0bx7PJhM0nd+JRWzJ4fi+B+SnJx7cFKEJLBi9mEliYlhwBIIbBy4dSMoWJEEgMMV2g4Lc8hfTPSAGxkRWIcLO3IpsyGXc2sgvEpp65GQmUsSUiSL/ft1mrVlEsFLCRTvsunbEmaKTX612kBTo6wrfNTaRfL/m0ZOw/MvvHBaqfn6NULGI7m8VaKuXLksGjCVkVBOp2uzYJ1KjVcHJ8jP3dXWTWPmE1+caHJSnXVUC/6nWUSyX8PDhANvMFn1dWfFiScilQp9OxSaBmo4HK6Ym1xLJ5sCTl+hNQq9lEtVKxlvbyeeS+ZsKeOCmXC9RutwdArZadtLNyGT/2vyOfy2FrfR3vl5NhWDKYG4//FYjvOWm0VDg8xN7OTpiWrgaiFQKxsfnKxqYljr9r6cO7t8O29G8gJhtbLfF77DldJUM+S4xdnMGmdoG0j/hcz1ldtkOG0RAoWuJi1bNVr0W9HPmMn9NoiDAag9KpJReKyR1Hk/dveDlnL5fOPfAVjHZCLlUwLv9BulB6E01ej/mw48ZghSgQ7choS3qy48bgx4MQEcBIBAEigfAVvwGExs8ID1ea/gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xt2Wz0vTcRjH92HsPwgCwTAiAhEzCbx46NLBS4eggwcPHfwDPHqp7Ac0zIiCrAQP+ePQYTvKEASFvCUeYh42SGOsNHOxZTMnvOP9eXjcxy+ml30/3+EDDxvfDfbi9TzPnicWO1thINkUYTD7qhfJ4WvNAmUw8bQHI0OdFqirrS1KKINbV+K43Z6w2Xc5HrUlgzsdCfR3St68JEARWjK4253AQJdkEwAxDAavS8kUJkIgMcR0gYLf8hTSP00FxEZWIML1tEY2ZTLubGQXiE3d3RIJlLElIshBrWbzx+YmctksJsbGfJfOWBM0UtvfP0wC5dfW8GFyEs/u3/Npydh/ZPaPC/RzawtfcjnMpVIYTyZ9WTK4cVFWBYH+7u3ZJFBpexsb+TyWFxYwPf4az0ce+LAk5ToO6NfODgrr6/i8soLU1Hu8Gx31YUnKpUDVatUmgcqlEopfN6wlls2DJSnX/4Aq5TK+F4vW0mImg/TMdNgTJ+Vygf7s7h4C/a5U7KR9KxTwafkjMuk0Zt++wYtHD8OwZNB7IX4iEN9z0mgpu7qKpfn5MC0dD0QrBGJj85WNTUscf9fSyyePG23pdCAmG1st8XvsOV0lDT5LjF2cwaZ2gbSP+FzPWV22DYbRECha4mLVs1WvRb0c+Yyf02iIMBr10qklF4rJHUeTV897OWePls498BWMdkIuVTCO/kG6UHoTtZ+L+bDjRn2FKBDtyGhLerLjRv3HgxARwEgEASKB8BX/ALSwjS9I3HSQAAAAAElFTkSuQmCC",
     "wiki_name": "Brandy",
     "wiki_url": "https://oldschool.runescape.wiki/w/Brandy",
     "equipment": null,

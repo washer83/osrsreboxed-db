@@ -1,7 +1,7 @@
 {
     "id": 8026,
     "name": "Ranging pedestals",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4klEQVR4Xu2V20sCQRTGHcynbmJWUEGWRdCTSLdNhExiiSAULRFTUFGh7GJFVtDlSXrrqf+j//CrmW3ddd3F2ctD1P7gY5fZOd+cc2Z3x+NxcXH53xD0Sg/tHK30GPRcF4L3Tge1Uqmr/sUIRsMbGF+S5P+5UtFxKu182ff2vKny5ILgvtVC5vAQ+8kkUgcHCIiX8O/W4Y+dYDiaVrSWMdTYdgljQgGjW1R5vLx9sESO02nmS9eJhEI8SRGcVqtIxOMIzc4iGolAEI/gm16GbyoM3+TitxYwNBnCUFBHE/OSAnPw+mfgHZ+GdySIs8s75kn9qC+95+wSwXO7zTojS9t6q6KdiQlC15N2iLtLasmBdkR91MUp45yojUwFGtJfnHYGBwSPNzc/VdlBeg0cKI7g9eHBASPS/dTt+TCUVmuf8GPxvdHH7rZJ/zX7RXVRts1aUgR3VxfOJtSs11HM5djVXFJKrEMJEXSuRTydJnBbiaFZEEwYS7GPjR0WR+/NFWMIQaNcRj6bNXkGEXx+FFEpFFicQ5895VclRHCR3+tJKJtc52w9QbsWZ1vdKpndbkMI8uImUjtRiMIqEusrqKWlU3qwcX8sX9xAeg9a2ZTP2GrcAGQjtbRzjLAa5+Ly5/gClGavN8FUY8QAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0ElEQVR4Xu2V3U7CQBCFO4IiqCQEYgUExRoIYkSQgEQ0GEXQKiQab8R4ZbzxVXzno7ulUAoN258Lo/2SkzbbnbMzs21Xknx8fP43hGnNwzzHrHksej4XwvtwiGatNtbsYoTldB0r25pWR1cmNs5knq/79i7bBk8hCPedDg7yeexlsygoCoKVDwRLLyDlFrTdMujcUoH9BwQUFUt7PSzlunh9++SJHBaL3Jetc7y7K5IU4eL0FJlUCuFQCPFYDLJyAopmQBtp0HryR1ugNRkU2bRWOA5pNQZpJQppOYLbrso9mR/zZfeCXSI8qSrvjC5z652KdSYpy2NP1iHhLhmlB7oR8zEWNxkXxGhkK9CS2eLMMwQgDLrdUVVu0F4DD4ojPPf7HhjR+FN358OZtNr8RByH78183G6b9l9zX9SYybY5S4pwd33lbULtszNUj4741V5Sk1iPEiIMb3J4vMig10iiXZFtGGuxg1aax7F7e8VYQmjV6yiXSjbPIMLXZxWNSoXHefTZM35VQoSr8s5UQqVsQrD1BLWZ4lvdqdndbksI5dwmCuk4cnIUmcQ6mkXtlF5sPBsrFreQ6YNWNxUzdhq3AN3IKPMcK5zG+fj8Ob4B67KB4gF54SwAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

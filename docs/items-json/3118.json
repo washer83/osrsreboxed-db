@@ -1,7 +1,7 @@
 {
     "id": 3118,
     "name": "Black claws",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": true,
     "examine": "A set of fighting claws.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcUlEQVR4Xs3X+UobURQG8OQ5/CeP4PNVKdqiRamitLSgoqLFuOCGWLVViLhXxKXi61z9Zvgm3xxPkplkXC4cZjK54/nNucvEUun9t3Lww/v+xVs5rM99DKuzvVGszPSEpakPURBxuPU11DaHw8HGkIOyD9ExPAYRBRDDYvbXvoTd5YFUYnzGdzbSqFzIctic73uGwhEQBkE7S5/D1kJ/1BdHD4T+ir4/nQu3R5PtoQjCOatD0J/VwQjEvo1AuO//yWx4uKg+xWIEQo7uSiUKm920uOx8aoKQ1ANtVz8lIJx7oKPtkRQI5wTZ7KaVU8OARJzc+Kxl96IR6HRnrDgQnpwJK11dTUNxCjrfU1A1H4jzgqAsEC8U9e/veAp0dzzdHqgdjFehy/1vbweyMCyA69qPBHR/9ivB5AblRXl9ce2m9tMF2ewNWn3F6DzSsFWwEL2OCt0cTrQLivcgVMgDeU/PHd3D4Rx7Vwokm6LNblq85C3Ig9hKAAQ47sPf0OoUCsqCUhju09VVKEirhGMrFGEWdPJ7VECLCSYTCCvMA/EnhgVodTwQqoPXhlYoY3XQ6iA7j3AdCTR5KxSHC6+NwkBE4ToS4K2NJJqcR841O3+wSyuIKJvdaTHIG7ZmID3XNz37Xx18T0DYg3LsQ2mQDpuCcMR1r0oKArxjEFZZKxCS6aqzVdLhKgxkhw3XFYT5wt0ZGyLnD+5jX4Cw5FOgpz0o9z7kDZuCcE4Qd2i+iLka2bcQkDdsCsJ3+l+JgtBP50+HILT6C7JZKEbDgrApKoiRA1QqcVtvFhaoofOnEFDWZpFZsIx631dqFumFveddt0d4FsTqJVoLtQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xs3XfUsUURQG8N2/xG/hR/CbpCgZJYmKhRFBJMoiidqy+BKCmEWFgrGoLGkEkaIo+sluPDM8s88cz+7O7E7lhcPMzt7x/Obcl1lLpfvfysEP7/u/3sphc3EkrFeGo6gtDIXq3IMoiKhvT4aDrYmw//6pg7IP0TM8BhEFEMNi9jbGw6fa41RifMZ3NtKoXMhy2Ho7egeFIyAMgnarj8L28sOoL44eCP0VfdVYDBeHb7pDEYRzVoegL2tPIhD7tgLhvsvjSrg5XQm3p+8iEHIMDgxEYbObFpedT00QknqgndWxBIRzD3S4M5UC4Zwgm920cmoYkIiTG5+17F60AjU+zhQHwpMzYX9fX9tQnIJOPj9LQIhcIM4LgrJAvFDUj6/P06Cj+e5A3WC8Cv3cm/1/IAvDAvh98DIBXX9fSjC5QXlRXl9cO/v2ygXZ7C1ac8XoPNKwVbAQvY4KnddfdwuK9yBUyAN5T88d3cPhHHuXgnRTtNlNi5e8BXkQWwmAAMd9+BtanUJBWVAKw326ugoFaZVw7IQizIKOP0wnIOzSxGQCYYV5IP7EsACtjgdCdfDa0AplrA5aE2TnEa4jgSbvhOJw4bVRGIgoXEcCvLWRRJPzyLlm5w92aQURZbM7LQZ5w9YOpOf6pmf/X/svEhD2oBz7UBqkw6YgHHHdq5KCAO8ZhFXWCYRkuupslXS4CgPZYcN1BWG+cHfGhsj5g/vYFyAseQVhD8q9D3nDpiCcE8Qdmi9irkb2LQTkDZuC8J3+V6Ig9NP50yMIrfmCbBeK0bAgbIoKYuQAlUrc1tuFBWro/CkElLVZZBYso9n3HzWL9MLec6/bHy5G7zAmKJ4TAAAAAElFTkSuQmCC",
     "wiki_name": "Black claws",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_claws",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 23652,
     "name": "Mage's book",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-18",
     "duplicate": false,
     "examine": "The magical book of the Mage.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADW0lEQVR4Xu2W30tTcRjGPf+BV7vZzcALQQikGxkxmAwZwyGKQ1FJgm68MMFSUrDQ/IEri7X8kZlhiKbGYGpjLRnNH6kpYiEREf0tTz7fw3eenZ2p55Tuol54OezH2fez53nedyso+F//ZinI7LyWgqmhcoz1uTHSfQ2DHc58QGUqsjLrR+SVDwuTXjwfcCPU47poqEyAW8UOtJcUoVPXfE42FfsLUPosqH2jyI6bRQ60FKutB+q+UpwFNfPII+4tdTisQikI9jgRvOsUktc57Gg8bsLkApJQBNJDSRiLQArmJ7wYG3ZnAUkoAkmoXEBGUPqTzlkKYnN+zIQ9CA+6EL7vEuE8DcjINj3UH1imYGO5FktTPkyHPAKIo6wF0tpGmCNnkWh5uHysheL7LKqk4GCtHonFajG6hCIQwYyA9LZJEF57NEpps6Q/8YxSEJ2sxNZqANGZSgFFoNknFVmWSSXY2hxJKAJJKD5PeMsqHSYbkIzUCCiGnEAtbW1ZGWITQJsjvUoSStpmSaWNxVp8jtch/qZKhQp5xT7RA0kYo2BLGNl8nfdZVunrxwakojVpqKVRXxaQftL040+Q3lL1mmmbaSgF+9F6EXBax5BHxn1iBZwGpB99CcSWtvFLPbhdZg3q22aTCDihqBShcu2hXEBalfge/rZxavmPwCSUgu+fmoR1hKJ9sWm/CLeROmcBsbl0OSDTQXWdmAy5Gm5C7Sfq01AMuFWglSm/WCvMIz+HcKZV+rF9XVhHqJ1YAInX1Wi903EuoOEKG55V2vCy2o75gF0ASRiqxEyaVunwXYOAonUMOaH4YUZAveU23HPb0iC7iRA2Y4+RWn6ID5EhxBf7sTrfl4aXMCaAWAp+7jZnQPGbtnd1odtViM5rhWh3FgqQw9Q49taeYjsewvrqCJLRYFo17X7i1HKVmFRHloKj940Cink6Wm8UUJySg+QovqQmxJVqaBehzI3s/qslacu4ZC3YpS0Fv/aaRTNDC2H1PzMPlnmhArSCFg54VNtCPhvG/ScZUgN80hbsknW8kxJN2IkEsDarLknmqLVMtYvW0TItyIuq3ADa1p9kohRsvT1eknM1YnQ5sswPQRjmEa/togGMShFAzIL+8EsCMKrch18SQHbl9fB81W/KtzUYQiSdWgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADW0lEQVR4Xu2W/0tTYRjFvcgYDjEicLjhdJMpOtEZBv0iGGIpiWCh+QVXFqulaWYZGIKGIgpLsaGxMklLDcVEEIMSgiAI+qNOnvfyzru7Td0t3Q/1wMNlX+7ez845z7Olpf2vf7MURHdKS8FARy56WuzoasxBe501FVDRiswMuzH11IWxficettnhb7KdNFQ0wKXMDNRmWVCvaz4nm4r9BSh9FtS+YDHjoiUDVZlq64Eaz2TGQA3dcoh7vfn5RqEU+Jqs8F21CslLM8zw7jdhEgFJKALpoSSMQSAFo31O9HTaY4AkFIEkVCKgeFD6k45ZCkIjbgwFHAi02xC4bhPhPAwonm16qD+wTMHKdAkmHrsw6HcIII6yFkhrG2G+Wi2i5eHysRaK7zOokoKdhTKEx4vE6BKKQASLB6S3TYLw2qRRSpsl/YlHlIJgfwHWZj0IDhUIKAIN38mLsUwqwdbmSEIRSELxecIbVmn3bTkWp4oFFENOoKqampgMsQmgzZFeJQklbTOk0sp4CT7Nl2LueaEK5XeKfaIHkjDxgi1hZPN13mdYpS/vyrEcLI5ATXS7YoD0k6Yff4I0n1Wv0bYlDaVg+0WZCDitY8inel1iBRwGpB99CcSWtvFL3bicbQzq22qFCDihqBShEu2hREBalfge/rZxavmPIEkoBd8/VgjrCEX7QoNuEe546hwFxObS5YAM+tR1kmTI1XATajtcFoFiwI0CzQy4xVphHvk5hEtapR/r54V1hNoIeRB+VoTqK3XHAurMM+F+gQlPiswY9ZgFkIShSsxk0irtviwXULSOIScUPyweUHOuCdfspgjIZvguVkO3sTR9E68nOzA33orZ0ZYIvIRJAoil4OdmZRQUv2ltQwMabemoz0lHrTVdgOwuPcDWm3tYn/fjw2wXFoO+iGra/cSp5SpJUh1ZCvZeeQUU87T33iugOCU7i934vNwnrlRDuwhlbmS3nsuKWMYla8AubSn4tVUpmhkaC6j/mXmwzAsVoBW0sM2h2uZ3mdDrPsiQGuCDNmCXrP2dFK7AxqQHC8PqkmSOqrNVu2gdLdOCPCpMDKBt/UlJlIK1if0lOVIsRpcjy/wQhGHucppOGiBeKQKIWdAffkoA8Srx4acEEFspPTxV9RuwEoG0DmoblAAAAABJRU5ErkJggg==",
     "wiki_name": "Mage's book (Last Man Standing)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mage's_book_(Last_Man_Standing)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 24006,
     "name": "Elven gloves",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "Decorative elven gloves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHklEQVR4Xu2VX0sCURDFvd9E6KGnIIQQH4QkQiKJJEFElFKwkIqoqKgIoz8UEkRf+NaZy3HHu27tBu6+OHDYva6789tzZ2ZzuUUsAmFsoMzD2N7rmx2MP+zw80uBZQJnbGc0Eh08v9j++1jAcARkBlDGtu8fRIDqPj4JCARAXF/N59OEMrZ1exeCorBO2SVjm9c3AkUwDch1ilDGNi6vBArCOUQQiNdSgnJAe+cXtn56Jto5PpG1hmQtpVBPRgCg2tFQtD04FGnHUipuB4Pk1V5ftNndn4hOpeROAIPklXYnJABqIP8Jf0TSyWoEZL3ZssVazZYbDTnXAhS2MCGQA5k99qPk7ivt1mW9Vt2Sc0BpAQrQCYBch3CgUf5gw3UWKN+Y90NwCFA4AowiVEwgI/vvtyiHHIcarrGDUBO8h1Au0U/CysYESosuxgKCnUiAZJwhAOCgoyOsBbYvEwRJjF0plwWKYBSgYgPBUkDxzZEUb08wnLOD2MacuOEEDkqDadeCbY4Mt/fsBt2qBONcwe/4H9aAjQJaLpYm0nBhRyPDdQq7gsXILfKBuMWcLf7TuJ2+YsIgXMv6wlsBUE9fzhas4V5QT9PB5L78//0S01ZrwS1+BugSjnAJWzfHL3jYZmipUJA6Y31pl/QETuhAvPAtdkkcFLaRMNhKukQg/1lzjgBq1vTNAAjhoFDs/JBm5I6Of7fy/CJcY4tIJ74BnJ/OnmqXc6EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xu2VbUsCURCFvV8jiDAUDEsLCxM0xVKwpCgqKqjohV4opA/R//8DN85cjjvedWs3cPeLA4fd67o7z547M5vLzWMeCGMDZR7G9t7e7WD0aYdf3wosEzhjOw+Pov2XV9v/GAkYjoDMAMrY9t29CFDdp2cBgQCI67uVSppQxrZubkNQFNYpu2Rs8+paoAimAblOEcrYxsWlQEE4hwgC8VpKUA5o5+zc1k9ORVtHx7LWkKylFOrJCABUOxyKNgcHIu1YSsXtYJC82uuL1rt7Y9GplNwJYJC83O6EBEAN5D/hj0g6WY2ArDZbtlCr2VKjIedagMIWJgRyINPHfpTcfcXtuqxXqhtyDigtQAE6AZDrEA40yh9suM4C5RvzfggOAQpHgFGEiglkZP/9FuWQ41DDNXYQaoL3EMolMna5vDaG0qKLsYBgJxIgGWcIADjo6Ahrge3LBEESY5dKJYEiGAWo2ECwFFB8cyTF2xMM5+wgtjEnbjiBg9Jg2rVgmyPD7T27QbcqwThX8Dv+hzVgo4AWC8WxNFzY0chwncKuYDFyi3wgbjFni/80bqevmDAI17K+8FYA1NOXswVruBfU02QwuS//f7/EpNVacIufAbqEI1zC1s3wCx62GVrI56XOWF/aJT2BEzoQL3yLXRIHhW0kDLaSLhHIf9aMI4CaNn0zAEI4KBQ7P6QZuaPj3608uwjX2DzSiR+7ME1KVU1F8AAAAABJRU5ErkJggg==",
     "wiki_name": "Elven gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elven_gloves",
     "equipment": {

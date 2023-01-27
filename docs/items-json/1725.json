@@ -1,7 +1,7 @@
 {
     "id": 1725,
     "name": "Amulet of strength",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-24",
     "duplicate": false,
     "examine": "An enchanted ruby amulet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXklEQVR4Xu2X709SYRTHPf9Br3jDm7v5gre96S+z5sxypKQ0a5oZOsmgSZC0gsxSAqaE0gQygeXVRqzaGK3V+gvYN57ndgHv7cfzqPeytb7bGWzc89zPPT/uOfT1/de/K8KfzVYRMutreLWxgd1cDuViAWq5jPeHB3gSCeOGx2MnGGFz7TlexGJYeRBBNpFAKZ/H53odzWYTXxoNFLe3EA0GMTk6agcYYSuZRHr1Kf80p0qzT7Uah10OBHDtittKMOKpYqlh388qyi9NB1BLJZ7eyN1FTLhHThuKeL2wlIT8C20g41W6usGS8TgUp/OvPpIi7O+9MUXHeNVRET5Uq5I+wiIUsllcHBiQeFLCYaXCi1zcR1h0jCcl7O3sIHzHbw3Q1Pi45MGE/MsM7s3NSfoJidrvFvGDCbl0Gv6ZGUk/IVG7dcUPJv4+mp+ekvQTEuHq5UsSBxMqr4uI3w+1fcT8hEVwDw1JAbHoBHw+CR8pEUYGBwUP16KzGl22KjpMhGcPo8JA26mUVe2ui1BV1XbHGH/tSBsXbCOwMDpMxFcMNumnvd6fUGZjUWQv0MdLS1ZGRxfxZYzddGx4GJ4xB65POnDrpgOLs7N86LKVw8LOMorw/dtXLMw7EQxo5rutQbF6YTNLfrycSISVuILYIyfCIScy5xRu3gkHTxHbIm2FSSU1AKOx1Ok1ZBMMU2u53zTD6Hbh/Bk7irhbhN1ivwmk22wHenfgMkH0FKhRd0Hd/32UbAZiav3F+ahBFfL9vKYS652u6wEQU2txr7nwttKB6kGHGXV0XOggpw3zA8mvZ3eYle5RAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbElEQVR4Xu2X70tTYRTHPcS4TPayP8A/of/CQjDLTJcuLNTMTDGzZeBaZoNaK9PKbGyIrCkjHGuZjA3SKcGIUfTCGNGLetE/YfBtz3O7d/PefjxPee8g+sJhg93z3M89P+45q6v7r39XhF+brSLE5h7i6cICVhMJZJ+lkM9m8XprE3eu+XHa7bYTjLD44D4eB4OYvj6J+PwjZJJJfNjextedHXwslZBeXkJgfBzd7e12gBGWwmFEZ+7xT3OqVHtXLHLYKa8XJ4+3WQlGPFUsNez7gYaGH5oGsJHJ8PROXhpD17HWvYYiXi8sJb4LIzqQ8SpN1WDhUAhORfmtj6QI62svTNExXrVbhDeFgqSPsAipeByHGxslnpSwlcvxIhf3ERb9wZMS1lZW4L84ag1QT2en5MGE5JMYrgwNSfoJifR3i/jBhEQ0itH+fkk/IZHeuuIHE38fDff2SPoJiXDi6BGJgwm552ncvurTfcT8hEVoa26WAmLR8Q4OSvhIidDa1CR4uBqdmRtTVkWHiTAbCAgDLUciVrW7JkIhv6F3jPHXitRxwTYCC6PDRHzFYJO+z+P5DmU2FkX2Ar01MWFldDQRX8bYTTtaWuDucOBUtwNnzzgwNjDAhy5bOSzsLKMIXz5/wsiwgste1c6fU6FYvbCZJT9e/kqEuyEngjcV+H0KYvud3DxdDp4itkXaChMJqwBGY6nTasgmGKbycr9ohtHs0MF9dhRxtQir6XoTSLXZDvRq02WCqClQ6b0L+fWfR8lmIKbyX5y3KlQqWc9ran6u0nU1AGIqL+5FF17mKlA16DCjdo8LDWSvYb4B7bQvIi7ZKbgAAAAASUVORK5CYII=",
     "wiki_name": "Amulet of strength",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_strength",
     "equipment": {

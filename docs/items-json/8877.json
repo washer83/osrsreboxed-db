@@ -1,7 +1,7 @@
 {
     "id": 8877,
     "name": "Bone dagger (p+)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-21",
     "duplicate": true,
     "examine": "A powerful dagger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0klEQVR4Xs3Wa08TQRQG4Paf9Btf+X1qiGjUYNSUSLyVm0AoqIUC4lLbksXSohKiIvHvjH1nfLdnDtO6S1fDJCe73Z3teXrmsi0Urn8rmnCE7v/zVjTbK1OmtnzLxtulm2Zz/oYNIo72Hpl456Fp12cCKP0jxoY7EFEAMTSmtfXAHLy55yXGZ9zT4aMyIYtmZ/X2JRSOgDAIijbvmr31adsXxxAI/SX6ordifnQqV0MRhHNWh6CPtfsWxL7DQHjuZ3fZ/PpS7ceGBSHHZKlkQ2dXzZWdv5ogJA2B9qt3EhDOQ6DO/mMPhHOCdHbVit4wIBEnNz5rEJIDweEdBupF5fxArBKuhUCsJEGoGiH4Phw/NySomg3EeaFBSK5BckJrEL5rd3fOHr82Zz3Q+fHi+CBcB4goVlKuSIDcyulXplUx9e2yDXzOFYQAQIL0hEbg+e7xqovuWoL7Fj9LQBcn7nrqFSZBEoVhCIEk5rC9kIStUt3tQd/j50GQzj6kuV+FZKNAckKjfxwvmWazYg6iF4NhI+jo1VVBbg9Chf4GkhMaz3U+vfYqxCohPJDYFHV21dySD4EQIRCu66FCRNE7L9AnFxBRCICw4wKEc7mihmFyrZCsEo4SxERY2qMwqGT3wxMB2kgwqUBYOSEQXwcAEVKrlYOYBPtniPHakBVKWR20AUjPI1xnIqwkidFV4WsD1QEIr43cQETh3klv3TQaL21oDLHyxUrQaeupByJKZw80B9LDhuul9xNJSAwhWG1yaAnCEJ+15xIQ9qAM+5APQmgMgxDsQdwWNAjVGRuEVaaHjcllyFeGBPFNz+HKDaSHDdc5BEjIHZog7lV4jn0BwpL3QP09KPM+pIdNg3A+CiTnTy6g0LBJEO7JvxwShH5y/owJQrs8X0Kh5w9Dg7ApShAjA6hQ4LY+KjRQhpw/uYDSNo1Mg2UM+v6nppGh0M9c6/YblMCwpFhqz0MAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC20lEQVR4Xs3WfW8MURTH8d0/JV5EX4J3ghAEIUgrGvFUNFWkaMpq07Sqrdrsykpt16IiEYQQXtnlO5Pf9Mzp3bXbHdKbnMzTnZ7PnvswLZV2fyuHeMSe//NWDrOTh0Jl4mASM+MHwvT1/UkIsb54JjTmT4f63KkIyv+IgeEpSChACo+pPT4ZVmeO5xJzzTMfeVRfyHKYv3N4G4ojEIVAy9PHwuLUkaQvxxiI/hb9vT0ZvjbHdoYSiHNVR6Dnj04kIPXtBOK9b62J8HPzXvi1+SABkWPf0FASPrtradn1qwUiaQy0dP9oBuI8Bmounc2BOBfIZ3etnBsGEmlyc+1BJAeh4e0Eaq8MFwdSlbgXA6mSAlE1Qfh7HN+tjWQgoi+Q5oUHkdyD7IT2IP7WwsJocnxfPZ8HbdwcHMR9QEKpknZFAkpXzp9K18bC3OxIElwXCiIAWJCf0ATvtzZuJ/G6dTfDfWpczEA/3qb3e15hFmRRDEMMZDEv6jey4Jp36Pv55aUoyGfv0NJfRbJuIDuh6d9ojIdq9VpYXbmcVUagL+tXdwpK9yAq9DeQndC813x1K1chVYmwILsp+uyupUs+BiJiIO77oSKWlx/mgj6FgIQiALHjAuLcrqhOmEIrZKvE0YKUiKXdDUMlW0/PZSB2aWF6ArFyYiB9DgAJUqkMRzHCaoj5bNgK9Vgd2hbIzyPuKxEryWJ8VfTZoDqA+GwUBhKKZ2/aU2Ht2ZUkPEZY+2EV6EPtQg4klM8eaSnIDxv39zzZm4XFCMJqs0MrEEP8sT6agdiD+tiH8iDCYxSCsAdpW/AgqjMwiFXmh03JbdhPhgXpS6/hKgzkh437GgISaocWSHsV76kvIJa8BbEH9b0P+WHzIM67gez8KQQUGzYL4pn9l8OC6Gfnz4Ag2vb5Egs/fxQexKZoQYo+QKWStvVu4YE27PwpBNRr88hesIqtvv+peWQs/Du7uv0GNxG6GOpjw/0AAAAASUVORK5CYII=",
     "wiki_name": "Bone dagger (Poison+)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bone_dagger#Poison+",
     "equipment": null,

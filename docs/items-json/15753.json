@@ -1,7 +1,7 @@
 {
     "id": 15753,
     "name": "Sextant",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "Used by navigators to find their position in Gielinor.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACP0lEQVR4Xt1V0UoCQRRt/qCnXnwJegiCQAQJkUCJEEmiSBCUIgsrQiKpKIxCioKiQILooR7601tnpuvMzs7qZq0bHTioMzs7Z+45cx0b+78Q5GWsEHRSTlGjOENr2SnKzSbiFCXobjtDVxtzHlEYT05OjlqUoOdmjrq78z1RrdUk1RenqTQHMSOvkqDXw3xP1E09Q2eVFO2VZnsViqVKEPW0r6p0Xk3LKsVgmWmHsu5hJytti6E6orcx/zYZmxi1qb7yIxajTq8ro4jMQBCCPMKbpYSYYrpHS5IcYghC/5lOjBuCI4G3KmwTC+rUdIVqedV/MjMTUQjzWsTZ0PlQc+g9EGVa5xb2I3gtcgdVPYOGyEQfclVMVzY0zNL68+J+mZpD/2GiOYKompmtQor/bG06Ieh6f5HWl1R3tcUgJ/7F/tvGDBqHMPzHVXJTMvx9bqSg906ZLhr5AJtcooKy5R7nORB2gt49fBD0drlGp5vzAQ+aovybms+Zc3pcwRTmX+uDoJf2CrWq2a9FNrSFQbYMEsQIIYbxGdLTZdor84Y29Ibch2yGEfRNqM3qy8pne65fdcJWaAgIemwVrUq5e5PJCAUBgu4PinS8zpnqF2a9JkJBgKCnk5JsCY3V9EC7TEFe/irUJrCwvZWTFcNNxCfaBMYgGN95rlnJSLtxCHcWh4b3xGigCDysvG0WZIfHJ36bY2Bnd0EKBbH2lyy0M2FbEY7BmRsKWgzfMjvcYWi/9UfQL4zs1MMjslP/VXwAXR2gUZK5bOcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACN0lEQVR4Xt1V/UsCQRRsiYhCjDASFSsNixJEoyzpA6GkoqDog6KgKBCCoB+iH/rvX81uz93b29PLOi8aGNTd29vZN7PPoaH/C0FexgpBh+UUNYpJWs6MU25iNE5Rgu420nS1Ou0RhfHq3NygRQl6buaovZXtiGotTVJ9NkGl6bE4qiTodS/fEXVTT9NxJUXbpYlOhWKpEkQ97agqnVanZJVisMy0Q1n3sJmRtsVQHdHZmH+bjE2M2lRf+QGLUafXlVFEZiAIQR7gzVJCTDHt/XlJDjEEof8kRocNwZHAWxW2iQVd1HSFannVf9LJkSiEeS3ibOh8qDn0HogyrXML+xG8FrmDqp5BQ2SiD7kqpisbGmZp/Xlxv0zNof8w0RxBVM3MViHFf7Y2nRB0vTNLK/Oqu9pikBP/Yv9tYwaNQxj+4yq5cRn+LjdS0Ptlmc4a+QCbXKKCsuUe5zkQdoLePXwQ9Ha+TEdr2YAHTVH+Tc3nzDk9rmAK86/1QdDLySK1qpmvRTa0hUG29BLECCGG8RnSowXaLvOGNvSG3IdshhH0TajN6gvKZ3uuW3XCVqgPCHpsFa1KuXuTyQgFAYLud4t0sMKZ6hZmvSZCQYCgp8OSbAmNpamedpmCvPxVqE1g4cl6TlYMNxGfaBMYg2B857lmJS3txiHcWewb3hOjgSLwsPK2WZAdHp/4bY6Bl1szUiiItb9koZ0J24pwDM5cX9Bi+JbZ4Q5D+60/gn5hZKfuH5Gd+q/iA6bRSz6UwRznAAAAAElFTkSuQmCC",
     "wiki_name": "Sextant",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sextant",
     "equipment": null,

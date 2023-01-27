@@ -1,7 +1,7 @@
 {
     "id": 8129,
     "name": "Torches",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xu3VzUvCYADH8T2nTAtHgZddHtgh2CFkMDGXJthahkWlKCaC4iFJk1IMzIhFYnSI/uRf2x5y5d09z8EvDMbY2IfnZZOkdetCj2D5CscIDs0oAhR3HEH+KIZMhqHsk784LjFQyoig399xzzd9UJJSXiiCXC6GirmNZiOOcjrGH9S2ZJwbUQyrMk51AUCt4zjOUlH0r+PI72/wB93aMi7SW3AauyhnIrxBXgTWngSDStASEi+Qt7XZUTYlWLoLclGah6IMtfzECiN4ehjgrtNBs1ZD3V3UJReVTbooLQCFOEoEH84rnMkEL+Ox//LWlYLLQgKmLi8woYK+ZjN8z+f4fHPwPp3ieTTCsNfzR61k22FPmVewhn5Bg24X9UoFVFHCnjJWMC0Ej20VNyUFmhqsn9BBQQxULf4HLd8VYoKCvF0mFKiYFQxUOJDFAd03qf9RFAqka4KBPIxwIJUmxAGZhrrAcAZ5sf+aIBiWUJhV9gNYbQA0yHUuiwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZUlEQVR4Xu3WYUvCQBzH8Z3nGBsxCI3SB06NZWk5U9QRqISZ6ANTSlEMi+j9v4Vfdx565HPv7oHfh2NjH/53N2ZZp04pj+DwisYI6o8JSJR2HEHcpqhFAlWLOEgrSoDK5QS+NzZuS5aA5fO6UAStJkWvRDEesUnlDADNGKhdJFh1kwivDABNGhSNawZ7ogguDAAtYjahmwS+Bkk8FMSm1gjiEQRnFtKuBd/WNqHd8SYoZywEKQZiKJ+jXIE6fOKIEYxf+ujGMerVKqKAImSo7DlD+RKkcEoEnx/vmE8mmI1G25c37xyUcjYyKbrHKAX9rFb4Xa+xWcyxnE7xNhzitdfbTi0sFFQvGU/uoR2o3+kgqlTgOo7qJRPJZSEYtDzUQge+J/ePcpBMgO6L/0GHdynMUBA/ZUaBilnDQLlLag7oue5uP4pGgVK+YSCOMQ7kubY5oEza22M0g3jyT9EAjMgozDH7A4p044iM++VeAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

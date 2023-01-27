@@ -23805,7 +23805,7 @@
     },
     "6612": {
         "id": 6612,
-        "name": "Vet'ion Reborn"
+        "name": "Vet'ion"
     },
     "6613": {
         "id": 6613,
@@ -39587,6 +39587,90 @@
         "id": 11962,
         "name": "Alchemical Hydra"
     },
+    "11981": {
+        "id": 11981,
+        "name": "Venenatis spiderling"
+    },
+    "11982": {
+        "id": 11982,
+        "name": "Callisto cub"
+    },
+    "11983": {
+        "id": 11983,
+        "name": "Vet'ion Jr."
+    },
+    "11984": {
+        "id": 11984,
+        "name": "Vet'ion Jr."
+    },
+    "11985": {
+        "id": 11985,
+        "name": "Venenatis spiderling"
+    },
+    "11986": {
+        "id": 11986,
+        "name": "Callisto cub"
+    },
+    "11987": {
+        "id": 11987,
+        "name": "Vet'ion Jr."
+    },
+    "11988": {
+        "id": 11988,
+        "name": "Vet'ion Jr."
+    },
+    "11989": {
+        "id": 11989,
+        "name": "Grizzly bear"
+    },
+    "11990": {
+        "id": 11990,
+        "name": "Poison spider"
+    },
+    "11991": {
+        "id": 11991,
+        "name": "Madam Sikaro"
+    },
+    "11992": {
+        "id": 11992,
+        "name": "Artio"
+    },
+    "11993": {
+        "id": 11993,
+        "name": "Calvar'ion"
+    },
+    "11994": {
+        "id": 11994,
+        "name": "Calvar'ion"
+    },
+    "11995": {
+        "id": 11995,
+        "name": "Calvar'ion"
+    },
+    "11997": {
+        "id": 11997,
+        "name": ""
+    },
+    "11998": {
+        "id": 11998,
+        "name": "Spindel"
+    },
+    "11999": {
+        "id": 11999,
+        "name": "Poison spider"
+    },
+    "12000": {
+        "id": 12000,
+        "name": "Venenatis' Spiderling"
+    },
+    "12001": {
+        "id": 12001,
+        "name": "Spindel's Spiderling"
+    },
+    "12002": {
+        "id": 12002,
+        "name": "Vet'ion"
+    },
     "12003": {
         "id": 12003,
         "name": "Desert Lizard"
@@ -39978,5 +40062,13 @@
     "12105": {
         "id": 12105,
         "name": "Elias White"
+    },
+    "12107": {
+        "id": 12107,
+        "name": "Skeleton Hellhound"
+    },
+    "12108": {
+        "id": 12108,
+        "name": "Greater Skeleton Hellhound"
     }
 }

@@ -1,7 +1,7 @@
 {
     "id": 10081,
     "name": "Blue spiky vambraces",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "Vambraces made from 100% real dragonhide. Now with added spikiness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu2U30tTYRjHPf/JwAshEEYg4sXAEJFwRKIEXRRCF4ZmKEZXXdRNDOqim6Doh8JKUzSXadPm0DWdOG25Ka7pNraJc2zUv/DU9zm8Z+e8pXO2ZtC+8GXnnJ1z3s/7PM/3VFVVVFFF/7wUMrqskhdW6PHDB+QcHyf/Jw+F1tfKCaVQba2FqqvPksl0RgML+v0U2dykRDTK52aTiS0/XWIpVF9vZdfVnSezuYlqahpo0fmBDvb26HsuV04YSCGLpYMaGto0u6ff05LLRblMhltmf/qknLOkUGPjZTbA5qemyDs3RysLC5TZ3+fzkZcv6JHNxr+3em9IcCWBNL7sXNMV9sfJSW6Vz+2m9eUl2k8m+fyt3U6rnkXa3d6mcChEW4EAbayu8j24vjw/f1IoFQALY+doDRb0zDq5Rc3NnfyLVGHBVDzOi+EYAx4OBimTTlM6leL/9JsqcsbUh5Akx+tXvABivPl5nbY3vnB7WlquGYz/Eru7DMH+WRkkDkCBlRVyORz8Lj2QvOohyqdo+PkzmnozwhXALpEilB33oDoAaW3tMjgW+UrxnQjDIf4YdFQLm0CF8T48m69WQSlaesaGhjg1aAMGFlVamJmhdyPDGpQAsVq7DRYb+JbNUjQc5mdlePgYUGqshTE/mJO9RIICPh8DzU5M0PTYKLdgdHDwF6ALF3s1y6DCPT33+Pdq50AhqHyshVFutGDN6+Xhxm4xVwDENSQH98gwbW19bP21rq47DJNvWcEBV4FEtIURYcwSFsYAoyWoWjIWM7xchoHb2we0YxmiAAyUB8KM6I3vCaqzs7VF2YMDPsY3yLhLdUE9jN7HqIgsI5Acbwwo0oPvCiqF1MkfOj2Y7CJhhNSv8WHRRnoAhUoJKAy+HgqS23JCGKGjY623uAeVlaFKLMUAo0/L79zfb9N99P6aFAOMnB55Rv5gToqRGmc5OTf77hsASjAnxUiNsoDpuHSbrnff1YDku8ukU2nP0ZJbc6ow/71+AEGTs1PatjpyAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu2U30tTYRjHPZeKJJIoTPJHsmIaFJHQxdIkxeguiG5iUDfddFHQDxGyzCwxM0szq+EQsyljTMyWyETUzDFky5ZsDMsk+j+e+D6H9+yct3TO1gzyC192ztk55/28z/N8T0bGjna0o39eChmdVskLK3TpwnnqbWuj0ddD5Hszlk4ohXJyTJSVtZsyM3dpYJOjozQ/NUUfAwE+P1RSwpafTrEUys83s/Py9lJubhFlZxfQYO9Tii1/ph9ra+mEgRQymSqooMCi2dH9hIbtdvq2ssItu3nlcjpnSaHCwoNsgPV3dZHzxXNyDwzQSiTC5y03rtNFm41/T9Ycl+BSAml82Z6iw+yXHR3cKpfDQeMjwxRZWuLzB01N5Hk1SP6ZGZrz+Wja66UJj4fvwfWR/v6tQqkAWBg7R2uw4FDfM25RcXEl/yJVWDAcDPJiOMaAz05O0pdolKLhMP+n31SSM6Y+hCQ9vH2LF0CMp96O08zEO25PaelRg/FfyO9nCBiVQeIA5HW7yd7Zye/SA8mrrqN4ipqvXaXHd1u4AtglUoSy4x5UByBlZVaDF+ffU3DhA8Mh/hh0VAubQIXxPjwbr1ZCKVp67jc2cmrQBgwsqjTQ00OP7jRrUALEbK4yWGzg++oqBeZm+VkZHt4ElBprYcwP5mQ5FCKvy8VAfe3t1H2vlVvQ2tDwC9C+/TWaZVDh6uqz/Huksj4RVDzWwig3WjDmdPJwY7eYKwDiGpKDe2QYi6WWrb9mtZ5mmHjLEg64CiSiLYwIY5awMAYYLUHVPi0uGl4uw8Dl5fXasQyRAAaKA2FG9Mb3BNVZmJ6mr7EYH+MbZNyluqAeRu9NVESWEUiONwYU6cF3BZVC6uQPnR5MdpIwQurXeL1oIz2AQqUEFAZfDwXJbdkijNDGsdZb3IPKylAplmKA0afld66rs+k+en9NigFGTo88I38wJ8lIjbOcnBO15wwAKZiTZKRGWcBUHDhFx6rOaEDy3WnStrRnY8mt2VaY/14/AfsbOmJ4mImzAAAAAElFTkSuQmCC",
     "wiki_name": "Blue spiky vambraces",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_spiky_vambraces",
     "equipment": {

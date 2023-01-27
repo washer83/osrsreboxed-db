@@ -1,7 +1,7 @@
 {
     "id": 8902,
     "name": "Black mask (10)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": true,
     "examine": "A magic cave horror mask.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs2XfUsUURSHd7+J0B/CwoIIi4gEGyKxtIQh+GEqohcqioqiKKgosUgtrETMXhQU096IrKSvc/O5w288c5yt3XUKD/yYe+/c4Tx7zrlnZkul/W/lkK+8+//cyuHF5KkwO3Ey6tnDE2Hm/vEoQazOXwkrc5fD8stLOVD+R+wZPAESFECSh1l6fjG8fno+45g597yyUB1BlsPco9O7oLgCIgloceZcmH9yJu7lmgfEfgu9tTEZvq/d6w5KQIwVHQG9nb0QgbS3FRDP/VyfCL8+TW1rOgLho6+nJ8p7d5aEXb9aQDjNA1qYOpsCMc4DWlu4mgFiLCDv3Vk5kwYcqbiZeyClQOltBbSxeL04IEWJNQEJpLf3QJStD6LmgT6+sUBTnQGpLjyQPU0DA7VU/f19GWmPBfr87kYG6Mf7B3sHEsjQ0GBoNIbDyEg9HKofjHNkAavVSgbqy9LNYoFYl2MggKnVqlGCAkZjrgIixd9WbqdAWx8epzAdAwmKdYEgIiQgGynWx8ePhXqdSCbpA2hz5U4ukPfewpIa4MQAJBjJQwkIjY4eCc1mPT5jtbl6t1ugpAcRIYCYC8DLR0lptCDUkuopBTJN0Xt3lhx5D4Tjv0kAKmxb5KgwIEGRirGxo7E+RoYH49yCCEyFz30bqUzKugWyUQIGWSc+SrbOuK8Ttv7qmgGaTmHaAuKEeSAVtpWvJa3bFsCczs5rw0aozehgO0A2bQKi4eEIgGbz8K4aUnsQmKB4bRQGZNNGXUjUkdYEpE8PRZBIMaZLWyBBee85lgDlpS062YagqBuNoUxEWgEhxl+Xb6VA9KAO+lAWyKaNteRXJWJdrxQbJQExr1RwuEcgTlkrIE4MH1qcHtb0DeShEDXGlf2FAPm0sW6B9DWJbDHzHHsZc8I48hmg7R7UcR/KS5sFYuyB9CLmOfUf9hYClJc2C8Q9+6/EArEPIKJTABCWbYCtZGGsPBBN0QJJHQCVSmrrf5IHtCKSqp9CgNo1D9kOrLSz9z+Zh8yTf2Zf22+iPceqGz7aNwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs2XfUsUURTGd/8sRAlFsSXXNjZJ/KNvUlFUVBQVFUUEURQiRS8ivSGIvVChYIiJlBFERVHUJ7v1u8MznjnO1r5M4YGHuffOHc5vzzn3zGyptPGtHPKVd/+fWzk8nNgf7o/vi5q6vjdMXt0TJYjFmZNhYfpEmH90PAfK/4iOwRMgQQEkeZi5B8fCs6kjGcfMueeVhWoJshymbxxYB8UVEElATyYPh5lbB+NernlA7LfQ31YmwpelK+1BCYixoiOgF/eORiDtbQTEc1+Xx8OP1dvh5+rdCISP3cPDUd67syTs+tUCwmke0OydQykQ4zygpdlTGSDGAvLenZUzacCRipu5B1IKlN5GQCtPzxQHpCixJiCBdHVtjrL1QdQ80NvnZ1Mg1BKQ6sID2dPU39+Xqrd3S0baY4HevTyXBXp9rXMggQwODoRabShUq5WwrbI1zpEF7OnpzkC9nztfLBDrcgwEMH19PVGCAkZjrgIixR8XLqZA39/cTGFaBhIU6wJBREhANlKsj43tCpUKkUzSB9CnV5dygbz3BpbUACcGIMFIHkpAaGRkR6jXK/EZq8+Ll9sFSnoQEQKIuQC8fJSURgtCLameBGSbovfuLDnyHgjHf5MAVNi2yFFhQIIiFaOjO2N9VIcG4tyCCEyFz30bKZuytoFslIBB1omPkq0z7uuELT8+nQLRpQXTFBAnzAOpsK18LWndtgDmdHZeGzZCTUYHWwOyaRMQDQ9HANTr29fVkNqDwATFa6MwIJs26kKijrQmIH16KIJEijFd2gIJynvPsQQoL23RyW8IirpWG8xEpBEQYvxh/kIKRA9qoQ9lgWzaWEt+VSLW9UqxURIQ8+7uTZ0DccoaAXFi+NDi9LCmbyAPhagxruwvBMinjXULpK9JZIuZ59jLmBPGkbdA9KCW+1Be2iwQYw+kFzHPqf+wtxCgvLRZIO7ZfyUWiH0AEZ0CgLBsA2wkC2PlgWiKFkhqAahUUlv/kzygFZFU/RQC1Kx5yGZgpbW9/8k8ZJ78MxvafgHRm96rXOdhigAAAABJRU5ErkJggg==",
     "wiki_name": "Black mask (10)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_mask#(10)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8364,
     "name": "Oak lever",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtUlEQVR4Xu2XbUsCQRDHb76JHyGC6JVQL0JCEUVRTlHUOJMQQUzSpFB6oohCiCAiqOhNn3JqZjqP082r9G7vRX9YFvaefvufmd1bw1hYgNMjGgXYMNcxRFCAVm6NgVYikTBAAVbTq/9AHhKYEAEZRohgqLpCVGHNeh1z6fQXlFYwgdmMRrHXbqNVLmOtWNQFBdgqbeGw3+d22OlgpWAylKZqA3wZ7+NpK8ONoBKxGB7vJXUBkQBfLywc9wt4Nyji89nOBEYb0HU3jw/DCkMNdhN63Xk6qTEM9bcHJrt13s7qS2pyhfq3qzo7dX9UwsdRVYdLwM5QEzcAzaw4Q3Dd2nbQLgG7YcNQuGwggrTDFqBL8mEVEIXu/abBfYAuzTrk3jqc6wG4BNiz4rwYqoAEwEn4QIDcq7EAZZKzYwEAAY6aqYk784DsHPId6LKT4+YFRC46ie+bwFXSzuwBU/H4lCO+J7bM2u2Oc00FRBvu7L1Lk4RGnazAvx7TQLTZ2tXm3LsUfZ5M8xuuUvYGknGf9jaZ7fwQqEHVji4sKeP5QN8dg2Qh9SVsahd+or8+56FFXvrb5z4ALwij21JzwdkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsUlEQVR4Xu2Xa0sCQRSG9/yGog9GpImKF1wVLy1mCCImiUkX6UYRBUIgRBBEQZ/636fOOa3L6uRWujv7oReGgdnbM+85Z2bHMBYW4PSIRgE2zDUMERSglVtloEI0GgYowGp65R/IQwITIiDDCBEMVVeIKqxZr2Munf6C0gomMBuRCPbabbTKZawVi7qgAFulTTzp97kddDpYKZgMpanaAF9Ge3jWynAjqEQshke7SV1AJMDXSwtH/QLeD4r4fL49gdEGdNPN48NxhaEGOwm97jyd1hiG+rt9k926aGf1JTW5Qv3bdZ2dGh+W8HFY1eESsDPUxA1AMyvOEFy3thW0S8Bu2DAULhuIIO2wBeiSfFgFRKF7v21wH6BLsw65tw7negAuAfasOC+GKiABcBI+ECD3aixAmeTsWABAgMNmauLOPCA7h3wHuurkuHkBkYtO4vsmcJW0M3vAVDw+5YjviS2zdrvjXFMB0YY7e+/SJKFRJyvwr8c0EG22drU59y5FnyfT/LqrlL2BZNynvU1mOz8EalC1owtLyng+0HfHIFlIfQmb2oWf6K/PeWiRl/72uQ83e3C2pbCwjAAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

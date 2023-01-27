@@ -1,7 +1,7 @@
 {
     "id": 8108,
     "name": "Wooden bench",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABNElEQVR4Xu2VwQ3CMAxF2zm4dAQGQdxBgjMXRmAMDh2E+YpMZJp8O42TplRI/dIXSnH9nwtJm2bTT9UOo1dXO9xO3fDqrx+HcNUhLU1DoOfjKDx9v1mWyUdTMNXdL50wfb/v6DNbYcjU5BhKrgzkpkQzEIZojtUVA2EjDokFoWN1G5Bfi9fIqwKRcXMQzOJAGIpADFEIQ9KBOAgBwjAJpDtb2GAMwuu+z4edyQVwMoyBsPlcG6Dsk+aYf0Y05SX+W+23GJtajaFTzgKygGFtzNqOZJgEEMkVY1Or/SMB13gMGGCceBunwHBiBMC1GSAmBsPGvA4fe7yuGpCTbIxAqTpZO0uy8QYUSjb+KyA8p1YHQi8GpE0uQ+TZtRgQOhbi1sWvCav0yTUgFgP4xppZ0iavHfQG5N1mX6F/HcMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMklEQVR4Xu2VQQ6CMBBFYWW4BRvdSoxbF17Ba7jxLh4YMzQj7Z9pGUqRmPCTv2gd5r9RWqtq109V96M3V93fzk3/fl0Hh3DFIS1NQ6Dn4yScft4sy+SjKZjq7pdGmD7v2jYHKgxJTY6h5MJAbko0A2GI5lhdNhA24pBYEDpWtwP5tbhH3hSIjIeDYFYHwlAEYohMGJIOxEEIEIZJIN2zhQ3GINz33R0PJmfAyTAGwuZLbYCyTzrH/DOih7z0u1V/i7Gp1Ria8iwgCxjWxqydSIaZACK5YmxqtX8l4BqvAQOMEx/jKTCcGAFwbQaIicGwMa/Drz1eVwzISTZGoKk6WbtIsvEOFEo2/isgvKc2B0KvBqRNLkPk3bUaEDoW4tbZfxNW6ZNrQCwG8I01i6RNXjroAxG2s+POGRlUAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

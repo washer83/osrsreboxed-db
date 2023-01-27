@@ -1,16 +1,16 @@
 {
     "id": 6612,
-    "name": "Vet'ion Reborn",
-    "last_updated": "2022-06-28",
+    "name": "Vet'ion",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": true,
     "release_date": "2014-03-13",
     "combat_level": 454,
     "size": 3,
     "hitpoints": 255,
-    "max_hit": 45,
+    "max_hit": 44,
     "attack_type": [
-        "stab",
+        "slash",
         "magic"
     ],
     "attack_speed": 4,
@@ -39,9 +39,9 @@
         "duradel"
     ],
     "duplicate": false,
-    "examine": "Only the true lord & king of the lands can lift his burden.",
-    "wiki_name": "Vet'ion (Reborn)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Vet'ion#Reborn",
+    "examine": "ONLY THE TRUE LORD & KING OF THE LANDS CAN LIFT HIS BURDEN!",
+    "wiki_name": "Vet'ion (Enraged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Vet'ion#Enraged",
     "attack_level": 430,
     "strength_level": 430,
     "defence_level": 395,

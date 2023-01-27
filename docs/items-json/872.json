@@ -1,7 +1,7 @@
 {
     "id": 872,
     "name": "Steel knife(p)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": false,
     "examine": "A finely balanced throwing knife.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgklEQVR4XuWVzUoCYRiFfe+glRs3XkJ34Sbc5MYEySSTDMlkMtNkIioDCzXTUuwHgy7zxPmGGT5n0c55BzrgRkZ4eM6Z10Tif0UQ/kYxAsdNIiZQAnfgwWyn0+YTfiLCCO6ek4EddZjBPIVuP4mas6UNJBh9pgyQbUcJSPCyShmgGNgRfEynWE4mWIzH2nYEX7NZAHPT6Wja8WBohzD3bg8XjQaOSiUNIMHq7dUAEWb69Iiu4+CkUtGoS/C9mK/BsKqzWk3Pjg3zcO3i/LSO43IZh8WiDhDrmo+GGPb7QVW2nciBft6XcNttM2JWpWiHEbOZy2YT+3t51KtVY+egUNAAEtxedU1NNJPP5bCTyRgQhbrE3JpeqxXY2c1m10AihGHE7MYfMe0oWPHj7YZ2CMS92HbCT284XlW0QyAOWNGOmMNHOwTidtTt8K2KjR1W5dvhvbFvTeQwrIp2fKCwnfAvNhzPjg+kbMePtx8CKdux490fXmVlO3ZU/qf+Tqxgos4vE42d6dRRq6sAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfklEQVR4XuWVwUoCYRSFvYT4GrrIRS5UKDPMDMxkMkxTIyoDC9TMLAsrQlr04ifO/zPDOIt2zh3ogBsZ4eM7Z66x2P+KIPiNYgROL46IQAm6AwuTSybNJ/hEiBFcP8Q9O+owg3kC7X4cFWdDG0gw+kwYIL8dJSDB4zJhgCJgR/AxnWIxmeBtPNa2I/iazTyYy1ZL046FoR3C3HQ7OK3VsF8oaAAJli/PBogwT/d3aDsODksljboE36/zFRhWdVyp6Nnxw9xe9HByVMVBsYi97W0dINY1Hw0x7Pe9qvx2Qgf6eV+g12yaEbMqRTuMmM2c1evYyWVRLZeNnd18XgNIcHXeNjXRTDaTwWYqZUAU6hJzazqNhmdnK51eAQkRhhGzG3fEtKNgxY3dDe0QiHvx2wk+vebYqmiHQBywoh0xh492CMTtqNvhWxUZO6zKtcN74781ocOwKtpxgYJ2gr9Yc6wdF0jZjhu7HwIp2/HH3h9eZWU7/qj8T/2dSMGEnV/45mG+CcuOnwAAAABJRU5ErkJggg==",
     "wiki_name": "Steel knife (Poison)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_knife#Poison",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 21192,
     "name": "Rock golem",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-09",
     "duplicate": false,
     "examine": "Found somewhere between a rock and a hard place.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACL0lEQVR4Xu2WTWsiQRCG078jlwEPgiAMwhAGEQwSgjgsK0gkKwn5gAgu+f/H2n268/Z0Zs1p7UkOKSicsdV6rHqras7Ovi27OQv+JczZ1aK26bT8ClDO1j8vbTwa2XxeeaCyKD4LKmSmOD+35XLqrwXV/WRP5mx5Xdn9/Y8I88lZCkBPj2vvgO12q7cM9SpyBWozxCsw2+3S6npoi0VpoxFZyg7lbDYbd7LgvKh1BlzTXHjPXD5nz8/Xdre79Fopy6G/lpMVtNQ08yjyjKPA2f5lZcPB4B0QgDjBccokIBwgPpcBynmYLlAafL2ufblub+fRKZu0dOLSOZvWtV1Ulc8EwdELWTscGttsZhGI97mXZwVSadDL6+uv6L8PW9vvb3ynMblTHWUDeni4ikCUCwhcQJSHDAELkIZlNiD0IyAv8r8ZERRnrBA8Le+kLONIODmQAhA8dI2zqhpHkKIIMLiELnhgTg6U/mvutbtwDUJ8MhkcBer+4n9a2OwIVsNOnSUQroEma70AMX8QqzY6QH4av3UfmUP4CL4XIGbOMSBAeE9AdBXTW62fDWizmsV2TsWrJYqr2wDiLFPLYwGIqdw+FQahoxmVlHvOBaTOywKkIAJCxGRLQJzThcwdLdysQAQAKO2ydHkG3bTlk2eYQbKgGT1SAMSaUGCAlC1BZISRtf8coPZZJwApe5kh3lsIFoBSgStD2mfd72W2tsNUptR7KNUx+xegJ918bLkA/gCwgV1xC8i+bgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKElEQVR4Xu2WYU/iQBCG3U8GQiANjQ0QUSHVEC4IRu9MjnDx//+o0WfXd7v2uE/HVj84yYSWBeZh5p2Znp19W3ZzFvxLmLOreWWTSfEVoJyt7i5tNBzabFZ6oO319WdBhcz0zs9tsZj4a0G1P9mROVvclPb4eBthPjlLAejXz5V3wHa75XuGOhW5AjUZ4hWYzWZhVTWw+byw4bDXBZSz6XTUyoLzotYZcHV94T1z+Zw9P9/Yw+7Sa6UoBv5aTlbQUl3PosgzjgJn+99LG/T7H4AAxAmOUyYB4QDxuQxQzsO0gdLgq1Xly3V/P4tO2aSlE5fO2aSq7KIsfSYIjl7I2uFQ23o9jUC8z708K5BKg15eXrbR/xw2tt//8J3G5E51lA3o6ekqAlEuIHABUR4yBCxAGpbZgNCPgLzI3zIiKM5YIXha3nFRxJFwciAFIHjoGmdlOYogvV6AwSV0wQNzcqD0X3Ov3YVrEOLjcf8oUPsX/9PCZkewGnbqLIFwDTRZ6wSI+YNYtdEB8tP4vfvIHMJH8J0AMXOOAQHCewKiq5jeav1sQOvlNLZzKl4tUVzdBhBnmVoeC0BM5eapMAgdzaik3HMuIHVeFiAFERAiJlsC4pwuZO5o4WYFIgBAaZelyzPopimfPMMMkgXN6JECINaEAgOkbAkiI4ys+ecANc86AUjZywzx0UKwAJQKXBnSPmt/L7M1HaYypd5BqY7Z3wAd6ebflgvgFeCf8iiMANs1AAAAAElFTkSuQmCC",
     "wiki_name": "Rock golem (Coal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_golem#Coal",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3385,
     "name": "Splitbark helm",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-18",
     "duplicate": false,
     "examine": "A wooden helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABa0lEQVR4Xu3UPUsDQRAG4Ns/YX2QzkoCIhIEmyOkCYpBUAgYglEMXBEQOystRAQtLMRGRLCw8heOzC5zszubwyY7W+gLLwn3wT7M3l1R/K0YkEcyBSEGXm5P7K88qxiGEGajLG3llYkTQiRIXp04MSTjdAx8PM6aEqbX7eSYDmPe7qfw+XTWNMN0HAYhPubreQ79nXXt6bRjzo93tadjGogPQowEyTsT5HeM4nYZuKkPoB5XSzFyOolBDkNFFFZilLbLwPdrDZNRzy5Gvb4YBlXcLgNHw60G5BYLQZezge52xSB3vA0U3r/yMIi3jc9hEYRVA2F9ULioA40Gm0vOrTxuOrKE9K9RAMWY94fToARDjAoIF1lM+7YS41cB5DC8NQY65VoEUQRh+JtC3556UkUY+fwkBBWFfJtwSojC/20gvl4lbkrj/W24uzq0pbcu+XTaYyyIUHtVN9d0/PDDnnk6HP+Bz475T+78AJBoCB9nY0rzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4Xu3UPUsDQRAG4JvCwhQ2CUq0uCRFRCMYAoZIohYHAbG00kJEEAsbsRIEwcbSvzwyu+zN7mwOm+xsoS+8JNwH+zB7d0XxtwIoj2QKQQBfbk/MrzyrGIY4zLjXM5VXJk4IkSB5deLEkIzTAfx4nNd1mG67lWM6jHm7n+Hn06JuhulYDEF8zNfzBfZ3t7Sn04w5G+9pTwdqiA8ijATJOxPkd4zidgHeVIdYTcqVGDmdxCCLcSUUVWKUtgvw+7XC6ahrFnO9Ph8GVdwuwOPhdg2yi4Wgy/lAd7tikD3eBArvX3sYxNvG56gEoqqBqD4oXNSCRoPOinNrj52OrEP61yiAYsz7w2lQByOMCogWWc76phLjVwFkMbw1gK3NjQiiCKLwN8V9e6ppGWHk85MQVBTybaIpEYr+N4H4epXYKU0OdvDu6sjUvXXJp9McMCCH2i/buabjhx/2zNPh+A98dsx/cucHXoC51xcISLoAAAAASUVORK5CYII=",
     "wiki_name": "Splitbark helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Splitbark_helm",
     "equipment": {

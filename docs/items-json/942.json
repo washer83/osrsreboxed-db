@@ -1,7 +1,7 @@
 {
     "id": 942,
     "name": "Bronze fire arrow (lit)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-03-03",
     "duplicate": false,
     "examine": "These bronze-headed arrows are ablaze with fire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA5ElEQVR4XmNgGAUjGzD+RxcZQMD4P8iR5/8gcRTj/yRf/v8lHoL/xYUYBoOjGP9PjhIHO0idl2GgHcX4Pz9c+H9PuNj/oyts//vo8/xXZIc4yEBBYSAcBXHQl8tJ/7fNtvwfaMwDD6EBchAIMP7/eM7n/4Eltv/NtTnhjhlQB6U7C4DxqGMwAaaD0FXQEWA6ZtA5CF0FnQHEQaOhgx0MKgdhOmbQOQhdBZ3BaGLGBwZZ6KA7CF0FHQHj/1oFscESXRDHwBwEogfYQSAAiS6Y4waBgxgYEIl4UCRoVDCoHDMKBhIAAJcmwEDvaGeiAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA4UlEQVR4Xu3SMQrCMBTG8byWIDo4KUqH0kUQB3EQiujiBUQ8gTfo4OLk4hU8gZMXcPNCDp7hs2moYiKOyQPzh1IIb/iRPCFC/x3BPPEYYT6MwARFWE1jrEtQQwoOKMJ+JitQuwR5RhG2S4kil7gcE4w6hFakQZMs84HSoMctx2nXw7hPrxvyBFIR7tcBzocEaVc9lcZ4BS3SuPoCxs4GmRMOszHsQOaE4zQo3M73WIFsDDuQOeG4sMy/YnY7JsiccBhh05RcnktjapD6ewap9HPVOAYgId5LzGKhP2OFCfnsCQ+Hr5J7gZYAAAAAAElFTkSuQmCC",
     "wiki_name": "Bronze fire arrow (Lit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_fire_arrow#Lit",
     "equipment": {

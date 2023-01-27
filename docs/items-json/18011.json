@@ -1,7 +1,7 @@
 {
     "id": 18011,
     "name": "Mining helmet",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "A helmet with a lamp on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeklEQVR4Xu2Vz2/SYBjH13/Cyy4kO5Ds5MGDBxMTkx3MEhKy6hy4BSQwpAyoyBgtg0KnzB8Hp2FDIkz/Bc0SvejBLMZ408Qff81Xnpe8pT/oQtmW7NBv8kko7dvn0/d93nZmxo+fCxkB4znTnHRTa2FRvIJo5CrisWtIJq9DytyAnF84YbznCOjtNxjOmwq4HQ5jRRSxuryMWGQFrcdLeP7sDvZeRKBsLUJRQlCVMFRVHDN+4phnZCQ0khpyLxpFcm0N6/E4kyGe7t5C+9VdHOyv43Unh1ptFfV6HFo9gYaWmkbKOiNU0CxEZBIJZFMp5NJpfPlcZiIkxwVf7kWMa/t9DY3G/QFpBt3zciDgRco6I3ZoNgiS+vf3CX58r+HTx6IhRUJ0jl9/eKij2cgwSOxchf78foRvxyqOjmRDiJ8zj9GbWTSbEuNchX791HH8VcGH9wXW1K5C+saQgdgUQhSrFG9i+zEVN/cOl6H+sj+IrucYUwu5YZYy9wxv8nY7xugcSOi9UfHu7S529LzBFEICHkgStmQZm4UcHm5k2TFBBcc9PYe2OqfbyaPXqw6FdmQDj0ICE1CKRVRLJVfovF2Glov6iN49RLdbQL+3zXYW32VcZkIhgc0IFdQqFQe6qlrQKkFDplSYY8tGO20pFHIsM8eTTKUYZEVa2rwr+vYILkPjZGmO/Y5FZgefklncXLhkETBjr+wSdyGzhF2muhlks0NC6UTA+N8sZK80YQTWF7Q0La3mEBgHydNDmIXGzZC90gQRWN/UymWXXnH2E0FjaCfSJqDdRz1ErwDqI/r6n0KI4mzA0+KxZ5yxN99ZYK/hx48fP3485j9H4GqLiV1fdAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACf0lEQVR4Xu2VW08TURSFmQdDJI2/wMTGmCaAQlEobehYlNbSFtvSm7UggRjjg9p6ay20GImReClGRUWe9MloTIzv+qAx/q7l7GPO9MyNdAokPsxKVtKZ6Zn9zT5rz/T0OHL0X0qCufdUO91UW1gOHkYk7MZM4hgyGQ9KFwewtHhih/W2JaF6vcBsvKmE4/39GB4cxMmhIYx5h3Hntg8rywGsPQiifOMUKmUfKpUAbt2UTdZ3LLEjbaA21D+Pj4wgMDqKoM/HYMj3auNYfxTC0ydxtFoZVO9Oo1Y7r5xPoV7PdQOl7QgVFIHIp/1+TE5MYEqW8eF9goEQHAd8uCar/33z+prSsQtYrheY6Z5et9sOlLYjelM3yAT15/cCvn3NYnsrqkIREF3j/996W0ZjpchMYPsK9OtnCV8+p7G5GVGB+DVxTaMxp7jEvK9AP74X8eljCi9fhFmorYCajUvMBNYFEMk8yPpjKi5mh8NQvvQP0mwuMHcNZGURSswMD/nj9bPMrWfKVr66jO13Vaw2F1V3ASThXCiEmUgE8fAUps9MsmMyFTR7em4ade6NVk7J1hUGdH91SbVNIIkBpKJRzMZilqbrehjaLsoRvXvIzzcKCtBVNll8yjhMh0AS6wgVzCeTBhfTaY3zSZcKEwv3sW2jSRvweAzbzG0LJhl1sSLz+UOWLmba5jC0LhLqY7/HvL3Kp6QXR48c0ACI1le2kDWQCKGHmY27WHcISPYfVM+LQPpKHUpiuaCtmc9lDQBmJnh6CBHIrEP6Sh1IYrnJJhIWWTHmiUxraBJpCGj6KEP0CqAc0dd/F0AkYwB3a5uZMUofvr2wvoYjR44cObKpvzqJ66Kb3OkuAAAAAElFTkSuQmCC",
     "wiki_name": "Mining helmet (Lit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_helmet#Lit",
     "equipment": null,

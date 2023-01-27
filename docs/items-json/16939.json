@@ -1,7 +1,7 @@
 {
     "id": 16939,
     "name": "Magic whistle",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-07-23",
     "duplicate": true,
     "examine": "A small tin whistle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2W604TURSFmefgTx+Bt+CPISESCBKJSLhEkICIiCCpgIggUi4WpGKRIpVapFZqgdqo0fha26wzWe3paYd0pmBj0p3spPf5si5nWldXm9pUZSwp3qqMffHnT/yyMj8vr14syfZqQN5tblYDzpKHIyMyPT4uTx9PlYSKvt2RT5HIv4CzZLC3V+7fHZRHo6M5qKWZGUeo5IeonB4dXQWcJb76+oI1oQILCxdCZU++yK+zs8uCKgbStxwoAP1If5XfmUylUBfDmAuo4MvlAqjz42P5nkqphUp/stlKoNwBmXsSO5RMIiHfkkm1P0/TOZUafD63UJa0t7TI7Y4O6evqkqH+fhVq86JOm3i/L6mPMQWCHAEMtjFLLoFsmFs32qWns1M17N7AgKr91NiYzE5OyjP/tCzPzRWBYGO7u/I5eiDpeFxZBjCGGyp5ArrZ1qZg7nR3K5gHw0OqXf6JiaLKbwVWZGdjQ+VmP7Qt8b29XMMAA+sAB7WgEj7rIkc2jGmVXnUeiuuLiyrEobU1CQeDCujgTUi1ixBQCovnDDgVKkOlvFWA4WHIE1q3ijWHOmgVFWLdoQxUglrIk34mubDMyuVGtwq5oVVQh0BUiECR11tyGA4rACgCMDwnFCBdqUOrAAOrmBsTiPkhEDOE/DDQAAAMFMNrtLFMdQorzlYBiM0iECzTgWgbMoT8QA0AAQKAWEJ5UodADDOB9AwBSM+RebsAFOAACRvxGGqVqQ7Gktbm5oL8EIi2EcjMEYDQMuYHQAADINuH91yog7HkWmOjgnI6f5xyhAzpgSYAYBh2lzAcG+p6U5NjuAGk28abKYEAC+WQKbyO9QjDyf+ZMgNuhhsq6UD6d/WtAMae/A/kf1QPN4BMhfQLl1rzGp6nFJxp2aWo4GVKwVUNxpwrs6Q2/+P8BfaZhZNuv0wUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xu2WaU8TURSGmU+EfwEfJEEMWwAxgGAQESEsIpvIIkJFQBARGkAQWdoAIkpFlMbGGKOJf/KY907e9va2QzpTsDHpSU7SfZ68y53m5GQnOxkZSxI3I2NffKSvVyaGhmTm8ZgsPPXJ6txcJuAsaW9ulp62Nnl4vzsp1Nbykuyvr/8LOEsaa2vl7q1G6WxpiUKN9fc7Qn3Y3pLTvb3LgLMkLzc3bk0o3/DwuVCR44/y6+uXi4JKBNI3FSgA/Tj5JL/D4XShzocxF1DPn4zHQZ0dHMj3UEgtVPoTiaQD5Q7I3OPdHQkfHsq3oyO1P08/R1Uqy893C2VJaXGxXC8vl7rqammqr1ehNi/qtO/ebEgoEFAgyBHAYBuz5BLIhqkqK5UblZWqYXcaGlTtu1tbZaCrSx496JHxwcEEEGxgZUXev92Uk2BQWQYwhhsqeQKqKClRMDdrahTMvdtNql29HR0JlZ+fnJCl6WmVm42XCxJcW4s2DDCwDnBQCyrhsy5yZMOYVulV56H4bHRUhXhxakr8s7MKaPPVomoXIaAUFs8ZcCqUgkoxqwDDw5AntG4Vaw510CoqxLpDGagEtZAn/UxyYZkVzY1uFXJDq6AOgagQgV6/mJcdv18BQBGA4TmhAOlKHVoFGFjF3JhAzA+BmCHkh4EGAGCgGF6jjSmqE19xtgpAbBaBYJkORNuQIeQHagAIEADEEsqTOgRimAmkZwhAeo7M2wWgAAdI2IjHUCtFdTCWXCsqissPgWgbgcwcAQgtY34ABDAAsn14z4U6GEuuFBQoKKfzxylHyJAeaAIAhmF3CcOxoa4WFjqGG0C6bbyZEgiwUA6ZwutYjzCc2J8pM+BmuKGSDqR/V980YOyJ/UDsR/VwA8hUSL9wsjWv4XmSwZmWXYgKXiYZXMZgzLk0S7LzP85fzILKcRAovUgAAAAASUVORK5CYII=",
     "wiki_name": "Magic whistle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_whistle",
     "equipment": null,

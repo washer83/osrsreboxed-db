@@ -1,7 +1,7 @@
 {
     "id": 589,
     "name": "Gnome amulet",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-07-23",
     "duplicate": false,
     "examine": "It's an amulet of protection given to me by the gnomes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqUlEQVR4Xu2WQUsCQRTH932DPe1lLgseuvYFBEM8hCCJkpgomaSSJpGV2CE8eA069wE69R36aP96M6xOI+bO2uxC9IPHKs7M/ua9fTt63j9/F8LPkSqEQbeLq14P434fk+EQt6MRHm4muGi1cFwspilGuOx00G405M1Z7O56jMV8juflUl75+/lZMy0xJcQym2Vax9NsJrOWgpgqF18Pw3Br6GJcUs7oWuzXILnrZr2+EjJH6OhiHKEQseZZoISincZfWJVZz6o5IiFJFybUKhXLTcSCcFqtJljYSbkYSlQuswnMEXtAKBUK1kLcYXZzYpNM6KRctpwTG8JRPm+xOMmjxVG5GHshh+Vi7IUctXuETds77a4IdZMoS+av3yF5sMaTTwzJ/zy7u0adXXHPvD1RD+r2LKnjRZdxLsRli7JkBpcpRRlGnfirLJU8eDUfftvPQoYhPE6n8McB/EGA4EXAn399bvpScvfz5QSSQuI9B/EaIlgKmSX9nZO+0H2A8OMA4i0ns8NCGckwhGAhpBSXjZ8fL+9lUSqdzQ7LKDtrIgE9zDH/uOYTsQGB2F38tKIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoklEQVR4Xu2W30oCQRSH97Asg9ITKKkkGGr4DzNDTcPISrCL8MLboAfoDbrrNXrTX50ZVqcRc2dtdiH64LCKM7PfnLNnR8/75+9C+DkShTDs9XDV72MyGGA6GuF2PMbDzRQX7TZOCoUkxQiX3S46jYa8OYvdXU+wXCzwvFrJK38/bzWTElNCLLNdpk08zecyawmIqXLxtVUq7QxdjEvKGd2I/Rokd92s19dC5ggdXYwjI0SkeRYooXCn0RdWZdazao6ISdyFCbVKxXITkSCcVasxFnZSLoZilctsAnPEARCK+by1EHeY3ZzIxBM6LZct50SGcJzLWSxO8mhxVC7GXshhuRh7IUftHmLT9k67K0TdJMyS+et3SB6s0eRjQ/I/z/6uUWdX1DPvQNSDujtL6njRZZwLcdnCLJnBZUpQhlEn/jpLRQ9ezYff8dOQYQiPsxn8SQB/GCB4EfAXX5+bvpTc/3w5gaSQeM9CvGYQrITMkv7OSV7oPkDm4wjiLSuzw0IpyTCEYCmkFJeNnx8v56VRKp3tDkspOxtCAT3MMf+45hMWMVbPGEftHgAAAABJRU5ErkJggg==",
     "wiki_name": "Gnome amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gnome_amulet",
     "equipment": {

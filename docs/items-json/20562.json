@@ -1,7 +1,7 @@
 {
     "id": 20562,
     "name": "Mystic hat",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-26",
     "duplicate": true,
     "examine": "A magical hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xu2W20vTYRzG+/0HXnmzm8EuBgNhCENkCIoMGYoIjskSxTk8YEOcNptH5inTHGrqLNd0brOlbm5N5zwNJ5pSd2UhddFFpdlFF9FVJDz5vmMHzQujHYx64Hvx3vzeD8/zfF9+1679178jBuFJuBjs+nzwzM9henz8KoAx2PR4YDeb4Zqxgq1wgyWdSCQYA6/djgWLBb6lRXDq9sAqdyK5cARJWep4QzHwe5cpzIbbDd6dr+A2vwW7dgcsuR1J2U0UiM9mxwuKwYrDgXWXi14sM/wAr+cLOE0HYFcsIVmsjT/QmtNJL+1wnqB08hRI9x3crs/UoeTc7ngDEQXKq7KdQDR2CtT3DVzt+wBQ/kAigIgYtOj3IBgKRMZtfRcutlAZ72ITMdAMb6G+30vjCnVIokdSpioRLjFoHPShtucJqtpskKsNYFevglX0MDGbRmAaBlah7HSgotmM4rpRSCpvI/e6Jt6bxqB57CnUunXqTmWLFWUND1BUM4D8snaICmuRLioBT5ATjx4FikzcqetdRLV2lkYlUw6iQN6BHGk9hGI5UoUFIYdi6BKDzskX1J1gVAqN6UxUmfnVSMuWgcvPikVkkb8XAZjzQOWNxjNREXf46XlIZnGiBRQG8Hg36Syv+tFl2v8F6IZ2nsYlreoLuSPIlICTIgSLRUD+GIiB27OBxWUfhVj37cDn36UwFwGR/pAyk7jEMnWoyHx+KjgcbjSAiM7GROYiIPIYkrenRKWnQKTMpDvEHYEgDTxeSsil8zf8tsKbweDo6JjO4eExPnz8RKdpZBuqPg9dd1LoQkU37U9xaTly8wqQLRIjIyNc6ii4FCmGwkQCvXx1QFc++Bj2D4xAfasViooayIrLIJHKQu5GGSaowMeDQPuv38C//Qx2pxeGqUchIGXtTQqlatCgpa0L3b26c/FHUcEIyRCgrZ3ncLhWQkDtHb1o1fags+cuPQ8O38eo3ogJoxVT5llYbAvRhyKKBHO61yiQbkiPe2MGCjA+MU0hjCYbTJY5mGfssD52wTbvphMTKKJIsMvOnMNDJ2ZQRMEtuswEwcLnK6ArBfPX6icOkeJdx910dwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xu2WW0iTYRzG/ZAxNsZkOJQpOg+ooOJUdCoeGsxps+H5uEzbsExtlpnHoabJ1py2dB5Qc8gKDYW6LyOQ6Kqroizyqrug6yBvnnzfsYPmhcEORj3wv3hvvvfH8zz/ly8o6L/+HTFwT8DFYMtmg9VgwHB391kAY7ButcKo12N6bBScXAvYqT2BBGOwYDRiamQEtrlZcIu3wc4xg5XcgeAopb+hGNgX5inMmsUC/qVv4FW8AUe+CbbUiODocgqUHhPjLygGSyYTVmdm6MWS3p/gq7+CW74LTt4cWHF1/gdaMZvppfXmA2T1HwJpf4DXuE8dYsU3+RuIyFFexfgBxF2HQC3fwat95wBK1AQCiIhB5fVtCK86IuNVvXUXWyTzd7GJGKjaH6GkdZHG5epQig7BkYpAuMSgrG0NcvV9FFSPQ6q8BU7hMthptwOzaQSmVLMMWcM95FXokVHciZT8i4hPV/l70xhUdD2BUvuQupNfOYrs0ptIK9IgMbsG4mQ5wsWZ4Atj/dEjR5GJO8XNsyisnaRRSWRtSJLWIza1BKI4KUJFSS6HfOgSg4b+59QdZ1S5qsEjUUUmFiIsWgKeIMoXkXn+XjhgjgPllPUdiYq4IwhPAIvN9RaQG8C6uE5nftmOxsGd34DO1RloXKkFLS53hJEp4IaIwGZzvAHEwGJdw+y8jUKs2jZhs29RmJOASH9ImUlccRKlq8gCQSi4XJ43gIiOxkTmJCDyGJK3J1Oho0CkzKQ7xB2hMAx8fojLpeM3/LHcm8Fg79M+nY97X/D+w2c65R0bULRY6bqTQifnNtH+ZGTlID4hCdHiOEREuEvtBZc8xVAYT6AXL3fpyjsfw1ZNB5QXqpCbVwRJRjZSUiUud70M45Tj406gnVevYd94CqN5Ab0Dd1xAMvl5CqUoVaGyuhFNzdpj8XtRzgjJEKDHm89gmllyAdXUN6OqVo0G9WV6bmu/gU5dH3r6RjGgn8TI+JT3oYg8wcyWFQqkvaLDta5eCtDdM0wh+oYmMDRigH7MiNG705gwPKDjEygiT7DTjsFkpeMzKCLnFp1mnGDu8xnQmYL5a/UL68OAh0r+adQAAAAASUVORK5CYII=",
     "wiki_name": "Mystic hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_hat",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 24318,
     "name": "Spookier robe",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-10-24",
     "duplicate": true,
     "examine": "A spooky robe cut from a bedsheet!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xu2W70uTURTH3X/in9C7XkQQRIQUIRjGkqIl2sAf2EpbKmPaMiTDCjFkFVaSrBL7QUVERURFFFFEBL0I+ktOfe74zrtnbD57pkGwAwe3u+ee+znfc859bGlpWtP+mcWsPt80Kx5wZCFj8dkR68gN2J50d8X3rfE225Zotx3JTtudOrwZYMWAfXcvWO/SOeeJfNYOXkrbseVp67k5VQYFyK7BLmsbTjhAoFjbILCYnXi2YEOP5mxg9aIlC+cdGCD8xVkLQu0d67V9maS1T/SVQaFcA1AxS79etJEXVy319IqD6l+ZdWC+s4b7yu2fGiq5D7W9p8MBbWltjQIVs9NvbtipV9dt+Hnejj+et8EHlx0YzmdcYKh29Nqkdc2NWud0yg7MnHSK+VA7++ONAY2+veVUAorSAeW7D0f5/NIBhguKMqrJIwONvV8qQVE6oOSUERdYUCXAKCGfUQuVaPSGgDIflx2USgcU5ZMLTlC+SoB1L+ZKigVVCp62jhVhfGU4lHXABCdAKeWrBBh/9f3Q/LhTil6KoFKxXBymcpC9Jk/uq6ZJlEpMHepoje+Uj+sgEhC9gzIaaeTXOk4Z/VKqr6QS9xOq8DvrxAGQeyoSEApQBgKrOaWcXGA+FBPHHgC4k1R61ikdV0IkIA5BbrIlMwXiAHz8w+2yKfTvK2AAoGekKuuUkgZXHwVPrWJr/YP8BJE6+OTXFct+KjgXFCr5A6BLU0lkP99xwICiNhNXh0rl/UPvEERAMz+f2MSXe+6QalCaOPULz/McvYTiSjA0EMHZ7L/hBZT/9dKpJCiVz+8nJaOJ4lme43eU04CEBlJD68WJC6jw+53lvt+3M99Wq0KhEslwEQoINdUK/MYEFmPWtJgLLNn9d9ZaRjE7++Ohgyop9fcw3epqciZNSfhASlaqr6NSsaF1C/uvivLN+mertiuBIBBx6bFQQLr4/MsPD27mcxivBkSPBmNWscpMtTHE5ipWGa+umMEsQ2+sYcFYGxGzaU37r+wPSY3IysDXpAUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xu2W70uTURTH3T8RVFBmlGDSNGopNlS0lTZSMbVlSIZYSIXYD6RCKoYVUhFFEBQFQURBRBBBBNGbXvWmv+jE5z58590znrk90yDYgYPb3XPP/ZzvOec+NjTUrW7/zBJWnW+YBQccmB+15MygteR6bWe2o+T7pmSTbU4129Z0q+3I7N8IsCBg9/JZ61o67Ty1MGZt57J26PaUdd6YLIICZHtfuzUNpBwgUKytE1jCjjyft/7Hc9a7Mmvp/BkHBgh/cdbCULuGu2z3aNqax7uLoFCuBqiEZd8s2uDLK5Z5dslB9dybcWC+s4b7yu2Z7C+4D7Wls8UBtTU2xoFK2PG31+3Y62s28GLBDj+5YH0PzzswnM+4wFDt4NUJa58bstapjO2dPuoU86G29SRrAxp6d9OpBBSlA8p3H47y+aUDDBcUZVSTxwYa/rBUgKJ0QMkpIy6wsEqAUUI+oxYq0eg1AY1+uuOgVDqgKJ9ccILyVQKsYzFXUCysUvi0NSyA8ZXhUNYBE5wApZSvEmD81fd9F0ecUvRSDJWCcnGYykH2mjy5r5omUSoxdaijNb5TPq6DWED0DspopJFf6zhl9EupvpJK3E+owu+sEwdA7qlYQChAGQis5pRycoH5UEwcewDgTlLpWad0XAmxgDgEucmWzBSIA/CRj7eKptC/r4ABgJ6RqqxTShpcfRQ+NcJW+wf5CSJ18Ilv9+3E57xzQaGSPwC6NJXE2JdlBwwoajNxVahU3D/0DkEENP3rqY1/vesOiYLSxKlfeJ7n6CUUV4IVAxGczf4bXkCXf79yKglK5fP7SclooniW5/gd5TQgFQOpofXixAWU//Pecj8e2MnvK5FQqEQyXIQCQk21Ar8xgUHMspZwgSW7/85azShhp34+clBSisN0q6vJmTQl4QMpWam+hkpBQ+sW9l8VxZv1z1Z5VwJhIOLSYxUB6eLzLz88vJnPlXgUED0ajhlhpZlqYwWbI6w0XlUxw1lWvLGMhWOtR8y61e2/sr/E2Q/qr7an+gAAAABJRU5ErkJggg==",
     "wiki_name": "Spookier robe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spookier_robe",
     "equipment": null,

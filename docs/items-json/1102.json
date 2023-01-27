@@ -1,7 +1,7 @@
 {
     "id": 1102,
     "name": "Iron chainbody",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A series of connected metal rings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xs3WbUtUQRQH8N1vIvgiEIIlkJAQDAkJQ5IkMUkyySB71cuK6IGKoqIoCipKLFotrETMHhRWTHsiepK+zuR/Lv/xzNm5t73uFA4c9t67s87Pc87MbqGw8UfRhCP0/j8fRfNi7JSZHD1p49nDE2bi/nEbRCxMXzGVqctm/uWlAEr/E3XDExBRADE0Zu75RfP66XlvYdzjPR0+KheyaKYena5C4RUQBkGzE+fM9JMzdi5eQyDMl+iV5THzY/He+lAE4ZrZIejt5AUL4tw0ED73a2nU/P5UXo1xC8IapYYGG3p1NZK0878mCIuGQDPlsw6E6xBoceaqB8I1QXp1NYpeGbAQmxv3GoTFgWB500DLs9fjgZglPANI9kJWSNDHNxJUzgdiX2gQd9O2lhazpVQym5uavOCzTY2NNiTq87sbHujn+wf1g/CcIMT+3l6zp6vL7O3uNlubm939kaGhKtCXuZtxQQiUEu9vb2210dfTY3Z1dFgcQLxnlghCv32r3HaglQ+PHSY3SKLwxwna2d6eGrs7O6tA3yt3giC9espImhI7JgTa0dZmg5liCZEl2UceaOHuekHJGYQM/Q2EEjEA4jV6CiiCsDM9kDgU9epqJFs+BEIQhLIAhCY+sK/PZYn3zBLmIjtRQUQhJIgoWT5ZNkR0kMwSXjXo8OCgC4B4fWhgwOufpVfXBGjcYWoCYYeFQPw6wBxsbYDYM7qnkCXZP/jakBmqMTsYayDdR3guQUTJ8smyyXLhayMaiCg8528agnAiHx0etq8A8f5gf78HwiktQUTp1QMjAYXKJkE4+Ag6NjLissV7ZIkg/Oz4On/LgXAG5TiHfJAsmwZhi6cF+gjzkJ26QdhlWSAskKQ7O1iuaCBdNjwnCM2NRueXLg5NnlX4HOcChC3vgVbPoNznUKhsEoTrLBDPH8yNAgqVTYLwnvxZIkGYx/MnAgijuh9CITEyNAiHogQxcoAKBR7rWaGBMmT/RAHVOjSyFixjbe5/GhoZCv2ZDT3+AIfBG+pi//uxAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAklEQVR4Xs3W7UtUQRTH8d23EoYkSUqmSYYZPoSZYWSveltRVFQUFRVFBFEUIkUPIj0hiD1QoWCIiZQRREVR1F828b2X3/Xc2dlt172FA4e99+6s8/GcM7Oby638kXfhCL3/z0fePR456B4OH4hi7OZ+N3p9XxRCzE6cdjPjp9z0k5MBlP9PVA2PQUIBUviYqUcn3IuxY6mFuec9P9KoipB5N37rUAGKVyAKgZ6NHnUTdw5Hc3kNgZhv0T8WRty3uWvLQwnEtbIj0KsHxyOQ5hYD8bnv88Pu1+Jd93vxfgRijZ6Wlij81b0Rp13/tUAsGgJN3juSgLgOgeYmz6RAXAvkr+6NfKoMLKTm5t4HsTgIlbcYaOH5uexAyhLPANleKBUW9P7l+QREVARSX/gg7aZ1DQ1uTV2dW11bmwo9W1VTE4VFfXh9IQ16e6N6EM8FIrZ1dbkt7e1ua0eHW1tfn9zvHhgoAH2cupgtiKCUvL++sTGK7s5Ot6m1NcIB0r2yJBD99nnmcgL6+e52gqkYZFH8cYE2NjcXjc1tbQWgL2+uBEH+6kVG3JTsmBBoQ1NTFMqUSkiWbB9Z0NfZq8sFxWcQGfobiBIpAOmangIlEDvTguyh6K/ujXjLh0CEQJQFEE28vac7yZLulSXmkp1MQUIRFiSULZ8tG5E5yGaJVx+0q78/CUC63tnXl+qf+adnExCntDBlgdhhIZC+DpjD1gaknvF7iizZ/uFrw2aozOwwlkB+H/HcgoSy5bNls+XiayMzkFA8128agTiR9wwORq+AdL+jtzcF4pS2IKH81QMjBoXKZkEcfALtHRpKsqV7siQQPzs+TV9KQJxBFZxDaZAtmw9iixcL+oh5ZKdqELusFIgF4nSXDpUrM5BfNp4LRHPT6PrS5dDUWcXnNBcQW96COIMqPodCZbMgrkuBdP4wNxNQqGwWxHv2Z4kFMU/nTwYgRmE/hMJibPggDkULUlQAyuV0rJcKH2jD9k8moHKHjywHq1ia+5+GjwyF/5kVPf4ACKMjhdJ19RQAAAAASUVORK5CYII=",
     "wiki_name": "Iron chainbody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_chainbody",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 706,
     "name": "Mixed chemicals",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "A mixture of strong chemicals.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACh0lEQVR4Xt2X32tSYRjHff8Bb86FN7vYXVA3rt1EC7dsc+aZx202M51mFpNizQ2dkloMFqtg9JOKiqAgiC5WUdouoovoD/u257w9x+NruwiOr9ADX5CD+n74PN/jD5/v/xiB3gx1BB7eNrFVP4ON0gRyqeCwoQR+dUr4+WXFzssHC9hpzQ4TSjgwPz5dxvPdeWzfmLGBgqOjuqFkZxjo+14RT+9Z9vqG0CeBXK6IQuGKY2f/QwGP78zhZvU0TDMBK5HUCSVQKl3ry3LuEs6nc1hMpjETielcncBaed1OubzhJJstIJXKIhazMHFqUi9QrVZ3Ut2soVKp4kImj7iVxNTUNIJj4zqBaAT2Pn5Gp7OPdvsbvrY79rois6ZTaoLRCrS6uoZGo4lWq2WH1hWNxocBQyMO1rSJZrNlh4GoP5pXxSPwvjhiG2o0ZWhl5tw8QqGwzlueRuBFJoB3hREnBHfrrIHrkwYy436dlgR2F3thKHRtyzSwHjaQP+HHQlBCqa8ewAi8yvbCMNB23EBl2kDxAGhpTIslgfvnAnh7sR+Iru9YAdQjBlZO+u21abAk7RCQCkVAdxMBNKIGrob8OixJO2/yXSB3Hv0B4mJrsCTvLBXEDeQuNlmicg/IkrAPfL3cD8J5kpJAXGyyRGsbkCWBZ+nD18VA7mIP0JLsDpWZgA4LA3GxVUtLxz2zJOzDVAA1ZNBdbLZE5fbYkiyzCqCGgbjYbIk/AshS/JiHllQANQTtLjZborWRoehRn2PIE0vUIQ7dbWoYyN0jhgkf8RSGR/4KpIMpKhw9ZiCG4d4MAEaOfEP+z9W1xkDUI/7qUEE8h3FP94AunBotIH8b98Fq1Of+6/wGnSniHaqpnpAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xt2X3UuTYRjG94yXeVQUFWFmzXKr+ZFbuo+2hUZqNpuxLDKNRGlDmYyJ0Nwigigo6iCIjqKjsM509A9e7X4e73fvnuVB8O4ZdMMF42Xb8+N3X+8+PJ7/YwRa09URyD+5jEfzFzCT7sX1kZPdhhL4+SWNH59TMtvPQ1jJDXQTStgw3z8mUFq7gqWFixIo7PebhlKdYaBv7+MoPgvK9XWhTwLZhUXkco9tO1/fRrHxNIAHc/2IxVJIpm6ZhBJYXl5ty73sImZms5icmkU4HDW5usbdVdiQKRQ27WTmc7g9nUE0mkQgGDILVN7esVMqlVEsljB39z5uJKcwNDyGvj7VJUNANAJ7e79Qr//GwUEd+/t1ua5IJGaXmmCMAq2t51Gp7KJWeylD6xofT3QDhkZga6uEarV6mJrdH8Or4hH4lO6Rhiq7VRlaWTx+E1dDoyZveRqB6oQPH5I9dghuKWDhTr+FiTNek5YENkdbYSh0bSVoIeO3kDjrxfApBaW/ugMj8CraCsNAqyEL2QEL6V4vwqeNWGoU+ZoP7xLtQHR9fciH3CULk+e8cm0GLCk7BKRDEVC+AfRw0ML0ea8JS8rOm0MYPeUxBcTFNmBJ3Vk6iBPIWWyyROXukCUhD3wdawfh7EQUEBebLNHaOmRJ4EXk6HUxkLPYHbSkukNlJqCjwkBcbN3SiHuWhDxMB9BDBp3FZktUbpctqTLrAHoYiIvNlvgjgCyFTrhoSQfQQ9DOYrMlWhsZGjzusQ25Yok6xKG7TQ8DOXvEMP5jrsLwqF+BdDBFh6PHDMQw3JsOwKhRb8j/uZrWGIh6xF8dOojrMM5pHtCE02ME5G/jPFiP/tx/nT8/xYT17qYnhwAAAABJRU5ErkJggg==",
     "wiki_name": "Mixed chemicals (Step 2)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mixed_chemicals#Step_2",
     "equipment": null,

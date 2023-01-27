@@ -1,7 +1,7 @@
 {
     "id": 19634,
     "name": "Soul bearer",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-19",
     "duplicate": false,
     "examine": "It can carry an ensouled head away to a place of safety.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEUlEQVR4Xt2WS2sTURTHe7+BKzfdBFwECoGhUIoMgUjJIugihWy66KIL0UUXEYRKV4qo6EKDSoUWrIgQIyrxQWOsISqttlTbtIl92IdttLXio36Do/+TnvHOtC5qb7B64E9mkszc3z3PW1Pz75si7zd/0RRl+k7SDoJSlMudZSDL59sJUIoGB85vA8ioZxW9GEzQyMilPwRS9DR/zmS4FU2MX6VCodsDhAW88pri5wRo65vZ1BTNzKRpcvImFSeuOYu3hepZLXaAog11FLH8m0ApfsZg/ikO1cz0XSqVbvBuAXA43Mhqj+x1QXk9iI0YB5qb7aOpyVv8YiwuICLctwYtijXqXqoIz+K5J/1nzAEhVOIhgTiy36ajB2wH6GBTA9m2RT3dcerqaueeVS4P0MJCP+efUaDxQg/Nvn1I8Te9dHElQ72rebrzeYiyX8cYDFCxWJghHtw/Qa9fXabFxTwtfxh2gB5nT5sCgimKRGzqKKd48fSXYYbJfRtnIAhAkmuAeF8epI8ro3yNDRkHQlgkTAKTXys6IQTQ9NRt1tLSc1peHqFPq0Wan88y0KPMqeoBQc++l1gCBSAIyf9uIceeAcz8XIaT2jhQzK5zgDqiQZdaQgH+PYoqa/BzzoyNdtHQywQVxq7w9fbGzgarAIl3BKSzOcTyAjVZe1x9SQSYqgO17rNYOhSA0K/0RmkQBqZ4wc2A8L3IC4RGaTBMYj8bYynplDeExeGVtnA9Q3iFJgnvAMhfu2s9ZEasckq8lz5O8Xiz0wR1wSO6AANhhCCPjOcOzkGpVCclLhyiUvG6k6D6kMXiSGZIQoVPzDeDIVNcssnkMX4xRkKQX/yramTiAwh54+SOXak2y7fbLJDsEp7AgJVSRpNDR5bBiv8FAz7+BIiUv0EgxQsABkKjA4AcO5BLuJZpj5yR4we8JOGThDYG5E1g/RzEA3W9qnQvNfprHRlPaJS3DqOXtrf/SN4ASnLMIIyY+wDvLXEBkXuEqwqecZu77bsBdVDxjg7kfVdVTAf8HWjVvLMV2wj5H9gPIR6XMdcnYC0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xt2W30tTYRjHfYmQxXAMxTgbOVmEyC4ML4SgwIsFgYE3EVFRF2VUWGBBEkFgjaLIqLCV1WIRYUaKUf7AqWkapqbUIi3wooj8N574PvM5vOe4Lsx3ZD3wZedsO+f9vM/PNy/v3zdF7m/+oim63bKHVhGUooeJAwy0ubR0NUApetp2aAVARj2r6Fl7Hb3oOvaHQIoeJQ+aDLeiVP8Z6uttcAFhAbfcpvg5AVr+ZrKaordjzTQyfJFSqbP24lXBQlaF5aOyogIK+71ZoBQ/YzD/FIdqbPQqDQ2e590CYFuomFUdXu+AcnsQGzEONPGuhUZGLvGLsbiAiHBfGfBTpFj3UkZ4Fs8lHuw3B4RQiYcEYvtGi3ZssmygLSVFZFl+OtUQpRP11dyz0uk2mn5/n/PPKFB/32kaH79F0deNdHQuTo3zSbryrYPu/uhhMEBFIiGGuHljN716eZxmZpI0+7nTBrrXus8UEExROGxRTTrGi1/73skwiZ/9DAQBSHINEJ/S7fT1SzdfY0PGgRAWCZPAJBcG7BACaPTNZdbHD09obraL5udTNDXZykB34ntzBwQ9XhhiCRSAICT/9HSCPQOYyYk4J7VxoIhVYAPVlAUcqgj6+PcyVFmRl3Omp7ueOp4fod6ek3y9srGzxDJA4h0BqS0PstxAJf51jr4kAkzOgSo3+Fk6FIDQr/RGaRAGpnjBbED4XuQGQqM0GCYxRcNDTXZ5Q1gcXqkKFTKEW2iS8A6AvPlrFkNmxDKnxOvNuygaLbeboC54RBdgIIwQ5JHx3ME5KBarpbrDW2lw4JydoPqQxeJIZkhChU/MN4MhU1yyF5p28osxEgIej6NqZOIDCHlj546VqTa/Z61ZINklPIEBK6WMJoeOLIMV/wv4PPwJECl/g0CKFwAMhEYHADl2IJdwLdMeOSPHD3hJwicJbQzIncD6OYgH6mJV6V4q9ubbMp7QKG8dRi9td/+RvAGU5JhBGDHnAd5d4gIi9whXDjzjNGfbdwLqoOIdHcj9rpyYDvg70Jx5Zzm2FPI/sF/VexNgdGfEpQAAAABJRU5ErkJggg==",
     "wiki_name": "Soul bearer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Soul_bearer",
     "equipment": null,

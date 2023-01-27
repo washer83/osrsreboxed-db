@@ -1,7 +1,7 @@
 {
     "id": 147,
     "name": "Super attack(2)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "2 doses of super Attack potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xt2X20uTYRzHff6PiOGEgaJNx0jd1J3cppvTtTIPLeZhblo2lzu4QxEViRBZgRUWFHSTkFrp9MIkxAo60cnRRVfRRRdddNEf8O19nrf3dZsWBNs76Affu717Pny/3+e3dyUl/8cQZKuoQ3D5vA1nokYEfRq4O5XFhiLYTPmw8WiIaXbaiQtJSzGhiAizvjiA6xc7cC7WzICUMpnUUHxnBKC1+X7MTDlYfEXoE4Hb3Q+PZ1B0Z3XOg6uTdpwK6WGztcPR7pISisDnG9mhI+4+HO5y44CrC83mVimjIzgRGGMKBIKiens96OzsRWurAxptk7RAkUhUVCgcwfh4CN09R9HmcEGnM0FZrZISiA7B/MIDpFKrWF5ewdJyisVlttjEUlMYSYGOjwYQjyeQTCaZaFxWa1sxYOgQhEJhJBJJJgGI9kfiqIQhiCcSWaKR2ewd0Gp1Ul55OgRjYycRi8WzREtN94/BYJbaJf6WTUzERHmHhtmypDtIKLZEQITtnGh0QhQFoovR0+dlPaKb2miU7EeWIBgcF3eQAOX3H8PAoE+MzWK1S+ESwcjIKLtdYW4ZKmtmUF45CbkiDJlsAF6vX4yNlttkshbaJQKj5SN0za/RoH8GjW4NdZolqOvmoFTfRKXyCgNUlCchlwchk/sL6RJBo+EpWhzfYLF/QbPtM4wtn6C3vIPO+OI34DrqGlawX/OQQdao7zDQArhEoNU/gd78Cm3OLThcP2F3/oCt4zsDbLF/5QGpexlwStUsKqqmCuESQZPhOUzWLTgPpneVwfyBATfqN1Hf9Bjq2vs8kPISqvZN59Ml6s4Gd9hbHOpO/1EUlgFxsQpA1apbqKK9qprkYMryBcW5Y3rJXMgE6HFniwd6kw2kvs29hlxjsSnKT+crOsIOywXIldWeDVRbvwBV7V0uthsstvKKsyhTRPLnktuT/qt2Ai1yLt1jsVGHSkuHRYfy4lJmZIIrAkz/YJrdPtozWn5t0zpziMLQ/uzZ25tPGGH4t0DqBD08FzATSLhhdEEKz+UZhh/+C4X/XCQLjL/673kYrsi5IHmHyZztA7bhciUJyG6TeXCucj/7r/MLpMMWlKSWJmgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPklEQVR4Xt2X3UtTcRzG/V2VY07H1DHn5qZua767pTNfykjFl7Sm5MuaWZlLW8535yyCQCiIorAgkLoJKwh0GUQRREEUEahBV1111VX/w9P5/Y7nuE0LgrMz6AvP3djvw/M83y9bUtL/MQTRSugQDPXl4USbEY21OjiK1ImGIni8WItHt2uYJs7ZcdJtTiQUEWEe3KhC4IwNvR05DKjMZJIbiu+MALR03QX/KSuLLwF9Imjv6ILb3SO6c2+hAsNeCzqbDaisrEF1zWE5oQg8noEdOtrehcamdhyqb0JZWYWc0XHb5Rtm8vlGRLW2uXGkoRUVFdWwWO3yAo1PTIkKBMbh9wfQ3HIMB6rrUVBYCr2e75JMQHQIlpefIBxew+pqGCsrYRZXeXmlWGoKIyvQ2UEfgsE5zM9fYqJxOZ1ViYChQzA6OoZQKLSlebE/MkclDEFwLhQlGpnLVQebrUDOladDMDzsx+xsMEq01PT+FBWXy+0Sv2XT0zOievv62bGkN0gotkxAhN2cqanpCM2ww9jZ1cN6RC91cYlDrtgIRi5cFG/Q5CQvb/9pdHd7xNgcDpccLhEMDAyy7Robm4Ba44cq1QuFsgXJyVXo6fWKsdFyl5Q64+0SgdH8BvqcNWQZnkKnX4JWdwfp2gWo0yeRqj7PAJUqNxSKRiQr6uLpEkG26SVyrd9htnxFTt4nGHPfw2B+Bb1xZQvwIbRZd5Gpu8UgNekhBhoHlwh71Jj7DvbCdVgLfsFi/4k82w8GmGv5xgNS9yLgNBmXkab2xcMlAoPpNcz56ygs3dhVprwvDDjb+IIBZeoWeSDNKBflkJQuUXeec499RJlz44+isAyIi1UASs+4whV/HCr1IAejlAqKc8f8lrkQCbDfFS0e6EM0UOZVrkezLLYUlUeq6Ah7LBYgVvn7ooG0WfeQob3GxTbHYlOl9UOZclw6l1zVm3/VTqD7nEs3WWzUIYWiQXRIEpciIxNcEWBqDm6y7aM9o+XXG54xhygM7c+evdu/ryWAEYb/FUidoI/HAkYCCRuWoureikhyGH74LxT+c5EoMH71P/MwXJFjQSSHiZztB7bhYiULyG4T+XCsYj/7r/MbDc3FI9XUQx4AAAAASUVORK5CYII=",
     "wiki_name": "Super attack (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_attack#2_dose",
     "equipment": null,

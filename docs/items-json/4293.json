@@ -1,7 +1,7 @@
 {
     "id": 4293,
     "name": "Cooked meat",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": false,
     "examine": "I wouldn't eat that if I were you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQElEQVR4XuWXQUsCURSFff/AVRs3QgtBEEQQCREMERFFFCWxEGoRtGgTBEEQBEKLIIgggmgREUREv/HmeTPXuU1Px3kz6qILZ6X4Ps49975nIvE/SpFZGylFtes6VS93qXxeoZ3THSoeF6lwVNgElKLGTWOm+mFdq3JR1VD4PJ9OrwtKUfO2ORPDQHCrdFLaANBdS0vCQGhh+axM+fHa2qaodd/W8sNoTRo6T2tqWwCMK25bbpRftUuK2g+dP7mR0i2bOoRJy3azq3RJUeexa8yN3x2MP9zZrm2vAshbdkEwMj9wJ1VKxQnkQMAVtCkoN9DuVU27gwmDO8lMMg4gDwQQerwN+8YvLEcsRYQ5O8j9cscSyAziP3ieeP8gzBHdcUD09ISEkJJhtnRHgFhCsHjUEeZMM2PjTjwgLH3bu9eFtTtBQPLyXBjqiQjzdNQt3EG5S27eISGAMOoc5nQFEKHdQSnqPvXmHrIsEEadw4xR38pv2biDUtR77hsPWQTk/74Ms7wmrID6L4M/B4QVtwujHsEdlKLB65717kGrNIz7jsaoR3AH5QDBJWRJggXCTZzcAMY06v6TlixFw48RDd6GocCQGTjDQHyrR3QHpWj/64BGn/u09z7UYIBC0E1gkP5nMXUHULx3kB056v5TQpaig++xBoNbGky4xc8OCTbLjtuqiJeoqbzHl2wfOyXfQgCTY86tiqFdv8v7MQ9OQsh28eMdS1CCxAbjLxMc54ZbtRJXlikT3FpcWaYkRJwgP4Ci8AbhjAH4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACO0lEQVR4XuWX3UsCURDFu4REIYYkhkqaRkptaAoFPQS9BEEPQRAIPQRBEARB0EMQBEEE/dWT57rjjtvV3b374UMD50nx/jhzZu51ael/lCKzFlKK6jcNql1tUeWiSptnm1Q6KdHG8cYioBQ1b5sTNY4aWtXLmobC54fb21lBKWrdtSZiGAhulU/LCwC639GSMBBaWDmvUHGQWdsU7TzsavlhtIZNnaeM2hYA44rbtt4rpu2Sot3H9p/cSOmWjRzCpBU6hTRdUtR+6hhz43cH4w931upraQB5yy4IRuYH7qyUV5IEGkPAFbQpKDfQ1nVdu4MJgzvL+eUkgDwQQOjxNuwbv7AcsRQR5oKzPuWOJZAZxH/wLPH+QZhjujMG0dMTEUJKhtnSHQFiCcHiUUeY8628jTvJgLD0be9eF9buBAHJy3NuqIcizKNRt3AH5S65WYdEAMKoc5hXq6s27qAUdZ73Zh4SFgijzmHGqOeKORt3UIr2XvaNh8wD8n9fhlleE1ZA+6/OnwOiituFUY/hDkqR83ZgvXvQKg3jvqMx6jHcQY2B4BKyJMEC4Ybj3ADGNOr+k0KWou5nj5z3biQwZAbOMBDf6jHdQY1+4LtPva9DOvjoajBAIegmMEj/sxi5AyjeO8iOHHX/KRFLUf9noMHglgYTbvGzQ4JNsuO2KuYlairv8SXbx07JtxDA5JhzqxJo13R5P+bBSQjZLn68YwlKkMRg/GWC49xwq1JxJUyZ4DJxJUxJiCRBfgFb8ynbJluVeQAAAABJRU5ErkJggg==",
     "wiki_name": "Cooked meat (undead)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooked_meat_(undead)",
     "equipment": null,

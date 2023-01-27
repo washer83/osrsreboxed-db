@@ -1,7 +1,7 @@
 {
     "id": 6544,
     "name": "Catspeak amulet(e)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-09-26",
     "duplicate": false,
     "examine": "It's an amulet of cat speak. It makes vague purring noises.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeElEQVR4XtWW7WccURTGc/+DfsqXfFnyYRiWEUasFZYVEf3SUqmmEomQhiqtSggtS2hptdJWmrA2lpVXSYnSf+80z7nO3pk7O2PmzuxWHx4zu3tffvfec87dqan/V4ryu3LZEyj6fODT1w91OvoSUPdHQIPu3ND9E+ON1ZlE35KgivbfevRuz6POvkcH7/0YTO/nHJ2fhvTrbJ59MzC+6odDo03UBrSQFH3s+LT7epaBAIPPgDk+DHgHMNnd5Tz9uW0M/ftaG9+LbeCt9RoDBTU8c0sfzZuXs7w7gPn2qc5HlNz+0bYhBfTVC0cg7IZ0jhoD5bHdT4xFOgPtbJnVxCfLp2Q/HZdOQDgyx/POkOKYdBhTB7VkRMHOGVKcIA5j6o6rK9UDYaESR/avGVKcUY7nnSIdBiglMmaBcRXXDKS6ybQy0jBYYIm4VFxZscUyiN0in3TGop4BqNl44A6EwoYrAoNJPNmtsqVhEI/IrpXHJiYdgCDF1RXXBVb36OF0AShdCLHDWFC0QjvCiHQ84ULFKvNdjjpmAIPdAVBFMCLFdxGODxNIBbdbaZldwQJKBnKWdEwh0BEXkr52GwGBTb2pdHeiUlQPQzbiSq4BsYDUfJ+9tln5UdkyQGIvCGLvsAA9e15lYR2p+zT+vpCASgN68tTpr0YR3Q/ebCZA0oBmGGRsQBpGbMOkAQmUPVpJxWEECJN3mmHME4JSFLZabBvKtg0Ee57z/ZUmRRe3y9RoLybAbKAoFLy9Ux9X6muoweUS9c+XqNtv00mvzU98xvvhUSvhMcGITBEUA/Dsepl6g0V+2r+PEUZLJjATjQaIt5mw/jnAJPQXXkv5p6FVlkYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdUlEQVR4XtWW22sTQRTGO4iUlGXD0qUhBtLbQykWjaJSqKUIirQPhYqFgoKieKOlhUCEQKTFlmp9EAT/36PfGU5mdza77M5uIn7wsUl2Lr+ZOedMpqb+XynK78plT6Do9YFPb1/U6fBNQN1PAX3pzg7dPzG+35lO9C0Jqmj3qUd7Ox7t73p08MyPwfSOZunsc0g/TufY3wbGF/1waLSJ2oAWkqKX+z5tP55hIMDgO2CO3wW8A5js5/kc/f7eGPrXpTZ+F9vA6/dqDNRZWCgCpY/mydYM7w5gPryq8xElt3+0bUgBffTQEQi7IZ2jxkB5bPcTY5HOQJvrZjXxyfIp2U/HpRMQjszxvDOkOCYdxtRBLRlRsHOGFCeIw5i6Y2eteiAsVOLIfpshxRnleN4p0mGAUiJjFhhXcc1AqptMKyMNgwWWiEvFlRVbLIPYLfJJZyzqGYCajWvuQChsuCIwmMST3SpbGgbxiOxaWzUx6QAEKa6uuC6wupXl6wWgdCHEDmNB0QrtCCPS8YQLFavMdznqmAEMdgdAFcGIFN9FOD5MIBXcbqVldgULKBnIWdIxhUBHXEj62m0EBDb1ptLdiUpRPQzZiCu5BsQCUvN99t0HlR+VLQMk9oIg9hkWoNt3qiysI/U3jT/eSEClAd285fRXo4gUBc1mAiQNaLo2lmAWaRixDZMGJFD2aCUVhxEgTP68GcY8IShFYavFtqFs20Cw5znfX2lS9PVqiRrt+QSYDRSFgjc26+NKfQ01OF+k/tkidfttOum1+Ynv+Pz+sJXwmGBEpgiKAXh6uUS9wTw/7fdjhNGSCcxEowHibSasfw4wCf0BfqWNmjI9620AAAAASUVORK5CYII=",
     "wiki_name": "Catspeak amulet(e)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Catspeak_amulet(e)",
     "equipment": {

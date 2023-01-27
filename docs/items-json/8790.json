@@ -1,7 +1,7 @@
 {
     "id": 8790,
     "name": "Bolt of cloth",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A bolt of ordinary cloth.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQklEQVR4Xu2XTU8TURSG6T/hJ/hL3OCGuJINLgyJESMiIQRRREIgiEgghAqVhgbkQxAQCFSgTQuW0tZWviKEBT/jOM8xZzKWulCnupCbnMw0986c577veydpRcXV+CsjIKXrn4yADA72SHf3U3nS1iSNjfektvaWVFVdLxdU8a5/LCCGh/vkZV+ndHS0SHPzA6mruy3V1Td0/lplpZ9QAd15ff0daWq6L+3tzdLT80yGhnrldfCVhMPD0tXVJmOjAzIw0O2qxPqampt+AwVkdXVOARoa7kpLy0Pp7GxVJVBkfHxIIpGg/ubeq5LZVhagF73P1QZ2jgIogToTEyMyMx1StQDzqmS2lQWov79LHrc+UnWAAyAUGpTJyVGZmwsrCGCmEmvMtrIAsWtsYOfAjYz0a3ZmZ8dlcXFSlQLMq5LZVhYgjjTBJR/c05Tm8/MT8mF5WtUBzFRCQbPNd6CVlRnXBnZuYX47NSZLS1MKDAxgphL5MtvKAoRFWAWMhRm7mNvYeK9Qa2vvXJXIl9nmI1BAEokNbYpF9t1BHcKMXevrC7L5cVmi0UUt1qISwGabr0DJZFSbsGNguNpRRw0gYrE1ra3NFVcl7GQ9mfMVaHd3S4FQxWBohgpkBghUpOLxdVcl7OQZbPMVKPUppg0AobCKZgsLEc0NygBN7exsyvb2qqrEPOvJnL9Aqbg2AMRgyA6ni/ygDGu0HHhTiXmzzVegdDqhjcmMFwZ1aEzG9veTksns6NVUYt5s8xWIJhxrMmMwWAgk+cGqXC6llc3uuioxb7b5BBTQBuycY83JoQzGThdWFfL7Uihk9Goq8YzZ5huQ7RwlOFFeGGwhP1h6eJhzi/VAem3zDSj/eU8LJexLbDDYghIoeHxccMtUAtZs8w1IrXDKMgEMahkMeUGR069HbplKXtt8Azo4yGo2OEmlYFACBc/OTtzKZg8cy3Jq5dFR3jkQCQm9mVGo4g6/OAK6W6AAMBjgDIbQA3x+fqoNAQgGI7oOK09OvsjFxbnzcQz7odL3BkBFo0knQ9uObXG9j8VSTkbSDmhG9tJ5T7PL/0asmP9DIMblF5cqbzO7L1XFb/+tUfzSn1Xxc1fjvxvfAKiQExFuwVlfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xu2X0UtTYRjG3X/iVRd2Yd3kjUEgkZFkImKWmYiIWSYiIstaMmRimplmVqKILJUxNszmkI2lJopIguSNf83bfm+8h9NcF9VZXeQHL+eM7zvn/X3P83wHVlR0Ov7K8En++ifDJ93dbdLaeltuNdRIdfUVKS+/ICUlZwoFlbvrHwuI3t4Oud/RLE1NdVJbe00qKi5KaelZnT9XXOwllE93Xll5SWpqrkpjY620td2Rnp52eeR/KMFgr7S0NMjj/i7p6mp1VGJ9Wdl5r4F8Mjv7QgGqqi5LXd11aW6uVyVQZGCgR0Ihv/7m3q2S2VYQoHvtd9UGdo4CKIE6g4N9MjoSULUAc6tkthUEqLOzRW7W31B1gAMgEOiWoaF+GR8PKghgphJrzLaCALFrbGDnwPX1PdDsjI0NyNTUkCoFmFsls60gQBxpgks+uKcpzScmBuXd2xFVBzBTCQXNNs+BZmaeOzawcwvzs+EnMj09rMDAAGYqkS+zrSBAWIRVwFiYsYu5hYVXCjU399JRiXyZbR4C+SQWW9CmWGTfHdQhzNg1Pz8pi+/fSDj8Wou1qASw2eYpUDwe1ibsGBiudtRRA4hIZE5raXHGUQk7WU/mPAVa/bCkQKhiMDRDBTIDBCpS0ei8oxJ28gy2eQqU+BjRBoBQWEWzycmQ5gZlgKZWVhZleXlWVWKe9WTOW6BEVBsAYjBkh9NFflCGNVpZeFOJebPNU6BkMqaNyYwbBnVoTMbW1+OSSq3o1VRi3mzzFIgmHGsyYzBYCCT5wapMJqGVTq86KjFvtnkE5NMG7JxjzcmhDMZOF1Ztbq7L1lZKr6YSz5htngHZzlGCE+WGwRbyg6U7OxmnWA+k2zbPgDY+rWmhhH2JDQZbUAIF9/Y2nTKVgDXbPAPi5ZRlAhjUMhjygiIHX3adMpXctnkGtL2d1mxwkvLBoAQKHh7uO5VOb2cty6iVu7sb2QMRk8DTUYXK7fCLw6e7BQoAgwHOYAg9wEdHB9oQAL8/pOuwcn//sxwff81+HINeqPS9AVDhcDyboeWsbVG9j0QS2Ywks6ApWUtuuJqd/DdixfwfAjFOvjhfuZvZfb7KfftvjdyX/qxynzsd/934BiX2fxC/r4BNAAAAAElFTkSuQmCC",
     "wiki_name": "Bolt of cloth",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bolt_of_cloth",
     "equipment": null,

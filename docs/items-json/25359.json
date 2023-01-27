@@ -1,7 +1,7 @@
 {
     "id": 25359,
     "name": "League statue",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSklEQVR4XsWX3UpbQRDH3TfxEfoqvfGmVyrUYkPAVq21IQRr/QohQW0aDEGrkmCIn/hZb6Q+2JTfbObkeC6le3Zg2OzxxP0x89+ZydjYq82J9+jmQZrNmtTra7GhnKyvl6Xd3paL82M5Omwp0Jvx8bhQ+J+Hc9nbawwjlHV7LzfzQERpc7MilcpXKRY/yOJiUUqlBYX6vvItr3Q6ub4+kZ+7VY0QUK1WXarVlURTPoV+DZxOJzMzk9LttqXfP1AtZdOVhggMgznZ32/qwVdXvReiTnv2WwHNyezstEKQNotQzhBpczI/X1CIH6sleXq6TfbZN3Myl9yi578PqiNuV8QoOSmXv8jd3UC19Pvgl+6jAnHdWS8vu1prOp3duED0MNbB4FCL48vak7s5aTQ2hiJ2cnPTT2CiAVGRDYhatLO9NdxHMX/dDchaSNSU2a0yN01FA1pamlMA6hEwdPsRYG42isinuY/aXLny1KGpqXf6eTQ9BgdzKlwbWellANEyEDgrzt9w01RAMKftIQ1FRIBgXV7+rKtFyaAC3z7fVJkIDQpnX6utJnsEzzMmSBN6ILE7PZBxAzHjtAzgWEkdEWI+onCmgbL/6T/ZCIjaw9jKrw9LExWbNLHPAchXZwOi0zN6sAJ3f3+qMHzmGe8CFFBDXj9ExKLBwWenR9o6Hh8vFIhnhcJ7jRClYWLibdgoIViKIgcCwPhB6vBer5Okyga2wKLG/CH0MuD4CWRu1z4LEhDGmz/AH0rLAC7d/XMDyVoaLCpI1kKA/AOYfZD4molQdAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTUlEQVR4XsWXXUtbQRCG3X/ibcGLeqOCVgPBaq3UhhBSrbUhhKC2NkgIYm1LCCXBj4poxbbeCfo3pzyzmZPjuSzdswPDZo8n7sPMuzOTsbF/Nifeo5sH2durS6PxNjaUk83NsrTb23J2+k2+HLUU6On4eFwo/M/vU9nfbw4jlHV7LzfzQERpa6silcorKRafycpKUUqlFwr1pvo6r3Q6ubz8Lh92axohoFqthtRq1URTPoV+DZxOJ3NzU9LttqXfP1QtZdOVhggMgzk5OPioB19c9B6JOu3ZbwU0J/PzMwpB2ixCOUOkzcnyckEhNtZLcnf3M9ln38zJXHKLHu5/qY64XRGj5KRcfinX1wPV0ufDT7qPCsR1Zz0/72qt6XR24wLRw1gHgyMtjo9rT+7mpNl8NxSxk6urfgITDYiKbEDUop3t98N9FPPX3YCshURNmd0qc9NUNKDV1UUFoB4BQ7cfAeZmo4g8X1zQ5sqVpw5NT0/q59H0GBzMqXBtZKWXAUTLQOCsOH/DTVMBwZy2hzQUEQGCdW1tSVeLkkEFvn2+qTIRGhTOvl5fT/YInmdMkCb0QGJ3eiDjBmLGaRnAsZI6IsR8ROFMA2X/03+yERC1h7GVXx+WJio2aWKfA5CvzgZEp2f0YAXu5uZYYfjMM94FKKCGvH6IiEWDg0+Ov2rruL39oUA8KxRmNUKUhomJJ2GjhGApihwIAOMHqcN7vU6SKhvYAosa84fQy4DjJ5C5XfssSEAYb/4AfygtA7h0988NJGtpsKggWQsB8he1gze1GB50tAAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

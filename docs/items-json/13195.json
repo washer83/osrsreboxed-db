@@ -1,7 +1,7 @@
 {
     "id": 13195,
     "name": "Oddskull",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-04-16",
     "duplicate": false,
     "examine": "Ball taken!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xu2XzUtUYRTGff+ONrMOhDbhKjBCQnJhEMYghRlm2CBYZqYig1pmIoqZDcowfqEomjppo+kwml/rFuGiCOofOc3vDO91uLh8743AA4e5zlx8fz7POc8dS0ou6qL+SRk5v0OvwsHz85MyO5OQVGpc3o2+lVd9XdLW1hw2lFGAjyuzsrQ0pVD0xMSIDA31SXf3C3na8iQsKCPLyzOysbEo6+vzHhSNUu/HBqW/v1s6Op5Jc/PjoC00ksksy5ftVX0FKp1ekLXVOYVbWEjK5OSojIy8Ueva21ukqemhRCKXgoAyqkYutym7u2mF2tpakc3NJa/5HJUSiWG1Lh5/Ka2tMWlsfKBAVyIRl1BGDwUCdbhGIdqqhVJYxywND7/2gOrqoq5VKliFMjs7a3o4amDR9NQHb56YLWubBcK2aPSOVFSUu1TJSDb7SQ6+buvr8XFWAVGDbQPEqkMDNDAQV3W6up5LTc1tuV5+zaVKRtXZ38/I3t5nBcM6qwpzY9UBjAhgjhjs3p5OuVd7Vyorb0hp6WVXKhm1ysIcHe3qgaw4YYh9QACEfYCgDAFJBDQ03Jfq6ltSVnbVHRAKsWHAMLQAjY8PeVBWLeYGGGYHy8giVh+FsM0ZEBbRHErOAOOHKgZBHRKbWQIKGKCcARGAdnixiGveAxLlsAYohtzOkt1CFK2vr/WecU6A2J7FxZQHw89kEbPFigPD4wK1kskxb64AREmUY9scAVFG/2K76tjGgSQ2UCjFtg0O9nhzBCRw2AqQhXEERBmZm5tQe2gyibbPNuzh/VjskT4u7H0MdQAwtox3EBFAM0PYh3KsPABVVTe9+wKEoQpA2HF4sCMnJzkNTBQCiCC0a+4H8v8mR2UUhmamfv/5JT9+nsr302+SzQfndN7SeG+nbhb3hAbEgTaZ9w625TD/fEvnbZuaTejWWSA6cCAOs0DFMYBlvM9W2XtCBWLjyCaaCOApbz8r7oCBqML3ZNYcKJoMOg8k4A0rLqOhh000134YCxICjC3/P4dnHTLIWRWr4G//vf99/QXzcwBO3vZ6bAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4Xu2Xz0tUYRSG/VbhJjfhIinNEIkkMzKTzAbEMpNUhkEtMxERs2wQkckfDYOIYpaZZlqDgww2ivgPtApX0aJF/UOnec7wXYeLy3tvBB44zHXm4vf4vue8dywoOKmT+idl5PgOvHIHJxLjMjMdlVjshTwbfiqPejqltbUpaCijAG8WX8v8/KRC0WNjQzIw0CPh8AO523wnKCgjCwvTsro6J8vLCQeKRqnnI/3S2xuW9vZ70tR0228LjayvL8iXz0v6CtTKyqy8XYor3OzshIyPD8vQ0BO1rq2tWRobb0ph4Sk/oIyqsb29Jltb7xVqY2NR1tbmneZzVIpGB9W6SOShtLSEpKHhhgJdLSvzEsrooUCgDtcoRFu1UArrmKXBwccOUG1ttdcq5axCmWTynR6OGlg0NfnSmSdmy9pmgbCtuvqylJaWeKmSkVTqg2S+burr/n5KAVGDbQPEqkMD1NcXUXU6O+9LVdUlOVdy1kuVjKqzs/NJ0umPCoZ1VhXmxqoDGBHAHDHY3V0dcq3mipSXn5eiotNeqWTUKguzt7elB7LihCH2AQEQ9gGCMgQkEVBff10qKy9KcfEZ74BQiA0DhqEFaHR0wIGyajE3wDA7WEYWsfoohG2eAWERzaHkDDBuqHwQ1CGxmSWggAHKMyAC0A4vFnHNe0CiHNYAxZDbWbJbiKJ1dTXOM84TILZnbi7mwPAzWcRsseLA8LhArYmJEWeuAERJlGPbPAKijP7FdtWxjQNJbKBQim3r7+9y5ghI4LAVIAvjERBlJB4fU3toMom2zzbs4f1Q6JY+Lux9DLUPMLaMcxARQDND2IdyrDwAFRUXnPt8hKFyQNixm0nKwcG2BiYKAUQQ2jV3A7l/k0dlFIZmpn7/+SU/fh7K98NvksoG51TW0kh3h24W9wQGxIE2mdOZTdnNPt9Wsra9monq1lkg2ncgDrNA+TGAZbzPVtl7AgVi48gmmgjgKW8/y2+fgajc92TWHCiaDDoOxOcNyy+joYdNNNduGAsSAIwt9z+HRx0wyFHlq+Bu973/ff0FKRZqbfc36gcAAAAASUVORK5CYII=",
     "wiki_name": "Oddskull",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oddskull",
     "equipment": null,

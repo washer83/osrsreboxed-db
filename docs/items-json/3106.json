@@ -1,7 +1,7 @@
 {
     "id": 3106,
     "name": "Climbing boots",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": true,
     "examine": "Boots made for climbing.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xs2XbUtUQRiGd3+HXxb8EAjBEkhICIaEhCFJkpgkmWQS0Q+oiF6oKCqCoqCixKLVwkrErFBQTCsiepP+zuR1DvfZ58yOsuuewoGbPWdmznmuvZ+ZZ2dzua3f8i6s0Pg/b3n3euycmxw9G+nlkzNu4tHpSIJYnL7hFqauu/k31wJQ/peoGzwGEhRAkg8z9+qqe/ficiow94z5SkPVBJl3U0/PV0DxCYgkoNmJS276+YVoLp8hIOZb6NWVMfdz6eHmoATEtdwR0IfJKxGQ5q4HxHO/l0fdny+lNY1HQMQoFgqR/Ohei23XtxYQQXmx/aZopnQxAeI6BLQ0czMFxLWA/Ohey6fSQCAtbu4ZP9DV5fp6etzB7u7oWmAbAa3M3s4OSC4JZl9HhztyqC8Ftb+zs8I5q8/vLVCpNiCtCwtEP0GBQUf7+93h3t5ECgwk9wJl7t729mjMAv36+Lh+IAUHTNcnhoYSdwgO0LGBgQgYFwX7de5O9kAE8YUTOCDnrGtI7nxfuJcArX56lsDUDCQo+nHj+OBgJFyQW7tbWyNnfGmMZ38s3A8C+dHXaeXtbIFOjYxEAox0yJ2dzc3JurHSWAS0+GCzQHENwiELpLSdHB6ucGd7U1OSPhaydh1jO4rFSiBTFP3oXou3fAjIpk3BWTM4UGhoSCAFI3e2NTZmCyQoFUWli8AKCpBA7drBHcYyA7Iu+TAE3dPW5na1tCQu4JKA/LEy0HgCUxUQO8wHsjCqzqQLF3AIJ+zaknsAsb7kkhyq0h1aGUhQgrGFDiA5oF3kp0zjAPkpqxtIdUdQWiMEZBx3mGNLgdwLAQnKjx5oMZCfNvr122UDxi+N3bHpkjsa/zZ/NwGiBtVQh9JAdrfp5VaqTbgjYNYWQPRzduIcVBcQuywERB+nRAJwvqHP/sZZ9+hjbqZAftrot0A6TQrKSnMBWn57Kw20VoNqrkOhtFkgri0QVVzFk+d0qGduJkChtFkgxuy/EgvEPB3qMwCiVS7ekCyMlQ/EWdoCSTUA5XIq6xvJB7Sy6ycToGqbD1kNrFSe+5+aDxmS/8yWbn8BpsDIwApJuvYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xs2X/UsVQRSG7/1JkjAkSVIyTTLM8CPMDDOC/oCKoqKiqDAoIoiiECn6EOkLQeyDAgVDTKSEICqKov6yiWeXdz07d5S73i0ceLm7M7N7nvuemXPnFgprvxVdWKHxf96K7tnIMfdk+GiksTtH3Oitw5EEMTtxwc2Mn3fTz88FoPwvUTF4DCQogCQfZurpWfd67HQqMPeM+UpDZYIsuvG7x0ug+AREEtDL0VNu4v6JaC6fISDmW+ifCyPu+9zN1UEJiGu5I6C3j89EQJq7HBDP/Zgfdr8XH7g/i48iIGJ0NzdH8qN7LbZd31pABOXF9puiyYcnEyCuQ0BzkxdTQFwLyI/utWIqDQTS4uae8Z1tba6ro8Ptam+PrgW2EtDCq6H8gOSSYLa3tLg93V0pqB2trSXOWX18czkBQpmAtC4sEP0EBQbt7elxuzs7EykwkNwLlLnbmpqisRTQ+9uVAyk4YLo+0N+fuENwgPb19kbAuCjYT1NX8gciiC+cwAE5Z11DcufLzLUE6NeHewlMZiBB0Y8b+/v6IuGC3NrS0BA540tjPPv13fUgkB99mba0nS3QocHBSICRDrmzqa4uWTdWGuPZb7M3VgsU1yAcskBK28GBgRJ3NtTUJOljIWvXMbaxtrYEyBZFP7rX4i0fArJpU3DWDA6sq6pKIAUjd9ZXV+cLJCgVRaWLwAoKkEDt2sEdxnIDsi75MATd2tjoNtfXJy7gkoD8MQFRpQVTFhA7zAeyMKrOpAsXcAgn7NqSewCxvuSSHCrTHdoSkKAEYwsdQHJAu8hPmcYB8lNWMZDqjqC0RgjIOO4wx5YCuRcCEpQfPdBiID9t9Ou3ywaMXxq7Y9MldzT+efpqAkQNylCH0kB2t+nlVqpNuCNg1hZA9HN24hxUERC7LAREH6dEAnC+oc/+xln36GNurkB+2ui3QDpNCspKcwGaf3EpBUQNylyHQmmzQFxbIKq4iifP6VDP3FyAQmmzQIzZfyUWiHk61OcARCtdvCFZGCsfiLO0BZIyABUKKusryQe0susnF6Bymw9ZDqy0NPc/NR8yJP+ZNd3+Aoyi0j2Lcy8IAAAAAElFTkSuQmCC",
     "wiki_name": "Climbing boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Climbing_boots",
     "equipment": null,

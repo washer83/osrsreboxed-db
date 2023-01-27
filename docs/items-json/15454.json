@@ -1,7 +1,7 @@
 {
     "id": 15454,
     "name": "Raw herring",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "I should try cooking this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4Xu2U3U+SYRjGff4T/4T+Ek868MB1YB7kcnOZM7OZc86W0ywyQ5MME5MyTKIPNGDqUhhGJB+DFeiABmJYaazZAdtV9834VJaw3uCAa7u2l+d9916/53rvh5qaqqqqqlgJ5K+UUQIPx8ZQIVACipGRNNCp2tpyQgmMy25hcnQUqnvjlQE0cVtWKUACd28MMZBSLseMYqKcQAKygQHIbw7z/PwHIDothT3c3487g4NpIBro2fsKKYCSgafr6nCmvh5nGxpwvqkJrc3NuHShFVfa29Hb1ZUGooGWCCgJcq6xMR1+ua0N3R0d6OnsZIjrvT0Y6uvjT0WzQ+2QCYrmiJxpsWQlX0DhFHztandOaCosNSfUBJ0mmhf1g0k8V8/izcICVhf1MOp0ePV0DtpHM6WCCd51dv2p40thT5RKzE1NQTM9jWcqFQcRAHlxfh5O2zv4PB54HQ6+tpvNsK6u4O3SEkwvX/AzRUAl/z9Sp4PCKVT3WA29RsMvo50btNojNptMcL23ZbVQ2DRPJ5gpweEUnNoJ1b2if401gwHrRiObrvNNIG67PSfsb85PP0aCASjgYksLHBsbXLvf64XdYuHqybb1tRwTCD1XxM5PKsHfmmA8mx8YJODz8TWFUgv5pntepxOf3O40UP5bS5TgFiiYBpJAQtvbiIRC/JsCw8EgrxPAptUKy/IyPrpcfF+Sdig0GyQaiWBvdxcBv5/Xv+zs5EBRg2QJYEjiCMj3r3v4sb/PawTyORDgZ8jBra0k6B//40+VkkiDfIvFGORnPI5fh4eIRaPcDt0nE1gJR7gUZULiBwcMk0gkGDIaDh8LISFMUpmAwn9mkkMUUj5AWSCqqqoE/QYTbTHlM3bFaAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClUlEQVR4Xu2U30tTYRzGff8Tr7zoQrIL8yLzwkzMMMxCjESzMjPTzGyYaWaxYWb2y6zGhlikjDEpWzI2xpRoDHHZiA3ZIo1ILCGwO7t44vsd52w7OnKj07zYAw+cvedwns/7nO+7jIy00korUQkoV1IogSvNzdgmUAJtDQ0y0M7MzFRCCbScPoX2xkZcvdCyPYBaz9RvFyCBcydqGUjT1ITui62pBBKor67G+ZN1PD//AYhOS3zXVVXhbE2NDEQD3XOpTQ2gcOCOrCzsys7G7pwc7M3LQ2F+Pg7sK8Sh4mIcLSuTgWigVQIKg+zJzZXDDxYVobykBBWlpQxx/EgFaisr+VPR7FA7ZIKiOSJHWkxa4RdQOAUfO1weEyqFSXNCTdBponnpvdyOO9d78LS/H8+HH8EwOIgHWi1uX+tOFkzwrqPrl44vhd3UaKDt6ICusxO3uro4iADIw319sL96CbfLhWmbja+tJhMsz0bx4sljGO/f42cSgAr/f0ing8Ip9O6NXgzpdPwy2rl+YGCDTUYjHK8no1qIb5qnLcyU4HAKlnZCdY8OPcSYXo9xg4FN10oTiNNqjQn7m5Xpm0gwAAXsLyiAbWKCa/fMTMNqNnP15MnxsRgTCD2XwM63KsHfmmBcU28YxOt28zWFUgtK070Zux3vnE4ZSPnWJCW4BQqmgSQQ39wcAj4f/6ZA//w8rxPAlMUC88gI3jocfF+Vdig0GiQUCGApFMJ7j4fXPy0sxEBRg2QVYEhiA8i3L0v4vrzMawTy0evlZ8gfZmcZlPyPP5UkIYN8XVxkkJ+rq/i1tobPwSC3Q/fJBJbEEU5GkZAfKysM83t9nSGDfv+mECrChBUJiP9npjpEPCkBUgKRVlpJ6A/6iuMT0onckgAAAABJRU5ErkJggg==",
     "wiki_name": "Raw herring",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_herring",
     "equipment": null,

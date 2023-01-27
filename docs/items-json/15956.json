@@ -1,7 +1,7 @@
 {
     "id": 15956,
     "name": "Light infinity hat",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "A mystic hat with a light recolour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xu2W309ScRjGPf9EN9yc7VywsbV14/ovvNHNddGF6yK3zOVsLTObkWn+bmZo4g9Ck0QIRBAVCBGEHSQCJc5EZMybLloXXbWm29PeL4MhmsLWwjXe7bngDPh+9r7P835PVVWlKlWpSpVaHAqflLE4uFU8LgkUh5RJjpv19QzoGk9gZa1Md2prai4DEIf9eBxOiwW66Sncv9tUzrFxCAcCSEoSQls+OMxmzE+qMdjVVS4oDtteL3Y/heBdW4P53RzUIyO5sZVhdBwSsRiCmx7WnYWZmXLCUHGsO1tOJ2yLesy+GS+nqTkcbdcyQ4f9frhtNnjGeVyvrv5X/qFDTuo4fAuHqRTikc9sbGGtAMsAD7kg5H3vr9XJww1aLfPInHoCb8fGMKNSsQ4dR5qQTiYZVGJRzvaRpkOG5sbG3KI8rZKLY6lxWZexajTC8l6HD7Oz0Gs0cI7y7FAaz0+vArFwmEU+bZbDN8HD1Ctju4j8NP5yGMPd3XjW3o4H95pxu6EBN+rqSoXKRJmMSr5YN5lg1S+wSNOBgUkB4rSAhBRDwO1m4D6HA9sagcFah3j0K5V43vEYhh5ZTqqhQfa8s60tb3kWBcYhIooQPRvsMNrAlKAN+wrzCaUqfbCPdCqJVHIPyYSE/b04ggEPPC47Vq1G2C0GGHRaqMdG8OLOlXNVBFQmyjQGv8vFuiTphZwIdC++yyTFotiNhBANB+F22GBb0jOtLhtzQP09SswrZafU+7QTj1pbGdAFa4JjBqUrgQ4/tMjPVCQkIiT6IG5twL/pgtW8kNO6zcSApkZHWQAoCHTPkQfp8+uBfvR0PsHDlhbmqwu6xEHa2UE0GMR3hyKnb2sKfF3JwNCrBiWKxmk3GLCkmz8hCgF5LV/kQUoqwdH18qqvj3Up26FzusThl08BKRployM/0eIj/9AIyVfkJ4KhBJK/yNBZ0S7KFwFnQ5EPlDX1BTDZKtwbZ4v20JH/Kn58PN29LzoBkbkMFKWSukQpLQQpAiZT+T/4kwoBi1HJIKVWIWQxKvyPSv039RvgblCcyBiomgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xu2WT0iTcRjHfQ8x9jLWRTp78qBg0UE6JBkmRoSZZcs0/wdm/sn8ly3Nlm6sqdNN0xxbw+YmUzZkTR3a2oZNRi3BW7fo1jkI9PKN5zc25jTdIJrEHvge9rLt9+F5vt/n96alpSpVqUpVosUh9kkSi4OxRYhjAsXhs0qEszk5DOhMRkayoULdycrMPA5AHDY9HujVasi6u3D5Yn4yx8bBubiIgM8Lx7wFupERDHR2oK68PFlQHJbMZqy/c8D8ehrDz/rR0dgYGVsSRsfB73bDPmdi3Rns6UkmDBXHujOv10Mrl+Ppw7ZkmprDzlIWM7TTaoVRq4WpTYhT6en/yj90yF7tOs9hOxiEZ2WZjc0p5aGuFULE81Hf+2u193CFVMo80v+oHU9aW9HT3Mw6tLuaj61AgEH55SK2jx6XClCQlxdZlPuVcHEsNQbNOKaUSoy9kOFlXx/kvb3QNwnZoTSen2Yx3E4ni/zWiAiWdiFUVQK2i8hPbfca0FBRgdslJbhyqQDnc3NxOjs7UahQlMmo5IsZlQqaoUEWaTpwoZOHrZuH3+fGotHIwC06HZZ6eQarqReiRiLBndLrUFQKImqpr2PPy4qLo5ZnXGAcVmw22N7OssNoA1OCZicnmE8oVV8+bWIrGEAw8BEBvxebGx7YF0wwGV5hSqPEpFoBhUyKjtZG3L1w4lDFARWKMo3BajCwLvmG+IgIdMO7zuR978L6qgMupx1GnRbaUTnT1LgyAlRTKcGARLBPVbfKcK2oiAEdsSY4ZlC6Eujw7THRgVpx2OCwWWCbn4V1zgDN8GBEM1oVA+pqamIBoCDQPUcepM8PamtQefMGrhYWMl8d0SUOvrU1uOx2fNeJI/o2LcbXiRAMvWpQomickwoFRp8P7BGFgLwWLfIgJZXg6Hq5X13NuhTu0CFd4vDLIobX5WKjIz/R4iP/0AjJV+QngqEEkr/I0GHRLooWAYdDEQ0UNvURMOGK3RsHi/bQjvUkfrzZ370PMh6r/SEoSiV1iVIaCxIHTKiif/AnxQLGo4RBEq1YyHgU+x+p+m/qNzLK8penBXdFAAAAAElFTkSuQmCC",
     "wiki_name": "Light infinity hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Light_infinity_hat",
     "equipment": null,

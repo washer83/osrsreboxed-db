@@ -1,7 +1,7 @@
 {
     "id": 21260,
     "name": "Enchanted quill",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-04-20",
     "duplicate": false,
     "examine": "This quill can send messages from the Enchanted scroll Veos gave me, to his client.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABHUlEQVR4Xu3V2wqCQBAGYOdNeoQeywsRgsykEiEiu+uBigo62Utt/LvswS0IAme98IchsI39mBkpiob0IiT8J4ECCIm63stP/1vmKIjGjEcjWf4phtiuBMYoSFluZVXVTixXGwPyT3cckgBdr+YiFot1qO60Mc3zHAqjRuSCHo+TxBRFxT0quysadL8dPzBMIJLL6hYwbscYMYgFoSMYU5YtTbGPCgUICgv8DcMEIpHnpbwYGLzaLoa5OwqjQd+KqTv6D9F253Y9iDSdmWJcZBKTyVxeBgj2xcUkybQF6RiDkLn8F8b/ZQexGLzWwOjRMI7IjQJpTBynpgJgEGphAnYGsRgfERwTCOGGPjD+Ccb0CqPTK4xKrzBDhvyRNxUAlPvp4I5XAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABHklEQVR4Xu3VWwrCMBAFUGcnXYIbKAhFsCpSLQUR66e7UkQE33WJkZuQR6MgCJ30oxcGoUZymJlir9elFSHhPwkUQEiU5VZ++t8yR0E0ph9FsvxTDLFdCYxRkDxfyyqKjZgvVgbkn244JAG6XtVJZNkyVHfqmOp5DIVRI3JBj/tBYmazgntUdlc06Hbdf2CYQCSX1S1g3I4xYhALQkcwpjSdm2IfFQoQFBb4G4YJRGIyyeXFwODVdjHM3VEYDfpWTN3Rf4i2O5fzTiTJ2BTjIpMYDqfyMkCwLy5mMBjVIA1jEDKX/8L4v2wgFoPXGhg9GsYRuVEgjYnjxFQADEI1TMDOIBbjI4JjAiHc0AfGP8GYVmF0WoVRaRWmS5c/8gaNcmT3UxWclAAAAABJRU5ErkJggg==",
     "wiki_name": "Enchanted quill",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchanted_quill",
     "equipment": null,

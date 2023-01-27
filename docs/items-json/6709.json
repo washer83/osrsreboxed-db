@@ -1,7 +1,7 @@
 {
     "id": 6709,
     "name": "Fever spider",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xu2WUWsTQRDHb7/BPd1LXg58CAQCoRCKlECklBJaSktLy1kCNYIVrGKFCiKBIoIV+lAU+iB9EIT6IohP4qcb899hbmfXu5Jrr1qoA8NeNrszv/3v7N5F0X+73WYo7PmHZmh3LaZiqKK+azdDCwt9C9RJUwVg6GC7DPTazNC9fo9mZjoBEPcPBvMFoFc2rFC7/x/U8YEMzc3d9doagQz12hF1mxG1UnYNBxUA1Ou4/uXlxfx5drZbJ5ChrB/TcD62rTyPFmPaXeLaAJAG9LeoViBjk+6txLQ/OUEHG76HWwL3C9vQfsbQ+K1ry88zlZkc4tVWTOP7CR0OE3r7wLkoc/Qkse35m0aQ3NBwICdMIJyCfr4LzXgARw/Zjx8ldPI4oY8TgNXVpVyNLNuwSdC65M7X11esaxhfsVJzQQCiAU6fJvTpeYPOXrAjgVspJ5XnvYmq+G9zc412djIPTop9KhgcW3i73codyYfbW384kklwSe4S+QrpLax4J/mBoAgSieS/PqQ5EGBHk2JvNu/Y7QsTh0Bo8WqRmpoaKAyIE4RagRqAQotiFj9+ltB4xEUtc7FlmAc1BFbiV1BoUgf9KIdA4rIiFbgvhw36PG7kxQ0vmiOg+kqYCggTsCKpBz1ZKwcYjMU4jMeqoZYu2NDRX0kd1IW+cf1gPAYQEhTjcQPLaYOqacr3EHsQf3CJ+im/I1gVXbwCheLGPJxOQKFFoRdBFccuNWMTuteA36+PtQCJyycGtgwqIoa8v1ycKKoAI2bsUdbXvX5raxh3evhZroZv77jQv793r5EwS0VzKz977b+bBEbXEhzqif884btKTlsNQCwtghV/NhTVGqsECNnaH1/PC+ZeycLvHO7DVpy+1BehGy8ukJeomYuMlei2Iusayk/szN9aUbpW85PLynHU3efqX7Zw1Wwh5A2wGwVzq+w3uU/Mfgb8Hb4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xu2Wz0sbQRTHd1iWkBISxGAxof6IqPgDVwM2hVpqaS3YQykBKYVa8CDYg4eChx560JOHQm899K993e883s6b6a5kNbaCffCYzWTmvc98583sRtF/u99mKOz5h2ZoZyWmYqiivls3Q7OzXQu0OTenAAztb5WB3poZetTt0OTkRADE/b3eTAHojQ0r1O7/B3V8IEPT0w+9doxAhjqtiNqNiJp1dg0HFQDUmXD9i4vz+fPUVHucQIbSbkz9mdi28jyYj2lngWsDQBrQ36KxAhmbdHcppr3sBO2v+R5uCdwvbEN7KUPjt64tP89IZnKItxsxDTcTOugn9OGxc1Hm8Hli2/P3tSC5oX5PTphAOAX9fFea8QAOn7AfPU3o+FlCnzOA5eWFXI00XbNJ0LrkzldXl6xrGF+xUnNBAKIBTl8k9OVVjc5esyOBWyknlefdTFX8t76+QtvbqQcnxT4SDI4tvNVq5o7k/a2NPxzJJLgkd4l8hfQWVryT/EBQBIlE8l8n9RwIsIOs2BuNB3b7wsQhEFq8WqSmRgYKA+IEoVagBqDQopjFj14mNBxwUctcbBnmQQ2BlfgVFMrqoBvlEEhcVqQC9+2gRl+Htby44UVzBFRfCSMBYQJWJPWgJ2vlAIOxGIfxWDXU0gUbOvorqYO60DeuH4zHAEKCYjxuYDltULVe53uIPYjfu0b9lN8RrIouXoFCcWMeTieg0KLQi6CKY5easQnda8Dv18dagMTlEwNbBhURQ95fLk4UVYARM/Yo6+tev7U1jDs9/CxXw+VHLvTvn9xrJMxS0dzKz9757yaB0bUEh3riP4/5rpLTNgYglhbBij8bimqNVQKEbO2Pi/OCuTey8DuH+7AVp2/0RejGiwvkNWrmKmMl2s3IuobyEzvzt1aUHqv5yWXlOOruc/UvW7hqthDyDtidgrlX9htJHnICDosnZgAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

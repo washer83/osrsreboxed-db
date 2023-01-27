@@ -1,7 +1,7 @@
 {
     "id": 11707,
     "name": "Cursed goblin hammer",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-08-23",
     "duplicate": false,
     "examine": "A curse has been placed on this warhammer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjUlEQVR4Xu3Xu0oDQRQG4D1vMNU00wzkBXwEGwsbQbQJIkhAFLQJKGghWFhYWCwEBENAUVQURQmKF5QYCIhPddwzs7PXaDcX0B8GUmzYj/PP7CZR9B+rAdQriAA2Rl/YGH6mKO+wHCTfhyhfBwWYFxxozMcoA8nnN9xb5bi9xFyjCtMxoAQjH19Q9p9Q3j+4nlS9ripIXN+huLxxBRtfl8HI234GEudXKE4vbKNAI6ogmlAVlGDoM31nQkpbKNCY5MYK8BOIppMsmpx9UFqRmsBRT0OKIMIcn2l0+kiwCKKAqoSO+Po8w8VphuKwq5FUVe+ktKkJYx200+LYbjJszTDkB7FaGSbdyAZiGUMB3FxguDJrHoKAPO6omgjkaComUKoq3x/5q8MhhgJZVdWbO6zIRO8dqqo5VZyOt0CtKo8gwN1lPrYqT9HTCaaq/TUeSlUUfbLKx9xbAOM2L1XlEQTY3RK1zVy9ymH0dGgzBzGdzgZXP9znJqMwpkMny/yL8DwdEy8vy98TFObP5xvkoqfCjFxxyQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjElEQVR4Xu3Xu0oDQRQG4ByGYZi8goXBQlCLqCBBULQJKIiFYGFhYbFFwMJAQEFBEVFERFFEFAIRAikEX/G4Z2Znr9FuLqA/DKTYsB/nn9lNarX/WA2gXkEEsD76wvrwM0F5h2Ug2R+ifB/kYF5woDEfoxQkX/u4t8pxe4m5RuWmY0AxRj6/oXx8QXn/5HpS1brKIHF9h+LyxhVsfF0GI28fUpA4v0JxemEbBRpRBtGEyqAYQ5/pO/ONhi0UaEx8YwX4CUTTiRdNzj4oqUhN4KinIXkQYY7PNDp5JFgEUUBVQkd8fY7h4hRDcdjVSKqqd1LY1ISxDtppcWw3GbamGfKDSK0Uk2xkA7GMoQBuLjBcmTEPQUAedVRNBHI0FRMoVJXtj+zV4RBDgbSq8s0dVmSi9w5V1ZzMT8dboFKVRxDg7jIfW5Wn6OkEU9X+Gg+lKoo+WcVj7i2AUZsXqvIIAuxuicpmLl/lMHo6tJmDmE5ng6sf7rMTtTCmQyfL/IvwPB0TLy/L3xMU5s/nG9BReEmvGOMPAAAAAElFTkSuQmCC",
     "wiki_name": "Cursed goblin hammer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cursed_goblin_hammer",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 1603,
     "name": "Ruby",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": false,
     "examine": "This looks valuable.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbklEQVR4Xu3Wz0rDQBAG8Oy9h4I99FKoUPAq+AbevAieBJ/BF1BBEPERrEkOFj35AFJa/HdWH2rc2TjdyXQTq+4YD/ngo7SQ7I/Z0E2StGnTpi4G5C8NxkCeX8Efo3CxcPNs7D43h0NXeaVCDKTppevZqOd6d3IE709zuJ+krhIp76AQAy+3uW1mIbPPzl0P+p2lKqPMYjJvjzNXQuGksByz0ytAittXgJ5vMnh9mC7KQVTEKIPK0+EgLMccDrraoDCGI+g7YqgI2kgSjefIg0IY6vR6XAJhCRRxSmWMRPBtqmpEkMdIwKqY7W7UbTNwMeq7SsSqGGqkKXnQuZ0S9icYVRBVAuowHCVX+GbCoOP1ahAtvrsmIVEOXQOndnEOQgz1K4yE/BKDqQdxVAgTEcJTbFsIQ+UYORV5twgpQBywb09yXsRsdfw/siKGYmDPnktVlRh5tVL8W+A/wBTxi5ZfUxvByPBnpXFMm6bzAfX0Xx7MoQpnAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcUlEQVR4Xu3WwUrDQBAG4GxLC2LBo9eCF7158uAr+AqKBxEE30IokTbJAwjGokjVBxDRhxt3dpnuZLqJVXeNh/zw01JI9mM2dJMkXbp0aYoC+UuLUVAUU/hjFC7mb55dm8/98dhUXhkhCrIsNT0fDUxvTo/h4+keyjw1lUh5hwhR8FKk8JxP4H0xN0UQ9nDYW2lklFpO5u1xbkoonBSWY/YGFhRx+yxoMZtoTLksB1ERExkkp1PC68OtKX7nmKONfmyQH8MRhEIMFUFbSRLjOeIgu01yi7B306sKCEuggFOqYiSCb1NdA4IcRgLWxez0g26bgsvR0FQi1sVQA03JgS70lLA/wUQFUSWgCcNRcoVvxg862awH0eK7K5Agh66CM704ByGG+hVGQn6JwTSDOMqHCQjhsdvmw1A5Rk5F3i1ALIgDDvRJzouY7Z77R46IoeiF9LlUV4mRV0eKewv8Bxgbt2j1NbUVjAx/VlrHdGk7nwSRH+FlgmozAAAAAElFTkSuQmCC",
     "wiki_name": "Ruby",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ruby",
     "equipment": null,

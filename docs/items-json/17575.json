@@ -1,7 +1,7 @@
 {
     "id": 17575,
     "name": "Legs",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-31",
     "duplicate": true,
     "examine": "A pair of lifeless, rotting legs.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xu2W/UtaYRTHe/6TYL8NBv0SMkIoRkgk0VAmJoovqOFLWJZzE8XW3CwTs4V7iUarjRhjjLE/8IzvuRx97vV107Z+8MCXe71e7/nc7znPc5yZmcY07mwo6ui/h6JgcJkiEQd5vYt3AUpRIuGkdGqNMpnH40CNYrFein73KsrtuVn5vIePfwGlyOmYI8fS/T7JjGuhjQXWZmiRtuLLPe/LZl1UeO6lgxcBqh1F+AgouNb72V2hKBV9RNGAnZN5XTZyr8+bnHhZcFEpt0aFrJP28+t8zG+v8ndzs7NaAgMIzpTLfgapVEJ00ojzEaAo5UhQZ0e+dmIALtju0fGBh9WoePl7HA/LT+hV0c1gO0mH9nDFyXQg/aXgVr0e42P3i/QMRe8bQbp4E6ZW3W8SrkM418HgFMonSQUIzpSKvnZiI3kHrnNtaCi6ehvtK0CdN0NtMDi6l15hR+Ox1fbKsgLJ0wVkRBgJRd8uk6wf12nTm0Fw57IVYTCco3ToJzS5DoR+sQKNEd326tbDnc8fYuwYekyHuiWgQfYqbmqUDWXEEVAoH3oKjS6NPVEgc5jLBqGp4RDKB8d0KPTVhIC6E0MrjnmTnE4bCxAAkpWJnoJ74tQYQEZiu/0BJ/L7lni7d7vtLJzrwvciQKCfdCi9fMaz/yhUOykSyKSGcC6fsaxFGAMyQNEv0uQCpZevM2JEA0PRQSbAKqf9rFLSx0IyPTFWD5LLxicrCTsyxgKABErvKVl9GEuYl0OgFNXzMVYtF2FVd8NU2QlxQkmOBkVyCBseIDA0q6/DDANhxd2cxxkKe5RAyZaA8gFqSF8ZDrXKKTorJlmnhQQDCoQOgMSAEOEzrkNYcYD5+nGT4QQKqxFQIr/n4XCXAHJR2Wa929/izyfPjAktEBiKkBVE7w+sOLikQzWrG9zouvCPYgCUAXRdy9GX46emqayf9wPRd3D0j7gkUDKYrRpauk+Hu/SzVabTZoL/v+hv3ku9d/KOS5iF0lO6rL/v/LYr+ifsJ+sTjDD+MQAGw/n7VYoFQOtzrb/sitESjhIGFMoGmF83mVFduc3o7bj1rn8ak3N8Gkb8Br+zE7wdSTrhAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xu2W20sbURDGPa99aClIihGrUaLUFHNBYyQxF4y3NLTBGJumjZegaKX2ikUqtrSUUigU+hdP+eYwydmb2Tba+uDAx242m53ffjPnTPr6ruM6rmwo6ui/h6KZmWFKpUIUjQ5eBShF2WyYCvlxKhbv9QLlx2KzFF73KiqtRljl8hQf/wJKUTh0m0JDNz2S6WvJ2ABrPjlIC5lh1/uWlyep8ihK9cfTtL2V4iOg4Jr7sx2hKD93l+amg5wsOhmgyES/xYknlUmqlsapshymjfIEH8uLY/xdbGTESKCB4EytlmCQRiNJe7sZPgIUpfQFdbgVbycG4EDgBu3Up1i7jSh/j+Nm7T49XYsw2FIuZDxccTITyHwpuNVqpfnofBHXUPR6d4aOn8/SUSthEa5DODfB4BTKJ0kFCM5U1+LtxDp5B65zrWsoOn055ylAvd1PtsHg6GphlB3NpMfaK8sOJE8XEJ8wEoq+neRYP84KljeD4M7JixSD4RylQz+hyU0g9IsdqIdw2mtaD3c+vkmzY+gxE+qSgM6zV3FTo2woI46AQvnQU2h0aewLBbKGtWwQmhoOoXxwzIRCX10QkDMxNBrqtygcDrAAASBZmegpuCdO9QCkEweDtzhRIj7E230kEmTh3BS+FwEC/WRCmeXTz/6jUO2kSCCTGsK5fMayFmEMyABFv0iTC5RZvs6IEZ0biurFaVatkGBVc3EWkpmJsXqQXDY+WUnYkTEWACRQZk/J6sNYwrzsAqWoVU6ztkspVnNllhpLSU4oydGgSA5hwwMEhmbz2SzDQFhxn99lGAp7lEDJloDyAapLX2mHjtbzdLiWYx1UsgwoECYAEgNChM+4DmHFAebr+3mGEyisRkCJElN3ursEkOPGIuvVxgJ/3nuoJ7RAYChCdhCzP7Di4JIJtd+McaObwj+Kc6A00Nl2iT7tPLBMZfPcC8TcwdE/4pJAyWC2q2vpPmyu0M+jdTrYz/L/F/PN3eS+k3dcwiyUnjJl/33nt47wTugl+xN06H8MgMFw/n6aZwHQ/lz7Lx3hL6Gf0FAoG2B+fSn6deUyw91x+13/NC7O8evQ8RukN2I3ajQwuQAAAABJRU5ErkJggg==",
     "wiki_name": "Legs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Legs",
     "equipment": null,

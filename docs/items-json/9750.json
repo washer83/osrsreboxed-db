@@ -1,7 +1,7 @@
 {
     "id": 9750,
     "name": "Strength cape",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by only the strongest people.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4Xs2XwUoDQQyGd99gTr3sZcGD0FMRiogUFCki3UOhopRSkIJ48VKkhwqFHjz4GL6CTxiTzGSZHbu6hWangdB2O7Pz8WeSzCSJmqUQPjmg0cv3WQDH9vM95zQ2fGk3g9PcNFwAxwy7MB6NeHwvJ7CDWwpXZ5kDqlPLPZ/0yzEEowRElsLjzQmGAn3QDeAI5ALM/LICoggjloJ5ucOQ9CApemCm5+wW5hrMa6EZpl2GQMsxL54UfQ6PAPFv/TCFlkJnM2UlGMopw0AujO3CfD5B5+MezPqBlSJVSiBPoXCmkjmg7QSh5hZqMbQ+HUQCQhAGYrAZmNXEhi8q0GbswGYWCrMuHhBBeEB5lrEfBRCBfH9t2em7lAEaF85UMFd/VqNy/wjQ+9szf0qxbEmlKpAPIx4VSEIlMHEUohQnoGD/kHNxjA3kQ5VAw9baRxWI+ll8IGoV66IeiNKeeht1f93Udxt6eVtWZwEqC6PfYF0tUlTpNxCrRSGk59Q6ogLRecgdP9ipufodXz/T3Ib2gUQdARKVHJAcZcM3Hcgs0M5w+UCoUgikpJIHJOH6CwhTny8CRwVEewr/UwqbnBT/B+KrEDltcKeQmkq1QIsBXxDtdaia9kowYiR/M28Bxpos1MTDuU3tB5QwcGCrIm/3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5ElEQVR4Xs2XUUsCQRDH71jkMEKQpMgoLTkEi0whJOihFwlfDKQeeuh79Cn6ytPM7M6xt6md4Nw6MKjn7u2P/+zM7CaJmqUQPtmj0ct3WQDHdpo7zqls+NJWBsdNU3EBHNNrwXAw4PEP/X6FOTtbChcnmQPapJZ7PuoUYwhGCYgshfurIwwFercVwBHIGZjpeQlEEUYsBfN8gyFpQ5K3wYxP2S3MJZiXXDNM6wyB5kNePMk7HB4B4t/6YQothcZqzEowlFOGgVwY64X5eoTG5y2Y5R0rRaoUQJ5C4Uwlc0AfI4SaWqhZz/q4GwkIQRiIwSZgFiMbvqhAq6EDm1gozLp4QAThATWzjP0ggAjk5/udnb5LGaBx4UwFc/VnMSj2jwC9vT7xpxTLmlQqA/kw4lGBJFQCE0chSnECCvYPORfH2EA+VAHUq619lIGon8UHolaxzDcDUdpTb6Pur5v6bkPPr4vqLEBFYfQbrKtFiir9BWK1KIT0nFpHVCA6D7njBzs1V7/j62ea29A+kKgjQKKSA5KjbPimPZkFWhsuHwhVCoGUVPKAJFzbgDD1+SJwUEC0p/A/pbDJSfF/IL4KkdMGdwqpqbQRaNblC6K9DpXTXglGLLipbvEaYKzJQlU8nFvVfgFCuRCbxLHmEwAAAABJRU5ErkJggg==",
     "wiki_name": "Strength cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strength_cape#Untrimmed",
     "equipment": {

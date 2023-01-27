@@ -1,7 +1,7 @@
 {
     "id": 21003,
     "name": "Elder maul",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": false,
     "examine": "A maul crafted from the component parts of Tekton.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsElEQVR4Xu2WQUsCQRTHfd+g017mMuBNCCSQkBAMCQlFAiUwSBLRJCy8eKguHSIiOgjdvBQEQdCpSwR9hugbvXhve7vjEljgOEP0h//BmZH32/+82dlU6u8KMLQXAjzq93GjWPQFClArheuFAq7mcl9QzhID7LZauJbPMxCZkqqWy+xpOOuQgHs7TU5lJZvllMT77TZ7s1SKTKAEbhEKuIAJYvqg08FBr8emFJuNBidIc5agwt4hP40Vvt3qKAUZJxgCoxQpJRmn/2a1njcUcCEpQgWlsV8mOhqn3wRqrrUERIqb1dwu0wSS3FqLQCTgdKRosrgTIGlWKWZaXglJGEtAYR/RsRcAKRYWBJ6ThKzD/OzJ47S+n5+LAOu1WvRCnFVsOrW5C/glJ8d4FoxlAb6eaHweacykU+5hbk4DHLcCLOQ8gHkcKjzuLWHdB5iPqzSeDwOcdJ33DAnw4VBx31zvBhFQctWCBPh+mebtOtuOYRwBhVt1P1A4qi65h9mqVPjSHJSdw5Diz4l/mGl5BuPJ/UQK76jlTMYPmLsLxXeUebyTqxashXxE/U4C4hLmEyhSk5vs296qAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrElEQVR4Xu2WwUsCQRTGfcgyrAdDkiQl00QDDZQwUcww8uKlunSIiOhQ0NFTHTp0CDp26tChPyPov3vx3vZ2xyWwwHGG6IPv4MzI++03b3Y2kfi7AgzshAAPBgNcLxRcgQL0lcK1fB5XstkvKGuJAfbabVzN5RiITElVy2X2NJxxSMCdVpNTWc5kOCXxbqfD3igWQxMogRuEAi6gg+je63Zx2O+zKcVmo8EJ0pwhqKB3yE/XCt9u/TAFGScYAqMUKSUZp/+2SqV5QwEXkiJUUBr7ZeKH4/SbQPW1hoBIUbPq26WbQOJbaxCIBJyOFI0XtwIkzSrFdMsrIQ5jCCjoIzr2AiDFgoLAc5KQcZifPXmU1vfzcxFgvVYLX4izik2nNncBv+TkGM+CMSzA1yMfn8c+plMJ+zA3xx5etT3MZx2AeRwpPOwnse4CzMdFCk9HHk561nuGBPiwr7hvLre9ECi+akECfD9P8XadbEUwloCCrbofKhxXk/ZhNisVvjSHZeswpOhz4h9mWo7BOHI/kYI7aimddgPm7kzxHaUf7/iqBWshH1G/k4DYhPkE8Btf2oCl0qcAAAAASUVORK5CYII=",
     "wiki_name": "Elder maul",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elder_maul",
     "equipment": {

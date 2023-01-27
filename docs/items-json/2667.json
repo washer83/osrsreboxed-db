@@ -1,7 +1,7 @@
 {
     "id": 2667,
     "name": "Saradomin kiteshield",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": false,
     "examine": "Rune kiteshield in the colours of Saradomin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu2Wb0tTcRTH/b0TX0IvoR5EDwpB8smSjURiIC1mi1VLRDBlJeXKisaIaQ4bs6EO/zSm4rK1bGqz2Ua9mdO+v9sZP+/u3Z+7OQs6cGAPNva53+8533O7uv5XW0uQ1n9FCYpE/LS+9uoP1JmCCYrHA3RlYEh2IvGCMp/mzxJMUwcwPYMu2b1ON+3shOnwINFpMEHh8HhFHRUInUqFKJeLU6m02ykwY3XQV4c8svtueunr3iJ9P0pSsbijgLUdTtD0tNdUHQZKJoO0+3GO9r7E6GB/hfL5dToubFKpmG43nLk6KtDWZogymQjZvWPkuDcuG2DfDlelaj+Ot3WWWoKrrQ4Dfdh4LYc7+3nhBBB6wDchG4oVCikNrKzar58ZK1DV6hgBsV2AMQNSG0rt55Yk0Lnu7kahjNXRAyEkpV3lTGoECAN/lN+owDQFxOrogVQotqv/zmhdIAw5b2DTMFOPPTQ3+5DeLTyiaHSqCgowa6svZQal07N1gTDYvHFNw3huOygUGpNhCJVisSf0fvGpPB0qENtlG35gCKSqg2G2MDcoQZMTt+ii7Tpd6h+kyw6nVAdAy0sBWll+XmkMM+yqBwSrsGGW1HG77XShz14FxKpgq6AMYLa33ki7sGGcQXogNbmbhEEJOt9rqwkEGMwNlJEg5e0CDDIIKY3zwUDIHliF71myamTEWRdIVQZWsV0MgyOLhMYbAGzCZ8vquFzXyO8fNgXCVmGIeW5UILaKYZA1UMciDEqQw9FDPt8Nmpm5bwjE6sACMyAeZKiDjLJglVqaSkZbhq2COqpVDKMH4rvVgjpqCakSzoYKhGE2ssoMCA/QojpqaVkUDI5KIGQQNsvIKj0Qvwu1SR0ubeOeBe7K84GnraeOCoRkb6M6XEJuHE4IgGTeKJmTzUZlq+uO09DCmjdSQm4cnhhnQw1FwDGYCjX/dvI01FFLg8I84dji+mOmoBofV2welAPUKaqjlvoeXLs7AKMV/1Ejrf/tP1+/ASfcBRdhaG8ZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu2W/UtTcRTGvX9HREYkmD9MxxKDIY1mixUtEcGUlZRZFtFQYmUyjOFiWDJUzBhLhmVaZlaa1XpRwf6tU8/3dsbp7t693M1Z0IED+2Fjn/s85zzn1tT8r4qWRnr/FaVRJBKk6ambv6H2FEyjePwKHW5uVZ1IXKfFFyN7CaarA5i6Fo/qereX0ukwra8lqg2mUTjclVVHAqGTyUFaXY3T9vZCtcDM1UEfafWpbjjupzcrMcp8nqXNzbQAqzicRn19fkt1GOjJbIgWng/TyusxWns/QRsb0/T1S4q2tuYrDWetjgRKpYZoaTFCTn8nuc50qQbYh/VJpdr3b3MGS23B5VeHgR7P3FLD/erl6B9A6OZAt2oolskkFRhU+7GzZAcqVx0zILYLMFZAsqHUu7fjCqixtrZYKHN1jEAISdiFTCoGCAP/6eNMFqYkIFbHCCSh2K6mUx0FgTDkvIElw/Re9NHw3fN0f/QCRaO9OVCAmZq8oTLo2fydgkAYbN64kmF8J100NNipwhAqxcYu0YPYZXU6JBDb5Wg7Zwok1cEw25gblEY93SfogOMoHWxqoUMut1IHQA/H+2ni0bVsY5hhVyEgWIUNs6WO1+uk/Q3OHCBWBVsFZQAz9/S2sgsbxhlkBJLJXSIMSqN99Y68QIDB3EAZgGC7AIMMQkrjfDAQsgdW4Xu2rGpvdxcEksrAKraLYXBkkdB4A4BN+GxbHY+nkYLBNksgbBWGmOdGArFVDIOsgTo2YVAauVx1FAgco4GBs6ZArA4ssALKrvkvdZBRNqySpatktmXYKqgjrWIYIxDfrTLUkaUplXA2JBCG2cwqKyA8QJnqyNKzKBTqUEDIIGyWmVVGIH4XqpA6XPrGXe0/rc4HnraQOhIIyV5Bdbg0tXE4IQBC3sjMWV6OqpbrjtNQxpoXU5raODwxzoYMRcAxmIQaudezG+rI0qEwTzi2uP6YKajGxxWbB+UAtYvqyJLvwfm7CjB68R8V08bf/vP1Ex5cPEtY8DGaAAAAAElFTkSuQmCC",
     "wiki_name": "Saradomin kiteshield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_kiteshield",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 6327,
     "name": "Snakeskin bandana",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "Lightweight head protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xs3W7UtTcRQH8N3/xHeBEOyNRMRgvQiRJBhKMUahiQirXvlOI1JZUWQUZUFZE4t8CCsRswcFxbQnoifp3znt+7t857nH39bmruEPDvfu3t/u+ez8Hu4Sif3fAvGH7/6et0BeTl6SuYmLLp4XB2VmfMAFEWsLN2R1/rqsvLrmQdkf0TA8BBEFEMNill9clTezhUhifMY9G1FUXchA5p9c3oHCERAGQUszI7LwbMj1xdEHQn+N3tqclJ/rD3eHIgjnrA5B7+auOBD7VgLhe783JuTP56lSTDsQciSbmlzY7KaFZeevJghJfaDFqeEyCOc+0PriaASEc4JsdtOCyDAgESc3PlsQkgPB4a0E2ly6FR+IVcI1H4iVJAhVs6BPbzVoqj4Q54UFIbkF6QldDfTl/e0I6NeHx42DcB0golhJvSIrgb4u34kXhABAg+yErgRC3++r98qgrY9P61thGqRReLgPRAz6VQL9WL3vBdnsFVq4eeHh1UDsh9AgVHIHaO3BbkHhHoQKVQOh34XzJ6Snp1VO545GcBaE/hGQ2hRtdtPCh/lACD4c/cbGBqW/v0PaWlsklToomcxhd2xuRpIgUp1YQUQhkAB9Ho0Puapks2mZnR2V9vZD0td3snRMSzJ5YO9Auko4ElQsjkhX1zGHIehsd0bS6RZvhTZe31Sg6TKmJhBWiA/E1wH6YN5YUG9vh+Ryx91Rg1AdvDZ0hWqsDto2yM4jLmWCEMB0dqbKoHP5UzuqAxBeG7GBiMJ1LvVCoVtGhs+4eURQW9sRd0+/WAnCLq1BRNnsnhaCfMNGEP5GhA8LZHAg61ZaPt/uPuuhJQj9v63cLYOwB9WxD0VBetg0CEdcJwyBbcGCUJ2GQVhl/wIhmX1lEMS5xuGKDWSHDdc1SP/lIIYg9gUISz4CKu1Bde9DvmHTIJxXA+n5EwvIN2wahHv6L4cG8T3G4WoQhLY9UauFnT8MC8KmqEGMOkCJBLf1amGBOvT8iQVUa7PIWrCM7b7/qVmkL+x39nX7C6xDr7fgLCHRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xs3W/UtTYRQH8O3HIAxBihyRLhZMo2WkKYjVT/7ootCxosioKCOIrCFS9GLSG4LYCxUKhphIGUFUFEX9Zae+z+W7nXt8tjZ3DR843Lt7z+7z2Xle7mKxjd/i4g/f/XVvcXk8fkwejh11MVnIysTogAsiFqbPyPzUaZl7csqDsj+ibngAIgoghsXMPjopLybzoY7xGfdshFE1IeMydfP4KhSOgDAIejaRk+nbgy4XRx8I+Rr9Y3lcvi1eWxuKIJyzOgS9enDCgZhbDoTvfV8ak18rd+T3yj0HQh/7Wlpc2N5NC8rOX00QOvWBZu4OFUE494EWZ4ZDIJwTZHs3LR4aBnTEyY3PFoTOgeDwlgMtPz8XHYhVwjUfiJUkCFWzoPcvzxdBiJpAnBcWhM4tSE/oSqAPry+EQW9v1A/CdYCIYiX1iiwH+jh7MVoQAgANshO6HAi5n+cvF0E/392qbYVpkEbh4T4QMcgrB/ry5ooXZHsv04LNCw+vBGIeQoNQSQv6unB1raBgD0KFKoGQd+TwbunubpX9HTtCOAtCvgbpTdH2blrwMB8IwYcjb2QkK/39bZJsbZLm5i2STm9zx4aGTe6+rk6kIKIQ6AA510cHXVUymYRM3h+WVGqr9Pbu+XtMSGPj5vUD6SrhSFChkJPOzp0OQ9DBrrQkEk3eCi09PVsEYZcmpioQVogPxNcBcjBvLKinp006Ona5owahOnht6ApVWR20EsjOIy5lghDAtLc3F0GH+vauqg5AeG1EBiIK17nU8/kuyQ0dcPOIoGRyu7unX6wEYZfWIKJs754WgHzDRhD+RgQPi0t2IONWWl9fyn3WQ0sQ8j/NXSqCsAfVsA+FQXrYNAhHXCcMgW3BglCdukFYZf8CoTP7yiCIc43DFRnIDhuua5D+y0EMQcwFCEteg7AH1bwP+YZNg3BeCaTnTyQg37BpEO7pvxwaxPcYh6tOEFppolYKO38YFoRNUYMYNYBiMW7rlcICdej5Ewmo2maR1WAZpdz/1CzSF/Y7G7r9AcS9rGgwsAemAAAAAElFTkSuQmCC",
     "wiki_name": "Snakeskin bandana",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snakeskin_bandana",
     "equipment": null,

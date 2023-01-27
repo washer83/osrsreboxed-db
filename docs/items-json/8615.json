@@ -1,7 +1,7 @@
 {
     "id": 8615,
     "name": "Oak wardrobe",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xs3XbUtUQRQH8N1v4kfwfa8iohdGIAURkmRSgmYYloqKqItmliVlj2aaWqvWZouYFgmJafUi6EH6Oqf9z+W/nnucK3vdWzhw2Pswu/PbM+fOzqZSB7+lxR+++/+8pWVxukdyU90uXk12yfzTThdErC/dkk/5YVl7e8ODsl+ibHgAIgoghsV8fHNdVhcGQgPjHPdshFGxkGnJz/TuQuEVEAZBK/MZWXrZ5/ri1QdCf43e3pqWnxvj+0MRhGNmh6APuUEHYt8oEN73e3NK/nzLFmLOgTBGZUWFCzu6aUHa+a0JwqA+0HK2vwjCsQ+0sTwSAuGYIDu6aenQNGAgFjfOLQiDA8HpjQJtrYwmB2KWcM0HYiYJQtYs6Ot7DcrGA7EuCNLFWE5o0K/Pz9y12CCcT9y/IuP3WuTBnUsyNtIkd4cbZWTwotzM1MtAb51kumult/OsdF07Ix2tp6W1+aS0NFVLc8MJaairkvraY3Ku5qj7rERAzx9flcmHrQ71aPSygwE1OtTgUEN95x0MqJ72GodqaznlYBpF0PaX2SJmX6AXE+0yM97mUDpbRw5VSnXV4V2hUchU44XjDuUD2dEjWjDnKFC8zk91Snayw6F0tqJAdvqQJaD2CQrWIGSIoNxsYR2a6XIoIJitKBBqClkCilkCqghSi6Id3bTgkbeg/Fzh0c/2OBSyhSlEpqJAqCfcY7DIEwMtv+53KGQKA3D6okAocv3kscDLBiEIWlroC31rZCkKxOUA93WBB6C5IqYkEJ4wC1rJZRyIWeK0RYGwRvmWAmaoxOyg7YCIwrXVxYHitLGWWOAWg9Drk566REHMEkA6S3p9ilo0iSKIKDu6pwUgPW3uWn7QgWyW4qLwWViDYqxDYZBGJRH4cY0NwlNmQdxSYMuBjRa2E3oPhB0BAj813HqgL7Yq6P99bUx+rD8pD2SfNlzXIL0HIoYg9gVo893tMKiwBsVeh3zTpkE43gvEDKFvIiDftGkQ7ul/JRqEfgBxusoEoe0uRl/Y+mFYEPbSGsSIAUqluKzvFRaoQ9dPIqBSm0WWgmXs9P1PzSJ9Yd9zoNtfIyANqMv2zesAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xs3XbUsUURQH8N2P0MteVIYUWFAZZkaiSYalgoqmi2aWpZTRk2VipuVDlhkLYiYFCYGYSPmqF1EU9clO/u/yX88c78iOO4UXDjs7c3fub889c/duIrHzW1L84bv+z1tSZoabZXqoycXUYKNMPmxwQcTS7FX5mO6SxdeXPSj7JfKGZ0BEAcSwmA+vLsnCVHtgYLzHNRtBVCRkUtIjLZtQeAWEQdD8ZEpmn7W6vnj1gdBfo3+uDsv35QfbQxGEY2aHoPcvOxyIfcNA+NyPlSH5vTYmf9YmHAhjHCsocGFHNy2Tdn5rgjCoDzQ33pYF4dgHWp7rDoBwTJAd3bRkYBowEIsb7y0IgwPB6Q0Drb7tiQ/ELOGcD8RMEoSsWdCXd71ZECISiHVBkC7GfCIA+vTInYsMwvuBW+ek/2a13L5+Rvq6K+VGV4V0d5yWK6kyaW8plVRTiVxsOC6NF45Kfc0Rqak6JNWVRVJVflDKSwulrGS/nCje5+4VC+jxvfMyeKfGoe72nnUwoHo6yx2qs/WkgwHVXFfsULXVhx1Mowj69Xk0i9kW6OlAnYz01zqUztbe3bukqHDPptAoZKri1AGH8oHs6CEtM+coULxODjXI+GC9Q+lshYHs9CFLQG0TlFmDkCGCpkfX16EnjQ4FBLMVBkJNIUtAMUtAEaQXRTu6aZlH3oLSE+uP/lizQyFbmEJkKgyEesI1Bos8NtDcizaHQqYwAKcvDIQi108eCzxvEIKg2eetgW+NLIWBuBzgui5w3AurNDE5gfCEWdD8dMqBmCVOWxgIa5RvKWCGcswO2gaIKJxbmGnPThtriQVuMQi9PumpixXELAGks6TXp7BFkyiCiLKje1oGpKfNnUt3OJDNUlQU7oU1KMI6FARpVByBH9fIIDxlFsQtBbYc2GhhO6H3QNgRIPBTw60H+mKrgv5fF/vk29L9/ED2acN5DdJ7IGIIYl+AVt5cC4CwBkVeh3zTpkE43grEDKFvLCDftGkQrul/JRqEfgBxuvIEoW0uRl/Y+mFYEPbSGsSIAEokuKxvFRaoQ9dPLKBcm0XmgmVs9P1PzSJ9YT+zo9tfh/IQnh8q1KAAAAAASUVORK5CYII=",
     "wiki_name": "Oak wardrobe (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_wardrobe_(flatpack)",
     "equipment": null,

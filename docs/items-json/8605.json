@@ -1,7 +1,7 @@
 {
     "id": 8605,
     "name": "Fancy teak dresser",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQElEQVR4Xs3XbUtUQRQH8N1v4kfwfa8iohdGIAVRkqRSgmYYloqKqItmliVlj2aaWqvWZouYFgmJafUi6EH6Oqf9z+W/nnuclb27t3DgsPfenXV+e+bM7JhIHPyWFH/43v/nLSlLM72Sme5x8WqqWxaedrkgYmP5lnzKjsj62xselP0SZcMDEFEAMSzm45vrsrY4GBoY93jPRhgVCZmU7GzfHhReAWEQtLqQkuWX/a4vXn0g9Nfone0Z+bk5URqKIFwzOwR9yAw5EPsWAuFzv7em5c+3dC7mHQhjVFZUuLCjmxaknd+aIAzqA62kB/IgXPtAmyujIRCuCbKjm5YMTQMGYnHj3oIwOBCc3kKg7dWx+EDMEp75QMwkQciaBX19r0HpaCDWBUG6GMsJDfr1+Zl7FhmE+8n7V2TiXqs8uHNJxkeb5e5Ik4wOXZSbqQYZ7KuTVE+t9HWdk+5rZ6Sz7bS0tZyU1uZqaWk8IY11VdJQe0zO1xx1fysW0PPHV2XqYZtDPRq77GBAjQ03OtRwf72DAdXbUeNQ7a2nHEyjCNr5MpfHlAR6MdkhsxPtDmWzBZTNlkYhU00XjjuUD2RHL9CCOUeB4nVhukvSU50OZbN15FClVFcddkGUnT5kCagSQcEehAwRlJnL7UOz3Q4FALMFFO7rz1Y7EDKF6WOWgGKWgMqD1KZoRzctWPIWlJ3PLf10r0MhW5hCZArTp0GsKWQJzxks8thAK68HHAqZwgDMFGsKGNQTs4T39MpjgZcNQhC0vNgf+tYIZgkQFLkGMUu6wAPQfB5TFAgrzIJWMykHYpY4bawlQFDgXHWA+LYCZqjI7KDtgojCs7Wlwfy0sZb0qkOWCu1PeupiBTFLAPmyVAyKIKLs6J4WgPS0uWfZIQeyWYqKwt/CHhRhHwqDNCqOwI9rZBBWmQXxSIEjBw5aOE7oMxBOBAj81PDogb44qqD/9/Vx+bHxpDyQXW14rkH6DEQMQewL0Na722FQbg+KvA/5pk2DcL0fiBlC31hAvmnTILyn/yvRIPQDiNNVJghtbzH6wtYPw4JwltYgRgRQIsFtfb+wQB26fmIBFdssshgsY7fvf2oW6Qv7mQPd/gICpiHTSXoeCAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRElEQVR4Xs3XbUtUQRQH8N2P0MteVIYUWFAapkaiSYalgoqmi2bWllJGT5aJmZYPWWYsiJkUJARiIuWrXkRR1Cc7+T/Lf517nJW97i0cOOy9d8ed3545MzvGYru/xcUfvvf/eYvL7EirzAy3aEwPNcvUwyYNIpbnrsrHVI8svb7sQdkvkTc8DSIKIIbFfHh1SRanOwMD4x7v2QiiQiHjkhpt24LCKyAMghamEjL3rF374tUHQn8X/XNtRL6vPNgZiiBcMzsEvX/ZpSD2zQbC3/1YHZbf6+PyZ31SQRijuKBAw45uWjrt/NYEYVAfaH6iIwPCtQ+0Mp8MgHBNkB3dtHhgGjAQixv3FoTBgeD0ZgOtve2NDsQs4ZkPxEwShKxZ0Jd3fRkQIhSIdUGQW4z5RAD06ZE+Cw3C/eCtczJws1ZuXz8j/clqudFTJcmu03IlUSGdbWWSaCmVi00npPnCcWmsOyZ1NUektrpIaioPS2VZoVSUHpSTJQf0syIBPb53Xobu1Cnqbt9ZhQHV212pqO72coUB1dpQoqj62qMKc1EE/fo8lsHsCPR0sEFGB+oVZbMFlM2Wi0Kmqk4dUpQPZEfP0tJzjgLF69Rwk0wMNSrKZmv/3j1SVLhPgyg7fcgSUDsEpfcgZIigmbGNfehJs6IAYLaAwn15cZGCkClMH7MEFLMEFEHupmhHNy295C0oNbmx9MdbFYVsYQqRKUyfC2JNIUt4zmCRRwaaf9GhKGQKAzBTrClgUE/MEt5zVx4LPG8QgqC55+2Bb41glgBBkbsgZsktcHwWdmlicgJhhVnQwkxCQcwSp421BAgKnKsOEN9WwAzlmB20TRBReLY425mZNtaSu+qQpWz7kzt1kYKYJYB8WcoFRRBRdnRPS4PcadNnqS4F2SyFReGzsAeF2IeCIBcVReDHNTQIq8yCeKTAkQMHLRwn3DMQTgQI/NTw6IG+OKqg/9elfvm2fD8/kF1teO6C3DMQMQSxL0Crb64FQNiDQu9DvmlzQbjeDsQMoW8kIN+0uSC85/5X4oLQDyBOV54gtK3F6AtbPwwLwlnaBTFCgGIxbuvbhQW64dZPJKBcm0XmgmVs9v1PzSJ9Yf9mV7e/hskjZ66xDHgAAAAASUVORK5CYII=",
     "wiki_name": "Fancy teak dresser (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fancy_teak_dresser_(flatpack)",
     "equipment": null,

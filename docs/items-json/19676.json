@@ -1,7 +1,7 @@
 {
     "id": 19676,
     "name": "Arclight",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-06-09",
     "duplicate": true,
     "examine": "The magical sword 'Silverlight', enhanced with the blood of Agrith-Naar and ancient shards.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xu2WyU9aURTGff+JiYsu25i0dUgam5haZ60glskBUMSYSo0TqBUQZBQIg4BMTZpWrRu76dJl1666dtG/4+s5FyeoNjECr4ue5OTex5t+nO/c776Ghv8he0io/EWmYBAJgwqFGCvP1jkkBOIJeKNRKNRqAfSksVEuKAm7yT0EEgn443H4YzE5gQhmL4VgMkljCeoSRgYgCXqjCZFUGrupFEIEJSvMuIlg0hkBw9XhY5mkkjAxPS1gwgxDaZi1yFsd09wc4rmcgOG5rDAFAknk8tfVsVwDVV5d4yCYbBbFPMGk02J+E6bKQCWXLc/y8/n9feQJ4iMBMUyBjm/2Tvn1DwoJkzMz+LBuh9uxBa/LicfNzWVwuUxGwOgerSFPcz7OUpVqBjRntcK2uopP1B9figXs+v3o6u3FG5VKvHifekXdtCSqxDBOn6/aK6tcnndLS9BOTmFMq4di7C1i4QjikQjS5LwZMjxVk1UAMYwnFMLswsJf5L13lHbkoMeDJG2GeoMBwZ0dIYV+ygC1fpzAdBhVa9DXaBA51GgWlfp6cIAiSRcJBOB3bwvwLN33ICjb8go27TY4NjdgMJvxtKUFzygZKkDJ8uyT854cHoqRK8SjzmiEaX4ew6OjGCYpzRYLPC7Xw2VbIXlsKyvYsNlgpIe2tLfjeVtbKVtbRep1Onw7OsLJRaZIOk4V/T6kVNInhgYzllmxGKrQ1BLsa2u0qtbxnhr5ZWfnFdDAyIgYuaFf9/Whu78f3TxSsmQLy8uwLFihmZiotgeVN/XA8DC6enowQlJ4HQ74SIpoMIi+wUHKIcyQVEr68Pp1fg6VVnt1X5VgSlF6kIRpepmOGpu/9EJeL/mQC75tF7bsdrzo6BA5RlIdFgr4eXZWBlI1mFJImF9cxB594TFIMhxGwLuDMFUm5PdBRzbAFXpFlVOTRAz04/S0Gj1zV0hiqcciYfjJAtjoeOf+TMbIVbsp6SStxqNiEd+Pj2sLxEs6SkYXJOf1edxwO523OLAEK1kFN7FSo6ktEMvFFYqGgogQWITkur1Zr6v157mqBe/gGSEbj7mL+V0VqFEjV0bpX7Mk7DG8p90FVLe47JM6SHK/qJMk/378BrYByxIzJtUSAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRUlEQVR4Xu2W2U5aURSGPZea3tcpqbGpWhEVFARUEKdqgqhRlDogKijTQRApMo9qsZeN9z5AX8DLvoFXfZ2/a2+c0NrECJxedCUr+8A5sL/zr3/vtevq/ofkIeDxNxIFAxGg0un4+PhujUOALxKBKxSCbszIgfrb2qSCEuCPxTiQN/wFnnBYSiABB/E4xONjHNxA3cJIACRges6MQDLJYcRoVFqYT+Z5BAkmQAoxIPZZolIJmFlYIJjUHYxpaVladcyWFURyOQ7EriWFOcnmEMnn79VZtkhXqkI2izOCCSYSBJYtg6kwUGmXLc/y+/lMBoVMCYjBFOjzQ++UP/+qEDC7uIiNz1Y4trbg2tnB26amMrh8Os1hlG/MKKRTyKeSyNEKqxqQxWbDqsWC02QCRZos5POiR6GARq9HlibOJuLob5jFSSbNgbbc7kqvrPLyrO/uQqc3QK3VQTGowvFhENHQIVLHEaRjUfQ2THEgBmNzuTBlmvtLeV8cpY4s7u3hSBShNRgQ9Lj5xCPUGIeGR6DSaDEwpMGH+lJ21o/yEp2fnnC1jvwiPA4HB2flfBXUytIS1ldXYV9fw+jkJPdLY3Mzhwq4XUiSKrGjEL4XvyITj3FQBqEzjvPne5RKyCnHxsext739+rItExDzy9qKBYbpaTS3tqKppYVn403qR0dx8e2csoiL8yJXguWAVgsZeatfrYZh3MgXQwVMTZ6xWmEjheZJqfcdHXdAcoWSjx3d3eiUydDV04MuGtk185OJXmR5cxPGmZlK70HlplbSG3+Uy6Ggcd9uh5tMHvR4IOvthayvD2NTZGqVCr+urzEyMXH3uwrBlKL0RwIWSK1Jk4mf9LxOJ9+HWG6Seu/a23kOaDQo0Fnn59VVGUjFYEohwLplJwOHIdJSDlJ69/YR9Pngp31GTwbuGxzkyqmHhznQj8vLSnjmuRCQS6UQDgTgIWXYRsc6d56aJlPtYUkZ3CkdwC7OzqoLlKJJDv1+rpDL6cAu+efpDizAxoDJxMO09KsKFKcDOVPoUPRRirxcfzbrvVpP71UsqGlSyVjZ8qxhUrLW8JwCVTLy4yi9NSvJhsPJe9pzQDWLW5/UoCQvixqV5N+P3xRreTdTGWbUAAAAAElFTkSuQmCC",
     "wiki_name": "Arclight",
     "wiki_url": "https://oldschool.runescape.wiki/w/Arclight",
     "equipment": null,

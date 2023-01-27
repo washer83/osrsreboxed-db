@@ -1,7 +1,7 @@
 {
     "id": 962,
     "name": "Kalphite Guardian",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": true,
     "release_date": "2004-09-07",
@@ -37,10 +37,10 @@
         "nieve",
         "duradel"
     ],
-    "duplicate": true,
+    "duplicate": false,
     "examine": "I don't think insect repellent will work...",
-    "wiki_name": "Kalphite Guardian",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Kalphite_Guardian",
+    "wiki_name": "Kalphite Guardian (Lower level)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Kalphite_Guardian#Lower_level",
     "attack_level": 110,
     "strength_level": 110,
     "defence_level": 110,

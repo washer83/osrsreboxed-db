@@ -1,7 +1,7 @@
 {
     "id": 681,
     "name": "Giant skeleton",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": true,
     "release_date": "2005-04-18",
@@ -32,10 +32,10 @@
         "spria",
         "mazchna"
     ],
-    "duplicate": true,
+    "duplicate": false,
     "examine": "A giant skeleton.",
-    "wiki_name": "Giant skeleton (Shadow Dungeon)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_skeleton_(Shadow_Dungeon)",
+    "wiki_name": "Giant skeleton (Shadow Dungeon) (2)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_skeleton_(Shadow_Dungeon)#2",
     "attack_level": 70,
     "strength_level": 70,
     "defence_level": 70,

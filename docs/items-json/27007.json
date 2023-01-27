@@ -1,7 +1,7 @@
 {
     "id": 27007,
     "name": "Void melee helm (l)(or)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-05-18",
     "duplicate": false,
     "examine": "A melee helm plucked from the shattered abyss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrUlEQVR4Xu2Xz0sbQRTHnX/CSy4LPQgFYS97CHvZIjmESCAkJNjQgEqMNFUqqbXaIGmVVJFUW7W1hCLF0l/0UHoqFPqvvfJ9ywuzkzVKOuupX3jMLIGdT77z3pvZiYn/si5Fo+NGpej4+Sb12o9ob3ONdtZXKAhmOZ7cX6SV+bs3CaWov9+h092n9KqzQdlshe7MFDg6a8vUqJapWshRJZ9NGircioujLp33dujdi23K52sMlMmUBs7U54oMMzsTcCQEFYJ8P3tJn0/2eV4oLFAuV+WAMwK0UC5QKZehbOCT77kUpL0koBR9fL1HP/pH9O1Nj4rFOrsDGORSe7URAZqe9mhqyiXHuU2plMNAroPRihQvDGd+np9QudxgdwQICQ2g9eV5erh4jzwvGMAIkECZbx5TIdCX0wOqzDUj7rzttulZq0lbD+rk+9mBM7o7OpAll0IghFQUyhvP3Y1VfoYrrutHtipxIMDoQHAknc4wTByQDmMRSNGfr+8HMHFAAmUCodJQ9taBfn/q06+LsyEg0yUBQmI3axXuR4k4hJ7z4XCXm6E0RDk2kEPSg3SQWik/tGUCZa4whhRDIA63H9PBVmsIRDo0QHBsmCC6Q1ZcgiMYJydvXRoA1HPGDEtbBil2Bg3QhJDAbyaAGRaBIMWLohvrINg+dOm4MjfDOlAcDK4a0gSvgrIOhKTVgeCM3pWvgrIOhEYnMCh5VFYc0CgwS2UPKS5pAULZmwepGSaMZZcUN71/ARIYa0CtpRrDYC5A5ul+HSDzzWNKcRJfBhQHJSAZP23bHSjsQ04qxS/HXD/d44DQtXHZx5XWsjtQ+Okj/3YUUFhJ0bDsDqT4iwOVhjmurXFA+uJmmG+0IMUnO0YcpGYOJeTEKIXOYESCi1sJbst1JMkZhUgC5i9c8EgHJte6YgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xu2X0WsTQRDGuw8lRIolcBCOw15JaOCSkDYS2gZTY6kl1kprqNWWtKXEUrVFKxYpSBFF0RcffPPBB//UkW+OCXuba1riXp8cGG6PwO4v3858uzcy8j+sh6LBea2h6NWzNeq2H9Du2jJtrSyS501xPro7T4uzM9cJpeh0b5OOtx/Ti81VyuUqdGsi4HyyvECNapmqQZ4qhVzSUOFWnB926Ky7RW93NqhQqDGQ75d6ytSniwwzNeFxJgQVgnw/eU6fj/Z4HARzlM9XOaGMAM2VAyrlfcp5LrlOhryskwSUoo8vd+nH6SF9e92lYrHO6gAGtdReakSAxscdGhvLUDp9k1KpNAPNTE7aglK8MJT5eXZE5XKD1REgFDSAVhZm6f78bXIcrwcjQAJlzjxkhEBfjvepMt2MqPOm06anrSat36uT6+Z6yujq6ECWVAqBkNJRaG+8d1aX+B2qZDJuZKsSBwKMDgRFslmfYeKAdBiLQIr+fH3fg4kDEigTCJ2GtrcO9PvTO/p1ftIHZKokQCjsZq3CfpSIQvCcDwfbbIZiiHJsoIbEg3SQWqnQt2UCZa4wRCiGQB5sPKT99VYfiDg0QHBsmCC6QlZUgiJ4jo7euDABqNeMmZa2DKFYGRigCSGJ30wAMy0CIRQvCjfWQbB9cOm4NjfTOlAcDK4aYoKXQVkHQtHqQFBGd+XLoKwDwegEBi2PzooDGgRmqe0RiltagND25kFqpgljWSXFpvcvQAJjDah1p8YwGAuQebpfBcicechQXMQXAcVBCYjvZm2rgwh9KJ1K8eQY66d7HBBcG5d9XGktq4MIP33k3w4CCjspmpbVQSj+4kCnYYxraxyQvriZ5owWQvHJjicOUrOGElJiUITK4IkCF7US3JarhBRnFCIJmL8IrbLbCIDWcwAAAABJRU5ErkJggg==",
     "wiki_name": "Void melee helm (or) (Locked)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Void_melee_helm_(or)#Locked",
     "equipment": {

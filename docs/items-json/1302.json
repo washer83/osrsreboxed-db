@@ -1,7 +1,7 @@
 {
     "id": 1302,
     "name": "Adamant longsword",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A razor sharp longsword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADG0lEQVR4Xs3Vz2sTQRQH8OQ/6L2XhR68evHUSy89hHpoiRBaqVhBehBBEA9qEX+goqgoioItWqo0rRLbWmL80WBCTWMVtbXFowji3zH2u8t38+ZlkmabVTrw2E12Zt9n38zOJhK7vyWNO1zX/3lLmrmpcyY3OebH88dnzezEGT+IKC/eMKWF66Y4f82B0g/RNjwAEQUQQ2OWXlw1r59dthLjN67psFGRkEmz8OR8HQpHQBgEFWYvmcXpC35fHF0g9JfozZUps748vjMUQThndQh6m7vig9i3EQjjNiqT5sdqditmfBBy7PU8P3R21YKy86kJQlIXKJ+9GIJwLkG4F47L+ZsWCOcE6eyqJa1pQCIubvzWICQHgtMrQbjX0PEh/7hSuB0fiFXCfy4QK0kQqob7jI6NhhX6+EaCstFAXBcahOQaJBc0QbjHoZOHzcipkRD06d0dC/T9w6P2QfgfIKJYSflGYnzm2KCFQXxeuhsvCAGABOkFjbEDRwbqMOj7rXQ/BG1Wn4aYyCCJ4uurQcSkMqk6DEFrpQdOkM7eoAWbF5I1A3FBo2/P/p4Qg0rWgcoPdwoK9iBUaDsQq4gxWMQ44j8NQn8LJDZFnV214OlcIIQLhDFYxMMnhp0g9IsVRBQCCbDjIgHO0T99NB1igMY4PV2xgWSVcJQg9O072GdhGoEqr24J0EyIaQmEN8cF4ucAIPTrPdAbfhawvhqBgMdnQ1aoxeqg1UB6HfFzgOhOdfvrhphGIE4XPhuxgYjCtcFMh5nLdZpyyTNrX7vMr597rArJSkoQdmkJIkpnd7QA5Jo2XEvvS5jT/R3m5bxnNta7/NgOhCn+UrwXgrAHRdiHbJCcNlwr5D3z53dQFYacLg1CddoG4S3TIPw/Md5p3hc9s1oNqsJPhgZhrJyu2EB62nCtWgkwSIjkEsS9CuNwD4LwylugrT0o8j7kmjb8j+t4Ypw3A8n1EwvINW18aiTBNSBcIH42OF1tgtBqC7ZZ6PXD0CBsihLEiABKJLitNwsNlCHXTyygVptGtoJl1Pr+p6aRrtBjdnX7CxAqnYC7zJ2CAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xs3V30sUURQH8F18kJUeexEflJUIN1hNygiECILopZKioqKoqCgiCCURKfohklmGbBYVLimLLWYbQT8sKeoPiB6C/p0T3xm+s2fO3l133Cm8cJjZmXv3fObcO3cSifXfkuIO1/1/3pIyOXpIJkYGvBgfPihjQwe8IKIwfUbmpk5L/sEpB8o+RMNwH0QUQAyLmb1/Up6OHw8lxm/csxFGRUImZerG4QoUjoAwCJoZOybTt454fXF0gdBfo78ujsqXhcG1oQjCOatD0PN7JzwQ+1YDYdxKcUS+l27Lj9JdD4QcPR0dXtjspvll51MThKQuUO7O0QCEcw3Cf+G4kDsbAuGcIJvdtGRoGpCIixu/LQjJgeD0apCXcHePd1x8cj4+EKuEay4QK0kQqob/6R/oDyr05tmFAISIBOK6sCAktyC9oAnCf2zbu1369vUFoLcvLoZBr643DsJ1gIhiJfUbifHZXd0hDOLd7KV4QQgANMguaIzt2tFVgUHfj3NXAtC3pZsBJjJIo/j6WhAx6Wy6AkPQp/mrTpDNXqX5mxeS1QJxQaNv26a2AINKWtBy4dpaQf4ehAqtBmIVMQaLGEdcsyD01yC9KdrspvlP5wIhXCCMwSLu3dPrBKFfrCCiEEiAHRcJcI7+mZ2ZAAM0xtnpig2kq4SjBqFv59bOEKYaqPj4XADCLk1MXSC8OS4QPwcAoV/7lvbgs4D1VQ0EPD4bukJ1VgetDLLriJ8DRGu61Vs3xFQDcbrw2YgNRBTudWebZHKiWQrzKVn+0CK/fm4IVUhXUoOwS2sQUTa7o/kg17ThXmZjQvZvbpJHD1Oy8rnFi9VAmOL3+csBCHtQhH0oDNLThnszuZT8+e1XhaGny4JQnYZBeMssCNeHBpvlZT4lpSW/KvxkWBDG6umKDWSnDfdeF30MEiK5BnGvwjj8B0F45TUIe1Dkfcg1bbiO+3hinNcC6fUTC8g1bXxqJME9IFwgfjY4XQ2C0MoLtlbY9cOwIGyKGsSIAEokuK3XCgvUoddPLKB6m0XWg2WU+/6nZpGusGPWdfsLWT6ik1/0uf8AAAAASUVORK5CYII=",
     "wiki_name": "Adamant longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_longsword",
     "equipment": null,

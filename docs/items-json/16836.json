@@ -1,7 +1,7 @@
 {
     "id": 16836,
     "name": "Cowbells",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-01-29",
     "duplicate": true,
     "examine": "Every song needs a cowbell.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAklEQVR4Xu3V3UsUURgG8D3/QVd7szcDczGwV91FRBCEeBEEYSQaSiq2oSlmtplWGCYFlmiZhSZZYrKpJItllmVbwiILFmkpFSLSJ+GFhNdPPud0dqfZhUz346YXDjOz7Mz85n3fc47L9T/SHgKxkdFQiKrSfago3ouS/OxMogTOVh9EfVUeaitycdyXA1/BHgnaahjpRgm0N5WjqbYIjf5CNNQUwF+2X2YpY6DLDYflaD5dIlHMFEuXMdCVxjKZpdZzPpkpls+eJecdKQ4hIRfriiWMR4LYRzpDac6SAjEzLBuPLFkGm5ohJIQ9xKa290/GQGxmlovZOXQg63fvpL1/GAKB6x4EbxkSNR4wEBoyMDlsYGrETDdKYLDTI18eeWji9WMTM09NvJ+2MBcxMf1CgTZRNvs+tJ6UC4z2Gph+ZGIpYuHzvIWldxYWZy2JImhyjJi/PSdhqOWfSz/XEL0nxT/sT/DEgIG3Eya+vrLwY8GL7x8Vygn6xywJDHTVo6u5KroF6L1Jzxg9TlRuwalqNc743QgH10r00sLyrBcrn7xYXvTGgcaGN5QltQV0txzD7bYaOYU5a3rXeqRnrWk72zy42a4Gz1svuHHpvFseF6csrMx7sfotMWjk3oayxBAxyFU/AjfqMB5UX8jBBw/e8UikBhLL69UPiUETDwzc7/NsFMRQpenvqEXftZNy5kSeqy8lTqPudnvkkS8L9qvfCWIfEcRZxvv4IYGeTYFcLnWjghHEWeREcYwOqeuC3O3Iy9kWBwo/MeX/mMFNgWKhQFxbnKjQqCHPSwt3oih/h0TZQTNhU/6HGWRpkwritLZnauqZKSFHS3fjSNGuKOjnFwVaeKP6h3CWq6PFnXyQHUVIdXl2FKSzRBDXITY00brsGpNU0FwohiKk0pclB8/tIK7WTkSSMIwYiIsfUewnjdEgnaVEEOcTkxAiCtIoO8YJSiHEHkJiFsIKlQjEkaTGXW8ICeJwgpylct6ZwhBy39IgJyTNGB3xUzlDkFikEvIL1+9e/Ww7M8AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xu3V3UsUURgG8D3Essww7GVRQSpBkIWamB+0aaKZbZL2SUmBJWIZFkqSVGLIokXCgiVhJElZXixIXhiBVKQQBYYgVERdhHdC4J/w5HNOZ3ea3QvT3Z2bXjjMzLIz85v3fc85Hs//SHsIxIaroRCVJdtRXrQNxXlZbqIEjlXtQl1lLmrKc3AgkI1A/lYJysvMTDdKoKW+DPU1hTgVLMCJ6nwES3fILLkGOn98jxwNR4olipli6VwDXThVKrPUdDIgM8Xy2bPkvCPFISTkbG2RhPFIEPtIZyjNWVIgZoZl45Elc7GpGUJC2ENsanv/uAZiM7NczM7unRl/eift/cMQCF32IXzNkKjhkIHROwbG+g2MD5jpRgn0tfnkyyfum3j10MTUsIn3kxamJ0xMPlOgNZTNvg+tJOUCg10GJh+YmH9h4cuMhfl3FuZeWxJF0NiQsYLnJAy1/HPp5xqi96T4h/0NHuk18HbExLeXFn5+8uPHR4Vygv4xSwK97XVob6iMbgF6b9IzRo+DFetwuEqNo0EvIuHlEj23sPDGj8XPfizM+eNAQ/2rypLaAjoa9+N6c7Wcwpw1N5d7pHO5aduafbjaogbPm854ce60Vx7nxi0szvix9D0xaKB3VVliiCik62IQoSu1GA6rL+Tgg/tu+CRSA4nl9dKHxKCRewbudvtWC2Ko0vS01qD70iE5cyaeqC8lTqNudfjkkS8L96jfCWIfEcRZxvv4IaHONYE8HnWjghHEWeREcQzeVtf5ORuQm70+DhR5ZMr/MYNrAsVCgbi2OFGjg4Y8LynYhMK8jRJlB01FTPkfZpClTSqI09qeqfHHpoTsK9mCvYWbo6BfXxVodkr1D+EsV2ujN/kgO4qQqrKsKEhniSCuQ2xoonXZNSapoOmnMRQhFYEMOXhuB3G1diKShGHEQFz8iGI/aYwG6SwlgjifmIQQUZBG2TFOUAoh9hASMxtRqEQgjiQ17kpDSBCHE+QslfPOFIaQ+5YGOSFpxuiIn8ouQWKRSshvZN3uZJA4iVcAAAAASUVORK5CYII=",
     "wiki_name": "Cowbells",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cowbells",
     "equipment": null,

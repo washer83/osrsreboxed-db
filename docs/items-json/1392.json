@@ -1,7 +1,7 @@
 {
     "id": 1392,
     "name": "Battlestaff",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-18",
     "duplicate": true,
     "examine": "It's a slightly magical stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4Xs3X3UsUURjH8d3/YK+88cY/ob+k++6i2yAQIigrrOjFsDAMg5JaNFotzETUXhRWTHsjepP+nZPfGX67zzxzZttxp/DAw6wzZ+b5zHPOnIO12tFv9RCP2PV/3uphee5yWGpeTOLFk7GwOHshCSG2VydDe+V22Ho1EUH5lxgYnoKEAqTwmM2XN8Pr59czifmbaz6yqFLIeliZH8+hOAJRCLSxeC2sPruS9OUYA9Hfovf35sKPnUeHQwnEb1VHoLdLNxKQ+haBuO/XbjP8/tQ6iIUERI5jIyNJ+OyupWXXWwtE0hhorXW1A+J3DLSzdicD4rdAPrtr9cwwkEiTm789iOQgNLxFoL2NqepAqhLnYiBVUiCq5kEf31hQqxxI88KDSO5BdkILxDM86PO7exnQz/ePBwdxHpBQqqT9Irn/1umhHOrL5nS1IAKABfkJzb2njjfC1GgWRN9v7ZkOaP/D0w6mNMiieHgMJAwxfXYozJzLg763H0RBPntBSx9Osl4gTWj6zo4NJ5VpXhrODVcC2n54WFC6BlGhv4HoQ//zJxtheSKFEAytBdE/AzKLos/uWvqwGIgoAlEdjvThnAXRr1KQUAQJWHFJwG9VhyMVFMgPV2UgWyWOFkQ/X50i0O76XQNa6GD6AvHlxEDaDgSyGFUnBqIv24atUJ/VoXVBfh5pOwDkMUUgDRfbRmUgoThPAoHmx/MgW0kLYpW2IKF89khLQbFhE4g+WmvsKl4E4gW+bt3vgFiDSqxDWZAdNs5xXasw5/1weRDVGRjE1xMDcW3yTHdL0JbhQZprGq7KQHbYOD96opHZFkjuh0sgniEQn3wGdLAGlV6HYsPGNYI3pk8vkJ0/lYBiw6a3JgnXYhOa0Lah4RoQROv+q9Ir/PxReBCLogUpSoBqNS3rvcIDbdj5Uwmo3+aR/WAV3b7/qXlkLPw9R7r9ASrCskidZYKuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xs3X22vUQBTH8V2W0n+jT77qi/jogxTEB6138VKpUqWigljUUhUvpWgrhVIvqLRQKbUUrQiioij6l418E37Zk5PJuulG6cAh22SS88mZyQxtNLZ+a4Z4xK7/89YMs5OHw+OJg0lM3xwKU+MHkhBiZX4kLM+dDUtPhiMo/xI9w1OQUIAUHrM4czq8mD6ZS8zfXPORR1VCNsPcnSMFFEcgCoGeTZ0I8/eOJX05xkD0t+gf65Ph2+r1zaEE4reqI9CrR6cSkPqWgbjv+9pE+LVxP/zeeJiAyLFjYCAJn921tOx6a4FIGgMtPDiegfgdA60unMuB+C2Qz+5aMzcMJNLk5m8PIjkIDW8ZaP35aH0gVYlzMZAqKRBV86D3Ly9kIKISSPPCg0juQXZCC8QzPOjD64t50NsbvYM4D0goVdJ+kdx/ZndfAfVxcaxeEAHAgvyE5t5d21phdDAPou/n5csZ6Oe7uxmmMsiieHgMJAwxtrcvXNlXBH15czUK8tlLWvpwknUCaULTd3yoP6nMrUP9heGi79eVa5sFpWsQFfobiD7037+zFWaHUwjB0FoQ/S3ILoo+u2vpw2IgogxEdTjSh3MWRL9aQUIRJGDFJQG/VR2OVFAgP1y1gWyVOFoQ/Xx1ykBrT89nIFZpYboC8eXEQNoOBLIYVScGoi/bhq1Ql9WhtUF+Hmk7AOQxZSANF9tGbSChOE8CgW4fLYJsJS2IVdqChPLZIy0FxYZNIPporbGreBmIF/i0dCkDsQZVWIfyIDtsnOO6VmHO++HyIKrTM4ivJwbi2sie9pagLcODNNc0XLWB7LBxfnB7K7ctkNwPl0A8QyA+eQtiDaq8DsWGjWsEb0yfTiA7f2oBxYZNb00SrsUmNKFtQ8PVI4jW/lelU/j5o/AgFkULUlQANRpa1juFB9qw86cWULfNI7vBKtp9/1PzyFj4e7Z0+wPt7LT34b1NCgAAAABJRU5ErkJggg==",
     "wiki_name": "Battlestaff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Battlestaff",
     "equipment": null,

@@ -1,9 +1,9 @@
 {
     "id": 2851,
     "name": "Ice warrior",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-01-27",
     "incomplete": true,
-    "members": true,
+    "members": false,
     "release_date": "2001-05-24",
     "combat_level": 57,
     "size": 1,
@@ -16,8 +16,8 @@
     "aggressive": true,
     "poisonous": false,
     "venomous": false,
-    "immune_poison": true,
-    "immune_venom": true,
+    "immune_poison": false,
+    "immune_venom": false,
     "attributes": [],
     "category": [
         "ice warriors"
@@ -30,10 +30,10 @@
         "mazchna",
         "vannaka"
     ],
-    "duplicate": false,
-    "examine": "The Ice Queen's Royal Guard.",
-    "wiki_name": "Ice warrior (Ice Queen's Lair)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Ice_warrior#Ice_Queen's_Lair",
+    "duplicate": true,
+    "examine": "A cold-hearted elemental warrior.",
+    "wiki_name": "Ice warrior (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ice_warrior#Normal",
     "attack_level": 47,
     "strength_level": 47,
     "defence_level": 47,

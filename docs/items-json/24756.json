@@ -1,7 +1,7 @@
 {
     "id": 24756,
     "name": "Graceful gloves",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": true,
     "examine": "A sign of your grace under fire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABm0lEQVR4Xu2W22rCQBCGs8/hTcCLgiCEghQpgiJFikUqlYpKofT932HKZJnO7GmySRO8yQ8LuZgZvjnsZIti1CgD8XMXGfg8HuHjcID3/R5et1t4Wa9hs1oNBdWUrYHL6fQH9LbbOUBVWSq+2eKyPy0WUE4mCpQFoiohEFapByCGkIER6GE6VYIb+Dqfo0CPVaUkosrA9/VSB5blx8DPyyXMZ7NGIPKTQOib9lNl4Od2q6Go/BKIMk0HdueIBpt80n6quEo+ELaNquR7WbltI189iUbZKvlAmGlulahNmADa/2OGSLZKfvnz5oGBCAqP7pOl+JDKmfA9rExtQztItjntky2eCfymFujBbXXRB5MgKN2nlcIWpIPbBPBQVQcBwrZhcDnU9vhygeRl0G9nKzGQnAna2r6tX6H825ktBpLB44Pq3k65rXtsGwPJ4PGMGUjusEGA5JNCH253XcR+Ia59a4X/p+YF6W57al/avpXCZ0Xew4ufMXTQNm2frXAuaJ50oKIgAHl8m44Ks+0x427yM70rzKhRozrqF7bSJRJ8j4MHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu2W20oDQQyGd66KRSrFYrHF2lqs1EpPIL7/k0WyQ0zmlJ1dd+nN/DCwF0n4cpjsVFVRkYH4uYkMfO338Lnbwcd2C2+rFbwul/CyWAwF1ZStgdPh8Af0vtk4QOf1WvHNFpf9aTaDu9FIgbJAVCUEwir1AMQQMjAC3Y/HSnAD1+MxCvQ4nSqJqDLwfT7VgWX5MfDzfA4Pk0kjEPlJIPRN+6ky8HO51FBUfglEmaYDu3NEg00+aT9VXCUfCNtGVfK9rNy2ka+eRKNslXwgzDS3StQmTADt/zFDJFslv/x588BABIVH98lSfEjlTPgeVqa2oR0k25z2yRbPBH5TC/Tgtrrog0kQlO7TSmEL0sFtAnioqoMAYdswuBxqe3y5QPIy6LezlRhIzgRtbd/Wr1D+7cwWA8ng8UF1b6fc1j22jYFk8HjGDCR32CBA8kmhD7e7LmK/ENe+tcL/U/OCdLc9tS9t30rhsyLv4cXPGDpom7bPVjgXNE86UFURgDy+TUeF2faYcTf5md4UpqioqKN+AbD0xzu3yJFqAAAAAElFTkSuQmCC",
     "wiki_name": "Graceful gloves (Hallowed) (Inventory)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Hallowed)#Inventory",
     "equipment": null,

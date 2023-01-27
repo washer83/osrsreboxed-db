@@ -1,7 +1,7 @@
 {
     "id": 21177,
     "name": "Expeditious bracelet",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-02",
     "duplicate": false,
     "examine": "Allows one slayer kill to count as two.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCUlEQVR4Xu2VyU7CUBSGvW/iI/hO7ty5c6Eboi40BhMTxDiAgKIIoggCCgFkEkRkSpHJ4JMc85+mWJClt7Don5z00txyv/5n6MKCKVOm5kqC/sbMJMi+b6Xzw0PK5z2jmBGUIIfNRpcnx2MwipJmoKXFRSOhBHnPTsnvctG993IEU3r1MdC5c9NIlwT5nE4KXXkpFghQIhSaCmQglKCw75pBMrEo5ROJMRg9kAFQgq4dDobJxuNUfslQtVhkGD0QArW1a7HQyvKyTCjBNaPB1Mtlatfr1Gk2qaco1Hyv0Fs2S7nnZ94DB9GBa6ursqAEPQWDf2C6rRYDtRsNqpVKDIU9lXyOA8W/tbEuD2oaTL/d5qtS+6BG5Y2hAIh9CLzIwc6OPKhJmEHnk6+4B3cA8T0YUCmT5jrD71QkQtbtbRlQgt9eD/PV7fAVh99deNgR1FAxleJ7rWqVI3Ljo71NKd2nugQgwAx7PQYCBGZU1O+ndPRRBSoUuOCxH6B4FpNcwjRXoQAz7Pe5dgADF3AwUqQHQjpv3e4R0OS//ZMEH4R6wZB0H9nZHf3g1IDQDBgDkoEgwWnDwXBAcwfzCA6h9QGEtcR0TUpNn/Z9gzuFZHI0zZHOZPjBCHc0qS5hQqPVMSDR6ih6rHEf30ADgaDfoYmOw1pt798wKF16TQfQx+QT0jVzAFOm5l0/ef7SpjGhwTcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFUlEQVR4Xu2VS0sCURiGPf+kn9CyVTt3bWoT1cKIWgRRQRex0spK6UIXza4oVqYmplhZiCLTVUQq+kVfvN8wNl6WndHFvPAxx+GM55n3u4zFYsqUqbaSoMZomQRNjY3SwuQk3cRd1WgRlCD7xAStzM7UwCjKBQN1dnQYCSXIPT9H3sVF2l1dqcKkbjcYaMExYKRLgjwOB+2vuel4c5OCe3tNgQyEEuTbWGeQyPERxYPBGhg9kAFQgtbtdoaJnp5Q+jpC2WSSYfRACNTWcH8/dXd1yYQSXDMaTC6dpudcjt4KBSopChUe7ikTjVLs/Jz3wEF0YI/VKgtK0Nn2dgPMR7HIQC/5PD2lUgyFPffxGAeKf7CvVx5UM5jyyzNfladHyt9lGAqA2IfAi4zbbPKg6mEqb698xT24A4ifSoVSV5dcZ/gd9vtpdGhIBpTgt9fDfH688xWH7yy72BHUUDIc5nvFbJbD7/HQyICU7lNdAhBgvkolBgIEZlTA66XLwKEKlEhwwWM/QPEsJrmEaa5CAea7XObaAQxcwMFIkR4I6dxyOqtA9f/2TxJ8EOoFQ3Jpeord0Q9ODQjNgDEgGQgSnDYcDAc0dzCP4BBaH0BYS0xXvdT0ad83uJMIharTHOkM+Q6McEeT6hImNFodAxKtjqLHGvfxDTQQCPobmug4rNX2/guD0qVXcwB91D8hXS0HMGWq3fULPB2OrRP2M6gAAAAASUVORK5CYII=",
     "wiki_name": "Expeditious bracelet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Expeditious_bracelet",
     "equipment": {

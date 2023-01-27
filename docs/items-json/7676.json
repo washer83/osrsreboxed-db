@@ -1,7 +1,7 @@
 {
     "id": 7676,
     "name": "Wooden shield",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A less-than strong shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xu3WT0tCURAFcO83cOXGjdDOVbiLEAqJeCRRIIaGEEQUgRARSIUQBEKF9A/3EUFEBH3DiXMv573r7amp76mQBwY3hT9m5g4mEvP8nygxNRNRUvbSUi2mZwGlZKuQ0gXU3vZUUUq8fEpap+tye+b5XdovZ6aB6sa0G548nG/4XTqqTBylfmGeLovSaW7qQpfqNaJih4V3hyCMDV1ip2KGKSksJUMxKO4RMO/tHV3oVkwwJcu5bowLAgb1dlfWmI/7il8xwMwT7wWyu+OCPh+ruohijYEyo8LuAGWPywW93pQ0yMV8Pe/6BQzPw2IGn0PFjAoYglgE2d0ZBHIxQ4KU5LJJuThckebxqlzVC3pkNgoYgl5aJQ3iuCLHZBcS0jjIaxAw1ydrGsRx4ZkTQxD3J2IMYkblgtzLTAxvTxjIXuIRMYgZF5aZ47JBNoZ7AxC6wHFFiEEMCF1yQS7GXmSAWBFimOCF2QttP3EX5N6bCDGIAWFsAPXD2KDvTk1j8Hcj3ppeCfYIXeqHsUHA8MdahN1hgivtgmwMbw/HFRMGCfbIHhmfuVtj3pq/Jnhx3ClUGGwCGIY/GfrXhDAm/LJB5f7fPPNMKz+QzQQ4jAJMvQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4Xu3WUUtCQRAFYBcRqQdffIiMzG5YhJImBAUVCBGBUCEEgVAhRYV/IAiCIIKg/zxxdjn3rttVU+9VIQ/Mm+LHzOxgIjHP/4kSUzMRJWUvLdViehZQSrbyKV1A7W1PFaXEy6Wkdbout2ee36X98sI0UN2YdsOTh/MNv0tHlYmj1C/M02VROs1NXehSvUZU7LDw7hCEsaFL7FTMMCX5pWQoBsU9Aua9vaML3YoJpmQ5241xQcCg3u7KGvNxX/ErBph54r1Adndc0OdjVRdRrDFQZlTYHaDscbmg15uSBrmYr+ddv4DheagWCsOizKiAIYhFkN2dQSAXMyRISTaTlIvDFWker8pVPa9HZqOAIeilVdIgjityTGYxIY2DnAYBc32ypkEcF545MQRxfyLGIGZULsi9zMTw9oSB7CUeEYOYcWGZOS4bZGO4NwChCxxXhBjEgNAlF+Ri7EUGiBUhhglemL3Q9hN3Qe69iRCDGBDGBlA/jA367tQ0Bp8b8db0SrBH6FI/jA0Chn/WIuwOE1xpF2RjeHs4rpgwSLBH9sj4zN0a89b8NcGL406hwmATwDD8y9C/JoQx4Y8NKvd788wzrfwA1FB6Lx7Gg50AAAAASUVORK5CYII=",
     "wiki_name": "Wooden shield (Weapons rack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wooden_shield_(Weapons_rack)",
     "equipment": {

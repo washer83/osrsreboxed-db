@@ -1,7 +1,7 @@
 {
     "id": 11898,
     "name": "Decorative armour",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-01-16",
     "duplicate": false,
     "examine": "Very decorative armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xu3V204aURQGYOdNfARvvWhiY3phakgbTIwSE5UgBg/hOFCgE6gIKmhRAQ90HAGNtba12hisRwjiodZCrWK06eGi7/GX2UYEQm2rFZOWP1lhLvbM/lhrT6aoqJD/LxQy60ZDYWV+HtMch8GeHuhVqptEUdiIvkMwGIbf/xx2hxs6hYKASoqL842iEIsnsLu7j4WFdbDsFCyWXgJSt7Xmu0sUopsnCIUSWF7+CHZsDZZOHxjGhtamJtTX1uSzSxT23n/B1tYJwuEjrKwegONCBKTVMhCJGkHL2wksD12iSFdisa/Y2fmESOQIa2uHGB8Pw2oLQCLRQyAQwmZiIG1oyEeXqOSZ+Yx4/Bv53YgeE6DPHyEgqdSI0tI7cDvskInF+QElEt/xau4Yz2aOMDF5gDFuP4lZgkLJpkC+oSG0NzfnB/Ry9hhPpxPwBw7gZT/A44nBbH4Nmg5ALLGjpKQcE95RKFtarhtEka6kY1zuPTj7twnIYJyBWuNDdbUOU2MsOdjXADr/HCiUC7BYD2F+FAdj2oXeGIVWtw4NvYwuZhbdpjnU14+QKrt9Oq7zunJOH0RrVwlk1LkJjyOMAdsK+jqCZHOLYQYm7SQMKg4P1T5ybdZNIbwYRGBkmKwRCi0Q1bmuijuHeJ3bGOqNYLB7Fc7ORdiTo7EaX6BDP518rTszStXigk7uxQMFC87jAZM8UzyQX8vfU1P7mAD/EEVBqQ6SMWR35QwjrJRl/ePMkjV2gXW5QLcPp4B8B3kg38VKgeF3URRUmjd40v8WI33RDExbU2/GpvxB/VmdrWkUMRDXmaCQDZDupQMrKjS/Qp2O6Qzj7gnBaV26EJH9hPSkw6rvyyGqolGXfPvkUmcKWF5+4QeYSp0XfvFlELmSDuPr3l0pqgRtZKytYjtulUkuRuWCZK+6TLLHmWuv7HtI/jYkV7K7fp17FVJIIYX8M/kB6mCQHzlsZtYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC20lEQVR4Xu3VbU9SYRgHcM9H8JVbLnM2aeGm4qbCRNTJMyygoySCippP4LMdKTDdzNHKpWsuXBopiyE5H5ehy5nS7GFtrld9nn+c24nAyEoTt+K/XeO8uM+5f1zXfXZSUpL5/0Ihui40FNyTkxiz2dDR0ACNTHaRKAoL/jdwubxwOB7C3GiFWiIhoPzMzESjKAQ297C+vo2pqXkwzCgMhiYCkleUJ7pLFF4vfoLHs4fZ2W0wg3Mw1NpB0yaUl5SgMD8vkV2isPH2AEtLn/HKG4TbvQObzUNAKhUNHq8YSnElgSWgSxTpSiBwgJWVL/D5PmBubhd373lhNA1BINCAw+HCVEVDWFSUiC5RWFv7iq2tb+R3wb9PgHaHj4CEQh3S0q7A2miGiM9PDCgY/I4nEx/hdAYxPPIeg7btEGYGEikTBtm7u1FZWpoY0OPxfTwYC8IxtIMB5h06uwLQ659CqbwPvsCM1NQMDPf3QVpWdt4ginQlEmOxbqC1bZmAtDon5Ao7cnPVGB1kyME+B9Dx50AinYLBuAv9rU3QVWvQ6PxQqeehUL5AHT2O+qoJFBb2kkq/fDiu4zpzDh+kVLkJpK9lEV2NXrSb3GiueUY2N2idqFaNQCuz4abcTq716lF4p10Y6u0ha7hcA3gFlrPijiEDrcvobvKho/4lWmqnYQ6Nxqh7hBrNWOi1ro0qWZkFanE/bkgY2Do7QYfOFAtk17L35OXfJsA/RFGQyl1kDLFdOcJws0Ux/zi6RMV1YCwWKCt7wkC2gyyQ7WI2R/u7KAoyxXPcaVtFb7M/ClNR0hS1KXtQf1ZHa4p5NPgF1ZCI2kn3IoFZWYpfoQ7HdISxNnjQapw5ERH7hMhEwnKvi8HLUaIg9PaJhS1hYEbGiR9gKnxe2MWnQcRLJIyta1eFyOFUkLGW8824lC44GRUPErvqNIkdZ7y9Yu8h+duQeInt+nnulUwyySTzz+QHOQ43xZS8yWcAAAAASUVORK5CYII=",
     "wiki_name": "Decorative armour (magic hat) (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_armour_(magic_hat)#Normal",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 18817,
     "name": "Museum map",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-05-29",
     "duplicate": true,
     "examine": "A map of Varrock Museum.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xu2V7UobURCGPXfiJfQW+qsUS6EEDBoSGoNGGlJS40c0qWxItZE0NiL2S0REQSkVvMNpn3M6cfdYYWPTXaEODJtsNnOe8847ZycmHuIh7kUY8e+kFIAYOfjQtFf/14TDyPfjvuy9X5ON+rwFejQ5mRaUkbNvXfm4tSqNWklaK2UJ1hbTUsnI8UFH+p1lCwNIafaJdJpV2X77Okko55evg03ptetDZV69fCb5zGN773AvkIuj3r+GciAsRotQIgyDOlybtRnZahStr0j9n1/tL8IVPNpvW+MqCAaulzPSXq/YFvG5Uc3K5lJOguW8dFYL8uNkd5hjgHIgJ5/eyf7Oul0UCBQhAVG/fN5tyfnhjlVEAYAiucdvp1+27wrlQPCA+kQhMC5KKAigGJtnFebydDBM7qMYm0Jh2j1iC40tyiIsxsJAkGFFFER9oqooCD4CBlV4Dig2x8FJ2/FgTKjr6QFAMy7I1dkg0iJUoR4tBQoQ6lCTtWIeoMYCaFKAXbFr8jYQvqMKB6W2CBBVhToozUDUKwWpLszGV4k/kxx6jDCLAMLn7sac9Fol6QcLERBVBQXxCjAo2g3eWP+tVItSW8xLpZSV+UJG5nIvpDDzPD4UO2OnCuIrwjXcHh+Ezdgh+K1GuTjtQbikbbFbF24PUPjAh9H2qGnxCa1FFVUDiNz01A2IEWA0TEQVUn0UNi6qqM/04FRFspmnfwTxVxohXDGg1C8sHIZRw9MivOLDjAnkOlwhd1iqMgqhqthXyS+/3Abj1xxTmIiB9SULDBOUMIyGa6G+aFOG0XBnlQ+jk5QwjIaxnmG0gfEnyX86gTARmLFP0t0idVVuxr2C+a/iJxX8fp7L+8clAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgklEQVR4Xu2VDUsbQRCG3R9SsC0tNEhMQhojxobQtPEjaFJjiB+RNNaKSL8QEUSEUmgp9D+PPrudeLcqXDTeCTowXHK5zD77zjt7Y2OP8Rj3Ioz4dxIKQIzsf2zYq/9rzGHk91FfdjcXZbk2bYEy4+NJQRk5/dGVT+sLUq8WpTlfktbibFIqGTna70i/M2dhAClmnkqnUZGND2/jhHJ++b6zIr12baDMm9cvJJd6Yu8d7K7Kr8PeXUM5EBajRSgRhEEdro3qpKzXC9ZXpP7Pr3aLcAUP99rWuAqCgWullLSXyrZFfK5X0rLyPiurcznpLOTlz/H2IEcA5UCOv6zJ3taSXRQIFCEBUb983W7Kz4Mtq4gCAEVyj99Ovm3cFMqB4AH1iUJgXJRQEEAxNs8qzN+TnUFyH8XYFArT7iFbaGxRFmExFgaCDCqiIOoTVUVB8BEwqMJzQLE5Dk7ajgcjQl1MDwCaUUH+nX4OtQhVqEdLgQKEOtRkrYgHqLEAmhRgV+yavA6E76jCQaktAkRVoQ5KMxC1cl4qM5noKvFnkkOPEWYRQPjcXZ6SXrMo/dZMCERVQUG8AgyKdlvvrP/mKwWpzuakXEzLdD4lU9lXkp98GR2KnbFTBfEV4Rpsjw/CZuwQ/FejVJjwIFzStsitC7YHKHzgw2h71LT4hNaiiqoBRHbi+SWIIWA0TEgVUn0UNC6qqM/04FRF0qlnV4L4Kw0RrhhQ6hcWDsKo4WkRXvFhRgRyEa6QOyxVGYVQVeyr5Nwv18H4NUcUJmRgfckCwwTFDKPhWqgv2oRhNNxZ5cPoJMUMo2GsZxhtYPxJ8p+OIUwIZuSTdLNIXJXLca9gHlScAZ+U5PV5ovEZAAAAAElFTkSuQmCC",
     "wiki_name": "Museum map",
     "wiki_url": "https://oldschool.runescape.wiki/w/Museum_map",
     "equipment": null,

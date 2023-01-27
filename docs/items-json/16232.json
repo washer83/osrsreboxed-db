@@ -1,7 +1,7 @@
 {
     "id": 16232,
     "name": "Clay",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-28",
     "duplicate": true,
     "examine": "Some hard dry clay.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcUlEQVR4Xu2T7StDURzH7/lP9id4I3nt1d4sSmo0ecgos4xmSAslLYmF1RraPDSPSZIkSfJ3ffX93Q539yIPd7vR+dSvczq37vmc34NlGQwGg+HfouCNwFAoLffjeGMEe6tDsu8MNwcppnBeSOBqexynW6Oo5odRXhkUscJiLAgphfvDKTxUM7itTOKiOCZi3hI2tJzuCxWaQiFZmaWd3ABymS6k42HEOlr9lPJe/F5QRguxlMwaS0kxXUb7+69QWJuLIp/txuZ8j/y4uNQnvcLzbDKCRG8bopEWVwY+E/4x9iTxhWxYTtPBelxezT3P+I2CFF5ItTsELEsLOMN9wzdRMtZsVk4Ug2XgynOKUZByFNMTxkzWZss37F643k1J3JQnZNX9QTHKUk6L+Viej3gbb8bdfrpG7LKUfJVzitRJRmO/+vlsFo9H0yKoxXTUOSte9Dgznk5mJFsUYzRcxolTrAH98nWcvRK4jMFg+Ou8AGYMYd9t4UE+AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbklEQVR4Xu2T/UdDURjH7/kfUr9l9sOSYmt6tdKyVtZSMhXJJGUqY6YyS2V6JSIRUUSk//Kb73Oduru30st2r3I+PM5xLvd8zvNiWQaDwWD4tyh4IzAUysv9ON4Ywd7qkOy7wi1BiimcF5O42h7H6dYoaoVhVFYGRay4GA9CSuH+cAoPtSxuq5O4KI2JmLeEvpbTfaFCLBSSlVnayQ8gn+1GJhFGvLOtkVLei98LymghlpJZYykppstof/8VCmtzURRyMWzO98iPS0t90is8z6UiSPa2IxppdWXgM+EfY08SX8iG5TQdrCfk1dzzjN8oSOGFdIdDwLK0gDPcN3wTJWPNZuVEMVgGrjynGAUpRzE9YcxkfbYaht0L17tpiZvKhKy6PyhGWcppsQaW5yPexptxt5+pE7ssp17lnCJNktHYr34+m8Xj0bQIajEdTc6KFz3OjKeTGckWxRi+yzhxivnQL1/H2SuByxgMhr/OCzlHNEq1fwZ5AAAAAElFTkSuQmCC",
     "wiki_name": "Clay",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clay",
     "equipment": null,

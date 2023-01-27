@@ -1,7 +1,7 @@
 {
     "id": 12000,
     "name": "Mystic smoke staff",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-10",
     "duplicate": false,
     "examine": "It gives a 10% accuracy and damage bonus for spells on the standard spellbook.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlklEQVR4Xu2Wv04CMRzH6ULizAvwBpCw3EKCuXjEYIwkRIJEIhKRCBIjxgQneQAmNkafgNXc6ORTMNzicKP7V36tlV4Dk1x7A9/kl2t7TfvJ70/bVCo2MbyOx6Dv2qyJ4WU0wqDbhed5cF0XjuPYgmK463Tw2O9zgNlshsViAd/3bXlLbHjTamE6nWK5XCIMQ96ncfLaWaViCorhIJ3GaSaD82qVbxoEAQ8ftWlMjuezWW76CjuU8MzXfI7PQuHPC5f1Ooa9Hm/ftts8nBJIX2GHYjheJa5uVxcNPN0P0KjVcN1scjAJFyMQw9sqgd9zud+8EEbeeH4YcjDyEvVVmFiBPiYTfK8suplaUWuLHYZCQSHZtJns66ausGOJ0GyCsSRx3kgg/a9hMV5FiQKi6klUuCzDRMtXTWZ9pgExHBaL/B6iErccKqbczsYOuG1iOCmXIwCq6bNjlrgwLXpDVWJgRH4clUqRxNVnGRJDM5/nMNsuS8MSJ698blqHocc3WSJgyCv0uksAjJTVw26zEgWz117/0A/H20v/k84mCAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlElEQVR4Xu2Wz04CMRDG6YEQ73CBiCAxhmD4Y3DFIIJZ4xoPeCCGeOcdeAQuPIQnrl72auIzbLJPQLz7Bp9Ma6Vbl5O72z3wJZNtu03nl5lO20wmNjE8j8eg79aMieHJcTDq92HbNobDISzLMgXFcNPr4X4DQe3lconVagXXdU1FSzi86naxWCzgeR7W6zXv0zhF7bRWSwqK4SCbhZPL4axe50593+fpozaNyfF2pcJNXyFCich8zud4LxR+o3DebMIeDHj7erOPKJ0SSF8hQjEcl8t/7KLdwsPtCK1GA5edDgeTcDECMbxOJnjL53/2hTCKxuOdzcEoStRXYWIF+pjN8DWdas7Uitpa7DCUCkpJmDPZ101dIWKJ1ITBGJI4bySQ/jdhMV5FqQKi6klVugzDBMtX3cz6zATEcFgs8nuIStxwqphyOyd2wO0Sw0m1GgBQTZ8ds8SFaTAaqlIDI/bHUakU2Lj6rITE8LJxTjC7LsuEJU5e+dw0DkOPb7JUwFBU6HWXAhgpo4dduFIFs9de/9A3xGwroWiubKoAAAAASUVORK5CYII=",
     "wiki_name": "Mystic smoke staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_smoke_staff",
     "equipment": {

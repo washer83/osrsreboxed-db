@@ -1,7 +1,7 @@
 {
     "id": 16904,
     "name": "Demonic tome",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-11-14",
     "duplicate": true,
     "examine": "Will this book help in summoning Agrith-Naar?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADe0lEQVR4Xu2VW0tUYRSGZ/6BP0HwQhACEURCBgrxQgxJjMREyUSTNNE85REzM8MsCZJCoqKIKISEysQDmk1m2sG0xMQLL+pvrHy+ce3Zezdms0u98YPF6Bz29+xnvd/aPt/+2rXlF2ft2QoBnCkutqqitHS3ocIm8g7kSkFivhQlFUlTTY3Unq2Q+qpK81libOxOQ4UgjiZkmTqWkGOALre3SXtjowGi2hoadgLInQm/ZMRnOGCospQyaamrM0CAXGxuNoDXu7r+R9tsm6elSU5WlslEWlyaA8YNVJJcYtpGdmpTa6T1cIvEx8T/qyW/nCsvl8qyMgNxuqhITuXny8kTeQYmkh0ForDD78lSxcEKA8h3PVryS8AXMKq5MDkADKDj2dkSHxcX0Q75wQ4AGm41RvEdj5b8ku5LN6opcgDYlQvtFmQgNuCAITd93d3mVNFaYBQESxTvYdaDpRDQEV+mNATqzR0DoRfnwhgAiiONPUAI8vnqaikpLHRA2MujpRBQji9bqlOrHNrtd0xpS8kZkJdaWwwc7VVwewHkwVLYUEFMwR+B2BQoLCmAHgR72Cl77jxbyovJ3RaIjNmt0EZOGMeePCmEnk6tqC1hiLYBFQnGbQgAWsb/ZAkobVNKcnJ4XGRmmvxFaSmco62A2Mw+k/ToA8nn+hsOBkUbManzLSkx0ZslcqRQagUAJnZBbq6prYB0UOojhdHBY4RXWs17UUD5LUOU+XtjQ+YNyrkYd8yd2y25gRgbFCeW16ZDjdYI8BBwJxRWUN5/rVduXu0xdnisbGcJEK6D8WDwoUy/vu+YSZ6BuDinCEuo7+3slJ6ODtMCgBRGQdTs3NygzMw8luCbBzI1dU/Gxwa8D0l7jnhlEAICBCeKBy4AbpAvCyPyYX5IZt89kZm3j4yVycm7Mjo6IK+Gb1k2o8iQLr9lCCAgeKaRH0xpRqjl5WlZWhyTTx+fh61stAgrE+N3ZGTktrx80S9Dz27I4GCfBRS1JW0bQKY2bPz8sSLr6wuytjYv31eC8nVpQhY+Dxsr72efGiu0CCu0CCvuR4mWZ0sKo+1ZXZ2V5W9Tsrg4almhRRpc/a4WN0aFAMIVZbBZm0CbF9bh6LZiH5y6Ob/bCsBe7h3/YvmtzXQK63POfhJ3ECDSCgfcnqldBIi0nJvvAcDvy735rgPsr831Cy+ydIJsxqdEAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADf0lEQVR4Xu2V2UtVURSH78WnRAxRDG+komRo4YSZYqah5hQOmVlZUTYQhBRFFBERRIEP+VBhhpiIZdpg0kRlA0oT9FJP/jkrv31d555zumb3lPrihsXVO5z9nW/99jo+3/JatOUXZy3ZCgJsKSqyqrykZLGhQiZyVmZLflyeFMYXSmN1tdRsLZe6ygrzWW5q6kJDBSHWxWaYWh+bZYD27WyR1oYGA0S11NcvBJA7E35Ji0lzwFCliaXSXFtrgADZ3dRkAI+0t/+Pttk2T06WrIwMk4nk6GQHjBuoOKHYtI3s1CRVy441zRITFfOvlvyyraxMKkpLDcTmwkLZlJcnG3NzDEw4OwpEYYffk6XyVeUGkO96tOSXgC9gVHNhcgAYQBsyMyUmOjqsHfKDHQA03GqM4jseLfklxZdiVFPkALADu1otyMCKgAOG3Bzbv9+cKloLjIJgieI9zHqwFARa60uX+kCduWMg9OJcGANAcaSxBwhB3l5VJcUFBQ4Ie3m0FATK8mVKVVKlQ7v9jiltKTkDcu+OZgNHexXcXgB5sBQylB+V/0cgNgUKSwqgB8EedsqeO8+WcqKy5wUiY3YrtJETxrEnTwqhp1MrYksYom1AhYNxGwKAlvE/WQJK25SYkBAaF+npJn8RWgrlaC4gNrPPJD36QPK5/oaDQdFGTOp8i4+L82aJHCmUWgGAiZ2fnW1qLiAdlPpIYXTwGOGVVvNeBFB+yxBl/p7ZkHmDci7GHXPndktuIMYGxYnltXF1gzUCPATcCYUVlHce7pAThw4aOzxW5rMECNfB+OjIJRm+f8ExkzwDcXFOEZZQ37FnjxxsazMtAEhhFETNjo93yePHV2TkwUW5N3Re+vvPeB+S9hzxyiAEBAhOFA9cANwgE2975cXzbhl7clUePbxsrAwOnpO+vtNyu+ekZTOCDOnyW4YAAmLfzDON/GBKM0JNTQ3L+3f98urlDcsKLcLKwN2zcqf3lNy62Snd149LV9dRCyhiS9o2gEzN2Jie/iQ/f7yV79+fyZfPo/Lxw4C8ed1jrDwdu2as0CKs0CKsuB8lWp4tKYy259vXMZmcHJKJiT7LCi3S4Op3tbgxKggQqgiDzZoFmr2wDke3Ffvg1M353VwA9nLv+BfLb22mU1ifc/aTuIAA4VYo4PZMLSJAuOXcfAkAfl/uzRcdYHnNrl/h4qWs9st7UgAAAABJRU5ErkJggg==",
     "wiki_name": "Demonic tome",
     "wiki_url": "https://oldschool.runescape.wiki/w/Demonic_tome",
     "equipment": null,

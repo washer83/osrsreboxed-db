@@ -1,7 +1,7 @@
 {
     "id": 1291,
     "name": "Bronze longsword",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A razor sharp longsword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhElEQVR4XuWWvUoDQRSFM2+wVZptBrZYCARCQEIIgpBCRJAIgRDBwoBgYWOnT6CgrbaK1qIEOxW1kKApxR8sRH2RY+5dr5ld0HLuggcus8UUH+ecnZlC4X/KIBl1JSCtqRKW5qraUAYzjRiLsxWstGsMU7GWJ7vTgxIYcmVtoYHl+YkfoOxODzJo1iJ2hmBoFN0xmKxadKfLWO3UGYZWJXcMauUQ7WaJO5OFUQGiv4n6kgsYKTGBqMNIiSkqdRgpMUWlDiMlFhj3AMzu9qDxlUAgyqdx+lpQh6ESS2/UYajE1BuJShVGSpybG5xKLFGp3+BUYoKhqFwYT0Dy5EyGSixRqcBsbRZxchzi4txyid2oPMOQDLqdIAV1N4icN7H33hj0egE21gPsbKehHh8ivL/F32BeNXKpPoJqBTg6DNE/HQOpREYQg9sInx8xzvqWv4f3Ea8qkR3sh7i6tHh+SgDc8e7O3m6RXXl9iTkmF8IzjMjg5tpyRAqO/CaVeP5WrmA09QVq/3wEiKuYmwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgUlEQVR4XuWWMUsDQRCFsxzhuONIkMiFKISoYJBAEiwMFoKNnfgLFLQWawX9AyKi2IoiYiEYFHtBUbATxT/0zMw5Zu9Ay50DHwx7xRYf773b3ULhf8ogGXUlIM3xEuamK9pQBpO1CLNTI1hoxQzTbTR4sjsdKIEhV5a6NczPjP4AZXc6kEE9DtkZgqFRdMdgrBKgM1HGYrvKMLQquWMQl3206iXuTBZGBYj+JupLLmCkxASiDiMlpqjUYaTEFJU6jJRYYOwDMLvbgYZXAoEon8bpa0EdhkosvVGHoRJTbyQqVRgpcW5ucCqxRKV+g1OJCYaismEcAcmTMxkqsUSlArO2WsTBvo+z04BLbEflGIZk0Gl7Kajbfmi9iZ33xqDX87Cy7GFjPQ31+BDi/S36BnOqgUvVAVTTw96uj6PDIZBKZARxcx3i8yPCyXHA3/d3Ia8qke1s+7g4D/D8lADY49ydrc0iu/L6EnFMNoRjGJHB1WXAESk48ptU4vlbuYLR1BehT0xQCsHyYwAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_longsword",
     "equipment": {

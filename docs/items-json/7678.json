@@ -1,7 +1,7 @@
 {
     "id": 7678,
     "name": "Prize key",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "You can use this to open the prize chest!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu2WQUsCQRiGnX/iHxC8dOoXeBRB6RpEkRCBRR3tEoIICl6qg5coEYKIEsKLYCailWApGUpUHjwkHbq/8Y2s7s7umsTurIde+A6zszvfw7vvzo7L9a9/KWLQl2NiODi81pVDUFqYavUF/f6nU1ATmGTqHKVSG63WBwaDLwyH305ATYDE/BCUes7rdsuAMgcS5yQAaZtOKwlAs4EkEjmsrUftBJruyuXVAwqFJg93JlNENHqE0FLYLiBzkFyuivJtB8ViiwPl8w2k0xfjLBGMhUDmrtCnns1Wxo3FUkAsgjEH2dlNIZk8w8npCEbdWCxx1T/KGCQYXMXWdoKHVXRBXMFCMfR6Ax1MILCCSCSOeDyrc0VcwUIZO0O1sbkv1xUjGHKqXu/C5wvNhytUEl0h6WFisWO+p9B+ooZyBEapdruPu/se33FFp8RVLJQWiJyhswzttgpAs/nGD1zq+2yEYqhUOrpmjcYrarWuZkxFY79/2e7Xx8bN1VB07fHpHeHwHh8rJ0GPZ8FuIBLjeRGhbsrP8HoXVdmR/LUpr0WbFeP/lPi0TRqFWISSCGAkxrNDxwpJeZlF0vPyuxzIy/zoB4gW484AUdPeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4XmNgGAWjAAYY/2PiAQOM/wsKZ2LgAXIUqmPWrTvx//r1xwPlKIRj0tJ7/i9bduj/wYNX/9+58/z/kydvB8JRCAehpx+Qo5DlDBQU6OEo3A5Cl6ODg1AtxYfp4CDiHJKU1Pbf1i6Elg7CHyqTJm/7P3v2bnDiLi9f+D80tPi/nr49rRyE2yGtbev+r1x17P/ChQfADpoyZfv/rKwJ8LQEcgwVHYQ7VEBZvbl5DdxidAxzCJUcg9sh3j7p/1NTO/83NK7GsBgdo5tKJsDuEB0dm/8enkngxIoeCugmUBEw/j979g6GY7S0LP+7uyf8T0hoxggVdBOoCLCHDAg7u0TTN1SwOQYUUps2nf6vpKQ3OEIFhOkYKiCA6ZjY2DpwmQIqT5AdNSCOgeFDh67937L1LLjERQ8pdFOoCFAdBAoZUFsGVNrCHLBnzyVwgwtZHQ0dxfh/zZrjGJbt2HH+/4YNp1D4IAzia2qa0zr6GOGWIzsKJLZv/+X/9vZhYD6sJcjPL0JrB4EAIzi9oDtq+Yoj/wUFJZHSDp1zGyxaUNMK9noKXTeNACQRozuKjg7ABhjBaQfUrKBTeiEG0D29EAYDkF4GDwAA7KiTbYHHcIgAAAAASUVORK5CYII=",
     "wiki_name": "Prize key",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prize_key",
     "equipment": null,

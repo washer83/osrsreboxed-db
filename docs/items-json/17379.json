@@ -1,7 +1,7 @@
 {
     "id": 17379,
     "name": "Kelp",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": true,
     "examine": "Slightly damp seaweed.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABO0lEQVR4Xu2VPQ7CMAyF20uwsPQIbEwMDN0YmLj/TYqsKOT52elv2kjAkyzU4Dhf/NM2zV9//YbaYdwOVTtc+2bUqkD1r/PHEOb2qAh1f56UCZwAaahDwVLfMFS1El66bhBDMC6lrAefXcWTpQ2hdgYKB8ZeQfOmDaE4UgHlRx6njidPnnfIkoXhKcPG9iyVdLPsiKNx6aJhttC/EFhq2FyW0Ad9+QLaf5MSjA0cegRfA+grv7Hx7d5V0rfFntAgyVcAoj9nFf9LGV0sXQ4LEnxiD+GBnFkGXp0thLBjrN9PHhA2uxj72ZirlWBypeUsiRXJki9/+tKt80C8VgjKP9ADYh9+LlS6KSDfJ7dWDAiDxsBTQN7eokAIYgP7ft663rdKXlY8hW+jPXju/gWaH8w/2Fs7TNUO/mq9AQoSLuIuAULSAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOElEQVR4Xu2VSw7CMAxE2wXiBiyQULtBbFhw/8sVWVHIeOz0mzYSMJKFGhznxZ+2af766zfUDuN2qNrh0jWjVgWqe54/hjDXe0Wo2+OkTOAESEMdCpb6hqGqlfDV94MYgnEpZT347CqeLG0ItTNQODD2Cpo3bQjFkQooP/I4dTx58rxDliwMTxk2tmeppJtlRxyNSxcNs4X+hcBSw+ayhD7oyxfQ/puUYGzg0CP4GkBf+Y2Nb/eukr4t9oQGSb4CEP05q/hfyuhi6XJYkOATewgP5Mwy8OpsIYQdY/1+8oCw2cXYz8ZcrQSTKy1nSaxIlnz505dunQfitUJQ/oEeEPvwc6HSTQH5Prm1YkAYNAaeAvL2FgVCEBvY9/PW9b5V8rLiKXwb7cFz9y/Q/GD+wd7aYap28FfrDX643wNGPZ4LAAAAAElFTkSuQmCC",
     "wiki_name": "Kelp",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kelp",
     "equipment": null,

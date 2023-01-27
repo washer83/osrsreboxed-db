@@ -1,7 +1,7 @@
 {
     "id": 26689,
     "name": "Calamity chest (broken)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-07-06",
     "duplicate": false,
     "examine": "A chest piece used by the Calamity Coven, but it's broken.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMUlEQVR4Xu2WXUsVURSGnT/RjTcHvBAEQQQREcGQkFAkSRADw5QSzEKx1JJCk6OZWSISlX0oIvZBX1QkYVBE0U0Q9IN2PWt6Z7ajWWeOEoELFuecmT17Pftd795zCgr2Yi/8CFyc/zRCiKLMvih3Acpf7fZZXlrkSoozrqq82GUKC6PcIah4tW1Nta6rtT4qQFEV53578353sLbCsq66zJLrus88ZZlMGqh4taySyXraG93A8cNuuKfVjfa32/WaylJLvgusub7KNdZVGhSf3Oc6mRIocDMjJ9yN8V6bnFUy2amOJjfY3eJmL3RHKvhKkOMDR20M6qFWS0ONXZeaKYACtzDZ517eGbNcvj5oqyRVQAooUYAFAKpW+pACYlwKcwdubSnrPjy66t4uTxgUvlmdG7ZPUlAkRS4Pdbrpc10GND92MioOiBTUNdqaSqUvz2fdx8cz7sXCqHmH4oAIiLw71W8QwGTPHjOV5kZ7olYyRl4i5bVUKn1bu+2+vpo3IAH4uTRzxt3MnjafAYV3gKKtQKudWogPlFql7+uLBkQRJROvzA4Z0P3pAVOJNtG2kd62yGdAqaV+aucCkyMQEdjEHS0HbLWv710ywIfz581TgGF6gFCH3cUZxTP+eSR14lblrI4iiGAw+JvFcTP5s1sXDQoY+Yizqa+z2fymtmk3YuqKX6e2f0Dm6CMiiJRZX5m03QcUv1EHGDyEOijTfaTBPqWSvMM81T99w1w+VCpzM8n7B1fcu9UpS8BIVMJH7CpObwqjJiDx6uME+nfGzrF9gQF9enLNjoLPT8PjACj8RNsAYbU6n/xCYbHA2gmEdh9t1LhkxT9ECOS/sZPJe40CWxcK7JXjH6qoxNjUQH5xeSAJRWLoja0Kn6+vKIkMLgVTtksRTiAF5AG9HpJgeusLRqc1Y3UW5QGjCKJXgSYWkK9KEgpvCcb/ixIrmDrCQ1LG9f92UIj7+u3vpMaqeAy/89hdyQgV0rvJTx/GB+L6oZrySE1fnTxhiGBLGNKH8X0iIJ7TZtghdRSbDzwlO0y5sWi4EEDz/E+9dahQMn24zQpsd28XYyPg39/bi/8+fgDgGqk/Ff3U7gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xu2W7UsVQRTG3Q8hiiihKCqZJhomqEimkZiRYqmUlJmYmVmKCFFJr4JIr0RFUBFCYBBERNC3PgT9cVO/sz2742rW3atE4IHDvXd3ds5vnvPM7M3J2Y7t8CNwcf7TCCHy83ZEuQVQ/mo3zuKifFdYkOfKigtcXm5ulJsEFa+2ub7SdTTVRAUoquLcb23Y5fZUllhWle+05LruM09LdXUaqHi1rJLJulrrXN/BfW6wq8md6W216xWlRZZ8F1hDTZmrqyo1KD65z3UyJVDgpoYOuSuj3TY5q2SyI231rr+z0U2f6oxU8JUgR/v22xjUQ63G2gq7LjVTAAVufrzHvbwxYrl4ud9WSaqAFFCiAAsAVK30IQXEuBTmDtzywpj78Oiie7t4zqDwzf3ZQfskBUVS5PxAu5s80WFAcyOHo+KASEFdo62pVPryfMZ9fDzlXswPm3coDoiAyJsTvQYBzNjxA6bS7HBX1ErGyEukvJZKpW/L193XV3MGJAA/F6aOuatjR81nQOEdoGgr0GqnFuIDpVbp+8pdA6KIkomXZgYM6PZkn6lEm2jbUHdz5DOg1FI/tXOByRCICGzitsbdttrXt84a4MO5k+YpwDA9QKjD7uKM4hn/PJI6casyVkcRRDAY/M2dUTP5s2unDQoY+Yizqae9wfymtmk3YuqSX6e2f0Bm6CMiiJRZWRq33QcUv1EHGDyEOijT2VJrn1JJ3mGe8p++YS4fKpW5meT9gwvu3b0JS8BIVMJH7CpObwqjJiDx6uME+nfGzrB9gQF9enLJjoLPT6ftOAAKP9E2QFitzie/UFgssHYCod1HGzUuWfEPEQL5b+xk8l6jwPqFAnvl+IcqKjE2NZBfXB5IQpEYenWrwudrSgojg0vBlO1ShBNIAXlAr4ckmN76gtFpzVidRVnAKILoVaCJBeSrkoTCW4Lx/6LECqaO8JCUcf2/HRTivn77O6muLB7D7yx2VzJChfRu8tOH8YG4vreiOFLTVydLGCJYF4b0YXyfCIjntBk2SR3F2gNPyQ5Tri4aLgTQLP9Trx8qlEwfbq0CG93bwlgN+Pf3tuO/jx/XRwTgVrfzLQAAAABJRU5ErkJggg==",
     "wiki_name": "Calamity chest (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Calamity_chest#Broken",
     "equipment": null,

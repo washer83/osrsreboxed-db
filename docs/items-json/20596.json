@@ -1,7 +1,7 @@
 {
     "id": 20596,
     "name": "Elder chaos hood",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-08-11",
     "duplicate": true,
     "examine": "The hood worn by the dangerous elder druids.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xs3WyU8UQRTH8Z7/gNNc5jKJBxISEmLiX8LJgxcvXrx48OAa3JegwWAwQaIEDIuKSAjiAgkEwS3GjfjvlP3t9jfz+lFDZqA1VPIyM13VqU+/qno9SXLwWyXEI9b/z1slzE9cDHPj57N49vhcmB07m4UQ64uDYW3hdlh9eSuC8g+xb3gOEgqQwmNWXtwIr59eK0zMb/p8FFEdISthYXJgB4pPIAqBlmevhMWpS9lYPmMgxlv09tZE+LHxcG8ogfiu7Aj0du56BtLYViDu+7U5Hn5/mk5jJgMxR1+9noWf3bU87XpqgZjUguwTK5amL0dBG0t3CiC+C+Rnd61SWAYQ2tz8Fohxg93VcPVQNVyoV8OZelcYSL/rYTxoa3moPJCyxDVAjLmZTj6UgvgEAup0ijpZ68r6PejjGwua7gykfeFBOk3CDKehLBHATqWg/mqyA/X53b0C6Of7R/sHcV1LBWakO4fxG6RQZOlIUkR9WRkuF0R4jEAWJdgJs3TsuW9rIw3Q9ocnDUzHIIuiT5jRnlr2yW8iBrOg72sPoiA/e4vWPMIeJIxALM+xvnwze1gBtD66V1B+bMlQDARk/C8IRH9PkoEUghECcTILIFMU/eyu5Uc+BiLoB0NkpynFHO1tYo4fzoOaRD/jyU6pIKEI+qd6a1m9IWIYgciUCmVpIJsl+nhqZUcgoYRR5c72VjXP0uaruwY008C0BeKEtQKBYMMKZLNkMarYqtq8NmyG2swOrQny+4g+1R1AFgXCvj7m+2pZPE+Da9xbGkgo+phUhdGi2DMeY8ODhPKzR1oOii2bf21w7G2WQJERG/mklfB19X4DRA3qoA4VQXbZuGb/A7F8YylqMj11nLxZExrD6eJ/0L5AnLLdQExAsdOknDqhdE3VuVSQXzauWxAbXdVbwTXu01hAHPkCKK1BHdeh2LJZEN8FIqjiKp7cpwwxthRQbNksiD77t8SCGKf3VwkgWvFPe6uwGBseRFG0IEUHoCRRWd8tPNCG3T+lgNptHtkOVtEc+5+aR8bC33Og2x88yeAjVXX+oQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xs3W20tUURTH8RlkGAxRpP4An3speumlh1566KX7/YqFhVGBJJVYYSV2MQSxCxUKhphIGUFUFEX9ZbvzPaffzDrLPTKjp3DDYmbO3of9OWvvvc6USuu/lUM8Yv3/vJXD+PDB8GhofxpjN/aF0cG9aQgxN9kbZifOhpknZyIo/xBrhmcgoQApPGb68anwYuxEbmJ+0+cjj2oJWQ4Ttw8tQ/EJRCHQs9FjYXLkSDqWzxiI8Rb9Y3E4fJu/tjqUQHxXdgR69fBkCtLYRiDu+74wFH4t3Q2/l+6nIObY2tOThp/dtSztemqBmNSC7BMrpu4djYLmp87lQHwXyM/uWjm3DCC0ufktEON6Oyrh+IZKONBeCXva28Lh5LsexoMWn/cVB1KWuAaIMaeTyfsSEJ9AQO1OUDurbWm/B71/eaEGIloCaV94kE6TMP1JKEsEsF0JaHOltAz14fXFPOjt9bWDuK6lAnOlI4PxG6RQZGlTKY/6ON1fLIjwGIEsSrAdZunYc59nL9dAP9/dqWFaBlkUfcIMdFbTT34TMZgFfXlzNQryszdo9SPsQcIIxPJs6842s4dZ0Ne5gdWCsmNLhmIgIDf/gkBs7iylIIVghECcTAuyRdHP7lp25GMggn4wRHqaEsyWrjpm+8YsqEn0M57sFAoSiqB/pKua1hsihhGITKlQFgayWaKPp1Z2BBJKGFXudG9VsiwtPD1fA1GlhWkKxAlrBALBhhXIZsliVLFVtXlt2Aw1mR1aHeT3EX2qO4AsCoR9fYx3V9N4kATXuLcwkFD0MakKo0WxZzzGhgcJ5WePtAwUWzb/2uDY2yyBIiM2sknL4dPMpRqIGtRCHcqD7LJxzf4HYvkGE9St5NRx8kZNaAyni/9BawJxylYCMQHFTpNy6oTSNVXnQkF+2bhuQWx0VW8F17hPYwFx5C2IGtRyHYotmwXxXSCCKq7iyX3KEGMLAcWWzYLos39LLIhxen8VAKLl/7Q3Coux4UEURQtStAAqlVTWVwoPtGH3TyGgZptHNoNV1Mf+p+aRsfD3rOv2ByVz+nTDN3uOAAAAAElFTkSuQmCC",
     "wiki_name": "Elder chaos hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elder_chaos_hood",
     "equipment": null,

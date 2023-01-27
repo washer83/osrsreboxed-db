@@ -1,7 +1,7 @@
 {
     "id": 20159,
     "name": "Gilded spear",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "A rune tipped spear with gold plate.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xs3X30sUURQH8Nn/oKde5mXfegp6iZ6C3nqJQIhAJSgfeqkgonowE7NfFBaFYWBSi0brVmZiZj8UVkz7RfRL+ndufufynT337Nl1x53CC4cdZ+/s+cw5d+5gFG39UXB2WN//81Fw0+P9bqrUl8SzRxdcZaw3CSKWZodcdeamW3x5w0Dpm2gb7kFEAcTQmIUX192bp1eDxPgb3+kIUZmQBTczMVCHwicgDILmK5fd7JNLyVx8WiDMl+i11XH3c/nB5lAE4ZjVIejd1LUExLmNQLju90rJ/flcXo/JBIQcu4rFJHR2NXzZedcEIakFmisPpiAcE4TfIWh57lYAwjFBOrsahaANSMTFjb81CMmBYHtxzLYc7uhIUavzd/IDsUo4Z4FYSQSu7+nudke7OoMKfXorQeVsIK4LDUJyDZILmqCxM7HbvSMKQF/e3w1Avz48bB+E8wARxUpyDq593he7nv3bAgzi68JwviAEABKkFzSuvXJsex0Gc79XR1LQ2sfHKSYzSKLw4xaImNLZ2O3dGbaKoB/V+yZIZ28w/FOCZM1AXNCYO90fu5MHfatQyTrQ0uhmQX4PQoU2ArGKuGbouG8VzmkQ5gcgsSnq7Gr4u7NACAuEaybOx+7AHt8qDcK8XEFEIZAAOy4S4BjzXw0W3blDvlVA4zrdrtxAskr4lCDMw/zhE75VrKIFWnl9W4AmU0xLIDw5FojvJ4Iwt9Ibu859tepYIMzFa0NWqMXqYNRAeh3hPEGYh6fqYpevDha8BWK78NrIDUQUziMBQSOnahiCZCUlCLu0BBGlsxvDg6y2EYQ58vWwEQg38G3xXgrCHpRhHwpBsm04x3UzcKS+OhYI1WkbhKenGWj0dJx88pWhQVxrbFduIN02nGfLkBDJdbsI4lyA8MgHoPU9KPM+ZLWNSXDHOG4GkusnF5DVNgnCd0BYIL422K42QRjyH7vGodcPQ4OwKUoQIwMoiritNwsNlCHXTy6gVodGtoJl1Ob+p6GRVuhrtvT4CwCuphuLfwnvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAklEQVR4Xs3X3UsUURjH8V0ihiDoJrqoG7sokAI1KC+6qCCiujGzsjcKiwqjAkkqsaKXxV4MweyFCgVDTKSMICqKov6yE98ZfrNnnj2uu+4UHnjYcfbMPp95njNnsFBY+qPowhH6/p+Pohse7HKPBjrjGLp+wJX6O+IQYmq0x02OnHYTT04FUPYmGoYnIKEAKSxm/PFJ93LoeCYxf/OdjSyqLmTRjdw6VIHiE4hCoOelo270zpF4Lp8hEPN99M/ZQfd9+uriUAJxrOoI9PrhiRikufOBuO7HzID7PXfX/Zm7H4PI0drUFIfNbkZSdt21QCQNgcbudacgjgXidwSaHjuTAXEskM1uRjHTBhJpcfO3BZEchNrLsdqyubk5Rc2+OJcfSFXiXAikShJc397W5ra2tmQq9OHV+RRE1AXSurAgkluQv6AF6t8TudUrCxnQxzcXsqB31xoHcR6QUKqk5nDtg87Ita9flsEQn8Z78wURAHyQXdBce2zb8goMc79MXkpBv97fTjF1g3wUPx4CCXNjb+TWrsq2SqCvb68EQTb7PCN5SkhWDaQFzdzhrsjt3Ji0ikpa0LepvsWCkj2ICi0EUhW5pmd70irOWRDzfZC/KdrsZiR3FwIRIRDX3NwfuQ1rklZZEPNyBQlFkIAdlwQcM/9p9wq3b1PSKtBcZ9uVG8ivEp8+iHnM792RtEpVDIFmnp1NQezSwtQE4skJgfR+Eoi5pY7ItawrVycEYi6vDb9CNVaHUQbZdcR5gZjHU3WwNakOCz4EUrt4beQGEorzJBDo8q4yRiC/kj6IXdoHCWWzB0YCCrVNIOb4r4eFQNzA54mLKYg9qI59KAvy28Y5rZvDWyqrEwJRnYZBPD3VQH27o/hTrwwL0lpTu3ID2bZxXi0jIcltuwTSXEA88j6IPajufSjUNiXhjjmuBvLXTy6gUNt8EN+BCIH02lC7GgQxyv+qVAu7fhQWxKbogxR1gAoFbevVwgL98NdPLqBah0XWglWU5/6nYZGhsNcs6fEXJrqqWw2OqrMAAAAASUVORK5CYII=",
     "wiki_name": "Gilded spear",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_spear",
     "equipment": null,

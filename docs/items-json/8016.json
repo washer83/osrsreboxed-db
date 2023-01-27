@@ -1,7 +1,7 @@
 {
     "id": 8016,
     "name": "Enchant sapphire or opal",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A tablet containing a magic spell.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfUlEQVR4Xu3X20obQRwGcPdNcicIBd/CC4tUKoqK4oFaURu01lqPpGqtNR5SjfGQliCWQi98iL5KX+Qv38i3zP6d3exkciN04MM1WXd/+WY2u3Z0/B9BI5L2pC0jkuLsrCzMzJjMTU/L28lJkzfj4yZTo6MyMTJsMjY0ZDI8MCCD/f0mr/v6TNqAiuT9/Lx8eLcQ5+Ni0QTbeA8BmGiAiQaWSMBe9faGoKL4xDYE+bS0ZLK+vBwHv3N/GwcYGgxERbK5shKfIAvS2f0vjg1jc4DZKEzdy54eH1QkuxsbMciG2BgbokMYp9VGYW15otygNAj2s6NhbIsorCmgCOouFJqhkqA0jIbo2PsShTWFhY6pawlkT5MLotvS73Mf/D0XO6eOizsXqLS2FoNcGBvw976QiMZxG8fi1KElLxAbsqdKYwjoelGOo2G6JU4dWmoZ5GrHhdEwV0ucOoD4zZ0L9GVrM3EgH4xG6WYxdVjc3qCsdvTJ05KG8gZ9LW3L9upqECgNgw8KEG4jXiBeaTaK281QaQsbPwHCleYNwsLOaikL5cIEgb59Lpl11KwljeJrLhC3sagBwu0jN6i8s9O0JQ2zIa4PEAQ63tvLbMkFc72v22kZdLq//6QlDdAn1knbF9/WAOEGmxtUOTh40hJQhNkndEH0axqEy94LdH54mGgJKDSFAOcC5g1BeC7KDbr5Xkm0hABGXAgQ9zKA8AiSG/Sn0ZCryqlpCSgEbSGhQD7WEpMDhBHJ7x91g6qdHMvFUdkEU4mgPQRgon3AnhiOR9Sv+o3cXV/J7eWlNGo1k5/VqtTPzszUAu0DbxHDof8VDk8A5nHwAO2MPsezGA9iFnO1Hsm5uQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4Xu3X2UocQRgFYPsyIJG8gSIajOIS3ILbiHGL4m7c47hkYoxxDwMhhFx4k/fwiXyhP5yS01T/Vvd0Tc1NwIKD7Uzb/c2p6um2ru55BI1IapOajEgmRkakMDRkMjo4KMP9/SbventNBnp6pK+7y+RtZ6dJV3u7dLS1mbxpbTWpASqSqbExmRkvxPnwfsIE23gPAZhogIkGlkjAXjc3h6Ci+MQ2BJmfnDRZnJ6Og9+5v40DDA0GoiJZnp2NT5AFqX/1EMeGsTnAbBSmrqWpyQcVyebSUgyyITbGhugQxmm1UVhbnig3KA2C/exoGNsiCmsKKIK6GxsroZKgNIyG6Nj7EoU1hYWOqasKZE+TC6Lb0u9zH/w9Fzunjos7F2h9YSEGuTA24P7vi0Q0jts4FqcOLXmB2JA9VRpDwMuGYhwN0y1x6tBS1SBXOy6Mhrla4tQBxG/uXKDtleXEgXwwGqWbxdRhcXuDstrRJ09LGsobtLu2Kqtzc0GgNAw+KEC4jXiBeKXZKG5XQqUtbPwECFeaNwgLO6ulLJQLEwT69HHdrKNKLWkUX3OBuI1FDRBuH7lBxY2Nii1pmA1xfYAg0OHWVmZLLpjrfd1O1aDjnZ0nLWmAPrFO2r74tgYIN9jcoNLe3pOWgCLMPqELol/TIFz2XqCv+/uJloBCUwhwLmDeEITnotygqy+lREsIYMSFAHEvAwiPILlBd+WyXHw+Ni0BhaAtJBTIx1picoAwIvlze2NQ348O5dtB0QRTiaA9BGCifcCeGI5H1O/rK/l1eSE/z8+lfHZm8uP0VG5OTszUAu0DrxLDof8VDk8A5nHwALWMPsd/Mf4BJGNRG32i+aIAAAAASUVORK5CYII=",
     "wiki_name": "Enchant sapphire or opal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchant_sapphire_or_opal",
     "equipment": null,

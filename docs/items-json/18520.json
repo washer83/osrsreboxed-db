@@ -1,7 +1,7 @@
 {
     "id": 18520,
     "name": "Ensouled monkey head",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "The creature's soul is still in here. I could reanimate it with Basic Reanimation.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xu2VXUtbQRCG3d/hTe6EgiCFXBQpJJQgh4TQYDDUkGCUEGmqWL/qZ0lICVZrTW3tl0grSivSQv/h1mcOEzdRMdYmuWgHhs2e3Zx55p3ZPT09/63tZuzV3nEzNv0oapOJiI1FQ+KJeFjmeBegjC3kR+x4NiFgqaQnYzYdl2esDwQCnYQytlhI2anHo3WwfG5YfvO8K0AEX5qfsHPTWQHDZ55kZL4wm+tE2TSAkT6JhO9J8LWlgoABwbiymJdnbVbJ2ECgV4LQJ5SHMnlDg/ZOX8CWVicFgrG8XrSV0pStlqfbpZKRoAABQllUjUBvrw3e7Zd1hdioPLVb1Tkb80LtUMmHGejvExggUAIV6BnUonwcefYAvbO5aFPDXh3mrwOF7gcFhnKoAvQJp4mjzh1E6egp9pKAX6o2qEMQhdnemJcSAYVSCgSMXozsDwb9EmrPNb/1FuYDAbNXWxUYykGv0EMce/dC1HuIZtdS0l+qVvPbr7HLvkNGGhOI/fcl++ndc1GJ/uG4A6CXI3PtL8rp3k/s8SKDN4Ey9az02ldPp6ICcnRQtR921wQIxRSA4MxRjd5inQT4DTjrJJWIhVvtKdOQiXv9y7P82Th5psBUtgHIPeIK8XZnWUrLvjevnskaCSUfRhpOXTNBk5mGm5Y7xv0MjGcSdSC3ZNwzQBBYISjrwceyOPP82LDNjsYFirFlIDIlCJm79cd5WTMQriA8A+DL54o93H8hpcX5D+oCRVKMLQORKRkjMaUAzm1OF4i9LohCfD98aU+Otuzp8bbsnSlmxIFaSYRsaeRB60DIS/3JmuyBQzXgUI2XKpCWRhU5/rpRB/l5UrO/Tmt2YSZXh1pPhhtgWgLij3qsXTjUULkJgFJaHlRRmB/fXgvMyvyZorMTAlQdHbKVVOSmMGpGVCAIWROQ4Hr05SQ6ZXBLBAwg6gABo0B/AKPmXozn3yH/Rb6KQJE9TmB1hVlbLAjIZtq7LYxv+mfXz1fNpQCub2c9caBuDXO9+Spp8NLypLjOa2PRTsKoGVteLV6A2c3FBIhSdRBGzdQVYtybiAvMxb7rqF19ALoA41tz83cN5J+y3yBJ9mPZ+tD+AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xu2V/UuTURTHvT/JQJJoEDbWdGOLOVmbzOlgtkTzLfEtG4thmqlZRi+IFCJSSEXQ/3zzcx7O491UnNm2H+rA4e4+9+45n/M9596no+O/Nd2MvdhbbsZm78dsKhmx8VhIPJkIyxxvA5SxxcKAHc4lBSydisqYyybkGeuZ3t5WQhlbKqbt2IOMD1bI98tvnrcFiOBz0yN2ajwnYPjEw0GZz0zmW1E2DWCkTyLh2xJ8aa4oYEAwLswW5FmTVTI2EOiUIPQJ5aFM0b4ee6MrYFcWRwWCsbxcspWVMVstjzdLJSNBAQKEsqgagc5OG7zVLesKsVp5ZNerUzYeDTVDJQ/mZneXwACBEqhAz6AW5ePIswfozbVZm+6P+jB/HSh0JygwlEMVoE84TRx17iBKR0+xlwS8UjVBHYIozMbqtJQIKJRSIGD0YmR/MOiVUHuu/q3XMA8ImN3tRYGhHPQKPcSxdy9EvYdodi0l/aVq1b/9EjvvO2SkMYHYe/vUfnjzRFSifzjuAOjlyFz7i3K69xN7opGeq0AZPyu99tWz6ZiAHO5X7budJQFCMQUgOHNUo7dYJwF+A846SSXj4UZ7ytRk4l7/8qxwMo6eKDCWqwFyj7hCvN6cl9Ky79WLx7JGQql7kZpTV09QZ6bmpuWOcT8Dw4NJH8gtGfcMEARWCMq6/74szrww1G9zmYRAMTYMRKYEIXO3/jgvqwfCFYRnAHz6WLEHe8+ktDj/QV2gSIqxYSAyJWMkphTAuc3pArHXBVGIrwfP7fHhuv1+tCF7J0qD4kAtJEP26cDdxoGQl/qTNdkDh2rAoRovVSAtjSpy9HnVB/l5vGV/fdu2MxN5H2o5Fa6BaQiIP+qxduFQQ+UmAEppeVBFYX58eSkwC9Mnik6OCFA102cr6chVYdSMqEAQsiYgwfXoy0l0yuCWCBhA1AECRoH+AEbNvRhPv0PeizwVgSJ7nMDqCrM0WxSQtWz0ujCe6Z9dP1015wK4vpGLigN1bZjLzVNJg6/Mj4rrfGso1koYNWPLi6UzMDv5uABRqhbCqBlfIcbdkYTAnO27ltrFB6ANMJ7VN3/bQP4p+w2tSjwdzMJ+bwAAAABJRU5ErkJggg==",
     "wiki_name": "Ensouled monkey head (Item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ensouled_monkey_head#Item",
     "equipment": null,

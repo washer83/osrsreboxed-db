@@ -1,7 +1,7 @@
 {
     "id": 7351,
     "name": "Black shield (h4)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "A shield with a heraldic design",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xs3WS2sTURgG4Mk/yCqbbga6EAJCEEIpJRAXWQgiiG66cOPGjRu33qj3C1Vbol3YoqEtTatUezGmtSlYausNwUvx7xzzzvjOfPPljGTMKD3wkmQunCffucw4zv5vGWOP7fw/bxnzcvqyWaxd9PL86QWzMHXeCxFbq6Pm7fJds7l0x4LSf6JnuA8iCiBGY1ovbpm1ZzciHeM3zulEUYmQGbM8M9KBwicgDEHNhWtmde6Kdy0+bSBcL9F7u9Pm2/bk36EIwndWh6A3izc9EK+NA+G+Hzs18/NjvZ15D4Q+Cq7rRfeuml92/muC0KkN1KhfDUD4bgNtN+5FQPhOkO5dtUxkGNARJzd+EyTnCxAc3jjQbnMsPRCrhGMA4ZqjQ445UXYCmAShahr0YV2C6slAnBcahH9O0MSjnLndnzOjB3Lm1JFsAIsDfdoYj4C+v3vSOwjHWR2Arv8GVduZaOfccAhDJOhzq5ouCMFQ4nx1PBcBzc32meFK1qvU6WNZc+Z41pw9GcUhBO29nw0wiUESxeoARNTUZF8AOlwqmUq57AUw4hjcr0G695gWzgcNGnvgY0b6/QoRhOpIkAwxtgrpni3NX8qokATheGXA8UDASBCqMzQ4aAWhSrj369bjECQ2Rd27av6SjwNhuC65IcYG0sPG6qQGQlidQ4VCJAPForcXYbjiQLgXW0UqIATHivlODAIMqsMVJueRrM7O6/sCNB9gugJhhWmQrToS1Gy4ppb3JzYjq4PHhqxQl9VBC0FExVWImFcrrllf80EzB/3I6gCEx0aqoLzrmFIhigIIGFSntRFGVgcPYYCwS0sQUbp3S/NBtmFDlTh0wKws+RhUhtUhCNfjcQEQXju+bD4MQNiDEuxDUZBcbTiHKmHpcyLbIkGoTs8grDIbiA9WVAkovn7olSarkypIDxuO6/diW3AfrwUISz4Cau9Bifch27CxE/xjfOfrLYKdnA9i3CfnTyog27BJEM7J1xIJwnVy/vQIQuscBlskRkaDsClKEJMA5Djc1v8UDZSR8ycVULdNI7vBMuG1/6lppC36nn3dfgG66N42yShJnwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xs3Wy2sTURQG8AkhlBSJBENLGyRFUFAXFTduXLhx7fv9omotUbqQFrVUS9VSfFZrrKWWFIRSS9GK4EIURf+ya7+5fjNnTu5IxozSCx9J5sH95dzHjOet/5Yx7rjO//OWMY9Hj5iHI4f8TN48aCaGD/ghYnG6z7yZumAWnpx3oPSfaBluQUQBxGhM/dFZMzt5OtIxfuOcThSVCJkxU3eONqDwCQhD0MzESTM9fty/Fp8uEK6X6G8ro+bL0tDfoQjCd1aHoNcPzvggXhsHwn1fl0fMj9W75ufqfR+EPnb19PjRvatmy85/TRA6dYFq904EIHx3gZZqFyMgfCdI965aJjIM6IiTG78JkvMFCA5vHGjlVX96IFYJxwDCNVu7PLOj7AUwCULVNOj93JUAhCQCcV5oEP45QYPXcuZce870bciZ3VuyASwO9GF+IAp6e6N1EI6zOgCd+g2qrmVwLft7QxgiQR/r1XRBCIYS56sDuQhofKzN9FayfqX2bMuavduzZt/OKA4h6Pu7sQCTGCRRrA5ARA0PtQWgzd3dplIu+wGMOAb3a5DuPaaF80GD+i9bzLF2WyGCUB0JkiHGVSHds6PZpYwKSRCOVzo8HwSMBKE6XZ2dThCqhHs/L14PQHJT1L2rZpd8HAjDdTgfYlwgPWysTmoghNXZVCxG0lEq+XsRhisOhHuxVaQCQnCsVGjEIMCgOlxhch7J6iy/vBSAsEsT0xQIK0yDXNWRoJla3twq2InNyOrgsSEr1GR10EIQUXEVIubF87yZm7Wg2xttZHUAwmMjVVAh75nuYhQFEDCoTn0+jKwOHsIAYZeWIKJ0745mQa5hQ5U4dMA8e2oxqAyrQxCux+MCILx2fFq4GoCwByXYh6IgudpwDlXC0udEdkWCUJ2WQVhlLhCO4TyqBBRfP/RKk9VJFaSHDcf1e7EruI/XAoQlL0HYgxLvQ65hYyf4x/jO11sEOzkfxLhPzp9UQK5hkyCck68lEoTr5PxpEYTWOAyuSIyMBmFTlCAmAcjzuK3/KRooI+dPKqBmm0Y2g2XCa/9T00hX9D3ruv0COObz3CQpmmMAAAAASUVORK5CYII=",
     "wiki_name": "Black shield (h4)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_shield_(h4)",
     "equipment": null,

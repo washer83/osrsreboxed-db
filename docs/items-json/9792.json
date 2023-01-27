@@ -1,7 +1,7 @@
 {
     "id": 9792,
     "name": "Mining cape",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by the most skilled miners.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDUlEQVR4Xs2XwWrCQBCGuy/hpRchB0EQgtBDECEiHiRSDA0VK4q2iKVFkBapiJQ+Rx+hPff5pv03Hd2stUZwNw4swbCb/fznn9nk7MxYCNLvHDHw8EM2EOQ4uQPXpI744bm8k3IDQeWyQ+0gkPPdfD7FmoNDUMmr/gLtUiu+X62W1nMAYwgIIcgLQioWfzZxCxqcIN+/oHrdTYAYhOEQFLZrVKm4Mi1QA6PV8qnZrFAUNUym6a8Q1Ok05caNukeeV1gDAdJCmvQQdDsKaTK5lmAA4Sun0SrM2+s9DYcNGgwuJQjShCv8oyqkrzQUglarCfV7NakQoHq9QKqD9AHOOtByOZZAjw8dGo+v5JX9lAnQ4uWOul1fKgQgDFRdZkDz+SgBBIOfDBBgvj4/6H1xLgeANl3aeAgJEUVVaWxWB6YGFBTivmRJpW0grjKow1BWgeKKSgKhB7GH0IsyAULpI10qEPxjHWg6vdkLhAM3MyB4J1Og2awvSx5AgIGhVSCcZfASvxPpTzhixBUWhp7s1GrJ6woBiHuRQZW2gbjkTwJINTS/rPGJb6kXbUqegVgdBmKVGAh/wKCPYiCcY3q6VCBWCZWGeQZV2gBxuvYBYd5JAWEO1hhKW/ymqBp6FxB8hIHfrJAxlQD0/DSQDRJdGwrAvGiEGPyNppa9IRiO5Jfqf8MCTBy8UZqhr00b34R8mXuwVxitAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4Xs2X62rCQBCF3R9SDKIEC8EELxispCnesLaCbRGkRSqItC/Sl/AF+sBTzqajm7XWCG7iwBIMu9nPM2dmk1zOWAjS75wx8PBTNhBkWfkT1ySO6OH5gpVwA0GVikUd35fz+81mgjUnh6Cy4/4CHVIruu+65e0cwBgCQghy/IBKpQLZdlGDE+R511Sv2zEQgzAcgoJOjapVW6YFamC02x61WlUKw4bJNP0Vgrrdlty4UXfIcYpbIECmkCY9BD2MA5pO7yQYQPjKaUwV5vPjie7vGzQa3UgQpAlX+EdVSF9pKASt11MaDmpSIUANBr5UB+kDXOpAq9VEAr08d2kyuZVX9lMmQMv3R+r1PKkQgDBQdZkBLRbjGBAMfjFAgPnebOhreSUHgHZd2ngICRGGrjQ2qwNTAwoKcV9KSaV9IK4yqMNQqQJFFRUHQg9iD6EXZQKE0ke6VCD4J3Wg2ax/FAgHbmZA8E6mQPP5UJY8gAADQ6tAOMvgJX4n0p9wxogqLAgc2anVktcVAhD3IoMq7QNxyV8EkGpoflnjEz+lXrQreQZidRiIVWIg/AGDPoqAcI7p6VKBWCVUGuYZVGkHxOk6BoR5FwWEOVhjKG3Rm6Jq6ENA8BEGfrNCxlQC0NvrSDZIdG0oAPOiEWLwN5pa9oZgOOJfqv+NFGCi4I2SDH1t0vgB8lMf7fbg8AwAAAAASUVORK5CYII=",
     "wiki_name": "Mining cape (Untrimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_cape#Untrimmed",
     "equipment": {

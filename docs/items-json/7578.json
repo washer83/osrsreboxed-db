@@ -1,7 +1,7 @@
 {
     "id": 7578,
     "name": "Odd stuffed snake",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": false,
     "examine": "Is this really what you wanted to do?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xt1XXWsaQRTN/IO++yLkQRACEpAgIqyIiCgSURQjSlRioE2g0N9QWkpp6b/pQ1/60N91O+eO1/lYd2N3Ywq5cIm7OzP3zJlz79ycnb0uU3TYX8TCoIq63RZF7YgazQbV6jWqXlXZTwjKBm9GDfbedY8GowENJ0Maz8b0frOg6WLKz/y+06RKufTcoAwILA4PQQDA7HZG8/Wcx23ebmh1v6Ll3ZLWegzmFAuF5wKlaDro0rjXpvmwxwFcEOGxVYpF7/nn5490NxsxKPs9sym61mz0+x1ajgcM5nF1EwMQOmba34p+ffnErJZK53lZMoCwGI4nCUQ4yzdFv79/ZVbrWug5WFI00jqBVgAoBOKyFM6Mm+Lj7Wim69XKkXNipviYsEhLp7O/M0Vtnd4ACy0dB06xBgVQBpYMIIi57VFt6g1YwzEgo+7nExYuxJ8MSrEGo5qpS5kAScpamo2mJOVdZiB2AEsOZsZ0o3rKmFRTvOt+K6Jq5WIfGO/AnCzqagp1CEdpxoZmxA0JZMw2ExxXQfmivAf0bjn16oo73gUUZ0DRnx/fmNnLy0w60pmhNYIdne92JEyAemgrvqgRexpLqEnYZHzuk6ZoMTd3UqFoyr6bZdCXiN2dA+ZwzMkBlVdGwq8ppuhW1w6w5GeZ/T7RoCByC0oxc8nXhNWhiNv//qRZzaQFcIWNDERZgPsBDTOQgMtufM1UU9xOIJ1tjUl2VGPce/BDQAEIngMQzIhYaEbDhaxDKUCRw8LYNQICkByhCwZlQvojqWGYZ8vJP5miD9slH500XtglrhPoBczhSkBQAML9Z3duxA+GMUbA4C+au1zXyFrXGIgcmSfAwBqCASxcWhMBg294hw1hrIBymarsalIY8QjbZYjuAgWYgIDjt1wdLhh5xm+wxUUVV5J2FFL03xlZMk2XBEhyVzvh87r0Zs8qwGwftqy/3P8ISJAkD8eZJ1N//K7AtCScLNkEnscMIIDxC6fp2XN0AVlN6SvlSge2/ZDLnrD2ooAOg7HfD78/qaUHTXp/UvsvQV+1/QXF+RWCumcIhQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xt1XbWsaQRDO0g+SIAaJRPRQo6LBFzSKUYMhbaHQ/1BaSmmhP6mf+q0f+i+n+8w67st5F3sXE8jAEO9ud+fZZ5+ZnZycvC5TtN+fxcKgijqdJkWtiOqNOlVrVapcVtiPCMoGb0R19u51l/rDPg3GAxpNR/RhPafJfMLP/L7doHKp+NSgDAgsDg9BAMD0dkqz1YzHrR/WtLxf0uJuQSs9BnNOC4WnAqVo0u/QqNui2aDLAVwQ4bHdXF15z7++fKK76ZBB2e+ZTdG1ZqPXa9Ni1Gcw75c3MQChY6b9rej318/MarF4lpclAwiL4XiSQISzfFP058c3ZrWmhZ6DJUVDrRNoBYBCIC5L4cy4KT7etma6VikfOCdmio8JizR1Ovs7U9TS6Q2w0NJh4BRrUABlYMkAgphbHtWm3oA1HAMy6n42ZuFC/MmgFGswqpq6lAmQpKyl2WhKUt5lBmIHsORgZkwnqqWMSTXFu+41I6qUz3eB8Q7MyaKuplCHcJRmbGhG3JBAxmwzwXEVlM5LO0BvFxOvrrjjXUBxBhT9/fmdmb24yKQjnRlaI9jR2XZHwgSoh7biixqxp7GEmoRNxuc+aormM3MnFU5N2XezDPoSsbtzwByOOTmg8spI+DXFFN3q2gGW/Cyz38caFERuQSlmLvmasDoUcfvfHzWrmbQArrCRgSgLcD+gYQYScNmNr5lqitsJpLOtMcmOaox7D74PKADBcwCCGRELzWi4kHUoBShyWBi7RkAAkiN0waBMSH8kNQzzbDn5L1P0cbPgo5PGC7vEdQK9gDlcCQgKQLj/7M6N+MEwxggY/EVzl+saWekaA5Ej8wQYWEMwgIVLayJg8A3vsCGMFVAuU+VtTQojHmDbDNFdoAATEHD8lqvDBSPP+A22uKjiStKOQor+OyNLpumSAEnuaid8XhXf7FgFmM27Desv9z8CEiTJw3HmydQfvyswLQknSzaB5zEDCGD8wml69hxdQFZT+kq51IFtP+SyJ6w9K6D9YOz3/e+PaulBk94f1V4k6Ku2f3LAnnp6V0yiAAAAAElFTkSuQmCC",
     "wiki_name": "Odd stuffed snake",
     "wiki_url": "https://oldschool.runescape.wiki/w/Odd_stuffed_snake",
     "equipment": null,

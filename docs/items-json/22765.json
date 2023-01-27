@@ -1,7 +1,7 @@
 {
     "id": 22765,
     "name": "Energy disk (level 4)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": false,
     "examine": "A level 4 energy disk.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADZklEQVR4Xu2W6VIbMRCE0ZvwBgkhEAKB4IJwlzliYg5zOuYyBht8cKSSR5/4GzGgWpbDa5tfTJUKdteSWt09o+npeY+uhJPnx5uGk8PCnhT2tyW/m5OdrQ3JbWRlYy0j2dVlyawsvhUwv8nRwb4Cye9tye72pmzn1mRzfVWyv1ZkNbOkoJbT8zq6CMrJ+emRnBzmFQgg4tjh/Xo2oyylF2ZlYW6mG6CclEvHUjwuSCG/cw8iZAcQvOcd34yl+dlpmZ2e7CQoJ5XzopyeFOTg965uCBuACNnZ38mpr4y9kCUA/ZhIdQKUk8tySUrFA92MTQGCTwBh7CAdUhaP8spgyNLK4oKyNDWZkvGxb+2C8lKpiZsn39r0m/xcTquBeeY9QCpnJwocYIACPN9hCulgCEAjw1+SgnJSuzzXTUhv2AAEi3NqzabmM0xY9sEmB0BeDsE8GDRAY6MjMjw0qL/92NvbKignF+VTPTFe4aRGP75gE5iyxf0G/hDMs4OEgEZHvsrQ4EASQE4atYqmOfSzKAYlhaenJnTMzUxFwDzMrV2cPQlocKA/GSAWhXoMizSwgjEnUt91WNY8XtizpHOb/sL8i+k5nYN/EgByct2oaqrjA7yDNLCSGh9THzDi2fHzb65q6qU4QJ/7+1oHFJWLBQED5aEpn17UM4z/MH0I6FPfh9YBXdUuNI2pPaQuZkai11HuGcLYMMx8PNQeoPrlvWRkGIZGspcB+bl46Kx4qJLhPxKAGhRmWPz82Hg4IZRTdak5LIp3ngbkpF4t39eikB3LsAT+IZzcXtd0YS5TKi41CGNTg+IBeTCwCjNU7pAdkysBOwSA6lKt+LS3u0n7nea1QfpzWn5nA/AMwITXDOwgdVSu6I4vhJM/Nw31AcYGVHiLk8Z/bxvy77aukgICebU9uWNG77wmOxRSapcdIAE7Fr4WhaBoPZCPwf/ICRi+2W+sV7JrJk6u6E6vDO8j6hGnD6XgL9cCdYq/sGLfrT0J+yBrOdpgx8KnMF4yORgA4VnN22TJ+qCwPcE7sGM3fJvshOHvJesYkYYBKJ4Bg7+Q0KQiG+0SNtN3gJ0wfBYhHcBCqbTnuWvGuCKoV1wT0U6gg2AsfG8UlQpmwuYNI3eJlbh4qDvPjS6y8jjCzZ4b0Xnv0en4D3sl+hpNxKYHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYElEQVR4Xu2WW1MaQRCF3V8RY6lBosHyEkHiBTUaxfJCCAgBb1EULIwxlf//2PHrqdapdb0t4JNd1aW7y8ycOed0z/T1vUVPIpDH81UjkEppV0qFLfm+k5ftzW+SX1+R9dUlWVlekKXFudcC5haplgsKpLi7KTtb67KVX5ONtWVZXVmU5dy8gpr/ktHsIahAjg+qUqsUFQggotjh/drXnLKUzczIbHq6F6ACOTn8KfvVkpSL27cgfHYAwXve8c1YysxMyeepiW6CCqRxXJeDWln2fuzogrABCJ+dwnZefWXs+SwBaGL8UzdABXJ+eiiH9T1djEUBgk8AYewgHVLWbxIGfZYW52aVpcmJlIyNJjsF5aTCxOx8c2NVF8nNZ9XAPPMeIKdHNQUOMEABnu8whXQwBKCRxFBcUIFcnP/SRShv2AAEk7NrWOIZJqz6YJMNIC+bYBwMGqDRZEISw4P623Qi8VJQgZydHOiO8Qo7NfrxBYvAlE3uFnCbYJxtxAeUHPkgw0OxAAXSbjW0zKGfSTEoJTw9Oa6Znp4Mgbkb2zo7fhDQ4OBAPEBMCvUYFmlgBWOOp8Y0rWruT+xYYiz+wvxz2bSOwT8xAAVy1W5qqeMDvIM0sJIa+6g+IKPZceOvL1vqpShAAwP9LwcUlosJAQPlvikfntQxjP8wvQ/off+7lwO6vDjTMqb3ULqYGYmeR7ljCGPDMOPxUEeAfrfPbyWjwjA0kj0NyI3FQ0f7FZUM/1EA9CC/wqLHR8bdDqGcrkvPYVK88zCgG6mbJ7e9yGfHKiyGf4gbQFcXOjGHKR2XHoSx6UHRgBwYWIUZOrfPjskVgx0ikL9/2tJsHGnp2tmEuTk2KH92y+8sAU8Cxj9mYAepw3KFV3wiAvl33VYfYGxA+ac4ZYwkfENSQCAv74wZwMAOjZTeZRuIwY6F60U+KK4eyEfyP3IChm/2G7sr2TETJVd4pWeG8xH9iN37UvCXY4E+xV9Yse92PfHvQXbl6IAdC1fCeMnkIAHCMyBgye5B/vUE78COnfAdsuOHO5fsxog0JKB4Bgz+QkKTimq0Q9hM3wV2/HBVhHQA86VCJruMcUTQrzgmwjeBLoKxcHejsFQw41/eMHKPWImKu77zWPaQlfvhL/ZYhse9RbfjPzfihep86l3MAAAAAElFTkSuQmCC",
     "wiki_name": "Energy disk (Level 4)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Energy_disk#Level_4",
     "equipment": null,

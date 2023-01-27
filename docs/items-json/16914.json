@@ -1,7 +1,7 @@
 {
     "id": 16914,
     "name": "Blackened crystal",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": true,
     "examine": "A blackened crystal sample.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA9ElEQVR4Xu3XTQrDIBCG4XiTHKHXyMZAoWlpae5/C4vKEPNFrRr/Fnlhts6DQiDDcHXVNCa2aR4T3+ei5jHPLWF6MWEIJIdPU20UU4tNjAnao4rC9AIbxoUqeFsa4sMg6IjKBvPfig9kojLBwjEuEKJOPGMcJhQlz72Noxrc6CkN4wMRikC48U/7b0zMIAInGbS+X8mDCMRUBSHCBsJtgaWhENEt6MRzmcWjEIIg3BBZHAgRBUCycBQiENMdCE8+URgKIQVBMiY+y+KdO+eHyfxcmBuFkAoYyo5qhKGOqIYYao9qjKE2VAcYavtz7QCjI0guzA//RT+qzNezhwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA8klEQVR4Xu3XzQqEIBSG4byTdi2aoGl+mGHu/7ocVA7pV5q/6aIXztbzoBDUdVdXVWN8neox/n0+5NynqSZMLSYMgcTchuFsFJOLdYwOMlFFYWrBHsaGKnhbCuLCIGiLygZz34oLpKMywfwxNhCiEp4xDOOLEufOfS8HNzqKw7hAhCIQbjzI/MaEDCJwokG/9yt6EIGYU0GI2APhNs/iUIhoFpTwXHrhKIQgCDcEFgZCRAGQyB+FCMQ0B8KTE/JDIaQgSMT4Z1mcM4/jZjI/F2ZHIeQEDLWPqoShtqiKGMpEVcZQK6oBDLX+uTaAUREkF+YP9PirScWwphsAAAAASUVORK5CYII=",
     "wiki_name": "Blackened crystal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blackened_crystal",
     "equipment": null,

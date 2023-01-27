@@ -1,7 +1,7 @@
 {
     "id": 4145,
     "name": "Dust devil",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTUlEQVR4Xu2W30tTYRjHff+DrrrpZuDFwKsIJCQGgxExJiOZNEwUOWM5+gFzOGdGsuyiwoXLMR2pRUpaoUyXdZjj1OwHUuGF2LAhDdZYCctlbl1/PXsP22q71fccyA+8cDjPOTwfnvO853lrag45UAikpQgIdj6Ows3VK0GKILexiMxLKyb6dFTouEollxTBuMuEfDyMd4FmeO0aqFVH5KoSwe7qHBLPnNhdm4HJaMSq34zUghtz1/VySBH82YhiKzqOswYD9Dodsku3keY98HZq0FB3lLWU2DvrPL7NupD7wiMZ7MCbuyZ8XxrGQPvJUi8x7qfiVhc/X2IG6tpi/8giIyElFauVnIe5sVZemTKiUIqH03qiJFT5BGMI8kkB3h6NEoREmURY3G0W5Qjlvi7ixytOQUKb80gLHIZ7JSFpyQKhf+nsew8yvA2x6VYIviZM9Z+WQ0rsnVgE+c9hZIUhpKc5OjpCNxrhv6yF+hjzmUbw6/U9/F6ZQjYiVijYhbVAC51j7tZ6WPV1LPuJUIFtfgA7y6PYftGPzKwN8QdtJaE7lga2QvHHDmw9tdDqpEI36dT/udANfrADfW1aPLl6BhMO6XxU+fY+QxCbtOOtv5NWpHC9/siOT2OXEBniqJDrvAbRwSb4HUYWVSL4cP8ius6doslCt9r/2urS6m6RYsyEVgI2TF5r/keoPFAJlV32XWAlVIBAeNhDkwV9VyqSEtjMWjwfscPjNLMSKlBMVHncIOi1Guj96tgBU0xUnbAsUh2TCcWIHPJfswd/J7JXLRR70AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4Xu2W70tTURjHPUREMnyjJG2wbMOFM+YPlLuhs4I5nJOMtOyFiQtHjpEj0YIUEissJmbWjaHN0n6+kCLwTZkMLQkiwTKUSFg/loRu9Sd8uzuXbbW9zXMv5AcOXM65l+fDc55zn5OWtsmGQiAOWUCw+qQN9VyWHKQIwjNDCN4wobNWTYUKc3KkkiLosOsRmfPhoScfTosSiu1bpMoSwdrkZby9ZMPas17odTpMug1YHDiCK4c1UkgR/Jodw6fxDuzRaqFRqxEaPo5l3gFnuRLZGVtZSwm1M8XjfZ8d4Zc83nlLcf+EHsvDrWgo2RGvJcb1FDvqwvbN90KRHqsfSWRExKAE6wv9MOSmSyuTQNi+RR42U2ZcKPkNxhD8XBiFs1opByGCyLwPK2NG+QiF3wzh421OPkLrr/ux5OfQWiMKiUMSCP1Lhx45ELxpRqCnCKOuPHTX7ZJCSijkwAgi0z5897dgqYejrePq0Vy496ug2Ma8pwlXjjsn8WOiG6FbDnz2VuK5p4D2sfqiLJg0GSzriVCBb3wDVu+14ev1OgT7zJg7UxwXajJmsxV6dd6KlYtGmp0Pg8do1/8yUAW+uRS1xSpcOLgbnVbxfpT89T+GINBlwQN3Oc1I9PnFOQuetu/DSAtHheyFSow358Ft1bHIEsHj0xWo3LuTBhtsLPnjqIujqkBcYyY04TGj61D+X0KJhkqo7F1XGSuhKAT+s9U0mNd1ICkogdmgwrVTFjhsBlZCUWKBkq8bBDUmLZ1PXdtgYoFSAyZEUtckQjYim/zX/AYos4RZXFjCPwAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

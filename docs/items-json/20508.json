@@ -1,7 +1,7 @@
 {
     "id": 20508,
     "name": "Fighter hat (broken)",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": true,
     "examine": "A broken Penance Fighter hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xu2W3UtTYRzHd/6D7rvZdSB0IxIiGBIShiRJYqGYYYaJsJb5whKROZcvOd/m2hrz3ZREKS8yDbJ8QTEpFcuiC5E0hP6Gb3yfw3P2nBVkbsub/eDL2DmcPZ99f9/zex6LJVGJSpQsDWGdaOkQ9vsVqLh7ByWlN04KTF/UUVdlqLLaJqCKiq8j+3LW/4LSQZxNdSY1NDoMqPKK27hWkIfMixnxdkvDI4/7j3K3NJigSstuIi8/F+nn02C1no4HlAZPVzM6elrQ5W1Dj6/dEL+rUFW1diNPuVdzBBSfP2u1xhJKEzAE8Po98AU64Q92IxDyiu+819ruguthvQmIrWOeJFTkrx6z9FYRRgUJ9vcKqVDNbU7UOiphu1duAsq4kB5Ll/R2cVEJExr0GSIUrxOYLkkg5qigKF+0jQFPTT0XK5c0kRO6w8UJ0TfkNySheF8CcS6Vld9CcUmhCLfatihd0t3hv6czBBgYCZgkoXh/Z3MTK/Nv8GpyEs8GBhDs7kab04mcK9mibSkpydG6pIdZukOAwdGgIRXqx/4+vu18xsfVVSzMzmJ6fAyDj31od7kEkGxbUtKZaKD0djEjXHR4LGSSBPt5ePgb0OvpF8Ilj9uNWrtdOCSBjjmbwmFmO+jE6HifIRVMBVpfXsbi3BySLRY8fzoqXCJUSWGhaJkK9I95MoeZQJHOyLYd7O3h8OAAX7e3sba4gLRTFgFEBTo70fjAYWSIihrob4H+vrsrYL5sbWHz/ZpoGWFGngTQ09qCaptNAPFNiwKIpRnzR509EkSdQ4T5sLKC1bfzeDczg9mpKYS8XhHqrEuZItRUlEAszXBJndBShCH0p40NrC8tCZiXExMYC4Xg7/Cgqb5OzCGKYPLVJ8wxgVg6lNw65MTmJ69xTnE80B2+XVPDQ+jv7RVhrq+pEdOaIlAMYGTJs43eRgkoYbjfyc1VniA5rbmn8dDGfS2GMHqFfywMJmG4sRKIWwfPRNzPeFiT+Yk5TGSpYEdRXGHUkgsdRZHPJipR8a5fVl7MvGw/8BgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xu2W3UtTYRzHd+givMkbMVQyTTLMUBPNJDNB1jJFWSYy5/Ilm++uscbwJTWzQkwob3oZdtGbIqIXJhGKSElddCMUiVBe9I984/scnrNzVpC5LW/2gy9j53D2fPb9fc/veUymaEUrWrIUBLSnpUJYLpai9Pw5FBad2iswdVFrdbmmsgqzgMovOIn0Y2n/C0oFsdVXG1RbZ9WgSkrPIic3C6lHkiPtloKrTscf5WisNUAVFZ9GVnYmkg4lIiZmfySgFFxrb0BrZyPau5vR6WrRxO96qPIqi5anzBMZAorP56SkhBNKETAE6HY74fK0we3tgMfXJb7zXlOLHfYrNQYgto55klDBv7rLUltFGD2It69HSA/V0GxDlbUM5gslBqDkw0nhdEltFxeVML4BlyZC8TqB6ZIEYo5y87NF2xjwhISD4XJJETmhO1ycEL2Dbk0SivclEOdScckZFBTmiXDr2xaiS6o7/Pd0hgD9wx6DJBTvr6+sYP7FczwdH8e9/n54OzrQbLMh43i6aFt8fFyoLqlhlu4Q4OaIV5Me6vvmJj6vf8C7hQVM+/2YvDOKgesutNjtAki2LTb2QChQaruYES46NOozSIL93N7+DejZ5EPhktPhQJXFIhySQLucTYEwsx104tbdXk16MD3Q0twcZqamEGcy4cHtEeESoQrz8kTL9ED/mCdjmAkU7Ixs29bXL/ixtYVPa2tYnJlG4j6TAKI8bW2ou2TVMkSFDPS3QH/b2BAwH1dXsfJmUbSMMMM3POhsakSF2SyA+KaFAMRStPmjnz0SRD+HCPN2fh4Lr17i9ZPH8E9MwNfVJUKddjRVhJoKEYilaC7pJ7QUYQj9fnkZS7OzAubR2BhGfT64W52ov1wt5hBFMPnqE2aXQCwVSm4dcmLzk9c4pzge6A7frvtDg+jr6RFhrqmsFNOaIlAYYGTJs43aRgkoYbjfyc1VniA5rbmn8dDGfS2MMGoFfiwAJmG4sRKIWwfPRNzPeFiT+Qk7THDpwXaiiMLoSy60EwU/G61oRbp+AbJyN5XWeANdAAAAAElFTkSuQmCC",
     "wiki_name": "Fighter hat (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fighter_hat#Broken",
     "equipment": null,

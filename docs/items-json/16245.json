@@ -1,7 +1,7 @@
 {
     "id": 16245,
     "name": "Prospector helmet",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-04-24",
     "duplicate": true,
     "examine": "Helps you when you're mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRUlEQVR4Xu2UzUsbURTFM/9BV9l0E8giMBAYAhJCCEwRFyESIg2KBRduxEUruCgolZLWVmmL0lJUSiuIolKxpR9UENviB2K76Af90LouVPCfOPXc4Y0zb7QmlSyEOXDI8DIz9zf3nvcikVChQoU6kzLg91H/1VV+gHw+ilLJcWv5vAfAQDwaFdcRysDAtQQGb5q4d9fEg/tJDA+ZqFQS6O9LoLc3jsYL5wRAwQSh/tXRmmRgdCSJsYcWJsYtPH5kYfJJyjXXCUlY04zAjMV8VlCtLS0oFQrye7FY/F8oA1NTKfHMdApzsw3ip/NBE5pd5DOpeNzn3V938P3bIDra2nxA1gGwXvEYHbaWxZ4/S+PlC8evX2UCXlxIS/c4Ro7QC7W7M4yfP27h65cbAtReLtcKdJgDFmLBleWs63dvHa++z7nXBGUX24tpsTc/BPn8qeLCsEN0lUBGYP6EWF/Lud7cyGFr03bNNd7bfcmGbTeI1bM0QRSMAlIwVQBR/gwwiDvbtwMZ6OlsQl93Ab//7KG52UZnOYts1hKgpsaMQF25HHNBlGuGUVnJmAl5gYLRM0AYFt7b3xcg3s8ucZ2wzJM3i8o1wFCGZIJj4DhYXM+AAsolk7jalZeOXO8pChDNXcjjgGeVF8BrveoJcr6EWWFxlQE9lB8/2GLet/QmIzuRO5JADDihqgzuyXJe4hxmega4pgJNGIaeI1ZApxhPNTICQN4dx63PY4FAOkQdYJSCwTzKdYbwS//q46w/FypUqFBnVX8B5hNtirJVD2cAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQklEQVR4Xu2U30tTcRjGd4gRG+OMMdnYDk3ZcMMmU7rwJoRieBFIFKaZSkVCIqJEFBQhRkRFRCR2E5FCYSiRV6kXJqXWX9BNXvi3PPK8h+/x/PDHWbEL4TzwsMN355z3c973+X5DoUCBAgU6ltLg9H7/1VVOgHw+jFLJdGv5pA1AQzQcFtcRSsPlSzH0X9Vx84aOkdtxDA3q6L0Sw8XuGLq6osidOiEACsYLdVhHa5KG4VtxjI0mMDGewN07Cdy/l7TMdUISVtdD0CMRhxVUa0sLSoWC/J4uFv8VSsPDB0nx5KMkHk81iJ8+8ZrQ7CKfSUajDv/euo7va/04U6k4gNqbmvxC7bWWxV6+SOH1K9PTb9IeP3+Wku5xjByhHerX5hB+rF/D6kqfALWVy7UC7eWAhVjw/buM5dkPpj/OZa1rgrKLbcWU2J4fgix/67Vg2CHaJ5DmmT8h5j9lLS98zuLLomGZa7y3s92AYTSI1bM0QRSMAlIwPoAoZwYYxI2fA54MVDsa0d1ZwJ+/22huNtBRziCTSQhQYy4tUOfPRSwQ5ZphVFbSekxeoGDcGSAMC2/v7AgQ72eXuE5Y5smeReUaYChNMsExcBws7s6AAsrG47hwNi8d6akWBYjmLuRxwLPKDmC3u+oRMr+EWWFxlQF3KJe+GmLe93YmLTuRO5JADDihfAb3aJkvMQ8zdwa4pgJNGIaeI1ZA/zEeP9I8QPYdx63PY4FAbog6wCh5g7mf6wzhlPurD7L7uUCBAgU6rtoFzYIQ32pXVIwAAAAASUVORK5CYII=",
     "wiki_name": "Prospector helmet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Prospector_helmet",
     "equipment": null,

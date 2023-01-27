@@ -1,7 +1,7 @@
 {
     "id": 6379,
     "name": "Villager armband",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": false,
     "examine": "A white armband, as worn by the Tai Bwo Wannai locals.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA60lEQVR4Xu3SawqCQBQFYO9OXEL7p0jxlQ98ZFlmSq3k1jgE6pioNDrQHLg/HT48R1FkZGRWDyA9IQLoWwZ6pi4KCjBwTFFQgOHBboFWRr1BrsOgXENbAwUY+24LtDIKMAk8BtWsbkEU4DH026AeFAE5+n4JFGAaBSzqS3WcUYCnOGyB+lDd6jiiALMkYlBjquOEAszP6TBqoDpb2/FBFZdsFKqvOm6o8nadhGpWxw31uBezUARk7bd8UJ9dCYPaqGr9KNmVMCgawKrIxUM9q7Le1dQj39K//fPQXU09guEEoruac913ZGT+Ii+uLgpjLQjLEAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA70lEQVR4Xu3SawqCQBQFYO9OXEIbLkREy0wR0V5S0ktCDFrRrXEIfCUqjQ40B+5Phw/PkSQREZHRA0iPiwC6Cx0dQ+MFBegtDV5QgP7KLIBGRr1BtlVB2bo6Bgpw7doF0MgowK3nVFD56gZEAe59twiqQRGQpSlDoADDwKuivlTHGAV42PgFUB2qXB1DFGC0CyqoNtUxQgFejmEzqqE6U52xQcWnqBWqrjpmqOR27oTKV8cM9bjHvVAENFembFCfXXGDmshy9ijZFTcoGsA0vvKHeqZJtquuR76lf/vnobvqegTDCER31efK74iI/EVe1TfKAWKGVTcAAAAASUVORK5CYII=",
     "wiki_name": "Villager armband (pink)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Villager_armband_(pink)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 7789,
     "name": "Slayer tome",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": false,
     "examine": "A tome of learning which focuses on the Slayer skill.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xt2X70tTURjHvf+Jr3slQX+AL8IXihiOho0Nf6AL52Q2nJYmE1HMsrnUrVqazHCUDJlSlhIVEdFf9cT3yHP27OzeTc/Voh74IFwv53zueb73nLuWln+3HKry18uhjZUQTU900lyqW4i5ceXl0JuXI/RkIahk4tHG1AteuqxDO7khWnoYUCRit9TE+OtGMt7rySWIOXSwG6dCdkDJ8MDNJk4lAnXg+qP0bTWWDymHysUxyq2GKbPYVzM4T3y4HdHw/6eTwTpw/+hwl5LCuG2trTZSDr3dvkvZ5TsKHtwUkfA9M5N9NbDQUKTDVsiho1JCBRorJAc3JdzAfXNTIYUUunEdIj6EttYH6UWmXw9uTtyM9IOwbll0oFNJWQg59KmcVIGG0MLs2cDAnLAZLIQXoaujjXq6rtkL7e/EqJgfpsX0gAJi5oTNYCFsFeFgu5a5sNDx/j0qFaJKaHl+UMFi55XDfSyEMGOFrFbny+GUEsIb9nhhSAMpTCTl5OSA7+FryB3yI8N8YaHPlZQKNFq2ujSigZS5CgyvIstLIYRZtsucsUE59P34vhJCoJ+tjNLaclQDKVPESxL3Qgh7FlrV0W4ZZgidHkxSZW+cNlZjSkpiCkpJczWRM4QZK2TdLgjhDUPLcpkxJSXxkjOBEDZEhLk/dNNudX6dztK399NK6PnauAJSEi85E+SJw2zdrp8nM1qosJ7QsJwpaK6eFMXrjlb5ahcLHe5HaGtzQuMlZwoyyBCH2ddhiiAD5IdPeHy6Ajc5L0EOM44Ly3ahznZnfPfgMIXYjw9PNTjxISZF3QQRaA6zPEithXBU4KNMPjVy8bWyUgcOXnwB4gFYGJspruFDTObHnO0cdXZkoF3AfHIGcsjIx3eLmpPykqZcCtGrXC9tZrr9tIur+gtBhtoNKYcdubKbVhztzSuQHx/tqlZ1gKocWiJ5nU/WYMrhlbf8EGtcbnJughLsQXjLAj2+29W4WM4URJglxUKA8tmey2nXRcpNTvJHZcySq1e7kv9B/QbuUJxXbanIdgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xt2X70tTURjHvS97E0S9lRyikovpZOrE5RRnQx2l+YOxsVZzZWpbpWnCMDRiKMJQ+kViUAQRBP2LT3yPPGfPzu42vdeKeuCDcL2c87nn+d5z7pqa/t2yqMxfL4uW036KjbXSzES7ELPjt5dFL58N0v24T8mMhOpTLXjushZtPg5S8o5XEQlfUxPjrx3Rkc6anIOYRftbI7S62KdkeOBGE09EvFXg+t2562osF1IW7RaGKZfpoWyiq2JwnvhgI6Dh/8eivipw/9BAm5LCuN0tLU6kLHq9cYMWU90KHtwUkfA9U+NdFbBQMOBxKmTR4auICjRWSA5uStiB+2Ym/QopdOXyBXdC60v99DTbqwc3J27E3O0e3bJQX6uSciBk0ce9qAo0hOLTJwMDc8JGsBBehDbPJepou+hcqLgZpkJ+gBKzfQqImRM2goWwVfT4mrXMmYXeF2/SzlpICaXm+xUsdlo53MdCCDNWyNHqfD6YVEJ4w+7FgxpIYSIpJycHfA9fQ+6QHxnmMwt9Kk2oQKNlmeSgBlLmKjC8iiwvhRBm2S5zxjpl0bd3t5QQAv0oPUQPUiENpEyRWpK4F0LYs9AqT7PDMEPoeH+cStujtJwJKymJKSglzdVEzhBmrJDjdkEIbxhalssOKylJLTkTCGFDRJh7/Vedrc7P42n6+iamhJ48HFVASlJLzgR54jA7btePoykttLoU0bCcKWiunhTF645WuWoXCx0UA7S+MqapJWcKMsgQh9nVYYogA+SHT3h8ugI7uVqCHGYcFw7bhTrZnfHdg8MUYt/fLmhw4kNMitoJItAcZnmQOhbCUYGPMvnUyMWXUroKHLz4AsQDsDA2U1zDh5jMjznbKerkyEC7gPnkDOSQkQ/FhOZoN6nZ2/HT81wnrWTb3bSLq/wLQYbaDimHHbm0Nas43J5XID8u2lWu8gBlObRE8iIfrcCUwyvv8EOsftnJ2QlKsAfhLfN2uG5X/WI5UxBhlhTWvJRf7Difdp2l7OQkf1TGLLl6lSv5H9QvOy2j02eIGl8AAAAASUVORK5CYII=",
     "wiki_name": "Slayer tome (Yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Slayer_tome#Yellow",
     "equipment": null,

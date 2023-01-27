@@ -1,7 +1,7 @@
 {
     "id": 15000,
     "name": "Oak wardrobe",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-01-27",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4Xu3W2ysEURwH8N3/wNO8eJk/wbsnSR5IbZQQucQWVqt1WaxtWJfNJcu6JiHkuq0luYe/7Kvf6Gj27Jn9GbJK86vv22nOp9/vzJnxeNxyy62ClReFTd7yYncjhJ21fmwng9hM9GF9qReriz1YmetGIu7H4kyXmflYB+IT7Zg22hCLtMAYbUZ0uAljgw0Ih+rNDAXrEArUItjjQ8Bfg+7OavjbqtDRUonWpgozDMqL/a2BHJQdzIqyg1lRAmZF0Z4lum6H8uJoZxgH20NKmEBR2ht9tiGUCqbqFAs63g3noFSw8tIS+KrKbCO6peqUFcWCzg/GcLo3qoQJFOWrILlLMooFpQ4jOSjaXIZxoHxnyhEoc2IgfRzNgtHmcrc4kPwG0nqK3CUWdH02oUTJI+RA4g0kkMCoUCzo7VXHy7OOp0cd93c6bm908yFXl7qZdKoYF2fFLCi5rCGxpGFh/iPxWQ1TMQ2GoWE8omEkXGTmz0C0/lugm4vJz7HRQ2hsotVibE5GJs4RrZcPN42NBd2mYjkoinyOOJB8k6tAFMcg1eEWm8o3tDUySHUFUFjQXXo6C6UCcd2x65KMojgGqbr0VZDqI2xFUVjQQ2YmC/UTkN2fgUBRHIPsuiRflKoPcL7fFUJRWNDT1WzBUBQGRCX/Yv5uCMOAPB6xqFCR93fLrX9Z78MxMpZaBXADAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4Xu3W10sDQRAG8AQ55B599MGGKETBhhVDVIzEEtRo1FiCBbtYEEQUC3ZCsCEiKoqI/+cnc7Jy2exlPMUIcgPf23L7Y2Zv71wup5xyKm3lRnqTstzYXAlgY6kN6wt+rM62Ynm6GYtTTZgf92Em6sXUaKORiUg9ooN1GAnXIhKqxkBPFfq7KtHbUY5goMxIp78UgZYS+Js8aPEWw9dQBG9tIeqrC1BTmWeEQbmxvdaehLKCmVFWMDNKwMwo2rMiP98K5cb+Rhd21zuVMIGi1FV4LEMoFUzVKRZ0uBlMQqlgudlZ8BTmWEZ0S9UpM4oFne704nirRwkTKMpXQXKXZBQLiu2FklC0uQzjQKnOlC3QxVEY8YP+BBhtLneLA8lvIK2nyF1iQdcng0qUPEIOJN5AAgmMCsWC3l51vDzreHrUcX+n4/ZGNx5yea4biccycXaayYIW5jTMTGuYnPhIdEzDcETDQFhDX0hDdzDDyJ+BaP23QDdnQ59jo4fQ2ESrxdjsjEycI1ovH24aGwu6jUWSUBT5HHEg+SZXgSi2QarDLTaVb2hzZJDqCqCwoLv4SAJKBeK6Y9UlGUWxDVJ16asg1UfYjKKwoIeL0QTUT0BWfwYCRbENsuqSfFGqPsCpflcIRWFBT1djaUNRGBCV/Iv5uyEMA3K5xKJ0Rd7fKaf+Zb0Dn+JHQe22n0QAAAAASUVORK5CYII=",
     "wiki_name": "Oak wardrobe (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_wardrobe_(flatpack)",
     "equipment": null,
