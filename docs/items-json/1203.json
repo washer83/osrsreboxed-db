@@ -1,7 +1,7 @@
 {
     "id": 1203,
     "name": "Iron dagger",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "Short but pointy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUklEQVR4Xu3VQSsFURQH8DlN0zSTfIb3kr3F2yg7T+FTUKwkWT0rSSJJRFYiiSiyU0RZKN9BWcgX+eve0333vpnZOucu/Os2NW8xv84579wk+fMQqm+UYiCE8U7HPqu/CoYhs91Ji3GgsVZLA8WQEKMIasaMttu6oBCjCGrGRAcKMYKgqDAmzaCoMEpzY1IH/bfKpw4SxoQXZB0jPDeEg/3CftCdKki8Omu93KLOThmmiDEhzM9l2FjPcXTIqLvbUgtjQpjqplhcyLC1yaiL8wIP9yWeHsuglaIhzEynWF7KsLOd4+TYo16eS3y8D0mjCBMjqT2rK3kfdXXJqK9PBgm1zmPMcUO+t8so1zLBWfIgXwW/AhxEHDMIShJhiEu9OsKAMFFhTAg31wV+vocHWqUUsn/pt1defMrVIXtNmCvCbWJFjAv1d4xydcJEheFIY34BdLB8as4Ia5wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABU0lEQVR4Xu3Vv0rEQBAG8MwbpEqTJpBCuMq3uEKf4TqxkztQX0JBG0VsvEIURVEOxULFPyiHjSiHcNwLiIjP8MnusLd7l7TObOEHIZAU+TEzmU2SPw9h+olSDISw0GrZ+/RbwTBktb1kMQ40WxQaKIaEGEVQPWa+2dQFhRhFUD0mOlCIEQRFhTGpB0WFUZobkyrov1U+VZAwJjwgqxjhuSH0zs2H+OCsA4lXp7uXW9TNNcMUMSaE9bUMB/s5LnqM6j+XWhgTQqedYnMjw9Eho+5uC7z0S7y9lkErRUNYWU6xvZXh5DjH1aVHDd5LjIYz0ijC4lxqr92dfIx6uGfU1yeDhFrnMeZyQ352yijXMsFZ8iBfBb8CHEQcMwlKEmGIS7U6woAwUWFMCE+PBX6+GxOtUgrZX/pjwItPuTpkjwlzRLhNrIhxofGOUa5OmKgwHGnML5xbtlvjBjlKAAAAAElFTkSuQmCC",
     "wiki_name": "Iron dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_dagger#Unpoisoned",
     "equipment": {

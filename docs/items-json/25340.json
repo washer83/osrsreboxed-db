@@ -1,7 +1,7 @@
 {
     "id": 25340,
     "name": "Ectoplasmator",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-06",
     "duplicate": false,
     "examine": "Allows you to harvest the essence of spectral creatures.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xu2W30sUURTHvQ892EsvoWBU/kBBjTYl02jRxDVLpTY206xUDOkXZUghFmKISBEIURH0ZG899D+e+NzLmb1zW9t2dnQlOnCY2dmZcz/3nO85M3V1/21fzUjRa25G+jKnZWyoyx4PAZyRXLZTHt0blJ+7uzJz/bwUrvVI/kpmv6DKBTUyNdFrYdSBW5gakPaWhrSzZaT3zMkyZTCydCdrAT5tTsvmyqSsPh6TlaWcDPS02OylmC0jT+aG7K7JwmTubADmzpcXRyzUt3d35cObgrxfu2mf2XgxIePD3dGmzjU3VwNlZP35eKwUBO7uaJLWU8ftAv5/zxYuy2z+gnzdnpWPb2/H/lOYqoFeP70aC5zta4s6yb+uTpYQdXh973L/tbkAaOHVw1GrB8oC0GB/+55A6IgOQ0daRjzTdcITeMVm7Eyh9mhABUpJyI7qIYTRTKAzfQZnQ4ib57TU4YplzERzBHFuvbwRlY6gnW2NfwRiI5yTJXU2qJlNoCVjU6962F7NxxY9Wn/E00TcgffvpeN21m9ZsWuHVgij5hZYnL5kA1I60g8kwckeu2ZRdMW9XAOIe3HO2Qxa0ngJslM096CxWQKK8pF+RgFwYakUEhju4chQ9EESw8TNaYrBCNz9Qr982Zqx5VBAMsfrAuGTETQ3fLEjppswakJzZSvl6Aw4SkgnAaNdxf+Iv6nxmKe51My9qzQLvEpYnCO/gUIvwNDuZAfnHsAopeosRbDfOwrXRSklMJRPXeE46nDUkRFGT2S+MIsCdWC8VOkof/bgzCTanSxVMYcqMdeF33fm7acHUDgdhpYQNk630YEKFEZJ0RzQj88Pok8PskGp0BevDPUDyQ6dhoZ0YAKn4wCRq+gZG2goNf2UNvfxhrBx4Pwh6s+ucECGkVK0eNfpbMIVJgQKI6RufsdRIspHGXVo4geUnVLmMgWYQtUQxpk/n2oO45uCHAqYf9J+AS1HLnY4f5fhAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xu2W30sUURTHvf9Ezws9B71E+CAUERKKIEqxiGFKLWjKqqXWxrJp9ksM+12YWEqJhoREP+jFXqI/68TnXs7sndvatrOjK+KBw8zOzpz7ued8z5lpajq0XTUjZW+4GenLnpXxoS573AdwRvK5Tnlyb1B+b2/LzI2LUrzeI4Wx7G5BVQtqpDTZa2HUgZsrDUh768m0s2Wk9/zpKmUwsnAnZwG+rE3L2uKULD8dl8WFvAz0tNrspZgtI88eDNldk4Wp/IUAzJ2/mh+xUD8278qnlaJsvr1ln3n/elImhrujTR3PZOqBMrL6ciJWCgJ3d7TIuTMn7AL+fy/mrsps4ZJ835iVzx9ux/5TmLqB3j2/Fguc62uLOsm/rk6WEHV4fedy/7e5AGhh6fGo1QNlAWiwv31HIHREh6EjLSOe7TrlCbxmM3amUHs0oAKlJGRH9RDCaCbQmT6DsyHEzXNa6nDFKmaiOYI419/cjEpH0M625n8CsRHOyZI6G9TMJtCSsalXPXxcLsQWPZo54mki7sD799JxW6slK3bt0Bph1NwC89NXbEBKR/qBJDjZY9csiq64l2sAcS/OOZtBSxovQXbK5h40NktAUT7SzygALiyVQgLDPRwZij5IYpi4OU0xGIG7X+yXb+szthwKSOZ4XSB8MoLmhi93xHQTRk1ormyVHJ0BRwnpJGC0q/gf8bc0H/M0l5q5d5VmgVcJi3PkN1DoBRjanezg3AMYpVSdpQj2d0fhuiilBIbyqSscRx2OOjLC6InMF2ZZoA6Mlyod5c8enJlEu5OlOuZQLea68OfWQ/vpARROh6ElhI3TbXSgAoVRUjQH9Ovro+jTg2xQKvTFK0N9T7JDp6EhHZjA6ThA5Cp6xgYaSk0/lc19vCFsHDh/iPqzKxyQYaQULd51OptwhQmBwgipm99xlIjyUUYdmvgeZaeSuUwBplANhHHmz6eGw/imIPsC5kDaH6Ruv0Qupop2AAAAAElFTkSuQmCC",
     "wiki_name": "Ectoplasmator",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ectoplasmator",
     "equipment": null,

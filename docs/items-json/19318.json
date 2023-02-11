@@ -1,7 +1,7 @@
 {
     "id": 19318,
     "name": "Strength potion(2)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-05",
     "duplicate": true,
     "examine": "2 doses of Strength potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTUlEQVR4Xt2X+UvTcRzG/fwUiqlDS3RuXql4z2NueZCVikceU7zmzHK5tOV9zFlIhVFghWJSIfZLeESlZqcUlmCGaHYQBEEQBEHQ//C0z+frvm7LgmD7DnrD89vY58XzPO83m4vL/zEE1nLqEDRUh6K8QIrsdD8kxoicDUUwOZKOW0NpTO3HIlGjCnYmFOFhxgeVaDkagaqiQAYkCwoSGorrjBlo7KIC+sPhLD4n9ImgsKgMKlUl787ogByNmjCU5kqQkpKG1LT9QkIRqNV1v+lQYRmycwqxLzMHMplcyOhM26VrZNLpmnjlF6hwMCsfcnkqwsIjhQVqa+/k1dLSBr2+Bbl5xdibmomo6HiIxVyXBAKiQzAxMYW5uXnMzs5hZmaOxZWQkMKXmsIIClSv1cFg6EVf3ykmGldSktIZMHQImptbYTQaN9XH90fgqMxDYOg1WolGplBkICIiSsiVp0PQ2KhHT4/BSrTU9P7ExCYI7RK3ZV1d3byqqmvZsaQ3yFxsgYAIuzmdnV0W6maHsbSskvWIXurYuEShYiNoOnGSv0EdHZw0tUdQUaHmY0tMVAjhEkFdnZZtV2trO/RNImhqPJCX6wal0hWVVRo+NlruuPgkR7tE8GxBivlZMaYn/TF2ww/DQ74YOOeDjjYRjus8GaCqxB3Z2W7ISHd1pEsEjx8G4POnELzfCMbrV4FYeiHF00cSzNzjAG+O++HqiC+uXNrNII293gzUAS4RzNwV4+WiFBvrkfj5Ixzfv4Xh65dQBvjxQwgDpO5Zwp3u84auwcsRLhEsPJFgYy0Yb9ejt9XaahADfjAfgOkpf4wM72ZAzXovNGg97ekSwX1TZ1aWpaaHZX8UhaVANFYzUH+/D9paRdDWe8Dd3cVeUASLzyWbTlhCJFuJAi0vWQOdPeODnm4uNnX1TntFRzajsgaw1cb6HiugUVO5L5zfhV4DF1utaftKit3t59K7N4q/yhbo+jVfXB7kYqMOZR1w4x2yi0vWkXGubAGlse2jPaPlv3NbzByiMLQ/8uQd9oQxD/crkDpBH7cFtAQyb1hFOdcbB8Bww32h+T8XhbMEi8bqShCDoUW2BbE7jOVsPbAFZytBQLYby4dtZfvZf51fuC8c5cuf/5AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xt2X7UtTYRjGff6PPkgKgpLMRNJcvk3ddHNqkplrMZ22aZkuN6duifSiCZn2YpZGGUFl+JY6pVSk1EizTOeI6EsvUFBERH/A1Z7neI7bsiDYzqAbrm87e35c1/XcOwsJ+T+GwFtBHYLO00o0W2UwGRKhLZQEG4pgzmHA49HDTD0d+Wixy4MJRQSYmWE9us/l4VRDBgOShIaKDcV1hgeaGixFV5uaxReEPhFotaXQ6coEdyb7dbjYqsIJcyqUylyocwvEhCIwGCp/00FtCfYXabG3oAgZmdliRkdwrLqGqbraJEij0aGwUIPsbDUSpcniAtXVWQWZLXWorTXjQPEh5KgLkJKSDklMrJhAdAgGh0bgcExifHwCY+MOFlemXCmUmsKICnS0qhqNjTbY7XYmGpdCkRMMGDoEZrMFNpudiQei/RE5Kn4IGm02L9HIlKo8SKUpYl55OgQ1NcfR0NDoJVpqun/S0jLFdom7ZfX1DYLKD1ewZUl3EF9skYAI2zlWa70gCkQXo66knPWIbmqZTLQfWQKTqVbYQTyU0XgE+jKDEJtcoRLDJYLKyip2uyzuZdh1SYLWlkhYzGHQ60NRXm4UYqPlTk9XBNolAueqDMtLKViY24Oph4kYG01A/9049F6T4ELnDgZot0W4XQyD0UDdCZhLBPPzSfj8KQvv38nx9k0GXrtkePUyFYvPOMCZ6URMOBLwYGQXg+zr28lAA+ASweyMFM+XUrHuzMHPH2p8/6bC1y9KBvjxQxYDpO55wvX0SNB2NioQLhE8XUjG+lo6XM78LbW2lsaA554kYfrRbgzcj2NA59uj0NEe7U+X3G+Fs1KsuKNxOff9URSWAtFYeaDrvTHuXkWj9UwkwsND/AVFsLSYvOGEJ0SxlyjQi2VvoJs3YnDlMhdbU1OEv6IjG1F5A/hq3anwAhoaiMftW7G42s3FdrI5EnWWcP+55FrX/lW+QMPD8bh3h4uNOlRRsV1wyC8ueUe24YwAVMpuH+0ZLf/MtJQ5RGFofzTF2/wJww/3FkidoIf7AnoC8TeMLkj+OT/DcMN9If+fi8J5guVjdSWNwdAi+4L4HcZzNg/YhPOVKCBbjefBvvL97L/OLzqIY/e0R4zbAAAAAElFTkSuQmCC",
     "wiki_name": "Strength potion (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strength_potion#2_dose",
     "equipment": null,

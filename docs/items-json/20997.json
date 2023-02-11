@@ -1,7 +1,7 @@
 {
     "id": 20997,
     "name": "Twisted bow",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": false,
     "examine": "A mystical bow carved from the twisted remains of the Great Olm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIklEQVR4XuWXzUsCQRjGG0SkCEOKIiWzIiMLP0LN8CNjMzJCKhLqkNClQ4dAyGt0qkMFQUf/gC5Rh5AI+t/eemaaXXfdoIM7Bj3wsqO76/x45p13Xvv6/rcYieipJASjCb+fZqemegUlIPo9Hg6RS6f552Gfj1/joZBKqK8Jl12UzLloMhCg5URCh0MoBpLLIQCmg8E2AOEaxoqAGO0fu/WJ4czWumZyRCnM7pGb7h/7OUCtVqWVZJIOdnZULxHEqHJowCAajVMqZDLcoWql8v29EjEqV80whUKGbm8uqF4/4VCba0VVLjHa2DNgZOI+PFxRq/XEx8gjRUCMtIrLBGNMKJxCzVmcn7e533UxWi3bwRhbHjE3M8OXzGF3GGVL9jDN5h2/jo+N8cq8XSo57c5XThTNMNINJDCK4OjIiH5MOA6Do8AKM+T18lxJxWO0FI3yiITDvYHB0TA4MKBDSVeUw0ggwMg8ab/XAxhxD85YQczvd1U/wRhbW8GWluqEkcvy8fHKr2i6kENnl6K/sf5CF2UPo2l5en9/4WPsKAS2OGqOgy7Zw+RyaXp7e+Zj9MW75bLumHzOMSBjCYwADHYUQraj7YnsGAx6GgkRiYQpFlugVCrGlwXOKDqbpBidX4tChyKHiouOT8vn9SosjwQHXZEy/hHAhfZiZw0FMBCjYjZrO7FdWN92QKxjORRN/JNEM4X8EQ79CSnNkd/pL8B8Akn20emqEycfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJElEQVR4XuWXz0sCQRTHnf/AkxcvgodACCSQkBAMCQlDEiNZJfEHqZgtGRmJBkIdEjp0CALJW3SIIAk8eQ2iCFH8g169mWbXXVfo4I5CX3js6O46H77z5s3TYvnfIsBiruIQBNZ9PtgKBucFxSAcdjuFyKfT9POK202vbodDJBSBeMYKybwVNvx+yCQSChyGYCC+HAxgMxAYA2Cu4VgQEIHGtU2ZGJ05PZI1jgiFqV/Z4PWNOdFsNmA/mYSLWk30EqEIVC9VGIx2+xaK2Sx1qFGt/n4vRAQqDS1MsZiFzssDtFo3FOrksCTKJQLH5yoMT9xu9wn6/Xc6xjwSBERArlo1MOqEzCmsObuRiMH9mYvAQcUIRt3yGNuhEF0yk90hkCsbw/R6HXpd83ppZT4rl8125ycnSloY7gYmMBbBVY9HOSZMh8GjQA+z7HLRXEnFJdiLxWhEw+H5wODRsOR0KlDcFeEwHAhheJ6M35sDDLuHzuhBtO/PVNNg1K0tYEtzTcLwZRmNvugVmy7MobtH1t/of2GGMoaR5QIMh590jDsKA7c41hwTXTKGyefTMBh80DH2xfVKRXGMP2cakLoEaiAM7igM3o6OJ7JpMNjTcIhoNAyStAOplESXBZ0RdDZxEbh/ZoUOixxWXOz45EJBqcL8SDDRFS71HwG6MF7s9CEABkWglMsZTmwU+rdNEJlYDkETTxNrpjB/mEMLIaE58jctAsw3KrAJXz2DQ9gAAAAASUVORK5CYII=",
     "wiki_name": "Twisted bow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_bow",
     "equipment": {

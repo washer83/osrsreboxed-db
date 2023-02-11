@@ -1,7 +1,7 @@
 {
     "id": 11048,
     "name": "Armour shard",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-24",
     "duplicate": false,
     "examine": "A piece of ancient goblin armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABM0lEQVR4Xu2UzWoCQRCEnTcRPOTgIREWfzCrho0xxqCuf6iEHPL+79ChemgZ2gSUmdVLFxSys7D9UdVjrWYymUymVHJ07rvIDz+uSvo5HKjTatFjs0kPjcY9oBytZzP62qxp0O3Sdj6nxWRC7y8jGvX7fHZDKMcA37stA8H75ZIBP14LKvKcntttBnqq16uGcjy8l2WndFCZAIUpwRWn5PcFlmSQEp6RWDmdMtCNUnI8MARCOlKXAH2Ox5zQ23DI7/Fb0Q30VQkMkgmBpC4ASWpyBqjQCaD8jQqBsEMaBFXhXVifnIcwqDCyRsc1aIc7g2fAAFAnotNJDoNl1ZaKNMBfMBFAHgYJYF9inAxGEtADLrXcrEgYyJ3Voodd4kQwIv3/cb0TwnjJB2Osv2kymUz/6BcHwKuQE/TlQwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABNElEQVR4Xu2UzWoCQRCEnTfxEfIeXnLwEgRBl6iokRizGn8iK9kQcsgzd6geWoZWYWVm9dIFhewsbH9U9dhomEwmkymVHJ36LvLDvz939FeW1O906KndpsdW6x5QjvarFf0UexpnGRXrNW0WC3p/mdJ0MOCzG0I5Bvg9FAwEf223DLh8ndFsNKJhr8dAD81m3VCOhz93u8d0UJkAhSnBNafk9wWWZJASnpHYLs8Z6EYpOR4YAiEdqUuAPuZzTuhtMuH3+K3pBvqqBAbJhEBSF4AkNTkDVOgEUP5GhUDYIQ2CqvAurE/OQxhUGFmj4xq0w53BM2AAqBPR6SSHwbJqS0Ua4BxMBJCHQQLYlxgng5EE9ICqlpsVCQO5k1r0sCpOBCPS/x/XOyGMl3wwxvqbJpPJdEH//K8IuSfrAWkAAAAASUVORK5CYII=",
     "wiki_name": "Armour shard",
     "wiki_url": "https://oldschool.runescape.wiki/w/Armour_shard",
     "equipment": null,

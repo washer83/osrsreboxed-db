@@ -1,7 +1,7 @@
 {
     "id": 16701,
     "name": "Seal of passage",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-24",
     "duplicate": true,
     "examine": "A seal of passage issued by Brundt the Chieftain of the Fremennik.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xu2X30tUQRiGPbfhZRgmpRkmmWQF/g0igmlmZmaamZmZZmaLmWZmK2ZmuZn9QBEziUWKLvr7vnhm+XJ2Gm3Wdm/CD172wDm785z3fWdg8/L25/+eSMKU80kt1N3WJl2trdLZ0iLXLjXL1YtNcuVCo1xuaJDm+nppqqszyjFUJHdvdMngzW6J9ffL43uD8mhgwFyP9PXJcG/vb9253mkAcwgVmUVZHE09HJEX4+Oy+HxaSkuPpol7Q7d6jIM4h2NZhEpFNHF/SCYfDBvZMIl43EhhuOYe0LhEtERKlFnoVSTTsZjER0eNZsbGzGIujKvXz6YMONERcU97u+kaUI21tXuFiuTlkwl59XTSiEUQIL6YbIcQL0DHiJnO3e7oMFDpvQoGi/54a1suhCue4WVwl6iJj04BZffqfE1NKNTOQO7iLogtnCVmOudzS506U1LyN6jMgdznbBE1vVPH6Ba9Ir5/AgoF2E10i7OLsrP7MgJyXdhN7sK27OfoFjuQTnEk7AnI98M+uSCueIb4iE7PqWAg3znjAvjkfscn+kSXKHgw0MrCgizPzmYE5C6M9NzSc0zPNXYeuy4YaPPDe1lLJOTT/LwszczsCOQC2PAKAgDd0VOeowBxFAQDffu8Ll9XVmRj+Z2sLr6Rj3NzO0L55IMBgl1Gh3AIBQNVVp6UH5ubsrW2ljGYLyKgbLDi4iIpKDgYDlRdXSVVVafkZzIp379sSHJ11cS4vvTW2y9b3CNmjdrtkcLk5x8IBWIsqK0t45Yboy6ojuk1vUO4iQBUSJ4rLDxkQBQmEIhJQZ07e9pE6Lql8dkRKhAbAmjcRHr/SNHhNJAMYHS2oWy3cIqF3D4pENHiJJ9lZcfMPaLagyu+SYfCrYqKE2kqLz/uFTAoizA66VAK5soFVHeyDKOzDWXLhvMB5QhGx/4TGKYcwqTG3iGhcn9jf7IxvwCpj9yHAHZIZQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xu2X/0tTURjGvf+J0A/+2i8hIYEREpKEYRgjAv8HEfFLsszMNHOZzS9LZ85crplruaa1Mddoo4L+pTeeM9489+1Mz133/hK+8LAL927nc5/nOQfW0nI+//c4ZKfAp77QwvQ0zU9N0dzkJD15EKbH4Ql6dH+cHo6NUXhkhCaGh5UChnIo+myeViILFI9GKbG6Qq+Xl9X1+tISxRYX/+jl0zkFGCCUoxbF4lByY53eJxJ0kNql7u5rLuHe2vOIchDOwTEfoeoRbcfWaOdVTEmHyb1LKTEMrnEP0HAJ0SJSROlDrxzajccptbmplN7aUotJGKns26QCR3SIODIzo7oGqPGhoWahHMq82aYPyR0lLAIBxBST7hCEF0DHEDM692J2VkG5e2UN5vz11rokhBSewcvAXUSN+NApQOm9Gh0ctIVqDCQXlyC64CxiRudMbrFTF1tbz4LyDiSf04Wo0Tt2DN1CrxDfPwHZApwmdAtnF8qO3ecJSLpwmuTCuvTn0C3sQHQKR0JTQKYfNkmCSOEZxIfo+JyyBjKdMxLAJPkdk9AndAkFtwYqZLN0uLfnCUguDPG5xecYn2vYedh11kCVoyMq5XL0JZOhfDrdEEgC6PAMAgB0h095HAUQjgJroO/lY/pWKFD5ME/Fg4/0eX+/IZRJJhhAYJehQ3AIsgbq779FPysVqpVKnsFMEQFKB+vq6qT29kv2QAMDIQqFbtOvapV+fC1TtVhUMR7nPxn7pQv3EDNHLXvEMG1tF2yBMBpUrabckjHyguwYX6N3ENyEAMiQeK6j47ICYRhLIEwd6t7dOypC6RbHp0fIQNgQgIabEN+/2nnFBeIBhucESncLTmEh2ScGQrRwEp89PdfVPUTVhCumcUPBrb6+my719t4wCjCQjzA8bigGk5KA7I7PMDwnULp0OBNQQDA88o/g2QoQpj76DrGV/I3z8WN+AwLrwZzboclOAAAAAElFTkSuQmCC",
     "wiki_name": "Seal of passage",
     "wiki_url": "https://oldschool.runescape.wiki/w/Seal_of_passage",
     "equipment": null,

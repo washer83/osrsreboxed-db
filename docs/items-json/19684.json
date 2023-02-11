@@ -1,7 +1,7 @@
 {
     "id": 19684,
     "name": "Dark totem top",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-06-09",
     "duplicate": true,
     "examine": "Looks like part of something.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xu2VUUtUURDHPchyucuysihKK6kZEoRQBmWCiCAiiyC2mGlpKSIiYmIlaVlJmVFhYVQUUUQUFYJQIAhCUUQ91Es9FIUPURD4BQJ7+Xdmzj13766bu+vu+hAODLjeMzO/mTMzJyNjXf5fEUhc0yYCrrK9SrcFWTNLG5RuDSjdUqu0pNrWNEEJGPXjMAJjMOpGYdQOw6g5BqN6EK6qfrgqe+Gq6IarvBOune1w7WhlcO+uFgbaXlSUSigBf9cjBaOBNJQGs+BsQKnZdUPIquxKD9CGjnsxAbhKluY2XUJ2/Sn4qvvgLW9L5bVJmIN3kNd2C3ktUytC2Cr/T2dzgxfSUSWBvP3XVQCZtR2U+kVrBAwDWTY5DWPw1RxOVZWEAmm+wtnmNI5zgFgwpFRVUr66wAiyqnpSUSWhYKRTDUSODX+ple2/1d/5gAeBKkV2XKWKjmSqJLCxf5bVCeUp24MMw2tnG00ZSMLk987wMJB9CqoUAtJQvtojcJcGwmAirUIi7Qfm4O9+wgPBVZL2SVQpHIiUJibTV5BAlgL5fc/5+rhK1hqI396W5TBUeufWje1QoGRyEcXnv6Fw5B37cIIlWKUQEGVIvUAl180cG4ZEYPPFn9h05iMKhl6pfqKpk30Yf1K2KCANk98zHbbc4nMkgSYWUHjyPQoG51Uv0cTJtRF/UrYIG4QdyV1kFu9OwJF1Xee+oPD4G06Mp412kuzD+P3YIuA5vcCjS/dOO0S/5CvfvdpBnhOfQ9d19AUnpictsSqHiXLsGXwLs/0hv/K0jelxjQ4lzw9/Qs7UEoJP/0RvZrmLVlEdLQLe8V8cxN03D7P1rnrpJZjZdC0CSp6dWETJzSV4J3/z357Rr/AMfWBbd9cM25vBq8kAkchAY9+V455ZBjEaL8PcdxvmoccWlDxz9geDUzX5nPxmHrivzlk2+uwqr8spQmVLwWSmHFgC8u/+l3D3zsHd/Qzuzmm+Wq5E8w2uhtGgRtwJkiSMFtVP7oHXHFTD6GCkawTiFBWAe8KCCQ8Wglv+LU3iDBwtmBMi8ltaZc0Drsu6rEL+AlAi74jOYZ1OAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xu2V30tUURDHPf+BT/tyXy7ch4UFYRFEJBYMkZB8CAIhJChDBBFBZBGxBU1LSxFFNNGkLcvSfllGIhX9IBEpRLCQioICEREJH8Pg25k599y9u27urrvrQ/iFAdd7ZuYzc86ck5NzqP9XAqlb1iTgqWxVdirEllvRrOxkUNmJBmXldY5lCUrAaJqEEZyA0TgOoyEMo/4ajLoReGqH4KkZgKe6D56qHnjOdMFzuoPBfWfbGchvmpmEEgj0vlUwGkhDaTAbzgGUlt84hrya3uwAHel+mRCAu2RbYetD5DeNw183CF9VZya3TcJcfo6izjkUtc/sCeGY/D+tLQzdz0aXBIouPlMJZNVOUjov2mJgGMj2KWiegL/+aqa6JBRI22OutqBlkhMkgiGjrpLx1gXDyKvtz0SXhIKRQTUQBTYCFXa1/7ZAz2seBOoU+XGXqrvT6ZLA0aElNjeUt/I8cgyfU208YyAJUzywyMNA/hnoUgRIQ/kbRmFVBKNgYr0ikv7Dywj0zfNAcJekfxpdigYio4nJ9ZekUKVA8eAH3j7ukn0NJO/vaDcMtd596yYOKFA+vY2yqXWUhr9yDDdYil2KAFGFdBao5fowJ4YhCRx/sIVjt3+gZGxVnSeaOnkOky/KkQLSMMX9C1GXW3KBJNC9DZTe/IaSkRV1lmji5LWRfFGOhAPCgeRdZJadSyGQvV1311B6/TMXxtNGd5I8h8nHcSTgvbXBo0v7TneIfsn33nt1B3lvrEW2a/QjF6YnLbUuR0kF9o58gdn1hl95uo3pcY0PJdeHf6JgZgeh+T/xD3NQ+e4DhiTgm/zFSazBFZgdL9RLL8HM1qcxUHLt1DbKZ3fgm/7Nf3vH1+Ed+86+Vu8i+5uhJ+kAkWSiiU0VuH+JQYyWRzAvzMG88s6GkmvubDE4dZPXyW/mpVdqne2j1+5zu9wSqlpKJivlxBKQfw99gjWwDKvvPayeBd5a7kTbLHfDaFYj7gZJE0ZLnSdreJWTahidjOyAQNxSCfhM2DDRySJwu79lSe7E8ZK5IWK/ZVUHnvBQh9qH/gJI2mTEqa8BOAAAAABJRU5ErkJggg==",
     "wiki_name": "Dark totem top",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dark_totem_top",
     "equipment": null,

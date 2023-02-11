@@ -1,7 +1,7 @@
 {
     "id": 16457,
     "name": "Translation",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-18",
     "duplicate": true,
     "examine": "A rough translation made from archaeological etchings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUElEQVR4Xu3Wz0sbQRQH8MzBgxIiQVESMYkptocelB5EoaUFKUotDbYY2uagqIcGL8Ge2qugp/bQXupfO+X7hm/2OczE3TU/RHzwSFDIfvi+t7NbKDzWwy9jk554Gbu1MG835uekJ4wz9tXigoCIejFXll4rz44bZuybyqKAiGJKBKGfz5bGlZoDERVLiahnJdcjwhn7tlqR1ild/+v1W6MAIqpZLErXZmaGhTN2d6kiTRBRGqTbT4kgdHV6Wjonyti95ap0DIWx+SDdMRR+e73RyIoytlVbuoEKjU4vuMaERqcxGUHGfqwvC4ioQSkNuuuYEtJ5v7eZJx1jD1ZqAiIqTUqhu06ntL//0rZaW+rMSlXGfm7WBURULKUQKpYS0gEI38tTU1lSciCiYindNjqdEnan3X7dh2XYIWM7T1ak/ZRCqLQpdb5uy8h4iqfGHK42pQnyUbHRxVJCIx2AgMuAQRl7/NSBQqisKaGRyNHhjmBynD1udwAhKDS6WEo+CojT03c3HrgZ0kG5UxkXw4UBYEK3pRQaHXYGIIwtBwaVPLNwyuLTBw5C6ZSQSrf7QcaWE4NKQMTwEYAL+cDY6IDo9T5JMnz9yIFBuVseF9MXwfe/f86kMQokoIE6JfwP+8Jb/g7psNy7CpYae4MENOz3r2/99nFoQL6fH8jfh4Bx5X4geZHiQjMFfAJxdXkiDQTGBODPH1+Gi9GV/KCDAcKF1rCLi6N+83a/w96kKz81QLjghPH8GUk6sfJTQwNB4FgxfoVwE8P4Rci9wIyi/gPNWSiCm7pk6wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACU0lEQVR4Xu3WTWsTURQG4Nw/0XUgi0KgEAqllBBICSEERVx004ULkaKgCNJiNaQlobWLFg0YXIRu6i6gCwVd5Nddec/lzZxe7k1npvkQ8cBhQgszD+8581Eo/K9/v4xNeuVl7MH2ln26tSm9YpyxL3a2BUTUk82K9H5lY9kwY19VdwREFFMiCL23UV5Wag5EVCwloh6XXS8IZ+ybWlVapzSZjKatUQAR1V5fl26USvPCGXtUr0oTRJQG6fZTIghdKxalc6KMPd6tScdQGJsP0h1D4dwVOWYqYzuN+i1UaHR6wTUmNDqNyQgy9qS5KyCiZqU0665jSkjn3fGzPOkY22s1BERUmpRCd51Oqdt9bjudA/XMSlXGnrWbAiIqllIIFUsJ6QCE35W1tSwpORBRsZTuGp1OCbvT77+cwjLskLEXD1rSfkohVNqULj68lpHxKZ4ac/mwLU2Qj4qNLpYSGukABFwGDMrYj48cKITKmhIaiVxdHgomx7PH7Q4gBIVGF0vJRwExGLy99cLNkA7KPZVxMVwYACZ0V0qh0WFnAMLYcmBQyTsLT1kcfeAslE4JqQyH72VsOTGoBEQMXwG4kA+MjQ6I0ehUkuHnRw4Myt3yuJi+CH7//vVFGqNAAhqoU8L/sC+85e+RDst9q2CpsTdIQMN+/vg8bR+HBuT6uid/nwPGlTtB8iHFhWYKOALx/dsnaSAwJgC/3pzPF6MrOaGDAcKF1rDx+GravN3vsTfpyk8NEC44YXz+LCSdWPmpoYEgcKkYv0K4lWH8IuSvwCyi/gAiFuZ0htpuFgAAAABJRU5ErkJggg==",
     "wiki_name": "Translation",
     "wiki_url": "https://oldschool.runescape.wiki/w/Translation",
     "equipment": null,

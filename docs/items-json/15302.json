@@ -1,7 +1,7 @@
 {
     "id": 15302,
     "name": "Pet snakeling",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-08",
     "duplicate": true,
     "examine": "A slithering serpent spawn of Zulrah.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDElEQVR4XmNgGDqA8T8Ekwso0YsBGP9L6jODMXkOY/wvJs9Ahj68AOKQrgWc/+ds5UJyGLIl6GwIdvaDeMRAQQGMEWooBBDDGP9PWM75f+l+rv+LdnP9d3VBhFqIrQicrerK/H/dCR6wWpo4BhUw/p+5kev/hjM8/+smcf7PrmH/r2Oh+H9+eel/eU3x/3G5rGDHgEKysIUd7iB0U6gIGP/nZrP+r6lm/x8Zwfo/NYX1v4Ufz399R87/Bw4s/B8awvo/NoYVLAdiI9IezQAjOGSmreP6X9HN/j+9AhIKKSle/5ubE8BsUMhMXg2RR05D6CZRETCCLQTh3iWc4MR+587Z/9nZAf/zGtj/t87k/N84FZJ+6JCGYABi2c5rPP/PvOH7f+f2qf+rVzWAHQdyJLJD6OAYCIDlvK2XeP4fObz8f0K8OzhR0zFUcAHG//Pnlf7X01MaDI4BAcb/mzZ2/3d3M6FHAiYGMP5fsrjiv6Agz+Bx0NYtE/6bmKgNHgddvXLwf1Kix+Bx0OVL+waXg5YtrRpcaWjb1kn/AwNtBo+DQNl+UCXq9euX/BcR4R88DtqyuQ/umEHjIElJQbCj0GUHAEDKIUtLrcEVZf7+loPHQevWLfrPyUmXNjQxgPH/7l0zBleiBjXwB0nogADj//Pnd8DLIXTZAQCM/y9d2jOYogwEBpVjIIDajgEAPaxh0WLsX98AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+UlEQVR4XtWWOUsDQRiGM//AapttBrZYEIQ0QSS1iCCCCIpNGgnaKF4IHkVAwZtoEQVBjAdehReKBFETFSVG4x0UMUhU0Nof8MrMYBJXFIlxHR/4YGB2Z5799t1lLJb/A4GoVPnJvR8gsJdl8EpNjCA715LCfV8iROa3KNbDWpJY8ibGsajqJvEgVkp5Ja75IWIxguVdiu1LDf5zDbU1ia65Km3xcUFtBoI3Or/2V2TeQ+ALaQhFdUyuUHgmVJSU52FzdAS5RTnoGlS4DOvk8KwaFzKukkYIBj0KJsZVtLcp6HcrKG/SUVZFEYn44XIp6OxQ+BwbJ7L3axDembWgBu+CigGv6ILb3YiZmR4+Zp1Z3RfzyRkyrpRGCN+Q1WKA8rA/P0fh8bRgaErFnI9iek3kx4QMvSE2O33UEX3JxNPTLfb3prgck0wWMUFG8PblhWM6rq920dNdz0NtYlc+g2BzYwSlpfkyyDAIDkMLqK9zmBHg70AQCHhhteryCIWPluFwFMoj9HAfQV9vgzxC97ELuYR2tsfkytBxeAWtrRXyCLHPXqpQHxwEYLNlySN0dLgUl5FGyG63cinj7B8g/kNOZ7Fcr6y52SmPUDDoB6WmnKG/A8HZqU+uULMDviTdYRDc3Z3E/0PG2T+AIBY7l+mVMaSSEaRb5hXgUYYMUHSRswAAAABJRU5ErkJggg==",
     "wiki_name": "Pet snakeling (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pet_snakeling#Normal",
     "equipment": null,

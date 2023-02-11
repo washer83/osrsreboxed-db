@@ -1,7 +1,7 @@
 {
     "id": 15635,
     "name": "Decorative armour",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-07",
     "duplicate": true,
     "examine": "Very decorative armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xu2WYWsTQRCGe0goOUJDSMjRhMYmcinXlrQVGhQsKCgoCgqKoqAoIooioigiiiiioogiRURR/+rou8vczc3tpekZ/ZSB+XC3uzPPvjO7dzMzU5vafzGPEtfPee//idngvl+PHc8XzjfpxPE6HTwwR8uRT0FQMu9LJT/2CYPZYNVqK+O3brboyuWAzpxu0JHDVdrYqFAYljNAWbDCcB41Gj2q1TrGJQzGAHTt6nxKJUDVa3syMNoLQHnUbIYGiKEk0J3b7RiIVTp2tEZbW1UablYyANoRf31xcVwoC8MuVYJjXANdumihoBTKV6lMVKUskIS6d7edApJQ58426NTJulGrXJ5LuQtoDJW8PyclMu6CwrgEgt+4bp2h0FNQC6dOQ2mwHVRKYDQQQz162KEH9xcMFIMxHKCgloTSMC6gESqlgVxQz57upSePOwbMBSehUD700yigsVSCf3i/zyRHEgRHX+D9m9c9evWySy+edzNwgOK+kkCDVZ9+fF+iTx9Dsw6bwDjngkIjVIJZICRDAsgvQd+97RlnOIBpIPQT1gEI6xgI8zEP5RwTBmYTIwlKgJ0y0JftPm1/Dk1wQLFagMfOuWwa6NfPKAbCOK4HBtLZHeaZxUiC3fJuOPC3r0sGCtBQicunVUJZcFHyOqxBTMDy+0JA3D+sEKskgfIUkhvBfMyB4rjNdwXEPaSBAArH+E5AXGqb1DMlhoKFgLCYT0O7PRsDcUPLps4Dko3710BIhODZ0+A++hpIKjsRICRCc/Ip4aASRN9DfEnK3xJZbpS4MBASICC+Rxzw0HCYUUXDyM8I91F5Nil54aZGYNwV+I2QCq2trND+wYA219diEBfMfBDQQqtFvY79XeH1vNFdANnvGX4z8N+c/QDancJXo8g4IOHL/b4BCLvdeA6vZSBX7HR+pyXB0gGtyQR5znP02rx5yXiO5QdMm55XZI0en9rUJmW/AXYrucTFlScJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4UlEQVR4Xu2WXWsTQRSGu//Aq9z0JpCLQCEQAqGEEkgJEoIhNLQ01CI0iNgLBQVFURAVBUWRKiriB4qKSlHxg+L3bzv6zHA2s7O7abpGr3LgXOzOzDnPvOfM7M7MTG1q/8UCGbr/nPb+n5gNXihUQuf58qV5OX2qIkcOz8lyryC1Ws68z+UKoU8YzAYrleoxv3O7Ltev1eT8uaocP1aS9fWidDr5GFAcLDNcINVqW8rlpnEXhjGAbt5YiKgEVKW8LwbjewaoQObnOwZIoVyge3cbIZCqdPJEWTY3SzLYKMYAfCd+OY+aY5mFUXdVwhn3ga5esVAoRfmKxYmqFAdyoR7cb0SAXKiLF6py9kzFqJXPz0U8CWgMlYI/J6VnPAmKcRcI37plXaHoKdTi1PlQPtguKg1hfCCFevK4KY8eLhooBVM4oFDLhfJhkoBGqBQFSoJ68Xy/PHvaNGBJcC4U5aOfRgGNpRL+4f0Bk5wkBKcveL+93ZY3r1vy6mUrBgeU9pUL1F8tyI/vS/LpY8esYxOMay4UGqESZoFIRgLkd0HfvW0bVzjAfCD6iXUAsU6BmM88yjkmDGYTk4QSsFMF+rLTlZ3PHRMcKFULeHauZfOBfv3shUCMcz0okJ89wQKzmCTsVnejgb99XTJQQKOSls9XibJwUeo61hATWH2fCUj7RxVSlVygNIXcjTCfOSjObb4nIO0hHwhQnPHdgLTUNmlgSoyCmYBYrKeh0ZgNgbSh3aZOA3Ib96+BSETw+GlIPvo+kKvsRIBIRHPqKdGgLoh/D+kl6f6WuOWmxJmBSEBAvkca8OhgEFPFh3E/I9pH+dlhyTM3NYG5K/iNcBVaW1mRQ/2+bBxcC0GSYBZqNVms16XdtL8rul43ugcg+z3jN4P/5vgH0O4UX+31jAOJL3e7BqDTaoVzdK0CJcWO5k+0YbBoQGtugjTXOf7atHnD8RRLDxg1f16WNf741KY2KfsN4o5yxbabdvQAAAAASUVORK5CYII=",
     "wiki_name": "Decorative armour (gold platebody) (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_armour_(gold_platebody)#Normal",
     "equipment": null,

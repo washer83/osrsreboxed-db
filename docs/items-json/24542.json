@@ -1,7 +1,7 @@
 {
     "id": 24542,
     "name": "Unpainted fake magic egg",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-04-02",
     "duplicate": false,
     "examine": "You'll need to slap some paint on this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xu2WUUtTcRjGd75AV2EXXShESOBFfYK6sYQkC5Gy1EzETBMZIl5YIiINW5lpZjkUEZsSQ1l6FHGszcwxbFOXTExN9Cv0AZ563vGfZ6uuOke72AsvZxvjnB/P87zv/9hsmcpUplRpSO1jqwSAX9fhm5lGv8OBmvLy44LSEF4MIhQIyDUwNwuv241BpxP19yqPGkrDRjSK+NqadCwSwZLPB93jwbjLJUrZ79cclYUaNjdj2Nr6iu1vcezsbCIaCSEYnIc+8x7ud2/Q3+9AZ2cLmppqkZd3zkooLQWEze/r6ytYWvJhbm4SExNDGHzrxNOux2hpeYjCwnwBOp+TYwWUJhC7u1tJGKq1sRFFKBTAwoIXHs8Ihodforu7HY9aG/Gg9q5VQJqA7O1ty5Uw8fhasldWPsHv1+H1ujE6+gq9vZ1ob29CQ0OVdUD7+zsCQ8sIQWVU/y1HdnsNKipKzM6RhoOD76IOYZRNq6vhlF5cXEjJkcPRiubmOlRVlZqtkiYwKjeEoUWqqQ5/O3vaJlBTU2MYGelDT09HMkclJdfMUilVHVqlpopBzj5lw4kLP6T5mVC6/msfuV1iW0dHs+To1s3rZqmUyA7VoVWxWESAAh9nBSAdiEpNfxjH2Nhr9PU9EaDGxmqUlRWjoOCSGSol7DIGmVDhcDAJpKB4pYVGy9ra7Kivq0xaRoX+UaXEuKudo6AiXz5LXoxQtIuTxl00NPQCz5xtshwZapMXpCYKpUOp6WKo2VRHTdnAQJeMPe26XXoDl/MvmgukrGJ+jBDGsWeuaBc3tVGdoqIrZtmlSktC0CoqwQxxynhlc+o4XVyKDDO3NLNDdVSYTYJRpQnA8rJfHs5mhlTPz09Jdlyu57IQedJXV99BcfFV5OaesQaID2ZoaQ3PLbbPNy25mZwclTNMTRazwyODYc7OPm0FEEsTAJ7qVIQgbCpDGAaZ6jA73M5chrQrK+ukVUCsw5d5nleE4Ebm+w+PCeaGS9D4P5MD/Xsd3jz1oX8CMHb6fSyp9IceOUCm/qf6CYxqsfxvD+iwAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xu2WTU8TYRSFO/+EtSs3hrhjw0oXuGHjT9ANSiKiIURRQCQgAiElhAQIBFMsIFigEMCCDbSUj9bW0lL7kdLKx9rlseeWt0yrrpxBF73JzbRNM/PknHPvOxZLucpVLlUaivufVR4g4PPBv+OFw2ZDd1vbv4LSEA2FEAkG5Rrc24XH5cKS3Y6+1x1XDaUhFY8jnUhIJ2MxhP1++NxubDidopT1TfdVWajh+DiJTCaFbCaNbPYY8W8RhIL78O18huvTIhwOGyYnhzE42IPa2jtmQmlFIGx+TySOEA77sbe3hc3NZSwt2vF+ahTDw/1oaKgToOsVFWZAaQJxcpIpwFCtVCqOSCSIgwMP3O5VrKx8wMzMOEZHBvC255VZQJqAnJ5m5UqYdDpR6KOjrwgEfPB4XFhb+4i5uUmMjw+iv7/TPKCzs+95dXKWEYLKqP5TjqzWbrS3NxudIw3n5yeiDmGUTfF4tKhDoYOiHNlsIxga6kVnZ4vRKml5mIvcEIYWqaY6/O12lUWgtrfXsbo6j9nZiUKOmpsfG6VSsTq0Sk0Vg1x904Jrd39I8zOhfL7cPnI5xbaJiSHJ0fNnT4xSKZ8dqkOrksmYAAW/7ApAKRCV8no3sL7uwPz8OwEaGOhCa2sT6uvvG6HShV26IBMqGg0VgBQUr7RQb9nYmBV9vR0Fy6jQX6qUH3e1cxRULBaWvOihJEO5SeMuWl6exbR9TJYjQ23wgtREoVKowoTlQs2mOmrKFhamZOxp14uWp3hQd89YIGUV86OH0I89c0W7uKn16jQ2PjTKLlVaAYJWUQlmiFPGK5tTx+niUmSYuaWZHaqjwmwQjCpNAA4PA/JwNjOken9/W7LjdE7LQuRJ39X1Ek1Nj1BTc8scIHl4LrS0hucW2+/3Sm62ttbkDFOTxezwyGCYq6urzABiaQLAU52KEIRNZQjDIFMdZofbmcuQdlVW3jALiHX5Ms/zihDcyHz/4THB3HAJ6v9ncKB/rcubFz/0dwD6Lr2PKVX60CsHKNf/VD8B9oML+yK7NN0AAAAASUVORK5CYII=",
     "wiki_name": "Unpainted fake magic egg",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unpainted_fake_magic_egg",
     "equipment": null,

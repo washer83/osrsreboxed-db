@@ -1,7 +1,7 @@
 {
     "id": 12500,
     "name": "Bandos d'hide body",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "Bandos blessed dragonhide body armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADh0lEQVR4Xu2Wy09aURCHuavGfRNjTKq1qYmPqBiqGLFo1AJiFEQoolDEN1SrIcSGEBNrYuOu6a7L/qVTv8EDXhqVa7Xtwkkm93nmfPd3ZuZcl+vJnuyfmCVVbzz/a2Ymrfrw4IC8cQ/q+WB/n/T39tiePyJgNfjc7LS8m/TLmKdXPIPdejQ+6u5Rj877FBRA/IGhqiCJBb8kI1PqMxPDMu2fUAcOD05P1o5AzwdmxTfSLwO9XeLuf/VQalmyujStHg2HJJsIKND8jFcnNpPjZ6WsDYZ3/N4BBRr1uBWK8z8AsxQATy1HdZLN1JwCoZZOeuXHhaTk0sE6zBXQ1PiQQqAkUCwx133dHU6hLMklgzWPLYT16wvrEQVKL8/KYiigquGoAxBHYHgGEEsLAPcmJ8ZtUMwx1NnZLJQlO2th9bVETCcg4OFWTIEMJP61vKEwqWCrAhlQgAJ+j04ejyyoesQwxeAYCDVyayu1YD7viA0ouRRRBwIYoIxKgEZDPglNjWjuZJLxWpy3416Fcgy0l/uggfhakwMGiLxCuevqGCiAmJw8WwyMqRomFqAGqqXlmfM8avTrQAcb0VruNDr3tTIvVUKN9rbnv8UyCjlQyeUyA6qD7ECF7YgUP8bl/DhXUwjnGijeWQ5PKFDXizYbgD3uvc2S0l5Cv5xyJr+2s2nZ364C4Cwhy0KbyKbeKxCd+15q3G2WlPdX9MspZyYEqFxcUb+obMnBblR21quVyZKyZB6344pq1iypfFrVCqN6ANrMrMrJ57RUSqvy7UteDvMxTWgDZJL60YBOjtLam+gxVA2t4aySVagfF4eaU6jEM/KN98zu/yhAp8WMQrAUqMCWcX6Sk9NyRn5+P5bjo6SqhHoAoaTZ7R8IyF6mlDNLQbKyfXBdPjqQ0kH+Up1dTXDyioQHiE7Nb0gdqLH0HZll665cU9LFnbiWPl9PMh/ltxWE88JmVvOKnOI9gF6/bK8BUH00WvZFE7Nx1lusDkSn5pqypvRRhz5EvrCE5BXKcE4eAQcQ7cH0INxsIWy2VGpduabM0r2KwUCZoOQNpU9gnpNLVB7KcJ8jSqEc/0Md7a21sSylUYmEdwxkBrOD1wdb+l+ESgam0VEL1fhjvD6OXEMllpw8dAzEhCiB2wc3JufNbu/Q1d8alKTjOwTCbgps3+fu8usRb4vZlN0c+P72GDGf7L+wX9D8grs3H9NlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADi0lEQVR4Xu2WTU9aURCGvb+jG35CN10YNyaNaUwbE6PBWCKpEoUUJVpAVJBAEYUiigpSNYQSTTSmbppuuus/m/oMHvDS+HGttF04yeR+njnPfc/MnNvT82RP9k/MkqZ3nv81M5M2fWJ8TN55xvV83D0q7pFh2/MuAjaDLy6E5MNsUKa9I+IdH9Kj8SnPsHpiya+gAOKPDNUESS8HJROfU58PTEgoGFAHDo+EZltHoJfCC+KfdMvYyKB43K8fSy1L1ldD6olYVArpsAItzft0YjM5flYr2GB4J+gbU6Apr0ehOP8DMEsB8GwqoZNsZxcVCLV00iuvVzJSzEXaMFdAczNvFQIlgWKJuR4dGnAKZUkxE2l5cjmmX1/ZjCtQLrUgK9GwqoajDkAcgeEZQCwtANybDczYoJjjuct1XyhLdjZi6hvppE5AwINSUoEMJP61saUw2UivAhlQgMJBr06eii+resQwxeAYCDWKG2utYH7fpA0osxpXBwIYoIxKgCaifonOTWru5DOpVpz3Mz6Fcgy0V/ykgfhakwMGiLxCuevqGCiAmJw8WwlPqxomFqAGyuV65jyPOv06UHUr0cqdTue+VualSqjR3/fit1hGIQcq9fSYAc1BdqBKKS5H+yk5rxdbCuFcA8U7qVhAgQZf9tkA7HEfbJbU9tL65ZQz+VUq5GS/1ATAWUKWhTZRyH5UIDr3g9S42yxp7K/pl1POTAhQ42hN/eK4JNXdhOxsNiuTJWXJvB7HFXVfs+T487pWGNUD0HZ+XU6+5OS4ti7fTstyUE5qQhsgk9RdAzo5zGlvosdQNbSGs+OCQv24ONCcQiWekW+8Z3b/rgCdHuUVgqVABbaM85OinDby8vN7XeqHGVUJ9QBCSbPbPxKQvUwpZ5aCZGX74LpxWJVatXypzq4mOHlFwgNEp+Y3pA3UWfqOzLJ1V64p6aOdlJY+X08yH5ZLCsJ5ZbugeUVO8R5Ab171twCoPhot+6KJ2TnrLdYGolNzTVlT+qhDHyJfWELyCmU4J4+AA4j2YHoQbrYQNlsqta3cvczSvYrBQJmg5I02vcvAPCeXqDyU4T5HlEI5/ocG+ntbY1lKoxIJ7xjIDGYHbw+29L8IlQxMp6MWqvHHeH0cuYZKLDl56BiICVECtw/uTM6b3d6hm781KEnHdwiE3RTYvs/d5dcj3hbzXnZz4IdbN2I+2X9hvwAibzwTNkjfCwAAAABJRU5ErkJggg==",
     "wiki_name": "Bandos d'hide body",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_d'hide_body",
     "equipment": {

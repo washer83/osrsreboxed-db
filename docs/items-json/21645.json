@@ -1,7 +1,7 @@
 {
     "id": 21645,
     "name": "Granite boots",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": true,
     "examine": "These will protect my feet, but are a bit heavy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu2Wb0siURTGuy+WxQhFFGUSNRWVMrKif1K2gtRWG1si0rZERN//O5z1OeMz3bk7ujob9qYDh0jP3Pvzec49d1ZWPuMzlhJGwvlh4QMcHrZle3tT6vWKeJlVBy4K0v3/XcLI2dmRwrQqWc1c9u+sF9JSzK2F4AA+HTZWGNlv5KVdy2lGweDzZimjyjWbNalWS1IuFxSQ30XBujvNEUaGwx8yGFzL3d13ub29kJubfgBnQ+7v7ShQu91SIH7nwk9Tcg5AI09PQ/n9OJBfD/cyGv1UOBvs6qonlxff5Pz8RDqdA4WCRVTUBUFCrYqXVCVRSzWR/4Ay8vr6KM/PIwUDFNUiEGD6/a721/Hxnm5CmChr8RnU2dpqaKIeSZjdjQ1Nl2QSRtWBMjYEFKI6gOn1TlUd2IV6qkhrCcZegqVQEn/xDBSaA4ZhAmVoFUFoE5TB4vilLy8PARRroSKg7XqcVtpbLKwHQO7uU8KE+odWYRNaBfmxuA1PKNoKINYDaAGrosI/bbOAsHgulw3VUU27HiqhHlahfkF1EGOYfkPue3W5Pq3K5UklEgjSZzJpVdMGd+1l33hePr46gLnt1hSof1SW3kFJursF6eysy1HLk2Y5I8X8mqTWvuomPARu/9h9k0ol46iDMAoDZQADEEDsb+alVc1KZT0p2VQigLHh9ZnJWAAQmh/WQsnY6mAGsUG5OH6p2jRWBResDWTDRymJ+tXElzjqGB2K7ImoiVwvpaVSSIqXHUOlE0GfUUmCUE3aGhvInSkcggRCcwKo6Pn3EtWBMoABSLuRC6x11VwA6O1SpUI8wrCM70O8hwCEGcQfgBOGWsLrnJqoiVooGhvIhbEncwA0PjWzgGx7qeaCDe0fXfe6mAaE+mlAnOKoc4HcXWdEGMgdhATi2yAgkIDCcwQK7LKAYqjDMKHXDALhHiIQamx7CYLTCHAXyJ7O7m5zhvtGF05/YaNK8rqYBfQf6rwFF5iWVNJ9NaG1BHoXmPnDVyyq1wC0ZBg/qFZULh3GDtfSD4V57/gDKqaNTMsUmcEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xu2Wb0siURTGu19i3+wboReBIIgwiAyCIjKIIkZSuGH0B0taEWqrbSsiqiUi+sxnfc70THfujq7ORr3pwCHSM/f+fJ5zz52lpc/4jHcJI/H8sAgBtrd7sr6+Kq1WIH5h2YFLgnT/f5MwcnCwozDdwNMsen9nq5KXanElBgfw6bCpwki/XZJes6iZBIPPO7WCKtfpNKXRqEm9XlFAfpcE6+40Rxi5vv4pV1encnHxQ87Pj+TsbBzB2ZD9zQ0F6vW6CsTvXPhpSs4BaOTh4Vp+31/J3e2l3Nz8Ujgb7ORkJMdH3+XwcE8Ggy2FgkVU1AVBQq3Az6qSqKWayH9AGXl+vpfHxxsFAxTVIhBgxuOh9tfu7qZuQpgka/EZ1Flba2uiHkmYfCaj6ZK8hFF1oIwNAYWoDmBGo31VB3ahnirSWoKxl2AplMRfPAOF5oBhmEgZWkUQ2gRlsDh+6dPTbQTFWqgIaLsep5X2VivlCMjdfUqYWP/QKmxCqyA/FrfhCUVbAcR6AC1gVVKEp20WEBYvFr1YHdW066ES6mEV6hdUBzGBGbflctSS0/2GHO8FiUCQvlDIq5o2uGsv+8b3S+nVAcz5sKlA4526jLZqMvxWkcFGWXa6vnTqBamWViS38lU34SFw+8fum1wum0YdhFEYKAMYgACiv1qSbsOToJwVL5eJYGx4feZlLAAIzQ9roWRqdTCD2KBcHL9UbZqoggvWBrLhk5RE/XLmSxp1jA5F9kTSRG7V8hJUsuJ7E6h8JuozKkkQqklbUwO5M4VDkEBoTgBV/fBeojpQBjAA6bWLkbWumgsAvV6qVIhHGJbxfYj3EIAwg/gDcMJQS3idUy9qohaKpgZyYezJHAFNTs0sINteqrlgQ4dH170upgGhfhoQpzjqXCB31xkRB3IHIYH4NggIJKDwHIEiuyygFOowTOw1g0C4hwiEGtteguA0AtwFsqezu9uc4b7RxTNc2KiSvC5mAf2HOq/BBaYllXRfTWgtgd4EZv4IFUvqNQC9M0wYVCsp3x3GDtfSD4V56/gDCMRrjVCE/TEAAAAASUVORK5CYII=",
     "wiki_name": "Granite boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Granite_boots",
     "equipment": null,

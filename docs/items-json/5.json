@@ -1,7 +1,7 @@
 {
     "id": 5,
     "name": "Instruction manual",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-27",
     "duplicate": false,
     "examine": "An old note book.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACF0lEQVR4Xu2Wa0sCQRSGnZ8QREFRaaJggpZUCtpFkAqRCLpgRSFG0JdAuhBdkEIy+tUT78gZd8Ydm222+lAHHhSUfR/fObsYifzP3xzGB/nRUcNnJ0YF0+Mjkm+U0n854+nYBE/NjEsSU2MSksP35qPRMKTU8KXUDM8lpyTZ+KQEYoSfXAgtMV7KxAWFdEwCKSKIXAgtMb46n5CQnJ/gW/dsAD9Bx5YYL+eSCiSnh5vQ23NsqddQZSkl8crp4cCvPf14nVvazM8pmARtj9e5pWohrWCS8wp+JufQUm+PasWMgo3gsPacW9pZySqY5IIIOrUEid21BQUbwWFyDi0xcZH9ck7BJBdE0KklSNQriwo2gsP2z6klhB5tLCuY5GwFSUpPsxwmJE628hJbwWH759QSQhvVgkIYgl9siYkLQ6JZK0psBb1iOC4sNZ5Jjk9vJkLPt0sKJkFIQQItYF9wuz/cH/LbmwN+fbWvLLaz0MXOqsQrBgm0gP3A7f3yfMrb7RMhcndXlzKt1q4QcjgyGibCL/fWxSsEcSS4MI4CAt3XJu90GkLk6fFYyuBziJIwhOh59MWGMH0hSCAIwZDAXxCIUCveOwrStD9oDscXwg5h+kIIen8/FyIQ8t7OkEF7tEMk0jseFYcdomFSyAvCaY/wnp4zfuE6ekLA6QvhKLDYENHDTQL61UIau/BvFBgcPfhHw39jPgCwIaAUrhQx1QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGUlEQVR4Xu2WW0sCQRiGnX/iT+gmwguhCJFQBEmQCsMUNDpAVIQRiGGFIYZ0EYiFnajo8Bsn3pFv3Bl3t9FZ7aI+eFBQ9n1859vFUOh//uYwPsxURw1fis4KFiMzkglK6b+c8Uw8ytOxiCS5MCchOXxvJhwOQkoNz6djPJdakKwk5iUQI9zkAmiJ8XI2IShm4hJIEaPIBdAS41urSQnJuQl+flwN4SZo2RLju7mUAsnp4V7o7Vm21G9oL5+WOOX0cODWnn681i0dFJYVvARNj9e6paNiRsFLzin4k5xFS/09qpSyCiaCfu1Zt3SyuaLgJTeKoFVLkKhurymYCPrJWbTExEVquzkFL7lRBK1agkR9b13BRNBv/6xaQuj5/oaCl5ypIEnpaYbDhETjsCAxFfTbP6uWENo8KioEIThmS0xcGBKtSkliKugUw3FhqfFMsnx6MxHaPi4reAlCChJoAfuC2/3h/ozf3Z7ybremLLa10PXJlsQpBgm0gP3A7f36csmfnxtCpNerS5lOpyqELI6Mhonwm9qOeIUgjgQXxlFA4P29xd/emkLk6fFCyuBziJIwhOh5NGZDmIEQJBCEYEjgLwhEqBXnHQVp2h80h+MLYIcwAyEEfX21hQiEnLczZNAe7RCJ9I9HxWKHaJgUcoJw2iO8p+eMW7iOnjDiDIRwFFhsiOjhXgL61QIas/AJCgyPHjzV8N+Yb48JflACD6qXAAAAAElFTkSuQmCC",
     "wiki_name": "Instruction manual",
     "wiki_url": "https://oldschool.runescape.wiki/w/Instruction_manual",
     "equipment": null,

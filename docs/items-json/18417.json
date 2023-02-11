@@ -1,7 +1,7 @@
 {
     "id": 18417,
     "name": "Light orb",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-20",
     "duplicate": true,
     "examine": "A component of cave goblin Magic.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xu2X70taYRiGexljFMEYg0C2tWa1uTnSySJlC8lNpjSKxMJQEpPGpFGoFIaikSRKoKEkikgiJIYbjgX79+75vKfjj9XHHc8+eIOfz8V9X+8DDg0NMohsYej8ZI0AkU3v4+T4G+IRj1xgwkcr5TSKucMeoIOAAz7v536CMTQbFdQv8gJQPn4DaNe3Aq/bCrNJJzUUw9XPOhqXZdSqOZSLSeRPI8gk/UgebiEaciGwbecNbayb20DaiQmpoBh+NWu4rBVRLWdQyMVwerKHVNyHo7AbIX+nHeeqiQPp36qkaonh91UDze/VVjtnKBcSyGVCSCd2cBzdRGTfieCO0I7H+QlrNmMbSK16KgXU9Vz1EnenkI0ikwogefSVt0Pu+H02fPFY4XJ8hG35fU9DNNs/no5dt5NDqUvkRMzL3dnbXcP21hI2XRY47AtYXjRwoDeaKak8Evyh13VeSrXmCgsytxqKHWy0/REbIiDjOw1U04+lAqKwzmRc6CAXmp57OLjOXxgBUUNW8xwMc6+kmksMw4/GOS4q2RuzkdTUEE0m+qN5rZSyHTGsPZt4g+iVkdTkEN0fmstk1GB66lE/gCii4GftZ08OERDN1bnQks71d4QPEhBJTXORzIsWfQ9In2DEMH6PyCOCoobsK8Z+zXRbGNwflLAZnsCiU2BePQbd5AN5gawzI1h4OQz95DC04/fwQnFXXqAl7SjM6hHMPxeAlGMyA63OjvKW/hsgaogmm30mzDX+8I68QDRXtz+K+7ICUbr/cfT9GN6e7iMoO8wgg3TlD5ge9KCtLNAhAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUElEQVR4Xu2XTWsaURiFc/9BV910I2SRVSF0k4WFUlJIhoS2FknJF/nCMiGtxVjFQRtFqSQ1qCgdFBWDQRkxg2JQkpD+ttN57zg6Nll2nC484HoeznneC87MTDONbWEY/WyNDtGoZXFRPkNJjtoFpn+0rdbQUopjQLm0hGT86yTBGG76bfS6ygCo9AAolTxGPHoE0bNmNRTD/V0P/Z6KbqcBtVWBUv+FWuUclUICci6C9FmAN3QiiUOgeYfDKiiGu9su+tctdLR2mo0C6hdZVEtJFPPUTmjYTjjo4UCba4JVLTH8vu/j9qaD644CtVnWpspp7aRQlmOQs2FkUkHeTjQsIuTfHwKtCq+sgDLmuuLuNOsyLqtpVIo/Bu1IOD/1IxH9jEjoE/y+nbGGaLZ/PB3j7ZA7VyaRy4U4dyertXOa8CEWOYQUOIDPu8WB3K43Vnmk+0PXpbaqUC7zusxaQ4XcydAfoyEC2t9xQVh+aRUQhY0m40JnuNB07vlMmF8YAVFDR+I6ttZXrZrLCL1B2sm36w9n06Smhmgywx/XO8vmMoeNZhu8QXRlJDU5RO8PzeXZ+4DlJeckgCi64HT+xtmTQwREc41eaEvn+jv6BwmIpKa5SGbv4eYYyIRgjDD+HpFHBEUNBY/3JjXTY2H46RXw3fMa37adEN0L2F6Ztxco8HEWX1wOHKw4sLH4DO+dT+0Fkjbm4HPPQnyrAwkLNgPFdud4S/8NEDVEk+0u6XMtvnhiLxDNZfbH+dxWIIr5H8fEH8PHY34EbYeZZhpT/gAmmTAMpDFEawAAAABJRU5ErkJggg==",
     "wiki_name": "Light orb",
     "wiki_url": "https://oldschool.runescape.wiki/w/Light_orb",
     "equipment": null,

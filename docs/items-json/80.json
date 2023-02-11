@@ -1,7 +1,7 @@
 {
     "id": 80,
     "name": "Ice arrows",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-06-17",
     "duplicate": true,
     "examine": "Can only be fired from yew, magic, dark or twisted bows.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4XmNgGDmA8T8EDxhAtpzxv2vJ5P/6/ikD5SjG/4YhWVDLGf/7t674b51c91/ZxgfMN1BQoKejGP/bpDb+13KLhDuoeu25/y5FE8GYzg6CWG4aUfBf0dwN7iDDtM7/FnEVYEx3ByXOPYYSGiDHCGuawR1HdwfBQgM5dGBs94qZ9EzYmKGBzA/t20rvhI0IDYhlCP6cAzfpnbDxhw7IQXRO2LhDB91xMDU0dBCmhdj4yA6hoWNAgPjQobFDQAB7aKDzkUMH3QQqg9HQwQdGQwcfwB062Pk0BZih4dOwGCO66BQ6qBYiOwZEgzC6g9BNoCKAWI4cGuiOkTd1plfooDoGxnYrmwZ3GMgxAxI6yKGBsHgA0g4oNEAY3TG4HIRuAg0AxFIYRnYMetqik4MYGGCOwOUYEE1XB2EC1JyGmq4GDCDKI9SoHEAAi75B4RhkQAvHAAAiPAK9+uSTlAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWUlEQVR4XmNgGDmA8T8EDxhAtpzxf+Gcrf8jq/oHylGM/6MbpkAtZ/xftero/7S+Jf+90yvAfAMFBXo6ivF/+oTl/4OLWuAOWnTiwf+C2ZvBmM4Oglie0Dzzv3tSEdxB0RPW/k/uXADGdHdQz95bKKEBcoxRYCLccXR3ECw0kEMHxi5esJOeCRszNJD5DRvP0TthI0IDYhmCv/vac3onbPyhA3IQnRM27tBBdxxMDQ0dhGkhNj6yQ2joGBAgPnRo7BAQwB4a6Hzk0EE3gcpgNHTwgdHQwQdwhw52Pk0BZmhULDuIEV10Ch1UC5EdA6JBGN1B6CZQEUAsRw4NdMe4JuTRK3RQHQNjF83bDncYyDEDEjrIoYGweADSDig0QBjdMbgchG4CDQDEUhhGdgx62qKTgxgYYI7A5RgQTVcHYQLUnIaargYMIMoj1KgcQACLvkHhGGRAC8cAAHEkQfl+owWpAAAAAElFTkSuQmCC",
     "wiki_name": "Ice arrows",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ice_arrows",
     "equipment": null,

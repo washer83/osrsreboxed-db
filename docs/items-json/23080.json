@@ -1,7 +1,7 @@
 {
     "id": 23080,
     "name": "Stuffed hydra heads",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-02-07",
     "duplicate": true,
     "examine": "I could mount this on my wall!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xu2WbUtUQRTHHXohyWJIkqRo2qKyIusmBi67si2pKylSmZuyKMtmqYlglgb2RE9GEdIL3/W9etV3Od3/DOfO3Lm7epd7bSX6w2Evd+fM/OacM2duU9N//bsSZL9pgACh7N1hxX32w5nv7f8ik6CLzc0Ua2mhFwfLFPv9lmK/DmhrZ4HWt+4aCwu61NpKl9vaqLuzk4YTiaih1C53Xy7R9vNF2n9dog9fHtGbj2V69X6VHixMUDo95EaDoQF1pb2dhgYG5PtUb28UUIIq67O0vDJFq5UZdxGAHB1v09rmPB3/3DUW1ECIEOxqR0dUQP4dYwGkCxDPnN/PRxvuYjYQjwfQ9Z6esGkTlM0lpZkL4PfT18e0snaHrnV1WTDKj8ezD4BQS7cymfBQMCzMMPeLOQnDO/bCaD9AweCHX6QZ80zncuGheJcwFHZ/X98JMCwNZUbK3IjtEVDCc2IQejNV9miv/PUEf94Qj/H6nChBhekxtx4wIaCC79JbTxP5lIwSNjSaTMo5HpZu15NCQUWnZsxJARUcCFIRhmWcA8KnDkCox9NT70rQ3Oy4dLBrQR/hIDtTQPD/9uOp9Efa5u9l64FhqUXNGkDKYBz6YGCC+hPdcg60ETTTw+9P6oiyIbvZwVCUXOBstaEEJW/Eqey0CqQITRURNk+q7RFA3rQNxuNuLcDwXH1yQTNz49JQvGio8MXdxheu3yewdJQwKUA4fTD/5IIWl/IyMhemBuWlbKYcXwi4D2tH9lTpKGGHHBm74fHYESdNSNFkYUxCYXEGwleCGlt3UdtSUChm3ik3TG+zFJTODlN+clSmCrDcUO0rJwQMS7iRMesK73QHFjIqpXJBQvDlWv0yDi2dOtMAxbUE29krus+mRQzDqg7Fd5W9uG32bBHJD2V/HZ7h4rWkujhAAIToVG8Bf1X6auEoNRgI0kV7MzVyHoDUnacgGlY/tXWuYM5CfwDJ40WRJ5V2tQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xu2W30sbQRDH3f+g774EfAgIhVCQIkVQpEiJiEEwaFEKkkRIU9RIVdpKUiUoIVXbKtj0B9YW29CW2gdf+vf0oX/F9L67zO3eXqIX7myk9AtDjsvO7mdnZmevq+u//l0Jst90QIBQ9rFRc5/9cOZ7+7/IJCjW3U3xnh56fbRJ8d8fKP7riPYP12lv/5GxsKDrvb10I5GgoYEBmkylooZSu6y/26CDeoneHlfo5MszOv5Upfcn21Ran6dMZsKNBkMD6mZfH02Mjcn3iVgsCihBtb0V2txapO3asrsIQE7PDmjnxRqd/awbC2ogRAh2q78/KiD/jrEA0gWIV85v4/S5u5gNxOMBdGd4OGzaBOXyaWnmAvj9/HWXtnYe0u3BQQtG+fF49gEQaul+NhseCoaFGeZJOS9heMdeGO0HKBj88Is0Y56lfD48FO8ShsIeHRk5B4alocxImRuxPQJKeE4MQm+myh7tlb+e4M8b4jFen3MlqLg069YDJgRU8F1662m+MC2jhA3NpNNyjqeVB+2kUFDZqRlzUkAFB4JUhGFZ54DwqQMQ6vHi1LsStLoyJx3sWtBHOMjOFBD8v/14Kf2RtrXHuXZgWGpRswaQMhiHPhiYoNHUkJwDbQTNtPF9t40oG7KbHQxFyQXO1hpKUPpukqpOq0CK0FQRYfOk2h4B5E3beDLp1gIMz80nF7S8OicNxYuGCl/cbXzh+n0CS0cJkwKE0wfzTy6otFGQkbm2OC4vZTPl+ELAfdg6shdKRwk75MjYDY/HTjlpQooWirMSCoszEL4S1Ni2i9qWgkIx8065YXqbpaBMbpIKCzMyVYDlhmpfOSFgWMKNjFlXeKc7sJBRqVSLEoIv1+aXcWjp1JkGKK4l2OGbsvtsWsQwrOZQfFfZi9tmzxaR/FD21+ElLt5KqosDBECITvMW8FelrxaOUoeBIF2096anrgKQuvMURMfqp7WuFMxl6A/BIq8LMjeu9wAAAABJRU5ErkJggg==",
     "wiki_name": "Stuffed hydra heads",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stuffed_hydra_heads",
     "equipment": null,

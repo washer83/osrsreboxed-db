@@ -1,7 +1,7 @@
 {
     "id": 6811,
     "name": "Skeletal wyvern",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xu2WfUtTcRTH/b0TX0Bgf0QoDCuyNAszRFGWMmZmth6GY6xsDGs4GZWJWSIlEUgUSfVHD/jqTnzO5bS7e9Nut+kV2oEDu9vuuZ/zPd+d3zo62tGOAwsnzZloOBkezcnAUFbOnB+Xnt7LSUI5uX7nidwurkuhvCUL1XdSrLyRqZmHSajlJJ0tNwEBU1p8q2BLTz/J5HTlsMCc9F/MSGa2qkC5wnOFyt/flPkHrzSBu/doW8pL72Vw+FrAY8H85/B8A9B0bllmbtXlRn5Fbs6vKlh36pI+CDAUAwxAru+WNjSBtwbCgLFgnSpDQR5YqX2Q2rPPsrrxTU5092ux7FxNvwNU+EGNtIZMZeAZOzX/Gmois6BKUZRCAJFrm99l/fUPebm1Kyd7LoQg9krg8d/Ki696L+8d7+yMAuVUelShO9SgKwpicPMSrxfrH38lXVviL0s+A6S+9kVhaAggPBpBJaeqUHRkIi+n+sZCnfrT/EKaf/zGt/EEoWzUKPQHlZyqMpou6NwNzACsQKNQGHK/pB61gbV6QYJAeF2fG5yUY10p3Tdc0yGFGsUbEYTcK7kPX+JJg4kARHg3MoKzA2kFw0cGxlHyO7Bo0ax08NN9wrtx7GpRR2dg7CY8Un28I6nTV2JBxYDxwmQmx6dKuhz9u4TjJaIPWht+MBslP3mMOTQyF0ulloQfjB1ix4cdJ4mD8VcEfzFCVgNjTQzKC08VMzq+4mA+EmphcEyPWiw/IBMFs4dz7GB6DM9q4CxLDMpven/G3jutCgPwZ/A77WjHfxc/ATX2gZTl7Z9yAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUUlEQVR4Xu2Wf0tTYRTHfd6JL6FXE/RPECKDflFplhmiKEsZs5XNGpcxbUPHbKTD/IEYRYhU9OsVnfqch9Ou92Zdb6sbtC8c2Nyecz/nnO/O48BAX339MTk5HpnKycRUWUbHi3LlxowMX7yTJZST0uMNWapuS1A/kJXmG6k2Xsp8aS2LbjnJF+vHgICprb5SsNbGW5lbaPwtMCcjtwpSeNBUoHLwQqEqy3sSPN3XAG557bXUW4cyNnE/4rFo/La8bwBaKD+T0lJbHlY25VHQUbCh3G19EGB0DDAAef+ktqsBvBUQB0wF67QzJOSBjfVDWe+8k87uRzk/NKLJiost/Q5Q8Qd1wwqyLgPP2Ml5aqjZwoof3bekJAKI2Nr7JNv7n2Xn4ItcGL4ZgzgpgMd/mzsf9Cx/OzM4mATKaevpCtXRDaoiIQY3L/F6tX30PajaAn9Z8Bkg7a33CkNBAOHRBF1y2hWSTs5W5NK16Vil4TC/EOafsPFtPFEoGzUd+kWXnHZlKh/o3A3MACxBN1Ec8mdBPnIDa/miBBH5qq+PzcnZczndN7ynQhJ1k3cVhTwpOIcv8aTBJABC/iAjuDqaVzB8ZGBcJT8CSyZ/7hQwJn9w+l5VR2dg7CY80nx+JLnLd1NBpYDxsjYTM/M1XY7hXcL1ktAHvVUYzEbJTx5jjk8upupSTxQGY4fY9WHXSeZg/CuCvxghq4GxZgbl5btiRsdXXMz/RLcwOKanWyw/IDMFs4dz7WB6DM9q4C7LDCps+nCk3ju9kgGEI/qdvvr67/QVBZPWZPQCDZsAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

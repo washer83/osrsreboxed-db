@@ -1,7 +1,7 @@
 {
     "id": 12108,
     "name": "Greater Skeleton Hellhound",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": true,
     "release_date": "2023-01-25",
@@ -24,10 +24,19 @@
         "hellhounds",
         "skeletons"
     ],
-    "slayer_monster": false,
-    "slayer_level": null,
-    "slayer_xp": null,
-    "slayer_masters": [],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 30.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "krystilia",
+        "mazchna",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
     "duplicate": false,
     "examine": "Can never possibly go hungry.",
     "wiki_name": "Greater Skeleton Hellhound (Calvar'ion)",

@@ -1,7 +1,7 @@
 {
     "id": 19438,
     "name": "Absorption (3)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2013-09-05",
     "duplicate": true,
     "examine": "3 doses of absorption potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xt2X609ScRjH/b3J171srbKVNrtqE/Ge5g01dKCWQOQAJRTloiJCTq10alqmpvOSt1DCnCKZ1qr/7Zu/H57j4eSbtsNh69m+Y1x/H77f53kOJCX9H0UQq4QWQavuGhprLqO84ALu3z6faCiC4GwBAu/zmdwt6TBoriYSivAwKxM5cJhuoKn2CgPKSEmRGyraMxzQ8pgS9mdpLL4E9BOBurYeGs0T3p25YQVsT1OhVV1CdnY+8vJL5IQi0Oub/9IjdT3KK9R4UFyBjAyFnNEdT5fVxmS1tvGqrtGgtKwaCkUeUtPS5QVyubt5ORwu2O0OqKrqkJtXjJu37uHixWgvyQREi2ArGEIk8hXh8D729vZZXJmZ2XxTUxhZgSyW5/B6++D3v2CicWVl5SYChhZBZ6cTPp/vRH6UlddAqSyUOyquCLx9vhhVqmr5HpJx5GkRmC1WdHd70NPjgcfTy6Kju+lhaVVMbOJ3xqkIbDY7nE43P2lGowlNOiODKiwqlR8oePCD18rOAWY3dzGx+hmvFzbQMjAOtaldrtgI5oN7MUBruwfsscm1EAOyDk5A0+KQwyWC0aVADAwHtBAK4916FKjt1RQa2rpQbWiJt0sEy18iMTChbz+xsXfIgKY3tjGyGED7yDQed/RC2+qMp0uEHUgBxPoUPsJSaJ8HcozNwuDuR525AxWNxni4RDD4YY25I4ah2ox8Z8/NBHZYpK7xORg9QzGxSezS2e5sH/5i4iaNA+p6Mw9T3zCLTd1sQ6XOLKVLhMVAD+QAxOIam47++McteN4uwtI/Cp3Lz8d2LjlZKijCvrkYQijqlhDIO7UE29Aki01rdUGlN6NI3SBVdIQdJobYOfrNi96nk0Z3EV2O/TMrbNKEsZVo9VAeX3wlc0kIcJaEQAOzq2zSuNioQ3dyiniHJHFJuHeEDc0B0dGnu4hu65fz62w5Njm8KGsw4PrdTClhuIr+CqRO0MPpqHOAFIzep7uIbmvaPzSqgmrNSUSSw0Qr+oHcfy4SA0Vv6S4SXseEIJLDCOv0gFM4sWQBOauEB4slfu2/1h9bVGS9TtwXqgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xt2XW08aURSFPb+iLz74E2z6aJPatGoVxTteMdRaKVplVBBhKDVaJUYiVWttMFqNl1AveOOiRVSU3n7VKufQGWamvjQZhqQ7WSHD7XystfcGCgr+jyKQK69F8P6dDuOOJxgyl8BoKM43FMFtxIzkSS9TwF+PaXdFPqGICJM4fIFlXx0mnWUMqLioSGuoTM8IQPGDbizN6Fl8eegnAqOxGyZTj+hO7IsJC95qvLE9hk5XC31to5ZQBGZz31/qND5HS6sRDY2tKCuv0jI6gkErx2S1Donq6DDBYOhAVZUeJQ8faQs0OuoQZbOPYmTEhrb2LtToG1Fa+hTF9x9oCUSLIBQ6QiQSQzgcxWk4wuIqr9CJTU1hNAUaGODgcvFwu91MNK7Kypp8wNAisNns4Hk3EwNq6YSuuk7rqIQicPG8TG1t2R7ScORpEbwesGJszMnkdLpYdHQ3NTW3y2JTvjJHRcBxw7Cnp0uYNIulHy97LQyqvt6gPdD5zXdRp4kb7J9dYif8FeuHUXhXtjEy5dMqtvS4n1/KgCKXt+y+YCTOgGZWd+Dw+rVwiWDz+EwGIwAdxq8QjF4wIN96EE7fIrhxb65dIjhJJGUw8dQPRK9SDGg3DbRxFINvYxfuuY/g08qhS4QdSAGUil6ncHyRFIH8m/t4uxCAfXoO/fxELlwiWD2IMHeUMFRnyW/ssb1YgkU6vxXCxIc1WWwqu3S3Oxepn0zCpAlAi9shTH3aYLENT84yqegSYTHQAwUApYTGpqO/dXKOpeARvIFNeOazsd0rLFQLirBProSQirolBVoOHmN2Lchic8wsYNAzhZ5hp1rREXaYEiKR+iWKXtNJo7uILsfA3imbNGlsrxweGPs49VySAtwlKdDKfphNmhAbdaihq0d0SBWXpHtH2tAi0HVmF9Ft/TmUWY4e/zIsznE8a2pVE0aozK9A6gQ9nI66AEjB6DXdRXRb0/6hUXVzjj8RqQ6TqcwbCv+5iAyK3tJdJP0ek4KoDiOt7AFZOKU0AbmrpAcrpXzuv9ZvmpysfnHOuuMAAAAASUVORK5CYII=",
     "wiki_name": "Absorption (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Absorption#3_dose",
     "equipment": null,

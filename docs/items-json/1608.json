@@ -1,7 +1,7 @@
 {
     "id": 1608,
     "name": "Sapphire",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "This looks valuable.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC00lEQVR4Xs3WXWsTQRQG4HwQg/VP9NY7r7z1B3ihoqioKFpUWkQQv1qKUjWE2qTFUj+wpYVKqaVtkgZFRVH0l419Z3knZ0/PtrvNKh14yWYzm3lyZnY2hcLBb0Vnx/r8n7eia4yfdS/HzvjUH592tQenfIhYmb3ulmeuuaXmVQOlf0Tf8AhEFECMxixOXXHv6pdiA+M9PtOJozIhi27mybkdKLwCwhD0pnbRzU6c933xaoHQX6J/ro+776v394ciCMesDkHzk5c9iH2TQLjux9qY+91+5v60X3gQxjg2OOijR1ctKjt/NUEY1ALNPb8QQDi2QKtzN2IgHBOkR1etGJsGDMTFjfcahMGB4PQmgdbf3swPxCrhnAViJQlC1TSo9f5WACGZQFwXGoTBNUguaFybBOos3I6DPj7qH4TzABEl7xpkujkZey9B3cXhfEEIppIg9Gs06q45vek6na7b2vrkypWTsRAF/JflOwH0a/NpwGQGSRS+XIKqAxOu1epup+NGR1/5EFMqH4+Bvn64a4L06AktKjnWgwXSmI2NdgAhwGjQt5V7+wVFexAqtDeoVxmmUh3ykSBcI0FyU9Sjqxbd8hYIwZenwTDoi+rkCiIKIUZDLEypdDR/kKwSXj3oyFQqDINr1l4PBRB2aWJSgXCHWSD+xQCoOlALScKgL4Lq4LEhK5SyOmg9kF5HOK9Bhw4/9LEwvLsAwmMjNxBRAbS9hjQI0RgJwi4tQUTp0Y0Wgaxpwzk+LiSmXDnhQ4x80qM//nZ8XhoJIOxBGfahOEhOG0EYgOtDh2uNIFSnbxDusr1AGAzn+IzjPsW1JqcrN5CeNpyXIP7lIIh7Fa5jX4Bwy0sQ9qDM+5A1bRKE491Acv3kArKmTYLwmfxbIkHoJ9dPnyC0nYvVil4/jAZhU5QgJgOoUOC2vls0UEaun1xAaZtGpsEyvb7/qWmkFX3NgW5/AYKCgnJP1ug0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xs3W3WoTQRgG4OQ8BznIgQSk9Q68Da/AUy/AK1Ap/qCiWIlYG63FhiqmVaqW0lb7A0k3iX+If8XbGfPO8m6/+fJtu9us0oGXbDazmScz386mVDr5rezsWJ//81Z2bxen3Erris/rhctuef6SDxHdtXuus3rX7b67Y6D0jxgbHoOIAojRmJ03t937VzeDgfEen+mEqFzIslt9fnUEhVdAGII2l2+4tZfXfF+8WiD0l+j9waL7GT09HoogHHN2CNpaueVB7JsGwnW/+y3353N7mCUPwhhnJyd99OiqxdPOX00QBrVA6+3rCQjHFihanw5AOCZIj65aOVgGDMTixnsNwuBAcHnTQIPNRnEgzhLOWSDOJEGYNQ369EGC2vlArAsNwuAaJAsa16aBvmw/CEC/es/GB+E8QETJuwaZezIbvJegrzsPiwUhWEqC0K/ZnHELra7r9frDDFy1djEIUcB/78wmoP2PLxJMbpBE4cslqD7xyEVR3+3tRa7RaPkQU6meD0A/Ok0TpEdPafGUox4skMZIEALMCKg7d1xQvAdhho4CaQhSq0/5SBCuCUBiU9Sjqxbf8hYIwZdnwTDoi9kpFEQUQoyGWJhK5VzxIDlLePWgM/OZMAyu6W/cF6ClBJMJhDvMAvEvBkD1icdJ0jDoi2B28NiQM5RxdtAOQLqOcF6DTp2e9rEwvLsAwmOjMBBRCWhYQxqEaIwEYZeWIKL06EaLQday4RwfFxJTrV3wIUY+6dEffzu+7c4kIOxBOfahECSXjSAMwPrQYa0RhNkZG4S77CgQBsM5PuO4T7HW5HIVBtLLhvMSxL8cBHGvwnXsCxBu+QA03INy70PWskkQjg8DyfopBGQtmwThM/m3RILQT9bPmCC00WK1ouuH0SBsihLE5ACVStzWD4sGysj6KQSUtWlkFixz0Pc/NY20oq850e0vkpJq7G/J+5kAAAAASUVORK5CYII=",
     "wiki_name": "Sapphire",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sapphire",
     "equipment": null,

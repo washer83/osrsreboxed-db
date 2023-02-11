@@ -1,7 +1,7 @@
 {
     "id": 8078,
     "name": "Stained glass",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABC0lEQVR4Xu3YQQrCMBAF0DTVUwjSvRYEu3HtwvufqJLA1PSbSdNmxogY+Aun/s7DTYvGRE8z6mX1acbbMKhlA0ofdOm6NagXqN/ZKf6zPb8lOYd+NRB2q4MQIwaKBZdzMy5FIHvqZ+GW4wx71P2DqoByw3VFQLiMcr+2U/AaosRB4XICpD67iIMouIgDYPA+xaDmaH1wUS7Ihe7xEVAYvB5ixEEYDrDUUQFxmK8EueD3VUE0R0S1X4jmHIrriYFs28/iZvjcwlmqWwXkH67QqwqK9X4XFEsOKJUiEL6oP/aHLBD2xF7y8aaIiYF8sKcBii5mQNgVA2lkA8gd/MdCLg6zAWQMFTWCu8LzBCqNc9x3UsIrAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABEUlEQVR4Xu3YsQ3CMBAFUKdBchGJhj4DUGQASMMAbJACif1HCLKlC87HZ5z4DiOEpV9w4eeeaBJhTPQ0k15Wn2a6j6NaNqD0QX3XrUE9QcPezvGf7fklyTn0q4GwWx2EGDFQLLicm3EpAtnTsAi3HGfYo+4fVAWUG64rAsJllOulnYPXECUOCpcTIPXZRRxEwUUcAIP3KQbteuuDi3JBLnSPj4DC4PUQIw7CcIB3HRUQh/lKkAt+XxVEc0RU+4VozqG4nhjItsMibobPLZylulVA/uEKvaqgWO93QbHkgFIpAuGL+u1wzAJhT+wlH2+KmBjIB3saoOhiBoRdMZBGNoDcwX8s5OIwG0DGUFEjuCs8D6Z4N39EqtbgAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

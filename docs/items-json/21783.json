@@ -1,7 +1,7 @@
 {
     "id": 21783,
     "name": "Imbued zamorak max hood",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-11-23",
     "duplicate": true,
     "examine": "The hood worn by only the most experienced players.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xt2Wz4rTUBSHG4YSEkJLaWhpQttpy1Town8LBxcuXMxiwIWIIg4ozEIQXIiCoOBiGHwIN4ILd4I+guAjuPAF3PkSx3z3zknSDINpk5mCF36MzuTcfPmdc8+5jcb/sxzJtPHlyN1+aHStFWwaypGHUU/2e125k+hWp71Jpxx5EvcN0F7YMVAIlzzXvWgoRw6HAwN0fxAaZ963XQN2s9OSy4FvgK5ub18ElE0JQGgcx/K158vn0JOXLVd6YSg32oEsTqCK0TUvC/JsFMliPpefUSDf+758SYA+JUBvEqBup2NE6ibeuabO1syl2czAvNsZy9F8Ij8GFuhj15Pb3XaqdqtlFJ9PPTlyEC3DHAZNeew35c+3Y/n94UB+He2mMNSUCpf6brNuqMydt7ORAXmU03Q0kmEUyfXmllxJRGGrAt9PgWoscsfA4AwAD05EQSMFGvT7KdSi2TDFjTRttQPd8zIQXs6JQhx3GqNCUdSAKRQu1QiUubPvbaUv5EXUizZFgGiSpFZhd10LpSOlNiAt5C5fnfQXXkB9AAQIzREQWsLTpCXQFtDzcWz+DlSNfckxhUy6gi0LpDA4w1DFGWAAyOvFJDag1JT2pBpcskB7if0KVIThpTjzajpc0uvpyPyknjhpxNfgkgWiHkgZc6oskIrniFWgii455ktJE1+pxbwKEM/kHaoFCGfoJ4DpMaeYywBRX8TW1CAtEBvu+J4ZB3kgRooO3CIIIpa/UdTsUbGOnHRTNgJIHSqTMk4Z4t8AEV8hbRaGglaHED1Ia6jokgIgjr32I57ldJJ2inttIEAUiA2pATbNpy3vkvYfIHBMGyVAxOkea15xMyDE6WIzTVv+pKlLeRAA+R0u612bWIXBoRVdyoAYG7ihQMAxz5hXzC2Gqk5+xP9VgCkQdZQHKr7xH8sxXwwQN0MGa3bRKi8FImVM/UpAbKZA3HlwQzcrI57FMdxUoIp3IzvpuX4gUrBaQTomBiDu1wDVcDeyX6k3w7xDxSdPr2UgTWP5+DNXVhOrb3Y6drX4M1aVzdaN/QtfIOp6Twh0uAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4Xt2WwYrTUBSGmzeYVTfZBLIIFAqhEEoogZRSSulQhC5ExIUDghsXsxgQRBjEAYVZiCCIIgwIIz6CIIgr0b24F1y68QWO+e6dk6QZBtM2MwUv/IzO5Nx8+c+559xW6/9ZjhTa+nLkQRwZ3ewE24Zy5FHSl4N+T+5nuht2t+mUI0/T2ADtR6GBQrjkue5VQzlyPBwYoMNBZJx533UN2J2wI9cD3wCFnncVUDYlAKFxmsrXvi+fI09edVzpR5Hc7gayOIOqRje8LMjzUSKL+Vx+JoF8j335kgF9yoBOMqBeGBqRuol3qamzNXNtNjMwb3fHcjqfyI+BBfrY8+Rer5ur2+kYpZdTT44cJcswx0Fbnvht+fPtnfz+cCS/TvdyGGpKhUux224aqnDnZDYyII9Lmo5GMkwSudXekRuZKGxV4Ps5UINF7hgYnAHg8EwUNFKgQRznUIt2yxQ30rQ1DvTQK0B4OScKcdxpjApFUQOmULjUIFDhzoG3k7+QF1Ev2hQBokmSWoXdcy2UjpTGgLSQe3x11l94AfUBECA0R0BoCc+ylkBbQC/Gqfk7UA32JccUMukKdiyQwuAMQxVngAGgrJeT1IBSU9qTGnDJAu1n9itQFYaX4szr6XBJb6Yj85N64qQR34BLFoh6IGXMqbpAKp4jVoE2dMkxX0qa+Eot5lWAeKbsUCNAOEM/AUyPOcVcB4j6IrahBmmB2HDX98w4KAMxUnTgVkEQsfyNomaPDevIyTdlI4DUoTop45Qh/g0Q8RukzcJQ0OoQogdpDVVdUgDEsdd+xLOcTtJOca8NBIgCsSE1wKbltJVd0v4DBI5powSION1jzStuAYQ4XWymaSufNHWpDAIgv8NlvWsTqzA4tKJLBRBjAzcUCDjmGfOKucVQ1cmP+L8KMAWijspA1Tf+YznmiwHiZshgLS5a9aVApIypvxEQmykQdx7c0M3qiGdxDDcVaMO7kZ30XD8QKVitIB0TAxD3a4AauBvZr9SbYdmh6pPn1zKQprF+/IWrqInVNzsfu1r8BWuTzdaN/QvSQ47lWF0+UwAAAABJRU5ErkJggg==",
     "wiki_name": "Imbued zamorak max hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Imbued_zamorak_max_hood",
     "equipment": null,

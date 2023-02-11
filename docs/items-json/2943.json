@@ -1,7 +1,7 @@
 {
     "id": 2943,
     "name": "Purple gloves",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": true,
     "examine": "These will keep my hands warm!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xs2WW0sWURSG52MY+g/eKEQXdVHhjRcFdVFQEJVlZWUHKxO7i6QQKaxEOiGIHahQCMREygi6iKKoX7bjmeEd16y29n19U7jhZe/ZB9Yz67BnkmTjt0aIK7b+z1sjPB4/Hh6O9eaaunU0TI4eySWIhZnB8Gb6Qph/cj4C5V+ibfACSFAASR5m7tFAeDF1pmKYZ9a8qlAtQTbC9O2+36DoAZEE9GyyP8xMnMz30seA2G+hvy2Phy+LN/4OSkCM5R0BvXpwNgfS3rWAOPd1aSz8WLkbfq7cz4GwsbOrK5e37lrhdr21gDAaA5q9d6oEYhwDWpy9VAFiLCBv3bVGJQwYUnLz7IEwDoTCy1hhsUDLz4fqA5KXmIsByZOI8yPZcBjdpPwowN6/vFoCoZaAlBceCOMeyCY0Z89lA2Ewu5hDScx/eD1cBXp7s30g5gESlDypPZw9nfWXUEPZlbxHrNUKhACwQD6hOXsi66tA0fOMWAfm+7s7JUzLQBZK5euBbP4cy3orAgRI6yEL5K2v0YpkxNh6QLGEPpgeCPvTfaUOp4dysDaAijsID3kg1iyQT2jB7E53lRKUBbKXorfuWlHyHkges6UcEwA9aU9FgqoNiDlc7pPVy4JtS7aGHen2UkDVAoSY4w0Jh/IBOHo8wDx7CCti3Jl0hi3J5hwMdafdJRC3tGCaAqJyPJBcjwSm8NAraQHSmY6kIwdDQFkPNekd2iqQoBQCKyWu8kQ5IiCqkWerzwvX6wGyb2y1N92TwxAOxqok+6WnEqnIj3MjFSBBeeuRVgD5sNkvuAQUXgJIodQFaIH47fg0f60E4g5q4R6qAtlqY04G6NlLfviwWQ/hnbaBqLI/AWFMXgNKVcSdxT4brtqAfNiYt0D2hhaMgLQXoKWnlytA3EEt30OxsFkgxvYbRnVZIJs/tQDFwmaBWLO/JRaIfTZ/2gSiVatpLVkYKw/Ev7QFkloAShJd6+vJA1rZ/KkFqNnmIZuBlVb3/qfmIWPyZzZ0+wV4si9osUmRWQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xs2WyU4VQRSG+75Br3rjhkfwBViy0o1xYVywYaELXWiiiQMaFBUHVAiulChBI6BBJQRxgESC4BQTB+LrlHzd+ZvThwLv9baGSv5UdQ05X5+hupNk57dGiCu2/s9bIzwfPx+mx3pzPX1wNkyNnskliKXZwfBu5npYfHEtAuVfom3wAkhQAEkeZuHZQHj15HLFMM+seVWhWoJshJmHfZug6AGRBDQ/1R9mH1/I99LHgNhvoddWx8P35Xt/ByUgxvKOgN5MX8mBtHcrIM79XBkLvz5NrGsyB8LG7o6OXN66a4Xb9dYCwmgMaG7iYgnEOAa0PHezAsRYQN66a41KGDCk5ObZA2EcCIWXscJigVbnh+oDkpeYiwHJk4jzI9lwGN2l/CjAPr62QBOtASkvPBDGPZBNaM5ezQbCYHYjh5KY//x2uAL04/399oGYB0hQ8qT2cPZS1l9CDWW38x6xVisQAsAC+YTmbF/WV4Gi5xmxDszah0clTMtAFkrl64Fs/pzLeisCBEjrIQvkrW/RimTE2HZAsYQ+mZ4Ix9NjpU6np3KwNoCKOwgPeSDWLJBPaMEcTg+VElQFyFyK3rprRcl7IHnMlnJMAPSkPRUJqjYg5nC5T1YvC7Y/2RcOpgdKAVULEGKONyQcygfg6PEA8+whrIhxV9IV9iZ7cjDUnXYboMkSpikgKscDyfVIYAoPvZIWIJ3pTDpzMASU9VCT3qFtAAlKIbBS4ipPlCMCohp5tvq2dLceIPvGVkfTIzkM4WCsSrJfeiqRivyyMFIBEpS3HmkFkA+b/YJLQOElgBRKXYAWiN+Or4t3SiDuoBbuoSqQrTbmZICeveSHD5v1EN5pG4gq+xMQxuQ1oFRF3Fnss+GqDciHjXkLZG9owQhIewFaeXmrCrR+B7V8D8XCZoEY228Y1WWBbP7UAhQLmwVizf6WWCD22fxpE4i2+RsVk4Wx8kD8S1sgqQWgJNG1vp08oJXNn1qAmm0eshlYaWPvf2oeMiZ/Zke33zXsHF4w3FQHAAAAAElFTkSuQmCC",
     "wiki_name": "Purple gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Purple_gloves",
     "equipment": null,

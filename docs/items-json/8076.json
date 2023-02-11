@@ -1,7 +1,7 @@
 {
     "id": 8076,
     "name": "Shuttered window",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwUlEQVR4XrWX0UoCQRSG9dIeQjTJ0F12dTEzzCyiXiEiiIggoqugiyAIggiC3tn4J2Yd/x1dZ87swAd74Z75cP5zdrdWs676ojqcV30R93or9LvdAvudzgp77XaB3WazgIdUfZFGkSJLEsXBIFUcDoeKo9FoLfo3Gn0v0EKDVstFain0ctULhlgIR/V63ffm7SbKeb+NlBCO0UsIxwQhFHLh4y5WfN4nOV8PqSKIkN6A4c3A9+Mg5+dpqPh9znKCCE3iRimztJyzrKGE0I1eQrgZQv8tGoYgQtwpEoIImZ3iCocdNTFQvYQw0DaF2ifgQYQ4wDY4wDZ0qMVCHEwJZqM4C+GZVEWoxUI8icvgXPGkFgtxXmxwXmzoDOEZ6SV0PB5XkiFvoSoyhEYRC/Gwc4GzBSE8I0VCPARtcHjXDcYgQhxgGxxgGwg1aoqFUKiMi/HOVqAmgi0S4mBKCCLE78kucMAxSsRCPInL4KCbYYcQgi0S4o7iDcs6y3ynDiLEHWWDO8oGwn8ymciFcB0KCKEurr2FwLaf1TgSgI3B6XSqOJ/NFCKhy/l8BV3URG+o0SImWtLEQwir+JeHAjKbhP4AaIkagf+6CzQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxElEQVR4XrWXUUrDQBRF250E3IB76EeRSrE0JKSlxVisxaqgSxARRERE/BE/RAQREdxh5Y5MnN5Mm868ycCBfDRvDp37XpJGw7qai/pwXs1F0ust0e92S+x1OkvsttsldlqtEh5SzUUWx4pRmir2B5niYDhUHI7HK9G/0eh7gRbajiIXqX+h58teMMRCOKqXq743r9dxwdtNrIRwjF5COCYIoZAL77eJ4uMuLfi8zxRBhPQGDG8Gvh4GBd+PQ8XP06ggiNAkiSqZZdWcjiIlhG70EsLNEPpr0TAEEeJOkRBEyOwUVzjsqImB6iWEgbYu1D4BDyLEAbbBAbahQy0W4mBKMBvFWQjPpDpCLRbiSVwF54ontViI82KD82JDZwjPSC+hozyvJUPeQnVkCI0iFuJh5wJnC0J4RoqEeAja4PCuGoxBhDjANjjANhBq1BQLoVAV5/nWRqAmgi0S4mBKCCLE78kucMAxSsRCPImr4KCbYYcQgi0S4o7iDas6y3ynDiLEHWWDO8oGwn88mciFcB0KCKEurr2FwKaf1TgSgI3ByXSqOJvNFCKhi/l8CV3URG+o0SImWtLEQwir/JeHAjLrhH4BAbc9Bycwp5YAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

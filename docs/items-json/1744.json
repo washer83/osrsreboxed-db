@@ -1,7 +1,7 @@
 {
     "id": 1744,
     "name": "Hard leather",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "It's a piece of hard leather.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xs3WW0vcQBwF8N33IohPRSpakL72m2hRVGpRVGzBN1EUEcUb4g1BbJVWFAqiIl5efBBF0U82chJO/Oc4SRMTyw4cdncy2fntTGZ2KpXaL1Xnj+/6m5eqW5/ucKtTX4IsT7a7pfG2IEQcbg24v5v97mCjz4PSH1EYHoKIAohRzP7aN7e7/DXWMT7jmiaOyoWsus2ZzhcovALCEPRrqcdtzXUFbfHqA6G9Rd+dTrubo7HXoQjCe44OQX9WegMQ2yaBcN/tyZR7uJh3jxeLAQh9fG5uDqK9SwmHnb+aIHSqIPur0XZ7odsLOtoejIHwniDtXUo1Ng1A8OHGZ4KI+PD+XRTW+UCnO8PlgThKqAMIbVqb6l1LY10Qi7IwBqDz398jEJILxOdCQVxNwDBJKAVe7v2Ig44nioMUY1GK0ODeUkFIERBRwNyfzUaY3CCLSgNlQflA2ntCCR9GLOEaAIXLFiNkQUkYC0pD4RpBdlPU3qWES15BaRgFJaHwHXyoC4GQf4F8KIWVAkKI+fSxIZYsIBuCsEsTkwmEFZYFpCgFKOb6cDQaoYyjg/IMstOGesUoTBFvBsqCShsl1CuIKO3dU0KQThtAqEtCpYFwz9XBSATCHpRjH4qD7LShzh47fCBFcXUVAmGVpYFw0LIHMwVZFK6jfSkgnTbUWxBPk4T5grPTyc+hGAh7UO59yDdtFoT3BCH4a+EfMe4DmG1LAfmmzYJwzR5LLAjteKgvAYTycuh9sRgbBeEsbUFMDlClwm09LQq0wUjy+SkFlLUoMguWeW77n4oifdF7aro8AZKcpcLT5M1rAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xs3Wz0vcQBwF8M1/4k3oafHai8VDKfTg39MWaRVbWlRa8NSWKtviasVfLFarLih211YQtIr/znRfwst+85ykiYmyA4/NTiY7n8xkslOrDX4JnD++83deArfRmHBriy/CrC48dyufn4Uh4qg14w633rn25lsPSm+iNDwCEQUQo5iD9Tdu9/t0omN8xzlNElUIGbitry9voPAJCEPQzsqUay29Ctvi0wdCe4u+6jbcxfGn26EIwjFHh6C9tdchiG3TQLjusrPorv80e1kOQeijPjQURnuXEg0775ogdKoge9dou92c9IKOt2cTIBwTpL1LCRLTAAQfbnwniIhHD4fjsM4H6u68rw7EUUIdQGjzdKzuHo8+CGNRFsYA9PunBTWLgfhcKIirCRgmDaXA0/0PCdDfX1/KgxRjUYrQ4NpKQUgZEFHAXJ18izGFQRaVBcqD8oG095QSPYxYwgMAipYtRsiC0jAWlIXCuRhkXorau5RoySsoC6OgNBR+gw91KRDyP5APpbBKQAgx409GEskDsumDlmNMLhBWWB6QohSgmPOjj/EI5RwdlD7IThvqFaMwRdwZKA8qa5RQryCitHdPiUA6bQChLg2VBcI1Z+35GIR3UIH3UBJkpw11dtvhAymKq6sUCKssC4SNlt2YKciicB7tKwHptKHegribJMwX7J06P+aSoN47qPB7yDdtFoRjghD8tfCPGNcBzLaVgHzTZkE4Z7clFoR23NRXAEK5OfS+WIyNgrCXtiCmAKhW42s9Kwq0wUjy+akElLcoMg+W6be9p6JIX/SagS7/AF2ElsUDXWp1AAAAAElFTkSuQmCC",
     "wiki_name": "Hard leather",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hard_leather",
     "equipment": null,

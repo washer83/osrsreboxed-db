@@ -1,7 +1,7 @@
 {
     "id": 3372,
     "name": "Lean snail meat",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-14",
     "duplicate": true,
     "examine": "A succulently slimy slice of sumptuous snail.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOUlEQVR4Xs3X+0sUURQH8FmWYV0CJYw1XSo3qyULMn+pwCChgiB6l2YvLKyMCiSpxIoeIr0QxB5UKBhiImUEUVEU9Zed+t7bmT1z9u6y607hhS87szs79zP3nrmz63kLv8XIHdfn/7zF6NHgQXowsN9k+No+Gurfa8KIqdFumhw5RROPTzpQ+iIqhlsQowDiaMz4w+P0fLgr1DH28ZlOGFUWMkYjNw/lofAKCIdBT4c6afT2EXMsXl0gHC/R32cH6ev0lfmhGIRtHh0Gvbx/zID42EIgfO/bzAD9nLtDv+buGRD6aGlsNNG9q2aHna+aQejUBRq72xGAsO0CTY+dDoGwzSDdu2qx0DSgIy5u7GsQOgeCp7cQaPZZT3QgHiW8J+vAFYAwahr07sXZAISUBeK60CB8VuN7RcPf16D3r86FQW+uVgZyYTbUxINolAZ9GO+NDqQxexridHiZTydW+NTb5FPPSptsxkajUG+fJi8GoB9vbwWYskEas6POYgC4tNqnvjWJIO2bkrS5JUltS+J5oM+vLztBuvcCLVekErMtFadd9XE6utyCMDrX1yboRnMuPIJylAD6MtU3X5Bdg/iOYszSqhwIU9WdyY1S0yKPVv1JOmkjLwLnwFIhQXJR1L2rZm95fjbJE9f/BeHqMUJcQ8DINFTZaFTkIL56gA6kfYNrXRyn5mrPjFp/NmGmECMHbLo2ESSTSpjzRQqSMHTIo4QAASgKW4/M7tZak62ZpNnHKs2YkkC4w2QNFYJxuJ4A1BgUNJ+jc2O1Ce+XgEHLgRiFR0GpMI3B3YWCxmODz4EpqwjEKLzPJ3UF9cPbcv0BCKu0LGpG6d4dzYLktEkQOsDPCO5YPlY6tqTMq3zS8/EfJy4EIKxBZaxDYZCcNgbhmGzKp/V19s5B2tfV0PmdDXkgjE7FINxlxUByhLra6szI9Gy3GDxq+EnP0xUZSE8b3mcQOuTnHAf7DOJjAZp5ciYEwhpU9jrkmjYJwjb/vEVQSxIk6ycSkGvaJAifyX8lEoTjZP1UCELLv6VdkRgZDcJvaQnilAHyPF7Wi0UDZWT9RAIqtWlkKVhO7tj/1DTSFf2dBd1+A+LE2sdNIvx9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4Xs3X20tUQRwH8F2I6qGHhWp72B72qYsgiBCLhGBELFGEYQQVvhRhDwkVBN0xzW5YWIaBSYlGm4WViNlFYcW0G9FN+nem/c7he/Z3fjsru+4pHPji2d3ZM58z8ztz1khk6beoccf1+T9vUfNy8JIZGbhg8/zReTPcf86GiOmxLpMdvWmmXt1woPRFVAz3QEQBxGjM5Itr5s2zzsDAeI3PdIKospBRMzrUVoDCX0AYgiaGO8zYk8u2L/66QOgv0fNzg+bnzIPFoQjCMWeHoHcjVy2IfYuB8L3fswPmz+dMLk8tCGPUJJM2enTVvGnnVROEQV2g8Uy7D8KxCzQzfisAwjFBenTVooFlwEAsbrzWIAwOBJe3GGhuojs8EGcJ78k6cAUgzJoGfXorQZnyQKwLDcJn61YtWzD8vgZ9eX8nAPr14WFlIBfmQHXMj0Zp0NfJnvBAGnO2PmbatsXN9R1x07Mrbrp3emlMe9Eo1Nv3bK8Pmv/42MeUDdKYk3UeBoDe3XHTtyfhp/Vw0hw5mDQtW2IFoB/Z+06QHr1IyxepxBxPxczprTFzZbsHwuwM7E2YoaZ8OINylixoum+xIG8P4h1FzIbVy30QlqornZ+l1PqVNpvXrrCRF4FzYKsIgMSmqEdXzbvl+WySJ964xgPh6jFDrCFimE25fohGhQ7i1QN0sSFucc01MdNUFbGz1t+YsEuImQO2oTbhJ51K2POFCpIwDMhZQoAAFIWtZ+ZMc63NsTQGj9pdmpiSQLjDZA0VgzGsJwA1BgXNc3QcqrLh6xIwaHkQUXgUlArTGNxdKGg8NngOLFlFIKLwPk/qCuqHx3L/AQi7tCxqovTojuaB5LJJEAbAzwgOLB8r7UdT9q980rP/t6l7Pgh7UBn7UBAkl40g9GlMxc3+Ou/OQVr3VZu7p+oLQJidikG4yxYCyRnqbKmzM9N9wsPgUcMnPZcrNJBeNrxPEAbkc47Ba4LYF6DZ17eDoNweVPY+5Fo2CcIxf94iqCUJkvUTCsi1bBKEz+R/JRKEfrJ+KgShFd7SrkiMjAbht7QEMWWAIhFu6wtFA2Vk/YQCKrVpZClYJt/3PzWNdEV/Z0m3v9fkrCnqiLCwAAAAAElFTkSuQmCC",
     "wiki_name": "Lean snail meat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lean_snail_meat",
     "equipment": null,

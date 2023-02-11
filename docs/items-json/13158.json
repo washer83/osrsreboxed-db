@@ -1,7 +1,7 @@
 {
     "id": 13158,
     "name": "Book of law page set",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-19",
     "duplicate": true,
     "examine": "A set containing the four pages of Armadyl's Book of Law.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xs3X7WtSURwHcH3ZmyJ63+Zki2VMJ+WMmU0095Cg4jRTc201CiGiB4oxitrG6InRWA8QNAjWNkbszXoRPVF/2S++5/Jzx+NRr3qNHfhy7+493vu5555z7pnNdvCLnfTRne94sdPL+RQ9n0uKLD9M0NL9uAgjNlan6dPKFK2/KmpQ6kO0DTdAjAKIo2I+vijQ++VcxY3xN86pqUQ1hbTTyqPJKhS2gHAY9HYpS6tPMqIutjoQ6svoXzvz9H3zXmsoBmGfW4dBH57lBYjr1gLhdz+25+jP7lP6u7soQLiHp7tbRL27Uoxm56eWn6ydyCDs45gpjPwa8Hc6dJyyE6cpeKaXJoIuioUGKBFxUyo6SOkxrziXi/noSnyIrib9NDM5TLOZAN3MBsUW512Ow+JaloNCQ30UOdtPo4GTWhxgQAFSyp0XKByXQUhTIO4XOpDf46CA11nGAQYUQKiDVmLM7WJYbLWgrQftgfDkgNwt+JpKx0B4crQK32jr8yHa2/tZFRxH6oF+f3lcxrQEyka6BAivqBGIUSrI7TyiBal3r1GMYbq2cKkMQkc1C0IsBBlzEFpIBWF03Uh5RBj0enGhHBnE9XQgeVJU764UY8jrQJhbMKLy4y6RRi3E9ToOKl48JdIIxPUsBSE4lo86xNyCifB60i3SCMT1GOTtOyquhVmaMaZAGGH1QKX0oEgjENdTQWghk62Dsg9ilAzCjKx26lpRO3VHQPhmoaOa6UO1XhnP1NhX764pBkh+bTg2NdYjPpIAJUZ6KRXuqwvCuen4gAiDfP3HxLUwBzUxD1WCeGnKIHxAw74uivodND7cQ7FzzjIwc+EEXR41pgUeYfIoaxmEUVYLhAvja49vGi9B+EuPc7z0wBSB+rcKI9aBGCWDgOD1EK+FZAy+d4wBRF5+MAhzUNPzkO61WREsyloCqa8NnRvHsLDfXJsR5+T/SrCPlQGCeryoR93tN9fo63qJvm3caQWEUv1kusgYOSpo591sBYjTBMhm42m9XlSgHLQkQGgdS0Bmi4o0g+Xs1/1PRUXqov7mQJd/+p0QYwWylHQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xs3X/2sSYRwHcP1P/DkIRv9CDBkOaTQabhg5aYZtw9yXZIpopuba1ooR0aLGinTFqjXWIhq09iWCBdVG/86nvZ/rc3t8fNRTz9gDb+68e/Re99zzPPfocJz+4iR9dOfbXpz0djlJq0sJkdfP4rTyZEqEEdvrM/RlbZq23hU0KPUmWoYbIEYBxFExn9/k6eOrbNmF8Rnn1JSjGkI6ae15qgKFLSAcBm2uZGj9ZVrUxVYHQn0ZfbS/TL92FptDMQj73DoM+rSaEyCuWw2E7x3uLdGf78XjlAQI1+hwuUTUqyvFaHa+a/nOWokMwj6OWcLIjwGfUyPnKTN5mcJXumky3EuxkT6KR3yUjA5QatwvzmVjAbozNUh3E0GaTQ3RfDpEDzJhscX5XvcZ8Vu2g0YGvRS52kNjoYtaHGBAAbKQvS5QOF4OKjYG4n6hAwX73RTye0wcYEABhDpoJcY8KoyKrQ70e/dpayDcOSCL+UBDaRsId45W4QvtfnXRwcFhRXAcqQU6+vbCxDQFykQ6BQiPqB6IUSrI5zmrBalXr1KMYbpRvGWC0FGtghAbQcYchBZSQRhd95P9Igx6XyqakUFcTwuSJkX16koxhrwOhLkFIyo30StSr4W4XttBhZuXROqBuJ6tIATHclG3mFswEd5L+ETqgbgeg/zejn+gkomxBMIIqwVaSA2I1ANxvUpQ0WrroJyAGCWDMCOrnbpa1E7dFhDeWeioVvpQ9UdmzNTYV6+uKQZIfmw4Nj3eJV6SAMWHuyk56q0JwrmZqT4RBgV6zonfwhzUwDxUDuKlKYPwAh0NdFI06KaJoS6KXfOYwPSNC3R7zJgWeITJo6xpEEZZNRB+GG97vNN4CcJvepzjpQemCNR/mB+2D8QoGQQEr4d4LSRj8L5jjLr8MEHHc1DD85DusdkRLMqaAqmPDZ0bx7Cw39mYFefkfyXYx8oAQT1e1KPu3oc5+rG1QD+3HzcDQqm8M11kjBwVtL85XwbiNAByOHharxUVKActCRBaxxaQ1aIirWA5J3X/U1GRuqjfOdXlL0nwAiVAEiekAAAAAElFTkSuQmCC",
     "wiki_name": "Book of law page set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Book_of_law_page_set",
     "equipment": null,

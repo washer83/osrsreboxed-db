@@ -1,7 +1,7 @@
 {
     "id": 12987,
     "name": "Steel set (sk)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xs2X/WtSURjH9R8oot/bnMzYjOmknDGzieZeElScZmrupUYhRPRCMUZR2xi9MRrrBYIGwVhjxH7qhyiK+sue+J7Lc3c8Hp1Xr7EHvtzHc869z+e8PefocBx9c5Jeuvqum5NeLWXpxWJGaO1RmlYfpIQYYntjjj6vz9DW64oGSu1Ex+AGEEMBiKXCfHpZpg9rxZrA+I06VbVQliCdtP54ug4KT4CwGOjdaoE2nuZFWzx1QGgvQ//aW6IfO/fbg2Ig+Dw6DPTxeUkAcdtGQHjv5+4i/dl/Rn/3VwQQYvh7e4XU6IoZw869lnvWiWQg+ChrCUaeBvzORU9RYeosRc7101TES8noEKXjPsomhik3ERB1xWSQrqVGaDYTovnpUVrIh+lWISKeqPe6jolv2Q4UHfFQ/PwAjYcHtXAAAxRAqsWLAgrlMhBkCYjXhQ4o5HdROOA24QAGKAChDUaJYe5UYuKpBfrysDMg9Bwg98pBS+oaEHqOUVEDHiYd0O+vT0yYtoAK8R4BhCmSg71ZWdZKB+RzH9cCqdEbmLFNN5evmEBYqAykAjSSTUBGDsIIqUDYXWrQZrqZ9WuB5KSoRlfM2PI6IOQW7Cg16GHqOlDl8hkzmOzryuDbCgShrJRwidyCRHgj4zMDyr6uDD4DBTwnxLeQpRmmJSDssGZA1dywGVD2dWXwVSCMUIujAzsAYigZCBkZCxXB8GRfllwmL+quAOHMKk16RbC51FAdjCrdlHGmhq9G15gBJE8bymYm+sQhCaD0WD9lYx7KXzpdB8ACLIuBggMnxbeQgyzkoVogvpoyEA7QWLCHEiEXTY72UfKCuwbw6vigGEHsLlbHQNhljYDwYZz2ONP4CsInPer46oEUgfa3y2P2ATGUDAQIvg/xXUiGwXnHMACRrx8MhBxkOQ/pps0O4VLWFpA6bVjcKMPFfmdzXtTJ/0rg42YAoR1f6tF29+11+rZVpe/bd9sBgtX3TCcZRpYKtPd+oQaIZQHI4eC03kwqoCyMJIAwOrYAtWoqZCuwrIO2/8lUSJ3Ud460/QPKneycnIhMUQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFUlEQVR4Xs2X/WtSURjH9T/Zz0Ew+hdiyHBIY9Jww8hJM2yKuZdERTRTc21rxYhoUWNFumLVGmsRDRpri34Iehn9O0/7nttzdzwenVevsQe+3Mdzzr3P57w95+hwnH5zkl66+q6bk96sZmh9JS306mmK1h4nhRhid3OOPm/M0s7bsgZK7UTH4AYQQwGIpcJ8el2iDy8LNYHxG3WqaqEsQTpp41m2DgpPgLAYaHstT5svcqItnjogtJehDw9W6efecntQDASfR4eBPq4XBRC3bQSE937vr9Cfb5UjVQUQYvT29Aip0RUzhp17LfesE8lA8FHWEow8DfidjZyn/MwlCl8eoJmwlxKRYUrFfJSJj1J2yi/qCokA3U6O0Z10kOaz47SYC9H9fFg8Ue91nRHfsh0oMuah2JVBmgwNaeEABiiALBWuCSiU1wJVrAHxutABBUdcFPK7TTiAAQpAaINRYpiH5ah46oB+fXnSGRB6DpDlUsCSugaEnmNU1IAnSQd0+PW5CdMWUD7WJ4AwRXKwd9WKVjogn/usFkiN3sCMbbpVuWkCYaEykArQSDYBGTkII6QCYXepQZvpXmZEDyQlRTW6YsaW1wEht2BHqUFPUteByjcumsFkX1cG31YgCGXFuEvkFiTCu2mfGVD2dWXwGcjv6f0HVDVhWgLCDmsGtJQdNQPKvq4Mfj1QpdXRgR0DMZQMhIyMhYpgeLIvSy6TF3VXgHBmFae9IthccrgORpV+yoxMDV+NrjEDSJ42lM1O9YtDEkCpiQHKRD2Uu36hDoAFWBYDBQbPiW8hB1nIQ7VAfDVlIByg0UAfxYMumh7vp8RVdw3grckhMYLYXayOgbDLGgHhwzjtcabxFYRPetTx1QMpAu0flCbsA2IoGQgQfB/iu5AMg/OOYdTrhwl0lIMs5yHdtNkhXMraAlKnDYsbZbjY723Nizr5Xwl83AwgtONLPdruv1+g7ztL9GP3UTtAsPqe6STDyFKBDrYXa4BYFoAcDk7rzaQCysJIAgijYwtQq6ZCtgLLOm77n0yF1El951TbX3zm6bj/EwfHAAAAAElFTkSuQmCC",
     "wiki_name": "Steel set (sk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_set_(sk)",
     "equipment": null,

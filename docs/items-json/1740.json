@@ -1,7 +1,7 @@
 {
     "id": 1740,
     "name": "Cowhide",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-23",
     "duplicate": true,
     "examine": "I should take this to the tannery.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJ0lEQVR4Xs3W4U4TQRDA8fZNeATfRI1GjRqNGjXxm9FoCNEoYLEiYClQoWlTsJamqW0QKmKViC82+t9mjrlliy09DZtMrt3bY3+d2V0ulTr9LS3hCN3/5y0tsxMXJDt+3kXm6TmZfnzWhSKquVuyPn9Tym9vBFD+jxgZ3gMpCpCGjym9uS6FzNXYxHznnh9x1FDItMw/u3gExRWIhoKWp69I7sUlN5ZrCMR4i/7RmJBvtUcnQymIz5odBa29vuZAOrYfiOe69XH52XopB60pB2KOM2NjLvzZvdZLu/5qBTGpD7K/mrH5yctBUC1/Owbis4L82b2WjpUBhC5uvitIEaWFBSlks5LPZKK+EKixcjc5kGaJPkCM2a5vymaxKJV8Xopzc7I8MyOLr6bl3dRkLGsEoE+r9yIQMRRI14UP0t20125Lp9mU1ocNqRZWpLyYi7IEigBI39rsrHumXbwfB20+GR2kmek0Gg7U/liVeqnkssTEiiIURPa48myiIIJ7W7Wag+gVEFliYlBAFMR3+rWkPA9mv/k8wgwNsigLolyEgiibZgOQlos+XfghkD97n9ZbjGzhEIgA06xUpFEuOxBlA6VZ8kFcTwjqbVsyZEH0s3Y0Q4SCaqvvHWpjeSmWKQuiX0H2UPRn91pvy/sg+r/vbEe7i4WtZQPE9gelQbZAWBB/Qxf1SCCC/oO9PdnvdKT7eUt2W60IRZZYRz7KZisxEOHSvPtFfnW77gqKbIHSEv4NZUGc0ooZCMQO80EAANksEVpCiwICTHGg+Btfqw+jDA2YHdohyJaN/hCIAKuHJCiFWFSiIIvqB3KZ+lM+UHbXKcwHKcqfPdB6IL9sgOjjvgWB0e9+6QARPLNTfhCBOIOGOIfiIFs2+uxrhwURuvP09LbrZyQQu+w4EC9a9sWMnUe4LJmyaakYnwjILxv9FqRvkwoLBe9O9aU7MRBn0NDnUKhsFsRnBRH8a9F/xDwHWMcmAgqVzYK4Z19LLIhxgMhOAiDa0dSHwmJs+CDepS1IYwhQKqXH+nHhA22QSV0/iYAGbT5yEKzG4dj/1HxkKPxnTnX7Db5BA6WpQEQ8AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xs3W/24SQRDAcXiTPoLPp8b4I2o0ajTxLzXaVCP9hf1JaQukRQoIbbHQxj7O2O/iXOem2wrlNN1kctzeHvthZve4XO7mt7zEI3b9n7e8LM3ck+L03RALn+7I3IfbIRRRX3shuyvPpbb8LILyP2Ji+BCkKEAaHlP99lQ25x+nJuacaz7SqLGQeVn5fP8CiiMQDQWV5x7J2tcHYSzHGIjxFn3SmpF+4/31UAris2ZHQdvFJwGkYy8Dcd9xc1p+dQpnMRtAzHFraiqEn921Ydr1VyuIST3I/mrGlgoPo6BG6WUKxGcF+dldy6fKAEIXN+cKUkR1dVU2i0UpLcwnfTFQq/w6O5BmiT5AjDlo7slepSI7pZJUlpelvLgo6/NzsjpbSGWNAPRjy4IK44F0XXiQ7qZ+tyu9dls69V2pb5altr6WZAkUAZC+7aWlcE+38iYFGux9nBykmem1WgHU/V6XZrUassTEiiIURPY4cm+mIIJr+41GgOgREFliYlBAFMQ5/VpS7gdz0v6SYMYGWZQFUS5CQZRNswFIy0WfLvwYyM9+SRsuRrZwDESAae/sSKtWCyDKBkqz5EEcrwkablsyZEH0s3Y0Q4SCGltbAbVb3khlyoLoT0Dmoehnd2245T2I/uPDg2R3sbC1bIDY/qA0yBYICwrf8WdRTwQi6D/t9+Wk15PBwb4cdToJiiyxjjzKZiszEBHSfPRTTgeDcARFtkBpCf+GSoNmE8xIIHaYBwEAZLNEaAktCggwxYHiO47q75IMjZgd2jnIli2ULAIiwOpDEpRCLCpTUAp1CShk6qx8oOyuU5gHKcrPHmlDkC8bIPq4bkFg9NyXDhDBPYe1twmIZ9AYz6E0yJaNPvvaYUGE7jx9etv1MxGIXXYViBct+2LGziNClkzZtFSMzwTky0a/BenbpMJiwbtTc+NVGnT2DBr7ORQrmwXxWUEEfy36R8x9gHVsJqBY2SyIa/a1xIIYpy/1GYBoF1MfC4ux4UG8S1uQxhigXE4f61eFB9ogk7p+MgGN2jxyFKzG+dj/1DwyFv6eG91+A4Tq6Q/WkUrtAAAAAElFTkSuQmCC",
     "wiki_name": "Cowhide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cowhide",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20189,
     "name": "Steel platelegs (t)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "Steel platelegs with a trim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNElEQVR4Xt2XTUuWQRSGn1lJEoEUiEqmiYYZfqFmmGmYqRmmmZlfaaKBKLRsp6DbFv0G2we1k1a2ayckQr/mjmtezvsxuH1mwAMD7wzvMBf3uc+cebLsaoTT5SNJON3KMj9uBCMRlNPqm3nNTU1p8umoHg8MqKujQ63NzR6ou6kpJpTTx7U1bS4t6d3srF5NTGhseFiP+vr0oL1d16qqYqtUAnr/dkHz09N68WxMTwYH1d/dpfttbTFVcvq0vaWd9XVtraxoY3GxInVAPezpiQ+EQqhDylAIqIWZGQ9F6kylcHcO4bwapAjfYGYUMWP3dnZWGDuCSs6buBwIiOcjI6kqrRLIKgsg+323sTE+ECkCiKq619LigUgdQHcaGtIAUVGmiAFh5mRAAOAXAGyOWrfr6+MDkS7MzOF1tbXFcgeIeUQgwunr0aG/GPHQzZoab/IvB/v+fiKVEYGc/vw+1e6HDS2/nvMgQAHC/OX4uAfCU/w33J1DOP07/+uhfv38oe/fjnW9uloXZ2c6PTnx8897e0WFoqlEm8BHXIT4CIVoIaNDQ77yoqYM74RArCUDsndQeaWxBpDdTVGBeHIAhHENiLVyILscw905hCs+OwCiwgySV0CoUASVnC9vhrULg7wMKNydQzivDkDWLlizV2MCIKKgkrULmwPEmygJEIpwSwNgQPQ4m0fyj0UBiDZhAPY5VA4U7soxSkDWSLkoEwIRpW/5wuGV8wRAWWYH2+Hh/ErFf9p0BxM8VarfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACN0lEQVR4Xt2XT0uVQRTG3/kcbi64CFpdhBYSgiEiYUiSJCZJKqn4j0zNTJObmZkWCpG4c6PYMvoEtQzb2OZu2ohEH+OR31zO/TO4fWfAAwN3hjvMj+c8Z868WXY9wunqkSScbmWZHzeDkQjK6X1pTauLi1qYmdb48LAG+vp0r6vLAxULhZhQTntbW/q0saG3Kyt6NT+v2YkJPR0a0sPeXhWammKrVAP68KaktaUlvXg2q8nRUT15NKAHPT0xVXI62NvV5+1t7W5uamd9vSF1QI0MDsYHQiHUIWUoBFRpedlDkTpTKdydQzivBinCN5gZRczYj/v7G4wdQSXnTVwPBMTzqalUldYIZJUFkP2+29ERH4gUAURV3e/u9kCkDqDO9vY0QFSUKWJAmDkZEAD4BQCbo9adtrb4QKQLM3P47dbWarkDxDwiEOH0/euJvxjxUEux6E3+7fjI30+kMiKQ099yWV8+7ujd61UPAhQgzF/OzXkgPMV/w905hNP/iwsP9ef3qX79/KEbzc36d36u8tmZnx/u71cViqYSbQIfcRHiIxSihUyPjfnKi5oyvBMCsZYMyN5B9ZXGGkB2N0UF4skBEMY1INbqgexyDHfnEK767ACICjNIXgGhQhFUcr68GdYuDPIqoHB3DuG8OgBZu2DNXo0JgIiKStYubA4Qb6IkQCjCLQ2AAdHjbB7JPxYVINqEAdjnUD1QuCvHqAFZI+WiTAhE1L7lK4c3zhMAZZkdbIeH82sVl4gbcECP8l0RAAAAAElFTkSuQmCC",
     "wiki_name": "Steel platelegs (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_platelegs_(t)",
     "equipment": null,

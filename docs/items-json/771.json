@@ -1,7 +1,7 @@
 {
     "id": 771,
     "name": "Dramen branch",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "A limb of the fabled Dramen tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcklEQVR4Xu2WsW4CMQyGkxdgYmKBR+jMxsLSha2qRFGlDh2hW/eqEkKq1AVeN8RYrh0nOtrKyV2l/pJFEsL93zk+H879XfmgV3qUD+OxCwOCkkCDgGKg2+f9EKDSDN3MZn1DMRDBLB7e+4TSQLgGY543lQ+TiQbCdQ45ry4GkrGMBb59/QijEX4HWaSxvoKxEIgMZczv3r4AJVDFo/RhOk0hnmJWZKao0BsAoSFkh2AkhIxuIJPa8mH1crhkg4A0iMySBpKx3h3C/vNoAwU1kt85Gp2iCcDKgL2lWqO+ZXCU+Z2T6U+CYEyBKKRR6YhKYQQDSoHkWJtdC33lX4j7zzUQ2p/+3lQIIxuiBOFP3r94rPrCTbtzWgc+3MdHOTc3rRWpLhjek685p+cGKh9Vyai0VkHfyU4z5W91zo6ul6rCp6cLZr0tFXEVsZkGgncVQzQ9ujxDMF/Ff4TzDfeWRjAorpO0+TXOTC4yJ4BeYf5V0BkoxouhTIzPFAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUUlEQVR4Xu2Wvw6CMBDG6ZswO7kwOvIEbsaZFWNMnNDBVYPE+LzVSz3ueiD4B9qa+CUXC9Tej+/O2ij6XSkt73iU0kkS6YCgCGgaxyFA/YH6xHsoiD4ioO2hCgFK6dnMAM1XR1Y6dAwBnTmodFE7QzGZRHWgiziWKwws4xAmhKguV5bchA00GpTSaUog3BEIKB2WjwPlRTkWlHEHEmW7Ui9ZDxGMmScdsp/Tevb12yKg9kTNkm325/qejGx7eow/lv3m8tcFsDxgLu81jMXaOItrNJ17Wc1SYNJ3goN8AQMiIAyeiIN2xQAgKBuIj+EZ3yj7Qq78gWj/kSAIMfDbd4kaVpYG9xiEcAADsndn2wlnrqC6YIycw7QByZkORJudhPEApPTmfsSQ/+pe3XkGg40svzGyngPBZ+7+6NrXO/Laieh40JZcXjtSO4xXBQXjWzd/9or2vrfTTwAAAABJRU5ErkJggg==",
     "wiki_name": "Dramen branch",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dramen_branch",
     "equipment": null,

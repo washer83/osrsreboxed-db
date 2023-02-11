@@ -1,7 +1,7 @@
 {
     "id": 19227,
     "name": "Air talisman",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4Xs2Wz0tUURzF566kf0GJdJFgij/CzDDTUDMzTDMzM9NMzcy0sBjILANzIKJFQys3s7JNmza1cdGi/6AQoq04OZFG/8CJc9/c9+69jg7We288cHi++fHeZ8499/uMRHyRgON9IYHvq6sY6u1NQ+UczANSzjGYA6ScGSxUOA9Ih7EdEpSXwOeVlW0QymdPN0oHCOVA9HR04HxLC5rq69FYVyePPL9+uQfnmpvc5BRMZWGhtH21f5D+ywRmxsdx7VI3utvb5Y3fJRI4WVODY5UVKCspweGiIqs/PsPoBb1/awzDfX24erFLAjERAp2qrcXxqipUlJbiUEGBAeE7jAJaiEZxe3BQAhGCvtDaKo9cMh6PlpfLlBSQfcX/kEAqmTSAYrOzeHxvGmMDA/I1pkQIpnSmocGFJNSBvLx0qr5J4Mf6ugH0+vkCXj2bx/ToCEb6+2V5r3R2oqutzYVhl7h0CsjHlAT+bG0ZQG9iMbx8+gTRyUncvTksAVhu7jb+zd3EpdMTChQovriIF3NzmH8wg4cTEy6U3idCsdihAbFHBHo0NSWh7twYcvvEXceE9FL7CEQJ/N7c3FZsBcR5xJRUyTmTTlRX40hxcbrQgTzHBJJray4UTSD2iDOJMCw3e8RJzf4czM83Ph8I1M+NDWn9RruZs4oOaOkob0hmMwdoqDDcTfSnjx+k3y8vu+ZyKvu4y8wHYyYg+/1M9imd7Euj3yyb7avvUQK/Uikk4nHDOwHZ3w5AAm+XlqR3gtGh7G8HIA+ItiE4b3KSEm3/085nlA4UYkqUwLevX1wrGB2IUzrElCgnKR2I53zgEkY5xJQiEefXm7NFAalzn7b33mTOFRMkdJhM2jcgYegvPskneqP6TxsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjUlEQVR4Xs2Wz08TQRzFO38Hl/4J/gMkeDBcDAmRSJBIRCISQSIiIoKkIiKCQEUsKJpGqhiwMZrYeODQAyYePGhCYuKZED1BW4sen3nTzu7MUGzQ3S0veVm2P3Y/ffPmu4RCnkig4EMhgR9bW5gcGSlCVRzMBVKuMFgBSLk0WKBwLpAOYzsgKDeBbxsbeyCUr1zskvYRqgARGRjAtZ4edHd0oKu9XR55fvdmBFcvdTvJKZgj4bC0fbV/kP7LBBZnZ3EnMozh/n5544/pNM63tuLMqSacrK/H8dpaqz8ew+gFfXw/iqnRUdy+MSSBmAiBLrS14WxzM5oaGnCspsaA8BxGAa3E43gwMSGBCEFf7+2VRy4Zj6cbG2VKCsi+4n9IIJfJGEDJpSUkHi0gOj4uX2NKhGBKlzs7HUhChauqiql6JoHszo4B9G51BW9fLmMhOoOZsTFZ3luDgxjq63Ng2CUunQLyMCWB37u7BtD7ZBJvXjxHPBZDbHpKArDc3G38m7uJS6cn5CtQ6tUqXicSWH6yiKdzcw6U3idCsdiBAbFHBHo2Py+hHt6bdPrEXceE9FJ7CEQJ/Mrn9xRbAXEeMSVVcs6kcy0tOFFXVyy0L88xgcz2tgNFE4g94kwiDMvNHnFSsz9Hq6uNz/sC9TObldZv9DdzVtE+LR3lDsly5gANFIa7if765bP0p/V1x1xOZQ93mflgLAVkv1/KHqVTfmn0m5WzffUDSiCfyyGdShneD8j+tg8S+LC2Jr0fjA5lf9sHuUC0DcF5U5GUaPufdj6jdKAAU6IEvm9uOlYwOhCndIApUYWkdCCe84FLGOUAUwqFCr/enC0KSJ17tL0PJnOumCCBw5TSoQEJQn8AbeClEfSnKbIAAAAASUVORK5CYII=",
     "wiki_name": "Air talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Air_talisman",
     "equipment": null,

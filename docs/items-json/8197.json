@@ -1,7 +1,7 @@
 {
     "id": 8197,
     "name": "Wooden fence",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaElEQVR4XuWWwWrCQBCGsxQRPXjxUGxBRBApCEqhbS6F9lDQk32MvoIP02ddGcM0s39mdTUTDXTguyTZ+T8mQSfL/lc5j1duWM7/fM98IdUKMefH93d+Pu74r9d+G6QKocW0+ye0mkxuIcWvyEyobIh39JLPl69pNev6fNGrK+T8+m10+Bh/d/kRqaoABZMA874sqC2kjzmcwvShEOBQyedzSLXXWVUVYoGXp1IAQxk6E8NECANTgrcfjwGmEzoVvsmrAoipEIJhqZgJYeMUaGoS0wlhmAYKaDQmhEEaeIZ+IM2EMEwDBTQaE8KgGPKM6YQwKAaKmwqNhmlCGHyMRoQwJAaKm04IwzRQAKktNBzEhTAsFTMhbJwC/f/xVkB7kemEMEyDNwApQdC6wrDMRUKDfhYVomsoICUY6iO5UIYqFJLgTiSFYgISTEqsdKGGBLRyqtCpKWAX4wrDNYErSISF4VcXaEvtAaXlP0odyiGRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbklEQVR4XuWWsWoCQRCGb9/AKo3NgZ1VsAsSCFgJFqYREggkuSZFLISk0bfwCXwRn23D5Jjc7H+zuvHm9MCBr7m7nf9j7tDJsusq5/HKBcv57WbmS6lOiDk/uev5+eTGr94GXZAqhRbT/p/QbZ5fQopfkZlQ1RDv6CWfr17T86zvi0XeVMj5r/fx78e43xUHpOoCFEwCzMdTSWMhfczhFKb3pQCHSpYvIfVe/6q6EAu8PlYCGMrQmRgmQhiYErz+fAgwndCx8O+iLoCYCiEYloqZEDZOgaYmMZ0QhmmggEZrQhikgWfoB9JMCMM0UECjNSEMiiHPmE4Ig2KguKnQeJQmhMGHaEUIQ2KguOmEMEwDBZDGQqNhXAjDUjETwsYp0P8fbwW0F5lOCMM0eAOQEgStKwzLnCQ0HGRRIbqGAlKCoT6SE2WoQiEJ7kRSKCYgwaTEShdqSUArpwodmwJ2Ma4wXBM4g0RYGH52ga7UD7+JAEov4eNBAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

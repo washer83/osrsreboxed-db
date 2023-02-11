@@ -1,7 +1,7 @@
 {
     "id": 21803,
     "name": "Revenant cave teleport",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-11-23",
     "duplicate": true,
     "examine": "Teleports you to the Revenant cave in the Wilderness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7klEQVR4Xu3Va0sCQRQG4J1/IgUFBWVBN0wKTMQIIqSiC1FRSIUQUhEFRRDRpyCMqA/Rvb858a68epydVTeXFsQDL+rqzjyemd11nE51qv1L6WoiL6V3Fgb16ea4Lq6PClikSKXPtyf09V5SF5aHXdjxxlglEQCVvi1M6/ujGb2/OOSiDldHKjB0T8YLtKWlUvqumNL5XNwKYvCZwfcMj4XYVaVLJ2krCB2xgWQkxC8BYUo/n2X+DDJR5hIj2J9r2f5mUUq/XM62BKqH4ngI5orHYvVQyj3hYjdRF1R6ffPEBEkUzsOVK8ckpiEIA13lJ0MFAYPgHodxm8SglDvpzcFUUyBOXA+Ec9BxgLbmB4JgUMo9GfchEyP3BEEP7x+V+GEAQcfxXoLMmS2l3EFwMu5DEsTBTRAmfvz88mDM7iC5VE/w7hDE5ZIYGYLw3dP3jwdDELuDVwkyZ/apKkhiuCFlgGHHTAjD5cI9B++X0r1BQOXLHRNIjNwHCNvPTUqUfGTI5cKfw37E58AgDuQ3uETJbtm6xM6iOwStZPqCgbg/eBdlbCgZc+n4W8AJyia6goJQ5hO5NuZ+MpeNmBBBjsNL0hYTKLtKCDGhgRpVM0hC/wVkKxNpg84lu10QnmXlYxGUH7B6LOKqBXaqjeoXrNHSInQa2eMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB70lEQVR4Xu3V7UoCQRQGYOdOvIRuI4IICqIi6INMKCQRIyKkog+ioqQSwoqKIiL6EWHhj0rrwibelVePs7PrbkoL4oEXdXVnHs/M7sZivepV95fSjUReSh+tjenr/Vld3J0WsEiRSt8ezunHk6QubE46sMu9mXoiACr9XFjUrxdL+nR9wkGdb0/VYeiejBtoS1ul9EsxpfO5cSuIwWcG3zM81sGuKl26SltB6IgNJCMhXgkJU7p8k/kzyESZS4xgf+5kR4KilP64X24L5IfieAjm6ovH/VDKOeHuOOELKn1+uWKCJArn4cqVYxLTEoSBHvLzHQUBg+Aeh3EDYlDKmfTpbCEQiBP7gXAOOg7QwepoGAxKOSfjPmRi5J4g6K1SqccLAwg6jvcSZM5sKeUMgpNxH5IgDm6CMPF7terCmN1BcqnB8N0hiMslMTIE4bvy948LQxC7g1cJMmf2qAZIYrghZYBhx0wIw+XCPQfvN9JDYUC1yx0TSIzcBwjbz01KlHxkyOXCn8N+xOfQIA7kNbhEyW7ZusTOojsEbWWGw4G4P3gXZWwoGXPp+FvACcom+sOCUOYTuTnmfjKXjZgOgmIxXpK2mEDZVUKI6RioVQVBEvovIFuZSBt0JTnggPAsqx2LoLyAjWMRVzOwV11UvzG5lKHSgUBJAAAAAElFTkSuQmCC",
     "wiki_name": "Revenant cave teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_cave_teleport",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17261,
     "name": "Karambwan vessel",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-14",
     "duplicate": true,
     "examine": "This Karambwan Vessel is loaded with Karambwanji.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnklEQVR4Xu2V32uSYRTHfdmFKFGEY2OT1VxssQlrgrTC4RLbmCVlKfvZVkmLqItBsIsiKCgGo6irEQV1F130R574PC9nPj69mg71Ynjg8Dyvvp7v5/me876GQv3oRz/c8KR59jQ8eXProuwvX5C9fFyeZUflcWZENq8OSyU1KKW5wV6C+TDku2KiLl/eHJPdhVFZSw9JbuqcJGLhbkPVnHm1UkuFY8Ux3MKp1NgZAzQ3Pt4NqBoMTpDsFU5d45oW0r7ibKzTLtUPqs7Mixtxs7pQmuoSrSskY51yqQbAiZmNnWvDRoR22FAuGNfqEgO+NH3+JC7Vu6EtsE9OAgYQYArlgnEf33EAgBjwWHSgHSjPFNViOqDs3Znh5OoSglwj7rbRBdJZaqF1nnyqXJLfT5Lybeuy2evTYqcNBRADy8qs4JqC6b0u0MxItBUgT76sThoYLRYJh00C5kKpGADMBS51HOjP06QporYr0M+daTkoTfwDpII4hBiiQVAu0Gw8KuGB0P/myDPuBAGRRxtTx0+afQ+JEI80T1IQVBCQOtTEJU9+VWcaApH2PCGmSbsQYrWhGgG1+Nb2geyTu0Dv7yTqgHCBpGXXJ84evwKAcl1SoJbd0bSBotkliWRyJtkf3q/Nkf6rk7SLU9tAduuoBbQ9zE1gQqHKQUlWD+/J2seybHyumH35w10pvb0txdcrUtj3wRQomisYIQQRxh1WQIKAAJ4cirQGQ2wfrcvDr5vy6PuWVH88MADLe3nJP1+Uxd0FyVYzZqhtIIVhJmyHST5XIFxrC8aP+oI4lNmel/n1tKTLKUmVrph3EdYDpDC0wRXzBevrtQnjh1tQHeL9wzAD44o0E7PrBX1/gmgsHJTur7sSrmjPhPvRj9MWfwGNNQvAeBSoEwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoUlEQVR4Xu2VXWsTURCGs/+g97kJ5EIQhBIopZRCikgolmJpoGggYMUUUhNsaTQaDemnrRoMolCQgiKKHxQ/bqqiNyL4s0aes0xz9riJSUl6IRkYztlkM+9z3pndRCKDGMQg3PCkfZ5oePLyxjnZXzkre8WkPM5PyMPcuGxdHpNaZkQql0ZOEsyHIV+XU4F8dn1SGosTsp4dlcLMGUklov2GajrzfLWZCseKY7iFU5nJUwZoOBbrB1QTBidI9gqnrnFNC2lfeT7Ra5eCg6oz8/Ra0qwulKa6ROtK6USvXGoCcGJmY/fKmBGhHTaUC8a1usSAL88OH8eloBvaAvvkJGAAAaZQLhj38R0HAIgBT8SHuoHyTFEtpgPK3p0ZTq4uIcg14m4bXSCdpQ5a58nH2nn59SgtX7cvmL0+LXbaUAAxsKzMCq4pmN7rAs2NxzsB8uTz2rSB0WKxaNQkYC6UigHAXOBSz4F+N9KmiNquQD92Z+VdZeovIBXEIcQQDYNygeaTcYkORf41R55xJwyIPNycOXrS7HtIhHikeZLCoMKA1KE2Lnnysz7XEoi05wkxTdqFEKsN1Qqow7e2D2Sf3AV6cysVAMIFkpZdnTp99AoAynVJgTp2R9MGiueXJZYrmGR/cLc5R/qvTtIuTm0D2a2jFtD2MLeBiURq7yuydnBH1j9UZfNTzeyrb29L5dVNKb9YldK+D6ZA8ULJCCGIMO6wAhIGBPD0KAAdwBA7hxty/8uWPPi2LfXv9wzAyl5Rik+WZKmxKPl6zgy1DaQwzITtMMnnCoRrXcH4ESyIQ7mdBVnYyEq2mpFM5aJ5F2E9QApDG1wxXzBYr0sYP9yC6hDvH4YZGFeknZhdL+z7Y0Rr4bB0f92XcEVPTHgQg/jf4g+b0rWdD2MzrgAAAABJRU5ErkJggg==",
     "wiki_name": "Karambwan vessel (Baited)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Karambwan_vessel#Baited",
     "equipment": null,

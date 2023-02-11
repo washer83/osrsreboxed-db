@@ -1,7 +1,7 @@
 {
     "id": 2935,
     "name": "Purple boots",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": true,
     "examine": "Very stylish!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xs2X20sVURTG5zDMq08++aIQPdRDhS8+FNRDQUFUlpWVXawMigiiKESMLiLdEMQuFCgYYiIlBFFRFPWX7fjtwzdnzT5bOeOZwg0fZ86sPWf95lt7L7dJsvFHzcUVi//zUXPPxo65J6P9XpN3j7iJ24e9BLEwPezmp867uefnIlDhS7QNXgcSFEBSCDP7dMi9njxdSMx3YqGKUKUga25qfKAJik9AJAG9nBh00/dP+Ll8xoCYb6F/Lo+574u31gclIK7ljoDePj7jgTR3NSCe+7E06n6vPHB/Vh55IHLs6OnxCrMHo2673lpAJOWH7ZuimYcncyCuY0CLMxcLQFwLKMwejFqhDCTS4uY78T3pbncg3e/2pXv9tcDWAlp+NVIdkFwSTF/a5w6lBwtQu9KdTc5ZfXxzJQdCpYC0LiwQ90kKDDqa9XsoSYkBDEGZT6wA9P5O+0AkQiQRyNlsKHeHxIAczwY8sKCJfZq9Wj2QTSThQm/amztnXUPEePbL/PUc6NeHezlMaSBBcR830Kls0MPJra3Jltw9K2Lb023+2a/vbkSBwuyrjMZ2tkAj2WUvoHCH8uBAd9Lt3eC7FbHNySb/7LeFm+sFqvcgHLJAKttwdqHJnc6kMwekhFrMuANsCGSbYpg9GPUtHwOSSwApOWsGBzqSDl9GXBKM3AG2UiBBqSmqXFrMOABQ6JzcIVYZkHUphFFSlYy4dWk1h+jSgmkJiB0WAtlSqelRLmBIihPhYle8K+nKXZJDLbrDaAAJSjDqQdpNckeLljmhQwIKS9Y2kO09QGl3aUvLHa0h3AGYeAxIUGH2yKgDhWXjPsnkjt6+/qMNd+xit/HPc9dyIHpQiT5UBLK7TT9upd4kGIDlDvc5O3EOaguIXRYD4h6nRBJwvuGegOxi198u5lYKFJaN+xZIp0lBWWkuQEsvLhWA6EGl+1CsbBaIawtEF1fz5Dkd6plbCVCsbBaImP2vxAIxT4f6CoAYzYs3JgtjFQJxlrZAUgmgJFFbX0shoJVdP5UAtTpCyFZgpcbc/zRCyJjCZzb0+AtqrtzW8x4moQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xs2XS08UQRSFe/5Br2bNmpUblixZ6ca4MC7YsNCFLjTRxAeaUVR8oJJoNFGjBA0DGlRCEDWQDEFQY4wv4t8p+apzem7XFGSGaQ2VnExP3+q5X59bdSmSZPePiosrFv/no+JeT15wsxPDXi+fnnMzj896CWJlfsw15m645TfXI1DhS3QNngEJCiAphFl6NerevbhSSMx3YqGKUB1BVtzcs1oLFJ+ASAJanBlx81MX/Vw+Y0DMt9Ab65Pu5+qjnUEJiGu5I6APs1c9kOZuBcRzv9cm3J8v9U1NeyBy7Onp8QqzByOzXW8tIJLyw/ZN0UL9Ug7EdQxodeFWAYhrAYXZg1EplIFEWtx8J34sPepOpSfdifS4vxbYdkDri+PlAcklwQylQ+5MeroAdSQ93OKc1ef3FqjeGZDWhQXiPkmBQeerwx5KUmIAQ1DmE7NAvz4+6R6IRIgkArlWHc3dITEgtWrNAwua2Nelu+UD2UQSLgymg7lz1jVEjGe/N+7nQBufnucwHQMJivu4gS5XRzyc3DqQ7M/dsyJ2KD3on/3ReBAFCrNvMZrb2QKNV+94AYU7lAcHBpIB7wbfrYjtS/ZmQCsPdwqU9SAcskAq21j1Zos7fUlfDkgJtZhxB9gWINMUw+zByLZ8DEguAaTkrBkc6E16fRlxSTByB9hSgQSlpqhyaTHjAEChc3KHWGlA1qUQRklVMuLWpa0dms5h2gJih4VAtlRqepQLGJLiRLjYFe9P+nOX5FCb7jCaQIISjHqQdpPc0aJlTuiQgMKSdQ1kew9Q2l3a0nJHawh3ACYeAxJUmD0yMqCwbNwnmdzR22c/2nTHLnYb/7Z8LweiB3XQh4pAdrfpx63UmwQDsNzhPmcnzkFdAbHLYkDc45RIAs433BOQXez628XcUoHCsnHfAuk0KSgrzQVo7e3tItBmD+q4D8XKZoG4tkB0cTVPntOhnrmlAMXKZoGI2f9KLBDzdKgvAYjRunhjsjBWIRBnaQskdQCUJGrr2ykEtLLrpxSgdkcI2Q6s1Jz7n0YIGVP4zK4efwHUwsMVmVRD4gAAAABJRU5ErkJggg==",
     "wiki_name": "Purple boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Purple_boots",
     "equipment": null,

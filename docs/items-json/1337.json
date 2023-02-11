@@ -1,7 +1,7 @@
 {
     "id": 1337,
     "name": "Bronze warhammer",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "I don't think it's intended for joinery.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVklEQVR4Xt3VMUsDQRAF4BuWKxSJSEDQQIwRIpriNGBEMChIQC3sLCwsLCws/P/lyNtldjfHkZBiZxcfTHFwsB/vhr2q+l8hDpM9xPNJ308BsACanR34yQjrBjWn+3aUYaufq43BTIc9O0p7tr4dwWDOB2ESorYHSVtXo1EKFFnANiDZq2QgYOTwTSB5JylIADhwfLRnD22D4nbkrkoEQsge9nZj+HFqeDY2PDzc9YAYGreTFPR+V/OyMXw7MXw5qPi4v+MRXbuTEIOQbef+wnBzYiwEIGlJYGqYuB13v7gBCBi5dxQwCPHLdWhn9eCAU8N8PdV+kbsOlmcFDBJ2B4ssoPZbiqG17SiH+POh9oucGYO4ZY4Xuf2GYoh/ngtrB3dPIe0gbpmLaed7WUw7xL+vtf1cBbTjMHIzZ27HYfCpPhaFtCMY/CoytyNR/3NvjkCKwOTIHzJ3Y4jMqy3zAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABW0lEQVR4Xt3VMUsDQRAF4Jt/sNXVBxZCQAhpLEQIhCBBCIppDgmoIAqKEFDBzsLCwkIQ/Lsjb5fZ3RxHQoqdXXwwxcHBfrwb9qrqf4U4TPYQX89HfgqABdDydOgnI6wf1J4c2FGGrX+uLgazmAzsKO3Z5nYEgzkbh0mI2h0kbQ2bJgWKLGAXkOxVMhAwcvg2kLyTFCQAHDg72reHdkFxO3JXJQIhZA97uzL8uDC8nBmeHO55QAyN20kKer+tedUavpkbvhhXfDxqPKJvdxJiELLt3J0bbqfGQgCSlgSmhonbcfeLG4CAkXtHAYMQv1yGdtYPDjg1zNdT7Re572B5VsAgYXewyALqvqUY2tiOcog/H2q/yJkxiFvmeJG7byiG+Oe5sHZw9xTSDuKWuZh2vlfFtEP8+1rbz1VAOw4jN3PmdhwGn+rjvpB2BINfReZ2JOp/7u0RSBGYHPkD09GlIOPEX40AAAAASUVORK5CYII=",
     "wiki_name": "Bronze warhammer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_warhammer",
     "equipment": {

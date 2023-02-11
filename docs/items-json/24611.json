@@ -1,7 +1,7 @@
 {
     "id": 24611,
     "name": "Blighted snare sack",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-04-23",
     "duplicate": false,
     "examine": "Enough power for a Snare, blighted so it can be used only in the Wilderness.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xu2W30uTURzGfa8kCUOSJCXTJMMMf4SZYaZhZmaYZmZmZoSZeWNmIWJYlG2IieUyq7EQkykyJmEjhhIWwa7sojvRiP4Ogyee83Je371uQW1vN+6BL7vZOfvseb7ne05UVEQRbU4p+PsyTQq2xcaK2hoTo9WW6Og/lolQ60CBwIIV1+WkpJgBpeBYQQGO5OXhcG4uDuVk42BWFrIzM3EgI0PUvrQ07E1Nxe6kJOyIj9dgTAKiFPxcXcW3pSV8WViAZ2YGk2MvMPK4Hw/udOFaQwNKi4oE0H+BuVhdLerHygrOlpfjZHExjubnC7f2p6drzjBOk/uHUnDpXA0+eb1wvnqJM2VlOHW8BCWFhSJCxkcoRrYzIcFsKAWtTU0iHsY0MfpcA2JE0iX2E/toT3IydiUm+vWRcccQpOBqfT28s7Pik0BvRp6hrqpKxHb6RKmAYsPTKQnF+OiUPGnGXUOQ6s60w6ECuVwiutrKSs2luekpTNntGBsY8HOJQNvj4sLpkoKWxkb8WlsTMFcu1OHy+VrR2DUVFcKdjx6PBvR6cBCWnh50tbX5AYXRJdWdhfdzAogwdEfG5VtcDApEeD1QmBpcdYg9o3eHcXEWEYiw75xODcja2yuA+AfoIJtdwoRhLqlHnRB0hSCM6vvy8gYgjgL70JBwqPNGq1jHZtcf/xBhqPVhKGHkyfrq8+Hz/Dw+uN1wjY9j3GaDzWJB3+1O3GxuFt9nXKYA6d3RH3V9/9CdJ/f7cLe9XcQl+4dAYYqLUvxgWDzq+tnjfjshBuWo1Yr+7m50XG8RQzEQkHH3f5Ti544RiMPQMTyMp48e4t6tDm1KmwhEKeIiJQTvLhavC3mHyacHYeSElpesiW8i9UlKGDoTCEjCyOksK0z9s1HqpsY3c+CSEKbB6GX8sWBlXBdRRJtavwFsHI88tHe/SwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2W70tTURzGvX+Hbwa+CIRgBBISgiEhYUiSJCZJJpmkSWZmpskyMzPCZb4wVyhmP1yKY7nUtpjij6HZSA0lBhK9Uat/YTzxnMu53l1nUN7bG/fAl73ZOfvseb7ne05SUkIJ7U8p+PuyTAoOpqaKOpCSopUtOfmPZSHUNlA8sN2K6+w2mxVQCi6VluJCcTHOFxXh3JlCnC0oQGF+Pk7n5Yk6mZODE9nZOJaZicNpaRqMRUCUgl9bW/i+vo6vKysIz81hanwMo+5BvHzqwsOWFlSVlwug/wJzp6FB1M/NTdysqcHVigpcLCkRbp3KzdWcYZwW9w+l4O6tRqwtLWF6YgI3qqtx7XIlKsvKRISMj1CM7Eh6utVQCpxtbSIexjQ59k4DYkTSJfYT++h4VhaOZmTE9JFxxz1IwYPmZiwtLIhPAn0YfQtHfb2I7fqVKgHFhqdTEorx0Sl50oy77kGqO7OBgAoUConomurqNJcWZ2cw4/djfHg4xiUCHbLbzXRJQUdrK6LRqIC5f9uBe44m0diNtbXCnS/hsAb0fmQE7r4+uDo7Y4BMdEl1Z+XTogAiDN2RcUVWV3cFIrweyKQGVx1iz+jdYVycRQQi7MfpaQ1oqL9fAPEP0EE2u4QxYS6pR50QdIUgjOrHxsYOII4Cv8cjHOp55BTr2Oz6479HGGp7GEoYebK+RSJYW17G5/l5hIJBBH0++N64MeDqweP2dvF9xmUJkN4d/VHX9w/d8bwYwLOuLhGX7B8CmRQXpcTAsHjU9bNnfmpSDMqxoSEM9vai29khhmI8IOPu/yglxh0jEIdhwOuF9/UrPH/SrU1pC4EoRVykhODdxeJ1Ie8w+fQgjJzQ8pK18E2kPkkJQ2fiAUkYOZ1lmdQ/O6Vuanwzxy8JYRmMXsYf262M6xJKaF/rN6v1BhOSyrsQAAAAAElFTkSuQmCC",
     "wiki_name": "Blighted snare sack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blighted_snare_sack",
     "equipment": null,

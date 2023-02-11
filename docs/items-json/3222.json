@@ -1,7 +1,7 @@
 {
     "id": 3222,
     "name": "Naphtha mix",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": false,
     "examine": "A barrel full of naphtha and sulphur.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4Xu3X70tTYRQHcJ8XEYW0H0qjRuYEDWZMJ7QmtVBk1HLY1OnKX/1AIehFEPiisjIFySiK/uET3+dynnv23Lsbdp+73nTg4GUM72ffc547NjDwv5yWoujuS/k3bN0Zpo2FHL1sXtX96lFe9+uVPJUKF/uBUtSuDVNn7rKG7NRztPcwiEHjunFrKMm0lAYgFYBw/fz+FQ2SkDfta7pxDSjeUx4fTAKlqHJj0IzJTocx++sjpvHabPGSAU2PjrpCKTMSjAGgk3cp+vI+TV8/pOnbxzR9/5ShH4dZ3T8/Z+nXUVYD56dT+oM4B8ndAGg8f4FOD4IgxtRupjQGHyAxEO+GxPEJw/jQGCXAWH6MFyCMrTji7NT5GOyFXFpGMQwgLDFQWHygmtUhqs9kzGPAQUrKYN4+8RdWwsJQSAkopARUYiBuGyVHGDY6pFTInY87tm7MweZ101Fp9Rqdg5R8EBCH2wXdEhWWVq/R4dTlMufipKS60gHm+KmHYphEMSxqdDFTUgHMyYsx/ZdhYWnJfbJHh5RigdaWluhxq2Uwp7tjAZSdVtTogIoFwo0A2lhZpq32Kj3rdAyKYfZu2aNbqNXoXrVKt8tlmimV4oHwiXEzBu2sr+nGNRqvo4HmXm40qFmv04P5OY25W6lozNTkJBUnJuKAUF5KSIJBYRiMdnVxUbeN4a8QuT+xQJwS75EclXwm8dHnZxEvcxjIvssZy08pCsQnjE8XH3f+PnOQDpf3PAKgF0ge+T+B7P/+l9WdUthzSILkAxEgh+lwdadkH/cwkNwfx+lweQvOD0V7bL1ACaQjS5kTd1aQ/Z8clvdbKwrE70k4Hb+8G9g/nYOIvmBk2Tf+J4h+1m/TqZnANNBYxwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4Xu3X70tTYRQHcJ9/oje9GfRCsJxDEBkRLCSGIBJMGjqE1qhGqDBqOZvKdWVqP0iEIBDLyqQSK+oPPPF9Lue5Z8+9u2H3uetNBw5exvB+9j3nuWMDA//LaSmK775UcMP2nTHaXMrTXuuK7tePCrrfrBWoXLzQD5Qirz5GnYVxDdlp5Gn3YRiDxnXz5miaaSkNQCoA4frF/csaJCH73lXduAYU76lMDaaBUlS9PmjGZKfDmIONCdN47XZpyIBymYwrlDIjwRgA+vL2Ip28u0Sn77P07UOWvh9l6cfRiO6fn0bo13FOAxfnhvUHcQ6SuwHQVCFDJ4dhEGPqN4Y1Bh8gNRDvhsTxCcP40BglwFh+jBcgjK004ezUBRjshVxaRjEMICwxUFh8oFq1UWrM58xjwEFKymAOnwQLK2FRKKQEFFICKjUQt42SI4waHVIq5s8nHVs35uPTa6bj0uo1OgcpBSAgjreLuiUqKq1eo8Opy+fOJUlJdaUDzOdnPophEsWwuNElTEmFMF9fTuq/DItKS+6TPTqklAjkrazQ43bbYE5fTYZQdlpxowMqEQg3AmhzbZW2vHV63ukYFMPs3bJHt1Sv071ajW5VKjRfLicD4RPjZgza2fB04xqN19FAc682m9RqNOjB4oLG3K1WNWZ2ZoZK09NJQCg/JSTBoCgMRru+vKzbxvBXiNyfRCBOifdIjko+k/jo87OIlzkKZN/ljBWkFAfiE8ani487f585SIfLfx4B0Askj/yfQPZ//8vqTinqOSRB8oEIkMN0uLpTso97FEjuj+N0uPwF54eiPbZeoBTSkaXMiTsryP5PDsv/rRUH4veknE5Q/g3sn85hRF8wsuwb/xNEP+s3PLxkYP282xIAAAAASUVORK5CYII=",
     "wiki_name": "Naphtha mix (Sulphur)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Naphtha_mix#Sulphur",
     "equipment": null,

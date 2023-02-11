@@ -1,7 +1,7 @@
 {
     "id": 671,
     "name": "Animal skull",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-08-22",
     "duplicate": false,
     "examine": "A carefully-kept-safe skull sample.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xu2U70sTARzGvRe96E0gC6Uis0UDM3QKqWCTgRD9EEx8YSJmKwP7QcNkjIUzs1o5TM25NMZslWxSa7KarjGTTcUVEf1JT32/x13XSnpztw3aAw93u7txn3u+P0pKivp/JSD7Sh4l4ELjHhQQlIDbp0sZyFhZWQhQAkY79uKSqWBSEuCxHIWrW48zRl2+oQQ4OioY5n7XYblseSydAO8Vwx9A2U/lSD+bue0gxnv07IneI1oA/av+dF/0Hdst2NorGEQJoyKQAJNht/zC7HvkfksPhu1W9ohjEEPWAVy72geLeZ8W6ZAEONt10JftUoCJILbB63Ddc+DBXTvGnDY+2oduclLkv3+IKhLg7irDbG85Bk7tR1u9DhdbymE9ewCTj0cx4RqB+6FTNv2WrulKxQWpMpi4V8jDnYe4P6QpWlr0IxwKIPouyOcBnwcLz5+yvdOPMO0eg/VGP1rNJvWhlH4xZUNy2YfU2irS6wmYm5vR0tSEkw0N7GBgnuHmZsbZ1F+d58+pC/VrYgQkws9EoNhLZLZSaDWZZKh4LMKpUUqv/LNyYlTey33d6kKJEoE+Rf0MtJUI4WtmU4ZKxqP4EAnJQJSWZP/cFE+iJlDk9MprBvq8HsH37Y/4sp3GRiqJlfdhvAkucNkIgsAa6+pk039VXwlS+ciZtTC+bcYYTIJafrvIKXkmXdzgdH7CWMvWKCVRSrCNeJBNgARFKR2vqsIxgwE+7xN2fU0N7y9NUlJKAktG5rnhqZwERSuhtrqak5Emj5YoLVbNUvpdYlqrSzPyJNLkEQz1FjU3lVBKSNOUJCnLuJNzBqOU9NKdnP18UUUVlWv9AFNqGHZxB8BJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdUlEQVR4Xu2U3UtTARjGPf9E1153NQYhEkEhEaMYSJKoCKlgQ4YX0YeYeGEiZivDvoYytphprTbmcs6x2RybrTmn+2LTzaL/5Kn3PZzTcSXdnLMN2gMPOzsfO78970dLS1P/rwRUn6mjBDwcPIsGghKwdEfHQLrW1kaAErAycQ6PTQ2TkgC/5Rpc0wbc7dXXG0qAY6KDYd5NXZHLVsfSCQg8Nf4BVH1XjfSrmccuwT1jYHtnr2oB9K/603XRb2yvYRvvYBAljIpAAkxG+jHppSevkectM3DarexlxyKWrAt4/mwOFvN5LdIhCXCO62FoO6MAE0Fsiy/gWnXg/Vs7Vp02/rQvveKkyH//I6pIgGeqDRuz7Vi4fQFj/Xo8GmmH9d5FrLlX4P2wDI/LKZu+S+f0OnFBqgwm7hWyc/Iy94c0RTvRMBLxCFJfY3wcCfmxFfzEDvg+wudZhfXlPEbNJvWhlP7ssyG/G0Ixf4BSIQvz8DBGhoZwa2CAHYsEGW5z3c2m/pp8cF9dqN8TIyCbCIhA6W1UjooYNZlkqEw6yalRStvhDTkxKu+TuWl1oUSJQIVUmIGOsnF8qxzKULlMCnvJuAxEaUkOb/p4EjWBIpf2owxUKSTxo5zBcbmEUjGH/b0EvsS2uGwEQWCDfX2y6VnVV4JUPnI5n8D3wzSDSVC7iSin5F9zcYPT8c3eHrZGKYlSgpUyMTYBEhSldKOzE9eNRoQCXnZ/dzfvL01SUkoCyyWD3PBUToKildDT1cXJSJNHS5QWq2YpnZSY1sHOujyJNHkEQ71FzU0llBLSNCVJyjKe5prBKCW99DRX399UU03VWj8BKB1ehmySWdgAAAAASUVORK5CYII=",
     "wiki_name": "Animal skull",
     "wiki_url": "https://oldschool.runescape.wiki/w/Animal_skull",
     "equipment": null,

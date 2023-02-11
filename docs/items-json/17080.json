@@ -1,7 +1,7 @@
 {
     "id": 17080,
     "name": "Crystal",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-07",
     "duplicate": true,
     "examine": "A yellow crystal that's meant to power the Watchtower in Yanille.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtklEQVR4Xt3TzUrDQBQF4A5Nk/gUFp/AjRtBcCEiKFhFhC5ciKgoIhVd6UIEFyIouBAX6guI7xg9GW4yuTOT30mKHjg0hDLzde601/s/EZG5U4mIdje9uCtL/UxbBvLFZQljAvE6RInoaG+g9ekuiHsz8aOdDS/p4kLfWKwzPxw2RZkxas8Py4EIxXeoEDMGAOrpvvzEe2DwTCPimIaoLEZFqJCzA4lBt9ezIOp4lJ4aja3G6ISGIIgJQyBsakKhozX+z6sUEV2e+JkSBhCO4SCOAgZV31VEZUGvD2FyKiYMgWwoDqoxuhQEzNtjmIuxgQilYuZm5cgqYJAUBAyBOMIG4igHIESivj9nYhAH8BLIhLqeyJMCxgkIfbkPNEQeiE749koWz05BH89hdHHsJ80DoSrIhHEO4l1d9pJi4yIQ361E0kWLQCqmRRCSnlJZ0Hhr0A3o692OsoEcXmhKcxCdVMMLTakGAqYMiO9SMXLxOiC1DkGI+P21gQYxgeiudAKyofjp/AmQgwvNYx8bB+G7vI4xFKFhUMKoIAKo5as5io5SQS2eRl70kbQ8muLwcXQwmunmB9Xy29EMtgD7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuUlEQVR4Xt3UzUrDQBQF4M5WKERosdCAfQTXgu/gRhBBcKGoSBFUSsUqojtB6MKFLgQRURcK6lJ8t5GTcJPJnZn8Tlr0wKEhlJmPudM2Gv8nQpo7lQjZ3/aCrq82E60ZyBcPSxgTiNchSsjhQUvr83036N14Tu5teVFXlpvGYp2FXq8qyoxRezZs5wIRiu9QIGYMANTRUfiJ98DgmUbEMRVRSYyKUCGngxCD7m4mQdTRYFYbW4nRCQ1BEBOGQNjUhEIP+x77URSKkBcn7UQJAwjHcBBHAYOq7wqikqC3Rz86FROGQDYUB5UYXQwC5v3JT8XYQIRSMUuLM2X+AmIQMATiCBuIoxyAkBD18zUfgDiAl0Am1M11J8I4AaGvD10NkQaiE74dd4Li2Sno48WX58ftqGkgVAWZMM5BvBtrXlRsnAXiu+VIfLGzQCqmRhASn1Je0P5OazKg7087ygZyeKEp1UF0UhUvNKUYCJg8IL5LwYSoMiC1DkGIkFeXHQ1iAtFdmQjIhuKn8ydADi40j31sHITv8jrGUISGQQmjggiglq/mKDpKBdV4GmnRR1LzaLLDxzGB0Uw3vxppR6AwdTdoAAAAAElFTkSuQmCC",
     "wiki_name": "Crystal (Watchtower) (Yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_(Watchtower)#Yellow",
     "equipment": null,

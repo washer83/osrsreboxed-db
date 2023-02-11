@@ -1,7 +1,7 @@
 {
     "id": 11957,
     "name": "Extended antifire(1)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-03-27",
     "duplicate": false,
     "examine": "1 dose of extended anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xt2X309SYRjHfa/qolqtWnMk4ZoK/gQUUUBFEQUR5UeEgiAYGoYhyg/FbrtoddPW2tpaF61ZF23Kumhr66KL1tb6o77xvkcOHOnGdnhpPdtnbGfsnM++z/O+5z0tLf9HEUhpahGsL99GwKWE3dIKfe+VZksRvH9hwbvnZsZOQoOwt72ZUkSUefNsBOl4F5YWbjEhrUrFW0qYmYrQ6ydGpKKdrH1NmCcC94IfXm9QTOflYwOSKx3wOdowPGyGyTzJU4ogFFqtY97th33GjQnrDLRaA8/WlVfXRpKxsbEpMufywjY9B4PBhI5ODV+hzE5WJJ3OIJVKw+FcxKjJiu6eASgUwixxEqJFcHj4AaXSJxwfl3B0VGLt0umGxaGmMlyF4mvr2Nvbx8HBIwZt1+DgSDNkaBFsbaVRLBZPOBDnh3OrKkVYOoz9IoO2zGgcg1rTx3PJ0yJIJlMoFPYkVIa6p1fLMyWC5VAUuVwe+XyBQWWWliNwzfswNm5D/8Ag1OpeXikRbD7YkghRqOTiYgDWyVno9Ua29DmkRBAOx7C7m2VCtdDrPn8QNpuTDTanlMrpbKaQzeYlUKGVSAyBQAgzs+XBHhln+1GDUyKIROLY3t4pS+ROqEpFo2sIBsNwznlgtkxhaGgUff16dHV1Nyolwt5XtF2UqpTA6uo9Ntj0FDA+YRdT0nT3NyIlwhKgG2FFqBYqFIsn2GB7PHcxOeVgx48GpkSQSNyXvFApEzdeSaCD7fcvYdruYsufbpL0GCJzSsLKoks9k9mtkzgLMqVE6m78t8iUknxClH8iJfWlGFrPW8SEZEnpjuqnhIDqlwSv8hvcNz/DofiI6da3MF1/Ct3VAjouhnDtnE5OmUoJp0Cf8jv8yh+MWjl63d32BU7FkSjTfsFz0iLZZYQSblj55iISMfq70PaVyfRdflgnIrtMbVUfUJU7DReRP1Xtg09z+r9nrd9wcd3hVigghgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACu0lEQVR4Xt2X22sTQRjFO/+HSB8EQV9S+lJp2mSbtEmbS5umbtImaTdJmzQXc2nuTRTBogiiIqjguw8+VEWbFpEiooggIvoPHXdm3U1205fKdiJ+cAgMYffH+c58Mzsy8n8UgV5DLYKHex7cbDhQTk8iJlqGDUXwqZvGxzcppmcPArjdcQ0Timgwx6+SeHpvCbdaswzIMjrKG0rJjAr0fj+Bx3f9rH1DyBNBLJaAJG1q7hy9kPDojhfXqwI8nkX4F4M8oQjS6eyAorE4QuEYloNhzM4t8GwdQaFYYioWy5oiEQmiGMHCgh+TVhtfoHq9oalaq6NSqWJ1bR0+fxB2uxOWsXGeQLQI9l++Rrd7hIODQ7w96LJ2zbk8WqgpDFegfL6A3d02Op0OE22X2+0bBgwtIrephna7w6QC0fxwbpVahLnD1FZEW+bxLmF6eobnlqdFUCrtoNXa1UkNtSBwndYEqVQGzWZLB7Mlr0WiEgIBEU6nG1NTAi+XCMrlygAQhVzfSCIoD0WX28u2PgeX5Am9nUOj0WRA/aLrUnwLV8U1FmxOLvXcMWpbBkom0wjLwfb6AmwenbFLBJlMDjV5KlOHjC5lsnlsbm5jLbKBxaUVzM/74HC4YLXaz8olws4rFcaobPYaCza9BQSWQ5pLNrtyHTHZJcIcoIPQCKIqlyuwYG9IcrBXVtn14wxdkk/3Qkl3oFLlrrzTiQY7ntiCGIqy7U+HJL2GmOySsrNomGsnQJxGJrlEBh78tzLJJfOAqP4Jl7yX9jBxPqE5ZIpLrZmfOrVnfunUEL5hZ/ozCtZjZCYOIY0/h2h5gvmLNzB2TjQTRi3lFtgQvqMp/GDqh6PrFdsXlKwfNBjnhfqfFpkOo5TyQPWbi+jA6G/V9pXBLF++PwBiOkx/9V7QgzOKC8hJ1f9io4z/PW39Bj4oKqhaZB2LAAAAAElFTkSuQmCC",
     "wiki_name": "Extended antifire (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Extended_antifire#1_dose",
     "equipment": null,

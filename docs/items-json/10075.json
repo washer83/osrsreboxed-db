@@ -1,7 +1,7 @@
 {
     "id": 10075,
     "name": "Gloves of silence",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "Made from dark kebbit fur, these are perfect for tasks of a stealthier nature.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYElEQVR4Xu2VUWsCMRCEzZMoxSJKpUqtFvre///nUvbSaTaTbDQtiS83MJyQO/e72U1usZg1S+R89MPl/Pvp5D/O58kPhnP+7XicrKFSuKGKQIDSlvWvy2UkVApkQfFTHeX86+EwmcG0B0JFIG0GGggVgF72+8QMiFkaME8ugylBDRruCLPbbjMDalA6dRj4H+m0nqzOP282k5/W69/fbAFuBAogcqp+Xq8/ULccnhMQXBkElpQagMIOsQ40WNYwnHhjPA+gkgF1J1C6O6wzBBA8rIAKhWwopHgXEBfRYICRNUSPAUWBWMT51XKZgTQD6T6XwOTKA2rvmgBVMqDS+zOVh1FDIR1eawXKEzVV7j3SQGoMFVvH4t1Yam9V9lvpVjKQbh3/I4qz+b6KbChJqwbV8QuexwzQ2pw1tqNNHHEoEtNjKHu4uytC6bS6pnNbKVTDYddTf97K/ZTP2Kwx+gaUROhPAvvhrAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZElEQVR4Xu2VwWrDMBBEo+/IxZBDIVAwhVBCCaSEEgr9/99RWatTrUZaJWqRcvHA4IDs7PPsSt5sVq0SOR/9cDn/cT77z8tl8YPhnH8/nRZrqBRuqCIQoLRlfZ6mkVApkAXFT3WU82/H42IG0x4IFYG0GWggVAB6PRwSMyBmacA8uQymBDVouCPMyzxnBtSgdOow8D/SaT1ZnX/e7xc/7Xa/v9kC3AgUQORU/bpef6BuOTwnILgyCCwpNQCFHWIdaLCsYTjxxngeQCUD6k6gdHdYZwggeFgBFQrZUEjxLiAuosEAI2uIHgOKArGI89N2m4E0A+k+l8DkygNq75oAVTKg0vszlYdRQyEdXmsFyhM1Ve490kBqDBVbx+LdWGpvVfZb6VYykG4d/yOKs/m+imwoSasG1fELnscM0NqcNbajTRxxKBLTYyh7uLsrQum0uqZzWylUw2HXU3/eyv2Uz9iqMfoGpxpJ7appp18AAAAASUVORK5CYII=",
     "wiki_name": "Gloves of silence",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gloves_of_silence",
     "equipment": {

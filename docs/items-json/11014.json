@@ -1,7 +1,7 @@
 {
     "id": 11014,
     "name": "Beacon ring",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-03-27",
     "duplicate": false,
     "examine": "A magical ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwUlEQVR4Xu2WT0hUURTG5xLD4z0er10LF+ZGNy0MNxEUuEhCgoQBwZACoSCJggEhkYlcjIUoCEMiBcJAoYEwFFQUQlGBzGIoahEELcSFIAgugsDVab5zuL4/M6PXN48ImQ8ujsybe3/3O/9eKtVSSy39l1LUeP0ThQ+dv2fvrQ9Fh14+cujZtPwffTa6U5PyAR5P2nzo2ycOr09PHdp479Gvdy79fOPSj1culZ+7/N3yrMCd6zmWJJSiubs2r+IDgSkVBAau4PDvLwQGYNtrHu2UPdr67O2BwrnRoXQSbil2ZGbMYiDAaCjcfmXOqRMaxTC/Kx7tfjvOgIACPPZqwi2BeZi1KH9HgPA5evjpjo6apb/b/OjRny8CB6jXCw6NZMQpec5Yil2AM2MjFuVuyt/GALUKggEIYAgrnO3uOpRLimMOd24Pp+nGYDp0q0YAjRQEQ/iQ9Njbc1OmUIpvgTBlLqTpcq/cJg5MWAIEl1AUne0CZLCn5A7cOdOdFIyW4lxCq9DJbbCv4uq5cinsTvSpeFLcItAqcOm2E0ZhUxznxbx02+Tc0fKrVwMdsL/ihobE7jl1qGowULh6DS+suNOur3pc7ifbjGw1kBQLRsnkLYv6zxung1SD7rBIPr9E44LJb5EGcAf52XfWGAhS3MjgFMKHTdCP4rV9mYUYOdgH1Qsgw3AF5UNhBMCt8esWDV4MDsmDF5IXeVOYsPn32WvGuVNPYSjkFRobBiXsx2E44OqAdHTcHskKN5AvaICA0VWFnIw5y4ISKMwj5JV+pUBr+FpyqbIifQXNDqB4LcEQRZUCCuC5KnRwMMd0Jyg/0fFqUZqq3jxns2MAw+eZUYvWlsS9fDU0aK5wBzAIVxCkSRitcG4Uq4cs37cZRnff+axNq4sOw0WfTxDEV/iGtQlcDyBhV/ZX9MDoij7f0pHWX4l/rDgaTF99AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuklEQVR4Xu2WS2sTURiGc/6Bq2xmMzCLgQHBnauuxJ24ctNFN4LowoUiIgqFgiIKBcWiQiioBAvxQqUUq6KEYqWE4o16o4VSBRERERERcfGZ53xM55LEniaDiOSFQ1MyOec573ebUqmvvvr6J2Wk8/oryh46U/XX1st6IAu3A5m9qf/nn83v1KMSgLsTvj302b3ArtezgXx+EcnH56F8eBrK+8ehLD8K7XdztxRu79CmIqGMTF3y7apfV5jGtMLgCoe/W1AYwL4tRfJ9OZKvb6I1UJwbO14uwi1jHZkc9ywQMDEUt5+fCtqExliYHyuR/Hq72QICBTx79eCWwtyoeFK7qEB8zh++xfdbVvzdl1eR/FxVOKCe3AlkdFid0uecZawLODM+6kn1nP7tDNCqNBhAgBFWnB3cuSGXjI057lw4WZazI+XMrToBdFIajPCR9OwdhSVXKGNvQZiGD5Tl6H69TTcwWSkQLlEUO7YpkMOemju4s3uwKJhYxuYSrSJObod9ja2eE0ey7uSf6k7GtghaBZce2OoUNmPjfL+msS/OnVhJ9cZA6+xvbEMjsYd2bagaHJStXscLG9tpPy1Gtty3DzjZ6iAtFkbJxHlPDu9zTgethrjDknxJiXYLpr8lDXCH/Dy4xxkIGdvIcIrwsQn9qLu2r7OQkcM+VC9AjuFKK4FiBODW5TOejBxKD8n1F8lL3kxf8e3vK6edc6edslDkFY2NQYn9HMYBp45pR+f2JCtukC80QGDiqiInu5xlaSkU84i8il8paA2rjVBW5rWv0OwA5bWEIUqVAgV4tQmdHsxdupNWkui8WjSuNW/erBYcA4zPk2OeLD1U92rN0NBccQcYwpUG6REmVjY36s1D5q76FibuvjMVXxYfBBYu/3yBIImyN2xN4HYABbvyZ+UPzK/883391/oNTy7zEsLVB5QAAAAASUVORK5CYII=",
     "wiki_name": "Beacon ring",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beacon_ring",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 27326,
     "name": "Silk dressing (1)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-08-24",
     "duplicate": true,
     "examine": "Restores a large amount of health over time.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLklEQVR4Xs3Wi0sUURQG8N1ExBDDkgIj0WyRxagEUQPRooyMoOyhoaG9w5AgkkSksBLphSD2oELBEBMpI4iKoqi/7MR3l288c7xru+4UXviY3Zk73N/c10wstvZLXPzxXf/nJS6Ph0/Kw6F2l7HB4zI6cMyFiNmJ8zIz3ivTT3o8KPsQOcNTIKIAYixm6tFZeTHWFWoY/3HNJozKChmX8dunlqFwBIQh6NnoGZkY6XB1cfSBUF+jfywMy7e5m6tDEYTf7B2CXj3odiDWTQfCfd/nh+TX4l35vXjfgdDGnooKF9u6Kalu51MThEZ9oMl7nQEIv32guckLIRB+E2RbNyUeGgY0xMmN/xaExoHg8KYDLTy/HB2IvYRzPhDnBUHoNQt6//JKAEKyAnFeWBAatyDUH+zvl5EBTtDU/Rb04fXVMOjtrdxBOA8QUajbdaLd5VJ3t/T19sq5zs4ApkEfp/qiBSEYSgs6cvCAHG1tdcf2tjaXw/v3SXNjYwBD3c8z/QHo57s7ASZrkEbhSS2oobZWmurrXfbW1QXHncmkbC8vl82lpa7elzfXvSDbepqSejJM0JVAnNC7a2qkuqrKIXBMVFbKtrIy2VBc7FA4j3qrBKX2IPTQ30Coe6ilxQ0XegUIZFNJiRQWFEhxUUwSWwulNlEUAulN0bZuSmrJ+0AIe47hnEEAw3ARQ9CWknzZVbk+OhBRuLYxb500JavdqtIYHUxmDFl+Xl4I/3X2Ru4gonC+p+O0C5c5AlxDYscyFIJ7MMQY2vmnFwMQdmliMgJhhWmQxjDNNUmH0fFhOOfw2tA9lGHvoCyBuIIwTOx2QGwI0sNDDHoHILw2IgXppIPxmn6xEoRdWoOIsq17Sgqkh41PbWEIhw9BHfstBBA+Oz5NXwtA2IOy2IfCIL3a9JBYGHvHgtA7OYOwynwgnOMTaxyDfQogvuk5XJGB7GrDeYLQIL8mEWIIYl2AsOQ1CHtQ1vuQb9g0CL9XAun5EwnIN2wahGv6s0SDUE/PnxxBKMvnhy8ao2NB2BQ1iMkCFItxW18pFqij508koEyLRWaCZZbq/qdikb7Ye9Z0+QPTLUPDmv2CYAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs3W20sUURwH8N3nIHzyxZeFIEEIlkCiByGx2EofEqQIQTK7QFZkZERZqKGh3TEMSlIsvBRWImYXBcW0G5GZ9O/88nuW7/ibn2dt193CA19md+YM5zPnNhOJbPwSFX981/95icqr/msy0tfk8qL3igz3XHYhYmbslkyPdsrU6w4Pyj5E1vAkiCiAGIuZfHlD3j5vCzWM/7hmE0ZlhIzK6NPmVSgcAWEImhi+LmMDLa4ujj4Q6mv00ny//Jx9vD4UQfjN3iHo/Ui7A7FuKhDu+zXXJ7+/DC5nyIHQRjwWc7Gtm5Lsdj41QWjUBxofbA1A+O0DzY7fDoHwmyDbuinR0DCgIU5u/LcgNA4EhzcVaH7iXu5A7CWc84E4LwhCr1nQ53caNJgZiPPCgtC4BaF+b3e3DPRwgibvt6CvH+6HQIsfn2QPwnmAiELdtqtNLnfb26Wrs1NutrYGMA36NtmVWxCCobSgi+fOyqWGBndsamx0uXDmtJyqqwtgqPtjujsALX16FmAyBmkUntSCjlZXy8naWpfjNTXB8WBlpewrK5MdxcWu3sL0Qy/Itp6iJJ8ME3QtECf04aoqOVBe7hA4ViQSUlpSItuKihwK51FvnaDkHoQe+hsIdc/X17vhQq8AgWyPxyVWUCBFhRGp2BWT6orCMEhtirZ1U5JL3gdC2HMM5wwCGIaLGIJ2xvPlUGJL7kBE4drWzZvk2N49blVpjA4mM4YsPy8vhF+YeZQ9iCic72hpduEyR4A7srt0FQrBPRhiDO3cmzsKNBRg0gJhhWmQxjAn9iccRseH4ZzDa0P3UJq9g7IC4grCMLHbAbEhSA8PMegdgPDayClIJxWM1/SLlSDs0hpElG3dU5IgPWx8agtDOHwI6thvIYDw2fF96kEAwh6UwT4UBunVpofEwtg7FoTeyRqEVeYD4RyfWOMY7FMA8U3P4coZyK42nCcIDfJrEiGGINYFCEs+BFregzLeh3zDpkH4vRZIz5+cgHzDpkG4pj9LNAj19PzJEoSyen74ojE6FoRNUYOYDECRCLf1tWKBOnr+5ASUbrHIdLDMSt3/VCzSF3vPhi5/AIQrNwBqPFkrAAAAAElFTkSuQmCC",
     "wiki_name": "Silk dressing (1 use)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silk_dressing#1_use",
     "equipment": null,

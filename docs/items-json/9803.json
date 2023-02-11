@@ -1,7 +1,7 @@
 {
     "id": 9803,
     "name": "Cooking hood",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "Cooking skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNklEQVR4Xt3VDUvCQBgHcA8J2RiKTAyNLBWTTNSiLElNKaE37IWEoO//OZ76nz3tNqeu7ZbQwQPZ3Pnb/7m7JRL/awhyamPDQTSyJ1TPtKmaPtoUStBV8YF6hQl1t0fUyfV+UOV0/a9Rgia7r3S980T9wq0EneYH1LK7EoWU/hAl6LY0kwUQpwQQUlJR+G5nfz9ulKD7vXcJQkoAISVuHcPQuqJZijulOWZa/qBJ7o3GuWca2o/Ut+/oIvsFyozpJDOQhaS4bTGmJAJh2umeTAptyxvFuFIKjuFC63atSlwpzUHrME2r60KhdXYqrzulxXSWYdRiFBa4mbR0osTSVh2kOtQyLujYGNCpMV6K0ngMOOkwBpC9rTpVU01qpM5cINS5OfGFaTosnXQAySULtJ0sLYBUDNelOcerKA0pCTlpxWxQJmkHBgGDGlpTWbiGNjPK+ysBh5BtwtPVzNZakDcdFYS/VVDIlIScBLsIqKAgxqggFNZfZBBvcaCWgXhBr8KMrBcJwjyH1nHYtjkgPFlYEDCckAoKkdJqEM4gP5CaTCwg3rphQMB4QZhLK2hnq7IWxBAviOfSDuL1w6We1upaUkE8V4SdJlwxA+RtFxd/9nuN3FgzedLzbmVMZBCngx9fVQzjAkxDuzDcIG4VyotA8TW/67xTI+wwDDcIrw/877flN4dWEPc/SOH7vJCRDl7SEUAYwgUqGbXvJw86/O+PAMJwt8B5+qAj6v0+Y7EVvxth7v8E/coiL1B2FEAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPElEQVR4Xt3V70vCQBgHcO8/8JVvfDPYi4EgyEBEREhEQowwDMXCyMSU0kjo9w8Qgv7tp75nT7vNqXO7JXTwQDZ3fvZ97m6JxP8agpza2XAQrVyPmtkuNTLHu0IJui4/0rA0o35xQif54S9qP9P8a5SgWeWdbvZeaFS6k6Czwpg6dl+ikNIfogTdVeeyAOKUAEJKKgrfzRlG3ChBD7UPCUJKACElbh3D0LqyWY07pQXmef+TZvk5TfOvdGU/0ci+p0HuG5SdUi87loWkuG0xpiQCYbqZoUwKbSsY5bhSCo7hQusqVj2ulBagTZi21Xeh0Do7XdCd0nI6qzBqMQoL3ExaOlFiZasO0yfUMQZ0aozpzJiuRGk8Bpx0GANILdWkRrpNrfS5C4S6MGe+ME2HpZMOIPlkiYrJ6hJIxXBdmgu8itKQkpCT1s0WZZN2YBAwqCvrWRauoc2M8v5KwCFkm/B0B2ZnI8ibjgrC3yooZEpCToJdBFRQEGNUEArrLzKItzhQq0C8oNdhJtabBGGeI+s0bNscEJ4sLAgYTkgFhUhpPQhnkB9ITSYWEG/dMCBgvCDMpRW0l6pvBDHEC+K5tIN4/XCpp7W6llQQzxVhpwlXzAB528XFn/1eI7fW4qTn3cqYyCBOBz++rhjGBZiGdmG4QdwqlBeB4mt+13mnRthhGG4QXh/437blN4dWEPc/SOH7vJCRDl7SEUAYwgWqGgc/Tx50+N8fAYThboHz9EFH1Pt9xnIrthth7v8CT27hr/TZFMkAAAAASUVORK5CYII=",
     "wiki_name": "Cooking hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cooking_hood",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 748,
     "name": "Holy force",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-08-20",
     "duplicate": false,
     "examine": "A powerful spell for good.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4Xu3WX2rCQBAGcPOcS3gEm0u06DlKKT1AoVD6XPvnrZTWnkeltr1SyqxMMn47O4m7JgFx4INA1Pn5bQRHo9OcppfJSj+DTVbeX09dHm5mVQYE1iANpgM7Gx+DsK/XwkuH7dkgyuKlcGEMNue3F41sxjDo7yd3CYG0RKCaQZ/PhcvvJq+u8TVa6LMn47ELbjUmq5aEljFms96C8H4oDMKNxmSuVgRhPp6K8nuVu7zPz7zFmLuri/h2JIga0MKY9XILooVNiW6HIr+dhqPjkiAZhCS3g3Vj+PlhkAzi3h4n5e3l+eHawTCGI48Ow5gkEAIwEoT36GhkM9jOHqD926FrvC+fGW4mqZ0uQEntWCD+pYUwTSDcakx7kNWOBopoh2YXpOGwnTYgSkQ7PPVfA0RR+G8GJYRBUGQ79dRv9nESREGIBcI9UWPhtCPFJLdjDeLaoA7ajjXYmgQiphcQDy/UgL1jtJHAwTFHPf+N7TBnFY2cKgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcElEQVR4Xu3WXU7CUBAFYLoTnvrsZrTsA6Pb0BCfjTE+gT8v/rISEaI7qZlLph3PnTst99I2MUxykiYF5uPckjAaHeYwvUxW+hlssvJ2duZyd3VeZUBgDdJgOrCz8TEIWz5NvHTYng2ivD8ULozB5vz2opHNGAb9bHKXEEhLBKoZ9HZfuHyv8+oaX6OFPvtoPHbBrcZk1ZLQMsZsvrYgvB8Kg3CjMZmrFUGY10VRrle5y8v8xFuMubk8jW9HgqgBLYxZfW5BtLAp0e1Q5LfTcHRcEiSDkOR2sG4MPz8MkkHc8/y4vL6Y7q8dDGM48ugwjEkCIQAjQXiPjkY2g+3sANq9HbrG+/KZ4WaS2ukClNSOBeJfWgjTBMKtxrQHWe1ooIh2aP6CNBy20wZEiWiHp/5rgCjKx+OkSgiDoMh26qnf7OMkiIIQC4R7osbCaUeKSW7HGsS1Qe21HWuwNQlETC8gHl6oAXvHaCOBg2P+9fwC68bmrKzVqV8AAAAASUVORK5CYII=",
     "wiki_name": "Holy force",
     "wiki_url": "https://oldschool.runescape.wiki/w/Holy_force",
     "equipment": null,

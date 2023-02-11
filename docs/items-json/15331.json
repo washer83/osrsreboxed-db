@@ -1,7 +1,7 @@
 {
     "id": 15331,
     "name": "Elysian spirit shield",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-16",
     "duplicate": true,
     "examine": "An ethereal shield with an elysian sigil attached to it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4XsWW608TQRTF2XS7iSZ+MkbiA4tiVeKHKoHGYAhay6O2FhokEqQ8EtBCABGrQQIiahuMMUZj/HOvc+50ZrfLI4rjzk1Otpk0M7+5956ZaWmJNBwKj1gMh9qy42QICpME9bchYDJjGiiVSBxjDh0OJYYm6UJ/kVq7M3T6ZvoPofwNXLxXYimYfwa6Olahy4UZ3mF7vkyt6WwoY/uFDeD/AEF2gkDhFY4RzYslnyzzImdSd+lsVz8Dnusd1hDtuSm6Upwj906B3J5hit2WGzCQHT/UZHJChzrLVeoYnScv/9xXoUI/63X6/umjhEnnyO0eagIKz2swHM6C93CB9Wtvj2F+1GoCpihg8pwdt2vANNBhzmoA5eYZBECAOSo7BoAcOt9XoFNtyaYeUgJQ/MFThkGWAPPtw67MTgMmditjNjtwF5r00uAENy6+cF1H6Rnry7ttig9Ms+qbm1Tb2NBlAoxBIIebFmcQN2xxibyRZfJKL8gbXZW/xdiJ/AJ9fb/DAsz2y7UDYcwDCQcxlIJp6OSjCpcKQoZ2Xq1rmFjqvqnsIHwgfFEelCo5viTBhFAmNLXbOyKdJZp593WV3q6sMIxxIDQtQ4iD8PrkGt2YWucvxhgoW2YotjpDSXehbNXFRQYzCoTFAQMA5azO6Td0bWKVx+Cw+OCsLhkcBqHRP29tmewfFb7Fg6c0BCg4DgBYnN2Fg1DYHS77DzAy1KTNEztcPgDocycKmKPDkRCBU9kuTN9jCRS4syzBIBrZYSCZHaswOJc0kJBFGIR80h4EFP5nBCEvW+0o66US14d6WlhvYu4bXA9oYnsw/qMeQnbUmBUYdWdBCkaBRA6jLlYulSiTpawg5D2lnhlwlVUYPC8AhOxY7Jdg7H9yRAnzGytlcWBqn/VWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4XsWWa08TQRSG2R/Qjc3+gUY/G43ERMEbvUgNJkTEChUqlyhSq1iqLYrEaDRq/EpCImIQkGotRg1E/91x3jM7u9sFieKwc5I3u5lsZp4957wz09YWaVgUHjEYFnWOT5MmKEwS1L+GgBkre0BHE4k9zOGFRadvVulkoUTt/aN0uCf3l1D+D3SM3GUpmP8GSpWf0rniI/7Ds8UZas+NhzK2XfgBfA8QZCcIFF5hD9G6WKbynBc50punY30FBjyen/AgzkzUqKv0mOzsVbIz/RRLXdKVHT/UZHJCi7Izryl5Z46c4bKvwjT9bDZps/FZwpy/Qnb6cgtQeF6NYXEWnKF7rF8bGwyz9aUhYAbI7s5xduxUn26gPznLBbo2xSAAAsxu2dEAZNGJ4SId6ky39JASgOK5SYZBlgDz41NdZseFiSV79WYH7kKTnrpR4cbFE65LTj1hffu4RvHB26zmygo1lpe9MgFGI5DFTYs9iBv2eoWckQfkjNXIGa3KdzGWuDVL3+vrLMCsLb7dEUY/kHAQQykYVwcn57hUEDK0/m7Rg4l1acsOwgfCE+VBqdLlZxJMCGVCU9sXBqWzRDPX3y/Rh4UFhtEOhKYFBDbC7upLytZe8RNjDDRQZCi2OkNJd6FsS/PzDKYVCIsDBgDKWdmHbyhz/wWPwWHxfMkrGRwGodG/rq7q7B8VvsWDuzQEKDgOAFic3YWNUNgdLtsHGBlq0taJLS4fALx9JwqY3cOSEIFd2SjMgYtDEihwZhmCQbjZgdzsGIXBvuQBCRmEQcgr7U5A4S8jCHnYeo4yXipxfKirhfEm5r7B8YAmNgfjX+ohZEeNGYFRZxakYBRI5DDqYOVSiTIZygpCnlPqmgFXmYUR1wsAITsG+yUY268cUcL8BsE9sK6dosgLAAAAAElFTkSuQmCC",
     "wiki_name": "Elysian spirit shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elysian_spirit_shield",
     "equipment": null,

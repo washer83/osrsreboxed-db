@@ -153581,18 +153581,6 @@
         "type": "placeholder",
         "duplicate": true
     },
-    "27033": {
-        "id": 27033,
-        "name": "Giants foundry tester",
-        "type": "normal",
-        "duplicate": false
-    },
-    "27034": {
-        "id": 27034,
-        "name": "Giants foundry tester",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "27035": {
         "id": 27035,
         "name": "Flower crown",
@@ -157502,6 +157490,564 @@
     "27696": {
         "id": 27696,
         "name": "Dragon pickaxe (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27697": {
+        "id": 27697,
+        "name": "Crystal body",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27698": {
+        "id": 27698,
+        "name": "Crystal body",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27699": {
+        "id": 27699,
+        "name": "Crystal body (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27700": {
+        "id": 27700,
+        "name": "Crystal body (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27701": {
+        "id": 27701,
+        "name": "Crystal legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27702": {
+        "id": 27702,
+        "name": "Crystal legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27703": {
+        "id": 27703,
+        "name": "Crystal legs (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27704": {
+        "id": 27704,
+        "name": "Crystal legs (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27705": {
+        "id": 27705,
+        "name": "Crystal helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27706": {
+        "id": 27706,
+        "name": "Crystal helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27707": {
+        "id": 27707,
+        "name": "Crystal helm (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27708": {
+        "id": 27708,
+        "name": "Crystal helm (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27709": {
+        "id": 27709,
+        "name": "Crystal body",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27710": {
+        "id": 27710,
+        "name": "Crystal body",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27711": {
+        "id": 27711,
+        "name": "Crystal body (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27712": {
+        "id": 27712,
+        "name": "Crystal body (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27713": {
+        "id": 27713,
+        "name": "Crystal legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27714": {
+        "id": 27714,
+        "name": "Crystal legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27715": {
+        "id": 27715,
+        "name": "Crystal legs (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27716": {
+        "id": 27716,
+        "name": "Crystal legs (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27717": {
+        "id": 27717,
+        "name": "Crystal helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27718": {
+        "id": 27718,
+        "name": "Crystal helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27719": {
+        "id": 27719,
+        "name": "Crystal helm (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27720": {
+        "id": 27720,
+        "name": "Crystal helm (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27721": {
+        "id": 27721,
+        "name": "Crystal body",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27722": {
+        "id": 27722,
+        "name": "Crystal body",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27723": {
+        "id": 27723,
+        "name": "Crystal body (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27724": {
+        "id": 27724,
+        "name": "Crystal body (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27725": {
+        "id": 27725,
+        "name": "Crystal legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27726": {
+        "id": 27726,
+        "name": "Crystal legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27727": {
+        "id": 27727,
+        "name": "Crystal legs (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27728": {
+        "id": 27728,
+        "name": "Crystal legs (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27729": {
+        "id": 27729,
+        "name": "Crystal helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27730": {
+        "id": 27730,
+        "name": "Crystal helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27731": {
+        "id": 27731,
+        "name": "Crystal helm (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27732": {
+        "id": 27732,
+        "name": "Crystal helm (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27733": {
+        "id": 27733,
+        "name": "Crystal body",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27734": {
+        "id": 27734,
+        "name": "Crystal body",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27735": {
+        "id": 27735,
+        "name": "Crystal body (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27736": {
+        "id": 27736,
+        "name": "Crystal body (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27737": {
+        "id": 27737,
+        "name": "Crystal legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27738": {
+        "id": 27738,
+        "name": "Crystal legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27739": {
+        "id": 27739,
+        "name": "Crystal legs (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27740": {
+        "id": 27740,
+        "name": "Crystal legs (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27741": {
+        "id": 27741,
+        "name": "Crystal helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27742": {
+        "id": 27742,
+        "name": "Crystal helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27743": {
+        "id": 27743,
+        "name": "Crystal helm (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27744": {
+        "id": 27744,
+        "name": "Crystal helm (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27745": {
+        "id": 27745,
+        "name": "Crystal body",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27746": {
+        "id": 27746,
+        "name": "Crystal body",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27747": {
+        "id": 27747,
+        "name": "Crystal body (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27748": {
+        "id": 27748,
+        "name": "Crystal body (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27749": {
+        "id": 27749,
+        "name": "Crystal legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27750": {
+        "id": 27750,
+        "name": "Crystal legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27751": {
+        "id": 27751,
+        "name": "Crystal legs (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27752": {
+        "id": 27752,
+        "name": "Crystal legs (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27753": {
+        "id": 27753,
+        "name": "Crystal helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27754": {
+        "id": 27754,
+        "name": "Crystal helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27755": {
+        "id": 27755,
+        "name": "Crystal helm (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27756": {
+        "id": 27756,
+        "name": "Crystal helm (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27757": {
+        "id": 27757,
+        "name": "Crystal body",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27758": {
+        "id": 27758,
+        "name": "Crystal body",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27759": {
+        "id": 27759,
+        "name": "Crystal body (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27760": {
+        "id": 27760,
+        "name": "Crystal body (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27761": {
+        "id": 27761,
+        "name": "Crystal legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27762": {
+        "id": 27762,
+        "name": "Crystal legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27763": {
+        "id": 27763,
+        "name": "Crystal legs (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27764": {
+        "id": 27764,
+        "name": "Crystal legs (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27765": {
+        "id": 27765,
+        "name": "Crystal helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27766": {
+        "id": 27766,
+        "name": "Crystal helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27767": {
+        "id": 27767,
+        "name": "Crystal helm (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27768": {
+        "id": 27768,
+        "name": "Crystal helm (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27769": {
+        "id": 27769,
+        "name": "Crystal body",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27770": {
+        "id": 27770,
+        "name": "Crystal body",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27771": {
+        "id": 27771,
+        "name": "Crystal body (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27772": {
+        "id": 27772,
+        "name": "Crystal body (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27773": {
+        "id": 27773,
+        "name": "Crystal legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27774": {
+        "id": 27774,
+        "name": "Crystal legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27775": {
+        "id": 27775,
+        "name": "Crystal legs (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27776": {
+        "id": 27776,
+        "name": "Crystal legs (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27777": {
+        "id": 27777,
+        "name": "Crystal helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27778": {
+        "id": 27778,
+        "name": "Crystal helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27779": {
+        "id": 27779,
+        "name": "Crystal helm (inactive)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27780": {
+        "id": 27780,
+        "name": "Crystal helm (inactive)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27781": {
+        "id": 27781,
+        "name": "Cabbage",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27782": {
+        "id": 27782,
+        "name": "Cabbage",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27783": {
+        "id": 27783,
+        "name": "Platinum speedrun trophy",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27784": {
+        "id": 27784,
+        "name": "Platinum speedrun trophy",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27785": {
+        "id": 27785,
+        "name": "Thammaron's sceptre (au)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27786": {
+        "id": 27786,
+        "name": "Thammaron's sceptre (au)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "27787": {
+        "id": 27787,
+        "name": "Thammaron's sceptre (au)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27788": {
+        "id": 27788,
+        "name": "Thammaron's sceptre (a)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27789": {
+        "id": 27789,
+        "name": "Thammaron's sceptre (a)",
         "type": "placeholder",
         "duplicate": true
     }

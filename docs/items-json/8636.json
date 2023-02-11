@@ -1,7 +1,7 @@
 {
     "id": 8636,
     "name": "Celestial globe",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOElEQVR4Xu3W70tTURgH8I24XO7LXvYiM6RgBTZF58KljZbTOZprTuePmY2MfmA/RLHCX5UpMtBCJBKEXvR/fuU548jZ2XN2ull7EfeB74vDPdzz4XnOLguFggoqqJZVGK1N0wpj9VUaKy/vY+l5Cq+f3sPik7t4URnEs0cDWCgnUJnpF5kvxVGe6MP0eAylfA+KuW4URrswNnIL2XSnSCZ1E+nkDaQGI0gmrmPg9jUkYh2I91xFb9cVEQsqjA9vhhtQJpiKMsFUlISpKDoz2t5uQoWxuTKK9aUMC5OoZjCJ4mBcp6ygT6vZBpQJ9jtj5DqloqygnbUxbL/PsTCJ0mF90YiIirKNT6KsoL2NfAOq7dJFFkYoehbpuCxA1C2uSzrKF2j/8ziqHwt1MDrU1C16pqJMo5P79C5ZQd++TLAoboQ6SN4pWssxEkju4VBW0K+Kh5/zHk7mPPyY9XA05YmXHBQ9kWrBxW7exXbOxVbWxVrGPTtoecjF21RtTUDK435HpBx3MBVzUOx28DDq4EHnBZFzg/QREejdcC0StJh0xJ6FOzUMhdZ/BDrcnTwbG72ExiYR6iWnNPsU0HP1HtFav9w0NivoaK/UgKKY7hGhOJB+uTkQxTeIu9w6iOuSDuI+ARQr6Ht1ug7FgfQucSCuSzqK4hvEdUkFqb8oih8UxQo63p+pQ3Egrkum0TVDUXyDTF36GyiKFXTydbZlKIoFRKX/xfy3IYwFFArJTa2Kfn5QQf2XdQpw/nYthUdZsAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOElEQVR4Xu3WXUsbQRQG4OQfeLU3e7M/wftelSJeWITQgqgojaFGtCmpsTGNaVgbP2I1GPphP6yoxNbaKkGl2BZB+sveciaMTCZnMt3W5kL2wHsx7LDzcM5kSSQSVlhhdayi6GzaVhTbbzLYev0Imy/TeFt9iI31B3hVmcKL55OolpOoLI2LrJYSKM+PYdGPo1QYhZ8fQXF2GHOPB5HLDIhk03eRSd1BeiqGVLIfk/dvIxnvQ2K0F/eGe0QsqCh23820oEwwFWWCqSgJU1F0ZrfnmVBRfNyaRW0zy8Ikqh1MojgY1ykraH8714Iywf5kjFynVJQV9LU2h4OdPAuTKB02NhQTUVG28UmUFXS0V2hB3brRzcIIRc9ifTcFiLrFdUlHBQIdf/ZR3y82wehQU7fomYoyjU7u07tkBZ1+mWdR3Ah1kLxTtJZjJJDcw6GsoF8VDxerHs5XPPxY9nC24ImXnPieSL3o4rDg4iDv4lPORS3rXh70YdrF+3RjTUDK2rgjUk44WIg78EccPB1y8GSgS+SfQfqICLQz04gEbaQcsac60cBQaP1XoG+Hzy7HRi+hsUmEeskp7T4F9Fy9R7TWLzeNzQo6Oyq1oCime0QoDqRfbg5ECQziLrcO4rqkg7hPAMUK+l5fbEJxIL1LHIjrko6iBAZxXVJB6i+KEgRFsYJ+Hi81oTgQ1yXT6NqhKIFBpi5dBYpiBZ2fLHcMRbGAqPS/mP83hLGAIhG5qVPRzw8rrGtZvwG6WWTgSHyIagAAAABJRU5ErkJggg==",
     "wiki_name": "Celestial globe (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Celestial_globe_(flatpack)",
     "equipment": null,

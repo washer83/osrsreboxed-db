@@ -1,7 +1,7 @@
 {
     "id": 12825,
     "name": "Arcane spirit shield",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-16",
     "duplicate": false,
     "examine": "An ethereal shield with an arcane sigil attached to it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4XsWWX2sTQRTFO2R3v4Kv6YMiFLVBWiq1VGqJREsVKSgBESkVaaFU8cmAQgsNNZZq0+KfkBBE0hDyIrV98rtdOXe4O5NNS7PJmL1wyG423P3l3DM7OzLSUynSclGKHk95tHTL67enosUJj6avpvptYJWBeTLtc7/xdDpuT0XPZn3W5OVBoDSM7Q5g+gJaywWsp7d9yowKVDw9mtQw0AAwUqbxg5seN8e/nLqS4lHOjqVo7lqKsuMe5TLmOv6AuIvjAZ3pLNPEwD2/458pgcjPaAEGmbHdifaPUQJgyobrBQTORMdl94tRikdwI90NJdcvArHlYFyKGyETo5e6gwpFQc6S03G9mNM3m7/ucXgRYoQXNxB3cP304A01q1Vq1Wos2zVH7qD0kn+VDWj5rs+fcgxQAYILhfwYOwH9bjTouHnE1xy6g1K0ei8IQwsICDeD2vU6fw+g2uZLqpfLLADhWuP7N6ru7VF5e9sdEBwSN6IC1N8/x/TrXZY+rmTCIAMCYD8PD+hHqcTnzoDW7+sxwSlbgIQzJ+02nbRaYagxHqxMPECxB8q48Bu9EAYqRa8XA4baWAj4+O1DfQ4ouIE8YTwSZjhSLBQ6YOSZ5SDUqO6lLsKIENyjSiXMFxSFEQgHMLqkqS3cDM+n2v4XOiwWObginH/d2aHK7q6LMfVainMDhxDaz1uboQAFIIdh7qU0ECTPmk8f3rPssTrKzUWl9zBZWbK9YGVhhdkgQ4BBGSD7STxkV6T0/nbePpUIjO1OAo5IGZj/sGnGrU4YBBkhTsgdHVT73SdRmJV5syXItpAoDCRvf4nC4JUDMNjNMSYZXaIwELJjgwwZRqrzNSNBEFO2I8OE+QfMccQUo5+jHAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACj0lEQVR4XsWWT08TURTFeUsXTSaZzJ5voGtZGGOCAQkCBhSQIBIMIRKNgRA1GNy4dG2MK/4EoyU0xYLYlpoU2oWICz7QJec+77w3A4ZO++zc5KQznebOr+eeN286OhoqRVouStHskEdz97xmeyqauevR8K1Msw2sMjBPh33ud62zM2lPRc8f+KyBG61AaRjbHcA0BfR6KmDNj/jU1yVQyfRkQMNALcBImcbT/R43x78cupnhUY52Z2j8doYmez2a6jPX8QfEXRy36Ey0TBMD92LMv1AC8ey+FmCQGdudeP8EJQCmbLhGQOBMfFx2vwSleAQ916+cg5Lrl4HYcjAuxY2Qia6rAhVVHOQiOR3Xwri+2USPx+FFiBFe3EDcwfU/ux/pqFSiWrnMsl1z5A5KL/mXkwEtPvT5U44BKkBw4cPyHXYC+lWt0vHRIV9z6A5K0atHQRhaQEC4GVSvVPh7AB1svqdKocACEK5V9/eplM9T4esXd0BwSNyIC1Cnv4+p9Gme1t4NhkEGBMB+7u3Sj+1tPncGtPxYjwlO2QIknDmp1+mkVgtDjfFgZeIBij1QxoXf6IXQUilamQkY6s10wMdv/54DCm4gTxiPhBmOZFdXIzDyzHIQatT5pS7CiBDcw2IxzBcUhxEIBzC6pKkt3AzPp/K3HdrLZjm4Ipx/39qiYi7nYkyNluLcwCGENv95MxSgAOQwzI2UBoLkWZPbWGfZY3WUm8tK72GysmR7wcrCCrNB2gCDMkD2k7jNrkjp/e1f+1QqMLY7KTgiZWD+w6aZtKIwCDJCnJI7Oqj2u0+qMEsTZkuQbSFVGEje/lKFwSsHYLCbY0wyulRhIGTHBmkzjFT0NSNFEFO2I+2EOQN0bAwxOmVNhQAAAABJRU5ErkJggg==",
     "wiki_name": "Arcane spirit shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Arcane_spirit_shield",
     "equipment": {

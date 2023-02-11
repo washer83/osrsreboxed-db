@@ -1,7 +1,7 @@
 {
     "id": 6591,
     "name": "White dagger",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": false,
     "examine": "A vicious white dagger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xs3VP0sDMRgG8Hsp5bhDurp2dVPBj+CgiIOLCC4igggdCiKCICeUiggK7eQg1EUHwU0Q3MXB2U/RzQ/wSBJySXPX8d43D4Tj/oT8eJNLkqTxEMInQlEQwt1Voa/hW8YYyGQ81hgLWu52JVAG4mMEQfUYcVCIEQLNx0QHshhGUFQYlXpQVBgfFPZoOPWgqKojhFGpgpgx/gFZxTCvG8LDcaYHtC0EsVdnsJdq1OtprgcXxKgQjtbbuN5P8XhiUB+XuRRGhbCx0kJvs437g6xEfRY5vm8WvKlkDWF7rYX+VqpRk16GtzOH+h1ZGFsIq0uLup3vpBgdzqKmT51y+sKeDcRhVFP3xa5D2SljXEsO5KrgtgALYcfMgpKEGWJTrQ4zwE9UGBXC+0WOv2fWP2heSP/SP7dmfxGuDulj4qWf4WvoQOFXzKFyjxGujp+oMCbcmH8xBMO1K+yf8gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xs3VvUoEMRQF4LlvsNU20wSmWLCy9TGsRfAVLBQtbESwERGRLRYRkWVEVETZLQRhBQWxEcFOwc4nsLA8koRMspnZcu7NgTDMT8jHTSbJstZDiJ8IRUMIt+elucZvGWMhk/HYYBxoXikJlIWEGEFQM0YcFGOEQLMxyYEchhGUFEanGZQUJgTFPVpOMyip6ghhdOogZkx4QNYxzOuGcH+oB7IHZxOIvToXO7lBvRwXZnBBjA7hYLWLq90cD0cW9T4spDA6hLWlDvrrXdztqQr1URb4uu4FU8kawuZKB4ON3KAmfYXXE4/6GTkYWwjLiwumnW7lGO1Po34f56rpi3u2EI/RTd+X2x7lpoxxLXmQr4LfAhyEHTMNyjJmiEu9OsyAMElhdAhvZwX+nlj/oFkh80t/39j9Rbg6ZI6J54HC56UHxV8xh6o9Rrg6YZLC2HBj/gHW0foDK1Jk5gAAAABJRU5ErkJggg==",
     "wiki_name": "White dagger (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_dagger#Unpoisoned",
     "equipment": {

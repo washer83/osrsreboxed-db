@@ -1,7 +1,7 @@
 {
     "id": 22373,
     "name": "Bryophyta's essence",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-05-03",
     "duplicate": true,
     "examine": "Ready to infuse a Battlestaff with the power of Nature.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADkklEQVR4Xs3W/0uTQRwH8I0hUsiGOBxu5JfJHE5REb+NNJKwkn7QUlKyFI2VfaGopBBN+iKWFYosKzMlRUykjEAqiqJ+7o+6eN/xud1z3XLTp/Dgw+f5co/38vPc3TOHY/c3JzOH6f4/b072eKSDTQ4f5zFxq52ND7XxIMTKTD9bmupji096DSj9n9gxXIAIBRCFjll4dJo9nzhlGRjnuKeHFZUW0smmbnf+gUIGhIJAs+PdbObOSd4X2QRCfxX9bX2EfVm9sT0UgXBM1SHQy4c9HER9k4Hw3Ne1YfZj4y77uXGfgzBGVWEhD310rYmy039NIAyqgtAPoPi9Ln4P5zg2gVbjAxYQjgmkj641p+U1YCCa3DgnEPpluVyW19AWKObZBFp/FrMPRFXCNYAIMFvbwnPz9B6ee4oismo66N3cOQlCpAWieaGDaDVdb9zHaocy2Yu6w/y8IpbB82CoKino/fx5K+jNzZ2DcC/Q6GJj5VFelYWGo/xa5IwADUVqWeiEONZBHxYu2AtC4J6v2sUmqg6whtFM9jraKiuGvHmwg5X3J0CUMec+Ll2WoO9vxyQmbZCKokHiNYd4VoPAwSyPvNYcFMcAfVq+YgTpoydp4g9iCZtA8/VH5KDH/EELqMydY4FmuB08f165tl2QWLaokAlEq6wpN8Bz1Otnvx7USEB1to9XqS9YlhSkbor66FoTS94EQqigupw8njG4u0AMSkBUaSBYLq/hGdtAhEIAhB0X/So9XgFw5/JMr6wl28+xseIKfo75YxtIrRKyCors9bCYv0RWCtGfF+J50B+WexJAa0/PShB2acKkBMIKM4Hoc4A+vT7xiQCo2SNAowWVEtbk8bFLgVJ+jOrgs6FWKMXqoCVA+jyi3Rd9unKLJGgyKCb0cL54RQSKh+olCJ8N20CEwnX6qLZ78yVoLhzlKKoaojVHrEBCYZdWQYTSRzc0ATK9NhWECiBjriBPh+o4jkCd3gKeZ0saeN5cvChB2IPS2IesIPW1mSpEIAxMxwiq1qvw/p2DsMq2AtEcoomLga8GEj89CLZc2mQfSH9tuA4QLXtMdGTaf+ganqO+uIYlr4KwB6W9D5lemwrCMQanXwHYxWnzxHP0hUdfW0Cm16aCcE/9WaKC0I8+MTaA0ET5twoVo4YOwqaogijSADkctK3/LXSgGvT9QnVsAaXadGQqWIpE3//UdKQp9Gd2dfsNnBEMBkyy2vgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADk0lEQVR4Xs3W70tTURgH8O0/2Cvf+EbohTAYiDBkyGAhQ4ZDlImioPiDpUQGVhJoiRlZisayn+QoUUnNrFTWMpUmpv1C0pLe9bec/J7Dc3bu6cw2vYUHHp7741zPx+eec+4cjpPfnMwcpvv/vDnZq8k+tjBxhcf80142F+/hQYiN5RGWWhxm66+HDCj9nzg2XIAIBRCFjll7eZO9fX7DMjDOcU8PKyonpJMtTvX/gUIGhIJAybnrbPnZNd4X2QRCfxW9vz3J9jbHj4YiEI6pOgR6tzDIQdQ3EwjP/diaYD8/zxzELAdhjKKCAh766FoTZaf/mkAYVAWhH0CJmQF+D+c4NoE2E6MWEI4JpI+uNaflNWAgmtw4JxD6FbpcltfQE6jg2QTaTsbsA1GVcA0gAiSbu3juXMIfdbLB8oismg76tKKCZnID0bzQQbSaxttPs+Z4PltpucDP62J5PI+FGzKCvqzesYC+f3hyfBDuBdpdbLo2yquy3naJX4vcEqB4pJmFr4pjHfR17a69IATu+RpdbL7hLGubymfvo92yYsg75/pY7UgaRBlz7lvqgQTtf5yWmJxBKooGSTSd51kNAocKPfJaZ0gcA7SbemgE6aNnaOIPYgmbQKutF+Wgl/0hC6jGXWyB5rkdPO9uPD4qSCxbVMgEolXWURLgOer1s18vmiSgscjHqzQcqskMUjZFfXStiSVvAiFUUEtxKc8Y3B0UgxIQVRoN1cpreMY2EKEQAGHHRb96j1cA3CU80yvrKvJzbKyijp9j/tgGUquErIIipzws5q+UlUKMlIZ5HvNXyT0JoK03txXQrMRkBcIKM4Hoc4A+Qz7xiQCo0yNAU8F6Cevw+Nj9QDU/RnXw2VArlGV10NIgfR7R7os+AyXlErQQEhN6oky8IgIlwq0ShM+GbSBC4Tp9VHu9ZRK0UhXlKKoaortYrEBCYZdWQYTSRzc0ATK9NhWECiBjriAvhVs4jkD93iDPyco2nnfW70kQ9qAc9iErSH1tpgoRCAPTMYKqtVp15vggrLK/gWgO0cTFwI8C6Z8eBEtVd9gH0l8brgNEyx4THZn2H7qG56gvrmHJW0AHe1DO+5DptakgHGNw+hWAXZw2TzxHX3j0tQVkem0qCPfUnyUqCP3oE2MDCC39pT4sVIwaOgibogqiyAHkcNC2fljoQDXo+4Xq2ALKtunIbLAU6b7/qelIU+jPnOj2G9CP6Pq7fK0HAAAAAElFTkSuQmCC",
     "wiki_name": "Bryophyta's essence",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bryophyta's_essence",
     "equipment": null,

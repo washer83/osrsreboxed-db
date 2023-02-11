@@ -1,7 +1,7 @@
 {
     "id": 26102,
     "name": "Sigil of the forager",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xu2Xb0uTURjGfcis6VgNnDJWKQsLM4bGsAYrGVlmRjassZKVhRQihfQH6Q9S+A1606ve9S4ietEHKKLe9AWCXvRNTv3Ow32es7NHme2xiLzhYjq3c37PdV/3OdjWtlX/T3mqUX+l/M3L5aKanBxVYydyKp8/oIaG+v4kWOBC58c3RrFXz7UKhUNqZGS/Gjy4V/Xt691sME/du3tJLS3NqDu3y6rz3Usf6PWLOuVyWQOUTidVMhnfDChPPbhf0QIq8eOLkbg0e+Wkbt/E6bwGymbTKpPpNkDD/f1RQXlqeblaJ0Di3z/5+vpeA83Pn9VQABWLh3WeAOru3qUSiViULnnq0cPLGoRXFP/2IdDnt0bVaqku4NI6AYrAJU89eTxrQFwYWsjfBahSGWuYOIBwKRbbEYVLng6wSJySLCHee/b0qnHo3NQxVSoNq6Ojg6FALbrkmalCi4sXDAzvIwB5vXVzSmdoerpggJg4wm3nqEUgKhh3BBQBtp3DGdp1cea4CTVnkgAx/hECUZ5enEMPCdTctQkNQpvYeGAgYzLE52ygCMffDzaLCxROAUJ7cITxJitsjsbHj+iW2ecRbYsMaGHhvM4Ir7RIwsqGtAcH+N0WoEDhWoRAfqgROSLQgNEumSg2Ji/A1mqn9GlNy+QKsR1q4RrxL8X29m3aEYFZWanpMefnG9fP6M1pG2A4hSNI8uMC/WawfRDU0bFdC1dWV+cMDKFmxAEhxLhEbmTcAaKtLlBwODbtUiNMV9dOLbk6aB/uyGUq9xaSKQxziHYBxJqs3wTY2jCpX08HABlh1OUQtPNitww4G4jQy1qytuy1DlQ4EDCI1rApT0uoaRcHIW0CADBgCLgN1JPabdZYC2idTPlQYQ6J9mRSWjLeAuIC9fYEIC0AUeFQYXDNygaxYZoEouqhXDB3wzC5mXFhJNTANAFEBWdRmNyNwuR+x3VlAzB++R8O/tOIShsGcct+mqjk7rFV/3z9BKyLY4xxE9ClAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2Xz0tUURiGvbuEqFULaTPgYmCiGhhnEQM2ES4kiSRpIGnAYphIJiwzywZxmJIpCwuxEAv7IeUf0KJNi1ZFQcsiF20j+iNOPOfynXvmzFVG51pEfvByx3HmnMf3e79zsK1tu/6f8lSj/kr5m5fLRTU2NqSGL+RUPn9cDQz0/EmwwIXOrx+MYu9eaxUKJ9Xg4DHVf+KI6jl6aKvBPLW4OKUWFibVo4dl1fnprQ/0/k2dcrleA5TJJFUyGd8KKE89eVzRAirxa9VIXJq+dVG3b/RyXgP19mZUNps2QMlYLCooTy0tVesESPznN1/fP2ug2dmrGgqgYvGUzhNA6fR+lUgAE5lLnnr29KYG4YniP74EWv1oVK2W6gIurROgCFzy1Ivn0wbEhaGF/F6AKpXhhokDCJdisb1RuOTpAIvEKckS4r1XL28bh66Nn1Ol0ml1dqg/FKhFlzwzVWh+/oaB4X0EIM8H98d1hiYmCgaIiSPcdo5aBKKCcUdAEWDbOZyhXVOT502oOZMEiPGPEIjy9OIcekigZu6MahDaxMZ9fVmTIT5nA0U4/n6wWVygcAoQ2oMjjDdZYXM0MnJGt8w+j2hbZEBzc9d1RnjSIgkrG9IeHOBnW4AChWsRAvmhRuSIQANGu2Si2Ji8AFurXdKnNS2TK8R2qIVrxL8U29t3aEcEZnm5psec1/fuXtGb0zbAcApHkOTHBdpksH0QtHvXTi1cWVmZMTCEmhEHhBDjErmRcQeItrpAweHYtEuNMB0de7Tk6qB9uCOXqdxbSKYwzCHaBRBrsn4TYGvDHDwQ1wBkhFGXQ9DOi90y4GwgQi9rydqy1zpQ4UDAIFrDpoe7u3SoaRcHIW0CADBgCLgNlEolzBprAa2TKR8qzCFRtjutJeMtIC5QV2pf3fc2CUSFQ4XBNSsbxIZpEoiqh3LB3A3D5GbGhZFQA9MEEBWcRWFyNwqT+x3XlQ3A+OV/OPhPIyptGMQt+6+JSu4e2/XP1289kwepj6SmkwAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of the forager (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_forager#Un-attuned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 15456,
     "name": "Raw pike",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "I should try cooking this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjElEQVR4Xu2VYUuTURTHvd/Et/qihpQ5sMZIWZIszWYrW42VmVpqmq1sRDKajCQsRyZjjJGU1agRVIREBVHQlzr1u/M+PT6mb9zVXuzAge3Z5Tm/+/+fc9bQUI96bBVKvE/2MJScmTkr/wmUkshURGJ3YxrI19i4l1BKwsNhiSajDoxloO0sUHIs0SW9YydlIHVuN9RRcnSgY4u+UBKMBuX4ULe26/zsBdtAVZhAf+AfhZS097ZLZ6xTekZ7tF2JTGId3GTNQ2mYw6eOeICqBfcF9ktrV6v+HbDRxasymB3USlmYtqodFPOf8G+4ebO/WXxBnxwIHXRg+ib6ZLp4U8aXxp1zNW5u5cCgAsWbDjVpVfjMc9TDUmCylazcez27AcQKjFEDKL7zHBBUYbpo5ng6Lk8+LdlQhfjbHy0dLRqkrbtNN7ABYarM3rk4d8mxyQoMIKY/ADHWhOIhDcFEYRE75/L8kF0YFAHEqOIGAQJ7+qdP6ykaWRiRieXrNmCqFm2lCBBYwxijCrvmWm5MJvOTdmDcPcKYmx5BEQOBIjQuOwaYqcINOzCAMDWAoAgg/CehCP/agKAIIFceDut+YddYgQGEHcLoYg0g9AcgqMH0GBDTL8lS0g4MRVli6XJa7r/J6KX24N28LLx/pBVxpwG7tXLbBgyh9I0BioTDkl/LS+5jTh5/WNQJLJa5gTNv52zBEEpLT0Fg2LAAmQSITK2m9DmUmXl+xwHyvm2HoXRTcuPC54I8XVvWQO7EIhIbgWK83fvG+8YdhtKFgEEdk8UvRSl9LWkrSc5505pdwFD82bcVefF9VV7+eCXln2Wp/Kps2rze9L6tRrH59rugxPbhvbk3vefrUY8/8RvuA5W/VzkDNwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xu2VbU+SYRTHvb6JH6Gv4nzRcrNlztliNB25JM1hlFGMwnyOFI2WjGSZJclIBitiRev5Ybn1WU79Lrrubm/DN3JpLzjb2eDm2n1+1/9/zqGtrRWtaBRKvE+OMJRcWbkq/wmUklAiJJH7EQ10rL39KKGUBKeCEk6GHRjLQPtZoOR8bEhG5y7JROraYaij5NzEQIO+UOIP++XC5LC26/rqDdtAdRjfuO8fhZT0j/bLYGRQRmZGtF2xTOwPuMmmh9IwZ0JnPUD1gsd9J6RnqEf/DtjM5qzEs3GtlIVpq9tBsb6Lfbtu3tnXKV3+LjkZOOXAjC2MyWJxSea35p1zTW5u5cCgAsU7TndoVfjMc9TDUmCytaw8qK7uArECY9QAiu88BwRVmC6aOZqOyrOPWzZUIf72R/dAtwbpHe7VDWxAmCqzd26u3XJssgIDiOkPQIw1gWhAQzBRWMTOia9P2oVBEUCMKm4QILBnfPGynqLpjWlZyN+xAVO3qJEiQGANY4wq7JrZ3JwkCgk7MO4eYcxNj6CIgUARGpcdo2G279qBAYSpAQRFAOE/CUX41wYERQC5/XhK9wu7xgoMIOwQRhdrAKE/AEENpseAmH5JlpJ2YCjKEktX05J5ndFL7dHbddl490Qr4k4DtlxetgFDKH1jgELBoBQ+FyT3ISdP32/qBBbL3MAP36zZgiGUlp6CwLBhATIJEJmqpPQ5lFl5cc8B8r7tgKF0U3Lj51+2Jf8pr4HciUUkNgLFeLv3jfeNBwylCwGDOiaLX4tS+lbSVpKc86Y1u4ChePl7WV7+qEhl55VUd6pS+1nbs3m96X1bk2Lv7Q9Bif3De3Nves+3ohW/4xfz8gDKU/y9qQAAAABJRU5ErkJggg==",
     "wiki_name": "Raw pike",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_pike",
     "equipment": null,

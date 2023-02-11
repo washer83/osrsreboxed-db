@@ -1,7 +1,7 @@
 {
     "id": 4539,
     "name": "Oil lantern",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-14",
     "duplicate": false,
     "examine": "It lights your way through the dark places of the earth.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACo0lEQVR4Xu2WW2saURSFHSfEaIvVmChGvNUmrUmai/WS1mtJCLk0oQ+lb5Y+F4TQl/6BYPPQ31Ao9H+uzjqH7ZxRJC8zhtJu2KA4zv7Ya52zdyj0P/6NsDCbDxK6eDGXU5nf2EB6bQ1P4vGHgLJw2u9j0G6jtreH3WoVm+WygnpeqSigg1JpUVAWjrtddJpNtA4P0TjYnwCxQ6/rdWxvbS2yS5aCIQQ/C9DTQgGpZFJ1jaD7OzuLgNK+IRB9M21mOxya/C5dClA6S8nBYuyCQPReraFXS6CY0UAEoXxMF9b3cAofHSmQeUlzUyYmJaS5KaO3k76ENVOccGbSRwSahpJuecF8CdcnlMxMOWnzoMT84iffPKVfpI+8Cag8dBBDIe2aWp6j50wQ32Dc0PJJEQVUSzlAUeTvAZp+k0+hJfMCrTpAkRkg3uTeZwMJS3nGBLrureOqs4JnuTCWbBfo7O1AGT5AIN0dmlaKXg+yuO4mHaAoGi9sVIthRCMaaiFAlEFgPl2VMbzM4e5rA+ObHYw+JnDeWkKzak+ekftJf/c9XEMLzPBiHXc3exiPKvjyIYGzo2W0tm2sxmeBAuiSlsyFSWN4nsJ3B+jXuIHb0SYu28t4s2uj4IyRRyshddJ4PwUGREMP3+UdoKwColy/f5zg520d3z6n8b6/gs5LG9ulMLIpLbH3EPgalmr/xcmxMiyLsQOyG7ETvJ1lhj2OxYIHkjFgQtEnMkIIRBhZY/lMgJejnviEkh06m8moLZFQBGJX9Inyzj53nvkeeieSDVEWfAJxshOOWyM7RCnNOyuAWaYlY2H6hCmrhQlndo5wzIAkY1ieXUfgZEOchhMJA+iOGfq0mfuOCUYQdicaiSwCRsJr3Hm5IBgdUuy+nP7fXx1/AKTCPlMDpPEuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xu2W3WsTQRTFsy8lhPhQYvwgtMYETY1WozQtoV/RpIY2NZoaLGnpYltsq61FRApBffJJ86gI/gMK/pPHPTPc7GxC6MvuFtEDF/Kxyfw498zMjUT+69+QhcE6E+nFl8plVffn5zFTLGIynz8LKAtvDw9xtLeHrfV1PGs2sVqrKagn9boCKqTTYUFZOD44wP72NnY2N/F8o90DokMvbBtPG40wXbIUDCH4WoCWKxXcKxSUawRtt1phQOncEIi56Q9zLBrpfS8uBdg6S7WDi9EFgVicuYLF6RQmMiMKiCBsH8uF9V0WXu3uKpBhxXCzTSy2kOFmG71O+iJrYHHCmcUcEagfStzygvkiNydsmVmy04ZBSfglT75lSv+R3vImIDO0UDyPias6Q/I5n2PmTBDfYFzp9skiGmjcAUogdwpQ/z/5JN0yL9CYAzQ6AMST3PtsILJUZkygRjWLxoMECjeiOBdzgd69PlKBDxBIu8PQyqKNpZwDNO4AJbEwFcPUrSiSoxoqFCC2QWDs1l3YazfR/VBH930ZnZdZtFcTqJTivWfkfNLvfZcbaIGxm9ccmCq+dKZxsp/BxqMLqDpAmbGRAaAAXNItc2GuO5VVQL++r+DbpzlsPb6Ih7Nx3M5FcTkZUTuN51NgQAy0vTbpVF4BdT+u4PcPGz+/LuNz5w52WpdQm4ujVIghnx1RLfZuAl9lKftP3hyrwHIxOiCzEZ3g6Sx3WC6bDR5IrgETijmRK4RAhJExls8EeDjqG59QMkPPlkpqSiQUgeiK3lHeu8+9z3yXnolkQpQBn0C82QnHqZEOsZXmmRXAXaZbxoWZE5aMFiac6RzhWAG1jLI8s47AyYTYDyctDMAdU3q3mfOOCUYQupNOpcKAEXmDO6xCgtGSxU6r/t/91foDZnWjtFdxdRAAAAAASUVORK5CYII=",
     "wiki_name": "Oil lantern (Lit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oil_lantern#Lit",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20887,
     "name": "Creature keeper's journal",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-05",
     "duplicate": true,
     "examine": "Journal of a deceased creature keeper.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xt2V3yuDYRTHvVciTWuaRq1ZaYUiF0oRpSU/Qin+HS6442YXIovIIiVXyD939N3jPO/znj3bux9ntnzrW3vr6Tmfne/33QYG/rcCMu4LBVRIZCg/ku4HqIBmE5PWeF7I5XoFZWKaH81a9xAoupkubIhL2ZzRGZhB+FkJKBzARkHj7EK5pVYBkt9UWsI8PuxaM5QqEC6TfZCALoQEYqsBTQwlI2+LCyUBYLkxZSDI9GgxORUBg+U2JIwLxbHJ29uQiW0pla9CseXGGgExlOqWMHx5bLoulNsXtoRSBIKCKhDsbqsRkM9KsbECWh+fiUDJ2OKs2CWWgXKBWtkSgLLDqV8oNbCgo9gYKj2Y0IIyQL7YmjGgAITPSkU3BffFFmecAxA/dwUobksM7J69v9uxMCpAXOx6sUkI9+z726G1Uocgf2w+CP79Wk0X6PXlgCpPe1Qub9P11aZWZFBtbMXMHH1/HdPnx5E1tvBc2a/+393ebFGpVKTLiw06P1uj05MV2yN5exsKgWBsBjAM16oVoMK/ElzIYNJ8BjZD/VYrNwZxdxCZHOQbWs/y9jZkgPit+qOhjRQCKa69E9UCyRM9kGopddRtmB+Cz6CHURV3mAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzklEQVR4Xt2VS0tCURSFvb+jidAgEAIRQkKCwEEIDYQiaNCgQRQkgURvCOrHFNSkBkLvl0hEg+wX7Vie9rnnbo9eH9uUFizwwuHsz73W1UTifysg45FQQMVUjgoT2VGACmgxNWuN53QyOSwoE9PyZN56iEDRzQxgQ1zKzozOwAzCz0pA4QA2ChpnF8ottQqQ/KbSEub1Zd+aoVSBcJnsgwR0ISQQWw1oJpmOvC0ulASA5caUgSDTo5X0XAQMltuQMC4UxyZv70EmttVMoQHFlhtrB8RQqlvC8LWp+ZZQbl/YEkoRCAoaQLC7rXZAPivFxgqoNL0QgZKxxVmxSywD5QJ1syUA5cczv1BqYEFfsTFUdiylBWWAfLF1YkABCJ+Vim4K7ostzjgHIH4eCFDclhjYPfv8tGdhVIC42K1ikxDu2c+PY2ulDkH+2HwQ/Pu1kS3Se+2Iqm8H9PiwS7c321qRQc2xlXNL9F0/pfrXiTW2UKseNv7v7u92qFIp0/XVFl1ebNL52brtkby9B4VAMDYDGIbr1gpQ4V8JLmQwaT4Dm6F+q5Ubg7g7iEwO8g1tZXl7DzJA/Fb90dB2CoEU196PmoHkiSFItZQ6GjTMD36hNm9hX2SrAAAAAElFTkSuQmCC",
     "wiki_name": "Creature keeper's journal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Creature_keeper's_journal",
     "equipment": null,

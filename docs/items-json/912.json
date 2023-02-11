@@ -1,7 +1,7 @@
 {
     "id": 912,
     "name": "Steel arrow",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "Arrows with steel heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABAUlEQVR4Xu3TsQrCMBQF0ITiUGdn7dTByaGLYCenUhBah4KTv6AfIPoD/vKTl/hIk9A6NS9gL4QiWHq4vRXifyJBnygioakq2BdFDCgJl7aBY1nCNs8VaJdlnCgJj/tNNYQnCtBhnaiG8DCDNGa1FN/t6MMOIsi5rjmHbbdz7TruYZt23q8n97DtdhDEPGx7O+6wERMQ5AMIR5CAGMxwO4EhmN/tuHdMnLmdscztjMUG+L+DRkKbLrzXxdSOweAVjwty75gwPmaTCN52Tql+OGEY26GYEbsYJpAQQyD3fwGjX1n/S2ME2Rj6ythBhKFhM4Iwej/9dphBZthRYPqZAvMB558etVwC1J4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABAklEQVR4Xu3TMQrCMBQG4OQGnZwDXsDFE4hrF/duYie3UoTWoeDkDXQVnT3hk5f4SJPQOjUvYH8IRbD04+9fIf4nEsxJIhKaqoJ9UaSAknBpGziWJezyXINWSnGiJDzuN90QniRAh02mG8LDDDKY9VJ8t2MOO4gg57rmHLbbzrXruIdt23m/ntzDdttBEPOw3e34w0ZMRFAIIBxBImIww+1EhmB+t+PfMXHmdsYytzMWFxD+jhoJrVoEr4upHYvBKx4f5N8xYULMNhO87ZyUeThhGNuh2BH7GCaQEEMg/38RY15Z/0tjBLkY+srYQYShYTOCMGY//XaYQXbYSWD6mQLzAYvtP5beI6DQAAAAAElFTkSuQmCC",
     "wiki_name": "Steel arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_arrow#Unpoisoned",
     "equipment": null,

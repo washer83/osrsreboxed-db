@@ -1,7 +1,7 @@
 {
     "id": 4921,
     "name": "Guthan's platebody 0",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": true,
     "examine": "Guthan the Infested's platebody armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xs3W22sTQRQG8ORBJKEklAZDEkxrpEqsBAtFKRT1xWcVRUVFqaKiiCCKUoLipZZ6oVDiBZUWKqWWohVRVBRFX/y3xn6zfJuzJ5OabVbpwEeS2U32lzM7MxuLrf4WN+64jv/zFjcPqwfM/ZH9NmPX95nRq3ttiJidHDYzEyfN9KMTDpT+E23DPRBRADEaM/XguHk2djRwYXzGMZ0gKhQybiZuHGxA4RUQpn6RYFwgnC/P+b5QNV/nrqwMRRDeszr84a6upMnlOk0mkzapVMIG/RqE732bHzE/F2+bX4t3LQjnbevpsdFXV837l5O3DgVAAOKHcby3t+CnVMqZ7mLWFAoZC0sk1jag5mqnAiC8J0hfXbW4vS+ejB6xICB4c+Mzjpc3r/cjURKmQQtPz0QHYpVwrL9/o+nr6/bTDIZI1NvnZ30QEgr0YvxYA4iYgYFNplIp2bhgMhL07uW5IOj1tfZArNCO7WULQySM7xkcl6D3U+ejBbFKg4NbbJU0SmMkCLPy08xFH/TjzU0fExokUfhxVokoWSVCZHA+QJ9fXXKC9NWbNG+Nqd057ATt2lmxoOUCJO8jgL7MXl4pyFuDUCGC0EcQ1yGiUC1WjFVDtTDLOP3xHQmSi6K+umrelJcg9I1Xd9tXDcL9hBDFysqgOpGCiGKlkNKGjCkWO00+nzbZbIfdPjSkdm9P9CA9bOVyNoDR2wYCHJA4nzNs/vFpH4RVmpiWQJhhGoT+3x+GlwDr/JnFxTCdSvkoCSMI1cG2ISvUYnXQ6iDXja0xzUDJ5JrAcGHbiAyEoJ9TmVsF30uQrg5BWKUliCh9dUfzQHrY0C8XQ74Cg6BSBOFVgvDY8XH6gg/CGhRiHQqC9PSX01yuO6gWh0zu8qhO2yDMsr+BXDBUST52cLgiA7mGjZChoa02/Cy3CiwFEoQpL0FYg0KvQ65hQz+OM8VicqkaHRbDrQKPrxwu3j+RgFzDhj5eBMckLp9PWKC8oTlcbYLQGvcjV/iMhCcB2Q+4BGFRlCAmBCgW47K+XDRQRt4/kYBabRrZCpapn/ufmka6or+zqtsfEUnBi/OWPyUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xs3WW2sTQRgG4ORPeONNIBeFQCAUgoQQiIQiwSIGi7koFBRKQb3xVkU8oKJUURSFKlqimLYStZRYDy2k1NYznooX/pkx7yzv5tsvk5o0q3TgJcnsJvvkm52ZjUS2f4sad1zH/3mLmmeV06Y2fcrmyYOTZvbeCRsiVhYmTWP+ill+ftmB0n+ib7gHIgogRmOWnl4yL+cuBC6MzzimE0T1hIya+Ydn2lB4BYRpXSQYFwjny3M21ivm++rdraEIwntWhz88OBg32WzKpNNJk0jEbNCvQfjez7Vp8+tDtZkZC8J5qVjMRl9dNe9fLjw+GwABiB/G8eHhvJ9iMWuGChmTz6ctLBbb2YZarV8NgPCeIH111aL2vlicPW9BQPDmxmccL+3f7UeiJEyD1hevhwdilXBsdHSvGRkZ8tMJhkjU+1cSVO0N9Lp2sQ1EzNjYPlMuF21cMBkJ+vjmRgD04+39/kCs0OFDJQtDJIzvGRyXoE9LN8MFsUrj4wdslTRKYyQIs/Jr47YP2nj3yMf0DJIo/DirRJSsEiEyOB+gb407TpC+eofmrTH16jkn6OiRsgVtFiB5H1nQytRWQd4ahAoRhD6CuA4RhWqxYqwaqoVZxumP7wRAYlHUV1fNm/IShL5a5Zh91SDcTwhRrKwMqhMqiChWCinuSZtCIWVyuaTJZAbs9qEh9bnj4YP0sJVKmQBGbxsIcEDifM6wtRfXBGjGx3QFwgzTIPT//jzZBOzyZxYXw2Qi4aMkjCBUB9uGrFCX1UFrgVw3tsZ0AsXjOwLDhW0jNBCCfk5lbhV8L0G6OgRhlZYgovTVHc0D6WFDv1wM+QoMgkoRhFcJwmPHl+VbPghrUA/rUBCkp7+c5nLdQbU4ZHKXR3X6BmGW/Q3kgqFK8rGDwxUayDVshExMHLThZ7lVYCmQIEz5AKi5BvW8DrmGDf04zhQK8WY1BiyGWwUeXzlcvH9CAbmGDX28CI5JXC4Xs0B5Q3O4+gShte9HrvAZCU8Csh9wCcKiKEFMD6BIhMv6ZtFAGXn/hALqtmlkN1imde5/ahrpiv7Otm5/AHs3sphHVW3kAAAAAElFTkSuQmCC",
     "wiki_name": "Guthan's platebody (0)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthan's_platebody#0",
     "equipment": null,

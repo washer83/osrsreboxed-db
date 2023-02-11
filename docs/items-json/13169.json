@@ -1,7 +1,7 @@
 {
     "id": 13169,
     "name": "Armadyl dragonhide set",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-19",
     "duplicate": false,
     "examine": "A set containing an Armadyl dragonhide coif, body, chaps and bracers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xs3YXUsUURwG8PVKukmiuyLXddHwhd110XXFlxTX1wQV00zN7I1CkEDou/QJgiIiQoJShIJQisgKogsRFbGkDyBe/eP5wzMcz87sbjObNPDgsjPnzG/POXPOHEOh//cokZNNzqNExrvK5e5Em0wONspgR510NFXp36GumGYkE5ex3gbNeH9Sg2unhlKa68PNmrnRtNy60qpBffcnO2R+6pJ+xnmUqYuczodyB2VaaqSvrVZj4wg0cQTixgQBszDTqTBgcS1BiYoKL5Q7COlqrtbYOAKJI4qtxNYB5sFst8ICg9KJiLQloxo3nNmVbB12GbsKmMW5jD8QKkGlBCVrL0hTfVgDHFFsJbPbvLoKmIe3e4KB8MvRKoszqaLENwiFCEJr2BX7TSAQmh1dUQjo98FB1ndu8QWazISPgTBW7IptDHJ4eJh1zo4NikfLCgehUD4QMQTlQwUG4ckB6N5YIiuE/Nrfl7XPPxwQYl/L+AbhMSUIc83s5XrNzeGY5lRpqWJ+7u3Jm/dfFLS6/s0B4TyvNRMIhHkEhQC61lfrhJj93R159faTrKx9VZAbanqg7liKAsLkN9ZdrSFmb3tbXqx8UMDRUqNi8BexURM9F50UDWR20+7Wljx7veZgbJAbil3uCzTdG3FAWJcAujMa14p3Njfl+8aGM24IMUH83hzoHFM2KFl9pnCQucDiCWELAfV46Z08erIsR0/LjrWMVwvhByG+QViZAeICOz/eoHFDmV2HzzaGZZGigLCeLVxNOrFReNK8MGY5pGgge4Ij6uXqR3m+vJ4Fwnm7jNvE6BtkTooc4CbKxpjjxkxgEBdYzEGYRzAxcpIzUTbGnqG9ZuqCQDf6K/XtDi9pBA20VspQe1Qz0lnlAE0UP3POcYsNStWc/XsQ1rPOxnJNdyosvemIAokkBGErmi2Za+nwDWqJnZP2xPmcKLNbCeLYw/hxG9S+Qdx18OWeuw1ugfiCb+7HcFNzk4jJtigg3DQXxtyLeWGAwIMSCITK8MtzQQppGQC8tkEFgHDY/wz4twEmDygU4kUnFfv+OP4AIMkNtPm9BaYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xs3YW0sbQRgG4Pg7vMl1QZDeF1pEgihSURQjEaN4wEaJx4qKxFpPtWdECtIf0uvSltJK8QBSRdq0tOApqfROL77yfvAu42Q3SXdT6cKLIbsz+2RmdmbHUOj/PcrkapP3KJPUQJU8ne2VufF2Ge9vkv6OOv07MdCimUq2ysxwmyY1GtPg2vmJuGZpslOzMt0lj1I9GtT3fK5fVufv6GecR5mmyLVCKHdQsrtBRnobNTaOQBNHIG5MEDBriwmFAYtrCaoMh71Q7iBkoLNeY+MIJI4othJbB5gXy4MKCwzqikakN1arccOZXcnWYZexq4BZX0n6A6ESVEpQrPGWdDRXa4Ajiq1kdptXVwHz8vFQMBB+OVplfTFekvgGoRBBaA27Yr8JBEKzoyuKAf0+O8v5zi2+QHPJ6ksgjBW7YhuDnJ+f55yzY4NaayuKB6FQIRAxBBVCBQbhyQHo2Uw0J4ScZbOy9/WnA0LsaxnfIDymBGGuWb7brHk42aIJl5cr5lcmI5uf0wra2f/ugHCe15oJBMI8gkIA3R9pdEJM9vREPu1+ke29bwpyQy2MNV1KSUCY/GYG6zXEZI6P5cP2gQIuNtoVg7+IjZoduu2kZCCzm06PjuTd5p6DsUFuKHa5L9DCcMQBYV0C6Ml0q1Z8cngoP9JpZ9wQYoL4vTnQOaZsUKy+sniQucDiCWELAfV6Y1devdmSi7cVl1rGq4XwgxDfIKzMAHGBXU21adxQZtfhs41hWaQkIKxna/diTmwUnjQvjFkOKRnInuCI+rhzIO+39nNAOG+XcZsYfYPMSZED3ETZGHPcmAkM4gKLOQjzCCZGTnImysbYM7TXTF0U6MFojb7d4SWNoLGeGpnoq9VMJeocoIniZ845brFB8Ybrfw/CepZor9IMxqtluCuiQCIJQdiKZkvmWzp8g7pbbkhf9GZelNmtBHHsYfy4DWrfIO46+HLP3Qa3QHzBN/djuKm5ScRkWxIQbpoPY+7FvDBA4EEJBEJl+OX5IMW0DABe26AiQDjsfwb82wBTABQK8aKrin1/HH8AzUtjb13or3YAAAAASUVORK5CYII=",
     "wiki_name": "Armadyl dragonhide set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Armadyl_dragonhide_set",
     "equipment": null,

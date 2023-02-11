@@ -1,7 +1,7 @@
 {
     "id": 30,
     "name": "Bucket of wax",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "It's a bucket of wax.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xt2X/UtTURjHPYSIIoHULxaZLdxIRVdMSXShqKktli+taUtdy/eX+VJWVAhFREE/BNG/0L/51OcZR6/HKUHnTurAl917d+95Pvd5vs85W1XV/zGMHOrMh5GueKf0dXfLYDJ51lBGthYX5MHIiILcGxqU0YH+s4Iysjo/HyiVkYmxMZlKpRSswiU0UpiZUYDWaFRil6tV7U018nhyQqbHx+X+8LDEIzWVgjKSSac1ONkYjtepxhJ1eh1YvgP4dqw27GwZWcjlZO5RRgNzPNBRe0TrT/OyNDur3uI82VarwCGAGX1zjExAAlEWV10tNfLh5Z4CkTWgbAbT3fW+oIxOPNFTL/mh8xoU3zRdPCc/P/cdE8D4iKUAbwFqM8hc8ebmv4Uy6gfekskjjdXHIFwFgXgW2dJ5ASIrTOgGPkkYvr+3V3oSCX0JgGzJvAAxISl3A58mMoSA49lMn0cgTAyUG/QkUTJWbszNcvDk4ZTks1n/QJQOuQCu7MpNZwJSzMR0ufAGNHnnimQGmmR66KqmHygMS7dhcjoONTaUxIoNwPpkVDU/GtHu8woETO7uNZ28kIrIYvq6+qKcVsZbDsT9qZ5LsrO85BfIZsiFIihZoCw72RvyYqb1CAxls5sxMB6AGEaN+qdgnPMdIKzum88KvrJjh1EIgmNWOuc0MD3/vd/tra3J+0KHvJ1r8w8EAIEISGn28+2aATZZgmNi+xOE6++2t+TjQqfCvM5VAIhAvD1BPy3H5cvqTfm6fku+bSZUnAPNffjKOxD+oTyUBZ/w1gQsB8SnLRX3hQKEd6yPMC9BbJYAsjB7UxcUElhg+I3kucMY5mArwC+2bMEskaHv2wkpphv02quNDe0wj+uPO0qtb/cmzPx8ZUU7ieBvikU18v7ujp5z3WYqNCDrIbJEJ50ksoVCBwr6h0C2y9wO4xhf8UwI/gmOUgDMHOwuIPDPj90u/XRBQoIpjdLkh38Sy6kiIO4IBi0n9/5/fvwCYTVdpecf7JkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xt2XXUsbQRSGnX/QK2+8CXgh9EoKvZJCSyhFKmJRFFMaEkpUiopWbZpGJVWbqmmqRk38qP0UpBShFEp/QH/Yqc8Jo+sYpdDZiB142exmd86z57xnJmlo+D+GkRNd+jCSiPXLYDIpo0NDlw1lZGt1RV5MTCjIs7FRmRwZviwoI+vLy4FSGZmempLZdFrB6lxCI8WFBQXo7uyUrtuNqt5ok7yamZb5bFaej49LrL2pXlBGcpmMBicb47Fm1VS8Wa8Dy3cAP+6KhJ0tIyv5vCy9zGlgPo/0RU5p801BVhcX1VucD/VEFDgEMKNvjpEJSCDK4irR0SQH7/cUiKwBZTOYSbb4gjI68XSqRQpj1zUovonevCa/DwfPCGB8xFKAtwC1GWSu1gjHfxpG/cBbMnl7W+MZCFdBIJ5FtnRegMgKE7qBzxOGHx4YkFQ8ri8BkC2ZFyAmJOVu4ItEhhBwPJsb9AiEiYFyg54nSsbKjblZDl7nZqUwN+cfiNIhF8CVXbnpTEAquS5dLrwBzTy5I7mRqMyP3dX0A4Vh6TZMTsehttaqWLEB2JzpVC1Ptmv3eQUCJv/0nk5eTB8FyNxXX9RSKdtxLO5Pp27JztqqXyCbIReKoGSBsuzMPZB3C92nYCib3YyB8QDEMGrUvwXjnO8AYXUvvy36yo4dRiEIjlnpnIvA9Pxov9vb2JCDYp98XurxDwQAgQhIafYLvZoBNlmCY2L7E4TrX7a35OtKv8J8zNcBiEC8PUG/rcXkcP2hfN98JD/KcRXnQHMfvvIOhH8oD2XBJ7w1AWsBcbSl4r5QgPCO9RHmJYjNEkAWZm/2hkICCwy/kTx3GMMcbwX4xZYtmCUy9HM7LpVMq177UC5rh3lcf9xRbX27N2Hm3VJJO4ngnyoVNfL+7o6ec91mKjQg6yGyRCedJ7KFQgcK+odAtsvcDuMzvuKZEPwTHNUAmDnYXUDgn1+7CT26ICHBVEd18pM/ibVUFxB3BIPWknv/lR9/AKbDDzxVx0UkAAAAAElFTkSuQmCC",
     "wiki_name": "Bucket of wax",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bucket_of_wax",
     "equipment": null,

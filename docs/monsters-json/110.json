@@ -1,9 +1,9 @@
 {
     "id": 110,
     "name": "Wolf",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-02-11",
     "incomplete": true,
-    "members": false,
+    "members": true,
     "release_date": "2002-02-27",
     "combat_level": 25,
     "size": 2,

@@ -1,7 +1,7 @@
 {
     "id": 24699,
     "name": "Blisterwood flail",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": false,
     "examine": "A legendary flail that has been enhanced with blisterwood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xu2WT2sTQRjGO9+kIDQYi7ESWwKVtgT6L2Bcl1CbGJOmEtM0QUIsi4emxdYNNGnRhrZSsXgo6l16KnjwXigqFsFPUT/AY2aG3ezMJhez2eTQH7xsdvLOzMMz7767fX1XXGFA0AjrWFcgGPB6cXPoNoZHR01hbw6OJIEdh28ciT+2uMNjXd9h11v9/SzkmQ7DN51LJjGjKMwZn/8OxqemocYeoaCVsP/+2BQkz3YYgmseD64PDkKZj5qO3ItEuMhYEnq15pY7hDlwf+4hhkZG4A8EmDPUKUPY5taucFzyCg5CTFfuBoNsw6lw2BRC4+3RR+QKmhvuEOYIFXPD52MO0bAeWXlnz/ztgBjxCWlE43/qCj2a4MwsQqoq5L1Y0wUhbYuZnhhH9IGC5YWkEMaGY2OTCIVUJBJLZr3wTQmyz1YEMfLq/wGBlsvh+GAfX09OWHw/O8O301N8+fyJXdPpAotMpiiISSwuobJ7aBlrG4KVbBYfajX8/vlDOAYafy4ubGOGGCUShba66aQggvxiCuvPi/h1fo6/l5fmwg37xXtjbMDjtYlxQBCFoKbrOKxUWi4s39M8o/G1mtMG9UamaaiulZgw69HImRze+GTn5Kw2IXi98ZLV0bvtbeyVy+zeLoo3vg640gyxcO2bEpReVZuMdxDrEchi0ssFwR1xpqvU31ezYffdaU69Q09MIvU0LxSynOUSBP7hAObjKfYpYX1XyZkuQVjjW93YalHkrkKQyRdt3zVdExNLPGFPVZddoRCEwior4h4QQyGIL6R7RYxBT4nh9JSYbvAPsJbjwQ95HHwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACW0lEQVR4Xu2W30obQRTGnTfxEfoeBUlJsQRpqEKwoObCf6HpdgnWpGlibBrjUpLKFoxWYzBra4i1lSJt74oXUuidYKW2b2DvvmZm2M3ObHJjNptc+IPDZidnZj6+OXt2BwZuuMGEoBn2sZ5AMOT3497IfYyOj1vC3h8cSQK7Dt84lnxuc4fH5s4eu94aHGQhz3QZvulCOo05RWHOBIIPMDkzCzXxDAW9hPqnY0uQPNtlCG77fLgzPAxlMW458igW4yITaZSNmlfuEObA44WnGBkbQzAUYs5Qp0xh27v7wnHJK7gIsVx5GA6zDWeiUUsIjQ9HX6AVdC/cIcwRKuZuIMAcomE/sspe3frtghjxCWlG83/qCj2a8Nw8Iqoq5L3ZKAtCOhYzOzWJ+BMFq0tpIcwNJyamEYmoSKVWrHrhmxLkX60JYuTVrwGBrmk4Pqjjx8kJi19nZ/h5eorv376yazZbYJHLFQUxqeUVVPcPbWMdQ7CWz+NzrYY/FxfCMdD4e3npGDPFKLE49PVtNwURaMsZbL4u4vf5Of5dXVkLN+0X782xIZ/fIcYFQRSC2k4Zh9Vq24Xle5pnNr52czqg0ch0HcZGiQmzH42cyeGNT3ZOzuoQgndbb1kdfTQM1CsVdu8UxRtfF1xphVi4zk0JSmWjxXgXsR+BLCa7WhDcEWd6SuN9NR/13p3WNDr01DQyLzWhkOUsjyAIjoawmMywTwn7u0rO9AjCGt/61m6bIvcUgpxWdHzX9ExMIvWCPVU9doVCEImqrIj7QAyFILmU7RcxJn0lhtNXYnrBf+PSGKFmsIoyAAAAAElFTkSuQmCC",
     "wiki_name": "Blisterwood flail",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blisterwood_flail",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 13064,
     "name": "Combat potion set",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": false,
     "examine": "A set containing 4-dose vials of Attack, Strength and Defence potions.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xs2Y2U8TURSHyxPxRWN8VkAihiUslU7LkkpLyx6RIIhsomgwJGjE+GZcEhMSlwdNeNEnMEYom2s0vjsFAdc/6NjfIWe8nc60ZToSJ/nSmblzz/3mrnPr8fy/Rx7tLWmPPOoLHaHL/Y000FFLHcFyCvqO8W9XqJI5Hami3pYapq/Ny+DZwS6NGen2M2M9Abp4poFBvCsDQZocPMnnSEee8qL9maSshSJ1pdTaWMaY5URQlRNBFCxCkJkabmIxyOJZEaouLLSTshYCIX8JY5YTQZETKaklqR3IXBttZrGchQLVRdToLWas5NSmlNqRJpOmgsz0WMSZEIIgqAh5yw6Tr6KAgZxISS2pzWbXVJC5OR7NTQhvjlqZHtbSsi8/nzHfN+NYCJlECLVhDmxmT4RQ7WiKTELPH00zD26NM+b0nIUGIgVJQugr5sBuCVUVH8heCJmyEQJOm2zXQhg5EJrorbYFIpFvDQzOzekqjoUwTEUIc81oZwVzobsyCQiEt+upfdXPv7g2P6OSkxDmEWSC0LnWshSG2ssptFVPrcuaAa4hhTQrXBHC5NfbXJJC02YdRWK1FI35ksD9/uhxS1wTUpsIrD4L0r3rf6/DiZoBdunS5I6EhlqKDCGsSxC61FPFIPiT+1M0+3TGQAoV1LTbN0aS+pVZyFtyMHshdYFVRxR4eGeCketM6fJCjoWwMkNIFtjJvhoDFPD47gSDczUNzM5ctU13RQjr2dRZrwEK+bzmZ35v1SWlgehGnE6tvGDwrJrmmpDaJJ9WNYNfCSF14oskZLqW5w3U5rSaGB0LYYQg+I/NAH1c0Qx+Joa49A/QvB6nzqV5A1y72odkgcW8g8BvF2vpXWyH90s++rDsY0mMoPC6Tu2xuRSQL6dRdr7tKH/d4SNNhBB0K67RyssaWnvlpdcLXnqzcIL5vhHYmbXjOrUtzqUQTtxHfqt5SCs9tHshrGcI+FX30aauMZATttf9TJP+hQnp+g7xZBDDVaFcserUjoVk1yEf97LbkC2QfOCr+zEUqm4SMdm6IoRC08moezE7GUhgoOQkhGB483Qi2dQMBOy2QVkI4TD/GfBvgUwGIY9HHtorzOXj+AODAo1KJqB3WAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRUlEQVR4Xs2YbUsUURTH18/hG18HgfQNIkTCkERRdFv3wXRh3V1XXU1MbM18SisLsUiiQigIi6BMKcznyoretK7uqlif5LT/I2e6Ozv74OwkDfzYGe/cc39zz9x752qz/b9HEZ0sWY8iigTO0eSAlwa7G6nbV0M+1wX+7QnUMVdD9dTfYWciYQeDe4d63Mxor4cZ72uiW5EWBvHuDfpoaqiVz1GOOjXlp3JJGQuFmquo01vN6OVEUJUTQTQsQpCZHvGzGGRxrwiVlpRkkjIWAgFPJaOXE0GREynpJekdyDwYC7JYwUJNDeXkdVQwRnJqKqV3JGWSKsjMjIfMCSEIgoqQo/osuWrLGMiJlPSSmrZMqYLMo9vthQnhydErMyPurJQUFzP6v+sxLYRKIoTe0AfWcyJC6HakIpfQ4otJ5uWTYUZfXrDQYKgsRQjvij6wVUL1FafzF0KlfISA2ZQdWwgjB0J3+xsyApHgvpfBub5cxbQQhqkIYa4Zu1LLTPTWpQCBwF4Lhdc9/Itr/T0qBQlhHkElCN3orE5juKuG/IkW6lh1a+AaUigzwhIhTH79wco0fPFmavvopNCKK4XWRDMNtF80xDIhNUVg672Pnj/8e+1PpgtkKpeUmxIa7ijXhLAuQehOXz2D4K9nx2nh7ZyGNCqoZbP3r6W8V3ohR2Vp/kLqAquOKDD3eISR61zl8kCmhbAyQ0gW2KmIXQMNvHo6yuBcLQNvnk1kLLdECOvZ9HWHBhr5selhfu9dTikDbfEY9awvMrhXLbNMSE3J9w23xq9EU8rEF9zdpu61BQ01nUYTo2khjBAEP4x76Nu6S+MwKSTvBwgkhbpW32ng2tJ3SBZYzDsI/Hm5kb6sHLG16qSva06WxAgK7EQpvDKfBuoVNMpuhs/z1x0+0kQIQfdiLlr7YKeNJTttLl2iT8sO5mDXczRrx6LUuTyfhj8pivpG85C76szxhbCeIWA86mQS28DFQHJ/5wjf9k9qjYEoA0EVxLBUqFCMXmrTQrLrkI972W3IFkg+8NX9GBpVN4mYbC0RQqPZZNS9WCYZSGCgFCSEYHjybCL59AwEMm2D8hDCof9nwL8FMjmEbDa56aTQt4/jD8Ee8W2KpiSkAAAAAElFTkSuQmCC",
     "wiki_name": "Combat potion set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Combat_potion_set",
     "equipment": null,

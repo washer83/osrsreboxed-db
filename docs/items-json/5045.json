@@ -1,7 +1,7 @@
 {
     "id": 5045,
     "name": "Shorts",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "Yellow shorts. Far too small for you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xs3W7UsUURQG8Fn2WwR9UAiE0IwSKrKCXiR7EUsQopItCw1ly6zs3cRaFiVrWSxjYdleqFAwxETKCKKiKOovO/Hc4Yxnjne2GXcSLzzseOeO97fnztxZx1n9LUH22M7/95agiWyKHmc6TPL3TlFu6KQJI2aKaZou9NLU0x4LSn+JiuEuiFEAcTRm8sl5epnv8k2Mv3FOx4+KhExQYeT0EhQ+AeEw6HnuHBUfdJqx+LSBMF6if85n6fvs3eWhGIRjrg6DXo93GxCPDQLhuh9zGfq9MEZ/Fh4ZEObYWVdnomdXzS07f2sGYVIbqPTwrAfCsQ00W7rgA+GYQXp21RK+ZcBEfHPjbwbJ8iO8vEGg+ReX4gNxldAHEMbs25Ck3TVJalyfpK3Vjg+HqmnQh1f9HgiJBOL7QoPwzW0gRm2ucqh2nR+HAPTxzWU/6N1w5SD043xp5BgVMq2UHzxMYzea6X7/fhpM7/WhatY6VL3GDa75NHk1XhCCpcT5YvaoFTTQtYv6zjRS94lt1NneQMdbNlFb80ZzzZfp6x7o1/tRDxMZJFESMzHcEgrU2lRrrvv69qYVpGcPaO7a44nRIMaMDx0xCQv6NnNnuSB3D0KFJEhjUJ1yFUq1bQkEyU1Rz66a+8gHgTQmd+vgyoMQxkgIY0avHQgEtR+qjxeEMEbexEAg2StNXhiUTu0oC8IuzZhQIDxhNhCWClVhCKrCwZgglAahQiGrg7YIksuGflskiKEShSctdhCj0I+XKt7aeH3gPMN4S+Dc7t3j3Uu8MUoQo/TsluaC9LIFgeQujmP+LYT/gyr1dGw3oIb6KtMHEPagCPuQHySXTYLwiX6JkSC8TGXFZIUig/CU/QuECdFnA2EczmMsKonxn6cGKgfpZUO/BPGvSblcDOKxAM09u+gDYQ+KvA/Zlk2CcFwOxBXC2FhAtmWTIJyz3dAIxgHEy1UhCG3pfmOLvn84GoTf0hLEiQByHN7Wy0UDZeT9EwsobNPIMFjO4tgVahppi75mVbe/cfBTfpL+1jgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xs3Wa0sUURgH8NlvsB9B6EWvghB80Qtf9EJCihCKQiLoghmVUoLQRRYtNJStrMwuK7as0rjJZsuy2UVhxbQb0U36Ok/+Z3jGZ549s864k3jgz45nznh++5yZM2tZO78lyBzT+f/eEjSXS1Eh2+dk9vkNyk9cd8KIpVKaKsURWnw9bEDpL1E33AUxCiCOxiy8uk1vXw76JsbfOKfjR0VCJqg41V+FwicgHAbN529R6cWAMxafJhDGS/Taao5+LWe2hmIQjrk6DHpfGHJAPDYIhOv+rGTp7xd7PTMOCHPsbWhwomdXzS07f2sGYVITqGzf9EA4NoGWy3d8IBwzSM+uWsK3DJiIb278zSBZfoSXNwi0Oj8aH4irhD6AMObM/iSdbE5S+74kHWmyfDhUTYM+v5MgOxqI7wsNwjc3gRh1qNGilj1+HALQ1w/3faDfHyfrB6Ef58tTV6iY7abZzEWyxzspO3qWMunTPlTzbouadrnBNd8WHsYLQrCUOF/KXTaCxgZP0L3+dhq6dpQGetvoatdB6uk84FzzozLugdY+TXuYyCCJkpi5ya5QoO6OFue6n5XHRpCePaC5a48nRoMYU5i45CQ0aOnZVkHuHoQKSZDGoDq1KpTqORwMEpuinl0195EPAmlM/sn57QchjJEQxkw/OhcI6r3QGi8IYYy8iYFAcg86vDAonTq+CWjGw4QC4QkzgbBUqApDUBUOxgShqkF22OqgbYDksqHfFAliqEThSYsdxCj046WKtzZeHzjPMN4SOE9HTnn3Em+MEsQoPbuhuSC9bEEguYvjmH8L4f+gSsN9xxxQW2uj0wcQ9qAI+5AfJJdNgvCJfomRILxMZcVkhSKD8JRtBsKE6DOBMA7nMRaVxPjvi2P1g/SyoV+C+NekXC4G8ViAVt7c9YPW96DI+5Bp2SQIx7VAXCGMjQVkWjYJwjnTDY1gHEC8XHWC0Kr3G1P0/cPRIPyWliBOBJBl8bZeKxooI++fWEBhm0aGwXI2xm5T00hT9DU7uv0D0+RO/cnLEq8AAAAASUVORK5CYII=",
     "wiki_name": "Shorts (yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shorts_(yellow)",
     "equipment": null,

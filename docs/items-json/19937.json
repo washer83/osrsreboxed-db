@@ -1,7 +1,7 @@
 {
     "id": 19937,
     "name": "Zamorak d'hide boots",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "Zamorak blessed dragonhide boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xs3Wy2sTURQG8AlDGFpCSkhpIF3YLrLpwqoLRaigS0G0PrBSpVLFjbtiUUpRfJSiVgqlPkCwIJRainTlQhRF/7Jjvjv5kjMnNzXTjNILhyRzTzi/ua+ZIDj4LSf+8PX/85aTlcXL8mLhoovlB5OyNH/BBRGba7PycfWmbLya8aDsTfQMj0FEAcSwmA8vb8i75elEYfxGn40kKhUyJ6sPr7Sh8AkIg6A3S9dk7fFVl4tPHwj5Gv1jZ1G+bd3bH4ogfOfoEPT++XUHYm4nEP73fXtBfu0+kd+7zxwINY6MjLiw1U2Lh513TRCKapC+Y4LWn055QVvrtxIgfCfIVjctl5gGFOLixm+NmK3k5XwplIli6H5rkM4DaOftnexAHCX0nSoNyJnygKyMRjI/HDlUrb+vCeqEZQCESAXiuvCBzg6VXRwu9DvIaF/kggUtFiD0I5dwB/p0PxvQZGVQpquVJuj4QCEBOmewGpQYoV5BCEwl+gEaqxfFaBwtFmQ4agehH9jTDRDRwPz8/KiJSQ3SKB5uAKEw1hMKDwaBu448DQaMIKItyFbv0OK7xY7RIFxzdx2FciwfSi0MpFqPogHNDLemFFj2c5elBMVnEEbIB8IUTdRB4w1QIQzbQAAjpxLlvSB9KNrqpsVb3gdiMQ1CQR+IOZimcr7VnwmIKPRNVYfcLsO2x/pBYUwLC9qcuWokl8p5Ge+Pz6KeQXqUeOcnGusHCxUjhBGoRe0gjODJUtEtbi5ogHBKE9MVCDvsbyCMCqcDwRHQOQBhOhlEY4S6HB20FsiuI/Rh5+hDDzsMIBTUIJ1DUNSY1p5BRBGEKXCPgcaWt2cQQcwjCn1cQ0TZ6p4Wg3zTpkFj+UAONUC4jiOBIOwunUfw1805B8IZlOIcSoL0tOFafFfJIIYgTivRuPZl4+7+QdhlnUB4KcOLFh4huMZnHEH2fQmB/ExAdtpwXYNQXIP43MP/mIu3y+3XtxMgnEGpzyHftGkQvu8F4ks9cjMB+aZNg9DH55sFIY8v9RmA0NoXri/s+mFYEN6lNYiRAhQEPNb3CgvUoddPJqBum0V2g2W0cv9Ts0hf2P8c6PYH6dGhp4hfRm4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPElEQVR4Xs3WTWsTURQG4Mk/mNVsZhPIIhAIhEApWQSykW6y60KKuFCQutCloFZFK1UqVVy4qkVLlaZVai2lVsSCpbbiQvCj+Heuee/Mm5w5uamZZpReODSZe9LzzP2a8byT33LGHa7+f95yZn3plllbvGHj9fMps7pw3QYRu5tz5tPGA7PzdtaB0jcxNDwCEQUQQ2M+vrlv3r+aSRTGd/TpSKJSIXNm48XtHhT+AsIgaHv1rtlcvmNz8dcFQr5EHx4smR97T4+HIgifOToEfVi7Z0HM7QfC737tL5rfX1vtWLEg1Kjk8zZ0ddWiYeddE4SiEiTvmKCt1rQTtLf1MAHCZ4J0ddVyiWlAIS5ufJeIuVpgrlV8M1ny7XcJknkAHWw/zg7EUULfxUrZXK6WzfpYaBYaoUU1C/inEagflhGBWulAXBcu0JXRqo3TxYKFjOVDGyyosQChH7mEA/Tz87NsQFO1ETNTr3VA58rFBOiqwkqQHKGhQQhMJfoBGm8XxWicKRVNI+wFoR/YSzGIaGAOv7zsYFKDJIqHG0AojPWEwiOeZ68jT4IBI4hoDdLV+7TobrFjJAjX7F2Hvjkb+Kbpe6bejpICzTa6Uwos+7nLUoKiMwgj5AJhiibboIkYVPT9HhDAyKmFgRskDkVdXbVoy7tALCZBKOgCMQfTVA26/ZmAiELfdH3U7jJse6wfFMa0sKDOma+H5mY1MBOF6CwaGiRHiXd+Pl4/WKgYIYxAM+wFYQQvVEp2cXNBR6CVDmYgEHbY30AYFU4HgiMgcwDCdDKIxggNODpoXZBeR+jDzpGHHnYYQCgoQTKHoDCe1qFBRBGEKbCPgXjL6zOIIOYRhb7uwzVC6eqOFoFc0yZB44FnTsUgXMeRQBB2l8wj+PvuvAXhDEpxDiVBctpwLbqrZBBDEKeVaFz7tvPk+CDssn4gvJThRQuPEFzjM44g/b6EQH4mID1tuC5BKC5BfO7hd8zF2+X+u0dJUPsMSn0OuaZNgvD5KBBf6pGbCcg1bRKEPj7fNAh5fKnPAITWu3BdodcPQ4PwLi1BjBQgz+OxflRooAy5fjIBDdo0chAso5v7n5pGukL/5kS3P+jheOekeRuwAAAAAElFTkSuQmCC",
     "wiki_name": "Zamorak d'hide boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_d'hide_boots",
     "equipment": null,

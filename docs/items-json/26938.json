@@ -1,7 +1,7 @@
 {
     "id": 26938,
     "name": "Easter hat",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-04-13",
     "duplicate": true,
     "examine": "A nice easter hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIElEQVR4Xu2Uy0tUYRjGPasoIhFlJMU7GjnhqJgpiRfyrqTD6DjMeMnJypQ0BtS0JrW8ZAPTZTRFUCgkWrUIWrUK2kWLVv05Tzzv4XOOpxZnZKzNeeHlzJzzXX7f8z7vl5Jihx122JFoaNDT/O6fhoLQUF9bjMqyHAOUhpbyM4ffTxAuvsH07WsYH6nHDV8NfO4qdDY7UVddZILQMONJl0wiVHxxbspcnOlCONSJuak2zEy2IHS3GcHAVfT3VKK54SJczmycTj0FX/05RMcc2JnMTIZa+mRPV4UoMOS9An9fNVbme7Dx2I21R714MtctcAv320UxQnFsd1sZmupK4K49i6nraZjsSsOdjlRRMK5iQqFJKW4N1WEi2IB7Y42YaPCKItGnfYitD8gzsuwROEISjuM4j0qpEhLoZmuqKEdIBVSen28VSvcHy8ByqFxoD+LVqhdbGz7svRzEdsQvv41wVIsHoJpUlhA1VQWiGAH5nw3AdxZV0kQFlsCY9MuGewqXeovxZTUX3yJ5eLs5gv3Y8B9wHEsoKkXv0EMXWnWotqbSQ5UuV+RZgdJE+r+ly1OCH68L8GunEPvT5/H1WS5+xgpw8GZU4BQYleIhWL71EQfehbLwYTYLWS4Hcioz0dvhOlTLQuk0WVB5w5hU5ePDbHl+f5GHz0s5OBhdxfvgmjz3h5exGwgj2hdCaUchnN1FCPvSMd+vt/3zUYc0BU1PjzEtAVENJT89w6RHqApLwBMTbNu/gL3BRQFRMFu+B1JalohQ7K5P4WysDGWIuVlG1a0snQUghu4jym82LuH4m+/4bTcaEAgmAWMDsyhqzBV1qgJOaYzN8Uws+TPkEmXX8mogmIKxAMTQO42+4KbcnCBmGPWN71Sy3LwG6CPjxcn1aHYFZlEdY2gymf4xdpIRxgyklOSlyW5TaQTjdcCOOwYQQ7+tuaiCMsKYoZSKxstS3eZcgx2m1kygXEdDn6SXkCc3w5iB6DPVpRzPJJwZ5FgwR0NfkD6g9CwDT87NlBpKCSYPoLySZJB4KLUSyRMBMYdxEytpnm+HHXb87/gNNYworGg1uscAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADH0lEQVR4Xu2U3UtTcRjHPX9HN0IXQSCIIENCUEREFCkcyRIlExtMDd9dOsZ0bL7k0kzTGPOlpebLklnzDQdKdBFEN12EFxFd9Hd84/scfu546uJMtG7OAw9nO+f38vl9n+/zy8mxww477Mg2NOhpfvdPQ0Fo8LRUo6Gu1AClofPe9bPvVwiX2WB+6hGmxz14EmxG0NeIvg4n3E1VJggNMX+B5CVCZRbnpsyVWD/i0T4sznUjNtuJ6PMORMIPERhoQEfrHbicJcjNu4ag5yaSkw4czBZdhlr6ZH9/vSgwOvQAoUAT1pcGkHjtw2Z8EGuLXoFbftkjihGKY73ddWh318DXcgNzj/Mx25+PZ715omBGxaxCk1JMjboxE2nFi8k2zLQOiSLJNwGktoblub3mFzhCEo7jOI9KqRIS6GlXnihHSAWUn5trFUr3B8vAcqhc7ong3cYQ9hJBHO2MYH87JL+NcFSLB6CaVJYQzY0VohgB+Z8NwHcWVdJEBZbAmPRLwjeHu4PV+LpRhtPtchzvjiOdGvsDjmMJRaXoHXrodpcO1d1ee6bS/fpyK1CaSP+3dPlr8ON9BX4dVCI9fwvfEmX4marAyd6EwCkwKsVDsHxb4w4cR4vxcaEYxS4HShuKMNjrOlPLQuk0WVB5w5hU5dOrEnl+3ynHl9VSnExs4ENkU57psTUchuNIBqKo7a2E01uFeLAASwG97d9OOKQpaHp6jGkJiGoo+ekZJj1CVVgCnphg+6FlHI2sCIiC2QsuSWlZIkKxuz7HS7A+WijmZhlVt7J0FoAYuo8ov9m4hONvvuO3w2RYIJgETA0voKqtTNRpDDulMXani7AaKpRLlF3Lq4FgCsYCEEPvNPqCm3Jzgphh1De+U8ly8xqgj4wXJ9ej2RWYRXWMoclk+sfYSUYYM5BSkpcmu02lEYzXATvuAkAM/bbmogrKCGOGUioaL0t1m3MNdphaM4tynQ99kl5CntwMYwaiz1SXcjyTcGaQC8GcD31B+oDSsww8OTdTaiglmDyA8solg2RCqZVNXgmIOYybWEnzfDvssON/x29ww72TLXtpPgAAAABJRU5ErkJggg==",
     "wiki_name": "Easter hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Easter_hat",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20543,
     "name": "Reward casket (elite)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-28",
     "duplicate": false,
     "examine": "Cross your fingers and your toes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACp0lEQVR4Xu2VwWsTQRTGs4SlIMuCF0E9tAgVrNBqQYrUkEKoNa1EWwkllkgbYqi1pQ0xhFJbQxELRfwbPHnppSdBBEUKxYN48CZ4EA+CJ29en3w7vM3sOElm7TYI9sFHsrPJfL/95s1sLHZU/3dZpFfHKmg8PDziafBMnIbOCl05Fz9MqCAAjFXzsbEblE5P0sh5cQ3he4RQDYDekzEtBJtCowNxmpy6TdnsHZqenqXMpTilL4rxA0A1IPr7B7XLoEJAMIYAMTNTpHy+RNnLNk0N2d4Y5rvQ02MK1YA4dVwkkUikKJm8SqnUeFsAFsyh2bn7VCgsUbG4TLmE7YMZpiSWY6A7mALM0Q8TE7cok8m2BIBgCgGgVCrT/HyFFhaqtLhYo3xSjBumJFLpOy2S4RTYHGa5XMGTas4ALBhDcymbllceUqVS93R3VIzhnkFKFnWfiAVSkmFgyksAqeYMwIL5vWs2LY3btLr6xBfGMZdBSg0gpAQgpAQgTkCOH1IBZAhZa2tbvvAbw+YWQIBBQlg29BBSAhASwGRYAqhc3mgJIWt9fdsX4DFnKCDe3tzUvEMwGXqhWt2kWu2xtwRsWr7e1VQbj576woP9NZC8vRmIewLx44lV82aq1595whyhl0wG4sZmICwPQPC0MHhws8vXp12HPuw4tP/CobfPjwXuHQiIdxkD8S5jINmADT+/dOjra5e+v3O9T1zrgNBzfDgaAcnbXgZCH7UC+vLKoW9vXPqx59LP9y79+uhqgfD/SIDaJcRAMkQzIONzCCe1DkjtIR1QO/3TQKHeZyoQtnzUQPwuMwBCWYcKhPkZxhAIZfkndVRAKkgIGC7rDyBEbQrEABGAyGWFAmoGEAGIXJYWSE1AB6HOFGG1N+8ARLBU446aH5VSvwG20yhxo2YwLwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu2VwWsTQRTGs/9BTnvppeBhYU+9eRDBSw9CEUShFClIwTaQEqg1rdFWQokl0oaE2oaaNKQ0NaKI6F/gwYMHDyK2IgoiXkRExIMHT0++Hd5mdjpJZttNEOyDj2Rnk/l++82b2VjsuP7vskivvlXQeHJy2tP42ThNnBOaOh/vJVQQAMaq+ezsDUqnF2j6oriG8D1CqBbAyKmYFoJNoZmxOC0s3qZs9g4tLa1Q5nKc0pfE+BGgWhCjo+PaZVAhIBhDgFheLlI+X6LsFZsWJ2xvDPMNDQ6aQrUgTg+JJBKJFCWTVymVmusKwII5tLK6QYVCmYrFTcolbB/MMCWxHGPDwRRgjn6Yn79FmUy2IwAEUwgApVKF1taqtL5eo3K5TvmkGDdMSaRy4YxIhlNgc5jlcgVPqjkDsGAMraZs2rzXoGq16ak0I8ZwzyAli4ZPxgIpyTAw5SWAVHMGYMH87jWbynM2bW8/8oVxzGWQUgsIKQEIKQGIE5Djh1QAGULWzs5jX/iNYXMLIMAgISwbeggpAQgJYDIsAVSp7HaEkNVoPPEFeMwZCoi3Nzc17xBMhl6o1R5Qvf7QWwI2rVwfaKvd+0994cEODSRvbwbinkD8eGLVvJ2azWeeMEfoJZOBuLEZCMsDEDwtDLZuDvj68sqhTy8d+vDCof3nJwL3jgTEu4yBeJcxkGzAhl9fO/T9rUs/37neJ651QOg5PhyNgORtLwOhjzoBfXvj0I89l369d+n3R5f+fHa1QPh/JEDdEmIgGaIdkPE5hJNaB6T2kA6om/5poFDvMxUIWz5qIH6XGQChrJ4CYX6GMQRCWf5JHRWQChIChss6AISoTYEYIAIQuaxQQO0AIgCRy9ICqQnoINSZIqzu5n2ACJZq3Ffz41LqL/2q+LBKLwyEAAAAAElFTkSuQmCC",
     "wiki_name": "Reward casket (elite)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Reward_casket_(elite)",
     "equipment": null,

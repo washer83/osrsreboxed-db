@@ -1,7 +1,7 @@
 {
     "id": 3999,
     "name": "Zulrah's scales",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-08",
     "duplicate": true,
     "examine": "Flakes of toxic snakeskin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdElEQVR4Xt3W4UsTcRjA8R3HcdxeCGIIGW0yMbBGxmDMmOWCEI0QjJJ8UWBYmpElLRD0xSBDCKIgECSEXgi9EIT+wqee57dn9/s997tu7i4cPfB9MdndPt52z5bL/X/jgKovxoHGjAvjY7k26txhCsSoPoAp0NaeD6tN1T+A8YlkchyYrquro4Owla3MYA48W16O1KjXLSc1QTYUV6m4luMTx4H1u7dhY3YGvgwGRgiKohSIMRK0+MSjGHNjdJQKj08cBToaMjH7OzsUgsoTE523ADEStNny4eGKR9lA8hUTJgTpKAZJlAStbftQLKt01HAhIxCjdBCHqPk5l3q163diEKMyB2EnL/JGheFBmLvToErXRgyUDuJ6BCmMBB3X4kHuzWkKUVz5VhApMxBiOB2DEWZ2Htx7C5A/bRFmpHQhttQgHaOjCPMHQRgN1OnXB8gNDKjadyNjegZVxi/H5r18HWIE6OL391ZMfIkjD7BUKILfXArbfkwQTgc9XXoEu2/fUJOFS5G6QvGlDS+xgnQ+Czpob4OygRjDa4J3mo4549toQgxQa03VBukoBsm9Jb+KGCRfNWYcmLzuGn08DCi3WjOSqCQQ3jDVUvHsoAeLHrV/FFBxIBmD8I6UIF4nqUBff5qgq1NhEiNBevqy7Qm0cN8l0LeTvIFiDH9V1GpqC0sUQ3iHZQpiFIY/L/QYhLWa76B6pUjJpaqjMgPx5wn7G0guU4nqAYSjUAenCvTpR0DpKIxBvLMkxlZq0OdjhcGer3qRzJNHt3umIEwCGMHJjcuPw79HkfKYLkaBkhDdnlg+v5tjLGP/r1KcMP30BeK85zc2p/ekEjAMegAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdklEQVR4Xt3WQUsbURDA8ew32NNe9rKQm6dQEA9FaAk5hEpBWlI8BEKKsdQUimhRsKDUQwsWtbWt1QiiEGqRUoRSSoUiFET8UGNnXib73uzbbsxuMXTgf4hkNz832Ulyuf9vHFANxDjQnHZh7E6ug7p2mAIxagBgCrR96MNaS/UPYHwimRwHphrq6uggbHU7M5gDr1dWIjUbDctJTZANxVWrruX4xHHgzdPHsDkzDceFwAhBUZQCMUaCFl96FGMKQUCFxyeOAp3cMDFH+/sUgirj4923ADES9KHtw9KqR9lA8hUTJgTpKAZJlARt7PlQqqh01EgxIxCjdBCHqLlZl3p34HdjEKMyB2Fn63mj4kgBZp80qfL9UQOlg7g+QQojQaf1eJA7OUUhiqs8CiJlBkIMp2MwwszMgftsAfLnbcKMlodjSw3SMTqKMH8QhNFA3S4+QW5oSNW5GxnTN6g6djs27+37ECNAN3/uWjHxJY48wFKxBH5rOWzvBUE4HfRqeQkOPm5RE8VbkXpC8aUNL7GCdD8LOuhwk7KBGMNrgneajrni22hCDFB7Q9UB6SgGyb0lv4oYJF81ZhyYeOAaff4RUG6tbiRRSSC8YWrl0tVBzxc96ugkoOJAMgbhHSlBvE5SgY5/m6B7D8MkRoL09GXbF2hh3iXQt7O8gWIMf1XU62oLSxRDeIdlCmIUhj8v9BiEtVs7ULtbouRS1VGZgfjzhP0NJJepRPUBwlGo7+cK9OVXQOkojEG8syTGVmrQ11OFwdbXvEjmyaPbPVMQJgGM4OTG5cfh36NIeUwPo0BJiF5PLJ/fyzGWsf9XKU6YfgYCcd1zCeR4sKFnJRuyAAAAAElFTkSuQmCC",
     "wiki_name": "Zulrah's scales",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zulrah's_scales",
     "equipment": null,

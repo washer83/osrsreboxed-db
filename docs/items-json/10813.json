@@ -1,7 +1,7 @@
 {
     "id": 10813,
     "name": "Split log",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-06",
     "duplicate": true,
     "examine": "Used to repair bridges.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEElEQVR4Xs3W+0tUQRQH8N2/JAsiKCgLKqMiw0r8JRVT88GW9ljcMqzsYUuRtS2WIWz2YIs1DNlEygh6UfSCgv6rie8s3+uZ46zedW/hwOG+5jKfe2bm7MZiq7/FjT98z/95i5vxdJu5O9JqI3ulxWSGm20QMZPrM9MTx8zU/YQHpT+iangJRBRADI0p3Os1T7LdzsC4xjMdLqoiZNxMXD+yCIUjIAyCHmWOmtzNDtsXRx8I/SX661zafC5eXBmKIJwzOwQ9HeuxIPYtB8J7X2ZHzI/5UfNz/rYFYYzamhobenTVSmnnVxOEQX2gyVudAQjnPlBxst8B4ZwgPbpqcWcaMBAXN641CIMDwektB5p7fCo6ELOEez4QM0kQsqZBr/OnAxCiIhDXhQZhcA2SC3op0JtnSRf08nJ1IO4OgIhiJuWOZD8NelsYiA6Eex0HN5iuxo3BgADpBY37fc2bTU/TJgeFvh+mzwagb69uBJiKQbg+VLfWgk62bjGp9q1msHObvU8QMXh2KbHTDHVvXwT6+OKcF6RHL9NKWcBgzA4wMpAJ9kO01K+3kPGh/SYzsDd4TtCnmfMrBZVqEDIEELOkQRqG6bx6vM6C8tcanQxhzUmQLIp6dNVKW16DuI6SbbXeIGw0ucdMXGhwMMhOpCCimKkwMPZDRAqSWcIRX4yfgLAw4mYfnghAqNLEhAJh5/hA/DkACF8M+HKwdP8u8z3fZfvIDIXMDtoCSK8jVl+CcM0KjfeyZ/Y5mLHBevP7ecK8f9BuincO2z6RgIjCfawHgvBcFkSAcsMHgvM/xVSQHZ0hovTonlYC+aatHAjvNOxY44BkoP+7qVQAQg2qoA65IDltEoQj7jM7TbvX2SkiSNafqkFYrMuBMJj8yUCF/lXodUDc7pGB9LThvgTJvxxyivAe+wKELS9BqEEV1yHftEkQziUIa4nFE+8xQ+gbCcg3bRKEZ/I/kAShn1w/VYLQ3F1SLiRGhgbhv7QEMSoAxWIs60uFBsqQ6ycSUNimkWGwjIW+/6lppC/0O6u6/QUIEoKq7/6PNAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xs3W60pUURQH8Jk38RF6iYigD0FBVASVdIFMKvFDKjKaFyytxGnC1JosGkeZTMxsygll0m50t0B6mJ3/ffgf117u0TnOKdywOLd12L+z9mUmkdj9LWn84Xv+z1vSTI+3m0K2zcbUg1aTH22xQcTSbL9ZnLluSs/6PCj9ETXDAxBRADE0ZuFpr3k52e10jGs80+GiIiGTZuZRahMKR0AYBM3nr5nZJx02F0cfCPkSvboybr6XR3aGIgjnrA5Brwo9FsTcSiC893M5a35/yK3HhAWhjz11dTZ076oFZedXE4ROfaC5XGcIwrkPVJ4bcEA4J0j3rlrSGQZ0xMmNaw1C50BweCuBVuZvxwdilXDPB2IlCULVNOh9UYJy0UCcFxqEzjVITuitQB9fDzqgH2/v1wbi6gCIKFZSrkjmadCnhaH4QLjXcfmg6Wo6FHYIkJ7QuN/fcsT0NB92UMj9upgJQavvHoeYyCBcX6nfZ0G32o6adOq4yXSesPcJIgbPxvpOm+Huk5tA3xbvekG69wotqAI6Y3WAkYFKMA/R2nDAQqaHL5r80PnweQhaurdTULAHoUIAsUoapGEYzuyNegsqPmxyKoQ554DEpqh7Vy1Y8hrEeTTYfswbhOUGz5mZkUYHg+rECiKKlaoGxjxErCBZJRzxxfgJqBZG3PKLmwI0EWKqAmHl+ED8OQAIXwz4drDxgTPmV7HL5sgKVVkdtA2QnkfcfQnCNXdovDd154KDKWQazNqbPvPlecqUJ6/anFhAROE+5gNBeC43RIBmRy+F53/K6bA6ukJE6d49LQD5hq0SCO80ntrrgGQg/3MpHYKwB0XYh1yQHDYJwhH3WZ3ms/vtEBEk95+aQZis24HQmfzJwA69Vup1QFzusYH0sOG+BMm/HHKI8B5zAcKSd0Dre1Dkfcg3bBKEcwnCXOLmifdYIeTGAvINmwThmfwPJEHIk/OnRhCau0oqhcTI0CD8l5YgRgRQIsFtfavQQBly/sQCqrZpZDVYxkbuf2oa6Qv9zq5ufwGy/X1aQtTFGQAAAABJRU5ErkJggg==",
     "wiki_name": "Split log",
     "wiki_url": "https://oldschool.runescape.wiki/w/Split_log",
     "equipment": null,

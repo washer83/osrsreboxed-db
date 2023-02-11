@@ -1,7 +1,7 @@
 {
     "id": 27300,
     "name": "Akila's journal",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-08-24",
     "duplicate": false,
     "examine": "A journal found at the entrance to Osmumten's Tomb.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRklEQVR4Xu3W3yuDYRQHcE+SSJYmS0okCiUUUigXkqzQyI/YxS52xcWu5GYX0iRkreRC/tZH3/N03vc4npe9+2GSU6e9UXs++57z7l1b23/9/TI27JaXsYtjPXZu1HWLccYuT/QSSKJmhrvt1FD3T8OMXZ1MEIhREsSoj7Cm4hyIUb6UGDU+2EU9OtDZLJyx69MJapnS6+tj0DoliRpKum4QztiNmb4PIEZJkGyJAkiiUokO6hpRxm7NJgkUhcLYNEi2RknQ7MhIXJQDRaHkgvM+6aT06CQmJsjY9HySWqJ8KX1310lQOr1RSzrG7i70U0uUL6Wv7jq94Ht7W3ZnZ5P+F2OHjN1f6qeWKN/ofCkxSqeEdDKZbbpO9rTHScnYw+WBTyCN8qUUNTqM6+hwN4DF2CFjT1ZSASgK5RudLyU0EKenGRoZf4tXjcmupQKQRvlSqmZ0SCebPaDrGBhUCNIoX0rVjA6p5HLHNDY5Kn1yRLndYVC9o0Mi+fwZYQCLmQ7KfQniMBwMRD2jAwKgGkbF5Z5Z6Le3J3rVQF9KvtFheS8ucgSrEYMKQYzhRwAO0kANYhR2p1DIBzsUc29kuR3CYfIQXL+83Nnn51v6xEhAAiWK0+Fbvo50uNxvFd4bpCBhlcoNdbl8/QmHBuLy8pz+3gCMK/cG4Q8p3htOAa9APNwXqYHAeAAsFguNxcgK39DBgOFllrBS6SpooPjB2VCMLp0aUpA7BBh//zQlnajSqaGBAAiwH8Xo8uFahtHFkF+BaUa9A6S2NfYc+u5bAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu3WTUtCURAG4M4/aNWmjdAiCIQQIqRN0KJFEURBUAQVRBG0iIikRKQPyoXgyoWbWgiRFIUEBfXfTrxzmHvH8dzy+pERDQxeCjyP78z1OjDwX3+/jA2772Xs5tyoXZt13WecsdsLYwSSqJWZEbs0PfLTMGN3F5MEYpQEMaoR1lOcAzHKlxKj5qcS1LOTw73CGbu/nKSWKb2/PwetU5Ko6ZTrLuGMPVgZbwAxSoJkSxRAEpVODlG3iTL2aDVFoCgUxqZBsjVKgsYTibgoB4pCyQXnfdJJ6dFJTEyQsZn1FLVE+VL67q6ToEzmoJ10jD3dmKCWKF9KX911esGz2SN7cnJI/4uxQ8bmtyaoJco3Ol9KjNIpIZ1c7piuU6ODcVIy9mx7sgmkUb6UokaHcZ2fnQawGDtk7OVOOgBFoXyj86WEBuLqKkcj42/xljGFvXQA0ihfSq2MDukUCnm6joFBhSCN8qXUyuiQSrF4QWOTo9InR5TbHQZ1OjokUipdEwawmOmg3JcgDsPBQHQyOiAAamNUXO6Zhf74qNOrBvpS8o0Oy1suFwnWJgYVghjDjwAcpIEaxCjsTqVSCnYo5t7IcjuEw+QhuH57e7Svrw/0iZGABEoUp8O3fAfpcLnfKrw3SEHCXl7uqev1uyYcGoibmzL9vQsYV+4Nwh9SvDecAl6BeH6qUgOB8QBYrVa6i5EVvqGDAcPLLGG12m3QQPGDs6sYXTo1pCB3CDD+/ulJOlGlU0MDARBgP4rR5cP1DaOLIb8C04v6BNrD9Dnjj8XxAAAAAElFTkSuQmCC",
     "wiki_name": "Akila's journal",
     "wiki_url": "https://oldschool.runescape.wiki/w/Akila's_journal",
     "equipment": null,

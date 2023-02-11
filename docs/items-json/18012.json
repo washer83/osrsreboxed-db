@@ -1,7 +1,7 @@
 {
     "id": 18012,
     "name": "Mining helmet",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "A helmet with an unlit lamp on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xu2U70tTcRTG930RQoz+haQXghk6Q02xpbKtbS7utrbFSjMQzCizUcpCxRJpMSxTVowxTPs1JoaJ9M5eFNHfdew563t353Yp773vug88bN+7H+dzn3POdThs2fo/JajqRtJ+rvcdyyRov7RCr7P3aXbqWoOCgs61tta4/juWqHrHn7eW6d2bNC2lx2h8JFCTRl9XF13o7GR3tLWpQK7mZisTE1QqzDEE3peLC+wXS7dpeiJK4UAfXertpcH+fvK43bS1GaLz7e0MpIVaXb5Dmflxs1CCNnOznMr2xiKD4QwXXqZoLnWdLvb0sAH16+cY7e3GqJD3q0DSaLMEqiR2bFXu6suHDM8NXpEMkpJAKKAF+vH9Bu1sRyiX8+kCNZ69f5Lg4gf7RfpaXuWUPuYf8zWAbaw/otzzezVA3w6SVC6FaX3N+1cgwykBAOmgZUgGZ/wpzgDMrzxQBxZgcqi7XR1szBOsBZq8FTKaEiS4MGCKrx6qxdPTSdp5+1RNC9ewZTItmdxI3MPtxRJgM+XvkZDhlC4PDNBa5i4Nez0UGBrkM4ytkgOP5FAYicF4L4vDizM3KTUZMw8DgLDfT9FgUNe7758xGLYw+2SC00A6aJUEsCQZJIKCCUWpczISqXFCcdLepyyDBb0nuW2YobMtLX9gHA5TMIrfyUVGE6d0nbxaNVKSjwW0EBvY7Wr6/WBsojOnT6hQBqUPpIWQxnBj8KPDTp4fnNE+PMewVRLIYDqQ4LlBa0bjsTqAo0YiAMFNoF2AkWlpEzIIJHhuYqGQzqzUzxOAsPpXfD5eAmwfrsUVN88RHowmgKDqulplEwNdkfwDK320hi1btmzZOqYOAbWOsndkWfQTAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xu2UTU8TYRSF+/4JN2xIXDRx5Z9w4YaESCRAJCABG8GmtS112tqMqYKYkBSiYIOkoiik2gAl1TaVL5tJg+BGEj9+zZVz6zud0k6Umdk5Jzlp3+nHfebce8fjceXq/5SghtvJ+LnZdxyToOPqBn3IL9DywoM2BQVd7+5ucut3HFHjjmt767T/MUtr2RmanQo3pTE6OEg3BwbYfT09OtDlzk4nExNULa8wBN5rldfszbU0LaYTFAuP0u2REZoYGyO/z0d7u1G60dvLQEaorfV5yr2atQslaLe4zKlon1YZDGe4vJmhlcxDujU8zAbUr58zdHSYpHIppANJo80SqJ7YuVW/qy8H73hu8IpkkJQEQgEj0I/vj6imxalYDJoCtZ+9f5Lg4ifHFfqqbXFKB6WXfA1gO9tLVHz/rAno5FuKtGqMtguBvwJZTgkAnM5py5AMzvhTnAFY2niuDyzA5FAP9fexMU+wEWjuSdRqSpDgwoCpFJb04tnFFNV23upp4Rq2TKYlk5tS/dxeLAE2U/4eCVlO6e74OBVyT2ky4KfwnQk+w9gqOfBIDoWRGIz3sji8+uIxZeaS9mEAEAuFKBGJmPpwP8dg2ML8mzSngXTQKgngSDJIBAVVRWlxKh5vsqp46ehznsEigYvcNszQta6uPzAejy0YJeTlItPqJVOn7jeMlORjAS3EBg71d5w+GDvo6pULOpRFmQMZIaQx3Bj8xKSX5wdntA/PMWyVBLKYDiR4btCaaTXZAnDWSAQguAm0CzAyLWNCFoEEz00yGjWZldZ5AhBW/14wyEuA7cM1VfHxHOHBaAMIaqyrU7Yx0HXJP3DSZ2u4cuXKlatz6jdgcCmwZ9+QPgAAAABJRU5ErkJggg==",
     "wiki_name": "Mining helmet (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_helmet#Unlit",
     "equipment": null,

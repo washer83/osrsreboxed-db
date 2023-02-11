@@ -1,7 +1,7 @@
 {
     "id": 20079,
     "name": "Zamorak godsword ornament kit",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "Use on a Zamorak godsword to make it look fancier!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADS0lEQVR4Xt3X+0tUQRjG8R0kwhBBisIkr2xihruKri7eVry1KaZt3m8ZYheVQroSBElIEETQL/23b3zfbXbnTGd1LY9BAw+Cu+ecD++8M3M2Fvs/hpFg/skoAhKtV6W1+bKkOmplNN1wnqgiYnqkpQDIDjVrNuZuS27ipn6ebGyMGmXk8VJSHzg7Fi/8JdvzCXm70ydfXo/IVq7j/EDLU7c0C9lWzbOVTnm0vCzbq6uys74uTzc35cVmj0wMNEU5bcVpArM60y4r9+dk7UFONhbmJdHeLunubkWRj/sDio2oSnkE00PP0C+D3XXaOzRyvL5GbtRWyZWaSrlUeUGrdXQwrFMbGYhmZQoIoEyqXgOMpJPXFUgeLi5qXm336nURTFt+NdlVVAoGijCNt9va5NPzQZ3aCKpkCivJh4HyYfQTKEA0fCQg+scucVAu7OjoewBGcy/NzmrTv3+S1u+e8bTlm5pVEwY7PPwWqFhrS4vMz8woitUWwZ5ktBfcvceFAbIVA9WTTEhuakoDiD3pzEEcB6DCYIDcilGhe5OTMpfNaj7s9heOEv/OfziMlh2Uhdndem/vjYLcI6Shrk6mx8d1pQEDxLFycpXKBhu9IfFhgPyKUSEwBBgg9qTfQe6ripHqyli5VcwfqMSiLAyQWzFQ8aYmXWl3RjKau2OjutrsUWLvOZeukupYrJC1keoQdOgwsr/epXuKD7NT5vZXpr9fUaODgzIxPKwoQME9yUi8IhbIj91r5YNYKRZFuAEoQG7FQA319RUOW1CE1xJyHMh+VhboYCulKBfm39DCgAykUlolcFTMoqigO21hoOCzQ4fRpgRlYaDI+MWKAI6q9XZ2KormBgaKAAruSUavJ5lfKWKPHaZQch/Gzfz+YmMkgIDZinEtKb64hYPKqJLRpiQWZWFUxa0YMPqnq6NDQcCoGFNpr6PX3CqRU4PYS4gPA+T3F/sPKEKT87lbYX9PcmFlNzWvEpxLLsx/iIVx4luI+3370FIPDvtfiWH0lRSUD2NawvrLfjcMcYoHlxpGPr/MKMrCQBFAfsUiQrjD6G8tUgrm9pcP8e92BsPI13ejGos6DmZB/l3OeBSn4aREWJng8PvhuPjX/u34CZQk3WqY0Nl1AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUklEQVR4Xt3X70tTURzH8d3/oEc96cmgB4KPJIgICQwREUdMEoeK4pTp0G34o6XmGv7+laH9cBT2QyKQjIiCHvTXfeP9XWc793S3ZnkNOvBBcLv3vvie7znnLhL5P4Yn/vyTUQX0x29IvOuaJBOtkkt1XCSqiljIdlcA+ckuzU6hT4qzd/Tzlmg0bJQnT9YG9IFL07HKX7K/3C/HB2Py+U1W9oqJiwOtz9/VrOTjmucbg/J4fV32NzflYHtbnu3uysvdEZmd6Axz2qrTBGZzsVc2HhZka7koOyvL0t/bK6nhYUWRk9KEYkOqUhnB9NAz9Et6uE17h0aOtbfI7dYmud4SlavRy1qtj0dTOrWhgWhWpoAAyiTbNcBIauCWAsmj1VXN6/1RvS6EaSuvJrOKasFAEaaxr6dHPrxI69SGUCWvspJcGCgXRj+BAkTDhwKif8wSB2XDTk+/+WA099rSkjb9u6cp/e45T1u5qVk1QbCTk6++isW7u2V5cVFRrLYQ9iRPe8Hee2wYIFMxUCMD/VKcn9cAYk86dxDHAaggGCC7YlTowdycFPJ5zfvD8cpR4t75D4enZQdlYGa3LpXeKsg+Qjra2mRhZkZXGjBAHCu/r1LDYE9vSFwYILdiVAgMAQaIPelXkP91pTkaabSK5QOVGJSBAbIrBirW2akr7V42o7k/ndPVZo4Sc89CqkmaI5FKtrLNAejA4Ulpe0j3FBdmpszur8z4uKJy6bTMTk0pCpB/T/Ikdiniy/fDm42DWCkGRbgBKEB2xUBNjo1VDltQhNcSUg9kPmsIdLSXVJQNc29oYEAmkkmtEjgqZlBU0J62IJD/2YHD06YEZWCgyMyVSz4cVRsdHFQUzQ0MFAHk35M8vZ5kfqaKrTu8SsldGDdz+4uNkQACZirGtaT64hYMaqBKnjYlMSgDoyp2xYDRP0OJhIKAUTGm0lxHr9lVImcGsZcQFwbI7S/2H1CEJudzu8LunmTDGm5qXiU4l2yY+xAD48Q3EPv75qG1Hhz0vxrD01dSUC6MaQnqL/PdIMQZHlxrePLpVUZRBgaKAHIrFhLCHp7+1iK1YHZ/uRD3bucwPPlynNMYVD2YAbl3OefhP5nrJcTK+IfbD/XiXvu34wep2K1PInV6qwAAAABJRU5ErkJggg==",
     "wiki_name": "Zamorak godsword ornament kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_godsword_ornament_kit",
     "equipment": null,

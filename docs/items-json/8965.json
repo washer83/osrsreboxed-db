@@ -1,7 +1,7 @@
 {
     "id": 8965,
     "name": "Grey tricorn hat",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": false,
     "examine": "I could never look square in this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2klEQVR4Xu3WbUsCQRAHcO+VJGFIkqRkmmSY4UMY0cfqAXwhmpUpZmZpEhRF9EU3Zpf/Nbfp4W2Xr25gOD3vdn7OjlehUBBBBBGE17CEyqUHCvPilni8uRbj2w77TL/G91AFJt2uLH5/2bKL7maz4m04FAeFgigXi/L40u/La/8JZckiSBTbz+fFXi4nQduplHyPa+g10meUE4M8LJXkkYM2EwkbxUH03ieUwlA3ADmqlCUGW6ODNuJxsRaNOkA+oRQGs3FcrdoYDqJiOmg9FhOrkYjE6ltXyWRMUJZcgIpSAqODKDloK5mUGErqko6i2TPskgLRVlFxt+5gy3bSabs7HLQSDvuB+ukQIPrs6Bjqjg56HQzklr+PRuJj/CS+ps+mKEs8XLVt0EmtJo/zMPr8UMFpr/cr8Qyjez3Ok7NDhHDDUHcAAgZbRNciO/W6aF+ci9bZqReQJXqNhg3C88YNAxDH8HtwH87fNZveQHgK080AmWB4V3Eerz2BPicTB8gNQzkLwxPnMTvALAiiUDOERf6CAYgPskcMhSULAbQIhucskEFX9FB/OjiGg+Zh9KQ1fMBQKBDHAEQPvFkY/hOnL2I4L26h//fnLQ3nxT34oiaprxdEEMuKb0tipGSeUHEVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3ElEQVR4Xu3WbUsCQRAHcPdz+EbwRSAEEkhICIaEhCFJkpgkEfSlMhDUNE3TTDN6oL7Zxuzyv+Y2Pbzt8tUNDKfn3c7P2fEqEgkjjDDC8BtC6tx4oDAvLuT0ridngz77zLwm8NAF5vcDVXxy23GKHuXz8m0ykaelkqyWy+r4Mhqpa/8JJVQRJIqdFIvyuFBQoINsVr3HNfQaGTDKjUGeVyrqyEF76bSD4iB6HxBKY6gbgFycVRUGW2OCdlMpuZ1IuEABoTQGs3FZqzkYDqJiJmgnmZRb8bjCmluXjMVsUEItQEUpgTFBlBy0n8koDCV1yUTR7Fl2SYNoq6i4V3ewZYe5nNMdDopFo0GgfjoEiDk7Joa6Y4Jex2O15e/TqfyYPcmvxbMtSsjHXtcBXdXr6rgKY84PFVwMh78SzzC61+c8uTtECC8MdQcgYLBFdC2y32zK7k1DdhrXfkBCDlstB4TnjRcGII7h9+A+nH9ot/2B8BSmmwGywfCu4jxe+wJ9zucukBeGchmGJ85jdoBZE0ShZwiL/AUDEB9knxgKoQoBtA6G5zKQRVfM0H86OIaDVmHMpDUCwFBoEMcARA+8ZRj+E6cvYjkvXmH+9+cvLefFO/iiNmmuF0YYm4pvbBFBR2KbqYQAAAAASUVORK5CYII=",
     "wiki_name": "Grey tricorn hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Grey_tricorn_hat",
     "equipment": {

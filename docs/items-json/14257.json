@@ -1,7 +1,7 @@
 {
     "id": 14257,
     "name": "Mining hood",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "Mining skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHklEQVR4Xt2WbUsCQRSFHcIPRSihJCm+Y2GGb6gpWSJJIQUihUj9/99x84xcd3Zc13V3VqELB2TZuft4zuzdiUT+VwmydLKyIDqdW6rXS1Sr5U8FJWg67dFk0qbRS50Gg/sNVPUue2woQbPZQAK9v3VoPG7ScPhAj70qtVpl6dIRoQTN50Opz4++BFJdUqFwb7NQCBtK0GIxou+vZ5tLDAWnAIboSqWbsF0SEuT351UCICoVAu5gH7EqlUzYLglaLseuMIgLwnXso0wmGZZL3mAQFUPhej6XCsslIaPaB6OKwZLJuGmXLHfcYPBmQToYFI2emYQStqhUmFIxudq811StplYw6Q2UDsZzyUB021EBJJ2OUy535QCUpkYj4whmaAxY7gAkkbigVOpyC0iFYbVbWblGBTPg0vrDiX8Xi517BgIM1O3mpXANMTOU/hSPJWRMaIIhtw9Id0cFwm+e4AFcErIJf5u8AjGMCgRxr0BA6ld8FxBvaDcYCL3QJ8BJwAKC1X6B+v2ilA7kw6X1HjoUSHcmFCC3PeQGxDAMxGMgEBA3OQRIBTEKpDbRgQDDUqf1LjA1fqNAOswuMAhgw6eynPT6a+8biOcQw3BUuvRvGwuOGYgLZR+MiAoPZakgunRYjirAG4ayA/EZ+VA59TAKxPl7Ee5HVOwOH0F8AqGEDYjPyPpdu8t5fQAglD0C6997raDrHWo7isPKz/o/Sx4nIiJ/lMEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJElEQVR4Xt2WUUsCQRSFm3/Qk89CD4EgiCAhsaCIiCiRJImJookZiSGFFCKRSP3tm2fkurPjuq67swpdOCDLzt3Pc2bvztnZ/ypBtk5WNkSnc0ONRpnq9eKpoARNpz2aTNo0emnQYHC3gard5o8NJWg2G0ig97cOjccPNBze02OvRq1WRbp0RChB8/lQ6vOjL4FUl1Qo3JuKx6OGErRYjOj769nhEkPBKYAhunL5OmqXhAT5/XmVAIhKhYA72EesajUXtUuClsuxJwzignAd+yiXy0Tlkj8YRMVQuF4sZKNyScio9sGoYrBMJmnaJdsdLxi8WZAOBsVi5yahhCMqFaZcyqw27xXVatkVjLWB0sF4LhmIbjsqgFhWkgqFlAuQRc1mzhXM0Biw3QFIOn1B2ezlFpAKw2q38nKNCmbApfWHE/8ukYj7BgIM1O0WpXANMTOU/hSfJWRMaIIhtw9Id0cFwm+e4CFcErIJf5v8AjGMCgRxr1BA6ld8FxBvaC8YCL3QJ8RJwAaC1UGB+v2SlA4UwKX1HjoUSHcmEiCvPeQFxDAMxGMgFBA3OQRIBTEKpDbRgQDDUqf1LjA1fqNAOswuMAhgw6eKnPT6ax8YiOcQw3BUuvRvGwuOGYgL5RyMiAoPZakgunRYjirEG4ZyAvEZ+VC59TAKxPn7Ee5HVOwOH0ECAqGEA4jPyPpdu8t9fQgglDMC+9/7rbDrXWo7isMqyPo/aVb0gSPE2wYAAAAASUVORK5CYII=",
     "wiki_name": "Mining hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_hood",
     "equipment": null,

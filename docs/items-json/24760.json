@@ -1,7 +1,7 @@
 {
     "id": 24760,
     "name": "Graceful boots",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-06-04",
     "duplicate": false,
     "examine": "For your graceful feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzklEQVR4Xu2W204CMRCGt49AJBohIkjEIIaDQcQgYoJ4YXz/16n5uvnZspwKFr3ZSSa729P/dWZaSJLCCitskxmbb/lHM7bX6dgU6iRghy6aAj0PBvZ1NIoNZdzC2W5DFzf2qd+zb+Oxm9Ov1wPnBVkK9TIceqnYZ8Y+tNvLCEUHYrcA4eECxktZyCaCzdjHbtfBhKcghQDofTJx0YoORdoEtHvX2djP2cx+LxYO6Lpa3THnKMtSoIitwknMLGFUe4y/qlTcmP3RPciyI52PwHm5vASj5gQjv7y4OB0QAPPp1H59zJ0wAGelkhO8bTRWYICmjg47EMFmHAgpkCiRIpW00X/fajlA2uhjDN9shL4stVHMOAHdwsDhAkLwplazd82me1d6edKmwo4YpTQCiChCgiFV1BGivANAanEVNm2RgTCzFgUEeQICkPoFxDi+ldaIQGZFECGJEjGeHO9tQADjkerIOLFtQEqlnzb1C0geCWo/kMT09IH8sZGgstrJA+lukrD6/OtBziGIdA2kl55qQwv6QJuixTz6gdMNHvEayH63EGVh/TVh53L/TvLnbHJgfgGUJNkC64tvco3f5XmNoy2/8DbPzyussL+0H3V87aCOGvrbAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0klEQVR4Xu2W7UoCQRSGnTvxEiSQkBAMCQlDkiQxSTLJJEOyH9HdTzyzvM64rrraWH/2wGF35+t95pwzo6VSYYUVlmXGplv+0Ywd9Ho2gToJ2KGLJkDPw6F9HY9jQxm3sN9t3sWNfXoY2LfJxM2plMs55+WyBOplNApSsc+Mve92VxGKDsRuAcLzC5ggZXk2kduMfez3HUz+FCQQAL1Ppy5a0aFIm4B279qP/ZzP7fdy6YCuGo0dc44ynwJFbB1OYmYFo9pj/GW97sbsj+5B5o90OgLn1eoKjJoTjPyiVjsdEACL2cx+fSycMABnlYoTvGm11mCApo4OOxC5zTgQUiBRIkUqaaP/rtNxgLTRxxi+2Qh9PrVRzDgB3cLA4QJC8LrZtLfttntXennSpsKOGKUkAogoQoIhVdQRorwDQGpxFTZtkYEwsxEFBHkCApD6BcQ4vpXWiEBmTRAhiRIxnhzvbUAA45HqyDixbUBKZZg29QtIHglqP5DE9AyBwrGRoHztpIF0N0lYfeH1IOcQRLoGkktPtaEFQ6CsaDGPfuB0g0e8BvzvFqIsrL8m7Fwe3knhnCwH5hdApZJfYHPxLNf4XZ7WONrSC2/z9LzCCvtL+wEE2l4eZUZl+gAAAABJRU5ErkJggg==",
     "wiki_name": "Graceful boots (Hallowed) (Worn)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Hallowed)#Worn",
     "equipment": {

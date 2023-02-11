@@ -1,7 +1,7 @@
 {
     "id": 8070,
     "name": "Steel torches",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGklEQVR4Xu2XS2vCUBCFnV8hVaTuBV+IVeITTX2kqNEWpFTwWYQqXXTRn39kbkjEi+ByptIDZ3UD+ZjMmbmJxe5HhEuLivDxOsPnYoGv1RKPyaQkFGHY7Ri/uC767RY69TpymYwUFGE+mURmqJbjIJVIGKB8Oi0D9TYaYeZ5pkIP8XgEIwTEumxqYZhQymD4kz0VClLNbIvwPvV1VYhTJpgsW0HSVAFxD6kC8gcDXUDjXk8TEOs8h+wTARF+9nuzZNXMIU5ZMZvVUqV/oFsi/B4OeG429QBxU/NtUQ3Q925rbotqgI6bdQSjDsg+FZAqoGBlKAEi1MplE3deruEcCiwiimDCn8RGpYJqqSQLdc2iaQtfbtt+7s/rBJhg3BW+9ElZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABG0lEQVR4Xu2XTYrCQBCFrZt4BLdBBF14A0FEFFTUoI74/68IIiOMMyOCQXDhUZ9Uh2SwGXBZpfjgrTqQj0q9qk4k8joi3FtUhM/1CofdDqf9F9LJpCQUYdRpG0+6XQw+Wmi7LnKZjBQUYTOfh2aoVq2GVCJhgGLRqAzUejrFajw2FYo7TggjBMS6b2phmEDKYPiTlfN5qWa2RdguF7oqxCkTTJYtP2mqgLiHVAEthkNdQLN+XxMQ628O2ScCIlyOR7Nk1cwhTlkhm9VSpTfQIxGunodes6kHiJuab4tqgM6HX3NbVAPk/XyHMOqA7FMBqQLyV4YSIEK9VDJx5+UazCHfIqIQJvhJbFQqqBaLslD/WTRtwctt2889vW55A/gHvY7wFQAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

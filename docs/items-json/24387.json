@@ -1,7 +1,7 @@
 {
     "id": 24387,
     "name": "Twisted hat (t3)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2020-01-16",
     "duplicate": false,
     "examine": "The headgear of a twisted relic hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzUlEQVR4Xu2UzUtCURDFlYeIEoYkSUp+JBpm+BGmREJBtHDjrkX79hItC3HXIoKihEpwIVSLoK1/3sTcy+S86T17ZgnBO3DgefHe+TH33PF4XLly5erfyQv2nru8sJHLwXomA9l0GtYSCUjG47AaiynPEVAXKBUKsJnP20KtRKOwFA7DYigEC8HgX0BpECxer1Rgu1yyhOJAy5GIgsJ95VRKWZ46pcYtx8LknWpVQW0ViyYoqy4h1C9dnVcVwILSHMCqSzJPCEX+IZyGwQ5Y+TsIuirMTzLrMQHhOnkKKA2EObHy3VsQbl4DMBq9w2BwC73e5ZcwY5ADfj9UG4YJiHsc9olgGgaNOZHG/Dw9XsFweA8vzw+f19LtnkHr2AcHLQP2mgbsHhpQ3zcUoJ1xn4NXqF8SvSYOwr/R/f61Ars4b0O7fQKdzqmCah75TBki4xo3XSvWnPAKzUAcRAKiG7Wa+o3ZwlzxTFGuyLQ25UjQQBhYCWEFxGFwDwWdzOHwm8NwIEkhNO6SvDppguEmMAknO+OgO1x6AwXcCoyPATmnyHxA8jlEIA5htPSf9QHUcifmI4D2zwQixcGmNQeYGURKHuzU8hxXrly5stEH4fQhT5ZkjtsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4Xu2UwUsCURDG9T/YkxcvCx4CIZBAIkIwRCQUSZLEJEmhPBRBBw/eOnTvKnUr8RQURYmJIBVEN/+jiXmPydlp13azhGA/+GB9+N78mPe9CQR8+fLl698pCM6eu4Kwmc/DRjYLuUwG1lMpSCeTsJZIKM8RUBcoF4uwVSg4Qq2urMBSLAaL0SgsRCJ/AaVBsHi9UoHd7bItFAdajscVFO6LmaayPNWjJi3HwuS9alVB7ZRKFii7LiHUL11dUBXAgtIcwK5LMk8IRf4hnIbBDtj5Owi6KsxPOhewAOE62QOUBsKc2PnhLQJ3ryaMx+8wHN5Dr3f9JcwYZDMchmrDsABxT8I+FUzDoDEn0pifp/4NjEaP8PLc/7yWbvcCWqchOGoZcNA0YP/YgPqhoQCdjPtcvEL9kug1cRD+jR4MbhXY1WUb2u0z6HTOFVTzJGTJEBnXuOlaseaUV2gF4iASEN2o1dRvzBbmimeKckWmNY8jQQNhYCWEHRCHwT0UdDKHw28Ow4EkhdCkS/LqpAmGm8AknOyMi+5w6Q0UcDswPgbknCLzAcnnEIG4hNHSf9YHUMvdmI8A2j8TiBQH82oOMDOIlDzYreU5vnz58uWgD5LooP2R4H7yAAAAAElFTkSuQmCC",
     "wiki_name": "Twisted hat (t3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_hat_(t3)",
     "equipment": {

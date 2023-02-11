@@ -1,7 +1,7 @@
 {
     "id": 8678,
     "name": "Banner",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with the symbol of Varrock.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWUlEQVR4XtXYwUrEMBAG4M3RZxBxQVxY99Buoa7CIgqK6EG8ePHkWwi+i+CbjkxKMP0zSbrbSdWB/5K0Mx+hl3Q2+19laFxUy9D95RndbpZ00y7oqjkVw/uP2xU9X1f0ctfQ68M5vT1d2DVllKGvj4NewhMwVC0Og7UwKhWCpHy+56OE0gXV8/lY1DDQENTkoBzqV0AplBKISwdVDNTW1aBIGHUQDk1FAmHnPSsNSu0VBeEwHxNDTQpCjPSMQymDuExvyGa9DjAxVAGQsU1xECeHcSkCyqFw3d+fFJSKwxYDSajUCU0C8lGxbwjXi4M4ODSV4iAcmIsiaDzGR2H3PaoPwiG7ROmU/jAIB+waVRA2dwNc/HsZPqcOwqYu3LwbEL8o4rsKIK4Q8YPp9tvVsU2zPLJhIIfXtvWJvYbzlbzro1Ahwq/u/o+nIyXeQ7WM/dkgnaAUfFuqb6F8C6vJ6fXFAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4XtXYwUoDMRAG4OZN+gg+gh48VQrFXrZlYa1IQRQUURAvXjz1IcT3EHy0kckSzP6ZJNvuZNWBn0KyO/MR9pJOJv+rDA2Lahl6uDqnu82Cbps5XddnYnj/abukl5uKXu9renu8oN3zpV1TRhn6+ph2Ep6AoWp+HKyFUakQJOXzPR8llC7oaMq/g6ofqA9qdFAO9SugFEoJxKWDKgZqVlWvSBh1EA5NRQJh5wMrDUrtFQXhMB8TQ40KQoz0jEMpg7hMZ8hmvQ4wMVQBkLFNcRAnh3EpAsqhcN3fHxWUisMWA0mo1AmNAvJRsW8I14uDODg0leIgHJiLImg4xkdh9wOqC8Ih+0TplP4wCAfsG1UQNncDXPx7GT6nDsKmLty8HRC/KOK7CiCuEPGDafeb5alNvTixYSCH17armb2G85W87aNQIcKv9v6PpyMl3kO1jP2zQTpBKfi2VN8Z/b0x//cPMwAAAABJRU5ErkJggg==",
     "wiki_name": "Banner (Varrock)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Varrock)",
     "equipment": {

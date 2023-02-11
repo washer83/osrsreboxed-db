@@ -1,7 +1,7 @@
 {
     "id": 25154,
     "name": "Ornate undead combat dummy",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwElEQVR4XmNgGAWjAAQY/0Mw3QDMQuxYSUkSjOnkKMb//u7u/5315XFifX1tsIPk5aXp4SjCDjI11QfTRoZ6YAcZKCjQ0lGM/x105OCWI0eVg7U1nA0KJZhjaO4gkEN8zJTBGBECjP8jAgJQ+HRwDAggHORpooTigITwcJQoooNjQADhIFstWKIFpqsVNf99Flf8j9zfCxWjG4A4CD0NFZyaC8YRe7pRQokOANNBoNApPbsQjEGhNOAOgjmq+8p6OH9AHRS6tQ3sGBDuu7rxf/iuTnqmI0wH5Z6c83/itc1wHLa9nZ6hhOmgade3oeABdRDIcnQHxR2dTF8HgeoyGMbmoOIz8+GhhK6bBgDVQaCyZ/L1rSgYJBa8oYleoYQaZegJGoTTj8/4H7C6jh4OYgRXGVlehhDH+BiB0wsoq1efWwrG6KFDFwdB0gakGQKiQeVPxdnF4JCxbUn4b9+WRL/QCbNRR7KM8b+2nAjcgciYLqETYKGKZhmwIaYohiKGjNFNoCKA+BrZQTDxokAztNChOWD8XxFqAU7IboaKGA4CNdJS3PXBamAORtVPE4AvbdA97UAAvrRBx7QzCgYfAADDOfALafukSQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4XmNgGAWjAAQY/0Mw3QDMQuzY09MajOnkKMb/VcXF//MiXXHiyMgQsINcXR3o4SjCDkpIiATTsdHhYAcZKCjQ0lGM/3PCnOGWI0dVTloanA0KJZhjaO4gkEMqEr3BGBECjP+bq6tR+HRwDAggHFQa54nigO6mJpQoooNjQADhoIxgWKIFpquji/9XHFzwv+XqBqgY3QDEQehpaObdvWDcfHk9SijRAWA6CBQ6c+8dAGNQKA24g2COWv/4FJw/oA5qOLcK7BgQ3vjk9P+mi2vpmY4wHTTtzu7/m5+egePGC2voGUqYDtr+7DwKHlAHgSxHd1Dnza30dRCoLoNhbA6afW8fPJTQddMAoDoIVPZsfXoOBYPE6k4vp1cooUYZeoIG4Ym3d/6vPr6EHg5iBFcZU8qiIY6piAWnF1BWX/TgEBijhw5dHARJG5BmCIgGlT8L7h8Eh0zGyu7/2at76Rc6jekBSJYx/g9xNoU7EBnTJXSqk33QLAM2xNzNUcSQMboJVAQQXyM7CCY+uyYRLXRoDhj/L2hIBifkomh3DAeBGmn9xZFgNTAHo+qnCcCXNuiediAAX9qgY9oZBYMPAADzTTJDHUMhDgAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

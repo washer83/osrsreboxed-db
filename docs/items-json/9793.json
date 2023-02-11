@@ -1,7 +1,7 @@
 {
     "id": 9793,
     "name": "Mining cape(t)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": false,
     "examine": "The cape worn by the most skilled miners.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjUlEQVR4XsWX8UtTURTHvT9IOEQZBo9ttNkeU6ayVDQbbrlYGtZQQw1E7IeQQCSwqCBE0YghFYUMDaEfgiCCICIQ/7yj3/M8j+tL5Q26dwcODx7vvvvhe77n3PeamoyFouCd/xh4eT0bKIpEmutcEzq8lze3REJuoKijI0LdrsvP93d2hlhTdyhqd+KnQBep5d2Px9v9ZwBjCAihyHGz1NbWQtFoawBOUSJxlZLJ6BkQgzASirLd1ygWi3JZoAYyk0lQOh2j3t6UyTKdF4pyuTRvnEo65DitPhAgLZQpGIpGbmapUOhjMIDIVcpoFebRwRE9qH6joaEuBkGZcIV/dIWCKw2Form9vzT59isrBKiBAZfVQfncUsU+0GztD93bOqCx2znK53v4Kn5qCNDM5180sbHPCgEIia5rGNDU+x80vl7zgWDwhgJVdr7T3Te7DASYWrVKzytXOAEkUMGVBkLR2FqVis/ecaeJOjA1oKBQujjJaUklRaUXOww0/+WQgaTLoA6gro9O2AW68/IDA6H1BQgzSDyUulW2C1R+/YnLBiCUSwfCgAQQVLIGBDMDCLPoIiCkNSC0O3z0cPc3A8E7OhDUSQwW7QFhQsNHAAIMDK0D4SwDVM/9BdOtr9jM+afrPKn1lteBcMACqGt81rRK3gwaXdn0gaTlzwPKlGfMA8E7AqQbWj7W5MS3NBy9GVRY3faBRB0BEpUAA5VQYoM+8oCmP/78p1w6EH9XnwCh9aGmQZW8oQggKddlQMnhEo08eWUWCEMxLBBm0fDSGvvOUNkUz55QQPARfocqi75CxlQCED7wMSChmJz+N+aWqW/6MQ9EzCC97Q3BSJz9U70sLcB4IRuFyeDasHEM5+RbhY26zX8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkUlEQVR4XsWXXUsbURCGPX/Cm94EciEIQhC8WEIgJYQSNohBMUioWEtMqGmoim2qIimItBelhdKC/RCxorTBfkmw4oWUIlJaSv/RNO+ssxy3KhvoORkYFpY9ex7eeWfObleXsVAUvPMfAy9vZwNF0Wh3m2tCh/fy7kg05AaK+vujNOS6/HwsEgmxpu1Q1OckToEuUsu7n0j0+c8AxhAQQpHj5qi3t7VJrCcApyiZHKBUKnYGxCCMhKLc0FWKx2NcFqiBzGaTlMnEaWQkbbJM54WifD7DG6dTDjlOjw8ESAtlCoaiyRs5KpVGGQwgcpUyWoV5cPCH7jWOaHx8kEFQJlzhH12h4EpDoai+/4vmdw5ZIUAVCi6rg/K5lZp9oOXmT5rbPqDpW3kqFof5Kn7qCNDilxOafbvPCgEIia7rGND9D99pZrPpA8HgHQWq7X6jOxt7DASYZuM9vaxd4QSQQAVXGghF02sNKr94x50m6sDUgIJCmfI8pyWVFFVe7TJQ/etvBpIugzqAujY1axfo9uuPHlCr9QUIM0g8lL5ZtQtUXf/MZQMQyqUDYUACCCpZA4KZAYRZdBEQ0hoQ2h0+Wtr7wUDwjg4EdZLXy/aAMKHhIwABBobWgXCWAWr47orp1lds5uLTTZ7UesvrQDhgATQ4s2xaJW8GTT3b8oGk5c8DylYXzQPBOwKkG1o+1uTEtzQcvRlUer7jA4k6AiQqAQYqocQGfeQBLXw6/qdcOhB/V7eA0PpQ06BK3lAEkJTrMqDURIUmH78xC4ShGBYIs2ji4Rr7zlDZFM+eUEDwEX6Haqu+QsZUAhA+8DEgoZic/mP1JzS68IgHImaQ3vaGYCTO/qlelhZgvJCNwmRwbdj4C22B1aspZqhWAAAAAElFTkSuQmCC",
     "wiki_name": "Mining cape (Trimmed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mining_cape#Trimmed",
     "equipment": {

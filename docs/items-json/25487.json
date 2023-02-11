@@ -1,7 +1,7 @@
 {
     "id": 25487,
     "name": "Ursine chainmace",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-01-25",
     "duplicate": false,
     "examine": "An ancient and peculiar chainmace, corrupted by the power of Callisto.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xs2Wz24SURTGuWlxOkiZQKdMmekfGKCkQIs0aWhTaam02rJ0b4wLFy58Bxe+hAsTFybuXPsQJj7Ske9c7wwzKtwWSvmSk07o5Zwf3znnQiJx7xIUjQeVoLVslvY+mVT+aNDW++RDQkmY1vcUA/kfDPLeJSlVT8wbSrYmb9tkGgY/A6zgOBxbrsuvPSkW7xMqnJH2D+lItrdEO55HtXKZX1cw+KtA41mmUHRQUcTKZKjzM031zya5b5L82ugZwAAQzimHZuSSoE1zk+rWHp3ap5wcAP72NkOkU6kAIiwqGAaB9qn/xTPfQRLGT/vUsBpcHMOaPlyKuKFAwqKCgeHSDIEE5R7lAqBuvkvHv9KUfylXeRTi72KCqqVS0NoZAAlKLaXIWXHY9oJTGLqTpo7docuNS40C0qHRlo4/P1aCVpdX2R0J41B7vcWfdMv16MZ9oVFAAo1eBePP/1eCrKRFhjCCGUBSzAE+KZLrOqQGegqgEGbQH3BCANVy1SFUPgC6cHoaBaYCCrcFMM/Pr9gdtbbVUpWTIjBH3fWnGgUk0C1aFkLAFcwMYDDIhwdtBqrv1jmsjBUA4fnEPtEoIKjT7vD7TcOcdF6uswJBbK54vN6AaTVanMjf9nm7kFABrWXXguRjCiRw5uCbSd7bZOQ98VMsBbK7XqGyXSLfLg4BdtkVRK1c4zYBRrojgdAuzNLY5IEENb/Kr5SJH0ABVQqVAELNDGB2vB3uPdY8BDL5eeDeaAM1voStmnBe3jPZZJbOjs+4PQBBqG/nKBDaZVLfeaa58kpaMEryJraWLeqd9gKo5l6TnxUQVl2uuwRC6AMlErrn/kiuuW3Y1O/2GSQ+0NKlDAO9Lr7SvIOmklz9o9ZRAIOBBhBmCVDychs6VLig8/zZfQNBgtcd7ULbAKPuILVxiCu3r3kpTi0RcQfO4EsUPzlqmRr/MNu39jmuN67nAzTqDoAUhGrpaNxic+4qEZkduBIvHo94hhlLBLOiYOZY/F8SVHxcpOpqdV4tmSTBA7wgMEoLBSO1UDAPqd+ozkDtagmvagAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xs2XzU4TURTHe5cuTEgIJaaig01TUlsYqaXWoaEN0DJpBZpCS6lNoERBrE10wc6tblyYmPgIJj6CiYkxcePOJzC+ybH/c70znVHLQD/gn5wwGU7P+c35uNP6fEOXIKddqATN6zqVPmlU+Big7Hv/RUJJmNr3IAOZHwKUeeenYNk3aijZmmQiQVogwNcAM1Iptmw6zfd0TRsmlD0j9R+yInprjFYzGdosFPi+gsFfBeqO0oecg4oksUiEmj/DVP6sUfqNn+91+wAGgKicqtCAqiRoIZCgleAKbUe3OTgAzOVlhggHgxaEnVQwDAztU/9zRz6HJExaS1MumOPkGNZwY8xRDQViJxUMjCoNEEjQzMSMBXSUPKKDX2FKvpSr3A3xdzJBxXzeau0AgARNXZ0i/docl91IGZ3qhKl0u0SNOw0PCWSFulva27+nBE2PTXN1JEyKqokKP2k2naH9+J6HBBKo+yjo7f9fCQqNh2jyyqQ1AwiKOcCTIrjXCqmB7gPIhjlpn3BAAG3EH3SgkhbQ7tyuhwR9AdnbApgXT59zddTaFvNFDgrDHFVjVQ8JJNAZWmZDoCqYGcBgkBvVOgOV18tssUjMAsL1VrTsIYGgZr3Jn9cC8OvpL9dZgcCM6/dp8abBMLWtGgcyl03eLgRUQPP6vBW8RwIffKrfNMq89Ts+4/ZiKZCNhSIV7pq0Fs91ANa5KrDNwia3CTCyOhII7cIs9QxuSVDlq3ylnPoACshMmBaEmhnArGZWufdYcxtI4+tmfN8z0NYXu1Wn+MtzZnZilo4Pjrk9AIGpt7MTCO3S6KFe97jySp5glORJHB2PUutxy4KqlCp8rYCw6nLdJRDMO5DP59Xvj+SaRyej1D5qM4h7oGWVIgz0OvfK4xnUl+Tq79X2LBgMNIAwS4CSh5tGh8Yj2pndGTYQJHjd0S60DTDqDFIbB3uyeOjxUOxbwlEdVAYvUXzlyN7K8heztVCe7dm91miAuqsDIAWhWtptZ9ic80o4ZgdVcSd3mzvCgCWsWVEwI0z+L3V+RdwwaGl6aVQtOU2CB/iSwChdKhipSwVzkfoNY26m2b3np1EAAAAASUVORK5CYII=",
     "wiki_name": "Ursine chainmace (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ursine_chainmace#Uncharged",
     "equipment": {

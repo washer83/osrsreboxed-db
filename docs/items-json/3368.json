@@ -1,7 +1,7 @@
 {
     "id": 3368,
     "name": "Fat snail",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-14",
     "duplicate": true,
     "examine": "The fat, slimy corpse of a deceased giant snail.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xs3X/UtTURgH8O2HIEmWZSqZpjN0lKIZYQgtjEqUopaGWivLpPcQxChEFC2R3hDEXqhQMMREygiioijqL3va91ye63OfncnmbuGBL967nd3z2TnPPXcGAuu/Bcke2/v/vAXpyVA7PRo8bTJxL0bjd06ZMGJ+qofmJi/S7NNuC0p/iazhDohRAHE0ZubxeXo5cc4zMM7xno4XlREySJPDZ5JQ+AsIh0HPx7toarTD9MVfGwj9Jfrn0hB9XxhYG4pBOObZYdDrh3ED4r6pQPjcj8VB+r08Rn+WHxgQxthbXm6iR1fNmXb+1gzCoDbQ9P1OF4RjG2hh+rIHhGMG6dFVC3qWAQNxceNcgzA4ELy8qUBLL674B+JZwmuyDmwBCLOmQR9eXXVBSEYgrgsNwns5uRtWDX9egz6+ueYFvbubHciGKa3c4kajNOjTzA3/QBpTH91BB46U0cHWCjraXkWHY5Um9Y3FVNewPQmFevsyd9sF/Xo/4mIyBmlMTWJAYABo7ohQy9k9bmLxampJABuaipJAX9/2WUF69BRtpUglZve+IqpLzEJjc9iAMDsnu2so1lPrBv2OtZV6Zgmgb/P9awU5exDfUYwJbd3ogrBUh07scmepoGQTFZbkUl5Bjon8ErgGtgoJkpuiHl0155bnZ5O88OZ8B4T6wQxxDQEik7ctx0SjfAfxtwdof9NOgwtH8qk4HDKzdjxRP1hCzBywZRW5JhWREFVVh8z1fAVJGAbkWUKAABSFrWemLR426eosM+fYpRmTFgh3mKyhVDAO1xOAGoOC5muMjdbSyHCNe54GBm0FxCg8CtKFaQzuLhQ0Hht8DSxZViBG4XW+qC2oHz6W+w9A2KVlUTNKj25pDkgumwRhAPyM4IHlY+XSLQckn/Tc//PsTReEPSiDfcgLksvGIPSJRgtNGNaa2AgHxmqTQJidrEG4y1YDyRnq7YvQheuV1D/iFCseNfyk5+XyDaSXDa8zCAPyc46DcwZxX4AWn/V6QNiDMt6HbMsmQTjmn7cIakmCZP34ArItmwThPflfiQShn6yfLEFoybe0LRIjo0H4LS1BnAxAgQBv66tFA2Vk/fgCSrdpZDpYzkrf/9Q00hb9mXXd/gJ6DuugBXN3QwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUUlEQVR4Xs3X+0sUURQH8N3f+yXS31TsAaG/JP0SEkISsiyJbCSKSIGBJGFRovTYlNSyLJPegkaJipuFlYjZQ0Ex7UX0kv6d03zvcMYzZ+/KrjuFF744s3t37mfvPXNnDYU2fwuTPbb3/3kL08uRDpocvmTy/EmcJh5dNGHE4nQfLUzdoPlXvRaU/hJZw10QowDiaMzci2v05tlV38A4x3s6flRGyDBNjV5OQuEvIBwGzU500/R4p+mLvzYQ+kv06soI/Vwa2hiKQTjm2WHQu8keA+K+qUD43O/lYfrzOeHkqQFhjJLCQhM9umrutPO3ZhAGtYFmEl0eCMc20NLMLR8IxwzSo6sW9i0DBuLixrkGYXAgeHlTgVZmbwcH4lnCa7IObAEIs6ZBn95KUCIzENeFBuG9rTlb1g1/XoO+vL/jA/368Dg7kA1TXlniRaM06OvcveBAGlPfdICOn66gE21ROtNRRafilSb1jWVU17A/CYV6+77w0AOtfhzzMBmDNKbGGRAYAFo6Y9R65YiXeE81tTrAhubSJNCPhQErSI+eoq0VqcQcPlpKdc4sNLZEDAizc6G3huJ9tV7Q72x7uW+WDGhxcKMgdw/iO4oxedu3eSAs1cnzh7xZKtqTR0Ul+VSwK9dEfglcA1uFDyQ2RT26au4tz88meeH8HTkGhPrBDHENASJTsDPXRKMCB/G3B+hY80GDi8T2Ulmk2MzaOad+sISYOWArortNorFiqqouNtcLFCRhGJBnCQECUBS2npn2nohJd1eFOccuzZi0QLjDZA2lgnG4ngDUGBQ0XyMxXktjozXeeRoYtDUQo/AoSBemMbi7UNB4bPA1sGRZgRiF1/mitqB++FjuPwBhl5ZFzSg9uqW5ILlsEoQB8DOCB5aPlZsPXJB80nP/b/P3PRD2oAz2IT9ILhuD0KepaZ8Jw9qcjXAoUZsEwuxkDcJdth5IzlD/QIyu362kwTG3WPGo4Sc9L1dgIL1seJ1BGJCfcxycM4j7ArT8ut8PcvagjPch27JJEI755y2CWpIgWT+BgGzLJkF4T/5XIkHoJ+snSxBa8i1ti8TIaBB+S0sQJwNQKMTb+nrRQBlZP4GA0m0amQ6Ws9b3PzWNtEV/ZlO3v32Gxj0VsnPwAAAAAElFTkSuQmCC",
     "wiki_name": "Fat snail",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fat_snail",
     "equipment": null,

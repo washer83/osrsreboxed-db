@@ -1,7 +1,7 @@
 {
     "id": 69,
     "name": "Yew shortbow (u)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "An unstrung yew shortbow; I need a bowstring for this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1UlEQVR4Xs3V+2oTQRTH8QQp+xp9BB/BPwT/ELxUq9VKpWrFeikEg1qqUjXUS0uh1AsKLVRKLUULgqgoij7ZyHeX3+bs6SRmm1U6cNjN7GzmkzNnJrXa3m/1EI/Y83/e6mF+5kR4On08jbnbx0KreTQNIdaXxsPa4vmwujAWQfkf0Tc8AwkFSOExK8/OhVdzZwsT85lnPoqoUsh6WLx3cgeKKxCFQC9aI2Fp9lQ6lmsMxHiL/rE1E75t3NwdSiDulR2B3jwZTUEa2wnEe983p8Ov7Qfh9/ajFMQc+wcH0/Czu5alXb9aICaNgZYfns5B3MdAG8sXCiDuBfKzu1YvLAMTqbj57EFMDkLLa0F2iYjKQMoSfTGQMikQWeN7bowO5NEYS9I+QEQpkOrCg5jcg2xBC8R3TAwPhCMH9kUzlILe3eofRD8goZRJuyMtiKtq6OPKZLUgAoAF+YK2oPGhNoixn9eu56Cf7+/nmNIgi9L29SBhGMf7dy4l4czhIujL26koyM/eoWVrzmTdQL6gBWqOJ2H4UBH0db2xW1B2BpGhv4F8QQvEjho62AYx3oLsoehndy3b8jEQEQPZ+lF2qB/tMMZVChKK0InLBNzbguZdzhstt12uykA2S1wtiHEqaIvhHW11gTafX8xBnNLC9ARi58RA+jsAZLNgMWTLg8BvvZwoZKjH7NDaILtsHjB7LUm3NvUCZnIkDtJyfXh9uToQffPNJDxuJCnk7pUM4pFgbCYtiFPagoTys0daBrLLRl9raieA53aHdQKxxJ9Wr+YgzqAS51ARZFH0aQJteYuJgchO3yB2jwdRRxbEZP4vQyDG2eWqDOR3G/0W5E9onVW8p7GA2PIWxBlU+hyKLZsFcd8NZOunElBs2SyIZ7GCJhhn66dPEK24mzqFrx+FB3EoWpCiBKhW07HeLTzQhq2fSkC9No/sBatoj/1PzSNj4d/Z0+0PFyKZU+wNY94AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzklEQVR4Xs3V304TQRQG8PYNvOJmb3gEH4wLEy+MfzBVFIOpSkQhqY02YChVEQlB1EBSwh8hxoBKfJ2Rbzbf9pvDbO3S1TDJyW5nZzu/njkzrVQufqu6eMSe//NWdSvzt91y65aPt69uuk7zhg8ittfqrrv60G19mIqg7I8YGp6CiAKIYTGb7x+4T2/uBxPjM57ZCFGFkFW3ulA7g8IVEAZBG50Jt7Z4x4/FNQbCeEWf7M+7HzsvzociCPfMDkFflic9iGPzQHjv117L/T5sn8aSB2GOy6OjPuzspqVp568mCJPGQOvtuxkI9zHQzvqjAIR7guzsplWDZcBELG58tiBMDgSXV0G6RIjSQMwS+mIgZpIgZA3fMzs5kkVjKvF9KahdDMS6sCBMbkFa0AThO6ZrI+762KWcDLXdz92Xw4PQDxBRzKTuSAXhyhr6tjlTLggBgIJsQSuoPt4DYexRdzYDnXx9nWEKgxTF7WtBxGAc3m89Sdy9ayHouDsXBdnZc1q65pisH8gWNEHNeuJqVw1ou3FeUHoGIUN/A9mCJgg7avxKD4TxAUgORTu7aemWj4EQMZDWD7OD+uEOw7hSQUQheOJiAtxrQeNdnDdcbl2u0kCaJVwVhHEsaMXgHW51gvY+PhbQUoYZCISdEwPx7wAgzYJikC0LAn5/YzrI0IDZQeuBdNksYPF54rc26gWYmYk4iMt18LlEEPpWmol710g8ZOFpCrFIYDSTCsIprSCi7OyRloJ02dDXmTsLwHPdYXkgLPH3rWcZCGdQgXMoBCkKfZyAW14xMRCyMzQIu8eCUEcKwmT2L4MgjNPlKg1kdxv6FWRPaJ5VeI9jAcKWD0CnZ1Dhcyi2bArCfT+Q1k8poNiyKQjPYgWNwDitnyFBaOFuygtbPwwLwqGoIEYBUKXCY71fWKCG1k8poEGbRQ6CZfTG/qdmkbGw71zo9gcOc5B+J18RLAAAAABJRU5ErkJggg==",
     "wiki_name": "Yew shortbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yew_shortbow_(u)",
     "equipment": null,

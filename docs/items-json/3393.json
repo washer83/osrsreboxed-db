@@ -1,7 +1,7 @@
 {
     "id": 3393,
     "name": "Splitbark boots",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-18",
     "duplicate": false,
     "examine": "Wooden foot protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxUlEQVR4Xu2W/0sUURTFfUTIxpIsLSuuZK6iUivutqC25NbGprIpJRXSNwqpkArpG1IhFEFEEAQRBEFB0C/9l7c973Fm3ryZtXZ2VIouHNT1zrufOefOaE/P//q3S0lYe1Jm+MThg1IsGOF7aJfhfBCqNNoXghrJp7V2GCoIgoEEcuXDRCmR8mF49xBcSfX2BoSeof4Dejidax9pbMDg4RgIIBuEQ/F5PpvyfsbXHYhVhWJxxWGAtQcTyBVhysPDWu7E35SSyngmUjYMY7R3zI0Uwu8YawwYlpKZo4cCcoHoDh1wQXANYRMBqk5mtaJguDv8jGCEQb8Ng94ugVAGKgoIQ3J9ZjCBbDAbPHEgF4buZNL7NaztEtUOJhEge6jtDoBsYPtJawfkTuiwlNRKOQ/IdodA6dQ+L1KCuDDoTQBIyY+tZfn0cF7e3j0tm1dmZf18Wa42jgVgtos1QSAl356dk48bZ+X12pw8WZ3RMGvNKbl0alwWpgsBICgqVsJ0CaTk62ZT3t87Iy9vnZTn107Io8vTcn/luNxcnJSVuTFpVI60AAY8IDPIQEUBAT4mkJLPjxfkw4OGjgnuAAgOAWi1PiHN2RGpTQ223MjJ2GDGc+jnqwvy5emivFuvRwL5bv5xGWcIhIMBtHWjqvfnzlJJu4O4qsV8y4lsAAYR4zq4unGxItfni5FAHbik5PuLJX2X2B1E9uZ2TQ+AQxiwXB2VenmotcD9IRgsP/rRi12Dm+jvAghlltmNDXFxmRGXC4N+OIp4sfzYNfQz3i6AUGaP4BBgEBfumMscBcMHAFEhWrjJfsZbGDD/rMUAQpmhgIE7ePfgbv0DfScZLRcf8OhnvHgaeV5Xfzo42JZ/oP+eQqxYfLwaGJf9NNrXxYaxyz4seKDy3uLYHTeu8E3sSpmhcAhAjCtxVzqp7aPdw2of7V9evwCE0R4kqWMYqQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyklEQVR4Xu2W30sUURTHvf9BT734MtDDQiAswbKILBgSiyhitChrLKixudS2pLJpSZH0i0IqqaQSSaSIiIiIiIiIHvq7Tvu9l+/MnTuz1u6MStGBL+p65p7PfL9nRnt6/te/XUqiOpAyw8ePH5VS0QjfQ/sMF4BQ5ZG+CNRwIaO1x1BhEAwkkKsAJk6pVADDu4fgitfbGxJ6hvqP6OF0rn2kXQOGD8dAANkgHIrPCznP/xlf9yBWFYnFFYcB1h5MIFeEyXqeljvxN6WkMpaNlQ3DGO0dcyOF8DvG2gUMS8nMyWMhuUB0hw64ILiGsKkAVSdyWnEw3B1+RjDCoN+GQW9CIJSBigPCkHyfGUwgG8wGTx3IhaE72cxhDWu7RLWDSQXIHmq7AyAb2H7S2gG5EzosJbVy3gey3SFQxjvkR0oQFwa9KQAp+bGzLJ+ezsvbh+dl68asrF+ekpuNUyGY3WJNEUjJtxeX5OPGRXm9NiebqzMaZq05KdfOjcnCdDEEBMXFSpiEQEq+bjXl/aML8vLeWdm+dUaeXZ+Wxyun5e7ihKzMjUqjcqIFMOADmUEGKg4I8F0CKfn8fEE+PGnomOAOgOAQgFbr49KcHZba5GDLjbyMDmZ9h36+uiJfNhfl3Xo9Fihw84/LOEMgHAygnTtVvT8PlsraHcRVLRVaTuRCMIgY18HVjasVuT1figXqwCUl37eX9F1idxDZm/s1PQAOYcBydUTqU0OtBe6PwGD50Y9e7BrcRH8CIJRZZjc2xMVlRlwuDPrhKOLF8mPX0M94EwChzB7BIcAgLtwxlzkOhg8AokK0cJP9jLc4YP5Z6wIIZYYCBu7g3YO7DQ4MnGS0XHzAo5/x4mnkeYn+dHCwreDA4D2FWLH4eDUwLvtptK/rGsYu+7Dwgcp/i2N33LiiN7EvZYbCIQAxrtRd6aR2j/YAq320f3n9AlywzatjxQqyAAAAAElFTkSuQmCC",
     "wiki_name": "Splitbark boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Splitbark_boots",
     "equipment": {

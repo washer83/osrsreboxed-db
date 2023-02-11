@@ -1,7 +1,7 @@
 {
     "id": 3754,
     "name": "Warrior helm",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": true,
     "examine": "This helmet is worn by warriors.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPklEQVR4Xs3W+0sUURQH8F0iZENcJBAsWEzplwzLIEEQqh+KtGg1rbYsrfWRSgnRQ3wkvjItk0QrLFbYEDMpM4iKoqi/7MT3Lmc8c/aO7bpbeOEwM3fu7PnMfc36fFu/+Mketvv/vPjpcX89TfbWmRjvqaWxO2ETjFicuUbx6WZamGqyoPRLZAxPgBgFEIfGxB5dphfjl1yJcY17OtyotJB+mr7fkITCERAOBj0bi9DM0HnTFkcbCO0l+sdKP31bur05FINwzr3DoJcTjQbEbb1AeO77ci/9Wh2m36ujBoQcB4uKTOjsqiS6nd+aQUhqA82OXHBAOLeBlmajLhDOGaSzq+J3DQMS8eTGtQYhORA8vF6gledt2QNxL6HOBuKeZBB6TYPez7c7IERaIJ4XGoTkGiQn9EagD6+uu0Fv7mUOQj1AjOKelCvSC/Qx1pldEAIACdIT2guEtp/jNxzQz3eD6a0wCZLLHz+uQbjPgXZeoC+vu60gnd2jrCcZ6TltjjYQ6quPVlB97SkKBvPMNUDoSQ36unhrs6DEHoQewnl8voeOVJWZcwnCdfh4JZ07e4YqD+2j4lChqcNzGsQvxyC5KersqiSWvAS9jQ9SpOGY86MyIg21VHV4P5WXltDePbupsCA/qQ1ibXnSeamMQOh+1D2d6KKlWB/NPblJ0+Md9HCohYb7mijadDEp+dSDdhNoN3C3kVqba6j6RAWVlRZnDpIoBBJMjrbR6MBVCgRyqLPV/cFEHaBo191RR9ErJylcU0nlB0rMfQwZdmnGpATCCtEg/mDK5LmBbSbyc7dTQTCHQgU7DAgh23HISc0gnd1S1kFy2ADipYyPpA20a2eASkN5DohXFxYAPhtZAzEK9UgAEK8yr5DLHW2xS0sQo3R2S0mAbMOmQbgvd2ic6/9C3P7TQpcDwh6Uxj7kBslhkyAcUS8xNhDgGYOwyv4GQjLU2UA813i4sgbSw4Z6CZJ/ORjDIG4L0PJciwuEPSjtfcg2bBKE841Acv5kBWQbNgnCPduERvB3jIcrQxBK8jK2hZ4/HBqE/9ISxJEGyOfjbX2j0EAZcv5kBZRq0chUsBzrbf9T0Uhb6Ge2dPkDnFh/68GA67EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPElEQVR4Xs3WS08TURQH8PYbuHLDpokLEpImxE0XxMSEhSG4k0gMMZEFYaEuNIJakFSrKChQgUDiq7xCC1ilEkAUkhIsPojxRfw6R/63OcOZ0zu1pdVwk5OZuXOn5zf3NfX5Dn/xkz1s9/958dPrqR5KTXSbWIh30dyzsAlGbC49oky6nzYW+ywo/RJlw3MgRgHEoTHrr+7T2/l7rsS4xj0dblRJSD+lpyN5KBwB4WDQ6lyUlmZvm7Y42kBoL9G721P0Y+vpwVAMwjn3DoPepXoNiNt6gfDcr+wE/f6c2IukASFHbSBgQmdXJdft/NYMQlIbaDlxxwHh3AbaWh5wgXDOIJ1dFb9rGJCIJzeuNQjJgeDh9QJtr8YqB+JeQp0NxD3JIPSaBn1ak6BEaSCeFxqE5BokJ3Qh0Jf3j12gnx9elA9CPUCM4p6UK9ILtLM+UlkQAgAJ0hPaC4S23zJjDmj340xpK0yC5PLHj2sQ7nOgnRfoe2bcCtLZPcp+kkT8hjnaQKjvuNRKPV3XKRisMdcAoSfzQJtPDgrK7UHoIZxn1uJ0sb3ZnEsQrsNX2ihy6ya1nT9DDfV1pg7PaRC/nAMSm6LOrkpuyUtQNjND0chl50dlRCNd1H7hLLU0NdLpUyepLlSb1waxk005L1UWCN2PujepUdramKSVxTFKLwzTy9lBSkz20UDf3bzki/MxE2g3/byXhvo7qeNqKzU3NZQPkigEEqSSMUpOP6RAoIpGhtwfTNQBinbjw9008OAahTvbqOVco7mfG7KkgykKhBWiQfzBlMmrA0dM1FYfpVCwiupDxwwIIdtxyEnNIJ3dUvZBctgA4qWMj6QNdOJ4gJrqaxwQry4sAHw2KgZiFOqRACBeZV4hlzvaYpeWIEbp7JaSA9mGTYNwX+7QONf/hbj9141RB4Q9qIR9yA2SwyZBOKJeYmwgwMsGYZX9DYRkqLOBeK7xcFUMpIcN9RIk/3IwhkHcFqDsyqAbtLcHlbwP2YZNgnBeCCTnT0VAtmGTINyzTWgEf8d4uMoEoeQvY1vo+cOhQfgvLUEcJYB8Pt7WC4UGypDzpyKgYotGFoPl2G/7n4pG2kI/c6jLH/MJdFvKL9ftAAAAAElFTkSuQmCC",
     "wiki_name": "Warrior helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Warrior_helm",
     "equipment": null,

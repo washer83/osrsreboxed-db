@@ -1,7 +1,7 @@
 {
     "id": 16360,
     "name": "Ring of life",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-04-20",
     "duplicate": true,
     "examine": "An enchanted ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu2VzWtTQRTFM0gI7/F4bvwDiktXLorgzoXgIguhUlBEoaCgFT8KrZFSoZSgiEKhKLVCS0CpYkPRRcVQUKpQuhBtuxACWqSLgiC4E7o6cu4w88bJ0syLQg4cQpLhzS/33HtTKHTV1T8nBe2OyQBojwwOijsEprDSaFjPzzwUnyiXrXOGagWqVipiF+hgT09eUApfm03rz+vrFshA5QSU9czYtavY3toSL9Xr4onrI9YBgTKIJ3ci64XJGFOjEQ739logFyoQkMLTe1GLCfPyfozXj2LUbkW4PVTC5dNFPJ+bsw4ApDBb1ZfdOFfCxZNFjF8q4cHNCEvTGuZtLcbqfILFqRjVKyXUazXrIEC8fOyChjFAM+ORgLx7HGPtWYIPCwk2XyTyuRsvYdoIpKQKd4d1FGeOZ0DsHxfkSyPBzkoqVeLZADCUkj5hDIQ5cmiPADE+XuyC/FxLsbuxVyrG8wGiopTEwgr1Hc2A3Eh8N18l0nOnyuZcW6XwbVnHwIYmkBuFb37H6Rs6++dZ/6l/IYXdzX34tKh/9UCfWx1fSlYAq3m+v4gD+wshgCgl/cHoOEGctuEB3SO+zS7qP1ZEmgQEYrNuv0llqhgfNzMrwcv5yvdcDZOVSGD9aP0ntkEKP1ZT6SdOFieJvcKK8JUrgNXjOggcl5HCr48pvr9PZcwJxc28PBtLxQjG6rCZOY2Bq2Oke4nRGSD+bXBPmd4yuypwdVzp5uXUMTZuccbFXnKbO4fqZDL7xnfrTspZPkBHILrq6n/Qb25pSBRDy2owAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQ0lEQVR4Xu2VT2tTQRTFM9/AVTbZDLzFgweCGz+Ea/cFF+5cCC4sQrGgiEJB0fqvtEYJVIKKUoqaYgil6qMUqqFqpQVpChKMFBFxIV0cOXeY98bJ0syLQg4cQpLhzS/33HtTKo000j8nBeOhyQIYz01Pi4cEprDZbmdeaTTEZ8fHMxcM1Q9Ur1bFLtAhrYuCUuh1u5k/dzoZkIUqCCjvmdrtW9jr9cTraSq+f2cuc0CgHGL5kc6cLkRYvKdxfGwsA3KhAgEpvHyi+0yYtacR3i5FaD3QeDhTwY0LZbxuNjMHAFJ4UTeX3b1cwbVzZcxfr+BZTWP9uYF534qwtRJjdTFC/WYFaauVOQgQL69dNTAWqDGvBWRzOcL2qxif0hi7a7F87sZLmAECKanC41kTxcUzORD7xwX50o7x7UMiVeLZADCUkj5hDIQ5ceyAADE+XuyC/NxOsN85KBXj+QBRUUpiYYUmTuZAbiS+u29i6bnzp+25gUrh64aJgQ1NIDcK3/yO0zdz6c+z/lP/Qgr7u4exs2p+9dSEWx1fSlYAq3llsoyjR0ohgCgl/cHoOEGcttkp0yO+7S6aPFVGEgcEYrPuvUtkqhgfNzMrwcv5yvdcDQtVLbB+tP4TByCFH1uJ9BMni5PEXmFF+MoVwOpxHQSOy0rh106C7x8TGXNCcTNvNCOpGMFYHTYzpzFwdaxMLzE6C8S/De4p21t2VwWujivTvJw6xsYtzrjYS25zF1CdXHbf+O7fSQXLBxgKxEgj/Q/6DTCyi/RNz2UNAAAAAElFTkSuQmCC",
     "wiki_name": "Ring of life",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ring_of_life",
     "equipment": null,

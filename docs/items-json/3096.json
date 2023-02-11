@@ -1,7 +1,7 @@
 {
     "id": 3096,
     "name": "Iron claws",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": false,
     "examine": "A set of fighting claws.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2klEQVR4Xu2WD0sCQRDF3e8gSUamSYYZ/gkzw0zDjIi+/9fZmF3e3ezs7XGeuxLRg4d4nPt+NzO3a6Pxr78lpes7quyi98OhnoxG+nk+N5/cdI38slhk/thsMkcCs4tcdzr6tt/Xd4NBFr5drUxQVaAIYEqft1r6st02QDe9noFC+MN47LkKkAt2kJQ+azYN0NXFRVYlCcTbBihpf56Unna7xjK1RBZIVgnB0iGg3Xqd+QgYkguEKmGwpUOV4EASTCZWUD5HAAKUBOPV4ZUog6sJ5j81gCQUb9XTbOaASTgOeDAUFgwtXOTPt615m2QlitapOVMkP5gvWBRGLgKDasDkC6NFeLMepxPWGl8huND9FWR3adqhyRwIMHxWyoI4XI2qcKkMhoNgcOk7GVUrg4KOgCGpDAShqAxBSSC3YsmkTKvkDMGvy6UDBMCEUMqcY2SCosrwNvKqoJUEiXmRq0WQDeJAVAUORN8BRSc9veaAkqtFEn+TlIFAW/w22Y0xOZTc+OhPGgAomCqTt+lEULlsIAdwIfN7sEsnmicuH+B7vxfhLlT+2yRS+ut9VwjghtvqnQzKD/LPLLTVvzeJbAXcGQmdWaHrUVX85KHQ0PXIOsmTH6ZfBZNKP8nOdCms+rc3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB30lEQVR4Xu2WcUsCQRDF3W/iR+gfCQnBkJAwIkkSkySTTNIkI6JvvzG7vLvZ2dvjPHclogcP8Tj3/W5mbtdG419/S0rXd1TZRe+GQz0ZjfTzbGY+ueka+WU+z/yxXmeOBGYXuez19M1goG+vr7PwzXJpgqoCRQBT+qzd1uedjgG66vcNFMIfxmPPVYBcsL2k9GmrZYAuut2sShKItw1Q0v48KX3SbBrL1BJZIFklBEuHgLarVeYDYEguEKqEwZYOVYIDSTCZWEH5HAEIUBKMV4dXogyuJpj/1ACSULxVT9OpAybhOODeUFgwtHCRP9825m2SlShap+ZMkfxgvmBRGLkIDKoBky+MFuHNeryfsNb4CsGF7q8gu0vTDk3mQIDhs1IWxOFqVIVLZTAcBINL38moWhkUdAAMSWUgCEVlCEoCuRVLJmVaJWcIfl0sHCAAJoRS5hwjExRVhreRVwWtJEjMi1wtgmwQB6IqcCD6Dig66ek1B5RcLZL4m6QMBNrit8lujMmh5MZHf9IAQMFUmbxNR4LKZQM5gAuZ34NdOtE8cfkA37udCHeh8t8mkdJf79tCADfcVu9oUH6Qf2ahrf69SWQr4M5I6MwKXY+q4icPhYauR9ZRnnw//SqYVPoBIRHuPLDgUhIAAAAASUVORK5CYII=",
     "wiki_name": "Iron claws",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_claws",
     "equipment": {

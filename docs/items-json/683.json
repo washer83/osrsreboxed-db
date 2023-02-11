@@ -1,7 +1,7 @@
 {
     "id": 683,
     "name": "Sealed letter",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "A sealed letter of recommendation.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABKUlEQVR4Xu3RX0vCUBjHcc+FNxK9Bq+7CAkJpWSMlGWGadlY2SL7g4j0j4ggpLf+i+c57Hh2GEroNonzgy/s7OZ82AoFOzs7O7s0JjAv10mEU9tFvbrD5YSSkGZjD55TRdvdh3tQUWWIkhACnDZrOPPq6LcP+WyWMkpCdMSg04DfdRD0XD4nlQJKQkzA8PwI4aCFO9/j86LWiBKJgPvgGI/XJxjfdDC57fK7Za0BtfirEGq0VURru4SwVGTcslZECYUwIfrXoQhEuOmol1j02yvlMmfe9IeJGEKH0EUvD32OMHpvTxecCVkRE00kIujCj/ElR4jomUoJok/EEJ8TX/U1DVQZQPQJBfh+voqVMUSfwOx1iJ/3kMsRok8iNgAy38ZA7Ozs/st+AeElaEwTaOj/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABKklEQVR4Xu3RX0vCUBzGcc+b8FrwIuiq99JFECSEWMJYKMvMtNhY2SL7I2J/iYh6n0/8focdzw5DCd0mcR74ws5uzoetVLKzs7Ozy2ICswqdRDj1HTRq21xBKAlpNffgOTV03H24B7uqHFESQoDTVh1nXgODziGfzTJGSYiO8LtNBD0HYd/lc1oZoCTEBAzPjxD5bdwGHp/ntUKUSAXchcd4uDrB+LqLyU2P3y1qBaj5X4VQo40y2ptVRNUy4xa1JEoohAnRvw5FIMJNR/3U4t++Valw5k1/mEggdAhd9Hw/4Aij9/p4wZmQJTHxRCqCLnwf+xwh4mcqI4g+kUB8TALV5zRU5QDRJxTg6+kyUc4QfQLfL0P8vEVcgRB9ErEGkNnWBmJnZ/df9guapLAPByXjagAAAABJRU5ErkJggg==",
     "wiki_name": "Sealed letter",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sealed_letter",
     "equipment": null,

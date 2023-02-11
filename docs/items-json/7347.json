@@ -1,7 +1,7 @@
 {
     "id": 7347,
     "name": "Adamant shield (h3)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "A shield with a heraldic design",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xs3W2WsTURQG8AlhGAKlIIigPqS0tNJWklhSKlhQQfHRfd+oEiWCD8GillapGoobhVKrVElRKLUUrQg+iKLoX3ac707P5MzJTUnMKL3wkWQW7i/nLjOOs/Fbguyxnf/nLUHPxo/Tk7GjJlN3jlB59LAJIxZnRujd9GVaeH7JgtJ/omV4AGIUQByNqTy9QK+mzkU6xm+c04mimkImaPreiRoUPgHhMGiufIZmJk+Za/FpA+F6if6xMk7flm79HYpB+M7VYdDrx+cNiK+tB8J935fH6NfqA/q9+siA0Eeuo8NE965aUHb+1wxCpzbQ7MPTIQjfbaCl2SsREL4zSPeuWiIyDOiIJzd+M0jOFyB4eOuBVl4W4gNxlXAMIFzTvdWhvu1OCJMgVE2DPs5fC0FIUyCeFxqEf84gN1UkL1XyM0EDnckQVg/06c31KOj97dZBOM7VYdDOEZdyRZcGRz06mK3CEAn6XCnGC0IwlDif3uKDvIKPukl9F13KFFxTpaGeIMO9SdrXH8UhDPr54X6IaRokUVwdgLqPubTjpEu9Z11TJYAGDgxQ/tCgicRxcL8G6d7rtOp80CDGIKhQMI9KNSAZxtgqpHu2tGApo0IStB4Gqy23P2cFoUq49+tiKQTJTVH3rlqw5OuBMFycKmg0AtLDxtWJDYRwddL9aerMdJp07eqinnyPwWTTScrszdZUiauDrSIWEIJjm9sDjAYxRoZBsjrLL66GIOzSjGkIhBWmQVwdDTIAfzKn2ub8VIKJvRZZHTw2ZIUarA5aFcSoehXi6mBDTLXN0+4Jj/ZMejRc9iLVAQiPjVhB7SmHtm2KziFg8iXPgIBhkKwOHsIAYZeWIEbp3i0tANmGzVTJHzquDjAMGrqLKlX8vA2fa3hcAITXji8LN0IQ9qAm9qEoSK42nEOVsORrJrKYNxKE6rQMwiqzgXAM583muLYXoVJypenqxArSw4bj+r3YFtzH1wKEJS9B2IOa3odsw8ad4B/jO7/eItjJ+UGM++T8iQVkGzYJwjn5WiJBuE7OnxZBaLXDYIvEyGgQNkUJ4jQBchze1teLBsrI+RMLqNGmkY1gOdVr/1PTSFv0PRu6/QE3Gff1jgf3CAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQklEQVR4Xs3WS2sTURQH8Mk3yGo2s5ldoatuxIUIbrIILcXSYmkkpVSwCxUUd76o7wdVIikuYtHQSB9K1VJqraZoqa0vBB/Fr3Oc/52eyZmTm5KYUXrhT5J5cH9z7mPiOHu/pcge2/l/3lL0YvoSLZQvmDx7fJ7mp86ZMGJ9aYLeL96htZe3LSj9EG3DQxCjAOJoTPX5TXr99HqsY/zGOZ04qiVkihYr43UofALCYdDK/FVamrlsrsWnDYTrJXp7a5p+bDz8OxSD8J2rw6A3CzcMiK9tBMJ9vzbL9PvzbJA5A0IfXb5vontXLSw7PzWD0KkNtDx7JQLhuw20sXw3BsJ3BuneVUvFhgEd8eTGbwbJ+QIED28j0NZKITkQVwnHAMI1PQcc6j/kRDAJQtU06NOqBM22BuJ5oUF4cga5fpE8vxSkQvlsOoI1An15ez8G+vnhUfsgHOfqMOjIhEu5oksjUx6dGarBEAn6Wi0mC0IwlDif2R+AvEKAekD9t1waLLimSqO9Ycb60nRyII5DGLT98UmEaRkkUVwdgHouunR43KW+a66pEkD503kaPjtiInEc3K9BuvcGrTYfNIgxCCoUzqNSHUiGMbYK6Z4tLVzKqJAE7YbBasudyllBqBLu/b5eqoHEpqh7Vy1c8o1AGC5ODTQVA+lh4+okBkK4OpmBDGUHsybdR7upd7jXYIYyaRo8MVRXJa4OtopEQAiO7esMMRrEGBkGyepsvronQHMRpikQVpgGcXU0yACCyex3rASphhN7J7I6eG3ICjVZHbQaiFGNKsTVwYbod6zSsYpHx2c8Gpv3YtUBCK+NREGdvkMHu+JzCJjhkmdAwDBIVgcvYYCwS0sQo3TvlhaCbMNmqhQMHVcHGAaNllGlapB30XsNrwuA8Lfj29pkBMIe1MI+FAfJ1YZzqBKWfN1EFvNGglCdtkFYZTYQv1jN5rizF6FScqXp6iQK0sOG4/p/sS24j68FCEs+Bgr2oJb3IduwcSd4Ynznv7cIdnJ+EeM+OX8SAdmGTYJwTv4tkSBcJ+dPmyC0+mGwRWJkNAibogRxWgA5Dm/ru0UDZeT8SQTUbNPIZrCc2rX/qWmkLfqePd3+AMeF5qf8dpjLAAAAAElFTkSuQmCC",
     "wiki_name": "Adamant shield (h3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_shield_(h3)",
     "equipment": null,

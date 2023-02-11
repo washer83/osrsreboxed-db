@@ -1,7 +1,7 @@
 {
     "id": 1404,
     "name": "Mystic water staff",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": true,
     "examine": "It's a slightly magical stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3VXUsUYRQH8F0WkRUxoj6AN11EF/UBiu2mLiLIKDJ7pWyLohckKUQSq0V6wzCzqFAyxETKCKKiKKrrvkjXQben/jP9nz1zPLvuuFP4wGHGmWc8vznP2WdyuZU/8uKHd/+fj7zcHtwjNwd2RzFyuUsq/buiIGJm7JhMjx6VqTtHHJR9iabhMYgogBgWM3nrkDwcOZBIjL9xz0YSlQqZl9ErexehcASEQdBEZb+MDe+L5uLogTBfoz/ND8qH2YvLQxGEc1aHoMc3DkYgzq0FwnMf5wbky8JV+bpwPQIhx6bOzihsdjPisvOtCUJSDzR+rTuAcI7nLWh2/HgChHOCbHYz8ollQCI2N/62IMCB4PLi+WL707A0BM0/KGcHYpVwzQOxkgHUdlfaV3+XjrU/A+rlo5MBhEgFYl9YEJJbkG7oqCqFddLaVpG2Vd/+gH4F0Ksnp5Kg55eaB+E6QESxkpxD0PZSSS6UT0jHmh+hSq8nT2cLQgCgQbahiRrubo1xfwNz306fDaDPL4YCJjVIo/jztSCN2baxEEBsaMx99+y8C7LZa4z4zZCsHkg3NOaf29EilZ4khqD3M33LBcV7ECq0FIhVxDP3eotRTJSLi0CYr0F6U7TZzYh/8h4I4YHwTN/OZM/gf+jqZAoiCoEE2HGRAOfclVEZHIHGc3a5MgPpKuGoQZhHEDG1QHP3ewMIuzQxDYHwy/FA/GBqkK2OB8JcfDZ0hRqsDkYVZPsI1zVIY9DwHojLhc9GZiCicB0JAMK8/q64kbkHAaMrqUHYpTWIKJvdGTHIWzaCMKdnS0tYpqVAeIE3U2cCCHtQin0oCdLLhmu4v3l9ITriusZ4IFSnaRCa1QMRg90Y5/qToUHsNS5XZiC9bLi+dUNBDpdiDBLyk6GXiyD8D4Lwk9cg7EGp9yFv2XAPgTfGnHog3T+ZgLxl41sjCe55DY3gZ4PL1SQIo/pNqhe2fxgWhE1RgxgpQLkct/V6YYE6dP9kAmp0WGQjWEZ17n8aFumFfWZFj997r6Eip9naUgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xs3VzU4TURQH8PYNumLDpkkXJCQmxMS3cGPixifQpG50YYwYo4gKRrFGgwaJEjSUYlARsaAQSxD8ivGL6M53cGVcXfuf8X977vG0dOhouMnJDDN3OL859/ROJrPzR9bZYd3/5yPrHk6ecrMTJ6O4f6ffVcZPREHE6vwlV5u76FYeDRso/RIdw2MQUQAxNGb5wQW3OHMuSIy/cU9HiEqEzLq5u6f/QuEICIOgauWsm586E83F0QJhvkRvbky6T2u3tociCOesDkHPZs9HIM5tBsJzX9Yn3Nc35XpMRyDk6Mvno9DZ1YjLzrcmCEkt0EJ5wINwjuc1aG3hcgDCOUE6uxrZYBmQiM2NvzUIcCC4vHg+3/PCLw1BG9VSeiBWCdcsECvpQYXHrqfvu+vd89OjXi9JUDkZiH2hQUiuQbKho6rk9rruQsUVdn2rg3550NvnVwPQ55e3OwfhOkBEsZKcQ9DRYtHdLF1xvbt/+Cq9W76WLggBgATphiZqaqA7xv0JzP1QG/WgzVf3PCYxSKL489UgiTlyIOdBbGjM/Vi7YYJ09iYjfjMkawWSDY35o8e6XGUwxHjQ6th2QfEehAptBWIV8cyTkXwU1RKShCDMD0BiU9TZ1Yh/8hYIYYHwzNjxsGfwP2R1UgURhUAC7LhIgHPuyqgMjkDjOb1cqYFklXCUIMwjiJhmoPWnIwI07TFtgfDLsUD8YEqQro4Fwlx8NmSF2qwORgOk+wjXJUhi0PAWiMuFz0ZqIKJwHQkAwrzx/riRuQcBIyspQdilJYgond0YMchaNoIwZ/BQl1+mrUB4gfcr1z0Ie1CCfSgEyWXDNdw/uC8XHXFdYiwQqtMxCM1qgYjBboxz+cmQIPYalys1kFw2XD+8P+eGijEGCfnJkMtFEP4HQfjJB6D6HpR4H7KWDfcQeGPMaQWS/ZMKyFo2vjWS4J7V0Ah+NrhcHYIwGt+kVqH7h6FB2BQliJEAlMlwW28VGihD9k8qoHaHRraDZTTm/qehkVboZ3b0+A0y1JjPfZ8m8wAAAABJRU5ErkJggg==",
     "wiki_name": "Mystic water staff",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_water_staff",
     "equipment": null,

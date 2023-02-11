@@ -1,7 +1,7 @@
 {
     "id": 1676,
     "name": "Sapphire amulet (u)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "It needs a string so I can wear it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xs3VW2sTQRQH8IRSQkLYz9CP4Lt+AAXxgqJVq6Ki4hVEUUq11BqKWq2UWEWlwZZQS6kpxSteq4Jvoij45ENR8Gsc+e/y35w9mY3ZZJUOHHYzM5v5ZebsSSaz8ltW3OEa/+ctK6MDW+RK/2Y/Rs5tktKZjX4QUR3fJ1Nje6VybY8DZX9Ex/AARBRADIuZvNont0d2RhbGZ4zZiKISIbMydmFrAwpXQBgETZR6ZXxomz8XVxcI8zX69dyAvJg53R6KINxzdwi6e3mXD+LcOBCeeznbL0u1i/KudskHYY1VPT1+2NVNC7adv5ogLOoClYe3hyDcu0Az5f0REO4Jsqublo0cAxZicuOzBWFxIHi8caC5WwfTA3GX0OcCcScJwq5Z0MM7h0IQIhGIeWFBWNyCdEI3Ay3cOxwFPTjbOQj9ABHFncQcvj1xoMXJI+mCEABoEBGIdWu7ZM3qLv/egjD36dTxEPRmfjDEJAZpFL6cIMybKOelNJyTXP68HxvWx4OeTZ90guzqMa2+/S4Qxp48Kkh1Oh9iELv7uv2dwrgFPa+eahcU1CDskAuE8e/fivLxQ1EWFwoREGJHbyMKP0KDdFG0q5sWvPIuEIKg3788+fqlKO+XGkEnjnWL52VCEHYnVRBRCCyAiot5P5c9+fypKG9fFaQ2X5D7lbzcuJ6XocFcZHdSBeldwpUg5hFi+Yfno5BP7LP5M3vzQAhClSamJRDeEBeIfwcEAY5+IhA4VjyjQZiLvw29Qy3uDlodZPOIrzJB+KwrNPNMg3hc+NtIDUQU+rEAQRjXRRP3eic1CFVag4iyqztaAHIdW7sgzH9cORqCUIMS1KEoSB+bBuGKfntcFgR4xyAk699AWAx9LhBzjceVGsgeG/o1yCY0axWe41yA8MprEGpQ4jrkOjYN4isfB9L5kwrIdWwahDFXQiMwT+dPhyC0eqFrFjZ/GBaEoqhBjASgTIZlvVlYoA6dP6mAWm0W2QqWUZ/7n5pFusI+s6LbH1Zuw/HRQPehAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xs3V3U4TQRQH8PYNuOKmN5v0osle+VT6Apr4FaOiokaNRsVEjRIglGpQkNQK0tgGAQG/QTReGD/ihSHERzjy3+a/PXs6W7vtapjkZLczs51fz5ydZjK7v2XFHa7xf96y8nDkmEwOHw3i/t0jUrp9OAgi6jMXpDZ9XqpT5xwo+yN6hjdARAHEsJj5B4Py5N7pyML4jDEbUVQiZFamR4+3oHAFhEFQpTQgM+Mngrm4ukCYr9EbSyPybuFWdyiCcM/sEDQ3eSYAcW4cCM+tLw7L5kpxJyYCENbY43lB2NVNa6Sdv5ogLOoClYsnQxDuXaCF8sUICPcE2dVNy0a2AQuxuPHZgrA4ENzeONBS5XJ6IGYJfS4QM0kQsmZBL2Y1qJgMxLqwICxuQbqg24FWn16JgN4/v9M7CP0AEcVMYg7fnjjQ2vzVdEEIADSICMSB/X2yb29fcG9BmPumNhSCNpbHQkxikEbhywnCvErZk1IxJzlvNIhDB+NBb2s3nCC7ekxrpt8Fwtjrl3mp17wQgzg72B9kCuMtoPrNbkGNMwgZcoEw/vNHQT5/Ksjaaj4CQpwaaEXhR0RA6lC0q5vWeOVdIARBv7d9+f6tIB83W0FD1/vF9zMhCNlJFUQUAgvgxMW87S1fvn4pyIf1vKws5+VZ1ZNHU56Mj+Ui2UkVpLOEK0GsI8TWLz9AoZ7YZ+tn8fElBZoIMR2B8Ia4QPw7IAhw9BOBwLbiGQ3CXPxt6Ax1mB20JsjWEV9lgvBZn9CsMw3iduFvIzUQUejHAgRhXB+auNeZ1CCc0hpElF3d0Rog17Z1C8L8V9VrIQhnUIJzKArS26ZBuKLfbpcFAd4zCMX6NxAWQ58LxFrjdqUGstuGfg2yBc2zCs9xLkB45SOgnTMo8Tnk2jYN4isfB9L1kwrItW0ahDFXQSMwT9dPjyC05kHXLmz9MCwIh6IGMRKAMhke6+3CAnXo+kkF1GmzyE6wjObc/9Qs0hX2mV3d/gDE88HoZc1BhwAAAABJRU5ErkJggg==",
     "wiki_name": "Sapphire amulet (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sapphire_amulet_(u)",
     "equipment": null,

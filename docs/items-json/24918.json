@@ -1,7 +1,7 @@
 {
     "id": 24918,
     "name": "Wooden bed",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xu3W72tSURgH8Hu4iCjDNwuiRWsYW7hkmpg6UpyoON3wF05c5tbW+jEWQYxqjIh61R/RH/t0v+d0vOee7FbzzPViD3xhu4zdj89zPOdY1nVd15UUI+/PemZajFr52+OXf/+QpUIixHM2fED7m9FZoxgll4OUi4eomglzCH5W8ygWnGW3GMWjQSqlfoXoKMBnMEoB0gE6Rg3w7piNF6NXT7eot1Wgt687dLTfoGG/TJ3tPFU2UpRNxyi2cscDUseYXFoyiRIY5NuX5/T1fI/OT3fp9M0Onbxsc9xoUKV+t0i1YppatXXqN4s06lV5Vw2DBOboSYM+vR9yDPL5bMR/B+zjuwHPoFeiVmOd0okVehi/R2urUbq/GDAJYrQbDtCOk27IGzw7HGzyLqBLiBxhrZzmoEohRdEFYyDRmRdzATpwMgnWDNlUd1IN2nxtdep5KubWeIfymTgN2iVavGmbAAnMsQMBSKJGYReGSMyGk7yTrJNUwOYg4IAxMDJvZ2SAUUHokASpmLu2RfVSho8KiYStaUACo3dDHY/aFbUzyLKDiVgWh8hRScwFQGw8okldUUeFAChhwCSc7txwMBjRrXl33VwAIz7FJIwO0Rey7BAwqwGBmY94Mfrb/lDuCa6C9MX7O4gclVw3U2JQjM/65KBNx3tNHnVBqzBgdAi6svBz3WBM6qj0N/1lMb4Asbkhz/o1vtkh2JnVyOcI/k4uYOw3gBjoDkqc4Dh7sG8g2OAQnEXY2JBht+xBIxg1QOiw+tWeAoNi4prwOMm3eRyMWAvbldwYqeIkDCBADGNQAoRvBzqF4HKF4LkfCGMyjEGxCbc7N7jPyHszLlsIrq+IoTWjl1hD6j9WowPVTHkk+JX/p9SREnqJIPFS/Zl/XTLo3+u/A6H8R30lZRLzAyeYncgj9wOoAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu3W0WtSURwH8Hv/A5988eWCD4FPMeghYlCMHqQxkoXDhZLKUnCK4nRTJyhu5tZqq7GCRrVR1Ev/QX/ct/s9p6Pnnsxq3rke9oMvuovsfvz9jucey7qu67qSsuF9b2amZaOZuzu8+fcPGeQTjshZ/xH2N6KzRtlYXQwhG3dQSYcFhO/1PImFZtktG/FoCMXkrxATRfgMRilBJsDE6CF+NGbfy8arZ5vobObx9vU2Dvfr6HdL2N7KobyeRCYVQ2zpngekj/Gm4/iJkhjm25eX+Hq+h/PTHZy+6eDkqCVwg14F3XYB1UIKzeoauo0CBp2K6KrPIIk53K3j0/u+wDCfzwbib8I+vuuJ9DpFNOtrSCWW8Dj+ACvLUTxcCPoJsrETDqLjpu14w2svehuiC+wSo0ZYLaUEqJxPIjrvG0h25uhGEAduxsEaTgA1N5VQQKyt7VoOheyK6FAuHUevVcTC7YAfIIk5diEEKdQgPIIxCrPuJucm4yYZDAgQccT4MDJvZ1SI0UHskALpmPsBC7ViWoyKiYStaUASY3ZDH4/eFb0zzKKLiViWgKhRKcwFQPZwROO6oo+KIVDBiEm43bnlYjiiO3OjdXMBjPwW4zAmxFzIqkPELAclZi7ixZh3+0ONnuA6yFy8v4OoUal1MyWGZYtZnxy0cLzXENEXtA4jxoSwK/M/1w3HpI/KvNNfli0WIDc35nm3KjY7hjuzHnWd4efUAuZ+Q4gP3WHJJzifPdw3GG5wDJ9F3NiYfrvkQTMcNUHssP7TngLDsuUx4emq2Ob5YORa2Cpnh0gdp2AEEeIzhiVB/HWwUwwPVwyvTwJxTD5jWPJYytdx4XlGnZt52GJ4fGV8WjNmyTWk/2M9JlDPlI+ESTX5W5pIBb1EkLypeW1yXTLo3+u/A7Emj/pKyk/MD3prIsJvQ+3fAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

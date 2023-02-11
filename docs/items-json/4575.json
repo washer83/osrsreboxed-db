@@ -1,7 +1,7 @@
 {
     "id": 4575,
     "name": "Schematic",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-21",
     "duplicate": false,
     "examine": "A transparent overlay - details of something?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiklEQVR4Xu3W/UoCQRQFcE18D6MiCgoplJAiCIIgCIIgCIIgAp+h97HX3ObDe71z5s52Z4X+kL1wUERnf3tmBxwM+ulnd2fYlNNlcI2q9YbN+OK1GU9fmtH5c5Z8wb8zOryNObhJsre/sKAAdPak5/QxzclDzPF9zNFdDGEwAjSdTNpQDnT5ljZkgWgYLQJVB3ItJdtVQmkgjAD9rL75fTWIWvKLWJLgDEA7aPbOIIpsK1wcm3JBoAqVMPcc2UGiJUQxqLSNGGgu/L4zSEGFBfG5gnA7Co5bM4PmHzlKwBikRYAQKbc2vO8EUlB+QdkafYbRDgRjtwIhStlKxGXNae2ZQVefG9QaRnfoIXjXFqSEMcgd/W4gaAtBmDZg0pg7aTbQ4iuCAIUXxrRusQZzJ80OopZcwsXWr21JQAac37Y6EIXaKkVubWGbNZhvyQa6XqYgLYjCWGCuJTtIxjdWGw2uAA0gP/m/vtrwjcgTS+3QQ217huL4L20TBJay+f4/DCJLwd/108/Ozi8YRNSYZPoM0wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkElEQVR4Xu3WTUoDQRAF4GTvIoscIEfwCCIKiogoohgUBEEQRAQRRCQQcpJcRQ829k+qUv26eqyegIswBY+EkPR883oaMhj008/2zrApp8vgGlXrDZvxxXszPn9rRmevWfIF/87o4D5m/y7Jzt7UggLQ6Yuek+c0x08xR48xhw8xhMEI0O5k0oZyoMuPtCELRMNoEag6kGsp2a4SSgNhBOjne8nvq0HUkl/EkgRnANpBV58Mosi2wsWxKRcEqlAJc8+RHSRaQhSDStuIgebC7zuDFFRYEJ8rCLej4Lg1M+j6K0cJGIO0CBAi5daG951ACsovKFujzzDagWDsRiBEKVuJuKw5rT0z6Ga2Rq1gdIcegndtQUoYg9zR7waCthCEaQMmjbmTZgNN5xEEKLwwpnWLNZg7aXYQteQSLrZ6bUsCMuD8ttWBKNRWKXJrC9uswXxLNtDtIgVpQRTGAnMt2UEyvrHaaHAFaAD5yf/11YZvRJ5YaoceatszFMd/aZMgsJT19/9hEFkK/q6ffrZ2fgEriWwPJg4UPAAAAABJRU5ErkJggg==",
     "wiki_name": "Schematic (Dondakan)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Schematic_(Dondakan)",
     "equipment": null,

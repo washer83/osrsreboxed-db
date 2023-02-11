@@ -1,7 +1,7 @@
 {
     "id": 25526,
     "name": "Jar of smoke",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-17",
     "duplicate": true,
     "examine": "Don't breathe in.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xt2X30uTURjHfS+7sZuQUaAmiJLLtmlz6n4vlRDMjDSFqbMMJaeZxSjFrEQv7CKTMhHECysYgVdd9PcEgiB4Ibjt3cW38zzvjnu35V1ngx74sgPvw/t83vP9ngMrK/t/SsPfVZLS0GK3w9HYyL9upxMhjwedPl8pwDTc6erCcP99RB+OYWxwEA96e3GvuxtDfXfP1kUE0zA6MICZ8Ufn6klkFI/DYYYtApSGyZGRAgizaOdkD/XbqqtVQWmwVFQUAORrbmICsakpLDydwRWLRdUuafzymqqqAoB8mFfT01h8NstAtTU1uFpZqQJK45db6+t5IA0+D2bp+RyWYzEGaqirw8qbehXWafxyW0MDVufneSANljC0/vDuLXY3NvBpdRXvXy/ips0Gu9WKtZXraoAIponuHoeDhxIADaY1gXzf3saP3V3sbX7Gzsd1uJqa4LTbsL7mUANEF6FTXIRtzc3wuFz4tvWFQeI7O9j/uoef8Th+7e8j5PMi4HHD3dLCUFubF9QAnZ6U8wAa5Gtr46E0/FYggM5gkNUh1iFxYwfEze1rb+depUB6wgVvayv8bjeCXi8PJwgJRAr5/fyMeghcOVA6OcQ7QLtDw89gQiEW7Rg9SyfDor9PHdDJcTlSiWYGSifHeXfMdkmgdOqleD7JfXqiRz2QnuwXwyJi8CzS+lJGy1mlXjAw9emJ20UAEjaQHelUVGjB0BnYkgEqgKlPT3SoBrrBNhi2TRr2sDJgrGgmPz1CfnVAx0cEdI1tkDlie1gSLDc/6oFOa9mGnByxJFhufvSEWx3Q0SEBVfFX5+aIJMFy80PXhIT550CHBwR0mb86J0dSEs6UHzoECnaHSsPBbwK6xF/NdrBt4yZJOMqPYRcdAsVAFzNHn+wg2yImGWDZ/Lj4ECgCotIyQHT0KUdkW9gkA8ycH8VAVFoGiHIkj79Z2fxQj6JA55fxn0sef7Oy+elTmZ/CMoYQFNljkoCSwEXanfzK/2+fhSgBjFH5ACWBUFV/AJTyJdVWFMQHAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xt2X7UsUURTGnf/ETyJGZoIivuxuu6774mZBHySkwPygYAQlIWVGmoL5UqK0miaW2pYlFZaoiIgVBn4I+kPCREScGXmac+7c3XE2v3V3oQMPe9l7mPOb+zx3YXNy/p/S8HdlpTRca2jAlfp6/mxubMSNlhbcam3NBpiGu21teNT1APHHQxjq6cHDjg7cb29Hb+e95DqDYBoGursxPvzkRD0dHMBwXx/DZgBKw2h/fxqEU3Rysof6i3JzVUFpyM/LSwNwa3JkBNPxOGafjeNUfr6qU9L44cVFZ9IA3DAvx8YwNznBQCXFxThbWKgCSuOHV5SV8UAafBJM4vkk5qenGai8tBRvEyEV1mn8cE95ORZmZnggDZYwtF588xobS0tYXljAx1dz8Hs88FZU4P27mBoggjlXVYWAz8tDCYAG05pAvq2t4fvGBjZXlrH++ROCPh/8Xg8WP1xUA+SrrETA60WN349wsBpfV1cZZGt9HdtfNvFjaws/t7cRi0RQGw4jXF3NUKsrBKIA6PCggAeEAgFEamp4KA2vq61FXSwmZK3PR6O8F7V6qFcpkKk3IRIMIhoKMQwNPwZkib6jPeohcOVAptGbPB0GskEu2CJA2jONPqu/Ux3QwX4BDP0qA5nGcNrpSKAj44W1Pyr69DuZAOqyNGhpAkdmwtZ8UqYxxcDcp9/OAJBlA9thxK3TmBVKgiUYlIGpT7+pGugy2yBsG2V7hGwwSwQq8mP16dfVAe3vEdAltkHmSNgz5QA7nh/1QIcxtsGZIyEB5s6PqTerA9rbJaAgv7UzR0IS7Hh+6GdCwvxzoN3fBFTFb+3MUUoSLpUfugQKTodKw84vAirhtxY5ItvIHikJRvkRdtElUAx02r76ZAfZRjmSkmAyP018CRQBUWk2EF19yhHZRjmSssEc+VEMRKXZQJQjef2dSuWHehQF2l3iP1fq+jsl89OpMj/pJYYQFNnjkAUlgTN0Ou5y/7dPQWQBRpQbICsQquoPd6yAdRPyDykAAAAASUVORK5CYII=",
     "wiki_name": "Jar of smoke",
     "wiki_url": "https://oldschool.runescape.wiki/w/Jar_of_smoke",
     "equipment": null,

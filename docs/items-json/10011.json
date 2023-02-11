@@ -1,7 +1,7 @@
 {
     "id": 10011,
     "name": "Butterfly net",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "For catching butterflies...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xs3V+0sUURQH8N3/xN+DXkQFiQkm+3K3Lc2WzawMewgRvREp2hLphSD2oEIhEBMpI+iHKIr6y0587/C9njneWXbaKbxw2HHmruez59x7J5fb/iMv4Qg9/+cjL09nhuXx9DEXc3fqMnvzqAsiVhbOybv5M7L8bDyAsj+ia3gEIgoghsUsPRmTV3PNWGL8jWc24qhUyLzM3x3ZgsInIAyCXsw2ZOH+qJuLzxAI8zX6x/qMfFu98XcognDN6hD05tEpB+LcJBC+931tWn5ttOT3xkMHQo7dPT0ubHYzorLzVxOEpCHQ4oOTHoTrEGh1cSIGwjVBNrsZ+VgbkIiLG39bEJIDodvB0KD1l5PZgVgl3LMgJj9bO+hion7IxeTx3hjq4+sLHoRIBeK6sCBUQ4Mw93TlgFxtDvi4PnbExa3xQbk00ufBn95ejIPe3+4ehPsAITCvWdovU6OHpVHYJ5VyWcqlkpSKRSkWCu4ZqoTnqBjmZwpCoJUahIRo01Cl4kE6gBvq2ylXGv0x0M8P9zwmNUijuH11hWq1mlSr1S1B5InBvX49hUA2e8KI+o7d0w6ERBaiA2AEqtgFKDqDUKF2IC7qJBR3HH/c15VrHqQPRZvdjGjLh0AIC8IcfAe7CTAdqEyr1XLPMT8zEFEInrhIwDNoeGCPqwaSM1gVBOCZgXSV8KlBxOAc0gCEPqEBWnt+3oNwShPTEQg7LATi+wkgzKv37/IYrC+2Fd/RIODx2tAV6rA6GJsgu45wn20CBmuEmCQQ24XXRmYgonAfz3HQEaMPTVzrSmrQ56XLMRBRNntgRKBQ2ywGzzsBocVflqc8CGdQinMoDiKKGLyzcM0tb9tlQahO1yDsMg3CvXLvDo9BAiRD1UIgrjW2KzOQblvU76gyBCG5bRdB+B8EYctrEM6g1OdQqG1MAhCu24H0+skEZNtmQXgWWtAIzNPrp0sQRvzUTQq7fhgWhENRgxgpQLkcj/V2YYE69PrJBNTpsMhOsIzNuf9pWGQo7He29fgD8Fx/5astguwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xs3V+0sUURTA8d3/xD+hv8N9/BREREEFCSaSRM8tWVs2szKsJCIrxaLVwkrE7KGQmPYi6CH9Oze/M53x3NPdZaedwguHHWfuej57zr13crmdP/IuHKHn/3zk3bPpQTc3dS6KJ5MVN3v3bBSCWF246t7OX3Yrz0cCKPsjOobHIEEBkrCY5afD7uXjupeYv3lmw0elQubd/IPqHyg+gUgIaGm25hYeDUVz+QyBmK/RmxvT7tvaxN+hBMS1VEdAr+cuRiCZ2wzE936sT7mfHxtbMROByLGrqysKm92MuOzyqwVE0hBosXEhAXEdAq0tjnogrgVks5uR99pAIlnc/G1BJAeh2yGhQRtLY9mBpErcsyBJfuXM4ShGK0eiGDvf46E+vNKgRjqQrAsLohoaxNxLpw652/X+JCaGj0Vxb2TA3aj2JuBPb657oO/v7ncO4j4ggnn1Ewfd+NBRVzt+wBWLRVcsFFyB6O6OnlElnlMx5mcKImilBpGQNpVKJVf6DdIB7nTvHner1ueBNt8/TDCpQRol21dXqFwuB0OQ1YH9yXoKgWz2JiPuO7unFYhEFqIDMEEVOwDFZxAVagWSRd0MJTtOftzX1TvbIHUo2uxmxFs+BCIsiDl8h90ETAeVqdXi58zPDCQoQk5cEsgZNNi/L6oGySWkKgTwzEC6SnxqkGA4hzSA0Cc0oPUX1xRoJsG0BWKHhUDyfgLEvErf3gTD+pK28h0NAs9rQ1eozeowtkF2HXFf2gSGNSKYZiBpF6+NzECC4j7POegEow9NrnUlNejz8k0PJCibPTBiUKhtFsPzdkC0+MvKeALiDEpxDvkgQQmGdxbXsuVtuyyI6nQMYpdpEPdO9uxOMCQgGVULgWStSbsyA+m2xf2OKyMgktt2CYj/ISC2vAfaOoNSn0OhtkkSQFy3Aun1kwnIts2CeBZa0ATz9PrpEMTwT91mYdePhAVxKGqQRApQLifHequwQB16/WQCandYZDtYie25/2lYZCjsd3b0+AXC3W3oVQSYlAAAAABJRU5ErkJggg==",
     "wiki_name": "Butterfly net",
     "wiki_url": "https://oldschool.runescape.wiki/w/Butterfly_net",
     "equipment": null,

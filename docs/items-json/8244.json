@@ -1,7 +1,7 @@
 {
     "id": 8244,
     "name": "Chef's delight",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "A fruity, full-bodied ale.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADl0lEQVR4XsWWbUtTYRjHvV9FEob0IjQCTUzMaBo6FR9D15oOnbmmbubzlFbLWln2gIiZRIVgz0QFQUQUEUEUfZZe9CH6AFf8rnHPYUYk58wbLs7ZOWde//3+//s65uVtaRn5s7ZtGZkYGpL+7m45caxdev1+6QsEtkuUkeFwv0RP9klyckJuXpjV6mhpkbpqz3aIMkrkVE+PUkFIfU2NzManpLG2VgVVl5TkSlSaDmKoqVhMjre16XnQ59PyVFXlKlNGpk+flq7ODiVEfsYGBjRD87Ed8mB2p9by1A4lxnMuizIyGAplaCAIWjT+9b1ARiKn5OfPH3psb2qSor173bYvnR1sghSN+UxzK8jW7oKCjBhXBUFnIXVRrYIORysIOpbQnsJCt+mwjG71uURCZxCNEUWoV65dU1EflvJ112HXrvx89zMEkbPjYyqGcwSSIQQxAggzx/3FxbmxjOxAByEcsZAcWUHNXq8OyfLS0txYxhYn1AiBkhW0ePmS7rrWhgbdiYcrK3MjiABDieZQsoKgwjn3IcUrJCdzCDG8v7JfHZwTdPsaQQjW5WQOUWTHziHsgRZiKAgxNLHO5VAb8VYWZYodBiEE2SBDp6KsTHcYzxw9mCbkkm1G7l3pl/HAEa0R/2GJ+aq0hjoOaUXaK6S/9aBWqLlcK9hYpuWCKCPPb8Xk6WJUEqEarZmeaq2pbk9GKMVnrvNM8uRRCR474nSWjP7Kjw+n5d3qpLy9PyFv7o7r0X6212y9vD0sjxcGlaqnYp/zgrCIpjT49uK8fH1+To9fniXk85MzWgjmmWwxy7O9boTbKPpXKyOylAxqg0D9AVmebFEbbXARcn3mhJ6TLUitXY84TYdlZG6wXvMzN+mTUKdHG356NKMkoEBjBF+N+/U+38FO7rsiaGG0SS1IRNt0F0Hs/VpchVwI18l8tEGfsSGfCDfpdUvQcUHYAyUsG+yqVQE2U9ayVMSrFO1IYBRArWiPo/+GGP3FNI8GvUomNdapNF7fGZWVVCgjCDrxSLPaynXsIkfJ4XYnKaXpgH6sL/06oPFKvE1DDDFmj5072AQpayHfxVYrauNf38IySmd1Pqy5sDSsSK5DDSFYemO4MfMMZXMEVUcpZRcCEMQugtLG++szJ739sdaOA4cE5eVlN8Eatjz5yBaQXevfNLobsdaOg/V7jqw0IaayHZL//tWb0XNsGQ0sufifl+bm9P6+fgNltlzp2rfOCgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADlUlEQVR4XsWWbUtTYRjHvT+HbwRfBEIgvhMJ6pWEEkqSLFGc4gM6RVNzOpMt3XzWSWutljVLNJUepAfLCorogSKqbxH4AXp5xe8a9xxmRHLOvOHinJ1z5vXf7/+/r2Ne3qGWkT/ryJaRufFxGR0clP4unwz39cnIwMBRiTIyERyV8KURic/Pyd3rCa3u9nZpPO85ClFGiQSHhpQKQprq6iQRXZCWhgYVVFxQkCtRaTqIoRYiEbnQ2ann/t5eLU9NTa4yZSQ6OSkXe7qVEPmZuXxZM5SK5MuTRIHW+kK+EuM5l0UZGQsEMjQQBC0a//pRJFOhoOzu/tSjr7VVykpL3bYvnR1sghSN+UxzK8jW8aKijBhXBUFnJXlDrYIORysIOpZQSXGx23RYRrf6UiymM4jGiCLUG6mUivq4Vqi7DruOFRa6nyGIXJ2dUTGcI5AMIYgRQJg5njpxIjeWkR3oIIQjFpIjK6jN69UhWVlenhvL2OKEGiFQsoJWbyZ113U0N+tOPFddnRtBBBhKNIeSFQQVzrkPKV4hOZlDiOH9lf3q4Jyg29cIQrAuJ3OIIjt2DmEPtBBDQYihiXUuh9qIt7osU+wwCCHIBhk6VRUVusN4pv5MmpBLthl5eGtUZgdqtab6zkmkt0ZrvPusVshXJaMdZ7QCbZVa/pYKLRdEGdm5F5Hnq2GJBeq0FofOay0MejJCKT5znWfil+rF31XrdJaM/spPT6Pyfmte3j2ak7cPZvVoP9trtl5tTMj2yphS9VSddF4QFtGUBt9fXpNvO3E9fn0Rky/bV7QQzDPZYtYTw26E2yj615tTshb3a4OBptOyPt+uNtrgImR5sV/PyRakHi+HnKbDMrI01qT5WZrvlUCPRxt+fraoJKBAYwTfjvbpfb6Dndx3RdDKdKtaEAt36i6C2IfHURVyPdgoqXCzPmNDPhds1euWoOOCsAdKWDZ2sUEF2ExZy5Ihr1K0I4FRALWyEkf/DTH6i2ke9nuVTHKmR2m8uT8tm8lARhB0oqE2tZXr2EWO4hM+Jyml6YB+ZiT9OqDxZrRTQwwxZo+dO9gEKWsh38VWK2r/Xz/EMkpnKxXUXFgaViTXoYYQLL0z0ZJ5hrI5gqqjlLILAQhiF0Fp//29mZPe/lhrx4FDgvLysptgDVuefGQLyK69bxrdjVhrx8HePUdWmhBT2Q7Jf//qg+g5towGllz8z0vzYHp/X78BfAQAHkGet+QAAAAASUVORK5CYII=",
     "wiki_name": "Chef's delight",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chef's_delight",
     "equipment": null,

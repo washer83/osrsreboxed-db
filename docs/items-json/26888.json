@@ -1,7 +1,7 @@
 {
     "id": 26888,
     "name": "Portal talisman (water)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A talisman bound to the Water Altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPklEQVR4XtWXW0sCQRTHd5+CPkXvQkrQkw/2FPQSFQSZiF2srEyzMjEj7II9dYEeo8868R85O2fPXtxZ26gDP0RnZ87P2XPG1XH+Z7jKnszCVculkjUZSrnq9X6oLhuNxJBQYW4uCylXvT8+BJLG8StC2CXO1tqahxzLWAjhL1gIciFTMwbIZCjkOCaBEZqZfdavS8WiT+KHZOLa1j8Gic3VVS2EmlmYn9cknR8cD0Swtc0kVycHENneWPeKl4RAPpfTUouFvIbPl2snOBb8rc1r4u6io+EiJMOFSIrAXH6LeacmKPqxUPfkRCOFbs/bvsRRQlzM7JIRah/UfTs0Ueim1dJwoTAZLiSlOkeH3u2TQqe7O/ZCEMCE9ZUVDd7TzoXJcCHIYBfO9vc8KXRgaqFes6mGV5feJAhBEp9zKSkEuAwSkxCtBSGMWQs99Xrq4bqrxah+SApIEQ7JHNdqmsNqVdUrFbVXLmtSCUEEQlKKxKSEJEwE4L11UUMIiemeAy4lk4fBZXBu8bVSCVGXfYxGGn7bZPIoIEW/c6N+fzohQBMAryGZOArcNhLCGiSEwrcSCjsYP19evC6TieMgmamE6DyRQnHtHgbJyJ8Oa6HwB6yxVNShKME1+AJhQrR2AiGE//EAF5sJ48++3t5ipUgkan70+hFBFwUvNgtBingeDDRUezKhmR9cW45bRPB5BttPMkCOmxrMJNILTbELcfEH/wbxIyEJvyJkQ8ZCiGDbTmLKTpocsmWTINdIEt9AqPxl6HsRQQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPUlEQVR4XtWX3UoCQRTH3efoRugFepggDIKuvLGrwAvRIMhC7MvM1DTTPtAyL0roqt5t4j9yds6e/XBHW6kDP0RnZ87P2XPGNZX6n+EoexILR+3nctYkKOWoj9FQdev12JDQRjqdhJSjpi8jX9IoViKEXeIcFYsucixhIYS3YCHIhUzNGCCToFAqZRIYobX1iX7dy2Y9Er8kE9W23jFIHBYKWgg1s7O1pYk73z/uC39rm0mOTg4gcnxQcouXhEBmc1NL7W5nNHy+XDvGseBtbV4Tz92OhouQDBciKQJz+S3mnRqj6GdCvUZDI4WebtuexGFCXMzskhFq1y49OzRX6KHV0nChIBkuJKU6VzX39kmhm7NTeyEIYEIpn9fgPe1ckAwXggx2oXlx7kqhAxcW6jebanjXdSdBCJL4nEtJIcBlkJiEaC0IYcxa6LXfV6P7nhaj+iEpIEU4JHNdrWpqlYq6PDlR5+WyZiEhiEBISpGYlJAEiQC8ty5qCCEx3XPApWTyILgMzi2+1kJC1GWfb2MNv20yeRiQot+58WCwnBCgCYDXkEwcBm4bCWENEkLhWwkFHYxf7+9ul8nEUZDMUkJ0nkihqHYPgmTkT4e1UPAD1kwq7FCU4Bp8gSAhWjuGEML7eICLzYTZZ9/TaaQUiYTND18/JOgi/8VmIUgRk8dHDdWeTGjm+9eW4xbhf57B9pMMkOOmBhOJxYWW2IWo+IN/g/iREIeVCNmQsBDC37bzWLKT5ods2TjINeLEDzN73r2v64++AAAAAElFTkSuQmCC",
     "wiki_name": "Portal talisman (water)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_talisman_(water)",
     "equipment": null,

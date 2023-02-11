@@ -1,7 +1,7 @@
 {
     "id": 21348,
     "name": "Amethyst",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-06-22",
     "duplicate": true,
     "examine": "Maybe I can make something with this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xs3W/0uTQRwH8O33KPqlsBFZUlJBSlAhkQQVIgVzJSVLlBarKbFYRiFS5BdGWghmJRYOFrJklBFIiVHUX3b1vof3+XnOm+3ZnsKDN3t2d9u9nrt7botEtn6JKndc7f+8RNWzkStqcjihk3/YpSbux3WIWJy5oYrT/arwvM+Bsm+ibrgHIgogxsYsTPWquXzSNzDeo82OHxUIGVXTj7o3oPAKCEPQq4keNfPkqu6LVxcI/SX6e3lErZWGakMRhGvODkFvnl7XIPatBMLnvi0Nq5/Lo+rX8rgGYYzWxkYde3SreNPOuyYIg7pAs2PXDAjXLlBpNuUD4Zoge3SrRH3LgIG4ufHeBmFwILi8lUDl1+nwQJwl1BEk9wNnkiDMmg36OH/LgJBAIO4LG4Q7Bwh9Oo60meA9+kgkIkGf3t72g94/qB+EerS3xA7p3Dvfa4L6Aw3b1PGmnToXWht8sM8LA+GCOAPEZNq7DabYP67OHN2lEUym86AJPveleMeAfnx4bDCBQRKFO0U7MAQBg5w9tttgLrftVemOJpVLHNb9see+vss6QfboFYo31digNoh7aDKR1VkbmtfvAUKAQbLxZh1+1+pirlaQdwZhhlwgDoCU01MGhNm6ey5pQgz3FK4JkoeiPbpVvEfeBSJCbmRuZlkPDJaQ9c2x7apl/47wQAjqU6e7TAp9ozorgy82gOS+Yhsil6xmEIK65MlOEw5GEFGlVN6EfYhaennTgHBKE1MVCE9YJZAcCFnNzZkZkCDsLRslZ6jK2UFZB8llswdEiOH5NHYp4wMRhTb8bIQGcqGIkZvdBULQhlNagoiyR3cUD2QvG38wOTiCdrziKYqfivlQhOib+PO3Y6UwaEA4gwKcQ36QXDbU4cTFAPy1v3hij+pp3+c7ABkeonWD8JT9DYTBuIwMlg9nFvqhHX1DBdnLhnoJkv+BiCGIfQHCIy9BOIMCn0OuZZMgXG8G4gyhbygg17JJENrk3xIJQj+5f+oEofg3Z6VIjIwNwn9pCWICgCIRHuubxQbKyP0TCqjaYiOrwTLrff9TsZGu2J/Z0uU3pOFglNzq1HwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3W/0uTQRwH8O0/8bcgCPwtQgL7ISKMMArCIKjACIkoRApdYckSpcVa4kKjxKJpMkvM1HIwWa5vSLOkf+fa+x7e5+fOm/lsT+HBmz27u+1ez909t8Vie7/ElT++9n9e4urN5B2Vn0jozDzvU9NPe3WIWJ1/oIpzw6rwdsiDcm+iYXgAIgogxsWszA6qpddJa2C8R5sbGxUKGVdzL/q3ofAKCEPQ4vSAmn91V/fFqw+E/hK9WZ5UG6Xx+lAE4ZqzQ9CH/H0NYt9aIHzu19qE+v01V82UBmGM5qYmHXd0pwTTzrsmCIP6QAu5ewaEax+otJCyQLgmyB3dKXFrGTAQNzfeuyAMDgSXtxaovJiODsRZQh1Bcj9wJgnCrLmgL8sSlAsH4r5wQbhzgNCn+3SnCd6jj0QiEvTt4yML9PPTs8ZBqEd7R+tJnfHrgyaoP96yT51va9a5ca7Fgn1feRwtiDNATKar32CKw1PqypmDGsFkek6Y4HM/iqMGtPn5pcGEBkkU7hTtwBAEDHL17CGDud15RKW729RY4pTujz1XKWa9IHf0GiWYamxQF8Q9lE9kdTbGl/V7gBBgkGxvuw6/q7I6Vi8oOIMwQz4QB0DK6VkDwmw9uZY0IYZ7CtcGJA5Fd3SnBI+8D0SE3MjczLIeGCwh69tb96uOYweiAyGoT13uMykM5XTWR95tA8l9xTbEWrJ6QQjqkhd7TDgYQUSVUjMm7EPU2vuHAhTUhXrCaoHkQEhlbMnMgARhb7koOUO7nB2ULZBcNndAhBieT7lbGQtEFNrwsxEZyIciRm52HwhBG05pCSLKHd1TApC7bPzB5OAI2vGKp6j3UquFIkTfRPVvx3phxIBwBoU4h2yQXDbU4cTFAPy1v3nhsBroOmodgAwP0YZBeMr+BsJgXEYGy4czC/3Qjr6RgtxlQ70Eyf9AxBDEvgDhkbdA1TMo9DnkWzYJwvVOIM4Q+kYC8i2bBKFN/i2RIPST+6dBEIq9OWtFYmRcEP5LSxATAhSL8VjfKS5QRu6fSEC7LS5yN1hmq+9/Ki7SF/cze7r8ATS0UdCrvMhmAAAAAElFTkSuQmCC",
     "wiki_name": "Amethyst",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amethyst",
     "equipment": null,

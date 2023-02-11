@@ -1,7 +1,7 @@
 {
     "id": 1674,
     "name": "Gold amulet (u)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": true,
     "examine": "It needs a string so I can wear it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xs3VW2sTQRQH8IRSSkLYz9CP4Lt+AAXxgqJVq2JFxSuIopRgqTUUr5WSVlFpsCXUUmpK8YrXquCbKAo++VAU/BpH/rv8N2dPZmM2WaUDh93MzGZ+mTl7ksms/pYVd7jG/3nLyrXiNrkyuNWP0fNbpHR2sx9EVMcPyPTYfqlc3+dA2R/RMTwAEQUQw2KmrvbL7dHdkYXxGWM2oqhEyKyMXdjegMIVEAZBk6U+GR/e4c/F1QXCfI1+PV+UF7Nn2kMRhHvuDkF3L+/xQZwbB8JzL+cGZbl2Ud7VLvkgrLGmt9cPu7ppwbbzVxOERV2g8sjOEIR7F2i2PBAB4Z4gu7pp2cgxYCEmNz5bEBYHgscbB5q/dSg9EHcJfS4Qd5Ig7JoFPbxzOAQhEoGYFxaExS1IJ3Qz0OK9I1HQg3Odg9APEFHcSczh2xMHWpo6mi4IAYAGEYHYsL5L1q3t8u8tCHOfTp8IQW8WhkJMYpBG4csJwrzJck5KIz1SLAWxaWM86NnMKSfIrh7T6tvvAmHsyaO8VGdyIQaxt7/b3ymMW9Dz6ul2QUENwg65QBj//q0gHz8UZGkxHwEhdvU1ovAjNEgXRbu6acEr7wIhCPr9y5OvXwryfrkRdPJ4t3heJgRhd1IFEYXAAqi4mPdzxZPPnwry9lVeagt5uV/Jyc0bORke6onsTqogvUu4EsQ8Qqz88HwU8ol9Nn/mJg6GIFRpYloC4Q1xgfh3QBDg6CcCgWPFMxqEufjb0DvU4u6g1UE2j/gqE4TPukIzzzSIx4W/jdRARKEfCxCEcV00ca93UoNQpTWIKLu6owUg17G1C8L8x5VjIQg1KEEdioL0sWkQrui3x2VBgHcMQrL+DYTF0OcCMdd4XKmB7LGhX4NsQrNW4TnOBQivvAahBiWuQ65j0yC+8nEgnT+pgFzHpkEYcyU0AvN0/nQIQqsXumZh84dhQSiKGsRIAMpkWNabhQXq0PmTCqjVZpGtYBn1uf+pWaQr7DOruv0B1VPKI97LONIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xs3V3U4TQRQH8PYNuOKGm0160aRXPpW+gCaixqioqFGjUTFRo6QSSjUoSEpFaWyDgIDfIBovjB/xwhDiIxz57+a/PXs6W7vtapjkZLczs51fz5ydZjK7v2XFHa7xf96y8rB4VCZHj/hx/85hKd865AcRjZnzUp8+J7Wpsw6U/RE9wwMQUQAxLGb+wbA8vncqsjA+Y8xGFJUImZXpu8daULgCwiCoWh6SmfHj/lxcXSDM1+iNpaK8W7jZHYog3DM7BD2ZPO2DODcOhOfWF0dlc6W0ExM+CGvs8Tw/7OqmBWnnryYIi7pAldKJEIR7F2ihciECwj1BdnXTspFtwEIsbny2ICwOBLc3DrRUvZQeiFlCnwvETBKErFnQizkNKiUDsS4sCItbkC7odqDVp5cjoPfPb/cOQj9ARDGTmMO3Jw60Nn8lXRACAA0iAnFgf5/s29vn31sQ5r6pj4SgjeWxEJMYpFH4coIwr1rxpFwakGI5iMGD8aC39etOkF09pjXT7wJh7PXLnDTqXohBnBnu9zOF8RZQ40a3oOAMQoZcIIz//JGXz5/ysraai4AQJ4daUfgREZA6FO3qpgWvvAuEIOj3dkG+f8vLx81W0Mi1fikUMiEI2UkVRBQCC+DExbztrYJ8/ZKXD+s5WVnOybOaJ4+mPBkfG4hkJ1WQzhKuBLGOEFu/Cj4K9cQ+Wz+LsxcVaCLEdATCG+IC8e+AIMDRTwQC24pnNAhz8behM9RhdtCaIFtHfJUJwmd9QrPONIjbhb+N1EBEoR8LEIRxfWjiXmdSg3BKaxBRdnVHC0CubesWhPmvaldDEM6gBOdQFKS3TYNwRb/dLgsCvGcQivVvICyGPheItcbtSg1ktw39GmQLmmcVnuNcgPDKR0A7Z1Dic8i1bRrEVz4OpOsnFZBr2zQIY66CRmCerp8eQWjNg65d2PphWBAORQ1iJABlMjzW24UF6tD1kwqo02aRnWAZzbn/qVmkK+wzu7r9AXBoyNC7H7lTAAAAAElFTkSuQmCC",
     "wiki_name": "Gold amulet (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_amulet_(u)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1165,
     "name": "Black full helm",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-13",
     "duplicate": false,
     "examine": "A full face helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfUlEQVR4Xt3XsUrEQBAA0F2WJVyQHMcFwylyJ3KIV6iIYGNhY2FjIVhYWPoB/n8xOrPM7jJJrtHNiANDipDkMTszxxnzv8NCStUIiK1/gWN3D0uz04RZ2Pl3wqzdI4HmZgu1OQJvGg1UAJ37Vzhzz9C6qwjCe9ebDaV8qmBYuPBv8bgQI0HyicJhY3U6dxNBM9PqgbA6J+6BmhlTHYTVWbk7aMyaegiv3NAqIJwuhGDfcB8pgdIivK0+adpO3VPcQxNPWDgqBDAmP7oJqxMqwhhehpf+g8Z/4oa2MG8ayoO6ppxVVUwc/7x3CoMsLBcLyjEUjv9EC9HCYdtGEKMkCBOPrDAoYPLcB/LOlQT1Mauu64EkCjM0/69GwODL+ZhkhRg1hCnQ1KGJqS++P5zD9mFykHzjD6MPklc10BhsrIfUQWoVkrAhTEEQRtrOfwSEEX5MedxzmBIII4HGNrQ6SCIYwpjCIIzQT0MgCZkAw5H/d0+pAEmRf1wVMlV8Ab/DrrbuQg4NAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABg0lEQVR4Xt3XsUrEQBAA0N0/2GqbNIEUB4GDcBAkHIIWh4VXKFeIhRY219hYWFwhWFhYWvuzozPL7C6b5BrdHXFgSBGSPGZn5jil/ndoCCkaDrG1L3Bm9rBSO0mYhp19J8zGPBFoqbbQqFOwqpVAOdCVfYVLc4De3HoQ3uvqmjJ9KmNouLZv/rgQk4LSJzKH9tUZzJ0H1aqXA2F1zs0jNTOmOAirszYP0KoN9RBeuaFFQDhdCMG+4T4SAoVFeF990rRdmGe/hwpPmDsqBDAmPrqC1XEVYQwvwxv7QeNfuKE1LNuWctE0lHVV+cTxj3snM0jDquso51A4/oUWooaTvvcgRqUgTDyyzCCHifMYyBqTEzTGrIdhBEpRmK75fzUcBl/Ox5RWiFFTmAxN7ZqY+uL7wzHsGCYGpW/8YYxB6VUMNAeb6yFxkFiFUtgUJiMII2znPwLCcD+mPO4xTAiEEUBzG1oclCIYwpjMIAzXT1OgFFIAwxH/dw8pAAkRf1wUUiq+ABrG+/Gv4eBIAAAAAElFTkSuQmCC",
     "wiki_name": "Black full helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_full_helm",
     "equipment": {

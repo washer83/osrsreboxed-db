@@ -1,7 +1,7 @@
 {
     "id": 17787,
     "name": "Raw chicken",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": true,
     "examine": "This raw chicken is rancid.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQklEQVR4Xu2WXWsTQRSGO/dikRaLLdb6CxQvAgULLVVCSompMcZ+UK1YKBRRlF4UeiH0h488M7zp2cmsbtZtEJoDLzvZM8z7zJkzSebmZjGL/yKcj8pF2ftbC+c7ex0//DTMQDnf+9DLvL/VcH5wPPDdQde3XraMeYThPePna2vTgHK+f9T3ewdv/fbO9sg4mt+ATgEo9szOu0V/dLYcnutb88Y45g+/HE4DyPnNzoLvHSz5/dNl3x0+HIMh39qY9+037QC08fqBOcrGIu663VsMIO9PHgUYmQmGd8CS7x8vhfnKN1glF6qgqmDGmEoUzVyAIM+8FChdtUbEqrzaXSiYWBgrO4/eahjIhT6gYVUVwWBMxRBzXqzfD6Zq8o/nKyOgho7Lhd5gQXtE9Ac7pjrkAWLMEyjywHz+VgS6Ua2I/cKCtiqYUQGeVgJEzD398ThIQKris9a9ulCx9PaYMAWKsZVuGnnE57OL1QIQa3HEVBSwGlDxpgDErllQtwuTVDpO9c/XqycBiKMjZ/MCmxAqVoidqwoY0Rc5YazbB8j55WqQ+ggpz5oTNnmE0RebboyMOA4r9YvMecc8qsTYQquaAkqdM1EOIyOrFAxjzQVIcyw0qgg0DmMNtGspBydTVcP+vNirX/G43F9hvv96GmTBLGAKJbC0byrAKNzoSy0H8/M6AuXA0mO0YBNUJY34S/0noEmhUMWeKQs3BpMClUFZoBo9UxbVgHJQOYh/hFEU/1JUVcMQxUgXr6p0nVncifgN8rg87PYjYP8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRElEQVR4Xu2W0UobQRSGnTfxrlAQRBCRIrRI6TP0wotcSL1opSVETGNDjFVRWyqCpUUKhULpW458M/zx7GRWN+sahObAz072DPN/c+ZMkrm5WcziUYTzUbkoe/9g4Xxnr+OHZ8MMlPO9g17m/YOG84OTge8Our71pmXMIwzvGS/Oz08Dyvn+cd/vHX7y2zvbI+NofgM6BaDYMzuDZX98sRaem+8WjHHMH307mgaQ8287S753uOo/n6/57nBlDIZ8a2vBtz+2A9DWh0VzlI1F3HW7txxA9r88CzAyEwzvgCXfP1kN85VvsEouVEFVwYwxlSiauQBBnnkpULpqjYhVeb+7VDCxMFZ2Hr3VMJALfUDDqiqCwZiKIeZsbD4Npmry08vnI6CGjsuF3mBBe0T0BzumOuQBYswTKPLAfP1RBLpRrYj9woK2KphRAZ5WAkTMPb96ESQgVfF160ldqFh6e0yYAsXYSjeNPOLzxa/1AhBrccRUFLAaUPGmAMSuWVC3C5NUOk71z/c/LwMQR0fO5gU2IVSsEDtXFTCiL3LCWLcPkMvf60HqI6Q8a07Y5BFGX2y6MTLiOKzULzLnHfOoEmMLrWoKKHXORDmMjKxSMIw1FyDNsdCoItA4jDXQrqUcnExVDfvzYq9+xeNyd8L8/PsqyIJZwBRKYGnfVIBRuNGXWg7m6l8EyoGlx2jBJqhKGvGX+jagSaFQxZ4pCzcGkwKVQVmgGj1TFtWAclA5iHvCKIp/KaqqYYhipItXVbrOLP6LuAaxUeNlW8B5BAAAAABJRU5ErkJggg==",
     "wiki_name": "Raw chicken (undead)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_chicken_(undead)",
     "equipment": null,

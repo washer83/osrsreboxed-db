@@ -1,7 +1,7 @@
 {
     "id": 6899,
     "name": "Cube",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-04",
     "duplicate": false,
     "examine": "A yellow cube.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0klEQVR4Xu2X3UoCQRiGd45CCSISxTrxErqSIIIggiCMfhAEi36sDCNJikiSgn4oIooCweOgg24g6JK+eHcY15nG1Z2ZOtoPHnRw+eaZd2YUPS+uuP6kGLnBSTGql4Y61Ioy1YLM/mrAzpI8diTFaH1ulG6qCYmrikxzN6CxLY+7cSDFaHN+jKr5FLWbSWo1ZF7PEh2eT4L3YVhuIReqLafovJimz8ekz8d9wPutPB4UQylG5QUudFHK0F05S9/tYZ+vFn/VgefA9VbG53KDgx4Ai0PvyVwuqhQXqq+l/UYPe1l6Oxrv8HLIeTrg4HPQSwhA5rRgIVRZ5EJohslaxxORhYSUSAf9rISwIjTEpFGEuqWEDHrhCBgL4YahCZoOKqSmJNJBH6RjLYSV2Qip6aCnsZC48mjeT0jdtl7p4BhYCYkr30tIlxKeVw+ySAc311hIXHmdkC4lNR2xVegDGaTjXEiXkioUlg6+/Y2FsDohhInDhLrT0R1kpAMZ/GD/m1DYQRbpFGcthTBBP6Eo6fy5UNR0CjPGQigWKhTlICMdyKxMj9gIoZhWSKQzyDUXWwWh/JS1EIr9EjJNx5EQSv0nYQ5kHAh5nmjkArV3XHG5rh/FVEHbXSys/AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xu2XXUsCQRSGd35HN4IXXQUSiIgE/a0ggiCCIOwLEZTKMizDokwKi+iDQrwLotvon5x4dziuM62rOzN2tQcedHA588w7M4qel1RSUylBbnBSglqVmQHNskqjpFLfDahtqWNHUoKqaxnqNlIKd3WVzlFA+1AdD+NAStD++jw1ilnqd9LUa6u8XaUGvFwE76Ow3EIp1NzO0nU5R19PaZ/Px4CPe3U8KYZSgmobUuimkqeHWoF++rM+3z35GgaeA92DvM9tVYIeAItD70wKicUqKdTay/mNHo8L9H62MOD1VPJ8IsHnYJQQgMxlyUKovimF0AyT9c4XYwuxFKeDflZCWBEaYtI4QsNSLINeOALGQrhhaIKmkwrpKXE66IN0rIWwMhshPR30NBbiK4/m44T0bRuVDo6BlRBf+VFCYSnhef0gczq4ucZCfOXDhMJS0tPhrUIfyCAd50JhKelCUeng299YCKtjIUwcJTScTthBRjqQwQ/2vwlFHWROp7xqKYQJxgnFSWfqQnHTKa0YC6FEpFCcg4x0ILOzPGcjhBKhQpzOJNectwpCxSVrIZT4I2SajiMhlP5PwhzIOBDyPG7kAr13Ukm5rl+OPfaZB5yBtwAAAABJRU5ErkJggg==",
     "wiki_name": "Cube",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cube",
     "equipment": null,

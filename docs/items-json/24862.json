@@ -1,7 +1,7 @@
 {
     "id": 24862,
     "name": "Karamjan monkey",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-07-09",
     "duplicate": false,
     "examine": "A monkey retrieved from the wreckage of Glough's airship laboratory.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKUlEQVR4Xu2U3UsCURDFuw8RRRiiKCpqKSlqZAhFEYUPFUVQVBSCRB8QFEEQ9NBrf/nEudvZvfuRurblPjRwWNR15nfPzJ2pqbFCifebCYaSu/lpiRGUA7S2uBgHqJgCxaRtDkxMXIo5UAzaFgw0IZf8MLEEmmDbBgO5XQKgVz+KoCTfA7ldUtJdz8pWOy3t2oLUywkp5eYC8o0cSvY3czqhP4mShUTCViqZlEw6Lbls1nBJyfFu3gXVqiY0mD/f0FByvle0E26spFwnR2EAUCZQMZ//etedY6eT0WDI1Wkmw0ApuT+rSO+orBMebud0QhZhYYinRxFT5UJBKqWS9I+XbCjkgeMQXRzhVip56dfl8WpZbk4sqNNuQSdDIZwehfAZRfAbCkKzMzO2UBQtwsEAhTyXByVbTluHhpK326aGerioaigkQOFmraa10mhIu9VyAeA987PZUuTxKhTQx9OqvN+3bCicEFCEgV6vG9pF0wGzNXCSUGy1qRHbxfAngEyg517NhqGDgOGMQJwzQhEiJIwV7j/6YUznOGOAwJDzRkG8AI5TkYQDhCdni22iOyYUrzhkroeIoJQNw7khEBz6Dopg3oUZul3+sBwiEBwClPdKB4GZs0Qgb/YxwnEI8wMBzIQbBMbNHZE7DAsKq8AU4ThXQWBQhO4wLCDsHwoLFM9BYFwZEbvDsLY4heVJEY5QXpBfgGH4F2aQ/gDECbPYIHn/9x9Rxyfzs4rezRnQigAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACL0lEQVR4Xu2UT0sCURTFfV+ijRuhRSAIEkiICIpIiDEoSuFCKKKIcFFRRFFRBBGVEEUE0aJdH/PGedOZefMnc2zKWXThMKjjvb937n03lZoolPi/mWIouZubkQRBuUD5TCYJUAkFSkjbXJiEuJRwoAS0LRxoSi4FYRIJNMW2jQbyugRAv34UYUm+BvK6pGSwWpSNXkF6Vk5a9azUSrMh+cYOJbvrJZ0wmERJLpt1NJ/Py0KhIKVi0XBJyeF22QPVbWY1WDDft6HkdKfqJFxbnvecHIUBQJlA1XL5811vjq3+ggZDrn4nHwVKyfCkIZcHdZ1wf7OkE7IIC0M8PYqYqlcq0qjV5Opw0YFCHjgO0cUxbqWS56uWPFwsyc2RDXU8qOhkKITToxA+owh+Q0Eok047QlG0CAcDFPKc79UcuW39NpS83nY01P1ZU0MhAQp3LEtrud2WXrfrAcB75mezpcjjVySg98cVeRt2HSicEFCEgV6u29pF0wGzNXCSUGy1qTHbxQgmgEygp0vLgaGDgOGMQJwzQhEiIowd3j8GYUznOGOAwJDzRkG8AK5TsYQLhCdni22iOyYUrzhkroeYoJQDw7khEBz6Copg/oUZuV3BsB0iEBwClP9Kh4GZs0Qgf/YJwnUI8wMBzIQbBcbNHZM7DBsKq8AU4ThXYWBQjO4wbCDsHwoLFM9RYFwZMbvDsLc4heVJEY5QfpBfgGEEF2aY/gDEDbPYKPn/9x9xxwcptRQWg1cLtQAAAABJRU5ErkJggg==",
     "wiki_name": "Karamjan monkey (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Karamjan_monkey_(item)",
     "equipment": {

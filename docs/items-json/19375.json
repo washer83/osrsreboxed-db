@@ -1,7 +1,7 @@
 {
     "id": 19375,
     "name": "Super restore(2)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-27",
     "duplicate": true,
     "examine": "2 doses of super restore potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xt2X2U8TURjFuT4YQzBSQQgtZStdKFC62EUWAaGVpYAtSMsuIk2x0rKXog/EqCEuCZGQuARNVOQNiPH/O8694wztgCYmwzTxS07Sh6b3N+ec+6WTk/N/DEGmsjoEsyM63O0tg7e5BPY6VbahCL7vNOPrdhPT4oMajAUqswlFRJi9Vx7Ep40I95czIGtFhdJQfGcEoI9bbsQmDSy+LPSJoK9/EIFASHRn95kT0XE9gl1auFxNaGxqVxKKYHR06pT8fYPw+vrQ2uaD1epUMjrudkWiTJHInKie3gA6OnvgdDZCb6hRFmhhcVlUPL6AWCyOru4B3Ghsg7m2ARoN3yWFgOgQ7O8f4Pj4B46OjnF4eMzistlcYqkpjKJA92ciSCbXsbHxmInG5XB4sgFDh2B+PoFUKvVbG2J/FI5KGILkeipDNDK3uwVGo1nJK0+HIBqNYW0tmSFaarp/6uptSrvE37KVlVVR4ZEJtizpDhKKrRAQYTtneXklTatsMQYHQ6xHdFPXW+xKxUYw9/CRuIOWlniNT9zD8PCoGJvd7lbCJYKpqRl2uxKJRdwpNMOr0sGVp4E5twih8LgYGy23pcFx3i4RvNZ140WVD0/K27FadhMJTROmS64jVGSBv8DIAFuulDNIS27xebpE8JKD2TeH8KlmCO+NAezo+0XAzcoOpMpasaRtRkzjwazaicliGwM9B5cInlZ68Vbfh88czE/LJA7rxnBQGxYBdw0Dp+AmOKD+Qn4nyewS784HUwBfuMPP0jsOaLvaj62q29is6MRCaSMDCnJA/qtGOV0ieM499S4XjxQiXRSWOpgONF3swNC1enSrDMi9cFEuKMKenEb1zTzMRAGEz4IEIOqkADTDlT3MdYjGdiu/Sq7oCDtMCiDVninIXBSAlkqbEVG7MFZkZbH5VNXwXNbK59IBV96/iTqYDrSqbcGc2s165C8wwZanFh2SxSWhK+mu/AmI3kih1LQ/pkuFcsIIw/8LpAdL4QQgetPe6HpEmNZ84aVRdhh++B8U3rkyXROuPoWhRZaCyA6TPicHnMBJpQjIWZN+sFTS7/7r/AK9xsIXNaZq4wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xt2X60+SYRjGff6BvvatuWzzg8uBznlMUY4KAorhATEUOYgioCBHy2np3Nyyg6vVajZXy5paKdphfujwpQ/9TVc8Dz2v8GptNXjZurdr4wPj/nHd133zUlb2fxRBvkpaBOs39ViIKhHyNMNulZUaiuBr2oPP79xMj273YDmlLSUUEWCO95x4sGbGUlzNgGTl5VJDZTPDgT7tjGFj1cjGV4I8EdjtY3A4xgV3jrYduLtiwHy4HXq9CUaTRUooAo/Hd0rD9lH0D9jRaxmAWtMl5egIpgNBpkAgJMhmc8BqtaGry4jmljZpgebmooLCkTnMzoYxODSCbqMFCoUKMnmtlEC0CHZ23yCdPsLBwSH2D9JsXBqtXgg1hZEUaMofQCKRRCqVYqLj0um6SwFDiyAcjiCZTDFxIJofiUfFiyCRTOaJjkxvMKOlRSHlytMiCAZnEI8n8kRDTe9PR4dGapeyWxaLxQW53BPsWNIbxIMtERBhNycajQmiQPQwOkZdLEf0UiuVkv3IEoRCs8IN4lBe7ySc4x5hbFqdQQqXCHw+P9uuSOYYJussCMn0GK1UwFJRD5fLK4yNhlul0hXbJYI3+ghedc5gS+3HE6UPDxVurDWPYLG+H7EaMwP0XlYzyP6KxmK6RPBcE8QXyyKOexbwwZxC2hAXAF9op7GpnMTjdg82FE6sX3FgtdHGQIvgEsGmyofXmcbp7jh+9K/iu3UZ3/qWBMAjY+IU3GKDFWF5UQ5l1p23higOuxNnai8Ds60LYUvjx9OOCdxpdTCgqNyEuRpTIV0ieKaZwm5n+BRErigsdTAX6FbDIBK1vQhW63Hx3PlCQRH2zemo3htTTBSAv+biQNRJDrTSMITrdX1sbBNVBbvehDUTA4i1n3kPdZED3Wsdw2rTMG7UXWVjm6zW4Vpl9qFN3OEfiuCjaf6Pog7mAt1vc2Ktyc5yFJIZMHCpSXCoIC7xrOS68jsgupE81DQ/hgvyQsLwyj4F0sZiOA5EN+1lBojDuKtUv0ZUcJhsZT+Q/+fKd42vPoWhQRaDFBwmt04anMCJJQnIWZXbWCzxe/+2fgJswB2ouWnguQAAAABJRU5ErkJggg==",
     "wiki_name": "Super restore (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_restore#2_dose",
     "equipment": null,

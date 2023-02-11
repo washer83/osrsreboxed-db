@@ -1,7 +1,7 @@
 {
     "id": 5116,
     "name": "Willow seed",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-06",
     "duplicate": true,
     "examine": "Plant this in a plantpot of soil to grow a sapling.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnklEQVR4Xu2VvUsDQRTEbzmWK0UQxC5gZ5VCSKFgRBTSBBRFgiR4oIiIQsAihYWFnX/0k9llLi+rR9TssSluYLiP3O398vbNbpa1atWq1VrKyO/cuPyHev1cDk5zORrkcjLMZf9wbtzHvc2trEkoD3I+tjIZb7vjZWndcTiyDoDXgyu7ANgAlJG710IeZnPjupwWMnm2cvNoq+P1vYcCIKoHd3uEigrmB5x9FjL9KOTprR4QlULVaFTs7MI7KlS306n+KaBe3r0JByhdKYDpacV7GMOPE1Ea7K+ODqO1DAxJhHf3MtdHOA+fCcdcUabqDzQxjHN9D02Nc04ZfNzfqJaHiFAeJrRuZoCgf/AswACAKun1Cr9FmEbjmrW83XEf/MkAIgwTBqgQKELyjEuRNhJFM1WEgVktDcSpZIX+WSXj1hrEm9aLo447YUIgbiuY3hVhqDAl9QYYm1yv3BEqsygOVGd8DJXiKq1TFx1muYybQu5pGigBDOT7TG8ZrFQCGMinkBXSiUsCw9TpzTURDPU9bQlhvMLUJYVptQ76AhMv1QTrrjZhAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoklEQVR4Xu2VvUoDQRSFd95gq2m2yQsIaSzER7C0s7BIoYVRUEgRUAgiIcEFFVEhWAQEwcpHvHJmOJub0SVqZpkUe+CwP9md/XLnnpksa9WqVauNlJHfuXH5D/X6uRyd53IyyOVsmMvh8cK4j3vd7axJKA9yObEyney446i07ji8sQ6A14ORXQJsAMrI3WshD/OFcV3OCpk+Wxk/2up4fe+hAIjqwQc9QkUF8wPOPwuZfRTy9FYPiEqhajQqdnHlHRWq2+lU/xRQL+/ehAOUrhTA9LTiPYzhx4koDfZXR4fRWgWGJMJ7+5nrI5yHz4RjrilT9QeaGMa5voemxjmnDD7tb1XLQ0QoDxNaNzNA0D94FmAAQJX0eoXfIkyjcc1a3u66D/5kABGGCQNUCBQhecalSBuJopkqwsCslgbiVLJC/6yScWsN4k3rxVHHnTAhELcVTO+aMFSYknoDjE2uV+4IlVkWB6ozPoZKcZXWqYsOs1rGTSH3NA2UAAbyfaa3DFYqAQzkU8gK6cQlgWHq9OaaCIb6nraEMF5h6pLCtNoEfQFEPyErFP8/NwAAAABJRU5ErkJggg==",
     "wiki_name": "Willow seed",
     "wiki_url": "https://oldschool.runescape.wiki/w/Willow_seed",
     "equipment": null,

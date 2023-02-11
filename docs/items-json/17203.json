@@ -1,7 +1,7 @@
 {
     "id": 17203,
     "name": "Magic essence(4)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-11",
     "duplicate": true,
     "examine": "4 doses of magic essence potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xt2X30tTYRjHfSO2MdZFEN0MZJRKOmwOdf6azuF0/po2VBSlrKHD6ZxLyzn7YRQGhlE3QXQRRIh0kQ4huoigi7qIIAiCcP4x387znp2z7Ww3wdk76IHvzdnY+9n3+T7Pu1VU/B/FkK+yFoPfWwe36yIcdisuVJ4rNxTD7aVerEZ8XFcGHPC6a8oJxVSYlXAPhv2X0dVWzYEabDbRUHJmFKDluW4M+uy8fWXIE0NgZAzB4KTqzmLIo+bJ5epAe4dXJBTD9PRsgYYDY+jtC8DT3YeGhmaRrWOYDy9whcMRVYNDQfT4BtHc3I7qmlqxQPGba6pisTiWlmLoHxhFW3s36uwOWK2VIoGoGPb29pFKHeHwMIWDgxRvl9PpUkNNMEKBboTmkUhsYHPzDhe1q7GxtRwwVAzRaAzJZDKjTTU/glulFMPJ8yB3KLGR5KKWtbR04lJtvciRp2I4Tlbh5OlInvYnTNjuNWK+ySDSJYbvCxakd4fyYL6FLXg/ZcazASOirQbMOE6Lckly5349B8oVQR7NmPEiYMJahwEhpxCXGH5EJHd2fEg/8ecB0fNP1814NWrCPY8wlyR37tbKMBr9XLTgS8iMN2MmPPQZRbjE8CsqubPtzjqUI3rt65wF7yZN2OkzItllQMRlwFR9yVyS3EnYZJgi+r1s4cE+nJaDveU1Ii61bdYpA+nsUsadB01IP/bI0gD9WbHwYH+4asbLQMldkty5dT4LU0TH8TM82J+lHL0OmkrpkjxZfNQpP7nKBVo9qwb77biJjz8tyfVOA1+UE3bdXGL82xfAaEQOKsGmBUku7fYbC1aADi7J10T6UWtxKUDrVjXYtCCLuTSup0sFIBrRBCrB/njNzMefliS5RDnyV2Ud0sclKUM8R1vOrGjqMiIXlWBTjuiiJRhql7vylJ4wSsm/AvnB0rbOAyQgepYJNrWLxl6ZrhLAyCV/oPKfS75GFCgOKAWbYOjq0ILoDpNb2QOycFoJASlWuQdrpX3vv9ZfEj0R0VdCPaAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xt2X30tTYRjHO/9AN12cm3GQw6C7MMKrxMzKltNZTubPmS5zaduczU3blkiWFZlZmmViaBjaRVY0LSIKoiCKiCKicP/Lt/O8Z+ec7Ww3wdk76IHvzdnY+9n3+T7Pu+3Y8X+UgFyVtAREgm74e5xoa67GsUMVpYYSsHRnCIuzYaZEtA1Bv6uUUIIOc28mhNFICwZO1zOg8rIy3lBqZjSg+ZsBxMLNrH0lyJMAr9eH7u5e3Z25G2f1PDmdjXA1unlCCfD7B/LU6e1BS6sXTe5WHKmt49k6AaHBMNPg4JCujo5ueDwdqKtzYX/lAb5AsdiIruFoDJHIMNrau9DgcqO6+jDK9+7jCUQl4MnGM2xuvkQqtYUXqU3WrtqjRqgJhitQIBBCPJ5AMplkonY5HA2lgKFStnQkikQiyaQBUX44t0orAenHI8yheEIVtcxZfxxVVTU8R55KwPaCA+n14Ry9TkhYGbDharvI0yUB36/bkV4L58B8u2bH2zEZ62EbprtEjDfv4uWS4s5ikwqUJYJ8Py5j45yEWZ+IyVYuLgn4MaW4s9qP9KNgDhA9/3RJxvOohMU+bi4p7txvUGFM+qkAfZmUsTUqYbnfxsMlAb+mFXdWfIZDWaLXvl6x480FCasBGxZ6RUx1ihhrKppLijt3a1SYAvqtAFGw32WCvXTGhlsnRUx4VCCLXcq486Ad6Yd9qkxAf2bsLNgfLsp4Gim6S4o7cxUGTAFt397Ngv35sozUiFRMl9TJYqNO+clWNtDsHj3Yr85LbPxpSc6fEtmiHHNb5pLAvn0ejEnkoBZsWpDk0lrIlrcCLHApc00sdxWWBjRfqQebFmQhl+InLHQpD8QkmkAt2B8nZDb+tCTJJcpR0GE4ZI1LSoZYjpY8hmjqMiIXtWBTjuiiJRhql+/gTithtFJ/BbKDlW2dA0hA9CwTbGoXjb02XUWAUUv9QO0/l3qNaFAMUAk2wdDVYQaxHCa7jAMMOLO4gBSq7IPNMr/3X+sv9CNkmmrtTrwAAAAASUVORK5CYII=",
     "wiki_name": "Magic essence (4 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_essence#4_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 24913,
     "name": "Mahogany dresser",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu2WYUsCQRCGbz8GIUSSmFSaqKSSFiEJFYJUCH0IgiCCIAj6yUH0X6beWV9u7zzP7s7UwIGXXZfbmWdnd2f1vLWtbSlmxGolzMjo7FA6lZ0x1FLBjDxeNOT+vCZ3vaqC3ZxUlgVl5HnQkqerpkKhfRm25X3UVaBuubxoKKPBPz6/JrQGsvbvgXgD/+zAJwEy0trPqxql7SxgcZPigVwB5LRakF69KP2jXW1rxa2kUEbyuY0J566mAUHIBMTMoHAC5LJZkkF7XzXsHDj+Ys2oA6wKwmr28puqSiGnwhjEwOHg7nxmh0AAQRHFgh76dR2bAWUCq4EDCI4ZbFpAbgsFHxQzA6Gih4EmL0LAbCoBgmcBk/k0wAnECo2KjSr9en0sb7cd/bZVzGmr/Z+ssU/Q8PYDZgaQ59kP7OOJ9woCIIIiOIKGxXfNBUIG2Ge2XYhfwQTNKACCISsEYhAA4FyhT3CCUVgUQNwblhDCNQvE9MZlCMAQtxVgaDmX/wZSZMW1IBBfdpwdBsc4WmQDQXFw+f00oHCUBGYUgE4Bwj7F8xY1hu1ihUY/I5DRax0FFHUoo8ZcSGTQ/53Y7IooOsKWJV2lmy20KAUpoOxf1GCa7VhSIGsWiEUynY9xVvwt8A9pCmce52cA8s+F/ZVuy4IWXmRqs9uFOoRCaB2nsznA0ILXek5OsxlBVgJm0fYN0i2T/XTaU1wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFklEQVR4Xu2WYUtCMRSG7/6J3wI/SSAhEhgSEooYimFRICFFiFAhBEEQRBAE0Z+s/sXqPfPlbtfrtbtrauCBl81xd86zs+3MINjYxlZiShuthSk9PjvQvdrOBGqlYEo/XrT0/XlD3/XrAnZzUlsVlNLPw45+umoLFNqXUVe/j48FqJDLLRtKSfCPz68pbYCM/Xsg3sA/O/BpgJTuVIuiVmU7C1jSpGQgWwA5rZd0v1nWg8NdaRvlQloopYt5rNJ1bmsWEIRMQMwMCidALtsVPexWRaPevuUv0ZQ4wKogrGavuCWqlfIijEEMHA1uz2d2CAQQFFEs6GHQlLE5UMpZDRxAcMxgswJyWyj4oJgZCBU9CjR9ERwzqQQIngVM5tMAJxArNCo2qvTr9ZF+u+3Jt51yXlrp/2SNfYJGtx8wc4CCwHxgHk+8VxAAERTBETQqvms2EDLAPrNtQ/wKxjUlAAiGrBCIQQCAc4U+wQlGYVEAsW9YSgjbDBDTm5QhAEPcVoCh5Vz+G/DIim0uEF92nB0GxzhaZANBcXD5/SygaJQUpgSATgHCPsXzFjeG7WKFRj8jkJJrHQcUdyjjxmxIZDD8ndrMiig6wpalXaWdLbQoBR5Q5i+qm2YzlhbImAFikfTzMclKuAXhIfVwFnB+BqDwXJhfflvmWnSR3ma2C3UIhdA49rMFwNDca70gp9mMIGsBs2z7Bv5t/lN1xS5VAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

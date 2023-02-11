@@ -1,7 +1,7 @@
 {
     "id": 1424,
     "name": "Steel mace",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A spiky mace.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABY0lEQVR4XuXUzUsCQRgGcPdYRBEtBi2YH7SxrbjrYhtiYVAk5CGhg4mIFmZEB+sodq4/+6nZadzZ6RrvDPTAc5vFH++8Yy73f2IhrdZwxG23i5f7CT4WC2qUPIkUIipAYbFIgeIAuTJGO6jZaOD9dW4GiGEESEZpATFI1fOSzh+nmZKDZIwKur68wOdymZTopVkZjAxiGFEBIpiShbxtmwXadxwclEo4ct0VSMaIkoEOK5UEEtVqOKnXcRrHuOl0MOn38fY0W5UMFPg+jsMA561W8uKmw+HPAmfLMCSgq3Ybd70ensdjPAwGmR9Xq379x7FQLmwgqm5jNhpRT0KNhb3dNQTeVgJSp6KeJsj3Mpc3EYc7OqciYqHgrP+ajHqKKBzju9npqKcIY9hVsVfFFtkYDLuqZmSbcVUMY8wis70x5qoExphXpWI0gtK9OYvzuqfD/wAN2h0WjjIEI2IUhoca8wXcJYHlBRLKdQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4XuXUQUsCQRgGYOefLHQIgkCCRToECxIixtLSoqyitIEWGBEJCQkdTES0cCME6yR2i/7jW7PTuLPTNb4d6IX3NosP33xjLvd/wpA00wjEfb+PxeMMH6sVNUqdRAKRlaC8ZVGgBECtiskc1G618P66NAPEMRKkojIBcUjV8+Iuo3mq5CAVo4Nur6/wuV7HJXppLIVRQRwjK0EEU2Io2LZZoEPHwVGphBPX3YBUjCwZ6LhSiSHNWg1njQbOwxB3vR5mwyHenqNNyUCB7+O0HuCy04lf3Hw8/lngdDmGBHTT7eJhMMDLdIqn0Sj143r1r/84DOXiNprVPKLJhHoSehgO9i0E3m4M0qeinybI9zKXdxDW97KcigxD0dn6NRn9FFEExnfT09FPEcawq+Kvii+yMRh+Ve2mbcZVcYwxi8z3xpirkhhjXpWOyRCU7M1FWMh6OuIP0KDd4REoQzAyRmFEqDFfJsTD69xRAy0AAAAASUVORK5CYII=",
     "wiki_name": "Steel mace",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_mace",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 21983,
     "name": "Super antifire potion(3)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "3 doses of super anti-firebreath potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xt2X709SURjHPc1/wBe9KM2wxAJbQoogCKj8ECQw1FJRcooRRiIMEbHW2qrNVms159ZyvWq5Xvmjf/Cbz7md671XfdF2uWw923e7u+Pe89nz/T7nXJqa/o9iUKuhxfBk9iYextoRGryCe3daGg3FsL8ziB+fPVylZQvmkh2NhGIyzPcPLhQWb2EmcZ0D2Uwmo6GkzAigvW0n8o+7uH0NyBNDPDGJZHJa7s7uWwdy82ZMRK6hv98Dt2fYSCiGVGrhjO7HJxEKx+EfCsNmcxhp3cl0ZXNc2eyKrLFYEoHgGBwON8xdFmOBiqWyrEKhiHy+gEh0HAPuIVi7e9DaKmXJICAqhp/7v3B8/BuHh0c4ODjidtnt/XKoCcZQoEzmKarVTWxtveAiu/r6BhoBQ8WwurqGWq32V1sIhmJwOr1GWyWKobpZU2k0kpAzZODIUzEsZbIolytYX6+gUtng1tHeNBKIqmzTPlmnYsjl8lhbK8mTlk4vYmY2zaG8voDxQJXwV1nF4Bc8G3qPZe8bLHpeIWHLwmceN8o2hufDH88A0b2s7x0HemBfgb9rwogunWRn8LUKhlQK7aiAJux5DN+egutGrN5dYiiMfDoXiO7n/NscaKq3gLA1BV99u8T4glqYjcg3lMO7MhB1kIBGrfPcNocpXI8uMSy4X/KsCAilCEgEm4Ae9RUR7V5Q2aZzl6TuaEGERLAF0IyjjHhPBkHLNDydcThNo3p2ifFc0IJaECUQ5UiMfspZ4aNPttH4k23Nl5r1grq4O9XoHhddi0kjoDlXlY++0raeNt3OOHamOwLkIqC0q8aDHbu7JNvW2z4C61WXfl3SQmhFwRZ7EQ0ABVvY5uyIoPOydODq9FmiPirO65QYfeXmSHsR5aetxawnjCjpK5CsocWVcARE12IvIhiySuSmDjBSSS8U/7mYDCYmjbKmPMeUILrDKOt0gVM4rQwBOa+UC2ul/e2/1h/5HueyscTxuwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC20lEQVR4Xt2Xb09SYRjGfb5Ab/wCfoJm81020/IfoCCJCOJRAgOPiBzlAAJHZ5E6l2VhxnKt1Vrrz0rLJF+0XrQ+2FX3w57j4agv2g6HrXu7NsaA57fruu4HaGn5P4ahXk0dhsf3XVjL3cRivBOSv73ZUAy/q3H8Oopx7e94saENNBOK6TA/D6OobI+glO/jQO1tbXZD1TojgH58jmBvy83ja0KfGCQpgnB4Rnfn5EMY5c0hrKg9cLk8cHtG7YRiiMfnzmhSuo3xgIRbowH09TvtjI5hIaVwpVKLukKhMPz+EJxONzqvXbcXKJvN6VIzWaTTKoITUxh2j6K7uxftVzrsBKJhODj4gmr1BMfH3/HtuMrj6h9w6aUmGFuBkkkFhUIRmqZxUVwOx3AzYGgYVDWDYlHj4kDjk3ANjdgdlRiGQrFYp2DwtEM2rjwNw3wyheXlPFc+X+DR0d3kG5uoi838zgYNg6IsIfN3u8SmyXICd2Iyh/J6/fYDPZ0/1PVE/ojt+FtsRl9hPfIC6tgWZhwZu2JjeDT77gwQPbc185oDZf3biLlydrjEsBF5WQdDKs99qgPKBR5idqiA6X6l0S4x7MjvzwWi5x/E3nCgQnAHCfcq5txaI11i/EAzzLOFr9hNHOhA5CABJT13eWyhG4lGuMRQCu/zrggIowhIFJuAtIkyFG+pLjaLXaq5YwYREsUWQKuhXSz5NiEPryAymEZkIG2lS4z3gg40gxiBqEdi9VelPb76FButP8XWeqnVKqiL3akoR1z0WGwaAa1NVfjqG2PzdUWtio6dcUeAXAR0b/o5L7biW9djC/bI8Fydss4lM4RZVGxxF9ECULFFbFLvAgY7fLpDlrhkXnWzU2L1jZcj3UXUn67LDithxNR+BVI0dLgRjoDosbiLCIaiEr1pAExtah8o/nMxHUxsGnXN+D1mBLEcxjinB5zCmWULyHljPNgs82v/df4AmjVIRU58sTAAAAAASUVORK5CYII=",
     "wiki_name": "Super antifire potion (3 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_antifire_potion#3_dose",
     "equipment": null,

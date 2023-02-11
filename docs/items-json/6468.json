@@ -1,7 +1,7 @@
 {
     "id": 6468,
     "name": "Plant cure",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-30",
     "duplicate": false,
     "examine": "This plant cure emits potency.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xt2X709SURzGPf+AW3PTKWYYQvxI4Yb8CBCQhBCDRuYydTkqGYWRzDWE3vairTdtrVetV816p6x/8KnvuZ7rvYd60XY5bH23Z2OXO85nz/kcLoyN/R/DYM1Ih+HgsQtbG3PIp6Zx6+aVUUMxfP+UwrePSZ72cx92q/OjhGIGzNcPcbRqN7BducaBQk6naijdGQH05X0MzScevn0j8ImhXNlEtfrIaOfzuwgae248KF5FNJpEIrmqEophZ2d/IPfKm8gXyshkCwiFIiq37vfpqjd46vUXRkobVdxZKyESScDt8akFOmofG2m1jtBstlBcv4/biSz8gSAcDt0lRUA0DKenP9Dv/8T5eR9nZ32+XZoWNaQmGKVAtacH6HRO0Ou95aHtCofjo4ChYTg8bKHb7V6kZ/ijeKvEMBS767yhzkmXh7YsFluB17eo8sjTMGReZlDo3LVksbyEhfQCHEsOlS0xRHejKLwpWGDoWrAShDvrwaw2iynflKqWGLKvsgNAsb04QlUN3pwXc8tzmA7MqGiJ8YXzx3kdyBS6rj3U4C/6MR+/rqqlC3ckGEp8P47l7QgCpQBcSZeKlhhfNNde4w3JLdF75JEQ2xl1crmH2BJDupE2YMwhoEQtYRF7yC3p7ay+zg3AiBCQ8MhX8FtamnRP2t0SQ6q+wrdLRAZKPktxoPBWmItNLcly29SSfrJIZjOQDEZAZrHp+Fta8tjWEuOL0XZRZCARalCITR4NsSVdZgH0NzC6R4hNX5CiJbPcNrrEBoBkKAEkxKbjT3KLR8mEc8JoyJaW6HFhjgxHjgmxhUfkEMGMz4zbCSNG/xVIC1NkOAFEHgkY8R00BBh99A8U/7l0OAFFr0ls8eiQQWyHMc/lApdwcpSA/GnMC8uR7/3X+QXvVKsXlPcyEgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xt2XTW8SURSGe/9J111hTFPSEizYUspnKTjyXaTYEYpALYUU8CtVm8ZGm5qm0X/gomoU7MK4MP6wV86dXBhuddFkuCSe5N0A4T55zzMzMDX1fwzDaCY6DCcv/HjWvI0dfQEZzTZpKIbfPR2/vm7xfHgbwavOyiSh2ADm5+dNnB+v4WB/mQPZpqdVQxnOCKAfF3mcHYX4+ibgE0Mmk0cuVxi0c/kxh9PDAB7XXfD7wwiFoyqhGHS9dCXpzD3cjWewHo1j2eNTuTqGSrXGU63uDJJK5aBpKfh8ISw4bqkFajSag9T3GtjdrSORzCIYimJxcQm2GzdVAtEwXHz6gl7vEt3ud3zr9vi6PCv+gdQEoxSoXK6g1Wqj0+nw0Lq83uAkYGhYf017aLc7PAKI/FG8KjF9sd/XeEOtthFamT+wBqfTrfKSp2G4f7yF8vnDkaw/isFb8MIRc6hsiSH9NI3ts/IIDL0Wq8ewqvvh1JywB+2qWurfFN/oV4Ayz7O409QQKAbgSrpgj8yraInxg0vvShzIHHpd248jXAljacOjqiXDHRmGkj3YQPJJCpFaBJ68R0VLjB9aPC3yhuSW6D3ySIjtTru53GNsiaHwujCAMYeAci9zI2KPuSWjnQcnw3bkEJDwKLgdGmlpdnXW6pYY8kebfF0iMlD+MM+BEu0EF5takuW2qCXjyiKZzUAyGAGZxabL39zSXGDOqpYYP4zWRZGBRKhBITZ5NMaWDJkF0L/A6DNCbLpBipbMclvoErsCJEMJICE2Xf4kt3iU2NzGfzaLfpYYjwtzZDhyTIgtPCKHCGZmfsZKGDHGr0A6mCLDCSDySMCIe9AYYIwxvlD85zLgBBQH6ostHh0yiOUw5hkeMISTowTkb2M+WI782evOH5I/G6JuURuUAAAAAElFTkSuQmCC",
     "wiki_name": "Plant cure (Garden of Tranquillity)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Plant_cure_(Garden_of_Tranquillity)",
     "equipment": null,

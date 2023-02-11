@@ -1,7 +1,7 @@
 {
     "id": 10821,
     "name": "Cured yak-hide",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-06",
     "duplicate": true,
     "examine": "Ready to be cut and sewn into armour.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xs3Wb0sUURQG8Nm3IoIoiitsrqJRQkUvKj9Cr0yKioqiosIQIYpClkJNpFIE0YoKBUNMpIwgKgrFPtmJ5w7P7JnjnWnHncILhxnv3N3z23P/jEGw/1tB/OF7/s9bQWYqZ+X52JCL6UdnZOrBoAsiVuevy8rcNVmevepB2R9RNzwEEQUQw2KWXlyR19OXYonxN57ZiKMyIQsy9/jcLhSugDAIejl1UebHz7uxuPpAGK/RWxsV+bl2f28ognDP6hD09tllB+LYJBA+92t9THY2J+T35lMHQo5jXV0ubHbTwrLzVxOEpD7QwuSFCIR7H2ht4UYMhHuCbHbTCrFpQCIubvxtQUgOBKc3CbTx6lZ+IFYJfT4QK0kQqmZBn97cjkCITCCuCwtCcgvSCzoN9PndnTjow8P6QegHiChWUu/IJNCXpeF8QQgANMgu6CQQxn5bGYlA2x+fZNthGqRR+HILCs+RaiSBvr8f9YJs9oRW/fI0EMY0NQYuDpZa3BV9qKQF/Vi9t1dQeAahQmkgYo72dUp/T1F6O5ul3NEUoTQI4zVIH4o2u2nhr/OBEPxyYg6V26W1OZBTR8ruqoMoVCdXEFEIJMAYJtWVKbYFLkptDS6IyhWkq4SrBWHdIIAiqLuj0V0H+g9HoPXFmxEIpzQxNYGwQ3wgvg4w5kAxTI443tceqwz7T5884caiOnht6ArVWB20KsiuI25lvCSJIoz3DDzX04XXRm4gotCPBABxYSN6S7sxertjLE5pDSLKZve0EOSbNgvCc+w8whj6Tc/xX5fvRiCcQRnOoThIT5sG4Yp+vi54LOi1xiOibhB22d9ASIY+H4hrjdOVG8hOG/o1SP/LQQxBHAsQtrwG4QzKfA75pk2DcJ8G0usnF5Bv2jQIz/S/HBrEFyunq04QWnzXJIVdPwwLwqGoQYwMoCDgsZ4WFqhDr59cQLU2i6wFy6iO/U/NIn1hP7Ov2x9GCIuFabATYwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xs3WbUsUURQH8NlvIvhC8NUSiIgsCEsskUiRIL7wRUUfoTcV0QMaSYahKGiUWLRrYSVi9qCwYloWoqX0da7+7/CfPffsnWnHncILhxnv3N3z23MfxiA4/S1n/OF7/s9bzrybv20W527ZePP8pll4esMGERvLj0x1adSsv3/oQekf0TQ8BBEFEENj1t4+MB9fDzuJ8Tee6XBRqZA5s/TiTh0KV0AYBK0u3DfLr+7asbj6QBgv0Yfb8+bX5uzJUAThntUh6PPiiAVxbBwInzvYmjN/dsrHUbEg5Mi3tNjQ2VULy85fTRCS+kAr5XsRCPc+0ObKmAPCPUE6u2o5ZxqQiIsbf2sQkgPB6Y0Dba+OZwdildDnA7GSBKFqGvT9kwSV04G4LjQIyTVILugk0I8vTxzQ76/PmgehHyCiWEm5I+NAP9cmsgUhAJAgvaDjQBi7V52KQIffXqbbYRIkUfhyDQrPkVrEgfar016Qzh7Tal+eBMKY9rbAxoXiGXtFHypZB9qYOSkoPINQoSQQMYN9Pab/fMH09uRNqbs9QkkQxjsgcSjq7KqFv84HQvDLiblY6jId+cBcHSjZqwyiUJ1MQUQhkABjmFRWptAZ2Ch2ttogKlOQrBKuGoR1gwCKoHPdbfZ6rf9SBNr68FiAKhGmIRB2iA/E1wHGnC2EyRFDfV1OZdh//cplOxbVwWtDVqjB6qDVQHodcSvjJUkUYbxn4LmcLrw2MgMRhX4kAIgLG9FbrMfI7Y6xOKUliCid3dNCkG/aNAjPsfMIY8g3Pcfvrk9GIJxBKc4hFySnTYJwRT9fFzwW5FrjEdE0CLvsbyAkQ58PxLXG6coMpKcN/RIk/+UghiCOBQhb3gEdn0GpzyHftEkQ7pNAcv1kAvJNmwThmfyXQ4L4YuV0NQlCc3dNXOj1w9AgHIoSxEgBCgIe60mhgTLk+skE1GjTyEawjNrY/9Q00hf6M6e6HQFjKIYyrHc2TgAAAABJRU5ErkJggg==",
     "wiki_name": "Cured yak-hide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cured_yak-hide",
     "equipment": null,

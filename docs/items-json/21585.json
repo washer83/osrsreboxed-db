@@ -1,7 +1,7 @@
 {
     "id": 21585,
     "name": "Medium fossilised ribs",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": true,
     "examine": "This set of fossilised ribs belongs in a museum!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDklEQVR4Xu2X7UtUQRTGd/4ToU99KQvpBSxZsrQM00pTFmXZLLPFEkuld3pBKUSEhAI/RH/pid9Mz965s7ddrN3bFw8c7uzcmTPPec4z52qlcmzHVoo5K/b/Ys4WG+O2+7Vpl6uDftxYnrCllcmyQcUsOGuu3bH60g2bX7hqy80pW3kybavPZsoC5fyBX/Yft8oDmIlbF21mrmr3alfs9uyITd29ZM9fzpcBynkmAMVYJeI3IAAEMEAxfvF2oZ+gnO0drPoDAEB5cEpGida35jwQMQVwdAWDfQDlbPzmhRYzPCenh/2htfqYL8/m65q9er9obz7Wc2Dwd9uNXoIKWoENjVU6mOBgxoDh4E+fH9iHnft+zDuc9YMDA97T6Ec0Z9eun8tljG4AR2l4iiUJenv3oQcVAxMgxezsHS2UigPRSaYH50UMOLQDO6yRp4dk7DgbHRvySRKXpEiIuFwO9NgFlPMZx+WSYLnqsLa2MesBwYYYVHMUkJgdAWIvOhweOeWTYA/JaV8eR8sCAIkZpywqEb/JCkB6L1DtgcP7ofMnPTskRLJcCGKStNpEB0CYa7GRsgTllC5mQ2uKmCGG9MfnBoZIjiSYR2/ff2z8jlFo4XDoBACuA3HN5ecrlRQMzsHSDgAQPcycPnPCM4pGd/YeFSSTs9CN0QlZEZSnNukw9RuVKt3PU/tJEMYBACPEZg19rAsYLGSGhmLtqEysSIFlYLMY8aWgbLBTHT3rYyFkfQG6gJFlWap0ZCumtErA2oOGFqErjW4QMiwBCLCHP7cKEuloQUs8oba952SWakdOAtIJicESzO9/e/qHRLpaVhKup3RT/PEMrKRNEL0ABJZh6eBw/W/ByJz/eFJCek8MqD1gYEY9B4YBRAMFUNxz2vceyTKmKF/88UzXxQ4g3SzN9QCMLH/t84HDHOWCzRgUwmYu1k0+7j+YgsXAcNoDuqFM6IUnekJDaojtSfTUwg2CETmAcP72hhW0g4h7qJtuFtjhOus/j7g0sZcAJlhauhRA7Onevlp6eOkAyrJfU8ZpLZkmXg8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDUlEQVR4Xu2XYUtUQRSGd/6JP6H/0ac+RUVCRRjJhqVlpsWaIsqyqdlaspmWhSUWKiSFEP2zE89M7965s7ddrN3bFw8c7uzcmTPvec8752qlcmZnVoo5K/b/Ys6WGhN28LVpt6uX/bixOmnLa1Nlg4pZcNbceGL15Qc2v3jXVpvTtvZyxtZbtbJAOX/gl6MX7fIAZvLRTavNVe3pwh17PDtq07Vb9vrtfBmgnGcCUIxVIn4DAkAAAxTj7feLgwTl7PB43R8AAMqDUzJK1Nqa80DEFMDRFQwOAJSziYc32szwnJoZ8Ycu1Md9ed7sLNi73SXb+VjPgcE/7DX6CSpoBTY0VulggoMZA4aDP31esd39Z37MO5z154aGvKfRT2nO7t2/lssY3QCO0vAUSxL03sGKBxUDEyDF7O5dLZSKA9FJpgfnRQw4tAM7rJGnh2TsOBsbH/ZJEpekSIi4XA702AOU8xnH5ZJgueqwtrE56wHBhhhUcxSQmB0BYi86HBm96JNgD8lpXx5H2wIAiRmnLCoRv8kKQHovUJ2Bw/vh6xc8OyREslwIYpK02kQXQJhrs5GyBOWULmZDa4qYIYb0x+cGhkiOJJhHb99/bP6OUWjhcOgEAK4Dcc3l5yuVFAzOwdIOABA9zFy6ct4zikb3D58XJJOz0I3RCVkRlKc26TD1G5Uq3c9T+0kQxgEAI8RmDX2sBxgsZIaGYu2oTKxIgWVgsxjxpaBssFMdu+pjIWR9AXqAkWVZqnRkK6a0SsA6g4YWoSuNbhAyLAEIsCc/twoS6WpBSzyhtrPnZJZqR04C0gmJwRLMH3179YdEelpWEq6ndFP88QyspE0QvQAElmHp+KT1t2Bkzn88KSG9JwbUGTAwo54DwwCigQIo7jmde09lGVOUL/54putiB5Bulub6AEaWv/b5wGGOcsFmDAphMxfrJh/3H0zBYmA47QHdUCb0whM9oSE1xM4k+mrhBsGIHEA4f3vDCtpBxH3UTS8L7HCd9Z9HXJrYSwATLC1dCiD2dO9ALT28dABl2S8ymfzCts8IWAAAAABJRU5ErkJggg==",
     "wiki_name": "Medium fossilised ribs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Medium_fossilised_ribs",
     "equipment": null,

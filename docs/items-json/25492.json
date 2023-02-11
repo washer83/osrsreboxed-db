@@ -1,7 +1,7 @@
 {
     "id": 25492,
     "name": "Accursed sceptre (a)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-01-25",
     "duplicate": false,
     "examine": "A mighty sceptre used in long forgotten battles.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACK0lEQVR4Xu2X3UsbQRTFMw9h2BAUMRiaYGqyZEOakrghxvgQPxBEUbAggqWU0kKgFSy0tCC00CKiBQVB8cEHwf/0mjOT2cxGI0Uzu3nwwGWTzbL3N+fe+Ugk8qzAxah/BCqZdGa6Qq2CTZ+cHH3Iy8Dn7WwmKKguyEouS5uZNK1Ppu5xh9H01JSI3jcMUIwmUykq2DZtODY12zB3k8vvb2PRIBxiNDoyQrlMRgDpIArmYzxKrXa87wB1IY2IUTwWo/GxMXpTyGvlkb/ttUEO+T59ifth5hsNU1ASaCKRoBfJpCjf7ozrgd1YF3TMfwkwdQ8Nv7KwoAEOVIwszkXZEHAKUHv1quZWt6cCAIL8idHgs65L3xt1L6neUwBaXVo0CRSJqGSvi0UB9DKdFk7t1GsdUCVGn4t5Wm42TQJJZ6rlMuWzWQGC0qGntmv+0mEmztVqXlMbAGKioV85joCBMyo57m9VXXpXLtFW0aE1O0eVUkmA66XsfeMTJXsGjuDaHbVcn3AfaxRgcVVhzB30DFxBefyjlrMPS4Ieyj0D7sgX/+bfHkjin336MwOH+cF3BYwC6pdEB+j3zBPFaJ9/pb/8551R9z4ZgGSJsDcZtP9/xQQI9qWQXYGYADnhf4YDBiBn1sFwwJxbRyJChpGz59L6JyJEGAlyZZ16ESoMln91dLi2zsKEgeTfGEBh81O7dkgwEPNAcJ4J3R2cXRCqj0KEUTK6Gz9OwwJyC/P6pFAE9wBuAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACL0lEQVR4Xu2XX0sbQRTFM1/Cl3kZyEMgIISCFCmBSCghbFgSDA1xSTCGQqjaB2lRLIhQKaW0EDSk0FYIliotiiItpVDwo11zZpzNbDRFNLObhx64bLJZ9v7m3Dt/Eov9V+hiNDpClUq6uFCldtGhD26e3hVU4PN2LhsW1ABkLZ+jzWyG1ufSN7jDKCWEjOE3jFGM5tJpKjoObbgOtfow15Or7zvxqTAcYjSdTFI+m5VAJoiGeZ+YonY/3l4BDSCtiFEiHqcHqRS9KhaM8qjfun2Q77xHe4kgzLNm0xaUAno4M0OPZmdl+TqLng92IX7RMT+QYPoeGn5tedkAHKsYCc5l2RBwClDdRs1wa9BTIQBBwcRo8CXPo8/Nhp/U7CkAvVhdsQkUi+lkT0olCfQ4k5FOvW7Ur0C1GO2WCvS81bIJpJypVSpUyOUkCEqHntquB0uHmfi0Xveb2gIQkw0977oSBs7o5Li/VfPoTaVMWyWXXjp5qpbLEtws5fAb7ynVM3AE18Go1fqE+1ijAIurDmvuoGfgCsoTHLWafVgSzNDuWXBHvfgr//SPJMHZZz4zdpgvvCNhNNCoJCbAqGfuKUY9/pEO+f61UQ8/GYJUibA3WbT/tmISBPtSxK5ATIKc8m+TAQOQc3E0GTA/xQ8ZEcOo2fNbnMiIEEaB/BFnfkQKg+VfHx3+ivMoYSD1NwZQ2Pz0rh0RDMR8EJxnIncHZxeE7qMIYbSs7sZ306SAXAKDy9sp82ii2QAAAABJRU5ErkJggg==",
     "wiki_name": "Accursed sceptre (a) (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Accursed_sceptre_(a)#Uncharged",
     "equipment": {
@@ -48,7 +48,7 @@
         "requirements": null
     },
     "weapon": {
-        "attack_speed": 4,
+        "attack_speed": 5,
         "weapon_type": "staff",
         "stances": [
             {

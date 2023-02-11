@@ -1,7 +1,7 @@
 {
     "id": 10150,
     "name": "Noose wand",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "A noose on a stick.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQUlEQVR4Xu2WUUvCUBTHPURIEUEMFBLRFVN00cyHMR8SYRBIgTaJsGIUCD1ICdFDHyCIvknf8h9HuhuuWD207TzsB5fBPffhx/9czl2hkJOTKISfVyYQ5l4DjxdNPE/beJ1ZeLl1sPDdLKQIXr8Ku6V9S+d+0kGzpvZTgWDq24FAp15fWbznO2XsbK6nJUV4uOyuyERPcG3abwdnotUEiJNRhFLRSiLEyzDhvfr9bOIQ7kaHS5lUU4pHJfOX9qZEKJHpwIxC+HgbYeFWpEgRruwydK0o5YIzhLPjfVh6SU5K44GB66GJXmtXjhQL+acHODnS5Uix0Ozcwtgx5Eg93dh49/ZkDc35oLIcBVvFNQlShKGpwShtBK0TMA4Irl37SkeIEI8C/k56DQltY8IHWEhK6gEWlZJC0G+KQpRMzn/xCdCxs0s6IPCQAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRklEQVR4XmNgGAWjgKaA8T92PCCA8f/UWr//0xsC/s9pCf6/sj/y/4Lu5P8zOvMGwlGM/2uzHP8nBhphhM7Euqj/Aa4wcboAxv8h7lpwBxgoKKBgkFhnsuV/A2UxejmK8f+0plgUx6CrAMm1ZAXD1aDL0gDgcwwMIByFLkMTgN8xIIBIV4TV0hww/u+pCgc7hq6hhB/AQoaY6KUTQDhiQAtMdMD4/+iaqv8z8hwGi6MY/7cmWv53N5IeLAkcBBj/V2R4/490Nx88oVSd4/O/rTTkf2qg7eBxFMhBneVh/4ui3QePo0AO6q+J/F+d7DN4HDW7PfH/2lrPwVVoTs1xABcF6tICg8FRjP9LQ4z++5grwKNuEBQHjP/zEl2hoTNIHAQqCkB0XarfYIg2EEBUwIMklGAV8KAKJRgYRM0UGBhUjhkF1AIAmEDIwFymSkkAAAAASUVORK5CYII=",
     "wiki_name": "Noose wand",
     "wiki_url": "https://oldschool.runescape.wiki/w/Noose_wand",
     "equipment": {

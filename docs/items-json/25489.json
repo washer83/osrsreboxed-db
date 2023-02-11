@@ -1,7 +1,7 @@
 {
     "id": 25489,
     "name": "Accursed sceptre",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-01-25",
     "duplicate": false,
     "examine": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACK0lEQVR4Xu2XwUsbQRTGMwcJu4SIVBQTkposu2GNbNwQ0/SQ2lKQFoUKIrSIlAqBtuCl/4Y3oYceCj0IHoRCD4VC/7jXfG92NrNqpNTMjod+8Nhks+z77ffem9kUCv+VuwRNj1wlk25udGjU8ug4aNJbXwY+HzTqeUFNQLabDXpVr9JOrXKDO4I2Vlc5rt5hhhJUq1So5Xm0G3g0HMNcTy6/v3Hn8nBI0Hy5TM16nYF0EAXzrjRHo3EcJUATSCMSVHJderCwQHstXyuP/O1kDLL21aEPpSzMk8HAFJQEWlpcpJXlZS7fx804Bev+dqn9zWEwdQ4Nv721pQHOVIKcYpHLhoBTgDrpdzW3Jj2VAxCUTYwGfxTH9GnQT5PqPQWgF8+emgQqFFSy9TBkoIfVKjv1ut9LQJUEvQ99ej4cmgRK+iWKyG80GASlQ08d9LKlwyQ+7vXSpjYAJLih14KAYeCMSo7z+92YDqM27YcBvfSa1Gm3GVwv5dU73lGyZ+AIjpOnlusTzmONAiyOKoy5g56BKyhP9qnl9GFJ0EO5Z8CdZKLOnFuSZKdPv2bmMP5pkcLPTgo0LYkOMO2aO0q6En65zZncJNgV7E0G7f9bCQbBvmTZFWg8TecOx72AiS4cii7lyFqH6Xx3OSzDJNPzw+WwCCNB4p8uxb9cPlqFwfKvXh0AZBEGkn9jAIXNT+3almAgkYLgfca6O3h3QaQNbQ9Gyehu/G+6LyB/AMzlnwutaXlMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLklEQVR4Xu2XUUvbUBTHe7+EL30J5KEgDMpAREahUqSUhNBgMdTQYlcGZU4fRFEURFBExIG44cs+xF4EGQzGYDDGQIR9oGP/5/amN86KaG+uD/7hkDYNOb/8zzn3prncizKXoNGRqWTSpcUmndY9+hjU6NiXgc971UpWUEOQtVqVtitl2pwt3eGOoKLjcNy+wxglaLZUorrn0VbgUa8P839y+f3AncjCIUGvJiepVqkwkA6iYE4KE3Taj6MB0BDSiAQVXJdeF4u0U/e18sjfzvsg898d+lRIw7zvdk1BSaDpqSl6MzPD5fu8FCdgrX8uNX44DKbOoeHXlpc1wLFKkJPPc9kQcApQ552W5tawpzIAgtKJ0eBv45i+dDtJUr2nALS+8sEkUC6nki2EIQPNlcvs1H6nPQBVEnQW+rTa65kEGvRLFJFfrTIISoee2munS4dJfNduJ01tAEhwQ88HAcPAGZUc53dbMR1GDdoNA9rwatRsNBhcL+XtOz5RsmfgCI7Dp5brE85jjQIsjiqMuYOegSsoT/qp5fRhSdBDuWfAncFEXahV964k6enTrxk7jP81T+GlkwCNSqIDjLrmiZKuhN/ucyYzCXYFe5NB+x8qwSDYlyy7AvWn6afD8Sxgol8ORb/lyFqHaf5xOSzDyOlZ/OtyWISRIPGVS/G1y0erMFj+1asDgCzCQPJvDKCw+ald2xIMJBIQvM9YdwfvLgjVRxZhlIzuxo/TcwG5AYfz1cmi5V9cAAAAAElFTkSuQmCC",
     "wiki_name": "Accursed sceptre (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Accursed_sceptre#Uncharged",
     "equipment": {

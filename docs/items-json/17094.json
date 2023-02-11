@@ -1,7 +1,7 @@
 {
     "id": 17094,
     "name": "Shaman robe",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-07",
     "duplicate": true,
     "examine": "A tattered old robe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xu2W7ystURSGTZJIJCLk4Ai5FPmgFFFSSpHbJSK6t3tvSinls399693TM7Ps+WHMHPLBqrc9x9ln7We9a+1zdHV9R8cjcll9eqSH722Nu62NUbexOuxWFgfd2EjvZwFmIQ53J7ws1FJ70LWm+l27NZDoAwAj9/Nw2h3tT3odbE8kz1IelNyS9CwoQcq9gf7uplCROztqeaCTg6lkDRVCrS0PeVmoyfE+NzzU44HWZ2frQEXu6nTOXRzPvAKyKgJCFgqXOgKES5J9BopW7myOuc31kURAWZcaAd3+ansoILSGAsq6hASFSx0FwiVJz/Z1HpCckuxXAm1rBPTnvO2hAADGCijbNgk4XKJt6XfVuyMFwiVJz8gCWZcQM2Vdqtm2yP27nM/cMr0GMA8Kl5Bto8AEVbNtsTs6jFuk5AChIiDt1RreQLXODnd4aknEA62DlBD79TeB0soQirYBhLvkaOBS/B2kZErOLKiNAIXzZV3CFe2xedS6mi5lgZTs8e+yh0IhFEBySkAqInS6hkvp/FggZqAMiLbROt0uLodyCRKXdOPeDURiJVJ1OuDueiFRHpQOphAKKHKpNhBQtO3+ZrEQiFkCSPvsLJFHxdUCsi1Q254fVj1QEZQFkgsA5blUGUgftvbbq6v3H34vFQLZ2dOcsIf3cUnFaa1w01IgZKuOE5RD2b0hkHWJPW+4lP7KW5EoTRD+r5wvC4yDjIDWSkD6MBIcjoUJtJapCIji5GQFIEW2UpQeVjViKEktfvr/w0swgqsIVF59uPftyBZWv8AORVhUswK/44vGC7dr1K4v+YoMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4Xu2WTUsbURSGnX/QlZtuAi4EQQhCEQmCEqQERZQWQcGFC7GgCAFBWipEFKWiKIUiiEv/55X3Ds/M6Z2PTGZS6cIDL3dibs59znvOTZyYeI+xR+SyevNIDz/aX3D7u5/c7lbbfV2fcfNzH98KMAtxctjxslAbvRnXXZpyve50on8AGLmzk2V3erzo1T/oJM9SHpTckvQsKEHKvempD02hIjc47XqgH/2lZA0VQm1vznpZqMWFlmvPTnqgdqtVBypyVz8/u4vvK38BWRUBIQuFS2MBwiXJPgNFK7/tzbu9nblEQFmXGgHdDHoeCgitoYCyLiFB4dJYgXBJ0rN9nQckpyT7lUDbGgHdnfc8FADAWAFl2yYBh0u0Lf2uGjlSIFyS9IwskHUJMVPWpZpti9zD5Wrmluk1gHlQuIRsGwUmqJpti93RYdwiJQcIFQFpr9bwBqp1drjDU0siHmgdpITYr78JlFaGULQNINwlRwOX4u8gJVNyZkFtBCicL+sSrmiPzaPW1XQpC6RkT/ebHgqFUADJKQGpiNDpGi6l82OBmIEyINpG63S7uBzKJUhc0o0bGYjESqTqdMDv67VEeVA6mEIooMil2kBA0bY/v9YLgZglgLTPzhJ5VFwtINsCte3lccsDFUFZILkAUJ5LlYH0YWu/vbp6//F2oxDIzp7mhD28j0sqTmuFm5YCIVt1nKAcyu4NgaxL7BniUvorb0WiNEH4v3K+LDAOMgJaKwHpw0hwOBYm0FqmIiCKk5MVgBTZSlF6WNWIoSS1+Pnhi5dgBFcRqLz6cO/wyBZWv8AxRVhUswLf4z+NV4iQvd2mZ9WXAAAAAElFTkSuQmCC",
     "wiki_name": "Shaman robe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shaman_robe",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 16535,
     "name": "Oak blackjack",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-04",
     "duplicate": true,
     "examine": "A handy little club made out of oak.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMklEQVR4Xu3SQWcDURAH8Ixa8b5FPkLvJXoIoaqq1RKVsDQhNCKEVoX2UHrIoZQeegg9lH7Mqf8bLztZ2+tM6Psz9u1a3s/MtFo5OTk5OsRSrkkI4s194Pd58EQR/zwF/noM/LkUzNudlBOK+HsVYmc+Frug9bTtgaLYGVQT6HVijqKIQGkQMAn0cuuAwuWAJFwd9Fw6oHC5htVBFcoMRvFyDUNp0GrU5ocb025JB+ownDVoOTBEHXY629FoGAqoBDJFIX/BcAZqcS1likISbHZZbGF4YnwA4bs5SiLd0jCgMLrpeUIZw/QYEwx7BRTex6caZohrgmGvcC5PCr46Lvjs6MAWhWgY9gkdGvQKvuhWIPnHPBT3aNivugOUIwih2J1qVIJxBCG7EGeMZG8gOf8mvzcAM+PDVQWfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABL0lEQVR4Xu3U0WYDURAG4Mwb5GpvcnMeIU/Vi8pFKdWKRkNESmgIURGSiJRSSoQqIUrfa+o/43RnV3o7E3p+Rs6u5XxmRhqNnJycHB1iKdckBPFhGXj/HDxRxN/bwMd14M+FYHYzKScU8dcmxM58zKug92nLA0WxM6hToLeJOYoiAqVBwCTQ65MDCpcDknB10MvYAYXLNawOKlFmMIqXaxhKgzaPLV4NTbslHajDcNagxcAQ1Q7pP6gKQwGVQKYo5C8YzkDN+1KmKCTBZr3iF4ZfjA8gvDdHSaRbGgYURjftJpQxTI8xwbBXQOF5cqthhrhTMOwVzuObgh86Bd9dNG1RiIZhn9ChwVXB95clSL4xD8U9Gl2X3QHKEYRQ7E45KsE4gpAqxBkjORtIzr/JD+YXY4FaCXuTAAAAAElFTkSuQmCC",
     "wiki_name": "Oak blackjack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_blackjack",
     "equipment": null,

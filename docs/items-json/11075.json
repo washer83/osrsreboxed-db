@@ -1,7 +1,7 @@
 {
     "id": 11075,
     "name": "Bracelet of clay",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-04-30",
     "duplicate": true,
     "examine": "Now I can become a potter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADV0lEQVR4Xs3WW0tUURQH8BlChnM4zGfwI/TaB+i5oqjIMCzsRgVDkph2N7soineyRrTEEaspwcySLA3EB0HwIQh6iB6CIOihD7Dqv3frzDrLPTrjnKINizmevcf9O2uvvc8kEv9/S5I7XP1/vSWpvXkv3WnaY6KtcTe1NuwywYix7joa7TxCwx21DpR+iIrhFsQogDg0Jnv3MA22HYpMjL/RpyOKKguZpM5L+9ah8AkIB4P6Ww9S99X9Ziw+XSCMl+g3k830evz81lAMwjVnh0FDt2sMiMcWA+F7cxNN9C5/jRbyNwwIc2yvrjahZ1fNpp2fmkGY1AXqvX4gBOHaBRrvPRoB4ZpBenbVkpFlwERc3PhbgzA5ELy8xUCTA/XxgThLuOcCcSYZhKxp0NN7x0MQoiwQ14UGYXIJkkW6GejZ/RNRUO5C5SDcByhENKQo5bebYFQx0FT2VLwgBJYS/V2NHvVc9EKMl85RVare9LlAyObM6JkQNP/kcogpGyRR6APkxaBPs0O+xQQ9IYhRLtDLh+ecID17kWaXBE+rQdlWj96O+PTpVWAxf0CIlpMp2rljmxmnQbNjma2C7BmEDLlAuQ6PlicCA/o8lzaxmg8MElkDSoNQdxIkD0U9u2p2y7tACPxzjFl7XgB9mU/Tx5mAVh4H9GE6MH0NdQUUshMriFEITIATF+MY83XBZgmgnytpWhoIaDUbUKbWomIFySzhU4O+vbeBIu/PeJS/6dNir09rIwFN9fl0tqbKjJ3oOxaCcEozpiQQdogLxK8DgPgsQoa+L6XpViZF2d9HQe6KR3NdvskQih9jMBavDZmhErODVgDpOuKtLEGoox/LaRpp82isxWZotsOnlQeBQTIIr43YQIzCfdQDg9DPWcLuWnzkm92GAkddyfrBKS1BjNKzO5oFuZbNBcLOw3cAQbYAAQwZYxDGTw+fDkE4g8o4h6IguWwShE/c51eKfdpo8PlTMQi7bDMQJsM9BvE5JWuNlys2kF423Jcg+RuIMQzisQBhy0sQzqCyzyHXskkQrjcCcYYwNhaQa9kkCH3yZ4kEYZysnwpBaOsL1BW6fjg0CIeiBHGUAUok+FjfKDRQhqyfWEClNo0sBctRGPuPmka6Qn/nv26/AA/Jtt3zzCUvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSUlEQVR4Xs3WW08TQRQH8PYb+MRLXzbZh0365JfyA/iqxniJGAwaFINJJYKgchO5U4SStqGASBAQBAMJISTGGGOMMcbHI/8Zz/bsYQotXQ2TnHTZmTK/PXNmtonE2W9Jcoer/5+3JA11XaXBzismBjouU1/7JROMKI41U2HkDs0ONzlQ+iHqhlsQowDi0Jjcq9s01X8rMjH+Rp+OKKomZJJGuq8dQeETEA4GZftu0tiL62YsPl0gjJfozYUuWp97fDoUg3DN2WHQ9GCjAfHYSiB8b2O+k7aWeg6j14Awx3nPM6FnV82mnZ+aQZjUBZrouRGCcO0CzU3cjYBwzSA9u2rJyDJgIi5u/K1BmBwIXt5KoIVsS3wgzhLuuUCcSQYhaxr05rUE9dQG4rrQIEwuQbJITwK9nbkfAb0vPakfhPsAhYj2FKX8IROMqgRazrXGC0JgKdE/2uHR+FMvxHjpEjWkWkyfC4RsrhbaQtDm4rMQUzNIotAHyLspn9amfYsJxkMQo1ygtcIjJ0jPXqHZJcHTalCuz6MPeZ++rAcW8xeE6H6QoosXzplxR0DFzGlB9gxChlyg0rBHu/OBAX3dSJvYXwoMElkDSoNQdxGQOBT17KrZLe8CIfDPMeZguQz6tpmmz6sB7S0G9GklMH3tzWUUshMriFEITIATF+MY833LZgmg33tp2skGtD8bUKbJomIFySzhU4N+fLSBIs9mPFrq92l7wqeDfEDLkz61NTaYsfOT9wSoN8RUBcIOcYH4dQAQn0XI0M+dNL3MpCh3eBSUnnu0MeqbDKH4MQZj8dqQGaoyO2hlkK4j3soShDr6tZum/IBHxW6bobVhn/ZmAoNkEF4bsYEYhfuoBwahn7OE3bVd9M1uQ4GjrmT94JSWIEbp2R3NglzL5gJh5+E7gCBbgACGjDEI41dmH4YgnEE1nENRkFw2CcIn7vMrxT5tNPj8qRuEXXYSCJPhHoP4nJK1xssVG0gvG+5LkPwNxBgG8ViAsOUjoMMzqOZzyLVsEoTr40CcIYyNBeRaNglCn/xZIkEYJ+unThDa0QJ1ha4fDg3CoShBHDWAEgk+1o8LDZQh6ycWULVNI6vBcpTH/qemka7Q3znT7Q/lWamRL58/wgAAAABJRU5ErkJggg==",
     "wiki_name": "Bracelet of clay",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bracelet_of_clay",
     "equipment": null,

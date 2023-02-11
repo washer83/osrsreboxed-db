@@ -1,7 +1,7 @@
 {
     "id": 9340,
     "name": "Diamond bolts",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": false,
     "examine": "Diamond tipped Adamantite crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA8UlEQVR4Xu2WuwrCQBBFM58hFgkGBR9oFIkGfBDQQhC0EEzjlwhaprFTe7FMb2vpb10dFxSsrJJb5MCwzRaHuTu7a1k5qSMwRYHgcjzisN8xSAke9ztuSYLr+fQW8hwnSylBGIXoz/sfmQyFBNPNFMEiYJBRBMPVCJ1JhyEqRd4ytaDGI9Qct2DXbQYhgT/zUe1Vec6PxuW2XYbuKILGoMHTnd+4fnekjImrWC7yCNHFRTLqyksi9Fi6owjXqMfxFoVSgUHIyOhTEa2XWQsZGS29e3TNWEgxf+ZKt8IiZFlGwHSLQugLzch/oZLJycn5gyeSrafhoSLslgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA9ElEQVR4Xu2WMQrCQBBFMzfxCPY2NhYSEUSJGImgEhQlYApBtBHTeA7RLoWNWmplaZXKy3wZFxRSWZlf5MGwzRaP+Tu7a1k5f0dgigLB9XTC8bBnkBI8kwSP+x23y/ktVCwUspQSBFGA4WL4kclQSBBuQ/hLn0FGEYzXE3gzjyEqRd4yTb/JI9SedlBpVRiEBP15H41Bg+f8aFx212bojiJwRg5Pd9JxpXf8GRNXuVbmEaKLi2TUFYEbuCzdUYRr1ON4h1K1xCBkZPSpiDarrIWMjJbePbpmLKSYP3O9V2cRsiwjYLpFIfSFZuS/UMnk5OT8wAuCFbr6GEw4pAAAAABJRU5ErkJggg==",
     "wiki_name": "Diamond bolts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_bolts",
     "equipment": {

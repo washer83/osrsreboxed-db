@@ -1,7 +1,7 @@
 {
     "id": 16955,
     "name": "Stone ball",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": true,
     "examine": "Place on the stone mechanism in the right order to open the door.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xu3WsWvCQBQGcG80BIMkJBixuHTpUNql0MGhQwehQ4dCwaHQoSB0KPT/h2u+d7n47vWC4iVZzIMPUTD3897LxclkrLEuu5Q+nsFK6en1VMf3sU42iZ4/p5Tkaa5njwl9Ht1EQ6GUjm5jWhiI9CXT6TZtwlFA94xSOn6Y0aLZa+6EYDVuIJSi9mDRYrfQ+XtByd5yE47b1i3c9IZStAAWAwKg4mNhXltwgPeEMhgsQBhAqiw+S4p978P1hFJ0YSwgMeXXktKGc1DVXHWEUgaz+w8p9ywMZ1G0U/VMSdDden0OStEFLUZClt8rJxbGUbJ1wSD8ylbIzxVl9WtefSi5SzjDgkC4qMVIiDcSJXYJ51O3IAmQEe2TuwRUGKj6hSdjJGh/2CWgALKYs0G4EA00UHJxXwQIAQgtwwwF7I6tQ9uaGfLsFh9s2TK0q4P54aWaXXKGW+L4ztRDbVtFp3X1YO4IhDLzxGESxyH2HOKtCpwfX5mZ4neeE8+hyO+qjjG23EdJc2iyc6d5uIbfVaeW/O/cngEwpngLjkV+d6yxLrb+AOliVJUodJwWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqUlEQVR4Xu3WMUvDQBQH8N43CWQIFAIhEEIIgRZXNwcHJwehi4NDQXARoUPBQQqC4Ic983+XS1+eF1q9JEvz4E+w0Nyv914uLhZzzXXZpfTpTFZKB9eBju4iHW9inTyllPgx0cuHmD4Pb8KpUEqHtxEtDET6nOl0m7bhKKBHRikd3S9p0ewl74RgDW4ilKL2YNFiV+r8raBkr7kJx22bFm5GQylaAIsBAVCxL821Bwf4SCiDwQKEAaRO+V5R7N8u3EgoRTfGAhJTfawofbgOqp6rgVDKYHa/IdWBheEsinaqmSkJSgJc/1yKbmgxErL6XHdiYRwlW+cNwq/shXxdUdbf5upCyV3CGeYFwk0tRkKckSixSzifhgVJgIxon9wloPxA9S88GyNBh+MuAQWQxfwbhBvRQAMlF3dFgBCA0DLMkMfu2Dq2rZ0hx27xwZYtQ7sGmB9eqt2lznBLHN+ZZqhtq+i0rl/MA4FQZp44TOI4xJ5DvFWe8+MqM1P8yevEcSjyp2pgjK3uq6Q9NNm5075c/Z+qc0v+79yfCTCmeAtORX53rrkutn4AqKbf1/lWrwkAAAAASUVORK5CYII=",
     "wiki_name": "Stone ball (Green)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_ball#Green",
     "equipment": null,

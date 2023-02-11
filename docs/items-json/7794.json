@@ -1,7 +1,7 @@
 {
     "id": 7794,
     "name": "Firemaking tome",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": false,
     "examine": "A tome of learning which focuses on the Firemaking skill.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwUlEQVR4XtWXUU/TUBTHdx958Yk3X0hIMIhhYhAxc6zJMsYcGRt1OOfEZS4LIoKIiEFcDFkwMb6p8RsYv+Ux/0tOd3vabkvvjHqSXyhr1/Nr7/+2d4nE/1mK+vz1UuSspDz8cpI/Xopa249oNZvRzM/f8kgmbwcICkqsS1F9q0JrOUcjBZiFhTsjMQYxRZVSgdYLOY1sEMbi4t1QsM8tF2m7XrWRUrRRzHvIJoNYWrrnA0K4yzjnzakpjew2pBQd7e/oqwLmyaOaRrG8vKKFZmdveEKy2wil6EWnSdXNkgYnBbIZNxwGsjYxccVOCDMMoa49KFMq5WhkI1Au17xtPs6EhazvUKPmeqTT2UAjABkgPwf4DmChmZnrcYUUnb09oGbjoSaTWfVOjubmNsOfhQEhyExPX4svdPpmXw8ZgBCD5vzXxNwnQc6Qn8nJq/GFMMM6rSfUbj4mx1nzkCJSiI/h41nIHK5YQphhz9tPtVQ2e99DikQBGRwPIev89Lon9HKnpaVyuXUfsnEUfAEQgoyV0PnZMR3strVUPr/hQzaOgi8AQubzJ5bQx9MjnaHDvQ4VChWPUeQgwfuxjfxYP38w5Y9f7WqpYtHVmGKDJE0ghKWKhZCiLxddPeVPXu9RqVTVsJREykkghOxYCX3ufdB3CFI8DCxmIuXCwEPROj+fzt9T992hlqps1gMZiRI0JXkb+ZmbS8a9O6hLIYQaUhAKQwqGSUII+bEWQoYw7TFkrtsIIOWiBDk/1kJYjGWdNP369iySn19bQyWRH6wyLfKDUvpVgQcipr0UkUAsCrwDsY6yuDuoy9cGhgzw1XNGeKpjOH5c1H1879V8INDIkKUQqv87KpPZChAmyQ9BfrtjuLDmHpNQItEfc/lDL1zWlOS7yMuOsQiZxXISKShBFrEeH7vQoJKSYcL9//+BiiPzG6NpfPOhVI/4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4XtWX32/SUBTHuf8Jzz75snfflywuLi5k2eJcRDIaEsYYYzDCRMRJEDInm8M5J8SFxRhf/PFu/LuO+d7llNvTFkgvRj3JJ+to6fm093vbSyz2f5aiEX+9FDmbSRevnOSPl6LW4VPayqQ1y8urLonEAx9+QYl1KaoflGk762ikALOy8nAqZiCmqFzM024+q5ENglhbexQI9lVKBTqsV22kFO0Vci6yyTjW1x97gBDuMs55Ox7XyG4TSlHv5EhfFTBPHtY0jI2NTS20uHjfFZLdpihFrztNqu4XNTgpkM244SSQtXj8lp0QZhhCXauWKJl0NLIRKJVq7jYfZ8JC1neoUau4pFIZXyMAGSA/B/gOYKGFhXtRhRT1351Ss/FEk05vuSdHc3Ob4c+CgBBk5ufvRhe6fHuihwxAiEFz/mti7pMgZ8jP3Nyd6EKYYZ3Wc2o3n5HjbLtIESnEx/DxLGQOVyQhzLBX7RdaKpPZcZEiYUAGx0PIOj/DwQV1j1paKpvd9SAbh8EXACHIWAld9c/p9LitpXK5PQ+ycRh8ARAynz+RhD5e9nSGzrodyufLLtPIQYL3Yxv5sX7+YMqfvznWUoVCRWOKjZM0gRCWKhZCir5cD/SUv+h1qVisalhKIuUkEEJ2rIQ+D/v6DkGKh4HFTKRcEHgoWufn09UHGrw/01Ll/bovI2GCpiRvIz9LS4modwd1I4RQQwpCQUjBIEkIIT/WQsgQpj2GrFJp+JByYYKcH2shLMYyTop+fXsZys+vrYmSyA9WmRb5QSn9qsADEdNeikggFgbegVhHWdwd1M1rA0MG+Oo5IzzVMRw/rusevg9rHhBoZMhSCDX6HZVOH/gIkuSHIL/dMVxYc89IKBYbjbn8oRcsa0ryXeRlx0yEzGI5iRSUIItYj89caFxJySDh0f//QEWR+Q0PKoCHkyGqkQAAAABJRU5ErkJggg==",
     "wiki_name": "Firemaking tome (Blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Firemaking_tome#Blue",
     "equipment": null,

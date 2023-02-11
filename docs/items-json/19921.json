@@ -1,7 +1,7 @@
 {
     "id": 19921,
     "name": "Ancient d'hide boots",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Ancient blessed dragonhide boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADsklEQVR4Xu2W70tTYRTHd7lcLoYow5HM4eY2rsNNpg1Th1ubTM3hcM7pmJmmUYRERBQU1KuIInoTvYn+2tP9nttzf2+7GxYEHjhwX9xzns/3POc5zxMK/d8mkdP/uTkBTpQu7csNqsoVKsiFAFDXKkCitViZNuJV9hfKc7pULuhYOaK6vEsz47MUn0j2WKifAL//A5lE5USNqskd+qR+pHfqW7pSntGZ8pDyqbwJpE1lXIsYQl6pL/nfQ6VF2/IWAzlFDA0m0U66wX6gNameqlM1XqHizLoJlAxrnHh5bo4d36gmhHxQ39NT5YlZJTsQ4kSse9U+ZgB1Fs8dQHdnipRL5MzEAkjEoKKI+6J+NquE/wGEGHecFTvQjOQAas8fMlBNV24HEuW3AwFmb77NIvA/KtoPyLnmQJMcQNiKO9FVEwhb4AfUyp5wzI4uCP20MJtxAHmFBDYLqJHeM4GwQGI6zu5NbMR0Mscswg/IKySwWUBQjobNTxd4gVgkxu5NLNHV/hUd5U5ZBIC0mMZAQoS/kIEm0bkO83j3ks62z6hVatFWYYvWFowKASYajvoktoDQRwBCVQSIXcTQQKd60ov7j+i09oCaxSZtLm/SyvwKJScSDNMLCEIQ193sUiV/j7Rw2oTxr2og0ydttsu9gMSN9T1OnovkaFbvgchYhCKTEZ/klpBOpcMxmSmj53pXNZBJDIP+QeL6ap1W9YZGcgEUHg/7JLeEII6P/R8R0Vu9qjrQjNH+Y+w7fVO/8pDDUCzoDQ0gJAbQpDrpk9wppBwr0dLtJd7m3lXtaxLPEQw3nKyafnRxh4kroCRv0JKc58S9KvRr7Kcp5o36mqc17rNsaGE0IChsZvRt0g64dzB/cFpw5DN6+TFptVDaB0jiOLcYvBBw4wshIwGh5EflNp8uXCEAwlBE6dEPAEqEErbkRu8gzi5GzC68CjAQhwSyYDBDBBAaGv0jYOAov0gsgHC67GIAhNmFpuaG1h1VGhkIwxAXJBoTSTFx/YBELIaoGwixAkb4UEACBo7LUbyB0DsASkVT5hF2A/HssQEhHkDiZLqhnGv7msRTGTC4h0TCYrbIPSCA4M7tMmJxxdgrLOIxv9wwztieJhlTWYeBY7vEdYH7C0CGMr+EhhgBIx50pcUST+kRYGASDzOUGwnRzEiIJyuA7Mm8CQ0xiLeLwWWMitpveG9sXxMPcK/3T2aJES8DbDXE+G/xEGavgtvd/zrNKyKYmL9obgHBxdzYjV2P/QYXomoN53iO1wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADuElEQVR4Xu2Xz2sTURDHs//Bnvayl4CHQqEQCkFKKKSEEEKWkpJgqJJiW9IEk4a2NjRN05KQWltbUSmKqKDoQRRFEA/61437nfXt7002oQpCBwZy2Jn3+c6bN+8lEvm/TSKn/3NzAhwrA9qX29SQ61SWyyGgrlSARGvJGm2kGuwvlOd0oZxTT+lRS96l+akFSk1nAhYaJsDv+1AmUS3dpEZmhz6pH+md+pYulWd0qjykUrZkAmmzedcihpBX6kv+9lDp0ra8xUBOEWODSbSTa7MfaB1qZVvUSNWpMr9uAmViGieORaPs+I1qQsgH9T09VZ6YVbIDIU7EulcdYgZQ/9aZA+jufIWK6aKZWACJGFQUcV/Uz2aV8D2AEOOOs2JHmpEcQEeLhwzU1JXbgUT57UCA2Vs8YhH4HhUdBuRcc6RJDiBsxZ3EqgmELfAD6haOOWZHF4R+WlrIO4C8QkKbBdTO7ZlAWCA9l2L3JjZi+vkei/AD8goJbRYQlKNhS3NlXiAZT7J7E0t0uX9JveIJiwCQltQYSIjwFzLSJDrTYR7vXtDp9il1q13aKm/R2pJRIcAkYgmfxBYQ+ghAqIoAsYsYG+hET3p+/xGdNB9Qp9KhzdubtLK4QpnpNMMEAUEI4gabA6qX7pEWy5kw/lUNZfqkLQy4F5C4vb7HyYvxIi3oPRCPxik+E/dJbgnp1/sck581ei64qqFMYhj0DxK3Vlu0qjc0kgug2FTMJ7klBHF87P+ISNwIqupIM0b7j+h3+qZ+5SGHoVjWGxpASAygGXXGJ7lTSC1ZpeWby7zNwVUdahLPEQw3nKymfnRxh4kroCpv0LJc4sRBFfoV/WmKeaO+5mmN+6wQWZoMCAo7eX2btAPuHcwfnBYc+bxefkxaLZLzAZI4zi0GLwTc+ELIREAoea92xKcLVwiAMBRRevQDgNKRtC250TuIs4sRswuvAgzEMYEsGMwQAYSGRv8IGDjKLxILIJwuuxgAYXahqbmhdUeVJgbCMMQFicZEUkxcPyARiyHqBkKsgBE+FpCAgeNyFG8g9A6AsomseYTdQDx7bECIB5A4mW4o59q+JvFUBgzuIZGwUqhwDwgguHO7jFhcMfYKi3jMLzeMMzbQJGMq6zBwbJe4LnB/AchQ5pfQECNgxIOueqvKU3oCGJjEwwzlRkI0MxLiyQogezJvQkMM4u1icBmjovYb3hs71Ox/W5w+PJklRrwMsNUQ47/FY5i9Cm53f+s0r4hwYv6iuQWEF3Nt13Y19hvfYiNP23CAHQAAAABJRU5ErkJggg==",
     "wiki_name": "Ancient d'hide boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_d'hide_boots",
     "equipment": {

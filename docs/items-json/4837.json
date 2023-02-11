@@ -1,7 +1,7 @@
 {
     "id": 4837,
     "name": "Necromancy book",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": false,
     "examine": "A book of necromantic spells.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACq0lEQVR4Xu3WbUsbQRQFYPeDhIhEpIugorWWNFSlqeJLpdYEglqr+Fqtb7XRWltrrUgphf6H/gJ/7JRzl7OZGSeRzEYFceB8E/fJuXeyaWp6OA07gTJzpydQPZ2tks6wRXLHOBM0PDEqyY8NS265vUA96c4YoNHJcclsoWDAXozkJTcMNEGvpifV+NSEBCDA7MYIG8wPSRoIjDA66HVxSlA6jI25YAC1ZVJGEqBM0JvStOTy8p8RFwztAQXQs4FcjGlJNwvoZV9fvahAZXvbDVBhtiixQTaOMLb0fGjgCiYxqPi2FAefHjBXW3rQFEFPc9l4hB4jizA6qPRuJg5hQAHnGiWaIgiIVDolMM+GTNDc8ryaWZyL44KxMQSLz9FhbNghYDz3J1C5/kcGaH51QVAIGqkFY2O4hQChobAjFJR3OzpoYX1JAhRDXDWYDkIzQGFk3u3ooKWNFQlhOg5t2DCCMDaMq7f/cbLd0UErW2sSPBixca7G9NHxuyjTlvFrZzAbGqDVnfdxiEOAwsNcMLSEhnDDsDe85l7t6KCN/S21vrcpwcNdODZGHEBoCPuDvUEzWGjvdnTQh/KOoBjiEBeMILQDIJc5UTsEbR/uSYBiCONu2DCgMC60g73p6umSeLSDE4E+Hpclu0f7EsKq4fRxYoewzLjq2Bv+cPNoBye6XXiBcgw6rBqOMPw9bhivOt5buO6e7eBEDfGqcxTcmcOzL+rTycEVHFHYHywzfk2G7emkb3Weyi+644sTaYgNsBEgv/06VUfnX2MgvyL4EwUo/TVhP6WuU/lEFdzPvxfq++8zaUlviHuTz3UYKMTzJVr7uHDIjz/ncUvl088Gjt9BDRhX7cN/7gKyIewevodw0xreznXHBQSKI7t1kH3s5m50XPUcs7l7cv4DJ5epphJUBScAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xu3WX0sbQRQFcPdL9CUvCz4UAkIoLD6IUBEp0lBSFEuQilqsxYSAWmutVtKqtRr/pFpTsZTSb9B3P9yUc5ezmRknKZmNCuLAeRP3l3PvZNPTc3+6dgJl5lZPoIYGHkoGol7JLeNM0OTslKQ4PSm54fYC9eRx1gBNzc1IlkolA/biZVFyzUAT9GphTs3Mz0oAAsxujLDx4oSki8AYo4Nel+cFpcPYmAsGUF82YyQFygS9qSxILi//GnHB0B5QAD0bKySY3vCBgHJh2CkqUPnhnAEqLZUlNsjGEcaWnk+MXcGkBpXfVpLg0wPmaksPmiLoaSGfjNBjZDFGB1XeLSYhDCjgXKNEUwQBkQkzAvNsyAQtf1hRi++Xk7hgbAzB4nN0GBt2CBjP/QlUYfSRAVrZWBUUgkbawdgYbiFAaCjqjwTl3Y4OWt1ckwDFENcKpoPQDFAYmXc7Omitui4hTMehDRtGEMaGcQ2PjqTbHR20vvVRggcjNs7VmD46fhdl+7J+7YznIwO0sVNNQhwCFB7mgqElNIQbhr3hNfdqRwdV97bU5u4nCR7uwrEx4gBCQ9gf7A2awUJ7t6ODPtd2BMUQh7hgBKEdALnMqdohaPtwVwIUQxh3w4YBhXGhHezN4NCgxKMdnBj0tV6TfDnekxDWCqePEzuEZcZVx97wh5tHOzjx7cILlGPQYa1whOHvccN41fHewnX3bAcnbohXnaPgzhw26mr/9OAKjijsD5YZvyajXJj2rc7T/EVXvziVhtgAGwHy5OeZOj7/lgD5FcGfKEDprwn7KR2d5idq4n78uVDffzWkJb0h7k2x0G+gEM+XaPvjwiGN3+dJS7WzIwPH76AujKv94T93AdkQdg/fQ7hpXW/nf8cFBIoju3GQfezmrnVcnRyzuTty/gGwDYADIKkqfwAAAABJRU5ErkJggg==",
     "wiki_name": "Necromancy book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Necromancy_book",
     "equipment": null,

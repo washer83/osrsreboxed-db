@@ -1,7 +1,7 @@
 {
     "id": 26813,
     "name": "Abyssal needle",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A needle designed for use with abyssal materials.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABLklEQVR4Xu3Wv2vCQBQHcIOF4H/hKnSoU/8Ixw5OgpODiDWm8Ygx8RrEgDb+QOugKKX0/3xyd6SHgg4det8hX3jLTR+Od+9eoYAdi65PDMaixTsnEJRFD8WixHyMoxx1Jxo1C0M8VBIEOepONGrq+1iobndIE8YQUAokqtNhmKh44OGh+JuLhWq3PUxU1Hdy1I0A99R8vpdzCuD16VtK0wO99kYIc0qjlssjOU6E8Pdp1Hp9ItflCKuLQjE2oc3mizwvRljyFMr3p7Tdfkuc3tGz+vcoVBAktNv9/PbVIU3pM0nMosJwJkuARF+JneqlVjOL4nwhQWIk1OtNKtm2BD2Vy2ZQcbySIDE4HysVsu2SWZC4pUajRdXq8wXGKCgrw5gs+skDYFQyCATmLzkD2iMY3efLr3MAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABK0lEQVR4Xu3WsW7CMBAGYPIASOxZ8gh9FRYWtr4EWwcmpC4dELRJU6dxagsUgQmCSEBF+2RX2VZqtVIZGOp/yC/d4umTdT5fp4OdgH6feExAGykIBBVQr9s1GPVWtKgLcagV53ioMs9b1IU41DLLsFDz+SstGENAWZCu2YxhouRLiocSzwkWajpNMVFFEreoPwLcU+v1wcwpgNfnbkmpIz0+cYQ55VBVdaI4LhD+Pofabt8pSQTC6mJRjC1otztTmkqEJc+ismxJ+/2Hwbkdval/j0XleUl1/fndV0elqC5LvyjOV6Y0SPeV3qnuRiO/KCE2BqRHwnh8T1EYGtBNFPlBSVkZkB6cg36fwlBDPIL0LU0mDzQc3v7AeAU15RnTxD15AIxNA4HAXJMvho07khKRbTwAAAAASUVORK5CYII=",
     "wiki_name": "Abyssal needle",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_needle",
     "equipment": null,

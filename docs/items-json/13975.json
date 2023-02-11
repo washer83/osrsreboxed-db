@@ -1,7 +1,7 @@
 {
     "id": 13975,
     "name": "Ancient dragonhide set",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-19",
     "duplicate": true,
     "examine": "A set containing an ancient dragonhide coif, body, chaps and bracers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xs3Yb0tTURwH8PlI7pMielbknGMbm+LmmHPiXBPn/NNAZc1MzZYZljEEoXcRFImEVBK9gCDoze3Rie8Pvpezs3vvbvcu6cKXOXfPuR9/5+yce41E/t9jRN1sPI8R1VoaU692ymp3o6A2KpOqMpuQ18bStGSrllXN+oyktZaX4Ny9RlHybHNO0t4uqaPHCxL093q3ok73HsrP+BxtJmO3BqGcQbX5tFotZyQmjkAdRyAuTBAwnYOqwIDFuQTlxsfdUM4gZGkuKTFxBBJHFKvE6gBzdrgssNCgUi6myvm4xAmnDyWrwyHjUAFz3q4FA6ETdEpQPvNAzU5FJcARxSrpw+Y2VMC8e7kSDoS/HFU5PygOJYFBaEQQqmF2HDShQCg7hsIP6Mr6rKzR0b7fmwkE2q1Fe0CYK2bHJubSuvCFMkHZ+G3/IDQaBPpmfRHMJ+ujvOK9Fyo0CN8cgE6aub7omLP0D3WcuOhBmecjgUH4mhKEtebw0ZTkxea0hBjkbeqrgJCT5GUPiuczoUBYR9AIoKerGTu4GOcNAN1fGdX9XZAA9SZ1JZ8Ttb8+aWcoICx+zeWkhBgEQ9T9GbUhCGGomo7aWUlJhgbiMDFHiQ82xi2d9LV9PlAY8kCg/XrMBmFfAggdfreuJe34e7sarIwZ/TO2Qx8mKJ+84x+kb7A6iJNXr4Y+XG6Y4+1scBB2ZoC4wZ62ZvpQOsLpvY5Be2QoIOxnnSd5iRfKrTJsiwwNpC9uTig9OmbQwhgYpC+KmAtuKHPOmAkN4gaLNQjrCBZGLnImSseYK7TbSu0L9HxtQu7ucJNG0PrChGosxiVb1YQN1FHEcJtxigkqpu/+PQj7WbUwJlkuRlW9FBMgkUThlVXUK+m1dQQGzU/fU4u5+54ofVgJ4tzD/HGa1IFBfOrgzT2fNvgIxBt8/XkMF9UfErHYDgWEi3ph9GcxNwwQ+KKEAqEz/OVeED+VAcDtMcgHCIf5z4B/G2AGgCIRnnRTMa+P4w9lUJ1kERzabgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xs3Y3UobQRgG4HgdnuxxoSA9L7RICJIQDAmGRBKMwR9SE2L8aVAJsalam1pra4MgvYciFStW2tNSekU5mPJ+8C7jZHez3U2lCy8xZmf28ZvJzK6RyP97jKn7jecxptrVSfVud0l1Notqs5JRlbmEvDarWcl2PadajVlJe70gwbl7zZLk1da8pLtTVkftRQn6e9+pqNO9Z/IzPkebTOzBMJQzqL6QUmtLaYmJI1DHEYgLEwRM72BFYMDiXIImLMsN5QxCqvNJiYkjkDiiWCVWB5izw5rAQoPK+ZhaKsQlTjh9KFkdDhmHCpjzbj0YCJ2gU4IK6adqbiYqAY4oVkkfNrehAubT29VwIPzlqMr5QWkkCQxCI4JQDbPjoAkFQtkxFH5A19ZXZY2PD/zeTCBQpx69A8JcMTs2MVfWpS+UCcrFH/oHodEw0DfrRjBfrAt5xXsvVGgQvjkAnbTyA9ExZ6kf6jhxeQdlno8EBuFrShDWmsPnM5I3W1kJMcjH6RsBISfJqzsons+EAmEdQSOAXq6l7eBinDcA9H+lVf93UQLUh+lr+Zyo/Y2MnZGAsPi1akkJMQiGqP8zakMQwlA1HbW7Oi0ZGYjDxBwlLmyMW3qpW/t8oDDkgUD7jZgNwr4EEDr8bt1KuvHPdjVYGTP6Z2yHPkxQITnhH6RvsDqIk1evhj5cbpjjnVxwEHZmgLjBnrZnB1A6wum9jkF7ZCQg7Ge9FwWJF8qtMmyLjAykL25OKD06ZtjCGBikL4qYC24oc86YCQ3iBos1COsIFkYuciZKx5grtNtK7Qv0en1K7u5wk0bQxuKUai7HJdsrCRuoo4jhNuMUE1RKPfp7EPazleKkpFaKqkY5JkAiicIrq6hX0mvrCAxayD5Wy/knnih9WAni3MP8cZrUgUF86uDNPZ82+AjEG3z9eQwX1R8SsdiOBISLemH0ZzE3DBD4ooQCoTP85V4QP5UBwO0xyAcIh/nPgH8bYIaAIhGedF8xr4/jD4KuCBCubEv8AAAAAElFTkSuQmCC",
     "wiki_name": "Ancient dragonhide set",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_dragonhide_set",
     "equipment": null,

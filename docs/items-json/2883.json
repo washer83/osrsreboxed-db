@@ -1,7 +1,7 @@
 {
     "id": 2883,
     "name": "Ogre bow",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-18",
     "duplicate": false,
     "examine": "More powerful than a normal bow, useful against large game birds.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjklEQVR4Xu2X/0uTURTGPT+ETCSJIjGxtHBRRk7RtWFji81yKH5paa7l0NlabWhjGZaWMYSJFFIk9Df0V558zvX6vr7Od+a+/tADh71y7zyfPffec+7b1PRf/yRiFQ0h4rlxP28mvI0ARRwJOjkccHNv1yUBcnV31xPqwJ3R2zzkcnLH5ZbGAIqF+zgccrN3+G5jAC1N3RcQQPm96tk6q4YiTkVchxAKKuQfrCcU8cpzBaCWSkEh6gRFnHupkht7R0FNjdWlDBB/XPTISTueXC3hs0lfraGIt5IjHH1y8oTpJZx/+qiWUCQVWo7+yM1TEhMvzI0ejhUbr6gUUHz8Hj/29JxwyTwvERvjt0uT1YYi3ssFpRYByOfqtEmoHMosT1fbLeJXM/0cdN84AirukrGvAGWAVVzE+dRDAXqfnuXBO+1nSKSgVpMzZ5h7LhFPB3p5Ixvlz7mYrUuGiLOpiPyIKkARp2cH5J9vf1rkwmbCtE/skpF8Z311vsS8c0klh0Pf86/5RyEt8XMtVCIZCZB21jpalvSmhUO/v72Toon9Vcj4S7hFstz59bjNnLJE4g76XPbFsHx+iD8QuNPBDqr+2oJpuSsu1XhxPUGdQmnAMwCN+7c1MYlLu1+TRcbKlupzuJ6gtaAB4ySi76Gy4xDom8JxOLXke9tvqgOFQHKAoN+hXiEmfLfkBQGwcBC3BjPczpdl/rWTKQJcpvRG1xEYus7uvg7ud16VQCHF34DVDuolxWnd313hP/tbpoNRIQHMCodXJx091y5yV3urBJ7RG+Eeln0jHeWJoEecrSiUVjE4HXidQlxpc3BbazO3OC5IOBzNR1ec0l2gDGk4O0hzGPNqKCukNazzG1J/AfRTzP9bpUw9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkUlEQVR4Xu2X70uTURTHPf9Eb3zzgC+EQJAgQiRIIiSSUSSFC8U1ZoOtMcvhz8bUNR0622rTxgx/xsSUskj6B/q7Tn7P3fV5fJybuZ8v/MJhj9w7z2ffe+8592lpudZ/iVhFU4h4dtzH2wlPM0ARhwMODvld3NfTKUCdhtFIqBN3Rh/zkNPB3bfamgMoFurnUNDFnuGnzQG0PPVcQADl86hn+6w6ijgVdhYgFFTQN9hIKOLVOQWglkpBIRoERZxbUMnNvaOgpsYaUgaIN5fcctLOJldLGJn01huKeDc5wtG350+YXsL5d6/rCUVSoeXojzy8IDHx4uxoYazYeFWlgOLjz/iNu/ecS9Z5idgYf1qerDUU8VEuILUIQF7nvRIJlUOZlelau0X8YWaAA64Hp0DFXTL3FaBMsKqLOJ96JUC5dIQHn3RdIpGCWkvOXGLulUQ87e/jrWyUd3Kxki6ZIs6mwvIjagBFnI68kH++t7nE+9sJyz4plYzkOxtr82XmXUkqORz6kU/yz/20xK/1YJlkJEDaWftoRdKbFg79+f5Ziib217eMr4xbJMud34iXmFORSNxBn8u+H5bPL/GXAncx2EnVX1+0LHfVpRovrieoUygNeAagef+2JyZx6fBrsshYxVJ9DtcTtBY0YJxE9D1UdjkEhZvCWTi15Ed7H2sDhUBygKDfoV4hJryP5AUBsHAQtwYr3MHOCv8+yBQBrlB6o+vwD91nV383DzjuSKCQ4m/Aagf1kuK0Hh+u8t/jXcvBqJIAZofDq5OO3rs3uaerXQLP6I1wD8u+lY7yRMAtzlYVSqsYnA68TiFudxjc0d7KbcYNCcNoPb3ilO8CFUjDlYK0hjmvjrJD2sM+vyn1D6brFce2v4hWAAAAAElFTkSuQmCC",
     "wiki_name": "Ogre bow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ogre_bow",
     "equipment": {

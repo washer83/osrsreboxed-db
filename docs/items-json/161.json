@@ -1,7 +1,7 @@
 {
     "id": 161,
     "name": "Super strength(1)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "1 dose of super Strength potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xt2XS08aURiGPT+hy8a0tWm8gDdEERUvKOINvCBFFATEosViEEVUaHfV2KQLe0lXjW4abZu0StpEF5o0MRqj0vQnveWccQaQbmyGQ9MveRIyITNP3u87Z84UFPwfRZBJXotgauwBbKa7MDbfhrriVr6lCHbeNuPDKx1j3qeA03I/n1JEktl82YCgtxSjA/eYkKqoiLeUMDOi0PsXWgTcJax9eZgngv4BKywWu5TOu1UN/OPFGO65g/p6HZp07TylCBwOTxbmfiuMXf1o03dBpdLwbF1ydU37GdPTMxJ9JgsMnX3QaJpQXKLgKxSaD0sEgyEEAkH09A6isUkPZXk1CguFWeIkRItge/sj4vFv2NuLY3c3ztpVU1MvDTWV4SrknZzC8vIKYrGnDNqu2tqGfMjQIpidDSIajV4Rk+aHc6vEIiwdxkqUQVum1bagTFHJc8nTIvD7A1haWs5AHOryChXPlAjGHG4sLkYQiSwxqMzomAsm8zBaWg2oqq5FWVkFr5QIZp7MZghRqOTgoA369m6o1Vq29DmkROB0TmBhIcyE0qHXh612GAy9bLA5pZRMZyaAcDiSARUad03AZnOgqzs52A2tbD/KcUoELpcXc3PzSYnFK1JSbvck7HYnevuGoGvuQF1dIyqr1CgtVeYqJcLeV7RdlJSUgMfziA02PQW0thmllBTKqlykRFgCdCMUhdKhQhNeHxvsoaERtHf0sONHDlMi8PkeZ7xQKZsbGxnQwbZaR9FpNLHlTzdJegyROSVhZdGlHgotZEncBJlSIlk3/ltkSkk+Ico/kZLP6YRelzoFyJLSxdkZ4/L8HImLC8bPy0v8SiQYp8fHONzfx97nT9jZ2sKb9XU8C4XgGbGhrjq1QcogI5ZwCqQPPjs5wfnpCRMUxei1o4MDfP/6Ba/X1hCbC+Kh2XzVItllhBJuKH5zEUmKpkZ//zg8xMbqc4T9/iwR2WXSK/WAlNx1uIj8qdIffJ3r/71p/QbjjDlEoS60fgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xt2XW08TQRiGmX/CT8B4yamVQws9QGldSkthaQulLZZWWkoPBhOMxGACYowJVzbceAhqsJUYwXiABCMIFPw9rzuz7tJuucEsU+OXPEmzaXafvN83s7MNDf9HEVRT1yJYuWfB3XQHEqFm+ISmeksRfCuF8GVzgrG27MD9vKmeUkSV2XkTwNOH/VjIdDGhpsZG3lLyzChCHzf8ePLAztpXh3ki8Pn8EMWgms7WCxGri1bcSRphsfTB3ufkKUUQCkVqGPaNYdDtw4DTja7uXp6tI4hNxxnT0wkVr1eEIHjR22tHc0s7X6HZ2bRKMjWLmZkkhjwjsNmdMBg60XTtOk8hWgQbr9+iVNpCsfge74ol1q5uk0UdairDVWhqKoZsNod8Ps+g7TKbbfWQoUWkNqWQy+UZihCdH86tUoqwdBg5Gdoyi7UfbW03eC55WgTx+G1kMtkqlKE2Grnu1gQTE2HMzWWqZMala95hEQ6HgM5OM1pbjbxSIkgkZmqEqOTIaABOaVM0ma1s6XNISdqhJ6NIp+eYUCX0ujg2jpuChw02p5TO09EyKQkFAiG4pcG22hxsP7rilAjC4ShS0q5ME9KmFI5MIRichMc7ir5+F3p6bOjoMKGlxXBVKRH2vlJktEQit9hg01OAY2BQTandIB9HdE6JsAToRqgVUYhGY2ywR0VpsF1D7PhxhSlJb/dYvOqFStne3KyCDvaYfxzC4DBb/nSTpMcQnVOSVxYd5tQFEpdBp5RIzY3/Fp1S0k+I8k+ktDg/j5BfVBPSJaXy8bHMyQlOy2XGmcSv01PG0cEB9nd38Xl7Gx+KRbxaX8fa6iMs5HPwuFx6yiglnwLpg48PD3Fy9JMJKmL02ve9PXz9tIOXhQLWVpaRSST+tEh3GbnkGyrfXESVoqnR3z/29/G88AyPl5ZqRHSXqazzB5zLaeEiclFVPliL9r+Xrd9qC34yS6+YwwAAAABJRU5ErkJggg==",
     "wiki_name": "Super strength (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_strength#1_dose",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 13317,
     "name": "Deadman's chest",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-10-29",
     "duplicate": false,
     "examine": "15 men may jump on you, but only to steal the contents of your bank.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADbklEQVR4Xu2W0WvTUBTGG0oICSGlNLQ0Ze3aUcq6MdfBhgOH+lBwDJwKYyLIRBgoAxVBYbCHiSIMxnwQBEF8EHwS/BeP97vJSW9u0iWT4YPswEdCm3vuL985996USlfx/4VBf69LD4OuOzatOpbU/m5AraZFplUly6mT7QZSjtem4ZxDrlMmr1yKdQlQ+hsadNu1Y71+OkOtikVebZCWv0AN38wA0lU4DDp+0aVl26JFoYFlSo09R+rkbY9qwRp1a5acPAtofeQlgJpmWapWDgUHC0IZ9OmoL8sCIBVqU8BAgPVn1qlft0MgVRHQ7lY9AdQT49sRFIRyY67l2dk8KIO+fhjE/aJC3a24UvX2hgSC4FKlcS0FdvC4lQDCCwGKweBgYaAfp/O0IfpEhQLQfQFzejgngVhwCUBn745jsPevuvL+3tiPgTBeLT/A0GcFymbQz7OhBGo7TgJqp+pSo3MrFoAAwgIEYKBqc0WuRAZip/nlANTv2EVcMujX5wW5khgqsEMoADV7YymGAghcwpVhGAjavFmTQHgx5EIeBhotuMWAfn9ZjIGQCAJUc+7ORBEYu/N8by+GUKG4bD3XlflUoI3VShEghCH7BQ2MZd4XCQEU9LdSQOwUXFKBDp+15f2j7UYMhBWqQjFMDpAhSwMYJGCgumUVAjo66Eigl09aYZNjG1CA4LwOpBNokXQHCToiYdU0qTXYzgV6sx86g3LoQMiJfGiBCwOxO7AYQPidgeAArpgc9wDCFXsSlw3CFuBWe/J8w3h+SQZCHxVe9iPPpSXXoaFQOMigmfkHibKpqwpbwDSg8Y2qHL8iNkTk7AugrgDqtgq5FL4J1zqI3IHaw51E2aRTUdl4k9SB2J1w0mTuAqss3KV5NWAT80vZQOzMNCDuH3ySTAPCeZcL9P1kPlFnFaiz+DCzbAzEZxsDoVz4VsoCKtjYBn37OEgszWlA3NjTgLhc5wGhArlAOOl588Ih6GlAeh+pJUsAReXCF6UOxBUAEOYI82eGQYFTIt8WB6IZKQPId0tSHp7LUdlUz6twpSG/Osc5LoV7kNpDyQFGDAM1xNagqiYOT5YKlZxw4hKqsLaUe8Dq373hwypQFoQnzjpdjtjd00DpOSb5pwQ/oGrybxo4T+kc6TnU/y4cerIi0nNcxVX8i/gDyLCTLEB8dOYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcklEQVR4Xu2W32vTUBTHe/+DPuUlL4E8BAKFUAillEBHKaWsDx0dGzoGGzIcqA8Fx3AqjIkgE2E4hooog8FUZLAJIiKC+CL+Vcf7vclJb350yWT4IDvwpaHJPfeT7zn33lQqV/H/haC/16WHoBu2RSu2qbS3E1C7ZZJhemTaDbKcQMl2OzSatcmxq+RWK7EuASr9hoLuOFas189mqF0zya0Ps/LnqekbOUBplQ5Bxy96dN0yaUFqaBpKY9dWOnnbp3qwSr26qSbPA1pbchNALaOqVK+GgoMloQR9OhqosgBIh9qQMBBg/Zk1GjSsEEhXBLSz2UgA9eX4TgQFodyYy7OsIihBXz8M437Roe7VHKVGZ10BQXCp1ryWATt40k4A4YUAxWBwsDTQj9M5Wpd9okMB6IGEOT2cVUAsuASgs3fHMdj7Vz11fX/sx0AYr5cfYOizEmUT9PNspIA6tp2A2vYcanZvxwIQQFiAAAzktZbVSmQgdppfDkCDLtwpdEnQr8/zaiUxVGCFUABq9cdKDAUQuIRfhmEgaONWXQHhxZALeRhoad4pB/T7y0IMhEQQoFqzdyeKwNid/d3dGEKH4rL1HUfl04HWV2plgBBC9QsaGMt8IBMCKBhsZoDYKbikAx0+76jrx1vNGAgrVIdimAIgoUoDGCRgoIZplgI6OugqoJdP22GTYxvQgOB8GihNkIqkO0jQlQk9w6D2cKsQ6M1e6AzKkQZCTuRDC1wYiN2BxQDC/wwEB/CLyXENIPxiT+KyQdgCHK+vzjeM55dkIPRR6WW/5Dq06Ng0kgoHCZqZe5gom76qsAVMAxrf9NT4ZbkhIudAAvUkUK9dyqXwTbjWQeQO1BltJ8qmnIrKxptkGojdCSdN5i6xysJdmlcDNjG/kg/EzkwD4v7BJ8k0IJx3hUDfT+YSddaBuguPcsvGQHy2MRDKhW+lPKCSjS3o28dhYmlOA+LGngbE5ToPCBUoBMJJz5sXDkE3BZTuI71kCaCoXPiiTANxBQCEOcL8uSEosCvkW/JANCLlAPlORcnFcwWqGvp5Fa405NfnOMelcA/Seyg5QMQwUFNuDbrq8vBk6VDJCScuoQqri4UHbPq7N3xYB8qDcOX9tGy5u2eBsnNM8k8JfkDX5G4WuEjZHNk59HsXjnSyMkrnuIqr+BfxB6+hT4n9Ayg+AAAAAElFTkSuQmCC",
     "wiki_name": "Deadman's chest (Deadman Mode)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Deadman's_chest#Deadman_Mode",
     "equipment": {

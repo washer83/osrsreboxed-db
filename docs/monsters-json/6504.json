@@ -1,7 +1,7 @@
 {
     "id": 6504,
     "name": "Venenatis",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": true,
     "release_date": "2014-03-13",
@@ -16,7 +16,7 @@
     ],
     "attack_speed": 4,
     "aggressive": true,
-    "poisonous": true,
+    "poisonous": false,
     "venomous": false,
     "immune_poison": true,
     "immune_venom": true,
@@ -27,7 +27,7 @@
     ],
     "slayer_monster": true,
     "slayer_level": 1,
-    "slayer_xp": 388.8,
+    "slayer_xp": 956.2,
     "slayer_masters": [
         "turael",
         "spria",

@@ -1,7 +1,7 @@
 {
     "id": 26955,
     "name": "Chest",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-04-27",
     "duplicate": false,
     "examine": "An old chest with a combination lock on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRElEQVR4Xu3W3U7CQBAFYHpLiIZobMCAFCMGSygQrBCsYlCCxvd/nZGzzYFlXfqDVW+YZC5M2+23szPUUukYx/jVcCTOfw0iHLnrdGQ6Hm/+Nu/8g3DkplEVr34io35f5rOZ3A8CCXxf4XRsNmSWexLDkdurs01lHsNQFuGVzMdNiQaXMu3XJfRrMuq6EnQuxG+fW4CFVdhRLwGI1ZkPXYmCC5n2zlWG3fW1TlVlcH26QeEZVrbhVqR2VlYYVBdr9bpdrcKZIwbp1SGIKICIUqB1+t6J3DbibNcr0nTLcuN5CoNNLSeeSlQY1c2BctRuWZ2nyUSB0qoEEFEAIbkpYnDsOmjQamVBxSAstHqZK9TbuHZQlTAE2ND7rH0oKG5mJEFYTF9Qb25kUpVwXIso2qxRGEgvOTA6SJ84fer0KttAuC9DH21BKDeOy1YdglSP7AFhonBcPLLP6HoHhEpmqNIWZE6Hiam5rrqOF9tAGAoclw7ilOGIM4M4IRj35fPzTiOzmR+Gw/jnAOD1PR+vi53+QXJDJghrHAzCDm0gJF6E6+gRfcqIApogTOnqIZ7U3CBOCEHmuJsjb449QaxwISAuuA+UhsLzgBQKwsgSZEP9GYhlRw/YQCYqCYT+KgzEX1l+NtKqZPZRoSAszI+rDiIqD4hr/BjEDyMWM6tkAxFFEIYiCURMCgjx/T8+E0RUGgg/mDZQDkwcvHn70C4wCwhTagPlxuyLJCDS7CNMqQkqDGOLtCra8tcw+8JE2tJ85hiHxhcgjpaBm6jf2gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSUlEQVR4Xu3Wb0vCUBQGcPdNhF4IQSBByBAhiRiSiNJQpiQt0UaalFT07U8+dzx6vV33x1a98cB5Edvufvfcc1yl0jGO8avhSJz/GkQ4ctvpyHQ83vxt3vkH4Ui7WRWvcSp3g4EsZjO5HwYS+L7C6dhsyCz3JIYj3evzTWUew1CW4bUsxlcSDS9lOmhI6NflrudK0KmJ37qwAAursKNeAhCrsxi5EgU1mfYvVIa99bVOVWVwc7ZB4RlWtulWpH5+ojCoLtbq93pahTNHDNKrQxBRABGlQOv0vVPpNuNsNSpy5Z5I2/MUBptaTTyVqDCqmwPlqN2yOk+TiQKlVQkgogBCclPE4Nh1ULVczoKKQVjo7XmhUK/j+kFVwhBgQ++z1qGguJmRBGExfUG9uZFJVcJxLaNos0ZhIL3kwOggfeL0qdOrbAPhvgx9tAWh3DguW3UIUj2yB4SJwnHxyD6jmx0QKpmhSluQOR0mpu666jpebANhKHBcOohThiPODOKEYNxX8/lOI7OZH0aj+OcA4PU9Hy/Lnf5BckMmCGscDMIObSAkXoTr6BF9yogCmiBM6dtDPKm5QZwQgsxxN0feHHuCWOFCQFxwHygNhecBKRSEkSXIhvozEMuOHrCBTFQSCP1VGIi/svxspFXJ7KNCQViYH1cdRFQeENf4MYgfRixmVskGIoogDEUSiJgUEOL7f3wmiKg0EH4wbaAcmDh48/ahXWAWEKbUBsqN2RdJQKTZR5hSE1QYxhZpVbTlr2H2hYm0pfnMMQ6NL5WfhJwP29+gAAAAAElFTkSuQmCC",
     "wiki_name": "Chest (Beneath Cursed Sands)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chest_(Beneath_Cursed_Sands)",
     "equipment": null,

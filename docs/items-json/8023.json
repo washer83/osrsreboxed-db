@@ -1,7 +1,7 @@
 {
     "id": 8023,
     "name": "Boxing ring",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABAklEQVR4Xu3UwUrDQBDG8YawhBbxGfoI4qUXS1PaWGOl0kiFFCK0YsVCCxG9ePDVP2cWrTpFyEIWQecPPwjJLruXTKOhabUWwL/KBZg0w530iyT6FAv8jtfwnqxpkLcMCrI4MLgjD2RDysMIT8T5Ur4dtduWPPnHPjb4JM/UNO0X258b9atcgKvxGNM0tS5HI1wkiXU+HOCsH1unvR4G3a7Fz/yN1/LeeTbFzfUMyzzHqiiwuV2ivF/heb3Gy3aL18fS/VK+OQ9HOVV9kGdq2n9q/zetX+UChCYmJ9+FHeFY6Lyv5b0sISmZwJgMJpqRnBSW86V8c55Fcoj5IM/UtD/dG74tgyqPcWrTAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABA0lEQVR4Xu3Uz0rDQBDH8eYNctpLLgEPgidfqJdeLDQWYxtrpSkVIkSwJcXSQtSD4Hv+nFn8O0XIQhZB5wsfCMkuu5dMp6NprRbAv8YFmMbhh+yLNPqUCPyO1/CePDYoDgxKcndoUJF7siX1UYRH4nwp347j2JIn/9j7Bp/kmZqm/WL7c6N9jQswn0wwyzLrajTCZZpaF2dDjE8T63wwwLDft/iZv/Fa3nuTz3B7vcCyKFCVJbarJep1hafNBs+7HV4eavdL+eY8HOVU9UGeqWn/qf3ftH2NCxCahJx8F/aErtB7W8t7WUoyMoUxOUy0IAUpLedL+eY8i+QQ80GeqWl/ulf4TJ7VfHdWcgAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

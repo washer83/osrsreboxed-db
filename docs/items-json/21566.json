@@ -1,7 +1,7 @@
 {
     "id": 21566,
     "name": "Unidentified large fossil",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": false,
     "examine": "A large paleontological find ready for cleaning.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xu2W70tTURjH3Yte5LswCovSDJUy/EWaotZiOTElldmsDElpiZZhYjasDLEsswyRpEQjKCSKoiKq/+6Jz7k8d2fXRXfTfLUHvjjPzu757Pv8OMvJyUY2spGNf0VANmrbI3H47b4TMhipNLraVSH9HeXbCegc0Nd2TOJX6lwQNHy+KgmKPRUle6T4wK7/Bee4cXegPgkEMMS6vgdUb2uZ1JblS+7OHeYvcGVFu7cCzvnwVKzBHIgTSEFwQgUIe1gHqKlyvwFqbSiScN0hCdUWmLX68n0GMgOogIz0VBuAh0NNBioVDOvR5lKTKn0PIAAAam867AIFjx9MAqosLPQL5aRo7HKtLIyF5MlIMMkdnABAIdQZGxZnFIjXCoRLms40XAq4dbE4fkamBxtdINbULRzkNRB8AaSgncFi44Y6AhBw3rT5dClg0vR2uk3mR08biNFLNUYKCojd8raAQTgTCZXIxZajbhop7oyASBNAOAQUgAqlYDinBa/pAhCHALBHAmAna4qNAKo+stcvUMDUDSC/127J9xfd8m6mXZYmms06aVIoaoz/U0lriz3UVCRc5Xac1pJvoOV42JVCfX0ekQ+PO+T1ZIvrhqYOpxAuzl4/ZdxFWmuxaKPpRFyyi9w30Or9Vle4YkN9me8yAm790TnjHqlde3DWwOIsMAACfSfW4qaQWgKK+gLMN5AegICy06dQn+Y6DRR7AXk5dUGW7vXI4mRUFuLdMj8RkbnxLpM++0oBSt0CzEfrJwraBiN9v1Zvys+VG/JteUg+L12Tj4sxWX82IO+f9sub2T5Zmend4JAOV+9dBxjF7dslG8pOCVA/Xg27UKQMF3Ue6aHaeTpgaQKFYw91VFqQ5xeICJgCtaEQh+OWTnDvYRQ20pFgjwXg2Is7dFl+Xm46QERqKO8hesUgZpZ2GZ+1AfXKoaD19gcmDSAiMbWRtrhCkUYdEcwqaggpnAICh4v6SyBDGA0HigfrN/4bgO2MgquTFLZ21iZgNBwoHXzqjEKlgvGmle7aIhgN7+/l9LWFME7oAzcj7zOzkWn8AaYvAKRyBFTRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu2Wa0tUURSGnT/RZ8E/IEJESFCEhCRiJImKoYkXyiQV01QGtTKGlEY0wzTTNLTM1ERERUKkGxb1j1Y867SOe44TnRnNT7PgxXHPnrOfeddlT1ZWJjKRiUz8KyJyWCceB4e/iN2Q4WiF6klPuQx2lZ0koHdArOOaTD+u9UHQaG9lAhR7yovPSNGF3P8F57nxaqguAQQwxLq9B9RAe6nUlOZLTvYp/QtcaeHp44DzPjwXr9cDcQIZCE6YAGEP6wA1VpxXoPb6QmmtvSTNNQW6Vld2TiHTgIrIWH+VArwZaVSoZDCs97WUaKrsPYAAAKiz8bIP1HT9YgJQbnZ2WCgvRROPamR1olmWxpoS3MEJAAzCnHFhccaAeG1AuGTpTMGliF8Xa5N3ZH64wQdizdzCQV4DwRdABtrdVKRumCMAARdMW0iXIpqmj/Mdsjx+WyHGH1arDBQQt+VdAYNwJtpcLA/arvpppLjTAiJNAOEQUAAalIHhnBW8pQtAHALAHQmA3awuUgFUdeVsWKCI1g0gv3aey/cPvbK70CnrUy26TpoMihrj/2Sy2mIPNRVtrfQ7zmopNNDGdKsvg9pficqnd12yOdPmu2GpwymEi4tPb6m7yGot3tegnYhLbpGHBtqebfeFKy7Ut+UeFXB7b++pe6R25/VdhcVZYAAE+mW8zU8htQQU9QVYaCA7AAHlps+gvix1KxR7AdmYuy/rs/2yNtMnq9O9sjwVlaXJHk2fe6UAZW4BFqL1DwraBdP0bT+Tn1tjsr8xIl/X4/J5LS57K0Oy+35QdhZjsrUwcMghG67Buw4wiju0Sy6UmxKgfmyO+lCkDBdtHtmh1nk2YGkCg2MPdVRSkBcWiIhogbpQiMNxyyZ48DAKG9lIcMcCcOzFHbosPy8nFSAiOVTwELtiEDPLuozPuoB25VDQdvsDkwIQcTC1kbW4QWlB/xkRzCpqCBmcAQKHi/ZLIE0YCw+KB9s3/huA64yBm5MUtnXWEWAsPCgbfOaMQSWDCaaV7jomGIvg7+XUdYwwXtgDj6LgMzORbvwGzSbRA7xCYW8AAAAASUVORK5CYII=",
     "wiki_name": "Unidentified large fossil",
     "wiki_url": "https://oldschool.runescape.wiki/w/Unidentified_large_fossil",
     "equipment": null,

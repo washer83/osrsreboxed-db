@@ -1,7 +1,7 @@
 {
     "id": 857,
     "name": "Yew shortbow",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "A shortbow made out of yew, still effective.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTElEQVR4Xu2WwYrCMBBADUsJ/oWfsFdvHlw8FFZQBEUUhBVclhUEYZfFgwfBgwfBHx6ZhLHNNBXWMomHPphDSdJ5zCRpG42aGo4Cf0RBwfc0gc1cm9guNPx+2IggpWAxSOCt/eKpjoLXVssEXyWATThMU5j1Eyc5D75SACtCMeplQnxmAFwZ3DuRhLIWUeDz5ziBQTe4kCtCMpGEymV2Kw3LUTAhf4uyxMrcMyj03rFHXlDIXxX3KFshvIOEhe7L0ByUwf0zScWEii0qk8HPA1aG1hTnVMYv4iayz3jv8LEgMm4i2yKSEZBA/tciLuO+qzJFkXyb8hFFJi+Alx22B/9pSAZPEwnxt1WkKHPcaDisNey/tJEhEV4psepc/ppw/mnCaeuKlAkIbWBCGRGsSiQBjrrJ8OSBBDjKtIiE+GgkxDbo4zyVTE3Ng1wBn1CgQDds/7oAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABS0lEQVR4Xu2WwWrCQBBA3T/wlMte8gn+lLceFA+hghKolBYCisUKImgpFAqFgvT/RmaXMdnJpqBhdj3kwRzC7mYeM7ub9HodHRwF/oiCgvfnBHav2sS+0HBc2oggpaCYJTAe9j3VUTBIUxN8lQA24TzL4GWaOMl58JUCWBGKfFIK8ZkBcGVw70QSKltEgc9vTwnMRsGFXBGSiSTULPO51rDKgwn5W1QmVuaeQaHHB3vkBYX8VXGPshXCO0hY6H8ZmoMyuH8WmZhQvUVNMvh5wMrQmvqc1vhF3ET2Ge8dPhZExk1kW0QyAhLIdS3iMu67WlMXqbapGlFkqgJ42WF78J+GZPA0kRB/W0vqMj87Dd9bDV8bbWRIhFdKrDp/HymcDin87l2RJgGhDUwoI4JViSTAURcZnjyQAEeZFpEQH42E2Aa9nbuS6ei4kTNnKdW+X9nuIwAAAABJRU5ErkJggg==",
     "wiki_name": "Yew shortbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yew_shortbow",
     "equipment": {

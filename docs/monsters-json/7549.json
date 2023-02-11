@@ -1,14 +1,14 @@
 {
     "id": 7549,
     "name": "Scavenger beast",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": true,
     "release_date": "2018-05-17",
     "combat_level": 0,
     "size": 2,
     "hitpoints": 45,
-    "max_hit": 16,
+    "max_hit": 27,
     "attack_type": [
         "crush"
     ],

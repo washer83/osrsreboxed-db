@@ -1,7 +1,7 @@
 {
     "id": 22817,
     "name": "Cormorant's glove",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": false,
     "examine": "A very large, single leather glove.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2ElEQVR4Xu2Vz0oCURjFvVsZAmlwUHH8M6iMyjgO6SBoGWoitAiCIHqNymWrFj1Gq1q2bhEtogdo3buc/L7pmhq5814XHTjMvePi/jjnu04s9q+NSCDyVkigVCiwtwAqgqm7Llp+A4Hn6YYSaNRqGPR6COwsQ9E7P5/XASXw+nzPqXzeGvi4MRA2m7qABJ4e7/D28oD3awPVcplrIydN87s25dVFh8oZouooLQlWtG09UBKIYMiUFsGRNdT3OyFZn6Zb9zeQppQEcpnMEgCtF98pB6LhrTjO0k2jvVxrqW0RSoIZ8biulEiCgaQJSs4WWRuQfNIM7fllDA8ChqO98tpct86HEsBuIoFOq8pA5Gw6rSclsucFSCR2eU1Qhz1/npBCIAHHqTAIAZlmkgGKuRQmw/YcRgFQlIqsS9qyUvOUmp6Dbih/36hmCcy+7GRrx8Bxx8HpfpkTGoYuxp0qm4FLWRWVCQyCHNyUxSBn/QouRjUGOumW5papKahMoOdlcNQq8MHngypqs9tEgPSUMBJkwzAkgbabQt+3uS4CoKQIkPZkBTWtSmA6HS8NNAFNwqI+oKvL0cqM/MApqmpRy0DyrcK5WdXs37ik5bOwTlqqWa+tgtm0vgDAsGouvZFThwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB20lEQVR4Xu2VwUoCURiFu28iuBhoNQgigwjKICIj4jDioDKhgihlookQBEEQPUXlqk3QO7SoVasgglq26ylO/v90JzVy570uOnCYe8fF/Tjnv87Ozr82IoHQWyGBUqHA3gKoEKbmumg16gh8XzeUQL1axbDfR2DnGIrembGYDiiB1+d7TuXz1sDHjYFOs6kLSODp8Q5vLw94vzbglctcGzmVTH7Xpry68FA5Q1QdpSXBiratB0oCEQyZ0iI4sob6fick69N06/4G0pSSQD6bXQKg9eI75UA0vBXHWbpptJdrLbUtQkkwIx7XlRJJMJA0QcnZImsDkk+aob1GGaODgOFor7w2163xoQSQME10Wx4DkXOZjJ6UyL4fwDQTvCaow34jSkghkIDjVBiEgJLJFAMU82lMR+0IRgFQmIqsS9qy0lFKTd9BryN/36jmCcy/7GRr18Bx18HpfpkTGnVcTLoem4FLORWVCQyDPNy0xSBngwouxlUGOumVIsvUFFQm0PezOGoV+ODzoYfq/DYRID0ljATZMAxJoO2mMWjYXBcBUFIESHuygppWJTCbTZYGmoCmnaI+oKvL8cqM/MApqmpRy0DyrcK5WdX837ik5bOwTlqqWa+tgtm0vgBGe7KA2YEQAAAAAABJRU5ErkJggg==",
     "wiki_name": "Cormorant's glove (Bird)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cormorant's_glove#Bird",
     "equipment": {

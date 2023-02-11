@@ -1,7 +1,7 @@
 {
     "id": 23207,
     "name": "Dual sai",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-04-11",
     "duplicate": true,
     "examine": "A pair of aggressive Sai.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xs3W3UsVQRgG8HP+AUO6kO4EL0IM6kLEILsJ8SZQy0xMLIuKPgiiKESKPkT6QhD7oELBEBMpI4iKoqi/bOKZ5Znz7NvsafecNRx4md05c5zfeWf2XSuV7d+qLh6xz7e8Vd3jmaPu4fSwj7mbQ272+qAPIlYXptzK/Em3/GQygrI/oml4AiIKIIbFLD2acC/mxlML4x6f2UijCiGrbv7WyF8o9IAwCHo2O+YW7oz6uehjIMxX9I+NGfdt7VpjKIJwzewQ9OrBCQ/i3CwQvvd9fdr92rzrfm/e9yCssa+93Ydd3bQk7fzVBGHRGGjx3vEAwnUMtLZ4OgXCNUF2ddOqqW3AQjzcuLcgLA4EtzcLtPH8bHkgLIRxjMVA+ExByJoFvX95LoAQhUA8FwRhbFdbm+8tCGOTo8cCKgv04fX5NOjtjcZBzBBBRDGTeTL0celC+aA9nZ0BBpAe6HoZwtzPK5cD6Oe72wFTGKTbtrujw6MO9fX5e4JwPX5k2PdZoC9vrkRBdvWMlmQBf1xBiLGhpFqz0LE06HewlRb0dfVqo6CkBiFDBGHscH+/7/d2dYXFD/T0+J4gZBC9BeHMKUiLol3dtOSPxUD7u7sD5NLUqXCtrxiOKQjZKRWkKCygmeCBVhCztiUgzRJ6LIBXgGaJGD1nCsL1+tMzAYQqTUwuEJ6QGIivA4DwizGXB5rZOdjb63sefMTgwIDvNUM5s4NWA9lzxEeZINwriBlC1QYMsaOlxY/htVEaiCiM4zwQZN9hAPGsIXa2tvoec1GlFUSUXT3SElBs2ywIc/WxJ4hbi3HWqk/LFwMINahAHUqDdNsUhF7fYcBYEFETI8n5ahiEp+xfICyGMR5mBfGsMTsspE2D7LZhXEE8L3yKcE8Q53JrdctQgwrXodi2KQjX+g5jdmyGMBc1qGlQbNsUhM+0QiuIrw1kpwQQWq3a1gvFaFgQ/pdWEKMAqFJhWa8XFqjB84PslALK2ywyD5ZRm/ufmkXGwn5nW7c/c7x0YZA5+gUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xs3WXUtUQRgH8N1v4rUQLN1JH8GbBAm6EUQi6SIQb0ItNDGxLIreoKLEotXCSsTsRWHFtDeiN+nrTP5n+J/9n8fZ7ZzdYzjwMOfMzjq/fWbOcyyVDn8ru3jEPj/wVnYv5y+4pbkxH88fjbrFByM+iNhcmXW15ctu49VMBGV/RNvwACIKIIbFrL+Ydm+eTaUWxj0+s5FG5UKW3fLj8X0o9IAwCFpbnHQrTyf8XPQxEOYrendn3v3cut8aiiBcMzsEvVu65EGc2wiE7/3ennN/Plf3YsGDsEalo8OHXd20kHb+aoKwaAy0Wr2YgHAdA22tXk2BcE2QXd20cmobsBAPN+4tCIsDwe1tBNpZu14cCAthHGMxED5TELJmQZ/eKqiaD8RzQRDGjnV1+d6CMDYzEeY0A315fyMF+vXhYesgZoggopjJLBn6un6zeNCJnp4EBpAe6GYZwtzvtTsJaPfjkwSTG6Tbdry726PODg76e4JwPXV+zPeNQD9qd6Mgu3qDFrKAP64gxORoqNYsdCwN+h1s5T7Q5r1WQaEGIUMEYezc0JDvT/b2Jouf7u/3PUHIIHoLwplLgaQo2tVNC38sBjrV15dAbs9eSa71FcMxBSE7hYIUhQU0EzzQCmLWDgSkWUKPBfAK0CwRo+dMQbjefn1NQAsJJhMIT0gMxNcBQPjFmMsDzeycGRjwPQ8+YmR42PeaoYzZQauD7Dnio0wQ7hXEDKFqA4Y40tnpx/DaKAxEFMZxHgiy7zCAeNYQRysV32MuqrSCiLKrR1oAxbbNgjBXH3uCuLUYZ636tnErAaEG5ahDaZBum4LQ6zsMGAsiano8nK+WQXjK/gXCYhjjYVYQzxqzw0LaNshuG8YVxPPCpwj3BHEutza1ZXs1KHcdim2bgnCt7zBmx2YIc1GD2gbFtk1B+EwrtIL42kB2CgCh1atts1CMhgXhf2kFMXKASiWW9WZhgRo8P8hOIaCszSKzYBn1uf+pWWQs7HcOdfsLpWJi+UbzFmYAAAAASUVORK5CYII=",
     "wiki_name": "Dual sai",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dual_sai",
     "equipment": null,

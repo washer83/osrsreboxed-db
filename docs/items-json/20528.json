@@ -1,7 +1,7 @@
 {
     "id": 20528,
     "name": "Survival token",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-08-04",
     "duplicate": true,
     "examine": "This can be used to claim items from vending shrines.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABu0lEQVR4Xu2Wy0sCURjFvbgNQopCxXxhYoqPQS3xVZQgtAiihdAiCIJoEQQtAkEQJAha1CJoGbRv0T/4xZlpHl11bMLvuunA2c7349xv7rk+37/YJOinFypBo+YenaUSdByNUCcUXCScoOtsmh6qpTF3w0Gqra2qhJsOM83MUH8DKsZiHFCCBqWcZyD7COcuQXeF7NhAN59vJmjJ7+dKSdBNLjM21M29RNSCYQHCry4PdfPRRpgrHcgb0GUmRdpKgBfo86RH95Ui9YvZmcuN/WE8LlOC3nfr9Nqo0uO2RqNyYSrcaTLOmY5T9i0MsKedsg6GK+E2v6XDDRttuipVVAFBcrEKHWqo5XWwfq1J2rrRbwqAhHUsMpRs5v2BbBjTF+mk9XvLIMphnMZTBG1fCCx/g7HKHcbp/WjcSkn+ypz0exjYfKwxAXmDwd3DWqbywFl2pjNnIG+9BWOpmWAg7y9D/GFMRwUZnYW+kgdPsrIi/ei06KVe0WtBhlCYjlPGzYu0MHjSExY3tYJ0bBlDBL21a3paKFDsF5YePoyEVKUjy0gLUEjm+aBLg3pLbTqyzLScXhiMUyYEB8wX2f2Qf8Rn3OkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuUlEQVR4Xu2WQUtCQRSFnX/gT3DXKpAgIkRQQkKUUBJF5YkWmmhFghAEQSC0CIKIIIgWIYJIBFGLaBUtg/7TjfNezzeN+uyFd9x04Kzvx5k7c8bn+xebBP30XCVoUN+js2ScjmNRaoVD84QTdJ1J0UOlOOJ2JETVlWWdcJNhJpkZ6m9AwUCAA0pQr5j1DOQc4cwl6C6fGRno5vONOC34/VwpCbrJpkeGurkTjw1hWIBw1dWhbj5ai3ClA3kDukwnyVgK8gJ9nnTovlygbiEzdbmxP4zHZUvQ+26NXncq9Lhl0KCUnwh3mljnTEeW8woD7Gm7ZILhSbjNbZpw/Z0mXRXLuoAgtViFCdU3ciZYt1onY9XqNw1AYngsKpRq5v2BHBjbF6nE8HqrINphZOMrgrbPBxe/wVjlDiN7P8Z+u34PA9ufNSYgbzB4e1jLVB04zXI6Mwby1lswlpoJBvL+M8QNYzoqyOos9JU6eJy1FelHq0EvtbJZCyqExnRkWS8v0sLgcV9YvNQa0nFkDRH01qyaaaFAsV9YevgwGtaVjiorLUAhmeeDNvVqDb3pqLLTkj03GFk2BAfMF6y5ES6FNIxqAAAAAElFTkSuQmCC",
     "wiki_name": "Survival token",
     "wiki_url": "https://oldschool.runescape.wiki/w/Survival_token",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8375,
     "name": "Wooden workbench",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNUlEQVR4Xu2U7ytDURjHLUl7qckyGaZNY9msbaxMVmilkFpIIRESoSVSiqSUF0pKSXnrrzz6ntOz+9yzc2fza17cbz3d3bPnPs/nfJ9zb1OTK1euqskj7NEQWQCdvmYR9DeLUKBFDARb/hpKQQCAIAgkFmotxy+7ZbnBAXQI7hLuE2EC+xGZITgAGpogdPe+CWVB6C6gGYUJggD4sxR1jtByw+QCIh2thLjciDkC6Ae9xhFWQnAAE8RYzGsEwP8mgIu1IXG8FBWrM32iMNop+yV6e01QHkcINOVFORgHQHCHuHNXm8PisDgglqd62LgUjCMQ6KtB3O4kKgBoTHouAG624vK6vxiRzz6XMtIdDuIAAymg+/2krfDd3ogNAIFGfI1ysY581AAoasIVrOfiXpFPesXuQrjamHQpG1EQgeIojF3htw4AF7Fz5D4cpOT1bHVI1ijmg9IZgCB3csQvHdqcDdUDBHnE+/W4BEATDkAQBPB4lBJPJ2mZy8/F4kS3BOFrGCty6QzVDYSGsBdnQAd4OR2VobsFCFx5YI3H/HjX14DQGPbjXKH56/mYeLvIyhHOZgO23SOQr7uiB2p88qqbpIAAQfPGN4PWAURFERgPnKB7/vbooefonavIvjO8KZmorww0nVJA23P95a+tvbGzaskxSt8ZIAgoF+8Q6wXl3hd3/BNSI8OZysba63Lll6SASiuDcnwEpGf9oRQQPpLJSNt/AIKsg97AUdnV4HPjylXN+gAdl2put9MCUwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xu2UXUsCQRSG9R945U03+xNEiJAIComQIpTCMFGyECMKKoKoCKJCqIi+qOiDCAkkIoggIiK66ndNvDMc9+w4a9qHdrEvHNYdz57zzHtm1+fz5MlTLfmFM1oiG6AzHBDRSEDEuoIiHg02G0pBAIAgCCQZa6vEH7tlu8EBdAjuEu5HBwjsV2SG4ABoaILQ3fshlA2hu4BmFCYIAuDPUjQ4QtsNkwuIsUQ1xM1O0hVAP+h1jrAaggOYICaSlhEA/5sASlvD4nw9IYrzfWJhvFP2C1mWCcrvCoGmvCgH4wAI7hB3rrw7Ik7X4mJjtpeNS8G4AoG+FsTdwWgVAI1JzwXA7V5KXo9XB+WzL5c56Q4HcYGBFNDDccZR+P4o7QBAoBFfo1ysIx81AIqacAXrkylLzGQscbgyUGtMupSNKIhAcRTGrvBbB4CL2DlyH0+y8npdHJY11mai0hmAIHc6HZEO7S7GGgGC/OKjXJAAaMIBCIIAns6y4vliTObyc7E61SNB+BrGilw6Qw0DoSHsxRnQAV6vxmXobgECVx5Y47Fc6P4eEBrDfpwrNH+7nhDvpbwc4WK+y7F7BPJ1V/RAjS9edZMUECBo3vhm0DqAqCgC44ETdM/fHj30HL1zDTl3hjcllwhXgOayCmh/qb/ytXU2dlc9OUbpOwMEAU2mOsT2gnLvmzv+DamR4Uzlk+0NufJHUkCXm0NyfASkZzVRCggfycxg6D8AQfZBb+GonGrxufHkqW59AvD35P5q/asXAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

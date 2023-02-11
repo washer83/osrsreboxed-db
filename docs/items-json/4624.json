@@ -1,7 +1,7 @@
 {
     "id": 4624,
     "name": "Golem program",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-11",
     "duplicate": false,
     "examine": "It reads 'YOUR TASK IS DONE'.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xu2W30uTcRjF3y9diDdeddWVf0JX4oVB4YVaIUomM0vGMjNNG5opYwxTmwzLTIdZNsawltaY9sMfJVKKWPRPnTqPPTqnkcb7JS/eAw97r959OOc8z+Y4njx58vQ3GWzPsZBBItaNh6GW31CHGWsySD8JIT7QgdFwK6J3AygsKECk8xrCtxvR2+pDT0s9goFL6PTX4tbVaty8csEWlEH2+QMkR3oEaCzSJjD3g00Cw2fCdDdfluf2phqB8ddVwFd9zgaUwVw8gunhLjwduoOJ/vYdl9QdgigM3VGY2ooyVJ0tcRPKYCERw8vHfShyHBlC0aVY3w1xiUC5UR0Ec7q4WCb/7UeUwdKrcWSmBgWIkbHUz6JBiY7lVkgO3QnUV9qCoQw+pkYlLn6hQml0dElh6BI/G2vK7cF8mp3E/Iso3k7273GCLhFKXRrs8kuXmn3nUVd1xg7Ml/mkxEUgbhihZifCOPkLKPWoV6DUpeF712X9GdfF8lK3YSiD1cy0xPU+OSJQ7BFhFEqHG0eX6BDLbAVm/cOMxEWHCMUto0uEYp9ygTg8AbxD7I8C5b/1H2WwtTIncRFoOR3H4swYTp1wdqAYHaF4tRkdu0SXuPZ6BF0F2lx6jbVsQiJTlwil0RGOw+i4dewSgbjyLsdl8H01i43FNL6+S21DvZnaF51C0SVC0SVGxoPoujs/1hbw7XNGXGKPGF2uUwf1idFxy/SH1EUgKv+vg5G4dNvUIQXSPvHnw+W4dqUv3X35fkjeHx5Fdod3KNTWYMOdP+swkFbcOYryIf8rjCdPx1k/AWtHhoiUU3cRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xu2WTU9TYRSE7/sP3LPp2pUblv4Y40IXygZRCcSUVFHSVMq3TUVo2gBWGqBIsRaa1lKbUuRDUCLG3zJ2Dh5bC0Yg940s7iQnvavbJzNzTus4njx58vQvGRzPpZDBeiqKxVj4F9RZxpoMSssxZGbHsRQfRvJlCL62NiQmniE+3o+p4QAmw32IhB5hItiLkafdGHrywBaUQfV9EvmFSQFKJ0YFZjYyIDB8Jkx00C/PYwM9AhP0dyLQfdcGlEE5k0BuPop3r19gZWbst0vqDkEUhu4oTG/nLXTdueEmlEFtPYViehpXHUeGUHQpNR0WlwjUHNVpMNd8PpnWt59TBjsf3qKSnRMgRsZSZ5MRiY7lVkgO3Qn13bMFQxl8KixJXPxChdLo6JLC0CV+9vd02IPZK69iM/cGldWZP5ygS4RSl+aiQenSYOA+/F237cB82cxLXATihhGqvBJHex2osDglUOrS/Kvnsv6M62HHTbdhKIP9Sk7i2sovHLtU7xFhFEqHG0eX6BDLbAXmcKsocdEhQnHLxKU6FPvUDMThCeAdYn8UqPWtF5TB0W5Z4iLQbimD7WIa1684DShGV4fi1WZ07BJd4trrEXQV6NvOBg6qaxKZukQojY5wHEbHrWOXCMSVdzkug+/7VRxul/C1VhCozx+zJ6JTKLpEKLrEyHgQXXfnx0ENR3sVcYk9YnTNTp3WJ0bHLdMfUheBqNa/Dkbi0m1ThxRI+8SfD5fjakhf2nj5SUjeHx5Fdod3KDb62IY7f9dZIK24cx61Qv5XGE+eLrN+Amnw3uO5S+RqAAAAAElFTkSuQmCC",
     "wiki_name": "Golem program",
     "wiki_url": "https://oldschool.runescape.wiki/w/Golem_program",
     "equipment": null,

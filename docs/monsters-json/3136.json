@@ -1,7 +1,7 @@
 {
     "id": 3136,
     "name": "Werewolf",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
@@ -28,10 +28,10 @@
     "slayer_masters": [
         "vannaka"
     ],
-    "duplicate": true,
-    "examine": "Down, fang!",
-    "wiki_name": "Werewolf (Level 93)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Werewolf#Level_93",
+    "duplicate": false,
+    "examine": "He doesn't look pleased to see me.",
+    "wiki_name": "Werewolf (God Wars Dungeon (2))",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Werewolf#God_Wars_Dungeon_(2)",
     "attack_level": 77,
     "strength_level": 76,
     "defence_level": 85,

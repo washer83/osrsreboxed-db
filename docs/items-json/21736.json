@@ -1,7 +1,7 @@
 {
     "id": 21736,
     "name": "Granite gloves",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-10-26",
     "duplicate": false,
     "examine": "Never take these for granite.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbklEQVR4XtWWbUsbQRRGnU+iiFIUi4qNVVSqYmqpTaVWA8FWrVRDELX4///GlDPjM7k7JGmTdFd74TKz2d2Zs899mUxM/B/mfO/5s5jzOztbPoI4v7i48DR/NnO+Xt9NQKsry2F8v7aWfsvfKMm0mfOHh/U039x8m+YfDvb9+vqbKqDiZnNzs2Gzo6OPaQ6c5o3GQaZYaeb8t7PTAML8+PiTX1p6nYC2tzfCNdDKqZKBMOcfHzu+VlsJQIQKkJOTz2HkGpdaFQBhMXQAMaIOYWLkGtiZmelqgVqtr0EVoAghDhSVB9DU1GS1QJeXrQAkKFxAhKxChWJpA9RsfgkuMAGRSxXlkAubMZ6fN0PYLJQFqqjKYnnT9ACiBeAWjKRW+Q8G6jbY4vVQFpVhY9RgLjBB8TtnnE3sfBV+46OAVmjVLno/P9Dil9ze/vRXV2chlwQFENW2t/cubDg//6qHSvF9VFTi8zydHUApOxSYPUAtFECqOFVbcXEXcg1oQs9IiO2/BvlIalkwKSal2JAvB4xNeUa9S0Dc032u5YJh/f452Nec//XQ9u32RVDKho58wgWjahQQILmrigWU7/YXVswnAalhct+2CNvdddzkrqIYOmTRXFDHAmlz7uWtIT9qchjcKjSyStY7nR/JAZErXArlIKAxYKJ1F4hAqHZ9/T01TCnUL3/sB40NU7SYUwIilAKSSjpiyBWSGGdOVQooX3UMc/7+7iapZIGUS/pngDJAWKgSgLCiShZIUHk/Asb2n3zFMa2rkgWyZ59tAf+osv5kRSibtL1cICXByCJUvmE/z98uyUoNw2j2omDKst8+HKnM3zw6vwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcklEQVR4XtWWa0sbQRSGnd/hl4AfBEEQQUREUIoUUcRiUYIo1mItGgJeaq2GIFXxZ488M76Ts0OSNkl3tQcOM5vdnXn2PZfJ2Nj/Yc53n7+JOb+9vekjiPPz83Ov8zcz5+v1zwloZXkpjDO1Wvotf6Mk02bOHx7W03xj42Oa7+/t+rW1D1VAxc2mp6fCZsfHB2kOnOZHR3uZYqWZ8xfnZwGE+cnJF7+4uJCAtrbWwzXQyqmSgTDnn5/bfnV1OQARKkBOT7+GkWtcalUAhMXQAcSIOoSJkWtgJycnqgVqNr8HVYAihDhQVB5Atdp4tUDX180AJChcQISsQoViaQPUaHwLLjABkUsV5ZALmzFeXTVC2CyUBaqoymJ50/QAogXgFoykVvn3B+o02OL1QBaVYWPUYC4wQfE7Z5xN7HwVfuOjgFZo1S66P9/X4pfc3//yNzfnIZcEBRDVtrPzKWw4OzvTRaX4Pioq8Xmezg6glB0IzB6gFgogVZyqrbi4C7kGNKFnJMT2X4N8KLUsmBSTUmzIlwPGpjyj3iUg7uk+13LBsH7vHOxpzj89tnyr9SMoZUNHPuGCUTUKCJDcVcUCynf7Cyvmk4DUMLlvW4Tt7jpucldRDByyaC6oY4G0Offy1pAfNTkMbhUaWiXr7fbP5IDIFS6Fsh/QCDDROgtEIFS7vb1MDVMK9cof+0EjwxQt5pSACKWApJKOGHKFJMaZU5UCylcdwZx/+H2XVLJAyiX9M0AZICxUCUBYUSULJKi8HwFj+0++4ojWUckC2bPPtoB/VFl/siKUTdpuLpCSYGQRKt+wl+dvl2SlhmE4e1cwZdkLWKc/rMVFqgEAAAAASUVORK5CYII=",
     "wiki_name": "Granite gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Granite_gloves",
     "equipment": {

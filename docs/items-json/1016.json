@@ -1,7 +1,7 @@
 {
     "id": 1016,
     "name": "Black skirt",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Clothing favoured by women and dark wizards.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgklEQVR4Xs3Wb0sUURQG8N0XvmgJJQwWfCHWJ/CblCgqKUpFhhKBJIYsipqI/xBkrUhRMERlqRVBUpQiP9mNZ4Zn9szxbDt3d5S9cJjZmTt7f3PO3DuTyTR/yzo7rPN33rJuvdDrVmd6glj++NwtTT0LgojDrZfuYHPU7W+MGCh9Ew3DQxBRADE0Zm9t2H1dfhEbGL9xTkcc5YXMus3ZvlsobAFhEPR5adBtzfcHfbG1QOgv0b9LBXd19KE+FEHYZ3YI2lkZCkDsWw2E665PZtzf8oK7KX8KQBiju6srCD26amHaedcEYVANkneNKC4OmKCj4qsYCPsE6dFVy8bKAAQfbvyWIPTN5x+69vaca2194HK5luCYBSp9eZMeiFnCMQ3q6GiLoXAMZdSgn9/GIhDCC8TnQoNw5wSh39Mnj11n56NEoNPdt3HQ8XTjIBwHCCFBMkssmwad7Y2nC0KglBamFggZ/XXwLgL9+TEXYbxBEoU/rwVi2TTo4vt7E6RHr9IqU9gXhLBAl4eT9YLCaYsMWSCJ0aBqZcNNSJBcFPXoqoVT3gIhLJBG6bIhO6mCiEJUA+mZJsuWKkhmCVsfEMsG0Mn26wiEVZqYRCDMMAvETwxgfEDIDl4bMkMJs4NWAennCMfrBeG1kRqIqKQgPdMAwiotQUTp0Y0Wgqyy1QvCZ8f5/kQEwhrksQ7FQbJsviBO/YZBmGVNCdJlw3H9XVwr8PxgyksQ1iDvdcgqG0G4Y+xj5vErAKs4F09cxwURfVMBWWWTIJyTnyUShH58f6UAQrudeiskRoYGYVGUIIYHKJPhsv6/0EAZfH8hO6mAkjaNTIJlVPreU9NIK/Q1Td3+AaBWA72tZUFrAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xs3WXUsbQRQG4ORPeB3IRUEohIAXXnjlhfQv1SJ+0JZKFUvFQhWVKEZbbCvit0LEGvtBUdvg3xl9d3mTMycnzU6yLRk47GZ3NvPsOTuzm8n0fss6O6zz/7xl3efSmNtefRbFx5VRt7X0NAoizndfu8rOtDv78spA6ZvoGh6DiAKIoTGnn166ww/PvYHxG+d0+KggZNbtrI03obAFhEHQwdaU292YiPpia4HQX6Jr1ZK7vVjsDEUQ9pkdgo63X0Qg9m0FwnV/Llfd3ffyQ2xGIIxRyOWi0KOrFqedd00QBtUgedeIvfKkCbrYm/FA2CdIj65a1isDEHy48VuC0Hdw8JErFvOuvz/n8vm+6JgFqh7MpQdilnBMg4aGHnsoHEMZNejbkQSVw0B8LjQId04Q+j0ZGXDDw4VEoB8nbzzQ76/L3YNwHCCEBMkssWwa9PP0bbogBEppYdqBkNHrykIdVLtar2OCQRKFP28HYtk06KbyzgTp0Vu0xhQOBSFM0Pn7TkHxtEWGLJDEaFCrsuEmPJBYFPXoqsVT3gIhLJBG6bIhO6mCiEK0AumZJsuWKkhmCdsQEMsG0OX+rABt1jGJQJhhFoifGMCEgJAdvDZkhhJmB60B0s8RjncKwmsjNRBRSUF6pgGEVVqCiNKjGy0GWWXrFITPjl9n83UQ1qCAdcgHybKFgjj1uwZhlvUkSJcNx/V3cbvA84Mp74Ee1qDgdcgqG0G4Y+xj5vErAKs4F09cxwURfVMBWWWTIJyTnyUShH58f6UAQmtOvRUSI0ODsChKECMAlMlwWf9baKAMvr+QnVRASZtGJsEyGn3/U9NIK/Q1Pd3uAShJ8ubqJeQMAAAAAElFTkSuQmCC",
     "wiki_name": "Black skirt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_skirt",
     "equipment": null,

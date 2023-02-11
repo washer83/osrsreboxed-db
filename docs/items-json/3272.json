@@ -1,7 +1,7 @@
 {
     "id": 3272,
     "name": "Cave kraken",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4Xu2TPUsDQRCGc4RluUYbG7HQyiIBFVFEsBBUgh+FRiKeQSVo1KhRAxGCpggqHCGFIgbRKliLrT/Fxv8y7swac7t3asRYuS+8bD5md57ZmQ2FjIyMjIyMjIQsUP3n+iqRBSODYeiPhCERYzAYDX8R2xJZlGhqNCiRBSmHkacnwhDpDVHMQE8PWY1tqSyoui5kF5nSmtw2h/wuh+yGhIrPMIh0Syj9BLWl37ZXDwraIL8Xjw4hnWAwJtpUOuZwfWjDxQGH4g6HVNx7k6oxPjHOqKjCJofydhpiw0NBUKLSNU7GTegRMQ84C415UJ1PcXAmGdRObALJLDPo72onR6MdMNYn5ymbZPTfakyumEM/65P2qkEP1ZsPSKwIV6wq74jflji1xxG3cZe3KWlcwEU728jPT0+QnpM3Udrj4J6ewkp8wQfgtQYjpQbIzVfnZ+T7SgXcHIeSuJniO+SFAKzmbALF6l9fXmhNiTlCIIzNrK8Hgui5m5IXrO7bcpmSVTIcLvdtAsLV3ZKwmXlGrcQWtQxEVQMGW4O3gUYIHGY0fkZAdCHJCRiH1wujn/pDNSCcWTk/WDmuOBP4ouowQUD6zein/1AWPV28BWwBtgJnaDOZ9LXvM7ewRfI5Bz3NeiJcH2u1QHth9JN/IX+V/or9sH8EI9XMwTpoM3uMjP6t3gA0b7PMSfN2oQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBElEQVR4Xu2TPUsDQRCGc/8g1TbbXC0INlY2NrY2CYiFIgGxEVGCH6CRiGfQEDQajRoiaAJR4UJAxKhN7MTOXyH+i3Fn1pjbvTMmGCv3hZfNx+zOMzuzoZCRkZGRkZGRkAWq/1ztElkQmwjDeCQMyTiDiWi4TWxPZFGihemgRBZkHEZenAtDZDREMQO2TVZjeyoL6q4L+XWmtKawz6F4yCG/K6ESSwwiIxJKP0Ft6Y/t1YOCNsjv5dMTyCYZzIg2Vc443J7YcH3MoXzAIZPw3qRqjE/OMirqfI9DdT8L8anJIChR6Q4n4yZ0TMwDzkJrHlQXMxyceQaNC5tAcpsMxof7ydHoIMyMyXnKpxj9tx2XK+bQz/qmvWrQU/3uCxIrwhWrKjritw1O7XHEbTwUbUqaEHDRoT7y68sLZFfkTVSOOLilEmwl1nwAXmswUmqA3HxzdUl+rNXALXCoiJspf0JeC8B6wSZQrP797Y3WjJgjBMLYXDodCKLn7khesKbvq1VKVstxuMnbBISrm5WwuVVGrcQW9QxEVQsGW4O3gUYIHGY0fkZA9HmKEzAOrxdGP7VLtSCcZTk/WDmuOBP4opowQUD6zeindymLni7eArYAW4EztJdK+dr3nXvYIvmcg55mMxGuz41GoL0w+sm/kL9Kf8V+2D+CkerkYB20kz1GRv9WHyC97GydoPHbAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

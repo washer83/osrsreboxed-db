@@ -1,7 +1,7 @@
 {
     "id": 27521,
     "name": "Stone tablet",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-11-30",
     "duplicate": false,
     "examine": "An ancient tablet found in a ruin beneath Kebos Swamp.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xu3WUWvCMBQF4BYZIshEEERkU5QJOnEbDGQw2P//VXccw6G3t0kKS1JfFsij5vOcm9qq+l/ZVy3dfbdVy+nrJE/HZ1ntVrJYL2S+mt8LVcvxepTD50H2H3vZXXY3FECzxWxoVN2CYG9eN62UGlRxWIOxoPXLugWazqcyeZyURHVrIoag5WbZQeFz79ttCVQbRBQwGGyAUBtRhUHuRhGkUyKIt82mVKi2BmRrY2U6pcK11XL+Pt9AOiU7RwPW5kBEAYRDAAIiBkJKBW5bLZeftxYIByElCwrVRlCGlBxGg3RtBPDK+1JibePJOEdK/SB720KgTCk1denKYs8jX20EZUipC8JhIZAvJT1HBCWk1B5ogoDBgb6rb+eKCQFTBMR0AMIBIZCtLBsoND8hENMhiHVlqywEQl0E+dLRt0yDEgc7Doqlo+fHB/pjSuH/sdjtGgTUl06oLoD0cygRhOXejYmJvXr0gYgaPYxS5qiq3K9xMFuXLx39QLQgfg++MyEltzQsNsz2BQ3bQpIxemkYth1mDcIuBrGrOcDBWBdBNhX7+aLLpjZYKn1LI1Ihv1QvuOq9Qm/KAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABu0lEQVR4Xu3WMWvDMBAFYPsfZOqSxVugEPCSIWRJKRlCSiCkJJRCh0Lp0P8/X3kRD5/PkgyV5CwVaEz05b2T46r6X9lXLcN9t1XL+essT6dn2ew3stqupN2090LVcvo8yfHjKIf3g+yv+xsKoOVqOTWq7kGwd6+7Xkodqjisw1jQ9mXbAy3ahTSPTUnUsCZiCFrv1gMUPtc2gGVffRBRwGCwAUJtRBUGuRtFkE6JIN42m1Kh2jqQrY2V6ZQK11bL5ftyA+mU7BxNWJsDEQUQDgEIiBgIKRW4bbVcf956IByElCwoVBtBGVJyGA3StRHAK+9LibXNm3mOlMZB9raFQJlS6urSlcWeR77aCMqQ0hCEw0IgX0p6jghKSKk/0AQBgwN9V9/OFRMCpgiI6QCEA0IgW1k2UGh+QiCmQxDrylZZCIS6CPKlo2+ZBiUOdhwUS0fPjw/0x5TC/2Ox2zUJaCydUF0A6edQIgjLvRsTE3v1GAMRNXuYpcxRVblf42C2Ll86+oFoQfwefGdCSm5pWGyY7QsatoUkY/TSMGw7zBqEXQxiV3eAg7Eugmwq9vNFl01tslTGlkakQn4B/sRq0gDIFrYAAAAASUVORK5CYII=",
     "wiki_name": "Stone tablet (The Garden of Death) (Kebos Swamp)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Garden_of_Death)#Kebos_Swamp",
     "equipment": null,

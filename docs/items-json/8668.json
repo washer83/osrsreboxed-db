@@ -1,7 +1,7 @@
 {
     "id": 8668,
     "name": "Banner",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with the symbol of Kandarin.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4Xu3Wy0oDMRQG4M5j2FUVKojgpVS6KUVREdSFKIKbLvtaLgR3pcXLIKL4akf+qUfTk4zG5Myl0B8OyQyZ9OvJLKbRWJwkFF9qSei0v0nngy262N+mq8NdujnpZnPcP+pt0MHeOg067WyOddfHHRqe9Wh02c/WYp0iKqG7taZVdgd8KzpuUEjdrq5ooHRAwGDEfjutVgwqHgRMbUAmBlUZiCGu7pQOcmFMkPyFgPijJKYykERITOmgt8cHC+PqTimg9+enDPQ6nToxJkjuHJjfQcDwmI7H1YDQlY80/e4M38M1V4EgZB51/zWiEwxgmOwOrpVBdocYZUIwf5lM5kB8fIWD+MiAwXvDQPPYzBe8cJBZro7Iqh2IUXLnwOiBlLq0YCAfzBLkA2KU3D0guiCFLuWDZv/YLgkpDPTT9lnxN46sPJwSCMlHyJUcF+6vZ/4VH0ReYp6tTT4BH8vtD3CUIwYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABX0lEQVR4Xu3Wz0oDMRAG8O6b9BG8i2cpiCAIItIivRSKilJQQRTBi0dfSBAvpbUuan2fKd/W0XSS1TSZ/VPwgyHZJZv+OtnDNhqrk4TiSy0Jnfd26bK/R1dH+3RzckB3g042x/3T7g4dH25Tv72VzbHu9qxN9xdderjuZWuxThGV0FNrwyq7A74VHTcopB431zVQOiBgMGK/tWYzBhUPAqY2IBODqgzEEFd3Sge5MCZI/kJA/FESUxlIIiSmdNDH5MXCuLpTCmj6OslA7+OxE2OC5M6B+R0EDI/pcFgNCF35TNPvzvA9XHMVCEIWUc9fIzrBAIbJ7uBaGWR3iFEmBPO30WgBxMdXOIiPDBi8Nww0j818wQsHmeXqiKzagRgldw6MHkipSysG8sH8g3xAjJK7B0QXpNClfND8H9slIYWBfto+L/7GkZWHUwIh+Qi5kuPC/fXMUvFB5CXm2dpkBgICm1QHy4o5AAAAAElFTkSuQmCC",
     "wiki_name": "Banner (Kandarin)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Kandarin)",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 23834,
     "name": "Weapon frame",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "Could be used to make some kind of weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIElEQVR4Xu2WwSsEURzH5zVN00wbbUR2wy4tWbK4uHB0QDkooTg4SJKDkhwcHJSDg1IODlt7UA5KOTg5KClu/qSf+b7n7ZsZO3bXjhllv/ULs8++z36/v/d+q2lN/T8x8lasYvSeGKfXrQMqzi3TkdkdNxSjJ3uUbqxBOjZ7aNVop4JuxwnF6NBM06nZSxtGJ83qScprFgcay2SihmIcBK7AnV0jxX+PFWjb6KJFo40WHGckVExAIqolxxHA4O8Lq68MFTGQigruyONesgbKUJEDbToNDHfQxGpzBRXh8We074sKMBLo3s5zqHMrG4VLjE4+7xoZlYJRayTUmSmg1GuhKygq7xpclIAqWrmANaHou6j8YvTsQN3ZQ3Rl9f+GS7VE5Rajt0SBO3XrQAmgUKFqiUpKTX0MXVRpfoVySXk9NCwRFdwJjkpBIKpHe8RTuAbwgSYaH7qsPMG/RqUgHuxhPu0rFRobdxLeY0pvqeJuVYlZ5Y5K1rVzrC+dhsV94y64gUbG62hqCSS/CfwQSGzqjwoAGBmYYe7ChnAS9w7WuMEBJEeJhKkTSNwjeCP5PQc/4RQ+JQr9gMKzPTPlGhPeTd3Rep/VJcaP6svaDk2ns9xmFFxCoZcQIcCCIPybVnpWh8QkR1zrRgeHmdQTvCFn9NaaIUKUaGTZO/JkRAzhljjq8nQBKKeZHhj/f0Qg5YjfGf/KyOSPJlaYpv66PgCQT9K5OwZcXgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIUlEQVR4Xu2WwUcEURzH5/0Hc5rLXIY5LBErkmTZJCutlE1Z6dKlrh0qHSIVdehQUockERERiURZEUl0SZK99J/8mu97vX0z0067205vor787O7s253Pfr+/935rGP/6e2IUrETF6C01RuXNfbqeXaJDuztpKEbP7ijdOoN0ZPfQitVORdNNEorRgZ2lE7uX1q1OmjHTVDAcDpR28KhVjIPAFbizY2X480SBtqwuWrDaaN5zRkIlBCSiWvQcAQxenzt9FSjNQCoquCO3e8kZqEBpB9rwGhjuoInVzRWUxu3PaC8UFWAk0INb4FBnTk6HS4yOP84aGZWCUWsk1KktoNR7sSsqquAaHJSAunLyEWti0VdRhcXoxYO6d4fo0un/CZfqicovRuVUkTt150EJoFih6olKSk19DF1UaW6Z8ml5PDQtERXciY5KQSCqJ3ckUDgG8IPGmx+6rDLBP0elIB7dYT7tqxUaG2cSvmPSbKnhbk2JWeWPStaNt60vvIbFeeMvuIFGxvtoagkk/wl8E0jcNBwVADAyMMP8hRvCSZw7WOMHB5AcJRKmQSBxjuCL5P8cPMIp/EoU+gGFa7t2xjcmgjf1Rxu81pAY36qvq9s0lc1xm1FwCYVeQoQAi4II37TatQYkJjniWrM6OMyEmeINOW221g0Ro0Qjy96RO0MzhF9iq8vdBaC8YQdgwp/QIOVI2JnwSm0KR5MozL9+u94B0YQSoYRpnrkAAAAASUVORK5CYII=",
     "wiki_name": "Weapon frame",
     "wiki_url": "https://oldschool.runescape.wiki/w/Weapon_frame",
     "equipment": null,

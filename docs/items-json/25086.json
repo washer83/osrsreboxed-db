@@ -1,7 +1,7 @@
 {
     "id": 25086,
     "name": "Graceful boots",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-10-28",
     "duplicate": false,
     "examine": "For your graceful feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaElEQVR4Xu2Vy0tbQRTGM/tSKBWDDU2MIQk1YjTU0IBKQDRoXQSUSBso9EGhUoK1UFcuRKSLglBciLpwI1HRFkqftJv6l532O7dnMrmm6Y2Z1M09cMjNncf3m2/OzA0E/PDDj0ahyP3mEkPR1usFcqA6AtbqpIrebpTo3f5T+nbywjaUe7VeJ1dU3XlEP96/4jFDvb0ex3kKRUd7j2n7zX1aXZ7xCKVoc31eO2QdCKv9VF2kL4fPPQo4bn49rrTorKdQtLtZpg8Hz/QWNBdRlAp31eVKpdCk/4XC2bbvpy95YhGqhxNBRdlED6Wj3efSOpRsQSYW1CKmEwKWHwjTRDpCU8NRTjwnQ9e57d/b3VIo+vlxjR3I3bpBY/0hFsNvvOeaBpq+3adzNhuj4p24bu8IkNsB5M2uKyw4Nhii8mRKgyyXsrRYHKYHhYHOAJ19XmcACCIh9uRumkr5JAvCOTgzl0vQvfF+hsJ/LAJt1usINzBAIIjVL82PaKCpkSgLAwAgAIIzxdE45YfClEkEbbtUc0C2pDSaZMdQV9HgVa4ncRBtyIfTgzQ3nqCJTMQ2EEJx/YhL5XxKu4D6AbC0CxD6MfyfbbUIpPTJEiBsC0QBNZuLsVOybWg3gTAG7y3VkXPhNQJCslu/TxfupmZA+MWWWoCqBzJPkrgkJwr9ICo1hn4CJ/0sQDk3NMQESE4S6kiEIIw2qSXzAJjtcqG2AeU4ZN7Q4oAAiVviFPpgnHmRAg7PmEc+N20Uee1DajogK5eEMKDhqDmmUQKmDaBAoDbB+ckbpfRvlm6NC4d74r+le5wffvzP+AU8JCxEd9QmqgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xu2VXUsbQRSGM//EO6FXIogEKaSEECQhpBiUVCIJJSgSBBVbISCmtIGCrYKiaKC96IUigogItoIgVmzpl+2Ff+fY92zPZLKmcWMmerMHDtnsfLzPvHNmNhDwww8/6oUi95t7DEUHOy/IgWoLWLOTKtrfLtGX4yW6ON+wDeVerdfJFZ1+fEN/vr7jMV0dHR7HeQpFZ0dv6XD3FX2oPPMIpWhva147ZB0Iq/1xukK/Pq96FHDcvDhba9JZT6Ho016Zvp0s6y1oLKIoFe6pyfdr0w363yqcbft9XuGJRagWTgQV5RJ9lI72XkvrULIFmVhQi5hOCFhhMEwT6QhNDUc58ZwMdXPbzdvdVCi6/L7JDuQfP6SxgRCL4Tfe16WBZkb6dc7mYlR8GtftbQFyO4B81NPJgmNDISpPpjRIpZSjleIwvZ4ebBPQzy0GgCASYovP01QqJFkQzsGZuXyCXo4PMBT+YxFos15HuIEBAkGsfn0+q4GmslEWBgBAAARniqNxKjwJUyYRtO1S1QHZktJokh1DXUWDD7iexEG0IRdmhmhuPEETmYhtIITi+hGXyoWUdgH1A2BpFyD0Y/h/22oRSOmTJUDYFogCajYfY6dk29BuAmEM3luqI+fCqweEZLf+ni7cTY2A8IsttQBVC2SeJHFJThT6QVRqDP0ETvpZgHJuaIgJkJwk1JEIQRhtUkvmATDb5UJtAcpxyLyhxQEBErfEKfTBOPMiBRyeMY98bloo8uqH1HRAVi4JYUDDUXNMvQRMC0CBQHWC65PXS+nfKN0atw73xP9L9zg//LjLuAImD57DNfhTfAAAAABJRU5ErkJggg==",
     "wiki_name": "Graceful boots (Trailblazer) (Worn)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Trailblazer)#Worn",
     "equipment": {

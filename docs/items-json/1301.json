@@ -1,7 +1,7 @@
 {
     "id": 1301,
     "name": "Adamant longsword",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A razor sharp longsword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmElEQVR4XuWWT0sCURTFfQwiM7gURKQUJUMTNTH/QBBBEIHUFyiodbQuqC8QEUXbKCJaBEXRPigK2kXRFzp57vTyT9RyrtCBy8xiFj/OOfe9CYX+pwz8UZcPkillUJwuakMZpCZSKLQKqM1PCUwlnZYZ/DIA+TClmTJaSy1UZivfQINfBiCD5FhSnGm2mzKK7hgkMgnkG3nUF+oCw6eSOwbxVBzZySyqc9UfMCpA3Cb2ZShgWGKuNkHUYWyJud7qMCxxrpaT3qjDxJIxKTHPG8IQSmmjqO6VwKiUT2ODkfyo9IauqMOwxOwNV1wdxh5+NipVGJaYvbFRKcJQ/uHHe4pRDcUNbldcwR37y+kPDz/FqAxWlsPY243g5NiVEvdGFTAMZVAuOX1QN9eeRGUdCxCGMmg0HCy2Hayt9kM93Ht4e41+gQWqjkvxDtS4g53tCA72u0AqkRHi6tLDx3sUR4euvN/devJUiWxrM4KzUxdPjz5A7wTuzsZ6WFx5eY5KTL0QAcNYGVycuxKRgiO/SSWevzVUMJr6BBQkWKWSIa9QAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABm0lEQVR4XuWWP0tCYRjFfb/BnVxcLtzBtcVBXIxwEEMSQ9FQUpGGCIIIrC9QUGutRc1RSFuFNYRUY/SHhqi+yMnz3N78EzXeR+jAw73DHX6cc573vaHQ/5SBP+ryQdLFNAoLBW0og9RsCvlmHtWVeYGZcF2Z0S8DkA9TXCyhud5Eean8DTT6ZQAySE4nxZlGqyGj6I5BIp1Arp5DbbUmMHwquWMQT8WRmcugslz5AaMCxG1iX8YChiXmahNEHcaWmOutDsMSZ6tZ6Y06TCwZkxLzvCEMoZQ2iupfCYxK+TQ2mMxNSW/oijoMS8zecMXVYezhZ6NShWGJ2RsblSIM5R9+vKcY1Vjc4HbFFdyxv5z+8PBTjMpgcyOM46MIzs9cKfFgVAHDUAalojMEddP1JCrrWIAwlEG97mCt5WB7axjq4d7D22v0CyxQ9VyK96BmHBweRNA+6QOpREaI7rWHj/coTtuuvN/devJUiWx/L4LOhYunRx9gcAJ3Z3cnLK68PEclpkGIgGGsDK4uXYlIwZHfpBLP3xorGE19AgTTjH3WoIG3AAAAAElFTkSuQmCC",
     "wiki_name": "Adamant longsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_longsword",
     "equipment": {

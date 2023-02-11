@@ -1,7 +1,7 @@
 {
     "id": 13630,
     "name": "Graceful cape",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-02-04",
     "duplicate": false,
     "examine": "A sign of your grace and loyalty.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWklEQVR4Xu3V3WrCQBAFYPdeIqIYotSfSBXaC4sXQh+h7/9Aq2eHs46bhSqyEykdGJIb2Y8zs2Yw+K+/Xc5Lv0Q5P/2e+tFh/AoowYyPkwj6Wq+tURyPC5DJSRrvaOOUBIE00ERoVLtc2qOqz1FEEfa+2USYMUpARDExjcLTEOX8arHopEQUIFh0oAyXPJ+SRu2324hKf12grinppPjOlIDqZXTp+JhS+9NaogSEw3IojCvALijDJRdUc2o6KH3rDFEC0qh0dABhn8xRAKUo/S9umNRtSmgcSBAai61RBov+GAptiqqPdXimC94L6m0+D6BqX92FCmMsh+qCfkPpT0yh756gZodZROmbh8OJYn/sdrage1AFQSjnm7r2w3aYRRGkUcVBSAmggLpAiEJjiTWImIIglKSEBk6DiJKbZYJBXUE5lIYYYFiSAFGEGKbSLTlUED2lkq9nIWceI8SQEzc+8wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4Xu3VwWrCQBAGYPdNvAkBIQgiIQgWKRIsIrQXDx48+Ah9/q3/Dv863SyolJ1IcWBILrIf/8ya0ehV/7ucl36Kcn5+nvvpoX4GlGDq4yyC6vHYGsXxuACZnaTxjjZOSRBIA02ERnXrtT2q+ppGFGEfm02EGaMERBQT0yg8DVHOv69WvZSIAgSLDpThkudT0qj9dhtR6a8L1DUlnRTfmRJQg4wuHR9T6r47S5SAcFgOhXEF2AVluOSCak9tD6VvnSFKQBqVjg4g7JM5CqAUpf/FDZP6nRIaBxKExmJrlMGiP4ZCm6KaYxOe6YIPgnpbLgOo2ld3ocIYy6H6oFso/Ykp9N0T1OKwiCh983A4UezP3c4WdA+qIAjlfNs0ftJNsiiCNKo4CCkBFFAXCFFoLLEGEVMQhJKU0MBpEFFys0wwqCsoh9IQAwxLEiCKEMNU+iWHCmKgVPL1V8gPrMI1om9+6GEAAAAASUVORK5CYII=",
     "wiki_name": "Graceful cape (Hosidius) (Worn)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Hosidius)#Worn",
     "equipment": {

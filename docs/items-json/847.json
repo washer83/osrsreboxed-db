@@ -1,7 +1,7 @@
 {
     "id": 847,
     "name": "Willow longbow",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "A nice sturdy bow made out of willow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYUlEQVR4XtWX3ysEURTH5/wDpGSzG9YK8eTFgwfFg4dta2pDW4pIIhKRh60tRRRtyQOlPCl/59F3TrN37tl5vuf61K2ZO1Pz6Xt/nUkSD2L/3hTi/sMci1QUYsTtZpMPOhV+uW/EIEa8m6aZFK5vzqf4uWcu5kttro/y1WnNWsyXQuu0J/jiuMaP3dmCWFC5YSm0nXR8IPbxumArtVKvD8Qw8fO0pD8YxNutlvow8dbGWJaUgRBwUsU+DN/b03zoYcvRUsRrqyPZ1mCakpZCSr9fy3YpYZJrKcyln8+luKRO9qv8/b5oK+XPHeKjvUmLvSnHSRX7sB2YrrwyKTRXxgSnXOrssKqGNChaSobOUAgMS7nKwASpNp2UHMDmKenKoHc7Y5kSKJ55xN3raeuUgJPCWXd3KVL6rcA4KcOKQCMrDz8JaBGkBETKsLosQ3buXEo/NUJWHRKKJKUkiUrmX/MHM2MhQn9tTNgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYElEQVR4XtWXTUvDQBCGM/+k54LQi5QihYpIEUUU/4AXwYMePJRSKEUKBUURFRWlCIUiSkERPRTxIv6xkTdDutlpzjvrAwvJJpCHd78mSeJB7N+bQvz+vM4iFYUYcbfV4tN+jV+f1mIQIz7udFIpXA9vlnkyNhfzpQ73F/j+qmEt5kuh9btVvr1o8MuomRMLKjcvJX2LM7Hp26atVKVUmolh4mdpSX8wiHvttvow8dFBJU3KQAg4qXwfhu9jshF62DK0FPHebjndGkxT0lJI6fdrxy4lTHIthbn0M92OS+rypM7fn1u2Uv7cIT4fLFnsTRlOKt+H7cB05RVJobkyJjjFUtdndTWkQdFSMnSGQmBeylUGJki16aTkADZPSVcG4+GqZUogf+YRjx5WrFMCTgpn3eOdSOm3AuOkDCsCjaw8/CSgRZASECnD6rII2bkzKf3UCFl1SCiSlJIkKpl/zR9AZEhuSRHxygAAAABJRU5ErkJggg==",
     "wiki_name": "Willow longbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Willow_longbow",
     "equipment": {

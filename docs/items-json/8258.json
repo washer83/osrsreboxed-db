@@ -1,7 +1,7 @@
 {
     "id": 8258,
     "name": "Spiral staircase",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgElEQVR4Xu2X/0tTYRTG9xISi+F+KAgVmxkmmTgVzSSTwYjMRFljhLVsxBhm2RhjDLPGGGPDChFF/HNPPedytvfedYPIcyXwwMO+wO774Tzny7tQ6DJUw9DfSTUMrU9dodj1EH07+Ert9j61WnvUbFap0ajwe3x/eFin4+Mmra090YZygAajbiARwGyodPo5A02PjGhBGXox3Uc3Ig6QVzYgPr/aTOkDZWb7+MB6vUyf9z5Rtfqxo2w2zVlZWUnQ8vJDmp2ZovHxO5q2OUBHRw2ukZOTFr/iMyzK5V5SJrNOq6tJSiQe0fx8nCYm7mplyekaAAnM6WnbBZXPv2abNjaeUjL5mBYX52hy8p4GkOHDOAO/gATm7OzAam9/AebcgVAjxWKeCoU3nVoRa+xD/eR94j+GoVqt1IFCtmwoBUsketMtwuD7sl+kcnmbdnffuaCUgAwfWKns8IGwBjWD9hUtLMxQPH6f55ByjSAMT1rMF1hTKhXow06Oa2Rp6QFL2rg/7AAp1gjCuPaSZAvtCxi0MLIzNnbbBeR9yjmFYZuQEbyicCVDqJWtrQzPF2QLbR8IkAD4AWECw7LAgGCPHxC6KZV6xnspICCEoR/fay557zxYCQCSLlMHwoK0JVCAwfxBgQcKhCVpCwsTMLAT1qHbbCBHqtE7oUXvt9/yfBIgZGt4aFAfyh52jiXOwEQtwUIBwjyKRvuDsM4bzsCUa6oAxWJDFIlcuzggKXABGhi4SeHw1R5r3VKL7iEChNWC+fQ74e/P6OgtXSipJxmM2He4DdgCDFYM7kiwNAA7u0AocowCudpivdhA0oHKQAhvnfir26nK4R0Nf5L3t/9F/ARXVtBkQ5H0AAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACh0lEQVR4Xu2X70tTYRTH9/wHvfJNby70YiAMIuhFiGDECEnCMJQphilmyBhEZiprjKhMR2yYrbEx5o+xsTErRdH/7tT3XM723LtuEHluBB34sh+w+3w43/PjWSTyP1TD0O9JNQytT12h+I0IfTk6pE7ngNrtPWq1atRsVvk9vj8+btDpaYvW1p5pQ7lAwzEvkAhgNlQm85KBrjuOFpShV9MDdDPqAvllA+Lz2zdpfaDs7AAf2GhUaH/vM9Vqxa42NzOclZWVJC0vL9DszBSNj9/TtM0FOjlpco2cnbX5FZ9hUS73mrLZdVpdTVEy+YTm5hI0MXFfK0tu1wBIYM7POx6ofP4d27Sx8ZxSqae0uPiIJicfaAAZPowz8ANIYC4ujqz2DhZgLh0INVIq5alQeN+tFbHGPjRI/if+YRiq18tdKGTLhlKwRKI/3SIMvsODElUqO1QsfvBAKQEZPrBa3eUDYQ1qBu0rmp+foUTiIc8h5RpBGJ60mC+wplwu0KfdHNfI0tJjlrTxoOMCKdYIwnj2kmQL7QsYtDCyMzZ21wPkf8olhWGbkBG8onAlQ6iVra0szxdkC20fCpAABAFhAsOy0IBgTxAQuimdfsF7KSQghKFvX+se+e88WAkAki5TB8KCtCVQgMH8QYGHCoQlaQsLEzCwE9ah22wgV6rRP6FFH3e2eT4JELJ1e2RYH8oedq4l7sBELcFCAcI8isUGw7DOH+7AlGuqAMXjIxSNXvt7QFLgAjQ0dIsc52qftV6pRe8QAcJqwXz6mfD3Z3T0ji6U1JMMRuw73AZsAQYrBnckWBqCnT0gFDlGgVxtsV5sIOlAZSCEv06C1etU5fCPhl/J/9t/Ir4DzLBFxumT3RUAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

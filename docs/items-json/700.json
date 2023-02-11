@@ -1,7 +1,7 @@
 {
     "id": 700,
     "name": "Chemical powder",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": false,
     "examine": "An acrid chemical.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABl0lEQVR4Xu2UzUoCYRSGZ+7ES2jhwha26QZc5jb6WUbURkSwXzExSzMrUcRMRSQxm0IMUStFQoPoft46Z5iY1KIfdSi+Bw4jfovvmXPeM5IkEAgEgn+LjP4yDBkRrxe5eByJUAgnPh8mzWYjxWSUshlULooonKWQiUZZjCT3NtaNkJLRbtTxcHeLRqUCJZfD+WlywAjHOs7eC2VMmEz8pC5F/X64V1cwa7dj2modplT/xYOKZDQhGqWSzyMbiyEWCLyNUT3/FTK2HQ7suFzYXXMjuLWJsMfDIab/l+bnMGOzYcpi6enAZ8I/Rt0kan08uI9k+ADp4yMOcCpyyCGmMxL0OJ1YXlzQCUiSJqCv3hu+icxrTWEtptO8VRRe+p1PJPiMBPViNBrq5vtuDQ01CzeXJVQVBbXrKy7Ox6sYCdLK68WGOJ6PkHm1O817rlatxmtOgiRWLhRYjsT0IiOS0VDf+rnbxWO7zYLNapXF6uUyd23EXelHW2eqp04H3VaLxejjOHYZPXqxMeTl6+izYriMQCD467wAv2t6ojiU3vUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjklEQVR4Xu2Uy07CUBCGe96ER/CJ2BAT4sIXYClbI+6MuiCQoBIQRBAQCCC3CFgFCZWLpNEH+XWmqTkCGi9Ao+mXTEo4i/N15p8qio2NjY3Nv0VgtixDIBONol4ooJhK4TIWw7rTaaWYQLtWRbfdQvOqjGoux2IkmTg+skJKYKxpeBw8QOt2odbruC6X5oxwpeOcvlBgzeHgJ3UpF48jdHiAba8Xm273IqVmL55XJGMK0SjVRgO1fB75ROJtjMb5rxAI+/04DQZxdhRCMnyCdCTCIab/93w72PJ4sOFyTXXgM+EfY2wStb6QPEcpfYFKNssBLmfSHGI6I8FIIID9XZ8koCimgFzTN3wTwWtNYW1VKrxVFF763SgW+YwEZTEaDXXzfbcWhpGF+5s2eqqK/t0tF+fjVYwEaeVlsQWO5yMEr/ZkOOAa9fu85iRIYp1mk+VITBZZkoyJ8dbPug59PGbBYa/HYlqnw11bcldmMdeZ6mkygT4asRh9HFcuIyOLrSAvX0fOiuUyNjY2f50X+z2cROaj9FEAAAAASUVORK5CYII=",
     "wiki_name": "Ammonium nitrate (Chemical powder)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ammonium_nitrate#Chemical_powder",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4088,
     "name": "Dragon platelegs",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-17",
     "duplicate": true,
     "examine": "These look pretty heavy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xs3WyWsUQRTH8R6GIUQkJ09ezMWLF8WLFw9ePHhx31eiRImIEBQlBMUlBDcCIS6oJBAJMQSNCKKiKPqXlf3tnt/Mm2fNlmklBY+u9NRMffq9quokydpvpRCP2Of/vJXC4/FD4eHYgSwmb+4PE9f3ZSHEwvRQmJ86F+aenI2g/EP0DM9BQgFSeMzso9PhxeTJhon5m898NKK6QpbC1K3Df6G4AlEI9GzieJi+czQbyzUGYrxF/1geD98Wr60OJRB9ZUegVw9OZSCNbQbie9+XxsKvlbvh98r9DMQc2wYHs/Czu5anXU8tEJN6kH1qYubesShoceZ8A4i+QH5210oNZQChxc3fFsTYTeUkbExjQ5KEgTT0MB60/Hy4OJCyxD0POrKuEvb0l8POvnLYWiln9yijB71/ebEGIroCaV14EE8uEOPOpJgTaexNQbtS0PYWoA+vLzWC3t7oHcR9QISyc7A/j90paEcaWyp52Tzo4+xIsSCCUloQmaFUIOgDYk15EBn9PH+lBvr57nYN0zXIovhxC2LNbK4uaspFn8UdA315czUK8rM3afUt3ArEGmJBg6GvjMVAXxdGVwvKty0ZagcCQrkokzJEtjyI8RZkD0U/u2v5lo+BCA8aWl/PCn0WN7vNgshOoSChCCbgxGUC+soSmeHabEEXBrJZ4mpBwuj80baPgZaeXqiBOKWF6QjEDouB9DqwIM4hQHbb+13GWF4bNkMdZodWB/l1pNPXglgzrB9Kpr49GFUuXhuFgYTiPhPEMsRLlT5l0wvWgjilLUgoP3uk5aBY2WIg3mMg6OtMsuXS+E9zl2sgzqAuzqFGkC2bBdmXqxDD1W1vQcB7BrHL2oGYjLEj1XNIfcrmy1UYyJeN+x40OtBXywp9SqjfEIgtb0GcQV2fQ7GyWRB9dh7jCU5x9bUbNbYQUKxsFsRn9t8S+jrNGWfXT48gWv6k7cJibHgQh6IFKboAJYmO9VbhgTbs+ikE1GnzyE6wivrY/9Q8Mhb+O2u6/QEcM0vlw6YVAQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xs3WuW8TQRTH8fV/4MpNGksUSKloKCnp6KgoaGhoaCgoOBXuQwEFBYEUEEQBkQSUQBSFcCSSo5BwCXFF/DvDfnf9s98+xokdLygjPXm8Hns++97MrJNk57dKiEfs83/eKuHFxLkwM34mi+ePTofpB6eyEGJlfjg05m6E5ZfXIyh/E33Dc5BQgBQeszR7Nbx+drkwMe/5zEcR1ROyEuYeD/2F4hWIQqDF6Yth/un5bCyvMRDjLXpjfSL8WL2/PZRA9JUdgd7OXMlAGtsJxPd+rY2H358m05jKQMyxp17Pws/uWp523bVATOpB9q6JhckLUdDqws0CiL5AfnbXKoUygNDi5r0FMXZ/NQn70tibJGEwDd2MB60vjpQHUpa45kFDu2rhRL0ajg5Uw6FaNbtGGT3o4xsLmuwNpHXhQdy5QIy7lmIupXEyBR1LQYc3AX1+d7sA+vn+Yf8grgMilJ2z9TyOp6AjaRys5WXzoC9Lo+WCCEppQWSGUoGgD4g15UFk9Fvjbgu08eFJC9MzyKL4cQtizRxoLmrKRZ/FHQN9b9yLgvzsHVp7C28GYg2xoMHQV8aioJWx7YLybUuGtgIBoVyUSRkiWx7E+ALIHIp+dtfyLR8DER40vLudFfosbnabBZGdUkFCEUzAicsE9JUlMsNrpwVdGshmiVcLEkbnj7Z9DLT26pYBTbUwXYHYYTGQHgcWxDkEyG57v8sYy2PDZqjL7NDaIL+OdPpaEGuG9UPJ1LcHo8rFY6M0kFBcZ4JYhnio0qdsesBaEKe0BQnlZ4+0HBQrWwzEcwwEfZ1Jtlwa/3X5TgvEGdTDOVQE2bJZkH24CjHS3PYWBLxvELtsKxCTMXa0eQ6pT9l8uUoD+bJx3YPGBgdaWaFPCfUbArHlC6D0DOr5HIqVzYLos/MYT3CKq6/dqLGlgGJlsyA+s39L6Os0Z5xdP32CaMU/7Z3CYmx4EIeiBSl6ACWJjvXNwgNt2PVTCqjb5pHdYBXtsf+peWQs/Hd2dPsDgJw0dy+awKEAAAAASUVORK5CYII=",
     "wiki_name": "Dragon platelegs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_platelegs",
     "equipment": null,

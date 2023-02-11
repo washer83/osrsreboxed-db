@@ -1,7 +1,7 @@
 {
     "id": 7407,
     "name": "Dragon 2h sword",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "A two-handed Dragon Sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xs3W3UsUURjH8V3CC6M/wisvuurKGwuCLiSErIyKXrGwMCqIohApehHpDUHshQoFQ0ykjCAqiqL+stN+z/Cbfebp7LbjTuGBh5mdOTPPZ5/zslurbf5WD+lI3f/nrR4eTY2GB5MHYszc2B+mr43EEGJ5biwszZ4Oi49PJVD+S3QNz0BCAVJ4zMLDE+H5zLFCYj5zz0cRVQpZD7M3D/2B4ghEIdDT6aNh7vbh2JdjCkR/i/6+NhW+rlzdGEogzlUdgV7ePx5B6tsKxHPfVifDz/U74df6vQgix46+vhg+u2tZ2fWtBSJpCjR/90gO4jwFWpk/UwBxLpDP7lq9MAwk0uTmsweRHISGtxVo7dl4dSBViWspkCopEFUThPdxfPfiXA4iSoE0LzyI5B5kJ7QH8a5L23ri8f2r80XQm+vdg7gOSChV0q5IgXjPeAOzr3dLPP+wMFEtiABgQX5C86zCYuj7aeliDvrx9laOKQ2yKIYhBRJmooEgwBBc4xn6fn59OQny2Vu07FuSrB1IE5q+Yw2A4mBvEyPQl+UrGwVlexAV+htIVdQQaZg0VALR34Lspuizu5Yt+RSISIG4LpAgvjqVgoQiSMCOSwIta2F0znPCVA6yVeJoEQR7jK0M1UqBVp+czUHs0sJ0BGLlpED6i7Fn164YJ7f2xNAE1rB6ENXhZ8NWqMPq0JogP4/s7rt7cDCupr2NyhCtQBoufjYqAwml3XdkaChi7ARmBYJRJT2IXdqChPLZEy0DpYZNIGJ0eDhWSZh2IBbBx8ULOYg9qMQ+VATZYePe9v7+HOUxKRDV6RrEKvMgru8cGIhHEpBMPxkepLmm4aoM5IeNexoCEpLcD5dAvEMglrwFsQeV3odSw6YkgDhvB7LzpxJQatgsiHsgUiD62fnTJYjWnLTtws8fhQexKVqQogSoVtO23i480IadP5WAOm0e2QlW0ez7n5pHpsI/s6nbb2hHki876QakAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2UlEQVR4Xs3Wy08TURTH8fY/cMW6iQu3/iVs/AvYIAvjhhgiKvERn0GDwWCiRgkaCxpUQhBBSEoQfMX4Iv4743zv5Dc9c7ytHToabnIy05k7cz4999HWage/1ZN4xO7/81ZPXs5NJIuzZ0M8f3QmWXgwHkKIreXJpLV0I9l8dT2C8l+ib3gGEgqQwmM2XlxN3jy7XEjMZ+75KKJKIevJ0uPzf6A4AlEItLpwKVl+eiH05RgD0d+i93bnku/b9/eHEohzVUeg9cUrAaS+nUA893NnNvn1sZnGfACR42ijEcJndy0ru761QCSNgVaaF3MQ5zHQ9srNAohzgXx21+qFYSCRJjefPYjkIDS8nUC7q1PVgVQlrsVAqqRAVE0Q3sfxw5oFNcuBNC88iOQeZCe0B/GumSMD4fjp7e0C6Me7h/2DuA5IKFXSrkiBeM9UijndOBTOP29MVwsiAFiQn9A8q7AY+n5tzeSgvfdPckxpkEUxDDGQMNMpggBDcI1n6PutdTcK8tk7tOxbkqwbSBOavpMpQHGu0cbkoK17+wVlexAV+htIVdQQaZg0VALRvwAym6LP7lq25GMgIgbiukCC+OpUChKKIAE7Lgm0rIXROc8JUznIVomjRRDsMbYyVCsG2nl9y4Dmc0xPIFZODKS/GCdHRkJcOzwQQhNYw+pBVIefDVuhHqtDa4P8PLK774nh4bCaTqWVITqBNFz8bFQGEkq77/joaMDYCcwKBKNKehC7tAUJ5bNHWgaKDZtAxMTYWKiSMN1ALIIvm3dyEHtQiX2oCLLDxr1jg4M5ymNiIKrTN4hV5kFcPz40FI4kIJl+MjxIc03DVRnIDxv3NAQkJLkfLoF4h0As+QIo3YNK70OxYVMSQJx3A9n5UwkoNmwWxD0QMRD97PzpE0RrT9pu4eePwoPYFC1IUQJUq2lb7xYeaMPOn0pAvTaP7AWraPf9T80jY+GfOdDtN9/6igW6ogVtAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon 2h sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_2h_sword",
     "equipment": null,

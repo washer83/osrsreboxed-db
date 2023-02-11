@@ -1,7 +1,7 @@
 {
     "id": 27018,
     "name": "Smithing catalyst",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-06-08",
     "duplicate": true,
     "examine": "This makes smithing easier and more rewarding.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADlElEQVR4Xu2V/VNUVRzGvZM/NRXR9DqYS1SgiLC8C6SwLOBKwvImGwi4a5IxMOxoGxIDSLzIJrsKggtsC7iwLoUMEsRI6lg6k1P6R32696ywtNlQmu1O8cx8f7rn3PM5z3m+52zbtqUt/T8k4a+gSyJu925io6NRRUSEApREfFQUe1Qq3goPF0DqyMhgQslAce+Ql5nIq2FhoQCkSCJZ/T47Il4LHaD0lF1Eqt4MBSAJrSYNzYFEYmNUoQWk3vtusIEkcrOT14FSk2LYFb0zmK3vA+r9vB5r6wnam6pprNET9tLzwYCS0OWn86HuA65ODXJltB9reyNmUymqt9/glfAXH0H9K2AS+ZokxuwdeCYu4HYO4LrUg+1LM60NBkp1WSTtfY+Xw15g+/bnNkBtfGIC64klUVqUw7QMocB4Jy7iHj+Pc6iTS1YL3RYTTceKOZy/j5T4aAG1tuhR/SGWxm1cu9jFZLeFopwMclITiInc8TRgEmXFGgEz6x7GKx+Xx2Vj4nIPo/Y2hs59RktDJcbKAgq16ah2vi4WMhnK+XHOzW3v16y4BlkY7sPd18JIWxP95uMUZCSjSVU/xrlNIX1AZfpcGWiIGdcAU2NWGagXx8AZbGcb6TDX0GzSk/DoGvjk2FFOGmt4eHOJ+8tz3JmbYmViiEXHV1TkH0CfmynGGQq1eAfaKc/bLwD3xcuPdtRf6lofuaE8T1RlmYaKkhwq9NkUF2agy0shIy12fYeVOg2GQ7lUFGRTos0SRxXowt2FGW4p7smgXlsnY52n6Gs+TqZ6j/i+6d3mGxBorb8UiKrD+SI3ihOLl/u5dqELj/ULnF2nOF1Xji4rdX18fc1HfFxVgfFICbXlRVQX6zhyMGfdvU2B1qQMXCtlooAoKRQ7XXU7WJ0ZZXXaIXJzfeQcc/azIjujHWYGWxo4YzKgTUv8w4Y2lv//f1u+8N6dn+bedY98DB5+WpjmzjeTAmrZaRdhnj3fzmSvBUd7M3bLSXqajLSdqGZ/UhwZCb6j3rjRJ4RRJAe4rpoHcngf/PAdv64u8svKPPcWvNyedXHjyoiAmh/sxmttw9V9WnTZwcwUtOl+l54SIlASnxprRVcp3fXw1jL3v5+XXZNDe9XJjalhOVNW5pQ89bf+LuD/gCN/Jt8CDaY6AVVfW8XPS9+Ke+imZ1zkS2lxpb2fMYhfayHfrJ45SKACw/m4Cpyzpf+0fgPmOoQe96S4cwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADj0lEQVR4Xu2W7U+TVxjGfb4vft4XF7cli4thdi8iblMatLIWWil9oQWLFOTNbg71E0tmNsziu1GmIiBgoWAtFArlbRZBioJCh4ITszn/lt/O8zRQ1rGwOV2bjSu50n44zzm/577v67Tr1q1pTf8PScSccElYjUZMBgMatToZoCTytFrMGg2fqFQKkGrjxkRCSXycpuJgkY2tKSnJACRLYuenH7L53beTB0i9cytbUt5JBiAJfVYGWdp0tm/bklxActsSDCSRrVUvAWWoU9mW+l4iox8FarxwnOba41w+9RUnv67ijQ2vJwJKwmTcg8Wko7/bQ8DXTEvdKc59e5T3VZvYvCmauH8JTIbR4PdcJdjdRm+nG39HI60NZ7l0opqjrkLsuTreenMD69e/tgxq+U9MvF9YEvvycwSIm/4eDwMBD31+N9036vG2XKTxYg2nvzlMVaUDW26mArV4aHlhPpHhHqb6OhjxXsNh0mPS7WZH6gf/BEzCUZCjwAz1eRnobRcta6Pn5jU6PZe40XKB2pPV1FS7OCIqtT0tehW4Sp08mRrjcTjEj6E+Hgz4GLvZxOD1y3TWncOm/wyzTrNC5VaFjAI5CowM9nZEW9bVQkBs7mutpa3+NFfPH+NMzREldfL6Lw+WU+Wq4PncDD9HJnkyOcpsKMjMkJ/iPCP7zQZlXWmBhQmxn9OaowBm70pHnfbRX4OSfcBpVVxSZMZZmCtsxJGvx27VotelL71hid3MgXwLxbZciix7lVbFV+Hpg3EeT4SYHQkyIao/3N6A78pZDJroP4hV77bogvjSxixDlO3LU+ZmetAv3MWkqGi46zohcVj9iWPY9+qW1h+qKOWLsmJcJUVUOh2UO+xiD9NS9VYFWpS8cNHygzJExf4CHt4OMjc2xNydYeUzOjed3Au0MyauiOE2kdCm72k+U4Mla88fXmi5Y/v/bUWH9+n9O6IFYRZEGxbE95/ujipQkR8C3O/3iTlpZVSkbKi1jkBTLV7RGvf578jJzEC/O9ai37/sC0kMcGUZvz6KCM/w7OE0z2anWJgOi/kY4dHtAQVqKuhlQlwVIx0NDLqvYDNosWZnvoyKrCRJSZRsOV3P5yP8MjspKjXOfPiWaGW/SJeYJ3EXjYt5Wj7gL6Eif6boAYc/r1SgDlWUibjfU+6h+fFbSpLkiMvxfsUgMS0O+Wp+5SDxih/OlRz/zJr+0/oNUCrBaTnn2usAAAAASUVORK5CYII=",
     "wiki_name": "Smithing catalyst",
     "wiki_url": "https://oldschool.runescape.wiki/w/Smithing_catalyst",
     "equipment": null,

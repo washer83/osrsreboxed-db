@@ -1,7 +1,7 @@
 {
     "id": 13279,
     "name": "Overseer's book",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-10-01",
     "duplicate": false,
     "examine": "A book left for you by the Overseer.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xu2W62vTYBTGE0opFRFKS8ta1m6WTtrJuo05J9tcZdZZN7pr5zqnONFPTv2iqHhlDJQxpqXOK1NQFEVUUPwg/nHHPKc9aXpRoYn1Sw88NHmTJr8853nfRFGa1axmqVSu/1oqDTlstF9T3G6jiE2pgGs4oMowArS8084CmKjBUAWgXgNMzK6wZB9qkGMaTE8P9XZ1Ubyzk2IdHbQnHK6CCWkuiXYptVpqCaRKo8PDnJ/NDS+t3/fS2qqH7t7xMFykvb0MBKoExAPgYXCuSSiVjh5KsB7lfTrIrRtuun7Nzb8H+vp0MOTI6Bi3tQizNxolt8vFQN1tbfVAqTQ5NsZ6+8ZPTx/7GMLjUVhXLpegAIobG4GwLTD7uuMM7HQ46gVSaSKZZH3+FKDv31rpxbMWioQVvqjo4gUXQ+ntKwLJrAMMsodjcMc00LHDo/TxQ4C+fgnQzx9BikUVhgqFCgIQnAIQbi6zDhIYCPkzwtQNhOy8fuXnlkHv3/kZEGMvt1u4XQDCL25sBMK+5Mvr8ZhxB6XSqfkMLUxN0ez4OE2nUpwl5AjhhnIPfXrAoaH+fh2KXdH2AVSZnbqBUk4bX3RpblYHAxTaeGRkhJcCKDE4yMLqLTo4MMD/RdsscQcwSUdBuDC0ODNNmXSa3ZJ2Ag4LJFZvI4wAWeYOQBKO0isis8OutwDtwDTmEGvTGscFCK8WcQzHW3w+8+6IM8bFDbME+t0+gCBpI45Z4E4JRgSXjDICwQ0jEMYkW9hu9fvNuoNSafPeHOXW51n5jeM1ASuBsI1MiXPIlUl3UCpnZevBgq4nuUUWwCToAiRQEMYRdhm3zB3cNK1pxlkIclbT9tYS63n+BEMCDucYAbEsYAZi1iHwmOom3ZGq/HYpQArgyaIACOcwDrgz2SwvpGgbVmYL3CmVPFXp6aohBW7t9iSt3pygS+fO0vnl0+zQ7mCwzKHK61tSf4MEzNWVFf27R2D+GVCt+hNgw2FqVbWLzbK+fgHpjsJ6C6HkoAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xu2Wy2sTYRTFZ/6DrLLJJuBCcBUCIYQQSAmhSEIxpFhiabEW22JjMdbYpi/SNrWKFd0YXSgWq5aClrYhxmoVHxQfFEH8g65zbnInk4cKmTFucuGQmW8mM78593zfjKJ0qlOdUqlW/7VUGnXY6JymhN1GUZtSB9d2QJVhBGjtuJ0FMFGbocpAAwaYuF1hyT7UJsc0mP5+Gujro0RvL8V7euhUJNIAE9ZcEp1QmrXUEkiVJsbGOD+7O17afuGlrU0PPXvqYbhod3cNCFQPiAfAw+Bck1AqXbmYZL0s+nSQjcduWl938+/5wUEdDDkyOsZtrcCcjsXI7XIxkMvpbAVKpZnJSdbHDwHaL/kYwuNRWA8fVKEAihsbgbAtMGfPJBjY6XC0CqTSdCrF+volSN+PuujNvp+iEYUvKrqXdzGU3r4KkMw6wCB7OAZ3TANdvTRBnw+DdPQtSD9/hCgeUxgqHC4LQHAKQLi5zDpIYCDkzwjTMhCy8/5dgFsGHX4KMCDG3h74uV0Awi9ubATCvuTL6/GYcQel0o3FLC3PztLC1BTNpdOcJeQI4YYKez494NDo0JAOxa5o+wCqz07LQGmnjS+6ml3QwQCFNl4eH+elAEqOjLCweosuDA/zf9E2S9wBTMpRFi4MrczPUTaTYbeknYDDAonV2wgjQJa5A5Cko/qKyB6z6y1AOzCNOcTatMZxAcKrRRzDcb/PZ94dcca4uGGWQL/bBxAkbcQxC9ypwojgklFGILhhBMKYZAvbXYGAWXdQKu0+z1Jhe5FV3FlqClgPhG1kSpxDrky6g1I5K6W9ZV2vCissgEnQBUigIIwj7DJumTu4aUbTvLMc5Jymg9Iq63XxGkMCDucYAbEsYAZi1iHwmOom3ZGq/3YpQwrg9YoACOcwDrhbuRwvpGgbVmYL3KmWPFX16RohBW7ryQxtbkzT/Tu36e7aTXboZChU41D99S2pv0EC5lE+r3/3CMw/A2pWfwJsO0yzanSxU9bXL8udTDMv/nHJAAAAAElFTkSuQmCC",
     "wiki_name": "Overseer's book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Overseer's_book",
     "equipment": null,

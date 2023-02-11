@@ -1,7 +1,7 @@
 {
     "id": 24551,
     "name": "Blade of saeldor (c)",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,9 +26,9 @@
     "release_date": "2020-04-08",
     "duplicate": false,
     "examine": "A magical elven sword, corrupted through the addition of too many shards.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUUlEQVR4Xu3VT0sCQRgGcAdEKNbdWtdNikgUPGRYBAXBXkLEiwRBWAiSRaZC4MXvEPSlX+fPzuzseHXnnUMPPBdX3B/vvLuWSv9xMgTMTxBDYFWtgEOoDHTTbGKjCLzXAg6aHpZdmJKYjsSwCSFOicBHlJ8OKmZZP1KgVxdA3+6AxFFJzKdX5kUC5TFzT4CQFjrDsKJj1ifHOQwrGkZ2WvMxMBmAdRL6fF9kLWIE4C2sqv5QgF79P6tAjICw3ej7B/ym7ObrtObECsd8UcimEapHWQfpAL3mr+wxBH7PIoWRx2LpaMyII9AX1uLRmKHLSx9h1oW3OxHLGBb6TnkZcNBz4GFMRCZ9t4zuYT5OYDYewpMGMr9dcAgkt20YJpcweuzh7ovE3F1d7CCsY/7OY3jonSoMAkKPAF13Yui2IqxdMUNyi+scyLyKFGemkwULswWZUyz+hDvECgAAAABJRU5ErkJggg==",
-    "wiki_name": "Blade of saeldor (c) (Hefin)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)#Hefin",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xu3XTUsCURQGYO9vENpFDjJ9DYOhhCsXLVxE0KZQXAgaxKxaxBAaZjmWULTpV7T0Lx7n3uv9mOO2uecueuHdOOI8nHMHtVL5j5dhgF8hDIOsvgceoQzorFajRjF4jg8FaHJQ9WFKcjoKwydEOCUGMzQdUsyicaxBqQ+gV39AclUKMwuqokSgImYeSBDRgTYYXnLMqnlSwPCSYVQncUiBMQDepygU50XVIUYC0qiuu8wBdu3vrBIxEsLPxl24L27Kb/6xLZ5Y6Zh5DvlqRfpRtkE2wC7+lD8Mg99OS2PUWhytBkeuwD6wDleDw+C9eSr6FuxOxDGGh8Hn4lGAXuIjiomoyHWspmP4yRL4ztL8F58B4XeXHAbJ8ArS5AamD33a86Iwo153B+Ecs75ow32/ozEECDsSNLhuw+3lOdVZweF/VUifJJwiCF8lijfTMaHCbAAGW0sUPiSpZAAAAABJRU5ErkJggg==",
+    "wiki_name": "Blade of saeldor (c)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
     "equipment": {
         "attack_stab": 55,
         "attack_slash": 94,

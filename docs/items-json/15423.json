@@ -1,7 +1,7 @@
 {
     "id": 15423,
     "name": "Snowy knight",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "There's a snowy knight butterfly in here.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRklEQVR4Xu3XWU9TURAHcO8T8TOwE5CICZsICKG0KEtLWVpoAUkMIipBBBGNwQgaTSRRMcqmKCIIQkAUwQcMKApiWARsoaVsfpa/Z465TSnVF3LKC5NMbtPecn6dOWdKDxzYD2EhwXXuSUiIiYhAZGgojoWH4XhUFBSxsVDGx+8FTII2ORmnjQZcOluM/OxspKmU/DmdWm1PN8IknNLrUHmuBAc9PPiVsriggCOL8vK2pRtQEkoKC+0QOQnnmFS9i2eKOCjcz08kSuKL/Q9UdeE8rpWVobq0VDRIwpHg4B0Y5yTI9fJy3LxciUB/f1FtkxAWEoKYyMgdABlxo6ICt69W415NDR7equOgo+wkHg4KEoGSEB0RjvjoaCji4viCdVeqeMqI+7W1eHz3Dlrq63mqEhKQwMZBZkqKiNZJdkySQoFklYovSjAZ8aKhAZ1NTeh52oqOxif8Hro3LytLDMgRk8Y+tZbNGwL0tj3DQEcHz8HOTp6ZWi00qalISUrCoYAAMSBqAcewIUgYWlTHPn2OXo/cnBwYcnORyx7r2bDMzsxERno61AweJApE1SFMelqaHaPX6TiCMEaWdKXn6DW6J0OjsZ80YSBaiCpAlXDEGA0GnnKVsjIyoNWoEcghAkAnEhV879hBrBK/t9axbrNg1WpGntHIk9rnCArw9RUFSuR7wrFdVosJ5l/zMJt+YmtzjQPpurm+ynN9dQX+Pj7uAdFmXlqYwdzsFBbZ1caqtEGQDRs21qy8cjaLWSBIqeRHmVohg2amJzA1OYbZmUmYWKUsK0u8fTZWGZt1GRbzEny9vcWATrIjT6Dmxgfoef0cwx/68HViFONjwxw1P/cdpqVZDls2LbBcxApLXy8vsaDW5kd41d6C3p52vHvbjZHhfnweH8GP6S+8fQSj/UWtpRHh4+kpBkRDUcMWcDzyfb0vMfS+F59Gh/CNVSuf/VNGI0AG0f0yRjyIHe+uzjYM9Hfh40g/x9hB7HVnkPNf3GW4BtHcedPdjkHWOpcg1mJBIAqJ7wl5KNKEJpAM2QMQhbQN5IxxBNGXqxtAFBKfQbSwM4aSf8EyEN0naEO7CudfrDtThrgB8zccF/xXOr9nP3YbfwAWq08Db8uF+gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xu3X60tTcRgH8M7f4Rvfe5u3gYJlaeKteXdeSCLTF2UvhIRAgzITwkwTU9MiQ7sQVpIzLzm3odlQsNS8b+6+ub/i23l+7ozjtnojv/nGB74M5tHfh+c55zl47txZcSsBoXMqJeB6dTWuqtW4VlWJupoa3KytRUN9/WnABNxtbMTjB/fR97QTD5ubced2A/uupanJnzDCBDy614KB7i5ERkSwT0pnWxtDdrS2HksYUAK62tv9ECmEk4e69/xJBwMpIiN5ogR22P9Ag8+68aq3F0M9PbxBAlKVyiBMYAjyuq8PIy8GkBQfz2tsAtJSU5CZnh4EkBBv+vvx7uUQPg4PY/ztKANdTEtDijKZB0rApQvnkZWRgZysLHbg6NAgi4T4PDKCrx/eY2psjCUvOxvZlzNxQ1wLHEYn+DH5OTlQ5eWxQwkmIb6Pj0M3OQnD9BS0mgl2DV17q66OD0iOKVSpUFxUxAALMzNY0mpZfup0LKUlJSgqKIAqPx/KxEQ+IBqBHEOHlpeVoULc2JTKigr2qS4vR1lpKUqLixkqOSGBD4i6wzCFhX4MHS5hpNB39DO6hlDSk8YNRIeUix0IxFRVVrLIu1QidjJJoeAMou74QN5DN9wuO9xO2xGoqioIlKCI4wO6kpvL7gn5uFwOK2xWE+w2s4hzwev1wOtx49DjgsftErEOxMfGhgdEnbCY92Da38aBeRdOsUsej5NhDn0Yp8POH0SjkEC7OxvY3lrD3u4mrFYzHGLHXCLsaIwOOGwWKGJi+IDokSeQZuIT9PPTWFlewOafVaz9XsaWiDKZdmC17LMR2kSc3XYAh9WCuOhovqBJzRfMzWpg0M/CuKRjsPX1FbFb69jf22IjpPuLRksrIjYqih+IDqCRqX0jM+hnYDQa8GvViM2NVVSLT5m0iySQhOEL8u0g7dw3LC7Osy4R5hhI3FdyUOBfPGGFBtHe0evEd9kPXUgQjZgTiEpgIGkpsu3sQ8jDQPTq4A+iEo6BAjGnAKIS/O+wQIwcRNdxuqFDVeB/rMGRIGHAHJX8wH8l8HfO6qT1F7stllcvf/QIAAAAAElFTkSuQmCC",
     "wiki_name": "Snowy knight (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snowy_knight_(item)",
     "equipment": null,

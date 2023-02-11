@@ -1,7 +1,7 @@
 {
     "id": 3981,
     "name": "Wilderness sword",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQElEQVR4Xs2W30tTYRzGfYmIxq6VvBAhnKCS86LoQuzC6qKrhcHSJo4xxPzRGGMcTDdkDIeuC5HmIBBEFokEu4guRhAmol0E/UlPe97T+bGzBt34PXvgyxmHd7wfnuf7fs/b09P9UjCrK6QwOfkAU1MPuwFK4fXSgi7+Dg8O6vKuEpRCqbSBRqOOp08e/XWoC1xi3ertxc3QMG703fEfyozJBCOUFV/rKl8gm5veHbKh7HfstQWzz1rXi6gVKh6NYnF+3nat3TkRKcRezGA3l0OteoDjyvsOMYpI4dnjaXwol3FyeIjPR0f4cvLJ7jHv6muUtaHCy0gEjXod9Y81fD09xdXZGVKpJN6uv5GCUhgJhTA+Oor74XEbLDAwoKtoGLqXCCUYneOQ07wKt/v7NVTw6jcCwyNIpxelXDLnUftJ8kCN3ZOMrpMUKpWSBgte/EIwPCHr1L/VbPZoxIbKZpeRySz5D7W3VzChfvz0QImPBUsK78p5/TEmlGGsaiheYXzoLTM2Fq8tuzs5BL9faii6xad1Sr3/vEY58RSLBra3120oOrW2lpCPzz2nkslXKBSyCHw715ERiu/y+bQsFDdjTNyYI2BrK6OhLKcsIF/iIxihCMGiU5sbKVd0gk65o0skZjWIBUewWGxGOj6lQRgTYVg8gXSNvcUIq9Ud6ficaHgjIMT+flE/6VKtdiAN5ETHuFaW49olN2j7R1tMzXt4PIq52ectIL7CsHc4MDnJBZu5k9xH3deoHLlj+h+YP5nHvuGRBQs2AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPklEQVR4Xs2WT0sbURTFfd+gq27cBLLItjuR4splSxCUFu2m0oVgobRddJMiJdpGDCFibRoSwlgTDJFoikgnFEFTqkIQIVKUNlD6TU5z3jh/MmmgG+/kwGXC8ML7cc59d97Q0OBLwaqBkMLc3Czm558MApTC+7UVXfx9JxTS5V8lKIVqdROtVhMvXzy9dmgAXGINj4zgdnQCt0bvBg9lxWSBEcqOr3tVIJCdTe/dd6Ccd+y1FavPuteLqBsqGY9jdXnZca3XOREpJN4sYLdYRKNu4sj80idGESm8ev4MX2s1HB8c4PTwEGfH350e86++QdkbKizGYmg1m2h+a+D85ATty0tks2l82vgoBaUwGY1iemoKj2emHbDw+LiuimHoXiKUYHSuQ27zKoTGxjRUpP0H4YlJ5HKrUi5Z86j3JPmgHjyUjK6fFEyzqsEiP38jMvNI1ql/q9Ps8ZgDVSisI59fCx5qb69sQV21fVDiY8GWwudaSX+MCWUYGQ3FK0wAvWXFxuK1ZXeniMiPXxqKbvFpn1L/P29QbjyVioHt7Q0Hik5lMin5+LxzKp1+h3K5gPDFlY6MUHxXKuVkobgZY+LGHAFbW3kNZTtlAwUSH8EIRQgWnSpuZj3RCTrljS6VWtIgNhzBEokF6fiUBmFMhGHxBNI19hYjrNd3pONzo+GNgBD7+xX9pEuNhikN5EbHuD6sJ7VLXtDej7aYOvfwZBxvl153gQQKw97hwOQkF2zmfvIe9UCjcuWN6X9g/gL3H/u5SmH72wAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

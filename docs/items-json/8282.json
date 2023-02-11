@@ -1,7 +1,7 @@
 {
     "id": 8282,
     "name": "Anti-dragon shield",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-02-11",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-09-23",
     "duplicate": true,
     "examine": "This provides partial protection from dragonbreath attacks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACa0lEQVR4XsXY/0sacRgH8DtEjhM5kY5kF1omOtShS0QNLyuWc4aUbRk2ZoVbw0FrbPthsB/2rz/r/VznXXfXT3Wfe+AhSdFXz/N8vpgkPXvI5P2N4ADAyc2sfv9YaDiAXCZBqymF0sk4JdUYJx4LQDmI8UGdEfjwhBoPTDwXIkqm2XGbRvs1/uu1hOQDIM1WizTVes4Gvd7YeG6UTNPDJpmNQiDk7e4uVUolyhoGqYoSNsiqzH679ABzPBhQStOouCJRRZdI1ySG2BkqaGBWfLNyMhzSSjq9BCHrmVh0oMnREa3qOoMAMXMx0u8qqCkRgabjMb3IZLgyw2KMXpXLtJ6KEPTp9AMPMRAY6JeFgtWyqEAXZxNaX1tjxGYuR3v5GLeRQUoEoPn5ORXzeYagSmhfw7ivUBSgr7MZtwnDjDlCtWyMDbIxQkDfLi95dtpZq2WoFm+KASDvOz4xgkHfP895ZaFNaBeWvzDQYa/qA/24/kL1apVB2CDxE4MuBIQD1Qv6vVhQo1bjlmGljfp9bp0QEK4aXtCfmxtqb21xZYDCkkfrhIAm7xo+0N/bW9puNrk6WPrYrXHYCgHh6uEF/fv1k+8+WPI4+VElYUP9cdTygbDKep0Ory5USCjo6qTjAyH3ul16X4kzxr1Lhw6an3YDQbgp9gsWBrMkrEKPgd7s7PDRAQxmSViFrs/MQBBahuoAg1lyg2yMcBCqA8zycqZYR0hI1UHItJj2AkFYZXzS32GMpHXi4/UhVgfxOAj7EBDOt1QHEhLGDpkOtsuMwofjG6uhq8sUCHHHw38ouFMwxAl3Fbzpfe1T4j9/mF7STkPPjgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACb0lEQVR4XsXYXWvaYBQH8OQb5Mqb3AS8EAKCFEKREahIkaLIRJlIUVCpKbYddc5iazcstsx1uIkDO9aLMdj3POv/pDFpkl61eXLgUKmiv55znhcrSa8eMvl/IzgAcHMvZzw+FhouIJ9N0nZapUwqQSlN4cRjASgXMTltMAIfntQSoYnnIkTJNL/o0Pikzn+9npQCAKTVbpOu2c85oIymvTZKptlZi6xmMRTy4eiIquUy5UyTNFWNGmRX5qRTfoK5GA4pretU2pKoakhk6BJDnIwUNLSqgVm5HI1oK5PZgJCNrBIfaHp+TtuGwSBArLxCxkMFdTUm0GwyoTfZLFdmVFLoXaVCu+kYQV+mn3mIgcBAvy0W7ZbFBfp6NaXdnR1G7OXzdFxQuI0MUmMALa6vqVQoMARVQvua5mOF4gAt53NuE4YZc4RqORgH5GCEgH7e3vLsdHJ2y1At3hRDQP53fGGEg9bfF7yy0Ca0C8tfGOisXwuAfi1/UKNWYxA2SPzEoAsB4UD1g+5XK2rW69wyrLTxYMCtEwLCVcMP+rNeU2d/nysDFJY8WicENP3YDID+3t3RQavF1cHSx26Nw1YICFcPP+jf/W+++2DJ4+RHlYQN9c24HQBhlfW7XV5dqJBQ0LfLbgCEPO716FM1wRjvLh05aDHthYJwUxwUbQxmSViFngO9PzzkowMYzJKwCi2vrFAQWobqAINZ8oIcjHAQqgPM5nKm2kdIRNVByLSa9UNBWGV80j9gzJR94uP1EVYH8TwI+xAQ7rdUFxIRxgmZTg8qjMKH4xuraWibFAjxxtN/KHhTMMQNbxX86X/tS+I/r+PTM+4P+hoAAAAASUVORK5CYII=",
     "wiki_name": "Anti-dragon shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Anti-dragon_shield",
     "equipment": null,
