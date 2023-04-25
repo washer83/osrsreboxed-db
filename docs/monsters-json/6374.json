@@ -1,7 +1,7 @@
 {
     "id": 6374,
     "name": "Gelatinnoth Mother",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-04-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-15",
@@ -18,7 +18,7 @@
     "aggressive": true,
     "poisonous": false,
     "venomous": false,
-    "immune_poison": true,
+    "immune_poison": false,
     "immune_venom": true,
     "attributes": [],
     "category": [],

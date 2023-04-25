@@ -1,7 +1,7 @@
 {
     "id": 12373,
     "name": "Dragon cane",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-04-25",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -30,7 +30,7 @@
     "wiki_name": "Dragon cane",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_cane",
     "equipment": {
-        "attack_stab": 42,
+        "attack_stab": 40,
         "attack_slash": -2,
         "attack_crush": 60,
         "attack_magic": 0,

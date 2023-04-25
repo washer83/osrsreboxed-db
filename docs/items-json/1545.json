@@ -1,7 +1,7 @@
 {
     "id": 1545,
     "name": "Key",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-04-25",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -27,8 +27,8 @@
     "duplicate": false,
     "examine": "A yellow key from Melzar's Maze.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwklEQVR4Xu2WPUvDQBjHc9+gU5YsgQwHmVw65hu4i4tDBx30QxQUFBRUHHUURVGU4qaDTuILLuILVYovlFJK0eIgtcOjT440l8ulFsldHPqHh3K55u7H//6XO8MYaKBABOKVmQgcHdqxyggqClOrUui0vaygQpjSvg0vzxQ+Wu4P0DB0vsaygAqBxPwgFN83ZOOvciUDiX0agKKT9ioNQP2B7GxbUCyaKoF6u3Jz7cBDmfrhPjm2YW3VgqnJnCqgZJCrSweqrxSeKtQHurt14KAU5gphUgRKdgW3+sW5051YrAAkJZhkkJVlE/Z2LTg7ZTD8xGKJo/5RchDMw9Ki6YdVdEEcIUURaH+6MZiJ8RwszJuwtclgFLggk9wZrLlZtn21uSKDQafqNQqjI+HW1QIjgvCl0RVUHGZj3fK/KeV7GoHKBCYovELgUuGHTnRKHCVFRYHQGQSpPDII7H9ruv6Fi/+fQiginazZYO7wbSxsFwrKzqVApDs5D4XPWu8uzEyzrY5Lh+183lANhCLQqEc/hPgMT2zPYwB8adttwbJEsyI/p8S3FYmFWITSCCAT8bOC1wpNeelH2vPyuzLIy//RNzPNnm4gZazhAAAAAElFTkSuQmCC",
-    "wiki_name": "Key (Melzar's Maze) (Yellow)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Key_(Melzar's_Maze)#Yellow",
+    "wiki_name": "Key (yellow)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Key_(yellow)",
     "equipment": null,
     "weapon": null
 }

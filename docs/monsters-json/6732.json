@@ -1,7 +1,7 @@
 {
     "id": 6732,
     "name": "River troll",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-04-25",
     "incomplete": true,
     "members": true,
     "release_date": "2004-03-29",
@@ -28,7 +28,8 @@
     "slayer_masters": [
         "vannaka",
         "chaeldar",
-        "nieve"
+        "nieve",
+        "duradel"
     ],
     "duplicate": false,
     "examine": "Likes fish... hates people.",

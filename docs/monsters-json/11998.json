@@ -1,7 +1,7 @@
 {
     "id": 11998,
     "name": "Spindel",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-04-25",
     "incomplete": true,
     "members": true,
     "release_date": "2023-01-25",
@@ -12,6 +12,7 @@
     "attack_type": [
         "melee",
         "stab",
+        "ranged",
         "magic"
     ],
     "attack_speed": 4,

@@ -60353,6 +60353,90 @@
         "type": "normal",
         "duplicate": true
     },
+    "10639": {
+        "id": 10639,
+        "name": "Sarachnis chitin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10641": {
+        "id": 10641,
+        "name": "Vampyric essence",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10644": {
+        "id": 10644,
+        "name": "Forinthry sigil",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10646": {
+        "id": 10646,
+        "name": "Muspah spike",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10647": {
+        "id": 10647,
+        "name": "Zarosian emblem",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10648": {
+        "id": 10648,
+        "name": "Crystal chunk",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10649": {
+        "id": 10649,
+        "name": "Osmumten's coin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10651": {
+        "id": 10651,
+        "name": "Hallowed bricks",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10652": {
+        "id": 10652,
+        "name": "Abyssal-tainted essence",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10654": {
+        "id": 10654,
+        "name": "Casket piece",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10657": {
+        "id": 10657,
+        "name": "Chunk of barronite",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10658": {
+        "id": 10658,
+        "name": "Death's fabric",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10659": {
+        "id": 10659,
+        "name": "Star shard",
+        "type": "normal",
+        "duplicate": false
+    },
+    "10661": {
+        "id": 10661,
+        "name": "Tempoross remnant",
+        "type": "normal",
+        "duplicate": false
+    },
     "10666": {
         "id": 10666,
         "name": "Spirit flakes",
@@ -157455,7 +157539,7 @@
         "id": 27690,
         "name": "Voidwaker",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27691": {
         "id": 27691,
@@ -158013,7 +158097,7 @@
         "id": 27783,
         "name": "Platinum speedrun trophy",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "27784": {
         "id": 27784,
@@ -158048,6 +158132,234 @@
     "27789": {
         "id": 27789,
         "name": "Thammaron's sceptre (a)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27790": {
+        "id": 27790,
+        "name": "Nightshade",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27791": {
+        "id": 27791,
+        "name": "Nightshade",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27792": {
+        "id": 27792,
+        "name": "Nightshade",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27793": {
+        "id": 27793,
+        "name": "Nightshade",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27794": {
+        "id": 27794,
+        "name": "Cracked cake tin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27795": {
+        "id": 27795,
+        "name": "Prized cake tin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27796": {
+        "id": 27796,
+        "name": "Promissory note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27797": {
+        "id": 27797,
+        "name": "Special cake",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27798": {
+        "id": 27798,
+        "name": "Varrock cake",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27799": {
+        "id": 27799,
+        "name": "Gnome cake",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27800": {
+        "id": 27800,
+        "name": "Goblin cake",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27801": {
+        "id": 27801,
+        "name": "Dwarf cake",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27802": {
+        "id": 27802,
+        "name": "Gnome child backpack",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27803": {
+        "id": 27803,
+        "name": "Gnome child backpack",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27804": {
+        "id": 27804,
+        "name": "Cake hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27805": {
+        "id": 27805,
+        "name": "Cake hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27806": {
+        "id": 27806,
+        "name": "Bob the cat slippers",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27808": {
+        "id": 27808,
+        "name": "Jad slippers",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27809": {
+        "id": 27809,
+        "name": "Jad slippers",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27810": {
+        "id": 27810,
+        "name": "Dragon candle dagger",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27811": {
+        "id": 27811,
+        "name": "Dragon candle dagger",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27812": {
+        "id": 27812,
+        "name": "10th birthday cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27813": {
+        "id": 27813,
+        "name": "10th birthday cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27814": {
+        "id": 27814,
+        "name": "Jad plush",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27815": {
+        "id": 27815,
+        "name": "Jad plush",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27816": {
+        "id": 27816,
+        "name": "Stray dog plush",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27818": {
+        "id": 27818,
+        "name": "Gnome child plush",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27820": {
+        "id": 27820,
+        "name": "10th birthday balloons",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27821": {
+        "id": 27821,
+        "name": "10th birthday balloons",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27822": {
+        "id": 27822,
+        "name": "Oldschool jumper",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27823": {
+        "id": 27823,
+        "name": "Oldschool jumper",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27824": {
+        "id": 27824,
+        "name": "Oldschool jumper",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27825": {
+        "id": 27825,
+        "name": "Oldschool jumper",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27826": {
+        "id": 27826,
+        "name": "Oldschool jumper",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27827": {
+        "id": 27827,
+        "name": "Oldschool jumper",
+        "type": "normal",
+        "duplicate": true
+    },
+    "27828": {
+        "id": 27828,
+        "name": "Silver partyhat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "27829": {
+        "id": 27829,
+        "name": "Silver partyhat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "27830": {
+        "id": 27830,
+        "name": "Oldschool jumper",
         "type": "placeholder",
         "duplicate": true
     }

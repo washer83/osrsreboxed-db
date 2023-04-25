@@ -1,7 +1,7 @@
 {
     "id": 6143,
     "name": "Urium Shadow",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-04-25",
     "incomplete": true,
     "members": true,
     "release_date": "2021-01-27",
@@ -19,7 +19,6 @@
     "immune_poison": true,
     "immune_venom": true,
     "attributes": [
-        "shade",
         "spectral",
         "undead"
     ],

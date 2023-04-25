@@ -1,7 +1,7 @@
 {
     "id": 9731,
     "name": "Vampyre Juvenile",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-04-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-09-04",
@@ -29,7 +29,11 @@
     "slayer_xp": 60.0,
     "slayer_masters": [
         "mazchna",
-        "vannaka"
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
     ],
     "duplicate": true,
     "examine": "A juvenile vampyre.",

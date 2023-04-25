@@ -1,7 +1,7 @@
 {
     "id": 6344,
     "name": "Dessous",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-04-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-04-18",
@@ -31,7 +31,10 @@
     "slayer_xp": 220.0,
     "slayer_masters": [
         "mazchna",
-        "vannaka"
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
     ],
     "duplicate": true,
     "examine": "A vampyre warrior of Zamorak.",

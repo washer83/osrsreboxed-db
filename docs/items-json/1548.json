@@ -1,7 +1,7 @@
 {
     "id": 1548,
     "name": "Key",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-04-25",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -27,8 +27,8 @@
     "duplicate": false,
     "examine": "A green key from Melzar's Maze.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xu2WsUvEMBTGm//A6ZYuhQ6FQqEUSimlUDkc3JycBRcXBwc3B8HB2UEcxEkQBBHkQBAXF3Hxf3reS8m1eUnrIU3icB+8oaTN+/XrlzSet9FGQgzUciYGyVWqlCMoGaZ4qaD+3HYF1cHElwkUzxVU7w00X3NovndcQHVAND8I1R9Lg8AG1DAQHbMAJDcdKwtA64HEFwn4BwhiDGjcley+gPyx5OFOrzMITyOY7c1MAY2A3OUcAmHyh4KD4aoTL4AwEwINu4JN09t81ZiWAJkIZhgkPAl5PtKbTGlMi876R+lB/H0fguMWhrpAZ5hQDOqPbusXheEMjkKIzmPFFTrDhNI7gxUctsvXmis6GHSqXFSwNe+WrhUYCtIvi66gVJjoLG73lOV+0odyAiMKjxD4qYqnUnGKzjKhZCB0BkEEBI6XbzU/cPXvMwjFtM3K15q7I10vC69nu8b+S0Js1VyCWrQnP7HU0TV0y4s900AoPRQGWwD0y9pqE59Fzor+P0WfNqQ2xBTKIoBOjGeHn2Xs5GUdWc/L73KQl/+jH2H6GggxeSqbAAAAAElFTkSuQmCC",
-    "wiki_name": "Key (Melzar's Maze) (Green)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Key_(Melzar's_Maze)#Green",
+    "wiki_name": "Key (green)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Key_(green)",
     "equipment": null,
     "weapon": null
 }

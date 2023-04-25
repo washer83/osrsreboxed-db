@@ -1,10 +1,10 @@
 {
     "id": 25485,
     "name": "Webweaver bow",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-04-25",
     "incomplete": false,
     "members": false,
-    "tradeable": true,
+    "tradeable": false,
     "tradeable_on_ge": false,
     "stackable": false,
     "stacked": null,
@@ -16,62 +16,36 @@
     "placeholder": false,
     "equipable": true,
     "equipable_by_player": true,
-    "equipable_weapon": true,
+    "equipable_weapon": false,
     "cost": 120000,
     "lowalch": 48000,
     "highalch": 72000,
-    "weight": 3.175,
+    "weight": 0.012,
     "buy_limit": null,
     "quest_item": false,
-    "release_date": "2023-01-25",
+    "release_date": "2023-04-12",
     "duplicate": false,
-    "examine": "A bow of a follower of Armadyl, corrupted by the power of Venenatis.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUUlEQVR4Xu2WUUhTURjH9z1GD+1pL0MY7OHSjUCIWSPWQyAiSDmKxCIhIRJaZUmMIEREMlARfNDcFiaat1HLtQQ1A29QRIjlS0aFgfXUY0RPBn8953B3d48+uNjZ7kM/+ODsnN2z3853zneux/Mf10GQeyoIoa+7F4ql2OS7i+GBIdy+eYu3qwMBFVKEy790xP7oaN84mI+OjRCM+xOOGLzTh/opf15GgRDhbbqNC7V+09D8LoiGaT8i/T5o570Id/lQ98CP6HwA51aCOHrXp1KGQVjKduJEjk2+PT07RQlkCid09v9YyeB5qt3xQ7sJ5zxFQag5sAc1ugj5336evQFjoCkvJD+tACa0F+a9/TBHj8BMhGEmj2317eMSy09j8IU85RRiCKlPy4ew+j6C1Q/1MFPHt6IWay+u4c14Y7mFGIT1hSiy2QWk0zOYfJjF2FgaicSkY//ITymE+B5amzsJw8ghk5nDohHHs+TVghNWdgiPeqqQTE7xlfoy34FEdxSnFwuPvHLsE3Xhq4YzrwJ43FvFP+eGWzA9egUjI+M8zi4FVUsRWj4GuUTDE1HurRD7RbRZylh1ZivV9FpZ+gix3zq8ujjSloRc3CwxJhyPd3KxUy+VSBG/e2QR+Vs2xIUs+ehsyaUIdRP2rSyP7kzh8S95KSDord4ihawUbm+XAEK4x35VkEcrwL+kTCmExhl7L8ijFYB4TamOiX0kj5YZwsXvGmpTSt99i0GsTiTkipQRhv5eR1vzYTesDuHST81Nq8NwXqAuEBIV1jUybmETcVa6Hmxd9O8AAAAASUVORK5CYII=",
-    "wiki_name": "Webweaver bow (Uncharged)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Webweaver_bow#Uncharged",
+    "examine": "An occult ring made of compounded blood.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAFUUlEQVR4Xt2W209TWRTGOf+BT77w0qQPJCYkjQmZmAkJxicjD5P4QJwJRoYwEkECw6VAS1Pu10KhUCy1UqjTQrFCawtUkKFTCMr9IpJhMgq+jDPM//DNXvt4eqGI0OrLrORLT5pz1vntb+2z1k5K+v+GgGh9sTie+CzJBRhTLkIrv4jLCjnksotnfO7UEF9eIxMT02+57AJKki98InkYuPL+DRztXEKP6h7q6wdxJS2F/6+QyU547kwhrtCWmoyHl5L5tZ6p5SNYOHkYIu/7dOwF5FibycLe4g84XL+DB7VF8Pu30WNwJw40dVkGj0KGUQYlgRkYVAdTg1yEyrymQMAliwE5epOHf/eVsLVXYHPzgEMNDQc/4eyZQsCvaTL4GZSXQY0rkmFnUFYGNcBEbi1MyLAfTAmBvFu9gw+vczH+6D7c1iI8Gy7GqL4aY90qzM3t4tbNjERcErD0jRwBBjXLoCS3nijCblEZd4NhENfDwigYn62Ei4C8vo0QTNxAlVWOKKhIt6iM5NZfOz9izFwQBUOi0pKLtv4KuKxq9PZ6EnGHQoBKPYZ1BvSKaYFBHS8hQVEZJSDaW7Tp6dlv06/HKONqZmJ7SKt1Q13j4lArTJFuERz9n51dHNrgeYXVyC/WQtNsgrqun0vTYIKyphulynZcvZaNtLTrH6HODSagvmEKtbXPsHtFjs0rIhRdH6SnoLbOwssilYZEJdQZnXBNrcDmXMSgfR4mqx99Zh9ychqRlVWJzMx7yMi4hdTU9Pigmpqfo67eh/b2Eei7J6DTOdHS8hgPTDZYLA7Y7e5Q6WjjU2n1ehe8Uxvw+Nbh9q5h3LOK4hIz7ubrmaNa3LxZyuCy49lTAjp0ATS3zPKXUHPr7HqC1jYHhyE5HB5MTMywPhNEUVEFSkurYRrwY2HpdwQX9xAI7mH+tzd8IaWlgygo7IVG04z8/CLcuPFdfC51di2iz+jjXwqB2WxPQ5KACKa8XI2qKi1vgDu777G1c4jN7QNsbL2DsX+SP0uLae/og1Kpwe3befG5ZOhd4QkJipISRKRyc+9xGJWqnq/e5VrB4fsjHBz+g7cHf+PPtx9gtQZgNovgbW0Gfm9Bwc+h0h1/62ciPK9I1BylfUOrJPvpBcfvO0kEXlhYFgUVh0tJSeEOK844gqKvKifnLl+1lPQ00T3qmkbeOqhtUOenHPSFisBxhYARzxJMNj/ae0c4UCTM8btjQ5yRBEVNlpym2RiXS2IIGPMtw+KYg97kQm2b5ZzJhFBjJShyiWbj+XJEhQC3fw1WZwB6IwNqPg+QwL8wnc7I3ZHmI5X/7DliQoB3dgNWRwC9Zg+adDZUqLrOuAcEDtPTY2Zf6wC/JiiajQkBTb3YwphnmUMZLZNo1Tv43BKhTldX1wP09w+xnmYJgdF/CQENNE4jwLrw5Mwm7K4lmIdnePnqWwdRVqVDSVklyivVISmrNWxQt3JHCMBstvPRQ2DaYjPKf9IlBmRtm8ej1hd4tfoHZgOvMe5bxdBIkLvV0KJDS4c+pLZOAxfBEATBWK1OtCp/QVPZEGoKjShmgzchIFvnIoZ1QQ62tXuIxeV9+Oe2eRkHBh/HyGy1wzLsCI0aXfUoB6orET8ICSZOIAoBDv3LKLCN7XcILu3BOeHjGn3q5aLrJ+4puDzTGPc+h4GdsbpUYxwoEiQBGClYg+xejgIb6gjwQ12kNNpxLjroVTNnJKAv4MpJIcBpWIkCo0MdnZ8k0QGPRFB0JO5j118JRgpxD0hgdKAjNTZNc0mnTgnoK8OIISaP7Tkn6avDREbkBj1Nx5/7XPwHWDldEmU+SUwAAAAASUVORK5CYII=",
+    "wiki_name": "Ring of true blood",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ring_of_true_blood",
     "equipment": {
         "attack_stab": 0,
         "attack_slash": 0,
         "attack_crush": 0,
         "attack_magic": 0,
-        "attack_ranged": 85,
+        "attack_ranged": 0,
         "defence_stab": 0,
         "defence_slash": 0,
         "defence_crush": 0,
         "defence_magic": 0,
         "defence_ranged": 0,
-        "melee_strength": 0,
-        "ranged_strength": 65,
+        "melee_strength": 12,
+        "ranged_strength": 0,
         "magic_damage": 0,
         "prayer": 0,
-        "slot": "2h",
+        "slot": "ring",
         "requirements": null
     },
-    "weapon": {
-        "attack_speed": 4,
-        "weapon_type": "bow",
-        "stances": [
-            {
-                "combat_style": "accurate",
-                "attack_type": null,
-                "attack_style": null,
-                "experience": "ranged",
-                "boosts": "accuracy and damage"
-            },
-            {
-                "combat_style": "rapid",
-                "attack_type": null,
-                "attack_style": null,
-                "experience": "ranged",
-                "boosts": "attack speed by 1 tick"
-            },
-            {
-                "combat_style": "longrange",
-                "attack_type": null,
-                "attack_style": null,
-                "experience": "ranged and defence",
-                "boosts": "attack range by 2 squares"
-            }
-        ]
-    }
+    "weapon": null
 }

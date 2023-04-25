@@ -67573,7 +67573,7 @@
     },
     "31934": {
         "id": 31934,
-        "name": "Monkey Madness 2 display"
+        "name": "Monkey Madness II display"
     },
     "31935": {
         "id": 31935,
@@ -67937,19 +67937,19 @@
     },
     "32114": {
         "id": 32114,
-        "name": "Grandiose Doors"
+        "name": "Ancient Doors"
     },
     "32115": {
         "id": 32115,
-        "name": "Grandiose Doors"
+        "name": "Ancient Doors"
     },
     "32116": {
         "id": 32116,
-        "name": "Grandiose Doors"
+        "name": "Ancient Doors"
     },
     "32117": {
         "id": 32117,
-        "name": "Broken Grandiose Doors"
+        "name": "Broken Doors"
     },
     "32118": {
         "id": 32118,
@@ -67977,11 +67977,11 @@
     },
     "32132": {
         "id": 32132,
-        "name": "Broken Grandiose Doors"
+        "name": "Broken Doors"
     },
     "32133": {
         "id": 32133,
-        "name": "Grandiose Doors"
+        "name": "Ancient Doors"
     },
     "32139": {
         "id": 32139,
@@ -92354,5 +92354,289 @@
     "47175": {
         "id": 47175,
         "name": "Cave"
+    },
+    "47180": {
+        "id": 47180,
+        "name": "Warmhandz' Fire"
+    },
+    "47188": {
+        "id": 47188,
+        "name": "Birthday Balloons"
+    },
+    "47189": {
+        "id": 47189,
+        "name": "Birthday plushies"
+    },
+    "47190": {
+        "id": 47190,
+        "name": "Birthday plushies"
+    },
+    "47191": {
+        "id": 47191,
+        "name": "Birthday plushies"
+    },
+    "47192": {
+        "id": 47192,
+        "name": "Birthday plushies"
+    },
+    "47193": {
+        "id": 47193,
+        "name": "Birthday plushies"
+    },
+    "47194": {
+        "id": 47194,
+        "name": "Birthday plushies"
+    },
+    "47195": {
+        "id": 47195,
+        "name": "Birthday plushies"
+    },
+    "47200": {
+        "id": 47200,
+        "name": "Birthday cake"
+    },
+    "47201": {
+        "id": 47201,
+        "name": "Birthday cake"
+    },
+    "47204": {
+        "id": 47204,
+        "name": "Crack the Clue II Display"
+    },
+    "47205": {
+        "id": 47205,
+        "name": "Mimic Display"
+    },
+    "47206": {
+        "id": 47206,
+        "name": "Hosidius Rework Display"
+    },
+    "47207": {
+        "id": 47207,
+        "name": "Forthos Dungeon Display"
+    },
+    "47208": {
+        "id": 47208,
+        "name": "LMS Rework Display"
+    },
+    "47211": {
+        "id": 47211,
+        "name": "Jormungand Display"
+    },
+    "47212": {
+        "id": 47212,
+        "name": "Twisted League Display"
+    },
+    "47217": {
+        "id": 47217,
+        "name": "The Nightmare of Ashihama Display"
+    },
+    "47219": {
+        "id": 47219,
+        "name": "Prifddinas Display"
+    },
+    "47224": {
+        "id": 47224,
+        "name": "Death Rework Display"
+    },
+    "47225": {
+        "id": 47225,
+        "name": "Mahogany Homes Display"
+    },
+    "47226": {
+        "id": 47226,
+        "name": "Ferox Enclave Display"
+    },
+    "47227": {
+        "id": 47227,
+        "name": "Porcine of Interest Display"
+    },
+    "47228": {
+        "id": 47228,
+        "name": "Soul Wars Display"
+    },
+    "47232": {
+        "id": 47232,
+        "name": "Darkmeyer Display"
+    },
+    "47234": {
+        "id": 47234,
+        "name": "Shades of Mort'ton Rework Display"
+    },
+    "47235": {
+        "id": 47235,
+        "name": "Trailblazer League Display"
+    },
+    "47240": {
+        "id": 47240,
+        "name": "Archway"
+    },
+    "47241": {
+        "id": 47241,
+        "name": "Tzhaar-Ket-Rak Display"
+    },
+    "47242": {
+        "id": 47242,
+        "name": "Shooting Star Display"
+    },
+    "47243": {
+        "id": 47243,
+        "name": "Tempoross Display"
+    },
+    "47244": {
+        "id": 47244,
+        "name": "Below Ice Mountain Display"
+    },
+    "47245": {
+        "id": 47245,
+        "name": "Combat Achievements Display"
+    },
+    "47246": {
+        "id": 47246,
+        "name": "A Kingdom Divided Display"
+    },
+    "47251": {
+        "id": 47251,
+        "name": "Deadman: Reborn Display"
+    },
+    "47254": {
+        "id": 47254,
+        "name": "Group Ironman Display"
+    },
+    "47255": {
+        "id": 47255,
+        "name": "Nex Display"
+    },
+    "47257": {
+        "id": 47257,
+        "name": "Shattered League Display"
+    },
+    "47262": {
+        "id": 47262,
+        "name": "A Goblin"
+    },
+    "47263": {
+        "id": 47263,
+        "name": "A Goblin"
+    },
+    "47264": {
+        "id": 47264,
+        "name": "A Goblin"
+    },
+    "47265": {
+        "id": 47265,
+        "name": "Phosani's Nightmare Display"
+    },
+    "47266": {
+        "id": 47266,
+        "name": "Revenant Maledictus Display"
+    },
+    "47267": {
+        "id": 47267,
+        "name": "Guardians of the Rift Display"
+    },
+    "47268": {
+        "id": 47268,
+        "name": "Giants' Foundry Display"
+    },
+    "47269": {
+        "id": 47269,
+        "name": "Emir's Arena Display"
+    },
+    "47272": {
+        "id": 47272,
+        "name": "Unranked Group Ironman Display"
+    },
+    "47273": {
+        "id": 47273,
+        "name": "Phantom Muspah Display"
+    },
+    "47274": {
+        "id": 47274,
+        "name": "Quest Speedrunning Display"
+    },
+    "47278": {
+        "id": 47278,
+        "name": "Wilderness Boss Display"
+    },
+    "47282": {
+        "id": 47282,
+        "name": "Tombs of Amascut Display"
+    },
+    "47314": {
+        "id": 47314,
+        "name": "Staircase"
+    },
+    "47315": {
+        "id": 47315,
+        "name": "Staircase"
+    },
+    "47316": {
+        "id": 47316,
+        "name": "Old passageway"
+    },
+    "47317": {
+        "id": 47317,
+        "name": "Bench"
+    },
+    "47318": {
+        "id": 47318,
+        "name": "Bench"
+    },
+    "47319": {
+        "id": 47319,
+        "name": "Spotlight"
+    },
+    "47320": {
+        "id": 47320,
+        "name": "Banner"
+    },
+    "47321": {
+        "id": 47321,
+        "name": "Banner"
+    },
+    "47324": {
+        "id": 47324,
+        "name": "Ice chunks"
+    },
+    "47326": {
+        "id": 47326,
+        "name": "Staircase"
+    },
+    "47327": {
+        "id": 47327,
+        "name": "Ancient Doors"
+    },
+    "47328": {
+        "id": 47328,
+        "name": "Ancient Doors"
+    },
+    "47329": {
+        "id": 47329,
+        "name": "Broken Doors"
+    },
+    "47330": {
+        "id": 47330,
+        "name": "Ancient Doors"
+    },
+    "47331": {
+        "id": 47331,
+        "name": "Hammers"
+    },
+    "47332": {
+        "id": 47332,
+        "name": "Water containers"
+    },
+    "47333": {
+        "id": 47333,
+        "name": "Swamp paste"
+    },
+    "47334": {
+        "id": 47334,
+        "name": "Potions"
+    },
+    "47336": {
+        "id": 47336,
+        "name": "Barrier"
     }
 }

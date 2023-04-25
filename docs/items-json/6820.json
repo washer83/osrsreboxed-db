@@ -1,7 +1,7 @@
 {
     "id": 6820,
     "name": "Relic",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-04-25",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -27,8 +27,8 @@
     "duplicate": false,
     "examine": "There seems to be bits missing...",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwUlEQVR4Xu2UW0sCURSFPb+jl/kDgS8+iAT6ICGGMCRJSYLFYFRKpZmlhGKIdMHuN5GIfuiOtQ87DjZvNSeDWXCYOcww55u1196RSKhQof6tFOk1E1J0MahTxVv5SyhxRNHd6Jj63SrVayXeRx3HJpSGeLk/pclzj0bnTeq2t+jhuk3V7TXbQIqG/X26Gjbo5vKIr4Neje9Rsp1KwSaQ4rK0Gpt0eFDmhT1g3sdnDOaVl20B6RIBAC6YMCjb22uf9xsl1waQoo/JgA8/aXqcE1zN0o0fu5yjUjFnBwgOAABtDXdQHuyRGzgD9zqtChXymaCBdEc93XbYFQDAFXQWnEG7o7vked5NBwmkOB84EAACYYLIM7gD99xcKiggxbnAnwuUgJiuoHQYhuiu4mqWkgux4IAAgmwIjDgiriDEGAF7u+vszlI2SYl4lBxnjqGmv/hD6SCLS3AFEDIITRiMAbiTWUxQLDb/5dAvu6R42E27BCB0FQKMbsMIQLkQ5nQqHhQMpGePn0sCJKXCMDTDHACMSLe8uCRAKJkASZgtwGjpAzSYlA1AaHMBsjAMv8sE81tW3PGTHOy3pt8NFSrUrOgTfSjxQO4nO5oAAAAASUVORK5CYII=",
-    "wiki_name": "Relic",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Relic",
+    "wiki_name": "Relic (Devious Minds)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Relic_(Devious_Minds)",
     "equipment": null,
     "weapon": null
 }

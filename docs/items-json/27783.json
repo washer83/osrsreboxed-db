@@ -1,7 +1,7 @@
 {
     "id": 27783,
     "name": "Platinum speedrun trophy",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-04-25",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -23,12 +23,12 @@
     "weight": 1.5,
     "buy_limit": null,
     "quest_item": false,
-    "release_date": "2022-10-12",
-    "duplicate": true,
-    "examine": "A platinum trophy to show your speedrunning prowess.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAD+UlEQVR4Xs2X30tTYRjHd/6JbroZdBEIgTcRXgRKSEQjGEoxwqgkhWliaWoq4RqaWsvZxqyGTRu1ftkPa0xzq9nUVcvStF8Di7opiPoLgie/z8t7djbXD3VbPfDcnPOe9/28z++j0y1bFPq1Zk3SbS4OdUzE6PSDSeoKhMgydJcGz9WTq6eabB0V2YJTaM8xa8rGCp2115DZdoaqe11U63JT3XkPtV2/w1An/EEGPDU2Tu3DI7SxeFumoBTquHefjt/yU3nHSSqpqeONXdEXDLDf2knhsEfVvA1W1ifRVvryOcRQvZGnNBW0s9UyAKWQ9XaAb9ly6TpbxNTYQr6Z13T+yQx1Wvaza5y2KhVGCzVyq51diHW1VUYGytfrVwOlsBUKd5oYqns0zO65sgjkjs1SbNzBtx8PnKLg8AkKDFmpadDH1oMrK7vt1HLERJX7tpPRUKABWnFsKbzxZmOpugHiAha6EHtJ0xEnPX5gp8iojUL+LrZIvXuQv6notNE+SzuZDxjIsG1TEkRDv5e1YIewWuqpvxHxsbG6Nu3tbrx8S7NRN/k8TeR1N5Cnr45jDW7dYT5Ibc1larDjIogpxCSsvWm7Qd1zGW4UQb376DENkE4nwYZfxWk+dpFeTLhocuw0uw0uhYUQb7DOOv2apEtAtZm3DBiIwnGDOFr6sUKBtwuqlZ6Ge9UYA1BZaxuZSguTrCAvAqD8oi1p9vyjKFz0qnqc7ILELcW7UPwDQ8FKfYtZB7dIIKzfUpif5lABpAVNvPsrEVZCLWr2XqUiU5kKNvH+Ez1a+Eg3595xGbAFIwxUeriBM1Ofl5cWSNazFcBIEQCtviEqLturmhtAY/H39HAyymXAHp5iIMTc1r3l5PZeTnOwwu+WPl+2CFMf6utXAxLW+frtOwNB4V68R7ojMwFkWryAuJDYA+VClpFVAkEUPhC9DVDXZt8kAcFlSHPUIKR+t93BKi2MPlfjOKvCZAQIBzYOXOKNUSDhqiH/iKoIaADDQloYfKeNqQzASBEHIMBx+MCzObKPP+Z6hRhDRkogPHdOTfO6LMEIkfVEqwBE25DZhaaMKq9dkxUYrSQOUHgagHXQn9bo1y2ByDpMsijsGtQqZJAEyjFEqohx9r+BwYyktwRobVu6YphzUejI8x8qkIRKXZVDEVmGCdFQYf4/XIaARhXPYFtYqYj0RtVGIZST4D9ymag/F5/Pc9qj08NlgFrvi+caTDTLtYcGWDGg4Y8DcYR5BzPRrvom1hxBCSBYCM0WbYM7eUEJw0jF/JRwY9ZEjCFalf9h+OvAgAYrwX1ywsxB1iWapgTBYIbhXsLAOmi2Eih1h4xL4tbJnT9VV2Odn20mEDlDjY/uAAAAAElFTkSuQmCC",
-    "wiki_name": "Platinum speedrun trophy",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Platinum_speedrun_trophy",
+    "release_date": "2023-03-22",
+    "duplicate": false,
+    "examine": "A diamond trophy to show your speedrunning prowess.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAER0lEQVR4Xs2X7U9TdxTHuf/B3vuGdyYkJMTEmGUxMSGLIRozs2UJEgxIBCKMgKhFRNKJosMpVXGiHT6V0YFDEVefgBVEaIpYLTAqTwYkSBVhi5kZLyDf5Xuut71l3WKlrZ7kJNDe/s7nd55vTEzIouC/NWIS7HDVaG/XfXS3taH91k10tbYiy2TFtsM1SDFWRQpOQWV5+ZKDFTFqOVsN6/ka/HL5Mq5b63C/pUWgXA4H3D09GHC50HOvAxvXrw8XlAKH3Y7OO3dQbapEqcEgB9MYYX44fgxOR4lP4+LLRPm3d7oNj51OjHo8MF53If2QORxQCpwd7XLLu9eu4dKZM/juWyOmJyfxdHgIycWVEpq0srM+GD2UodaO7BP18tzaDPUyCbGxy4FSxDPbUlLwoLNTPFN/4QK8z59jfGQEO21DyG/qR+6Vh8iucyDzUgdsVxokhPTguRMmJOYY8emWXMQnJeuA3ju3FMmRtC3qYVTmBT00MTaGwpvDyG/+Hd80PsIOqxNZlk40/VSLWvM5gWHufZZagLjPvwqAYL4R/OvNm0OFUuSHJbt3B73djNeLPS3jSDTWYF1xNdYVnYb55EkcPXAARQUFWJVeJN6y22xyEXrY1d0tKfDlpk2+M0MIo1rWNOAHionRwP6YfYX9vz3DrlujyLvqlrDRowxXTVWVeOeT2JUBl6AS6IsNGwLOfEdRK4p59O8fK/jr9Wu8evEChtZnKLjhEXgNiJdI2Jga4AXtIsxHrRWEDDT4+JHkRHFhoe6W6nfz8/MCZWyfxNjQE+k/GhBDtnJtUhCjKpAe1P/dO4nqJXbjlqYmbN+61Qe2uLiIhYUFzL58KVXH5wjEfsVCWJWQEBRI62fvAaOJCsDxkJWejqTERPmfMH+/eQN7l0OA+h/2Sls4bCxFbmYmzJa6IIYV5GVnB/k8ZFFdzbLW4k+gmdk5AaL29T5Aw8WLUu4MGYGSU9PeelQ9Y3x01NdGlglEUQTo2MGDUiV/zs0FADFkLHOOlEP7S1BhOiWqeZizjh7UYMICxKb2a0M96n40S4VNTUyg0Xbbp/zcdOSIFIEehhfR51QYYDRRDTDBadw7NYWh/n4peTZAVqQGNDI4KDOPiR4fFxcJGFW0fqLX1uZmNP9slWRes3q1ND92ef0zEYHRi9+AIiOBoeQg1ryhh4g4TKAoUvbcnVhBsStWRMcj/y8KPH19Hw8MdyT3gAfl3webe1EXBVPTXh+QBrX0qSiK2sXZFI17934cIfO43VL6OzIyPnTI1PKem5nB8MCAbi39ICFTpDtzfLDsGbI9+Xmynt642xZtMEV2JBqmckFjZ+Zyz7HBnedURYUM2ShBqUCcYdrL5O3GRhhKSmX9oHKm0WP+t5aIiRoqvRKGmwDXC755cEVhxe3MyYlW1fmH5lWLRUC0tw16p2zfPlnSOGw1oKUnhF38tw6c/Et1Od75B01RXJeHonXyAAAAAElFTkSuQmCC",
+    "wiki_name": "Diamond speedrun trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_speedrun_trophy",
     "equipment": {
         "attack_stab": -100,
         "attack_slash": -100,
@@ -48,7 +48,7 @@
         "requirements": null
     },
     "weapon": {
-        "attack_speed": 4,
+        "attack_speed": 5,
         "weapon_type": "blunt",
         "stances": [
             {

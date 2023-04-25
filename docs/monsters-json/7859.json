@@ -1,7 +1,7 @@
 {
     "id": 7859,
     "name": "Derwen",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-04-25",
     "incomplete": true,
     "members": true,
     "release_date": "2018-02-08",
@@ -14,7 +14,7 @@
         "magic"
     ],
     "attack_speed": 6,
-    "aggressive": false,
+    "aggressive": true,
     "poisonous": false,
     "venomous": false,
     "immune_poison": false,

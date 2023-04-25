@@ -1,7 +1,7 @@
 {
     "id": 8248,
     "name": "Ranis Drakan",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-04-25",
     "incomplete": true,
     "members": true,
     "release_date": "2018-05-24",
@@ -30,7 +30,11 @@
     "slayer_xp": 400.0,
     "slayer_masters": [
         "mazchna",
-        "vannaka"
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
     ],
     "duplicate": true,
     "examine": "He looks haughty and arrogant.",

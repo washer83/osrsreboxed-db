@@ -1,8 +1,8 @@
 {
     "id": 25491,
     "name": "Accursed sceptre (au)",
-    "last_updated": "2023-02-11",
-    "incomplete": true,
+    "last_updated": "2023-04-25",
+    "incomplete": false,
     "members": false,
     "tradeable": false,
     "tradeable_on_ge": false,
@@ -15,20 +15,77 @@
     "linked_id_placeholder": null,
     "placeholder": false,
     "equipable": true,
-    "equipable_by_player": false,
-    "equipable_weapon": false,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
     "cost": 120000,
-    "lowalch": 48000,
-    "highalch": 72000,
-    "weight": null,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 2.267,
     "buy_limit": null,
     "quest_item": false,
-    "release_date": null,
+    "release_date": "2023-04-12",
     "duplicate": false,
-    "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACC0lEQVR4Xu2Xb0sCQRDG3c+xbxZ8EQSBBBESgiEhohyKkpQYmlRSFiEVQV8jCvoDUVQURRFFBEEfbfKZbc/zDiPqzvNFDwwn47rz25nZ3TMS+dfAJai/DVQ6aG1+jrazGbZ2Js2Gz62Z1KCguiCNTvClZILNmx1BMaXY3DP4KEHTiQTls1latXJUTU17grvNPYPPEjQ2OkqZVIqB3CBmTO9v+vl8kaCRaJTGYzFaz1uO8nS/v5FnHt9qo+Hy+SYNNDkxQVPxOJdvv1axwT7UC93JcztzeO5aWWqvrTl8vkqQkpLLBkOmAHVQrzqy5WzmwIGg3p2EBl+sVOi4UXfB6LEA2lpvBQkUiZjVzxYKDDSTTHKmWsvLX6BGgvbyOdpoNoME0pmplsuUS6cZBKVDT3WbVxt24tLCgu0PAEhwQxcti2GQGRMcfgTeKZdos1iglU7m5kolBveW0jfpnkFG8OyuWp9P8OOMAiyexgLLDnoGWUF5eletdx+OBKeZ7AWQHT3xhTz6Jkjv7nOO8R3mRO4zjAHqF8QJ0G/MHyXoTB7SlTz1rNo9cgDSJTJ3U4Cr/on0Jem8l0ICgQSDPMjL4YAByJO6Hg6YZ3XLFjKM3j2v6p4tRBgN8qYebQsVBse/eXV4V09hwkD6bwygcPmZWzskGEjYIHifCT07eHeBmT4KEcYo0Nv4dxoWkE+a3swrYpAKjwAAAABJRU5ErkJggg==",
-    "wiki_name": null,
-    "wiki_url": null,
-    "equipment": null,
-    "weapon": null
+    "examine": "A very old and powerful stick, enhanced with the power of smoke magic.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4klEQVR4XuWVz0sCQRTHm/+gU5e9LOxhIRBE8LCIoEhIKJIoSUjCJlIEQRKmUoiBl6AgOhXRqT/05fcNs7M/qpPjLvSFxwyzo++z79fu7PxvCdJmVHEnYcfabop3dFtcUsmqmIQS5OcuqOl0Asen+yM+wwo7cX027HGvuOfxvbxtm4AS7AyOYG2nR8dunw17mDrXkZEwhoAg6QQOq1ad6naTTcHgGVac6cgYSxkk2Lmz6wYRUKlUe0QxDIi9QaiwA2mvtU8u4uvCLAKFVKoU6mhtVLKI4QAAD6Uneql+0Nf7Gz2vVnQ/mdDCe+RnMAWkYIwA4c1RH1iRplHuivfL+ZwW0ymVPI/PYKr4DUUHEvzWqpVhZ/0+nfs+zcZjOmo0IqncCpCKkHYioUaDQSw1InLPGBBqSM0dGQl5nnQcBdL/sVEJrg0AYQ4ph0kYff/n841JpwxzCLWE4ag/JUkZhem0WtxFtmUFkfk7Qsa07q52m1zHSQCELf4rgxIcmThI/NaWJNtazZgUQaB1m/d6Qc2kHhnUTQZgZNGGuylVmMvhkNN0UKmkDQOtB1+3S9VyORsw6KR4quK3tiQ5hQv5PIOkHB2ZJjWFFUiqMBnoJkjWzGGtloWaUUrta/27Uq6ZbOkbxRmudAmT2REAAAAASUVORK5CYII=",
+    "wiki_name": "Smoke ancient sceptre",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Smoke_ancient_sceptre",
+    "equipment": {
+        "attack_stab": 20,
+        "attack_slash": -1,
+        "attack_crush": 50,
+        "attack_magic": 20,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 60,
+        "ranged_strength": 0,
+        "magic_damage": 5,
+        "prayer": -1,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
 }

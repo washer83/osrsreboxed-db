@@ -1,7 +1,7 @@
 {
     "id": 1547,
     "name": "Key",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-04-25",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -27,8 +27,8 @@
     "duplicate": false,
     "examine": "A magenta key from Melzar's Maze.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABu0lEQVR4Xu2WPUvDQBjHc98gU5YsBxkOMrl0zDdwFxeHDjrohygoKCioOOooiqIoxU0HncQXXMQXqpSqlFJK0eIgMcMjz0nS5C6pRZJLh/7hGS4v9/z43z+507ShhvJFQK7cROCEHkuVE1QUpsHq4DluXlBdmDI9hFf2Ap92B7xRF7yJ7zygukBifhAqfG+EUhVQyUDiPQVA0aa9SgFQfyB75i6UjFKWQL1dubNu4YlVeLjP6ClsmOswo09nBZQMcmNdQ529QY1VOdCDdQ9HtBxkCWFSBEp2BT/1K+syaCyWD5ISTDLImrEKB+Y+XFjnUmOxxFn/qXgQzMOKsczDKrogzpCiCLj2lwQzpU/CkrEIO+a25Io4Q4qKdwZrwZhX60ocDDrVZA0Y18cGwxUsha6gZJgtc5P/UyrsMQKVC4xfeITApcIfneiUOEuKigKhMwhSZc8BwLvd5geu8HMZQpHYZm27xd0Jj7FwXNSLWS8fCZqHofBax/6AOWOWj3HpcFzQClkDoQi07KYEhTu2ozmh7Cj+2vxliWYlfp8S385IvyEWoRQCxInwrOCxQlFe+pHyvPytHPIyOPoBu6OebtwcZeQAAAAASUVORK5CYII=",
-    "wiki_name": "Key (Melzar's Maze) (Magenta)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Key_(Melzar's_Maze)#Magenta",
+    "wiki_name": "Key (magenta)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Key_(magenta)",
     "equipment": null,
     "weapon": null
 }

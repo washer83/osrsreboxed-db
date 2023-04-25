@@ -26995,6 +26995,62 @@
         "id": 10600,
         "name": "Kgp id card"
     },
+    "10639": {
+        "id": 10639,
+        "name": "Sarachnis chitin"
+    },
+    "10641": {
+        "id": 10641,
+        "name": "Vampyric essence"
+    },
+    "10644": {
+        "id": 10644,
+        "name": "Forinthry sigil"
+    },
+    "10646": {
+        "id": 10646,
+        "name": "Muspah spike"
+    },
+    "10647": {
+        "id": 10647,
+        "name": "Zarosian emblem"
+    },
+    "10648": {
+        "id": 10648,
+        "name": "Crystal chunk"
+    },
+    "10649": {
+        "id": 10649,
+        "name": "Osmumten's coin"
+    },
+    "10651": {
+        "id": 10651,
+        "name": "Hallowed bricks"
+    },
+    "10652": {
+        "id": 10652,
+        "name": "Abyssal-tainted essence"
+    },
+    "10654": {
+        "id": 10654,
+        "name": "Casket piece"
+    },
+    "10657": {
+        "id": 10657,
+        "name": "Chunk of barronite"
+    },
+    "10658": {
+        "id": 10658,
+        "name": "Death's fabric"
+    },
+    "10659": {
+        "id": 10659,
+        "name": "Star shard"
+    },
+    "10661": {
+        "id": 10661,
+        "name": "Tempoross remnant"
+    },
     "10808": {
         "id": 10808,
         "name": "Arctic pyre logs"
@@ -53162,5 +53218,109 @@
     "27788": {
         "id": 27788,
         "name": "Thammaron's sceptre (a)"
+    },
+    "27790": {
+        "id": 27790,
+        "name": "Nightshade"
+    },
+    "27794": {
+        "id": 27794,
+        "name": "Cracked cake tin"
+    },
+    "27795": {
+        "id": 27795,
+        "name": "Prized cake tin"
+    },
+    "27796": {
+        "id": 27796,
+        "name": "Promissory note"
+    },
+    "27797": {
+        "id": 27797,
+        "name": "Special cake"
+    },
+    "27798": {
+        "id": 27798,
+        "name": "Varrock cake"
+    },
+    "27799": {
+        "id": 27799,
+        "name": "Gnome cake"
+    },
+    "27800": {
+        "id": 27800,
+        "name": "Goblin cake"
+    },
+    "27801": {
+        "id": 27801,
+        "name": "Dwarf cake"
+    },
+    "27802": {
+        "id": 27802,
+        "name": "Gnome child backpack"
+    },
+    "27804": {
+        "id": 27804,
+        "name": "Cake hat"
+    },
+    "27806": {
+        "id": 27806,
+        "name": "Bob the cat slippers"
+    },
+    "27808": {
+        "id": 27808,
+        "name": "Jad slippers"
+    },
+    "27810": {
+        "id": 27810,
+        "name": "Dragon candle dagger"
+    },
+    "27812": {
+        "id": 27812,
+        "name": "10th birthday cape"
+    },
+    "27814": {
+        "id": 27814,
+        "name": "Jad plush"
+    },
+    "27816": {
+        "id": 27816,
+        "name": "Stray dog plush"
+    },
+    "27818": {
+        "id": 27818,
+        "name": "Gnome child plush"
+    },
+    "27820": {
+        "id": 27820,
+        "name": "10th birthday balloons"
+    },
+    "27822": {
+        "id": 27822,
+        "name": "Oldschool jumper"
+    },
+    "27823": {
+        "id": 27823,
+        "name": "Oldschool jumper"
+    },
+    "27824": {
+        "id": 27824,
+        "name": "Oldschool jumper"
+    },
+    "27825": {
+        "id": 27825,
+        "name": "Oldschool jumper"
+    },
+    "27826": {
+        "id": 27826,
+        "name": "Oldschool jumper"
+    },
+    "27827": {
+        "id": 27827,
+        "name": "Oldschool jumper"
+    },
+    "27828": {
+        "id": 27828,
+        "name": "Silver partyhat"
     }
 }
