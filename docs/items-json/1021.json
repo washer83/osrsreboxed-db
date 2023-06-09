@@ -1,7 +1,7 @@
 {
     "id": 1021,
     "name": "Blue cape",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 12,
     "highalch": 19,
     "weight": 0.453,
-    "buy_limit": 150,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2001-02-13",
     "duplicate": false,

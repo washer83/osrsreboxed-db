@@ -1,7 +1,7 @@
 {
     "id": 22626,
     "name": "Statius's full helm",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,9 +26,9 @@
     "release_date": "2018-09-06",
     "duplicate": true,
     "examine": "A powerful helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADmUlEQVR4Xs3WW08TQRQHcPpN+Ah+BH3yAV+ICUZJSNAgDwaiQVAuklYErNzDVSq20oaWIlLECrXUtMFSuUUUYqImJvIgD5j4EY78Z3OW2WHAlq6GSU62uzvL/PbMmVkKCk5/c5A+dPf/eXPQzHgzTfuaREx5G2nySYMIRqTmOik5+4gSEbcGpb5E3nADxCiAOFTM4ot2Wgi3WgbGOe6pYUXlhHTQrN95CIUjIBwMmp9sobkJl+iLow6E/jJ6e3mcPi55ToZiEH5zdhj0ZrpNgLjvUSA8t5X20eeV4H6EBAhjnCksFKGOrjQj7fzWDMKgOhC/NfpGg/e1oKVolwWE3wxSR1eawzINQHBx41wGMSQerqUe52XzXAdanu+1D8RZwjUGiYGfj1B8xkNf0m6BunvzGjXVVop7Kuh9TAYFcwNxXaggvLkMSkQ8lI4FKLMYoqj/FvW768k72KIFrcb7LKBP757mD8J1gBDol17wmzHrq6bh7iZ63NssMqWi1hb77QUhMJWMWUmEafXtFGXiEwIECLLj6XNSQ02FBYSMfkgOmaDtTMDE5AySUfjjDPq1s0brqRkxXQCN9bso7O0SWVLrCKDN5LAWpI5+RDNWC5bwUaC9nRX6vbslMgXQZtxF3zfGKDFVR53Nl+jC+bMmSoBSoycFGcsWGToOhGLe/RanvR8Z+vk1Rusxp1htS5F6qiwvsYDwjAUkbYrq6EozlrwOhLCA9rMSCfTSs6EH4ogtIPnKS6mojyrKLpogZMdWEKMQAGHHNd7cYxZxh6tGwHDedq+arpYWU3HROftBcpZwlEFBj5sCow9FMQPEOICw7EtLikxQ+nW3BAqZmKxAWGE6EH8O0Cc01iFWFAKQrpbbAoalD1BtVbmoI/RFdvDZkDOUZXbQDkBqHeG6nCHUDdcQQMgOljxANTfKRDAInw3bQIzCdaSfQS+DAxSdHCT/SBv1tNYJzGBnowmS6we7tAxilDq6phkg3bTJIF5p+LCijgACBt8ygHCP9x/030gMmCDsQTnsQ1aQPG0yCEdcR38Ud1/7HTOqrl8xQYDnDcIq+xsIg+EaNksj9dbg7NgKUqcN12UQCp0/utg0ea/Cc9wXICx5C2h/D8p5H9JNmwzC7+NAcv3YAtJNmwzCPfnfEhmEfnL95AlCO1wTupAxcqggbIoyiCMHUEEBb+vHhQqUQ64fW0DZNhWZDZbjoO9/aipSF+ozp7r9ASs/pXU7ObIuAAAAAElFTkSuQmCC",
-    "wiki_name": "Statius's full helm",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Statius's_full_helm",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADiElEQVR4Xs3W30sUURQH8N3/xD+h91566UGIXoSkIIlAFERJLMM02W1r8/eP/JWZubnVrqubbrLqtgqKqZlJlhJUEORDPhj0J5z83uGMZ65X23Wn8MJhZmfueD9z7r1n9HhOfvOSOUz3/3nz0vhwPcVDdSpGh2pp5PEtFYxYmGyh+UQTzU00GlD6S+QMt0CMAohDx8y+vE8zsXuOgfEb9/RworJCeikR9h1A4QgIB4OmRwI0+cKv+uJoAqG/RG8tD9PHxYHjoRiEc84Og17HgwrEfQ8D4bnNpRB9Xo3sRVSBMMapvDwV+uhas9LOb80gDGoC8VujbzJyxwhaTLY6QDhnkD661ryOaQCCFzd+SxBD0rEb1O67aP82gZanO9wDcZZwjUHoN9jrp6G+AH1ZalSokqsXqKy4UN3TQW9TEhTJDsTrQgfhzSUoMtRI0VAzjYXbKBmupLrqEmrwVxpB79KdDtCnN09yB+E6QAj0iz/vsCMRqqCgr0KBkCkdtTbb5S4IgalkzKtYNyXHeigRfaBAwDQHqhRInzZk9MN8rw3aWnlmY7IGSRT+OIN+ba/RzPhDGwRMT1stBW6XU3nppQOgjfk+I0gf/ZBm7RZs4cNAu9ur9HtnU2UKoI20n76vD9LcaDW11BdS/tnTNkqBFh4dF2RtW2ToKNBUvJd2vqVp98cK/fyaovcpn9ptixM1VHTpvAOEZxwgURT10bVmbXkTCCFBWD9P++9Sf2e92mmYOkxhaqLfAUJ2XAUxCgEQKi6D+jrqqKulRq2bgW6fwvlqShXoXP4Z90EySzhKEAoiCiMvZOBwDlBVeREVFuTboKWpNgGK2piMQNhhJhB/DtAHUxUeCKoABFseGGQLoGtll6n4SoHqi+zgsyEzlGF20PZB+jrCdZkhrtKYJoCA6Wy6qUDY9rz1AcJnwzUQo3Ad6WdQbLhVbXesHRRDYNobqm2QXD+o0hLEKH10Q7NApmmTIFmtsY4Aag1eVwEQ7nH9Qf/1uW4bhBqURR1yguS0SRCOuI7+WNyo0hzyOwZ4ziDssr+BMBiuoVhaqXcGZ8dVkD5tuC5BWOj80UXR5FqF57gvQNjyDtBeDcq6DpmmTYJwfhRIrh9XQKZpkyDck/+WSBD6yfWTIwjt4JowhcTI0EEoihLEkQXI4+GyflToQBly/bgCyrTpyEywHPt9/1PTkabQnznR7Q9QNpmcGo+UCwAAAABJRU5ErkJggg==",
+    "wiki_name": "Statius's full helm (Deadman Mode)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Statius's_full_helm_(Deadman_Mode)",
     "equipment": null,
     "weapon": null
 }

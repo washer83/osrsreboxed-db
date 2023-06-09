@@ -1,7 +1,7 @@
 {
     "id": 21006,
     "name": "Kodai wand",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 60000,
     "highalch": 90000,
     "weight": 0.198,
-    "buy_limit": 8,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2017-01-05",
     "duplicate": false,

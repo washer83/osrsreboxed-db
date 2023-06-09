@@ -1,7 +1,7 @@
 {
     "id": 621,
     "name": "Ship ticket",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 2,
     "highalch": 3,
     "weight": 0.004,
-    "buy_limit": 18000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2003-01-27",
     "duplicate": false,

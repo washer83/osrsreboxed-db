@@ -1,7 +1,7 @@
 {
     "id": 10156,
     "name": "Hunters' crossbow",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 520,
     "highalch": 780,
     "weight": 5.0,
-    "buy_limit": 70,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-11-21",
     "duplicate": false,

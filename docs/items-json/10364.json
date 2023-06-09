@@ -1,7 +1,7 @@
 {
     "id": 10364,
     "name": "Strength amulet (t)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 810,
     "highalch": 1215,
     "weight": 0.01,
-    "buy_limit": 5,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-12-05",
     "duplicate": false,

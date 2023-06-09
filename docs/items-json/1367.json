@@ -1,7 +1,7 @@
 {
     "id": 1367,
     "name": "Black battleaxe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 499,
     "highalch": 748,
     "weight": 2.721,
-    "buy_limit": 125,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2001-12-08",
     "duplicate": false,

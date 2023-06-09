@@ -1,7 +1,7 @@
 {
     "id": 2570,
     "name": "Ring of life",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 1410,
     "highalch": 2115,
     "weight": 0.006,
-    "buy_limit": 10000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2004-04-20",
     "duplicate": false,

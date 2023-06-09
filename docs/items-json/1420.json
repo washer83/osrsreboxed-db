@@ -1,7 +1,7 @@
 {
     "id": 1420,
     "name": "Iron mace",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 25,
     "highalch": 37,
     "weight": 1.814,
-    "buy_limit": 125,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2001-01-04",
     "duplicate": false,

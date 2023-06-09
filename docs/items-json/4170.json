@@ -1,7 +1,7 @@
 {
     "id": 4170,
     "name": "Slayer's staff",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 8400,
     "highalch": 12600,
     "weight": 1.814,
-    "buy_limit": 70,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-01-26",
     "duplicate": false,

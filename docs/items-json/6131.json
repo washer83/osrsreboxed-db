@@ -1,7 +1,7 @@
 {
     "id": 6131,
     "name": "Spined helm",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 24000,
     "highalch": 36000,
     "weight": 2.721,
-    "buy_limit": 70,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-08-01",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 6583,
     "name": "Ring of stone",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 80800,
     "highalch": 121200,
     "weight": 0.006,
-    "buy_limit": 70,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-10-04",
     "duplicate": false,

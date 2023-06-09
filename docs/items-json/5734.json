@@ -1,7 +1,7 @@
 {
     "id": 5734,
     "name": "Black spear(p+)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 300,
     "highalch": 450,
     "weight": 2.267,
-    "buy_limit": 8,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-07-11",
     "duplicate": false,

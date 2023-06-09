@@ -1,7 +1,7 @@
 {
     "id": 22621,
     "name": "Vesta's plateskirt",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,9 +26,9 @@
     "release_date": "2018-09-06",
     "duplicate": true,
     "examine": "A powerful plateskirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xu2X0UuaYRTG+/6T7gaDQQQhMQJjiEgSiZKYKFY4Y5bozDJzYllZa05nrSIJo8QwGq3WcFs11kVjbDe72P/zrOd1r/vqYjfr+3azAwd5z4Xvj+ec95zztbT8t1s3BX92XU2Bz+eCx+2Ey+VAf78Ndnsv+vp6YLWaYbE80BtKgc3ciS7DPdh6uuHoNcFqNsJk7ITxfgfu3mkVQG2t/NXFFOzubKBS2cTW1iry+QVksymkUpOIxyNCKd2Bjo6quKg/w0rxKXK5OWRmp5FIROFzm0QKdQRSsLe3hVeVJFayU1hfTqKUT2NhOoTM1BjCQRtcDiPa29v0qiNFpGk+PYjFJ5GmSyD6dMwFg6ED3cYuraEUHO6lhDo3gfKZCSynowJsIuwQqRv2mrVOnYJ6/QCnp6+xODOEZDSARMQvnOmTUOmEB9Exuz5A1WoJ+/vb14Bio4PNlM1MBhsKXfUp9igNgRRsbhZQLq+J5y6B4qFhhAMeAUSYdGwEuYWHojmaTEZtgT6fFXB5+lw4gahO9JEXwSFnE4iQqUk34lGnUIqp07CwGzVE//FtBwFfP4YGbHA7ekTaqNSYfwCllTDGx0eFS4U0UEnByUmt6bycyvg9dnidvdeAqF4gMAi/36ttymq1svCvn16IVPFyqRKBZIxp4vjQcIQoAuLLx4Koo++X601FpEpqINaQx3k1dG1dsFoMWtVQY8/h05avS62SBJJpIyhd0xqSXVlCqVVSA0oYNdDNf7sla6jE4Urf2MhjaSktVg6euZIUCotIJmO/0qSZOmpTRC2dHWdR205gNRcUw5QNk42TexEB+co0VkeagrfVlzg42MHaWk4sZSzqD+8PxQtkjLuRTurQFBxXVsU846bIgibQ+fkbMecYYx3ppA7talvcLQo15ueSTaCLi7qYcTKmK1C5mEGpVBSjgV1axpiux5EgnDaLvkBcWW8CMcZXRyDONh2BaI2exMv5GcQzexNjodBIM6YrEBsjZxi/x+SZuxDVkTFdgd4dzos1g3sPz+zUdKbwHwDRfn/HNy5Wf9fr1oOum7xUXqw+/y3MT/umFvfwOkAfAAAAAElFTkSuQmCC",
-    "wiki_name": "Vesta's plateskirt",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Vesta's_plateskirt",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xu2X70vaURTGvf/EXgf7B2KwFxEDY4REIomSWBhWNGOp5EyzcmJYmZOmqf1SQluSMyYtF9Q2Gwv2i+3F9h898xx3nTbYm/X9+mYHDnrvC++H5z7n3KNG8z9uPAT+nqqGgN1uhW3UAqvVjOFhI0wmA4aGBqHX6zAwcF9tKAGjrgfmwXswDvbBbOiHXqdFv7YH2t67uN11i4G6u7rUghI4fLaLg8IOcrkUEok1rK4EEQz6MDfnZLVUBzo9PUKtGmWYaDSEUGgefr8bNksfX6GKQALHxwVUikHEw14kIn5srs4j7JtG0OuAy2GA1azFnTvdavhIoFzOc66Gx7H+2NPMtSU3IgsuziWfFb29PWqoJHBSCrE614FIqY3lOf7unzXDPtqPyTGd0ioJXF6+wtXVOdaXJ9qAtmJLfHUEFl60wesyNYEUVEmgWi3h4qLSBrQ8P9MEIpVIoYmJUe5VCgIJFItZlEr77CECIlOTd8jMrUCkjmySigJ9fPu0mVIhqq6Ae/IPIFKJPikV9JFArVbljEcmuaIWPVPwPhzDTjzYDlTvSZRSIQVUEjg/f4E3r0/w9f0mm1cq5HOOtwEFvBY4HONKN0iBlydFNvX3D9tIRxfYQ1IlAqI9AqIqo+dDQQ8JVuXLuyQ+1ZL48TnLnmlVqRWI/EV9iDq2Ud9okNd/8QaiMec8z8VxkFnB3kaoTaVWINqTLUFRD1UKSU4JRRBSJQIkDxFMayp0ZTIaKlEfon60u5tALBZGIODB0VGOR5J06gnC4YVf16SYOq0h8O0qzaNHubCI7YSTTby/n0E2m2RAmovc7mml1ZFRfz6KGVaDZiFSZ8xi4ArM57d5j4BUUoeiPpwdpnhapMFsymbCxIgRZ2dlVokmR9fUiFrqUNT70UGS1aAp0WEfZih6cGmcJXVoT3Ug8ssjz0zzcKq+rUyc90gxVYHoygiIBnoJRHtUdR0AomgAtB5OazK70/mgM0DUGOkNowqjdXFnHaW9GD+0KlaYjPrLX4kgl57ll53W+VSEu3UH1JHx+3984/D2dQeANBp5sDz8+vpf4icxFit5/LBpXwAAAABJRU5ErkJggg==",
+    "wiki_name": "Vesta's plateskirt (Deadman Mode)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Vesta's_plateskirt_(Deadman_Mode)",
     "equipment": null,
     "weapon": null
 }

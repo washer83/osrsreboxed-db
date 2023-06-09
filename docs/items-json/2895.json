@@ -1,9 +1,9 @@
 {
     "id": 2895,
     "name": "Grey boots",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
-    "members": true,
+    "members": false,
     "tradeable": true,
     "tradeable_on_ge": false,
     "stackable": false,

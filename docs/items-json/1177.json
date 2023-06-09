@@ -1,7 +1,7 @@
 {
     "id": 1177,
     "name": "Steel sq shield",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 240,
     "highalch": 360,
     "weight": 3.628,
-    "buy_limit": 125,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2001-01-04",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 11469,
     "name": "Superattack mix(2)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 54,
     "highalch": 81,
     "weight": 0.075,
-    "buy_limit": 2000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2007-07-03",
     "duplicate": false,

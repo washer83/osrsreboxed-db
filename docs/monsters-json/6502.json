@@ -1,7 +1,7 @@
 {
     "id": 6502,
     "name": "King Black Dragon",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-09",
     "incomplete": true,
     "members": true,
     "release_date": "2002-09-24",
@@ -35,10 +35,10 @@
         "nieve",
         "duradel"
     ],
-    "duplicate": true,
+    "duplicate": false,
     "examine": "One of the biggest, meanest dragons around.",
-    "wiki_name": "King Black Dragon",
-    "wiki_url": "https://oldschool.runescape.wiki/w/King_Black_Dragon",
+    "wiki_name": "King Black Dragon (PvM Arena)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/King_Black_Dragon_(PvM_Arena)",
     "attack_level": 240,
     "strength_level": 240,
     "defence_level": 240,

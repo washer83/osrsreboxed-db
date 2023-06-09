@@ -1,7 +1,7 @@
 {
     "id": 113,
     "name": "Strength potion(4)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 5,
     "highalch": 8,
     "weight": 0.035,
-    "buy_limit": 2000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2001-02-05",
     "duplicate": false,

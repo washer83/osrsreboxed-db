@@ -1,7 +1,7 @@
 {
     "id": 371,
     "name": "Raw swordfish",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 32,
     "highalch": 48,
     "weight": 0.5,
-    "buy_limit": 15000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2001-06-11",
     "duplicate": false,

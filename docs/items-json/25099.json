@@ -1,7 +1,7 @@
 {
     "id": 25099,
     "name": "Trailblazer graceful ornament kit",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 10000,
     "highalch": 15000,
     "weight": 0.1,
-    "buy_limit": 6,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2021-01-06",
     "duplicate": false,

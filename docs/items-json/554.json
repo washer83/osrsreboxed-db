@@ -1,7 +1,7 @@
 {
     "id": 554,
     "name": "Fire rune",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 1,
     "highalch": 2,
     "weight": 0.0,
-    "buy_limit": 50000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2001-01-04",
     "duplicate": false,

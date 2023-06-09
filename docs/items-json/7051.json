@@ -1,7 +1,7 @@
 {
     "id": 7051,
     "name": "Unlit bug lantern",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 52,
     "highalch": 78,
     "weight": 2.267,
-    "buy_limit": 40,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-01-30",
     "duplicate": false,

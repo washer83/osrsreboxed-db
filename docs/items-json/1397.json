@@ -1,7 +1,7 @@
 {
     "id": 1397,
     "name": "Air battlestaff",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 6200,
     "highalch": 9300,
     "weight": 2.267,
-    "buy_limit": 18000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2002-03-18",
     "duplicate": false,

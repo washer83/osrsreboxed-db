@@ -1,7 +1,7 @@
 {
     "id": 3448,
     "name": "Magic pyre logs",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 256,
     "highalch": 384,
     "weight": 1.36,
-    "buy_limit": 11000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2004-10-18",
     "duplicate": false,

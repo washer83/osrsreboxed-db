@@ -1,7 +1,7 @@
 {
     "id": 4793,
     "name": "Mithril brutal",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 20,
     "highalch": 30,
     "weight": 0.0,
-    "buy_limit": 11000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-05-17",
     "duplicate": false,

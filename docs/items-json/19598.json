@@ -1,7 +1,7 @@
 {
     "id": 19598,
     "name": "Incomplete heavy ballista",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 20000,
     "highalch": 30000,
     "weight": 5.5,
-    "buy_limit": 8,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2016-05-06",
     "duplicate": false,

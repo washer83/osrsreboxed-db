@@ -1,7 +1,7 @@
 {
     "id": 8780,
     "name": "Teak plank",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 200,
     "highalch": 300,
     "weight": 0.8,
-    "buy_limit": 13000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-05-31",
     "duplicate": false,

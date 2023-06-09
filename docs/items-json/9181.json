@@ -1,7 +1,7 @@
 {
     "id": 9181,
     "name": "Mithril crossbow",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 313,
     "highalch": 469,
     "weight": 5.0,
-    "buy_limit": 125,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-07-31",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 11931,
     "name": "Malediction shard 1",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 12400,
     "highalch": 18600,
     "weight": 0.907,
-    "buy_limit": 10000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2014-03-13",
     "duplicate": false,

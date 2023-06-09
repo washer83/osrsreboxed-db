@@ -1,7 +1,7 @@
 {
     "id": 22645,
     "name": "Morrigan's leather chaps",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,9 +26,9 @@
     "release_date": "2018-09-06",
     "duplicate": true,
     "examine": "A powerful pair of leather chaps.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xs3WW2sTQRQH8OQb+JSXvizkIRAQlkIoIQQaSpDQIhSCwZZC9bGSJ99UxAtWvKIoCiq2tGJapWoptV5aSKmtN8Rb8esc85/lbM4eJ2m22UoHDjvdTDq/PXNmNrHY/m9xsoft8z1vcXo5c5YWps+YeD51muYfnTLBiPWl61RfvEprr65YUPohuoZ7IEYBxKExqy8u05tnlwIT4298piOICoWM0+LsuX9QuALCwaCV+Yu09PS8GYurDYTxEr29NUM/Nx7uDsUg9Dk7DHq3MGlAPLYVCN/7vTlNfz7XGjFnQJjDdRwTenbVvLTzUzMIk2qQfGrEcu2CFbSxfCMAQp9BenbV4oFlAIKLG39LEMZWxw/T8GCWkk6CHKfH3LOBtlZuRQfiLOEegzBu/GiRxo4U6NrkSapOjBgUAp9p0Ke3ElQLB+K60CA8uQSdmKiYGCtnKeM2asFN+VnSoC/vbwdAvz487h6E+wAhGFQqpOj4sWEq5FJtQV9X70QLQmApJQiYgVySyuUijY4OUso5YAUho9/r93zQ9scnPiY0SKLwzyUImHyfQ6VSjiqVEvW5PdYaAuhH/b4VpGdv0ZpbuBNQLucakJtOmCxZQesPdgvyti0ytBOIlwxZAQwZAkqDMD4AEoeinl01b8vbQAgbCIGsMAghQchOpCBGITABTlwGVasjpqDRx7U4kDWxZyCZJVw1SG7zdgW9+fqmAM35mI5A2GE2EL8ONCiTOWj6uNq2PMbitSEz1GF20JogXUe4r0HY7thh6bTjL5ltufDaiAzEKNzHBBLU25s0mGQyQYf60+ZqA+GUliBG6dktzQPZls0GQlaAkKFBGP9t7a4PwhkU4hwKguSySRC/XDk7ui/rp2sQdtlOIEyGsUND/aaG0Ec9cYHL5YoMpJcN9yUIhe7VgRflcp7yeQ/EYwHClg+AGmdQ6HPItmwShD5A/CsApzjDeDfy2EhAtmWTIHwmf5agz6c5xsn66RKEFvzR3iokRoYG4VCUII4QoFiMj/V2oYEyZP1EAuq0aWQnWI7m2P/UNNIW+jv7uv0F6NE726nBraUAAAAASUVORK5CYII=",
-    "wiki_name": "Morrigan's leather chaps",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Morrigan's_leather_chaps",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xs3WW2sTQRQH8OQb+OTzQh4KAaEIpYRFSCh9CA2loaGhLS1YCIVInnxTES9Y8YriDVS0VDGtUmspsV5aSKmtN8Rb8esc+59wtmdPZtOkWaUDh93szmZ+OWdmNpHI/m9Rsoft/j9vUVqYOU3z06dMvHh8kuYenjDBiLWlq1RdvEyrry5ZUPpHtA2vgRgFEIfGrLy8SG+eX/ANjM+4p8OPagkZpcUnZ+pQOALCwaDlufO09Oys6YujDYT+Er21OUM/1x/sDcUgnHN2GPRufsqAuG8QCM/93pimP5/L2zFrQBij03FM6NFVq6WdfzWDMKgEyV8swwZar1zzgXDOID26alFfGYDgyY3PDEK/I90O9bgxyvYlKOYcpMOHYuaIexq0uXwjPBBnCdckaGwoZeLK1HEqFUeowzkQCPr0VoLKrYF4XmgQSiFBw4NJGh7oprFcglJuB7ldwRn68v6mD/Trw6P2QbgOEAL9UK5CYZAmjmYpn09TdiBF8Q4MUA/6unIrXBACpWRMZeEOTU4OGUwu10vj4/0eSoOQ0e/Vux5o6+NTD9MySKLw5QwqTmRMdgBJp10aHe0zsEwmaQX9qN6zgvToAa22fCvlc4GgUqHfgABx3c7dQWv39wqq7SPIUBCIUSgZMpRMdjUEob8PJDZFPbpqtSVvAyFsIMwhgACzgZCdUEGMQmAA7Lhe2Uoj3iTGhO7tSdRlJ1SQzBKOGnSsmDfZwTmyw+catPH6ugDNepimQFhhNhC/nyRIIoIyhL54bcgMNZkdtB2Qnke4HgSKxx0zqbH8JYjLhddGaCBG4ToGkCBkpVGGGIRdWoIYpUe3tBrIVjYbCFlhhG0Ocf9vq7c9EPagFvYhP0iWTYL45YqscJmw2rBBShDgbYOwynYDYTCdFQ3icoUG0mXDdQnCREd/BDZNPsdz3BcgLHkfaHsPankfspVNgnAOEP8LAIg3T16N3DcUkK1sEoR78m+JBKGfnD9tgtDq/7TbQmJkaBA2RQniaAEUifC23ig0UIacP6GAmm0a2QyWY6fvf2oaaQv9zL5ufwH2AExvxjzYhwAAAABJRU5ErkJggg==",
+    "wiki_name": "Morrigan's leather chaps (Deadman Mode)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Morrigan's_leather_chaps_(Deadman_Mode)",
     "equipment": null,
     "weapon": null
 }

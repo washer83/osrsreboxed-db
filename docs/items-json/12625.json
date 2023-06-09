@@ -1,7 +1,7 @@
 {
     "id": 12625,
     "name": "Stamina potion(4)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 160,
     "highalch": 240,
     "weight": 0.035,
-    "buy_limit": 2000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2014-07-03",
     "duplicate": false,

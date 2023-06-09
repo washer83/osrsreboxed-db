@@ -1,7 +1,7 @@
 {
     "id": 24613,
     "name": "Blighted entangle sack",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 12,
     "highalch": 18,
     "weight": 0.0,
-    "buy_limit": 10000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2020-04-23",
     "duplicate": false,

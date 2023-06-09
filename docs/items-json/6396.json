@@ -1,7 +1,7 @@
 {
     "id": 6396,
     "name": "Menaphite purple robe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 16,
     "highalch": 24,
     "weight": 0.005,
-    "buy_limit": 150,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-08-15",
     "duplicate": false,

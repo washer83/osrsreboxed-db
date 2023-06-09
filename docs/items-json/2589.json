@@ -1,7 +1,7 @@
 {
     "id": 2589,
     "name": "Black kiteshield (t)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 652,
     "highalch": 979,
     "weight": 5.443,
-    "buy_limit": 8,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2004-05-05",
     "duplicate": false,

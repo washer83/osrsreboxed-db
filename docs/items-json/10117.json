@@ -1,7 +1,7 @@
 {
     "id": 10117,
     "name": "Polar kebbit fur",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4,
     "highalch": 6,
     "weight": 0.453,
-    "buy_limit": 100,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-11-21",
     "duplicate": false,

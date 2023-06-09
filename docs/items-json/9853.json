@@ -1,7 +1,7 @@
 {
     "id": 9853,
     "name": "Carved oak magic wardrobe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4,
     "highalch": 6,
     "weight": 1.0,
-    "buy_limit": 500,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-10-18",
     "duplicate": false,

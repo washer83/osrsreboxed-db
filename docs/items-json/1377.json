@@ -1,7 +1,7 @@
 {
     "id": 1377,
     "name": "Dragon battleaxe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 80000,
     "highalch": 120000,
     "weight": 2.721,
-    "buy_limit": 70,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2002-02-27",
     "duplicate": false,

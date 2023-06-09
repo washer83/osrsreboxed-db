@@ -1,7 +1,7 @@
 {
     "id": 1275,
     "name": "Rune pickaxe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 12800,
     "highalch": 19200,
     "weight": 2.267,
-    "buy_limit": 40,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2003-05-27",
     "duplicate": false,

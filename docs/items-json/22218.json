@@ -1,7 +1,7 @@
 {
     "id": 22218,
     "name": "Extended super antifire(1)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 272,
     "highalch": 408,
     "weight": 0.02,
-    "buy_limit": 2000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2018-01-25",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 3014,
     "name": "Energy potion(1)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 14,
     "highalch": 21,
     "weight": 0.02,
-    "buy_limit": 2000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2004-09-01",
     "duplicate": false,

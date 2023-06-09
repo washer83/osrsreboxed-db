@@ -1,7 +1,7 @@
 {
     "id": 26051,
     "name": "Sigil of the treasure hunter",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4000,
     "highalch": 6000,
     "weight": 0.1,
-    "buy_limit": 10,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2021-08-25",
     "duplicate": false,

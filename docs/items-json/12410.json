@@ -1,7 +1,7 @@
 {
     "id": 12410,
     "name": "Iorwerth camp teleport",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4,
     "highalch": 6,
     "weight": 0.0,
-    "buy_limit": 10000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2014-06-12",
     "duplicate": false,

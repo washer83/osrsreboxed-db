@@ -1,7 +1,7 @@
 {
     "id": 7390,
     "name": "Blue wizard robe (g)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 6,
     "highalch": 9,
     "weight": 0.907,
-    "buy_limit": 4,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-02-20",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 13391,
     "name": "Lizardman fang",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 24,
     "highalch": 36,
     "weight": 0.0,
-    "buy_limit": 13000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2016-01-07",
     "duplicate": false,

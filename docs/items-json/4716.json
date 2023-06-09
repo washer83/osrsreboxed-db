@@ -1,7 +1,7 @@
 {
     "id": 4716,
     "name": "Dharok's helm",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 41200,
     "highalch": 61800,
     "weight": 1.814,
-    "buy_limit": 15,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-05-09",
     "duplicate": false,

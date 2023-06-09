@@ -1,7 +1,7 @@
 {
     "id": 7400,
     "name": "Enchanted hat",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 6000,
     "highalch": 9000,
     "weight": 0.453,
-    "buy_limit": 8,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-02-20",
     "duplicate": false,

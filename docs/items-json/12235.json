@@ -1,7 +1,7 @@
 {
     "id": 12235,
     "name": "Iron platebody (g)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 224,
     "highalch": 336,
     "weight": 9.979,
-    "buy_limit": 4,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2014-06-12",
     "duplicate": false,

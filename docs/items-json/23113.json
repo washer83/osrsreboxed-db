@@ -1,7 +1,7 @@
 {
     "id": 23113,
     "name": "Mystic set (blue)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 94000,
     "highalch": 141000,
     "weight": 0.05,
-    "buy_limit": 70,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2019-03-14",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 2878,
     "name": "Cooked chompy",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 52,
     "highalch": 78,
     "weight": 10.0,
-    "buy_limit": 6000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2004-05-18",
     "duplicate": false,

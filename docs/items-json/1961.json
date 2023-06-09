@@ -1,7 +1,7 @@
 {
     "id": 1961,
     "name": "Easter egg",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4,
     "highalch": 6,
     "weight": 0.085,
-    "buy_limit": 50,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2002-03-31",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 12759,
     "name": "Green dark bow paint",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 0,
     "highalch": 0,
     "weight": 0.001,
-    "buy_limit": 4,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2014-09-18",
     "duplicate": false,

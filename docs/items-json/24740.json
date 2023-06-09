@@ -1,7 +1,7 @@
 {
     "id": 24740,
     "name": "Strange old lockpick (full)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 12800,
     "highalch": 19200,
     "weight": 0.002,
-    "buy_limit": 50,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2020-06-04",
     "duplicate": false,

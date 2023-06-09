@@ -1,7 +1,7 @@
 {
     "id": 3428,
     "name": "Olive oil(1)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 5,
     "highalch": 8,
     "weight": 0.02,
-    "buy_limit": 10000,
+    "buy_limit": null,
     "quest_item": true,
     "release_date": "2004-10-18",
     "duplicate": false,

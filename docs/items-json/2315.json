@@ -1,7 +1,7 @@
 {
     "id": 2315,
     "name": "Pie shell",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 1,
     "highalch": 2,
     "weight": 0.25,
-    "buy_limit": 13000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2001-03-17",
     "duplicate": false,

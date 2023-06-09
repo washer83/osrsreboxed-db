@@ -1,7 +1,7 @@
 {
     "id": 7319,
     "name": "Red boater",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 90,
     "highalch": 135,
     "weight": 0.01,
-    "buy_limit": 4,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-02-20",
     "duplicate": false,

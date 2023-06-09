@@ -1,7 +1,7 @@
 {
     "id": 11964,
     "name": "Amulet of glory (t6)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 7050,
     "highalch": 10575,
     "weight": 0.01,
-    "buy_limit": 5,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2014-03-27",
     "duplicate": false,

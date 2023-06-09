@@ -1,7 +1,7 @@
 {
     "id": 11232,
     "name": "Dragon dart tip",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 100,
     "highalch": 150,
     "weight": 0.0,
-    "buy_limit": 11000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2007-06-11",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 11113,
     "name": "Skills necklace",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 8080,
     "highalch": 12120,
     "weight": 0.01,
-    "buy_limit": 10000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2007-04-30",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 12371,
     "name": "Lava dragon mask",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,12 +21,12 @@
     "lowalch": 4000,
     "highalch": 6000,
     "weight": 2.267,
-    "buy_limit": 4,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "Do I look scary?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMElEQVR4Xu2W3UuTYRjGfU49CEpDyqil0cg0N9NsfozpUhHTtMzPNOcMZa4VfqBFuQKTzIOEIPqAgk4KxIPqRKKz/oGgvyOIDju52vW83dvr68zNbXmQF9y8n3ue33Pd9/28y8ra1f8hBeudHZTCeXcBEoNK5J2UpeCw7dVADpvtLxMqfHo9lCD4tqXweMAJ+8E9WwApjFwogi0/f4v3UhJXqlDmcOBIbvaflZtXL9cK0yM1mPZXw15YmCkghfaWFjR7vXqSvH3Z8DUcg69Wakmh2uVCZUWFBi4pKtLv8ZgBoEgRNzWhrrZWT0ioyZ5iTF09g0CrHcG+cg1DEELwaI40Ayl0dXRodxo8Hn2+MHEOD3ynsThoxNLoWQ1KN1gz4pDZnYwA0aWVR61YCTfi7Y0aPBmpxPJQzB0ByiAMZQBdamvTQO/DzVid9uBloArLs41Yvt28rnYIZC7kNMNQCr2dnRpIXGKwjphC1pUAMaxA1tHSoJhDBJJOM8NYHZIwui8tiu0ndEeAJG2ESRQoDS4pDHecikSpnnCguxs/Pvbj59f7+DzrxpuwF8/vNuJppLOeRWJ+ognzIQ/mb3rX7T+Sts0jYSl8/xLUbgz392PtRV90kFcL7bgXqt8w+J1I64tDAiObIu/xGV2c6irVu3eohq4lDKXwLtLarBOmKuD3Y+p6UKdKNjpJo7m2+FwKW9reCnRr1B1dRJIdaPyIE3LyifFxDci6cB3PQVXZYVQV52HpirFrm2vIHLHCjoWAJAFDGTACxNXLpuc8cQD86xG8XLKhoM2OyBaQIghlfETZRYT59W1OT8rJThbmwH40F/aC/Witt0dTEe87JlASMZeSksKHSa9OA6HoEME4oO+iE+3OQ+tScm1wUNfY2uqq7kjzMwEhbDjgxlxPKWbrpPOSkrESusMgXLz6ILCcc1L5J8BraX1r/ZhTZ511CxlAbHt20dzMDEJjY9Fr6SAB4JFAdFOKnPettbNtmIf+ciwGXRjq69Vg1sKN19YESpMb8WQMSCC6sllbS6qsACm4sbmMwYyJ5LvFMH9Y44FYx0m7zGDW+KcgVllTsWMgu4roN6Bh8dWhta5LAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xu2Wy09TURDGOVtjYgLER9BQbRQotPYhESpgmwZRwUKlWEsRoRUlUhoDRTBEIIjga4HRmHShCxIXhpC4QV26du+fYWJcuvnsnOu0l2ORlraykC+Z3N4HZ373m5lzKSnZ1f8hAfXKDkqgw3UC2UFl80zeErBV75dAVoPhLwkFPsSbsgTftgSeR+yoPla2BZDAkN8GQ0XFFs/lJXpTAbvVisqyPb/fXP/2fC4wMdiIMW8tqozGYgEJdLW344LHI5McKN+LcGcNbnbVpiDONDbidH29BDabTPI5OhYBKNnEbW1wNzfLhAQVDzsRH2hAtPcUhluPSxgCIQg66qPAQAJXfD7pTqvLJX8/jDiwGD+Px91mPB114km/Q4KSG9Qz7JDenaIAkUurU2exuuiW8fKeBy9iDSl3GKiIMCQNqNvrlUAfE0G8u9OM1zEnlqfOYXm8aUPvEJC+kQsMQxII+v0SiF2ioD6iElJfMRCFCqSuVgClHSIgnjQ9jOoQhzZ9BVF6PyF3GIjLRjDZAhXAJYFBbx3CPotMeC0QwI8vd/F9JYjPb28h0WfGq4ANiflLSDzoxEK4HjOdtViIuTbsP1y2zSNrCXx7PyDdCIdCWJ/zpBZ586gHs0HHH4tPB8wphxiGN0W6RvfIxXGfCRM3mpLRkguUwErILvuESnU7EkF8NCpLxRsdl1HfW3SfG5vHXgWa8telXiLHCdT+iBJS8rGREQlIfeG0V8JpOwKntQLPYi3yur6H9JFu7HQwSA4wJA2GgejtedOz1RyE1ViKaLLP1IbWO8JbQJ4gJO0jSlNEMD+/zsmklMx0eB+qjpajylCKDsuhVCkyfccYiiPtUk4SWF+6KMtAUOQQgdGC191GdDu07xTHUH+/7LFPa2tyIvX3GIRg71+1YPpyHWaj7u1BUZA7FASXqT8ImH9TUv5PgM559NX+0ZdOzbqFNCAae5qimclJxIaHU+c8QQxARwIiN7nJ6braO9uGWeqzYL7nJAZ6gxJMbdxMY01ABXIjk7QFCYhc2WysuVQqQB5ubC5tMS0Rf7co9B/WTCDqOgWXHkyNfwqiSi3FjoHsKqlfsS7xFMLwfe8AAAAASUVORK5CYII=",
     "wiki_name": "Lava dragon mask",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lava_dragon_mask",
     "equipment": {

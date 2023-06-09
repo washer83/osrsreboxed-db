@@ -1,7 +1,7 @@
 {
     "id": 22195,
     "name": "Mahogany bird house",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 2,
     "highalch": 3,
     "weight": 0.453,
-    "buy_limit": 250,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2018-01-18",
     "duplicate": false,

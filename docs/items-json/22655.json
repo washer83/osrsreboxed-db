@@ -1,7 +1,7 @@
 {
     "id": 22655,
     "name": "Zuriel's robe top",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,9 +26,9 @@
     "release_date": "2018-09-06",
     "duplicate": true,
     "examine": "A powerful robe top.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAES0lEQVR4Xu2W72tTZxTHff4T/4FBEURG31REhlQKxbBgS4JtSVOaJiTe/kqTlpvGpr+IrW2tLaWrs4q6KeJEHdsUXziY29jGJsP/5szPuXtu0ti0N/GV4oFD05vnnPs533Oe58mRI5/s4zMjtU+C2/vE7mtGbu+MS3OJjTy+N91kbF0z8uD2lGwspxpM7MV9vTmscS1HjzYQW9eMPPqmoL48F28wsZFvd3MKtLWabrCYA83I7taorJUT/ycN5j88LMn3D2bk7vUJv5DgxexrleTbVzOq0tRYt4Q6TquHO8+od7aflDOnWqWt9bi0nmiR022f6/cP77iyvjSksXthmzIjKwuDUsxHZdwJy4zb4wNRsTMYVY+GOxTq7BdtCgEcn2kTTjwx+GKxTwGbgDLy7PG8ArC76D9w/J8c6JLucLtCFSeTUnJT0h1qV5DeSKd+B4hdRyHuRETKpX7dFLT+/s18c1BLpZK8eLKg29Y6bSA5A84OcrMDqlDswjkF4jkvZN1coVfX0jIK41ksGm12noyMp/pkZKhHPX7hS4lFzikg6tzaHlMlCrmEOMmoAqEiu4phBhY1ers6ta04LWXWLFDtGw8xI3knLul4xIfBry3mdeegFi2k6p1rjioBALAWhvWA0FIcoOPHPmsGyEgpl5JiNimFsYQPQ7XlwrBslqfk6f2iwqAIELSKY4GhZeZYSyF26JkxoJpQqAKDQuwkWsYL8EXXUZWuzudUKeYFONplhxYQIBK9YYXgbzLWpc5zjoUGhtqIOzKg8wMMEFZuvgMImNXZrFyZGVMoHBCAeDkxrKfdxKAyxU1kYv5RERDKyNxkZg+QHUYv2ANiDTBLxVGdJWaGXcSQA0SMbRExqE1O8lnVOKsCtM7ojNhKCCawUo0HTEuBYe1P3836UFYhgGrjaCMgqGcP0kBAVgEUQvLqrWqBqBgg1v7yfNmHqgdk2wiQ3RzVY1BLUWXe/Nh+A1VbkR141AHu1xdX/OGuniFaZoHYFAw0KvE9UOS0Ch2g0t4BtNu2eoYAYg3q8PnnHy/rQchW57AkphbIzqOFAsjmPADGmpGtlZW358qcFHM5mXAcuZio/OwAlhfYOaNVbPvcyHkZTYf0Rfa84fa3cTbnrDsl45mMnzMQ0OrCggaOplMS7+mR86GQnxj5AWF2aBdXCZesvbe41YHjZ4g9lfGN5SW9G2cm8zKcHPJzHgL0dqinp31lhvr79TKMhMN+YloEzJ8v1+XvV18p1GLRkXQioqc0pzU3/GDsrJxqa/Hj5guuwrjZrCo02NdXVeiB5iXY3dzQiuz/XiVGXv92Q/55dV1e/35T/v3jjrz5654+Y364RjggmScUS8Y79sTi22trWnR13kNUwryely9dqgkyqgqOQqiDYrSNncbdxr3GAclVwu+gCpCXd2d9fZ+8gaxeBd7zoF4v/t3nAaxekH0e1OvF1z7/ZB+0/Qc1vdl1AWJwYwAAAABJRU5ErkJggg==",
-    "wiki_name": "Zuriel's robe top",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Zuriel's_robe_top",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAEWElEQVR4Xu2We2ubZRTA936TfQGhCGNI/6mMMUZHoTQY1pLQpqQZTRMa01uatLxp1vS2mKy3tZTaaSedbmNMmfMyZeIFp6KiQ/w2x/1OdpI0a9o38S9lBw5JnrznPL9zec7znjr1Sv5/4kj9inf5N7ZHiiMHe1PSmmNHHt6da9G2oThy/2BWtkrxJh2X7d7bHlO7ttOnm7BtKI588lFWtbQYadKxI3f20wq0szbaZDDHiiP7OxOyXoi+cOpNv3iQl8/uz8uHN6crgXgP5kipOt/dSGiWZif75NKFDvF1nRd/90XV7s435eK5duloPyPtZ9tU+f7gtiubxRG1PQzbkjiyujwsuUxQppJ+mXcHKkBEnBwOqgb9XQplkMDxnTKh2GNj6k4HWoFy5KuHSwrA6aL+wPG7/8AvXfkLCpWbiUnejUufr1NBQoFu6fN3Kog9RyBAoMChrLUEtXFtRX54XJLHHy9oL3B8+b6SG9QG5wS5qSuaoXB/jwKxfu9WRp9jc56lbJxQNBwMttpPjkzFB2U6EZZMMqJ6fX5Snny6rNn5YHdSM5FNRyUZCyoQWeRU0czAchDwATBZpKT0mgHV73iCOApBn0RDfhkfGZAVNyk7RbeSLUpI4+7dSEohP6QAwBoMdvQYIAZ05vXXWgFyJJ+OSy4Vk+xkVCL9b0ks3KtrheyYbBdm5dG9nMKQESAoFWOB8tBzod5utTEQeozvLWSoCmMZIu1AAUeWbqxkZGMprZmiX/ikXPQImeFZyjQaCSgEmQIOZf18xxvNNLUj7vgVhQCGSC1K/gMImLWFlKoNP0AAYlNseB57bAiE4OhHGxUeoRxZnEkcArIeKBuXgXgGmGJuQkvIGptiY31DifjEhmzj0/qRAJlVHkrn6AYWCcYYVqMpA1NSTpzBAWNAZAiQejvKCAjZs0HqCcg2wTk9UHtUDYiIyY7BEQBrfB4FRGBW+nCg56U2qKeokXL/WL2Bqo/IGh7w2sZnLBgQNpTMgPiPdbIEHFD4tAwdk6XDDYiD+h4CiGesVGyAc2tisloPZP1oUACZz2NgTBzZWV19PlcWJZdOy3QyKW9Hq68dwLKB9QsnjJmUjPXIxKivMgTt9jc787ngzspUIlHx6QlobXlZDSdG4xIZGJDLPl/FMekn2u+/fEe+/bwg3zy6phcp9xbTmhs9PX5ZX0FsKqNbpaIU83mZn8nIWGyk4vMEoOdNPTdXyczI0JBehgG/v+IYkB+/Lslv323KH0/flZ+eXJfQnV7pKXXqlGZac5sPhy/JuY62it1S1lUYN5XSDA0PDtYEeqyUHexvb2lE9rsciSPPfn5f/nx6U579ckv++vW2/P37XV3jsuUaYUBydSxmQxKLlOeQ2aK76+sadK3fE7KElA0p22EjR7OCkiGyQ8Z4A6CXuNu413gL4Cqxl7Hqho7sbW5K4erVZmBMGkVQXveqjexfXvcgjYxs3as2sq9ffyX/afkH0DfPsGT3H5IAAAAASUVORK5CYII=",
+    "wiki_name": "Zuriel's robe top (Deadman Mode)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zuriel's_robe_top_(Deadman_Mode)",
     "equipment": null,
     "weapon": null
 }

@@ -1,7 +1,7 @@
 {
     "id": 22629,
     "name": "Statius's platebody",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,9 +26,9 @@
     "release_date": "2018-09-06",
     "duplicate": true,
     "examine": "A powerful platebody.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAEDElEQVR4Xs2Wa09TQRCG4Z/4E/zqN/xAjNEQTQmkEAlICsSGpoAFapGcWkDu5dZyqRUEQrkEERERgQSC4C1GVGKif2bknWZOt8spUqiGTd50z+6eznNmZmc3K+vit2yyltX8P2/ZtDTZTIsTTayFcR/NPXnAEoidlW7aXu6krRcdFlD6R5wbPA4kUAAS6TCbzx/Tm/nWJMN4xpyuZKi0ILNpeco4BoVfgIgEaG0uQCszfl6LXysgrFehD/cn6dtu5GxQAoS+eEeA3i62MZCsTQWE937sTdDPj7EjzTIQbFy+dImlW9da3O3y1QIEo1ZAq7FHJhD6VkC7qz1JQOgLkG5da9lJYYAhSW4860AwDggJbyqg/bW+zAGJlzCmAqk5IQIQvKYDfVhXgWLpAUle6ED6bhpqLSa7LYdK7blUXHCDbl7LOQYoQJ82+pOAvr97en4gzP1+H6R2o4Z6AvfJ73VSo7uc2h66yGioIp/7JlWWFZCjxMawkEB93hzMLBCEUGJ+sMNLw71NDAb5PbcYbiHipJVJN3ncZVRdVUSOUhuvR3i/bodNoMP30yZM2kAqFL4U8xtLEYoO+inSb9BoXzM9qHNQLNJBz8ItPD4eCpCnuozqnCVm6A62hy2BdOspWiJBrYAONo5221IjrcfqGAjhGu0spaBhpzZvPo30uI5gbNQfKKKWBht57l3n984IFK9B8FAqoF97HfQyNkTLMwPskWBrPXX56ziXJG+iwbvsIWd5YfwjdsYSQEpR1K1rLb7ldSDxmGj3hZcFLy1PuDh0yJ/u5kJObKzZmPdwwldXFGUWCGPwAMKCHYTtvf1qnNZmaml1LsSGkeAI2eSAg6HgGXgOOxH9Ense/8+5gSCMTY+1swEkKn/9UVJDsXAlzUa72DCgASQhgqL9NZxX+IgE0KwJcyog7DAdqMsop4C3hHy1dtPY4lQfzY1UcVIDBrpbfJuFeck3VeIhAdKtW7QEkEBhLNTt43wQ10PwTDTsJ7/PSW2Gi5V/K5fy83LNNQhjwFdNTZ5Kcjni4xkBQo7gj9HHqY3fyJBBwfZ6CvX6uA8PNroLKffqFRMI7yHhw+13TM9JpY6v+WuLA6lhw1irr8wMlwD1PKrgcYAYDXeo2VPMtQdnG+bVkMG7AoQalEYdSgZSoSAcAQBKddKL5EDFzQDP06EKM9nTBsIu04HkSiFAMKbegVA4IdQsuXpgrQA11VeaBfPMQPpuw7gKJLdJAZJzD+/JWgDtve41PYddhhqUdh2yCpsKhP5JQOIhrAXQl60hs1KfCcgqbCoQ5tRriQqEdZI/GQBCO56kVtLzR6QD4S6tAonSAMrKkrJ+knRAVWr+ZATotE2HPA2sKLH2PzUd0kr6Oxe6/QHclyMjwBDqMgAAAABJRU5ErkJggg==",
-    "wiki_name": "Statius's platebody",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Statius's_platebody",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADzElEQVR4Xs2X/UtTYRTHt/+kP8FfIkICJfxhKMJwNFQmagylOTHfdTZmSzPzpZVZppSscL5gKmZmKmim9kL0JgX9M6e+53Lunvt4tc2t8IEv9+7ccz2fe855zr06HKd/Ocledtf/+XLSQjxM85NdrLknIZqZ6GQJxPbyAG0t9dPm4i0bKP0hMgY3gAQKQCIdZuP5TXo122MJjN+4pssKlRakk5aeRg5B4QgQkQCtzkRpeaqbfXG0A4K/Cn2wF6evO+MngxIgnEt2BOj1fC8Die9RQLjv++4k/Xif+KNpBkKMnDNnWHp0bRlpl6cWIAS1A1pJXDeBcG4HtLMyaAHCuQDp0bXltJQBgaS58VsHQnBASHmPAtpbvZM9IMkSbCqQ2hO6dKB3aypQIj0g6QsdSN9N1T43eUtcVFFWTHkXzrIK8s+zdLAP6zEL0Le3jzMDkgCRjloK+L3UFKwgf2UJw7Q0VPEx3FhM7qJ8Ggh7KRYto5GechPq48a97AHB9mtvgNZnW2j/RYh2FjuovfEyg0EAagj4aH6ijpbjDWzzul3kLszne1Hez1ujJtDB/jMTJm0gCLZYfxtrsLeZxkci1Bup52wBDDCwdzb7zeyhlJBk9svWA1sgPfoRy/gj2DFqlkSrU420NFlPc+MBhkHpxvoraThSSr0dHro/FKJgbRmX7UZbCbVcMcBOCGTMIGRIBUIfoRdw/eebHs7SWCzMmULJkBWoPVjIPqN9Pu6nIleekaHtR0kgZSjq0bVlbHkdSM0OtL3QbilhX/dVhkL56qousk9N9SUq9xZmHwg2BJKdhKdGZtYSTRS9FmSY7lCA+ycxWsM7C36lHg+XE1Cuglz+OxkDQbChLBB6Bb/RIxAAYO9qrWGo+F2/pZFRVvSVzCUDaNqESQkIO0wHkiygRyQYygUg2LHbcET2IFyXflMlGRIgPbrNSgIJFGwoF4adz5OcwOid4b5WMzsQ+kWd0jMPa/m+Km+uudOyAoT+QJNKg0K3o02cOZH0Ue65HNMHsHgYvGLkXpnUhs9flwGklg02tVz4jBCbKsDAB02M62rJ8DBSSsygNOaQFUiFgvAKAFCqb3p8GQi8NHvaQNhlOhC2P2wChGDqNxAGJ4SZBT9ch68AoXSY2hkB6bsNdhVIviYFSN57uE98AbT7csjMHHYZZlDac8iubCoQzo8DkgzBF0CfNkfMSX0iILuyqUC4pv5XogLBT/onC0BYh5vUTnr/iHQgfEurQKI0gBwOGevHSQdUpfZPVoBSXTpkKrCipO9/WjqknfR7TvX6DQh9/nT90QbBAAAAAElFTkSuQmCC",
+    "wiki_name": "Statius's platebody (Deadman Mode)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Statius's_platebody_(Deadman_Mode)",
     "equipment": null,
     "weapon": null
 }

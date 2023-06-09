@@ -1,7 +1,7 @@
 {
     "id": 19985,
     "name": "Light bow tie",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 2000,
     "highalch": 3000,
     "weight": 0.1,
-    "buy_limit": 4,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2016-07-06",
     "duplicate": false,

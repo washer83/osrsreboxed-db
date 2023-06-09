@@ -1,7 +1,7 @@
 {
     "id": 2472,
     "name": "Mixed flowers",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 40,
     "highalch": 60,
     "weight": 0.028,
-    "buy_limit": 150,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2004-03-29",
     "duplicate": false,

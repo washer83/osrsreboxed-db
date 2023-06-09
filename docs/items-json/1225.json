@@ -1,7 +1,7 @@
 {
     "id": 1225,
     "name": "Mithril dagger(p)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 130,
     "highalch": 195,
     "weight": 0.396,
-    "buy_limit": 125,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2002-02-27",
     "duplicate": false,

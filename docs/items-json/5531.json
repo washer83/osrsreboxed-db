@@ -1,7 +1,7 @@
 {
     "id": 5531,
     "name": "Water tiara",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 40,
     "highalch": 60,
     "weight": 1.0,
-    "buy_limit": 40,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-06-13",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 23360,
     "name": "Ham joint",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 600,
     "highalch": 900,
     "weight": 2.0,
-    "buy_limit": 100,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2019-04-11",
     "duplicate": false,

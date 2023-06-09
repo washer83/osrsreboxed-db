@@ -1,7 +1,7 @@
 {
     "id": 11993,
     "name": "Lava scale",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-03-27",
     "duplicate": true,
     "examine": "A scale from the hide of a lava dragon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xs3WS08TURQH8PabkHTBThoTogRISnxEti7Y6kZXLNRoFDpglaBBsGKEGh9RgsaCBpUg1gckJQi+YnwRv86R/52c4dwzd0qHjoabnMx05nbOr+c+pqnU7m9pcofr/j9vaXoxPUhzU56JZw/zNHu/3wQjVhbGqDp/jZZfjjhQ+kc0DPdBjAKIQ2OWnl+lN0+HrcT4jHs6bFQsZJrmHxVCKBwB4WBQZXaIFp5cMn1xdIHQX6I31qfp5+q9naEYhHOuDoPezV0xIO4bBcL3fq9N0Z/P5c2YMSDkyDY1mdDZVfPLzr+aQUjqAi2WLwcgnLtAq4vXLRDOGaSzq5a2hgGJeHLjswYhORA8vFGg9cp4ciCuEq65QFxJBqFqGvTprQSV44F4XmgQkmuQnNC1QF/e37RAvz48aByE6wAxiispV2QU6OvSrWRBCAAkSE/oKBD6fq+WAtDGx8fxVpgESRQe7gLhnr+f+OEC/ajedoJ09ojmPxjJaoHkDr2vtdVEcyZjPodAK3d3CvL3IFRoOxD6Th7fT3dOtNNozx4a6WmhvdlsCIT+Fkhsijq7av6Sd4EQ/HCuyqFczsT46Q4aO5alYn83Fc/kLBDgiYIYhUAC9KlcOEyvvINUGugOUBPeEbrY20Xe0RYaPNkRoBIFySrhiAR4BaBfqe9AgEG0t7VRV2enOdcVWntdFKCZAFMXCCvEBeLXAfrcGJ20hoxBmNQSw0OM14asUJ3VQdsC6XnES5krVPCGaSA/RPm+Ap0/59Gp3rOUyTSHqgMQXhuJgRiF60gAkJzYOuSLlUHYpSWIUTq7o/kg17BpEO7LHRrncmgZhP7flicCEPagGPuQDZLDJkE44rrEuECANwzCKtsOhGT8ytAgnms8XImB9LDhugTJvxyMYRD3BQhL3gJt7kGx9yHXsEkQzmuB5PxJBOQaNgnCPdeERqCfnD8NgtDCS9kVev5waBA2RQniiAFKpXhbrxUaKEPOn0RA9TaNrAfLsdX3PzWNdIX+zq5ufwHeKLAcJ/SL/QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+UlEQVR4Xs3WW08TURAH8PabkPSB1yppCCqmPkjiNzAxJBof9cEgRKV1UyVovJUSVJJKlKCxoEElBPECSQmCtxhvxK8z8j+b2c5Op6VLV8NJJrvdPd35dc5lm0js/ZYkO6z7/7wl6eWMR/PTeRfPH+VobmrYBSPWFm9TdeEmrb66YaD0j2gb7oMYBRCHxqy8uE5vno2GEuMz7ukIoyIhk7TwuFCHwhEQDgYtz43Q4tMrri+OFgj9JXprc4Z+rj/YHYpBOOfqMOjd/DUH4r6NQPje741p+vO5sh2zDoQc6Y4OFzq7an7Z+VczCEkt0FLlagDCuQVaX7oTAuGcQTq7asnQMCART2581iAkB4KHtxFoc7kUH4irhGsWiCvJIFRNgz69laBKNBDPCw1Ccg2SE7oZ6Mv78RDo14eH7YNwHSBGcSXlimwE+royES8IAYAE6QndCIS+36v3A9DWxyfRVpgESRQeboFwz99P/LBAP6qTJkhnb9D8ByNZM5DcobszGRedqZT7XAdaK+8W5O9BqNBOIPQte31UHjhMpfOHqHSxj/an03Ug9A+BxKaos6vmL3kLhOCHc1WOZrMuimcOUHH4GBUHsu4oQYDHCmIUAglcBaf6XYz1dwWo8ZPd5B3vIu90hrwTtSrFCpJVwhEJ8ApAv4lT+wIM4mBPDx3p7XXnukIbr4sCNBtgWgJhhVggfh2gz9ite6EhYxAmtcTwEOO1ISvUYnXQaiA9j3gpc4UK+VG6nBuh3KUCXRjK07mzg5RKddZVByC8NmIDMQrXkQAgObF1yBcrg7BLSxCjdHaj+SBr2DQI9+UOjXM5tAxC/2+rdwMQ9qAI+1AYJIdNgnDEdYmxQIC3DcIq2wmEZPzK0CCeazxcsYH0sOG6BMm/HIxhEPcFCEs+BNregyLvQ9awSRDOm4Hk/IkFZA2bBOGeNaER6CfnT5sgtPqlbIWePxwahE1RgjgigBIJ3tabhQbKkPMnFlCrTSNbwXLU+v6nppFW6O/s6fYXPA2wuDPuqnEAAAAASUVORK5CYII=",
     "wiki_name": "Lava scale",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lava_scale",
     "equipment": null,

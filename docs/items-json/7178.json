@@ -1,7 +1,7 @@
 {
     "id": 7178,
     "name": "Garden pie",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 9,
     "highalch": 14,
     "weight": 0.001,
-    "buy_limit": 10000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-02-20",
     "duplicate": false,

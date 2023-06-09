@@ -1,7 +1,7 @@
 {
     "id": 6603,
     "name": "White magic staff",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 80,
     "highalch": 120,
     "weight": 2.267,
-    "buy_limit": 125,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-10-17",
     "duplicate": false,

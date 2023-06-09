@@ -1,7 +1,7 @@
 {
     "id": 958,
     "name": "Grey wolf fur",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 20,
     "highalch": 30,
     "weight": 3.0,
-    "buy_limit": 18000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2002-02-27",
     "duplicate": false,

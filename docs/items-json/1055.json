@@ -1,7 +1,7 @@
 {
     "id": 1055,
     "name": "Blue halloween mask",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 6,
     "highalch": 9,
     "weight": 0.34,
-    "buy_limit": 5,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2002-10-31",
     "duplicate": false,

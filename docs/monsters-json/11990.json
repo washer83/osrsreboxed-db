@@ -1,7 +1,7 @@
 {
     "id": 11990,
     "name": "Poison spider",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-06-09",
     "incomplete": true,
     "members": true,
     "release_date": "2023-01-25",
@@ -14,7 +14,7 @@
     ],
     "attack_speed": 5,
     "aggressive": true,
-    "poisonous": false,
+    "poisonous": true,
     "venomous": false,
     "immune_poison": false,
     "immune_venom": false,

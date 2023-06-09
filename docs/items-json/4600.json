@@ -1,7 +1,7 @@
 {
     "id": 4600,
     "name": "Willow blackjack",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 240,
     "highalch": 360,
     "weight": 1.814,
-    "buy_limit": 125,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-04-04",
     "duplicate": false,

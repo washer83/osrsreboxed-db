@@ -1,7 +1,7 @@
 {
     "id": 21034,
     "name": "Dexterous prayer scroll",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 32000,
     "highalch": 48000,
     "weight": 0.015,
-    "buy_limit": 5,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2017-01-05",
     "duplicate": false,

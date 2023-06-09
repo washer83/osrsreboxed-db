@@ -1,7 +1,7 @@
 {
     "id": 1729,
     "name": "Amulet of defence",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 510,
     "highalch": 765,
     "weight": 0.01,
-    "buy_limit": 125,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2001-05-24",
     "duplicate": false,

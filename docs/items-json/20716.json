@@ -1,7 +1,7 @@
 {
     "id": 20716,
     "name": "Tome of fire (empty)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 8000,
     "highalch": 12000,
     "weight": 1.0,
-    "buy_limit": 15,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2016-09-08",
     "duplicate": false,

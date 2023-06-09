@@ -1,7 +1,7 @@
 {
     "id": 9640,
     "name": "Citizen top",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 2,
     "highalch": 3,
     "weight": 0.907,
-    "buy_limit": 150,
+    "buy_limit": null,
     "quest_item": true,
     "release_date": "2006-09-04",
     "duplicate": false,

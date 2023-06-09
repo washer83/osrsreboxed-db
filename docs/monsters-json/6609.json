@@ -1,7 +1,7 @@
 {
     "id": 6609,
     "name": "Callisto",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": true,
     "members": true,
     "release_date": "2014-03-13",
@@ -35,7 +35,7 @@
         "nieve",
         "duradel"
     ],
-    "duplicate": true,
+    "duplicate": false,
     "examine": "I wouldn't want to eat his Porridge.",
     "wiki_name": "Callisto",
     "wiki_url": "https://oldschool.runescape.wiki/w/Callisto",

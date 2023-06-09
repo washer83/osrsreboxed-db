@@ -40073,47 +40073,51 @@
     },
     "12109": {
         "id": 12109,
-        "name": "Warmhandz"
+        "name": "Tool Leprechaun"
     },
     "12110": {
         "id": 12110,
-        "name": "Patty Seer"
+        "name": "Hallowed Sepulchre Coffin"
     },
     "12111": {
         "id": 12111,
-        "name": "Archmage Sedridor"
+        "name": "Hallowed Sepulchre Grand Coffin"
     },
     "12112": {
         "id": 12112,
-        "name": "King Roald"
+        "name": "Ent trunk"
     },
     "12113": {
         "id": 12113,
-        "name": "Gnome child"
+        "name": "Emblem Trader"
     },
     "12114": {
         "id": 12114,
-        "name": "Thurgo"
+        "name": "Corrupted Warrior"
     },
     "12115": {
         "id": 12115,
-        "name": "General Bentnoze"
+        "name": "Corrupted Warrior"
     },
     "12116": {
         "id": 12116,
-        "name": "General Wartface"
+        "name": "Emma"
+    },
+    "12117": {
+        "id": 12117,
+        "name": "Suzie"
     },
     "12118": {
         "id": 12118,
-        "name": "Elvarg"
+        "name": "Corrupted Warrior"
     },
     "12119": {
         "id": 12119,
-        "name": "Alvarg"
+        "name": "Annie"
     },
     "12120": {
         "id": 12120,
-        "name": "Party Pete"
+        "name": "Quinton"
     },
     "12121": {
         "id": 12121,
@@ -40159,6 +40163,18 @@
         "id": 12131,
         "name": "Elidinis' Warden"
     },
+    "12133": {
+        "id": 12133,
+        "name": "Tabbitha"
+    },
+    "12134": {
+        "id": 12134,
+        "name": "Bethan"
+    },
+    "12135": {
+        "id": 12135,
+        "name": "Gregory"
+    },
     "12137": {
         "id": 12137,
         "name": "Dallas Jones"
@@ -40170,5 +40186,65 @@
     "12139": {
         "id": 12139,
         "name": "Zorgoth"
+    },
+    "12145": {
+        "id": 12145,
+        "name": "Love"
+    },
+    "12146": {
+        "id": 12146,
+        "name": "???"
+    },
+    "12147": {
+        "id": 12147,
+        "name": "Love"
+    },
+    "12148": {
+        "id": 12148,
+        "name": "Marissa"
+    },
+    "12149": {
+        "id": 12149,
+        "name": "Thomas"
+    },
+    "12150": {
+        "id": 12150,
+        "name": "Mikey"
+    },
+    "12151": {
+        "id": 12151,
+        "name": "Klaus"
+    },
+    "12152": {
+        "id": 12152,
+        "name": "Marissa"
+    },
+    "12153": {
+        "id": 12153,
+        "name": "Thomas"
+    },
+    "12154": {
+        "id": 12154,
+        "name": "Mikey"
+    },
+    "12155": {
+        "id": 12155,
+        "name": "Klaus"
+    },
+    "12156": {
+        "id": 12156,
+        "name": "Quinton"
+    },
+    "12157": {
+        "id": 12157,
+        "name": "Gregory"
+    },
+    "12158": {
+        "id": 12158,
+        "name": "Bethan"
+    },
+    "12159": {
+        "id": 12159,
+        "name": "Tabbitha"
     }
 }

@@ -1,7 +1,7 @@
 {
     "id": 4198,
     "name": "Apparition",
-    "last_updated": "2022-08-02",
+    "last_updated": "2023-06-09",
     "incomplete": true,
     "members": true,
     "release_date": "2005-04-26",
@@ -17,7 +17,7 @@
     "aggressive": true,
     "poisonous": false,
     "venomous": false,
-    "immune_poison": true,
+    "immune_poison": false,
     "immune_venom": true,
     "attributes": [],
     "category": [],

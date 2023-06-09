@@ -1,7 +1,7 @@
 {
     "id": 13481,
     "name": "Ensouled elf head",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 143,
     "highalch": 214,
     "weight": 0.453,
-    "buy_limit": 7500,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2016-01-07",
     "duplicate": false,

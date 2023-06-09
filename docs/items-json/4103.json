@@ -1,7 +1,7 @@
 {
     "id": 4103,
     "name": "Mystic robe bottom (dark)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 32000,
     "highalch": 48000,
     "weight": 1.814,
-    "buy_limit": 70,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2005-01-26",
     "duplicate": false,

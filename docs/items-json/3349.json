@@ -1,7 +1,7 @@
 {
     "id": 3349,
     "name": "Blamish ochre shell",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 60,
     "highalch": 90,
     "weight": 10.0,
-    "buy_limit": 13000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2004-10-14",
     "duplicate": false,

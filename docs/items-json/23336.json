@@ -1,7 +1,7 @@
 {
     "id": 23336,
     "name": "3rd age druidic robe top",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 80000,
     "highalch": 120000,
     "weight": 1.5,
-    "buy_limit": 4,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2019-04-11",
     "duplicate": false,

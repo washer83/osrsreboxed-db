@@ -1,7 +1,7 @@
 {
     "id": 22121,
     "name": "Wrath tiara",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 200,
     "highalch": 300,
     "weight": 1.0,
-    "buy_limit": 40,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2018-01-04",
     "duplicate": false,

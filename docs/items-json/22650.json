@@ -1,7 +1,7 @@
 {
     "id": 22650,
     "name": "Zuriel's hood",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,9 +26,9 @@
     "release_date": "2018-09-06",
     "duplicate": false,
     "examine": "A powerful hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu2XW2tTQRSFc36HL3krCIUgFJG8RKRIqRRCi4FISi+EhMaE1NyaJpWE0BDSa7S2iPZNX3wREVQUpKIFEUT/0dI1h32cTGPEMqdFcMMmF+ac+bL22ntOAoH/4Vs46M9zCxegXkhhdTmJwtIsblyPnBeYg1Y1i2Ylg41WAZ3mMhrVNPKpBFJzNxG+HDpLKAcbjQLub1bR61aw0yljq11Eay2LejmFQnYWycQ0ZmNTZwHloLdewcPeXRzs1vFgu+aBUaVmLYOVO4vIZxJIzk0roFAw6BeUg61mEYf7Tey0yuo9leqs/SxXKa18VLo9r8qWWYgplWamxv1UyVEgVIipQ9HYJsxCPIpYdMIvlVwYqiNAAkWF6CH6J5uMK1OLh27NTGqdZy3cUunq6Ek/0UfsMjE01RGg6ORVRMJjNqEGqyMwTx53lApMGpoKEYgwLBl9NB65gtDoiC2ofu9IPtprqO4SGCqhq0SFCMTvJ66FPS9Z8JM7BE0g+oZDUWAkV4vJPpWokPjIAgzDURNZh+L8oYlNGG5OlUr5eU8lrmHJrAJxzhBIst3IIZOM9YFIskxUiaXjZ5ZLTG0JiOGWrV3LqVddHR2EyTIRiNNa/CNnmyUgByu5RQUjyV8/DIjAAsRyjV0atQvESawnyzUMiN4hENewXNLy1oB4TgmMtLruHx1GgDiTfFOIJRMonuj67DGBCMPkOjG1Lx4SIJaCm5hAujqcQUy9bFaBeJIL1CAgHUqAOIey6bgHJGUz736KcBUSKAEyoX4HxHXB4AVPIQsquYNRki0vMH9SiUA09cWRoAdl3v0U8QtIOo3Pz8M6jUeNPKDJSa+rZO7wl3ESSPL78QG+ftzDl6Mejt9t4+hVF29ftNXhSpUIKm1vFYibE4g+0vPbp318fr/rwbx81vROeDk2CMS2Z9ksATH6/53y2Zl/DAn14fUm3jxfx9PDCu51lxQIy2leIzCWgAIBuZl7w5Obmamv77/WpzA3GpTmNf90/ACe59In0i67PgAAAABJRU5ErkJggg==",
-    "wiki_name": "Zuriel's hood",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Zuriel's_hood",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xu2XW2sTURSFM7/Dl7wVhEIQikheIqVIqRRCi4FISi8MCY0Jqbk1TSoZQkNIr9HaIto3ffFFRFBRkIoWRBD9R0vXGXY4MwkRypkWwQ2LtmFmzpe119lnGgr9r8DKgleXVi5Ao5jGxpqN4uoCbt+KXRaYhVYtB6eaxXariI6zhmYtg0I6hfTiHUSvRy4SysJ2s4hHOzX0ulXsdyrYbZfQ2syhUUmjmFuAnZrDQmL2IqAs9LaqeNJ7gOODBh7v1ftgdMmpZ7F+fwWFbAr24pwCioTDQUFZ2HVKODlysN+qqN/pVGfzT7vKGZWj8r0l1bbsckK5ND87FaRLlgKhQ5QOxWD7YZaTcSTi00G55MLQHQESKDrEDDE/OTupQi0Zujs/o+08Y+W2SndHF/PEHHGXSaDpjgDFZ24iFp0wCTXcHYF5/qyjXKAYaDpEIMKwZczRVOwGIuNjpqC82RE9PWyq3SUwdEJ3iQ4RiJ9PT0b7WTKQJ3cI+oGYGw5FgRFtlGyPS3RIcmQAhmWpiaxDcf4wxH4YLk6XyoWlvku8hi0zCsQ5QyBRu5lH1k54QERsE11i6/g32yWhNgTEctvWrufVT90dHYRimwjEaS35kbPNEJDbMsKI+O1HARFYgNiuiWvjZoF0GIrtGgXE7AQKJO2iZKvr+dFhBIgzSTIUKBBPdH32+IEIQ/E6fsbrAskQoXhusRX81n4g3R3OIEraZniXudteoIYB6VACxDmUyyQHcuR/+jnKdUigBMgPNQro6hidMXh0EEbELS8wf3OJQHSHQOHwFXMOCQxfxCi+P4/aaXRSXtDkpBcgow4JkOjX2TF+fDnE99Mezj7u4fRtFx9et9XhSpcIKvkxCsTFhwH9/HqEb58O+jBvXjoDp7wcHXqO/Cuco7z/na7nV9RLPfX53Q7ev9rCi5MqHnZXFQjb6L9HYAwBhULyMPeBg4v5pV/vvTeg8i80TP57/un6DQqI1bhXCm/HAAAAAElFTkSuQmCC",
+    "wiki_name": "Zuriel's hood (Deadman Mode)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zuriel's_hood_(Deadman_Mode)",
     "equipment": {
         "attack_stab": 0,
         "attack_slash": 0,

@@ -1,7 +1,7 @@
 {
     "id": 1521,
     "name": "Oak logs",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-09",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 8,
     "highalch": 12,
     "weight": 2.0,
-    "buy_limit": 15000,
+    "buy_limit": null,
     "quest_item": false,
     "release_date": "2002-03-25",
     "duplicate": false,
