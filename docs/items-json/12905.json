@@ -1,7 +1,7 @@
 {
     "id": 12905,
     "name": "Anti-venom(4)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 176,
     "highalch": 264,
     "weight": 0.035,
-    "buy_limit": null,
+    "buy_limit": 2000,
     "quest_item": false,
     "release_date": "2015-01-08",
     "duplicate": false,

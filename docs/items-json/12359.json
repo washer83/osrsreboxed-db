@@ -1,7 +1,7 @@
 {
     "id": 12359,
     "name": "Leprechaun hat",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 400,
     "highalch": 600,
     "weight": 2.267,
-    "buy_limit": null,
+    "buy_limit": 4,
     "quest_item": false,
     "release_date": "2014-06-12",
     "duplicate": false,

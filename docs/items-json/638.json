@@ -1,7 +1,7 @@
 {
     "id": 638,
     "name": "Green robe top",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 72,
     "highalch": 108,
     "weight": 0.907,
-    "buy_limit": null,
+    "buy_limit": 150,
     "quest_item": false,
     "release_date": "2002-12-12",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 21736,
     "name": "Granite gloves",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 13600,
     "highalch": 20400,
     "weight": 1.0,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2017-10-26",
     "duplicate": false,

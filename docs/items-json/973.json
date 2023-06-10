@@ -1,7 +1,7 @@
 {
     "id": 973,
     "name": "Charcoal",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 18,
     "highalch": 27,
     "weight": 0.005,
-    "buy_limit": null,
+    "buy_limit": 13000,
     "quest_item": true,
     "release_date": "2003-01-27",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 23285,
     "name": "Mole slippers",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 400,
     "highalch": 600,
     "weight": 0.2,
-    "buy_limit": null,
+    "buy_limit": 4,
     "quest_item": false,
     "release_date": "2019-04-11",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 11920,
     "name": "Dragon pickaxe",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 39180,
     "highalch": 58770,
     "weight": 2.4,
-    "buy_limit": null,
+    "buy_limit": 40,
     "quest_item": false,
     "release_date": "2014-03-13",
     "duplicate": false,

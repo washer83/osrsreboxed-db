@@ -1,7 +1,7 @@
 {
     "id": 11284,
     "name": "Dragonfire shield",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 800000,
     "highalch": 1200000,
     "weight": 7.257,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2007-06-18",
     "duplicate": false,

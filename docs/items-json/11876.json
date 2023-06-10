@@ -1,7 +1,7 @@
 {
     "id": 11876,
     "name": "Unfinished broad bolts",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 22,
     "highalch": 33,
     "weight": 0.0,
-    "buy_limit": null,
+    "buy_limit": 7000,
     "quest_item": false,
     "release_date": "2014-01-06",
     "duplicate": false,

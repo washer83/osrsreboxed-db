@@ -1,7 +1,7 @@
 {
     "id": 6161,
     "name": "Rock-shell splinter",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 24,
     "highalch": 36,
     "weight": 3.175,
-    "buy_limit": null,
+    "buy_limit": 11000,
     "quest_item": false,
     "release_date": "2005-08-01",
     "duplicate": false,

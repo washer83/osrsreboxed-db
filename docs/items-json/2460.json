@@ -1,7 +1,7 @@
 {
     "id": 2460,
     "name": "Assorted flowers",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 40,
     "highalch": 60,
     "weight": 0.028,
-    "buy_limit": null,
+    "buy_limit": 150,
     "quest_item": false,
     "release_date": "2004-03-29",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 12932,
     "name": "Magic fang",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 40800,
     "highalch": 61200,
     "weight": 0.3,
-    "buy_limit": null,
+    "buy_limit": 5,
     "quest_item": false,
     "release_date": "2015-01-08",
     "duplicate": false,

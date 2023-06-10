@@ -1,7 +1,7 @@
 {
     "id": 12802,
     "name": "Ward upgrade kit",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 600,
     "highalch": 900,
     "weight": 0.5,
-    "buy_limit": null,
+    "buy_limit": 50,
     "quest_item": false,
     "release_date": "2014-10-09",
     "duplicate": false,

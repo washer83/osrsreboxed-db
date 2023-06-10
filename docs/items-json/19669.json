@@ -1,7 +1,7 @@
 {
     "id": 19669,
     "name": "Redwood logs",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 180,
     "highalch": 270,
     "weight": 2.0,
-    "buy_limit": null,
+    "buy_limit": 12000,
     "quest_item": false,
     "release_date": "2016-06-02",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 12984,
     "name": "Steel set (lg)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 560,
     "highalch": 840,
     "weight": 6.0,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2015-02-26",
     "duplicate": false,

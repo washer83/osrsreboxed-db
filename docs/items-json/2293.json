@@ -1,7 +1,7 @@
 {
     "id": 2293,
     "name": "Meat pizza",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 20,
     "highalch": 30,
     "weight": 0.9,
-    "buy_limit": null,
+    "buy_limit": 10000,
     "quest_item": false,
     "release_date": "2001-06-11",
     "duplicate": false,

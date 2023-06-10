@@ -1,7 +1,7 @@
 {
     "id": 13389,
     "name": "Xerician robe",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 28,
     "highalch": 42,
     "weight": 0.18,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2016-01-07",
     "duplicate": false,

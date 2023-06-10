@@ -1,7 +1,7 @@
 {
     "id": 20739,
     "name": "Mystic dust staff",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 17000,
     "highalch": 25500,
     "weight": 2.267,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2016-09-15",
     "duplicate": false,

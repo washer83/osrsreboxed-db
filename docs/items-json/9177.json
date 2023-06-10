@@ -1,7 +1,7 @@
 {
     "id": 9177,
     "name": "Iron crossbow",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 62,
     "highalch": 94,
     "weight": 4.0,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2006-07-31",
     "duplicate": false,

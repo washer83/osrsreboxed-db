@@ -1,7 +1,7 @@
 {
     "id": 23218,
     "name": "Rune platebody (h4)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 26000,
     "highalch": 39000,
     "weight": 9.979,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2019-04-11",
     "duplicate": false,

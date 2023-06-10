@@ -1,7 +1,7 @@
 {
     "id": 1050,
     "name": "Santa hat",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 64,
     "highalch": 96,
     "weight": 0.113,
-    "buy_limit": null,
+    "buy_limit": 5,
     "quest_item": false,
     "release_date": "2002-12-25",
     "duplicate": false,

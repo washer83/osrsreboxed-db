@@ -1,7 +1,7 @@
 {
     "id": 12757,
     "name": "Blue dark bow paint",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 0,
     "highalch": 0,
     "weight": 0.001,
-    "buy_limit": null,
+    "buy_limit": 4,
     "quest_item": false,
     "release_date": "2014-09-18",
     "duplicate": false,

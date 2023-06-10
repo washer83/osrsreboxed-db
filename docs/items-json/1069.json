@@ -1,7 +1,7 @@
 {
     "id": 1069,
     "name": "Steel platelegs",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 400,
     "highalch": 600,
     "weight": 9.071,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2001-01-04",
     "duplicate": false,

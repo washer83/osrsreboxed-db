@@ -1,7 +1,7 @@
 {
     "id": 6962,
     "name": "Triangle sandwich",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 10,
     "highalch": 15,
     "weight": 0.02,
-    "buy_limit": null,
+    "buy_limit": 6000,
     "quest_item": false,
     "release_date": "2006-01-10",
     "duplicate": false,

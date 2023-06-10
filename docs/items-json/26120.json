@@ -1,7 +1,7 @@
 {
     "id": 26120,
     "name": "Sigil of supreme stamina",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 8000,
     "highalch": 12000,
     "weight": 0.1,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2021-08-25",
     "duplicate": false,

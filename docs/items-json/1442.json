@@ -1,7 +1,7 @@
 {
     "id": 1442,
     "name": "Fire talisman",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 1,
     "highalch": 2,
     "weight": 0.015,
-    "buy_limit": null,
+    "buy_limit": 11000,
     "quest_item": false,
     "release_date": "2004-03-29",
     "duplicate": false,

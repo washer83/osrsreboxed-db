@@ -1,7 +1,7 @@
 {
     "id": 2343,
     "name": "Cooked oomlie wrap",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 14,
     "highalch": 21,
     "weight": 0.3,
-    "buy_limit": null,
+    "buy_limit": 15,
     "quest_item": true,
     "release_date": "2003-08-20",
     "duplicate": false,

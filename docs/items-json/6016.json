@@ -1,7 +1,7 @@
 {
     "id": 6016,
     "name": "Cactus spine",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 0,
     "highalch": 0,
     "weight": 0.028,
-    "buy_limit": null,
+    "buy_limit": 11000,
     "quest_item": false,
     "release_date": "2005-07-11",
     "duplicate": false,

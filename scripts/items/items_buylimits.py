@@ -32,29 +32,33 @@ import config
 
 def fetch():
     # Fetch the OSRS Wiki buy limits module data
-    url = "https://oldschool.runescape.wiki/w/Module:GELimits/data?action=raw"
+    url = "https://oldschool.runescape.wiki/w/Module:GELimits/data.json?action=raw"
 
     try:
         data = requests.get(url, headers=config.custom_agent).text
     except requests.exceptions.RequestException as e:
         raise SystemExit(">>> ERROR: Get request error. Exiting.") from e
 
-    buy_limits = dict()
-
+    file_name = "items-buylimits.json"
+    file_path = Path(config.DATA_ITEMS_PATH / file_name)
+    
+    #buy_limits = dict()
+    #
     # Parse each line, looking for following structure
     # ["3rd age amulet"] = 8,
     # Source: runelite/runelite-wiki-scraper
-    for line in data.split("\n"):
-        match = re.search(r"\[\"(.*)\"\] = (\d+),?", str(line))
-        if match:
-            name = match.group(1).replace('\\', '')
-            limit = match.group(2)
-            buy_limits[name] = int(limit)
+    #for line in data.split("\n"):
+    #    match = re.search(r"\[\"(.*)\"\] = (\d+),?", str(line))
+    #    if match:
+    #        name = match.group(1).replace('\\', '')
+    #        limit = match.group(2)
+    #        buy_limits[name] = int(limit)
 
-    file_name = "items-buylimits.json"
-    file_path = Path(config.DATA_ITEMS_PATH / file_name)
+    #with open(file_path, "w") as f:
+    #    json.dump(buy_limits, f, indent=4)
+
     with open(file_path, "w") as f:
-        json.dump(buy_limits, f, indent=4)
+        f.write(data)
 
 
 if __name__ == "__main__":

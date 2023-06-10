@@ -1,7 +1,7 @@
 {
     "id": 1731,
     "name": "Amulet of power",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 1410,
     "highalch": 2115,
     "weight": 0.01,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2001-05-24",
     "duplicate": false,

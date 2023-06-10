@@ -1,7 +1,7 @@
 {
     "id": 1599,
     "name": "Holy mould",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 2,
     "highalch": 3,
     "weight": 0.453,
-    "buy_limit": null,
+    "buy_limit": 40,
     "quest_item": false,
     "release_date": "2001-07-12",
     "duplicate": false,

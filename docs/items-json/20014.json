@@ -1,7 +1,7 @@
 {
     "id": 20014,
     "name": "3rd age pickaxe",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 39180,
     "highalch": 58770,
     "weight": 2.4,
-    "buy_limit": null,
+    "buy_limit": 40,
     "quest_item": false,
     "release_date": "2016-07-06",
     "duplicate": false,

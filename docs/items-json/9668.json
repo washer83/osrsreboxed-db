@@ -1,7 +1,7 @@
 {
     "id": 9668,
     "name": "Initiate harness m",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": null,
     "highalch": null,
     "weight": 14.514,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2006-09-20",
     "duplicate": false,

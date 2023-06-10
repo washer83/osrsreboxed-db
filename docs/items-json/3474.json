@@ -1,7 +1,7 @@
 {
     "id": 3474,
     "name": "Adamant plateskirt (t)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 2560,
     "highalch": 3840,
     "weight": 10.432,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2004-10-26",
     "duplicate": false,

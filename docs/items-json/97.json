@@ -1,7 +1,7 @@
 {
     "id": 97,
     "name": "Harralander potion (unf)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 8,
     "highalch": 12,
     "weight": 0.056,
-    "buy_limit": null,
+    "buy_limit": 10000,
     "quest_item": false,
     "release_date": "2002-02-27",
     "duplicate": false,

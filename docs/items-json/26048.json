@@ -1,7 +1,7 @@
 {
     "id": 26048,
     "name": "Sigil of the eternal jeweller",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4000,
     "highalch": 6000,
     "weight": 0.1,
-    "buy_limit": null,
+    "buy_limit": 10,
     "quest_item": false,
     "release_date": "2021-08-25",
     "duplicate": false,

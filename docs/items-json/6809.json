@@ -1,7 +1,7 @@
 {
     "id": 6809,
     "name": "Granite legs",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 26400,
     "highalch": 39600,
     "weight": 15.875,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2005-12-12",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 12209,
     "name": "Bronze plateskirt (g)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 32,
     "highalch": 48,
     "weight": 8.164,
-    "buy_limit": null,
+    "buy_limit": 4,
     "quest_item": false,
     "release_date": "2014-06-12",
     "duplicate": false,

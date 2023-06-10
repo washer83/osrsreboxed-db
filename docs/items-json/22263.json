@@ -1,7 +1,7 @@
 {
     "id": 22263,
     "name": "Magic shield",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 512,
     "highalch": 768,
     "weight": 3.175,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2018-02-01",
     "duplicate": false,

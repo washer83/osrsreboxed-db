@@ -1,7 +1,7 @@
 {
     "id": 4525,
     "name": "Empty oil lamp",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 10,
     "highalch": 15,
     "weight": 0.453,
-    "buy_limit": null,
+    "buy_limit": 10000,
     "quest_item": false,
     "release_date": "2005-03-14",
     "duplicate": false,

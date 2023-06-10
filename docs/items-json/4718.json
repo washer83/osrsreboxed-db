@@ -1,7 +1,7 @@
 {
     "id": 4718,
     "name": "Dharok's greataxe",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 83200,
     "highalch": 124800,
     "weight": 3.175,
-    "buy_limit": null,
+    "buy_limit": 15,
     "quest_item": false,
     "release_date": "2005-05-09",
     "duplicate": false,

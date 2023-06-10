@@ -1,7 +1,7 @@
 {
     "id": 596,
     "name": "Unlit torch",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 1,
     "highalch": 2,
     "weight": 0.5,
-    "buy_limit": null,
+    "buy_limit": 40,
     "quest_item": false,
     "release_date": "2002-09-09",
     "duplicate": false,

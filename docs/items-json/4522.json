@@ -1,7 +1,7 @@
 {
     "id": 4522,
     "name": "Oil lamp",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 11,
     "highalch": 16,
     "weight": 0.453,
-    "buy_limit": null,
+    "buy_limit": 40,
     "quest_item": false,
     "release_date": "2005-03-14",
     "duplicate": false,

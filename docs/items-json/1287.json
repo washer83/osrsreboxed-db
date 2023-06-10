@@ -1,7 +1,7 @@
 {
     "id": 1287,
     "name": "Adamant sword",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 832,
     "highalch": 1248,
     "weight": 2.041,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2001-01-04",
     "duplicate": false,

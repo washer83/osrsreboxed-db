@@ -1,7 +1,7 @@
 {
     "id": 25853,
     "name": "Amethyst dart tip",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 80,
     "highalch": 120,
     "weight": 0.0,
-    "buy_limit": null,
+    "buy_limit": 11000,
     "quest_item": false,
     "release_date": "2021-06-30",
     "duplicate": false,

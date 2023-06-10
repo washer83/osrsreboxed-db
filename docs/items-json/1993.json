@@ -1,7 +1,7 @@
 {
     "id": 1993,
     "name": "Jug of wine",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 0,
     "highalch": 0,
     "weight": 1.5,
-    "buy_limit": null,
+    "buy_limit": 6000,
     "quest_item": false,
     "release_date": "2001-03-17",
     "duplicate": false,

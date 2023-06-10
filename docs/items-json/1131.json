@@ -1,7 +1,7 @@
 {
     "id": 1131,
     "name": "Hardleather body",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 68,
     "highalch": 102,
     "weight": 3.628,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2004-03-29",
     "duplicate": false,

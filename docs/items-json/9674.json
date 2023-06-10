@@ -1,7 +1,7 @@
 {
     "id": 9674,
     "name": "Proselyte hauberk",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4800,
     "highalch": 7200,
     "weight": 8.618,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": true,
     "release_date": "2006-09-20",
     "duplicate": false,

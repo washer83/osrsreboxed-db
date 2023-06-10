@@ -1,7 +1,7 @@
 {
     "id": 1629,
     "name": "Uncut red topaz",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 16,
     "highalch": 24,
     "weight": 0.003,
-    "buy_limit": null,
+    "buy_limit": 10000,
     "quest_item": false,
     "release_date": "2003-01-27",
     "duplicate": false,

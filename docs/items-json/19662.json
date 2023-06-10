@@ -1,7 +1,7 @@
 {
     "id": 19662,
     "name": "Botanical pie",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 12,
     "highalch": 18,
     "weight": 0.45,
-    "buy_limit": null,
+    "buy_limit": 10000,
     "quest_item": false,
     "release_date": "2016-05-26",
     "duplicate": false,

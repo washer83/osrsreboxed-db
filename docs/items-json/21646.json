@@ -1,7 +1,7 @@
 {
     "id": 21646,
     "name": "Granite longsword",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 12800,
     "highalch": 19200,
     "weight": 2.721,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2017-09-07",
     "duplicate": false,

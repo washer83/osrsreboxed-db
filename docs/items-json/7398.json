@@ -1,7 +1,7 @@
 {
     "id": 7398,
     "name": "Enchanted robe",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 32000,
     "highalch": 48000,
     "weight": 1.814,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2006-02-20",
     "duplicate": false,

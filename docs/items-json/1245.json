@@ -1,7 +1,7 @@
 {
     "id": 1245,
     "name": "Adamant spear",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 832,
     "highalch": 1248,
     "weight": 2.721,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2003-04-14",
     "duplicate": false,

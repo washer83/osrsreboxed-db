@@ -1,7 +1,7 @@
 {
     "id": 333,
     "name": "Trout",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4,
     "highalch": 6,
     "weight": 0.4,
-    "buy_limit": null,
+    "buy_limit": 6000,
     "quest_item": false,
     "release_date": "2001-06-11",
     "duplicate": false,

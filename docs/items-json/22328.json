@@ -1,7 +1,7 @@
 {
     "id": 22328,
     "name": "Justiciar legguards",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 1800000,
     "highalch": 2700000,
     "weight": 9.071,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2018-06-07",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 11230,
     "name": "Dragon dart",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 200,
     "highalch": 300,
     "weight": 0.0,
-    "buy_limit": null,
+    "buy_limit": 11000,
     "quest_item": false,
     "release_date": "2007-06-11",
     "duplicate": false,

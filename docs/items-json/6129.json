@@ -1,7 +1,7 @@
 {
     "id": 6129,
     "name": "Rock-shell plate",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 26000,
     "highalch": 39000,
     "weight": 9.979,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2005-08-01",
     "duplicate": false,

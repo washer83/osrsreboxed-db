@@ -1,7 +1,7 @@
 {
     "id": 11244,
     "name": "Earth impling jar",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 20,
     "highalch": 30,
     "weight": 2.267,
-    "buy_limit": null,
+    "buy_limit": 18000,
     "quest_item": false,
     "release_date": "2007-06-11",
     "duplicate": false,

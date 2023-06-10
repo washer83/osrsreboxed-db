@@ -1,7 +1,7 @@
 {
     "id": 22278,
     "name": "Blue d'hide shield",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 3000,
     "highalch": 4500,
     "weight": 8.0,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2018-02-01",
     "duplicate": false,

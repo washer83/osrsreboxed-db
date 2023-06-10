@@ -1,7 +1,7 @@
 {
     "id": 3438,
     "name": "Pyre logs",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 3,
     "highalch": 4,
     "weight": 1.36,
-    "buy_limit": null,
+    "buy_limit": 11000,
     "quest_item": false,
     "release_date": "2004-10-18",
     "duplicate": false,

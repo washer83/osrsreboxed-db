@@ -1,7 +1,7 @@
 {
     "id": 4343,
     "name": "Team-15 cape",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 20,
     "highalch": 30,
     "weight": 0.453,
-    "buy_limit": null,
+    "buy_limit": 150,
     "quest_item": false,
     "release_date": "2005-02-22",
     "duplicate": false,

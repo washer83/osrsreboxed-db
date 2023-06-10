@@ -1,7 +1,7 @@
 {
     "id": 21079,
     "name": "Arcane prayer scroll",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 32000,
     "highalch": 48000,
     "weight": 0.015,
-    "buy_limit": null,
+    "buy_limit": 5,
     "quest_item": false,
     "release_date": "2017-01-26",
     "duplicate": false,

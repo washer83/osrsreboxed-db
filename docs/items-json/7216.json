@@ -1,7 +1,7 @@
 {
     "id": 7216,
     "name": "Raw summer pie",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 28,
     "highalch": 42,
     "weight": 0.001,
-    "buy_limit": null,
+    "buy_limit": 13000,
     "quest_item": false,
     "release_date": "2006-02-20",
     "duplicate": false,

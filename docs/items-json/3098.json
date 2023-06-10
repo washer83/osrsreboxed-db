@@ -1,7 +1,7 @@
 {
     "id": 3098,
     "name": "Black claws",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 144,
     "highalch": 216,
     "weight": 0.907,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2004-08-09",
     "duplicate": false,

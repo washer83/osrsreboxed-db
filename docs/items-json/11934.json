@@ -1,7 +1,7 @@
 {
     "id": 11934,
     "name": "Raw dark crab",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 130,
     "highalch": 195,
     "weight": 0.35,
-    "buy_limit": null,
+    "buy_limit": 15000,
     "quest_item": false,
     "release_date": "2014-03-13",
     "duplicate": false,

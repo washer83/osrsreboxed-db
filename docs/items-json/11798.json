@@ -1,7 +1,7 @@
 {
     "id": 11798,
     "name": "Godsword blade",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 300000,
     "highalch": 450000,
     "weight": 7.5,
-    "buy_limit": null,
+    "buy_limit": 10000,
     "quest_item": false,
     "release_date": "2013-10-17",
     "duplicate": false,

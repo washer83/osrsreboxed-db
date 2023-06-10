@@ -1,7 +1,7 @@
 {
     "id": 5940,
     "name": "Weapon poison(++)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 172,
     "highalch": 259,
     "weight": 0.035,
-    "buy_limit": null,
+    "buy_limit": 2000,
     "quest_item": false,
     "release_date": "2005-07-11",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 13383,
     "name": "Xerician fabric",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 1,
     "highalch": 1,
     "weight": 0.06,
-    "buy_limit": null,
+    "buy_limit": 13000,
     "quest_item": false,
     "release_date": "2016-01-07",
     "duplicate": false,

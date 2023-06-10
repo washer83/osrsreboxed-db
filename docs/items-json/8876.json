@@ -1,7 +1,7 @@
 {
     "id": 8876,
     "name": "Bone dagger (p+)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 800,
     "highalch": 1200,
     "weight": 0.453,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2006-06-21",
     "duplicate": false,

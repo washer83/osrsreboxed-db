@@ -1,7 +1,7 @@
 {
     "id": 4542,
     "name": "Lantern lens",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 28,
     "highalch": 42,
     "weight": 0.028,
-    "buy_limit": null,
+    "buy_limit": 10000,
     "quest_item": false,
     "release_date": "2005-03-14",
     "duplicate": false,

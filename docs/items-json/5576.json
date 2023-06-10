@@ -1,7 +1,7 @@
 {
     "id": 5576,
     "name": "Initiate cuisse",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 3200,
     "highalch": 4800,
     "weight": 7.711,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2005-06-27",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 21895,
     "name": "Dragon kiteshield",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 640000,
     "highalch": 960000,
     "weight": 6.803,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2018-01-04",
     "duplicate": false,

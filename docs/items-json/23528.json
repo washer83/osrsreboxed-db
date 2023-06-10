@@ -1,7 +1,7 @@
 {
     "id": 23528,
     "name": "Sarachnis cudgel",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 48000,
     "highalch": 72000,
     "weight": 0.453,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2019-07-04",
     "duplicate": false,

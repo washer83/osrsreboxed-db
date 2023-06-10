@@ -1,7 +1,7 @@
 {
     "id": 23730,
     "name": "Divine super defence potion(1)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 16,
     "highalch": 24,
     "weight": 0.03,
-    "buy_limit": null,
+    "buy_limit": 2000,
     "quest_item": false,
     "release_date": "2019-07-25",
     "duplicate": false,

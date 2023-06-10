@@ -1,7 +1,7 @@
 {
     "id": 105,
     "name": "Kwuarm potion (unf)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 21,
     "highalch": 32,
     "weight": 0.056,
-    "buy_limit": null,
+    "buy_limit": 10000,
     "quest_item": false,
     "release_date": "2002-02-27",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 25034,
     "name": "Trailblazer trousers (t1)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 6000,
     "highalch": 9000,
     "weight": 0.907,
-    "buy_limit": null,
+    "buy_limit": 5,
     "quest_item": false,
     "release_date": "2021-01-06",
     "duplicate": false,

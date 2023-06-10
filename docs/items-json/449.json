@@ -1,7 +1,7 @@
 {
     "id": 449,
     "name": "Adamantite ore",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 160,
     "highalch": 240,
     "weight": 2.721,
-    "buy_limit": null,
+    "buy_limit": 4500,
     "quest_item": false,
     "release_date": "2001-01-04",
     "duplicate": false,

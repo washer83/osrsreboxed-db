@@ -1,7 +1,7 @@
 {
     "id": 6357,
     "name": "Villager sandals",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 40,
     "highalch": 60,
     "weight": 0.68,
-    "buy_limit": null,
+    "buy_limit": 150,
     "quest_item": false,
     "release_date": "2005-08-09",
     "duplicate": false,

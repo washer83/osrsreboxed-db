@@ -1,7 +1,7 @@
 {
     "id": 21049,
     "name": "Ancestral robes set",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 58000,
     "highalch": 87000,
     "weight": 0.05,
-    "buy_limit": null,
+    "buy_limit": 5,
     "quest_item": false,
     "release_date": "2017-01-19",
     "duplicate": false,

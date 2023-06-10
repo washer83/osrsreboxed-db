@@ -1,7 +1,7 @@
 {
     "id": 2452,
     "name": "Antifire potion(4)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 132,
     "highalch": 198,
     "weight": 0.035,
-    "buy_limit": null,
+    "buy_limit": 2000,
     "quest_item": false,
     "release_date": "2004-03-29",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 21338,
     "name": "Amethyst bolt tips",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 64,
     "highalch": 96,
     "weight": 0.0,
-    "buy_limit": null,
+    "buy_limit": 11000,
     "quest_item": false,
     "release_date": "2017-06-22",
     "duplicate": false,

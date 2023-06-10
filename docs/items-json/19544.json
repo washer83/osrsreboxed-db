@@ -1,7 +1,7 @@
 {
     "id": 19544,
     "name": "Tormented bracelet",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 80400,
     "highalch": 120600,
     "weight": 0.25,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2016-05-06",
     "duplicate": false,

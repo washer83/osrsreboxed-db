@@ -1,7 +1,7 @@
 {
     "id": 1426,
     "name": "Black mace",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 172,
     "highalch": 259,
     "weight": 1.814,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2002-02-27",
     "duplicate": false,

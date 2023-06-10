@@ -1,7 +1,7 @@
 {
     "id": 1135,
     "name": "Green d'hide body",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 3120,
     "highalch": 4680,
     "weight": 6.803,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2004-03-29",
     "duplicate": false,

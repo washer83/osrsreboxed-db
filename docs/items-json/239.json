@@ -1,7 +1,7 @@
 {
     "id": 239,
     "name": "White berries",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 4,
     "highalch": 6,
     "weight": 0.007,
-    "buy_limit": null,
+    "buy_limit": 13000,
     "quest_item": false,
     "release_date": "2002-02-27",
     "duplicate": false,

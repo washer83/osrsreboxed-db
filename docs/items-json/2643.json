@@ -1,7 +1,7 @@
 {
     "id": 2643,
     "name": "Black cavalier",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 80,
     "highalch": 120,
     "weight": 0.08,
-    "buy_limit": null,
+    "buy_limit": 4,
     "quest_item": false,
     "release_date": "2004-05-05",
     "duplicate": false,

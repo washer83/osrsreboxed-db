@@ -1,7 +1,7 @@
 {
     "id": 11375,
     "name": "Adamant hasta",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 832,
     "highalch": 1248,
     "weight": 2.721,
-    "buy_limit": null,
+    "buy_limit": 125,
     "quest_item": false,
     "release_date": "2007-07-03",
     "duplicate": false,

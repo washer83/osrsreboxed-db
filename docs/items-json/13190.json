@@ -1,7 +1,7 @@
 {
     "id": 13190,
     "name": "Old school bond",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 800000,
     "highalch": 1200000,
     "weight": 0.003,
-    "buy_limit": null,
+    "buy_limit": 100,
     "quest_item": false,
     "release_date": "2015-03-30",
     "duplicate": false,

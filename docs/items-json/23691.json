@@ -1,7 +1,7 @@
 {
     "id": 23691,
     "name": "Divine super combat potion(2)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 36,
     "highalch": 54,
     "weight": 0.03,
-    "buy_limit": null,
+    "buy_limit": 2000,
     "quest_item": false,
     "release_date": "2019-07-25",
     "duplicate": false,

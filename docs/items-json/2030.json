@@ -1,7 +1,7 @@
 {
     "id": 2030,
     "name": "Premade choc s'dy",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 12,
     "highalch": 18,
     "weight": 0.45,
-    "buy_limit": null,
+    "buy_limit": 2000,
     "quest_item": false,
     "release_date": "2002-12-12",
     "duplicate": false,

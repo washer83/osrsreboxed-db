@@ -1,7 +1,7 @@
 {
     "id": 2587,
     "name": "Black full helm (t)",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 422,
     "highalch": 633,
     "weight": 2.721,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2004-05-05",
     "duplicate": false,

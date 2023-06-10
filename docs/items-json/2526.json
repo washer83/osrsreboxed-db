@@ -1,7 +1,7 @@
 {
     "id": 2526,
     "name": "Grey toy horsey",
-    "last_updated": "2023-06-09",
+    "last_updated": "2023-06-10",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 40,
     "highalch": 60,
     "weight": 0.05,
-    "buy_limit": null,
+    "buy_limit": 150,
     "quest_item": false,
     "release_date": "2004-04-01",
     "duplicate": false,
