@@ -1,7 +1,7 @@
 {
     "id": 5826,
-    "name": "Ice troll grunt",
-    "last_updated": "2021-08-05",
+    "name": "Frenzied ice troll grunt",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": true,
     "release_date": "2007-02-06",
@@ -32,9 +32,9 @@
         "duradel"
     ],
     "duplicate": false,
-    "examine": "A large ice troll.",
-    "wiki_name": "Ice troll grunt (Ice Troll Caves)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Ice_troll_grunt#Ice_Troll_Caves",
+    "examine": "A large ice troll. All brawn and no loot.",
+    "wiki_name": "Frenzied ice troll grunt",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Frenzied_ice_troll_grunt",
     "attack_level": 100,
     "strength_level": 100,
     "defence_level": 60,

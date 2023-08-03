@@ -1,7 +1,7 @@
 {
     "id": 1559,
     "name": "Air wizard",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": false,
     "release_date": "2005-09-26",
@@ -9,7 +9,9 @@
     "size": 1,
     "hitpoints": 25,
     "max_hit": 1,
-    "attack_type": [],
+    "attack_type": [
+        "magic"
+    ],
     "attack_speed": 4,
     "aggressive": false,
     "poisonous": false,

@@ -1,7 +1,7 @@
 {
     "id": 1339,
     "name": "Seagull",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": false,
     "release_date": "2005-09-26",
@@ -30,7 +30,7 @@
         "spria"
     ],
     "duplicate": false,
-    "examine": "A messy bird.",
+    "examine": "Smells of rotten fish.",
     "wiki_name": "Seagull (Level 3)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Seagull#Level_3",
     "attack_level": 1,

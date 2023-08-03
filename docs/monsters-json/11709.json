@@ -1,7 +1,7 @@
 {
     "id": 11709,
     "name": "Baboon Brawler",
-    "last_updated": "2022-09-13",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": true,
     "release_date": "2022-08-24",
@@ -10,7 +10,6 @@
     "hitpoints": 4,
     "max_hit": 5,
     "attack_type": [
-        "melee",
         "crush"
     ],
     "attack_speed": 4,

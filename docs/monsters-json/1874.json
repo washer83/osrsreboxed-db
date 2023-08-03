@@ -1,14 +1,14 @@
 {
     "id": 1874,
     "name": "Ice troll runt",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": true,
     "release_date": "2007-02-06",
     "combat_level": 74,
     "size": 1,
     "hitpoints": 60,
-    "max_hit": 15,
+    "max_hit": 17,
     "attack_type": [
         "crush"
     ],
@@ -33,8 +33,8 @@
     ],
     "duplicate": false,
     "examine": "An ice troll youngling.",
-    "wiki_name": "Ice troll runt (Variant 1)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Ice_troll_runt#Variant_1",
+    "wiki_name": "Ice troll runt (Variant 2)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ice_troll_runt#Variant_2",
     "attack_level": 60,
     "strength_level": 70,
     "defence_level": 70,

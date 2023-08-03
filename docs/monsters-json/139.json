@@ -1,7 +1,7 @@
 {
     "id": 139,
     "name": "Steel dragon",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": true,
     "release_date": "2006-05-31",
@@ -10,7 +10,8 @@
     "hitpoints": 210,
     "max_hit": 22,
     "attack_type": [
-        "slash"
+        "slash",
+        "dragonfire"
     ],
     "attack_speed": 4,
     "aggressive": true,

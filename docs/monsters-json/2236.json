@@ -1,7 +1,7 @@
 {
     "id": 2236,
     "name": "Cyclops",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
@@ -29,10 +29,10 @@
         "mazchna",
         "vannaka"
     ],
-    "duplicate": true,
+    "duplicate": false,
     "examine": "A one-eyed man-eater.",
-    "wiki_name": "Cyclops (Level 81 (God Wars Dungeon))",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Cyclops#Level_81_(God_Wars_Dungeon)",
+    "wiki_name": "Cyclops (God Wars Dungeon) (Grey)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cyclops_(God_Wars_Dungeon)#Grey",
     "attack_level": 60,
     "strength_level": 70,
     "defence_level": 48,

@@ -1,16 +1,15 @@
 {
     "id": 10941,
     "name": "Assassin",
-    "last_updated": "2023-01-19",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": true,
-    "release_date": "2005-12-19",
+    "release_date": "2023-01-11",
     "combat_level": 132,
     "size": 1,
     "hitpoints": 400,
     "max_hit": 39,
     "attack_type": [
-        "melee",
         "slash",
         "ranged"
     ],

@@ -1,7 +1,7 @@
 {
     "id": 1,
     "name": "Molanisk",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": true,
     "release_date": "2007-03-20",
@@ -10,7 +10,7 @@
     "hitpoints": 52,
     "max_hit": 5,
     "attack_type": [
-        "melee"
+        "crush"
     ],
     "attack_speed": 4,
     "aggressive": true,

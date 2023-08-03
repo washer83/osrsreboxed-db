@@ -1,7 +1,7 @@
 {
     "id": 7095,
     "name": "Tortured gorilla",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": true,
     "release_date": "2016-05-06",
@@ -12,7 +12,7 @@
     "attack_type": [
         "crush"
     ],
-    "attack_speed": 4,
+    "attack_speed": 6,
     "aggressive": true,
     "poisonous": false,
     "venomous": false,

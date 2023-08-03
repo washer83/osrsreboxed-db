@@ -1,14 +1,14 @@
 {
     "id": 7793,
     "name": "Taloned Wyvern",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-08-03",
     "incomplete": false,
     "members": true,
     "release_date": "2017-09-07",
     "combat_level": 147,
     "size": 3,
     "hitpoints": 200,
-    "max_hit": 12,
+    "max_hit": 10,
     "attack_type": [
         "slash",
         "ranged",

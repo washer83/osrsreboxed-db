@@ -1,14 +1,14 @@
 {
     "id": 3257,
     "name": "Wizard",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": false,
     "release_date": "2001-01-21",
     "combat_level": 9,
     "size": 1,
     "hitpoints": 14,
-    "max_hit": 6,
+    "max_hit": 4,
     "attack_type": [
         "magic"
     ],

@@ -1,14 +1,14 @@
 {
     "id": 626,
     "name": "Fever spider",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-08-03",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-31",
     "combat_level": 49,
     "size": 2,
     "hitpoints": 40,
-    "max_hit": null,
+    "max_hit": 4,
     "attack_type": [
         "stab"
     ],
