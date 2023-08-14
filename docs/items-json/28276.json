@@ -1,7 +1,7 @@
 {
     "id": 28276,
     "name": "Chromium ingot",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-08-14",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 20000,
     "highalch": 30000,
     "weight": 3.0,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2023-07-26",
     "duplicate": false,

@@ -1,14 +1,14 @@
 {
     "id": 12391,
     "name": "Abyssal leech",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-08-14",
     "incomplete": true,
     "members": true,
     "release_date": "2023-07-26",
     "combat_level": 54,
     "size": 1,
     "hitpoints": 20,
-    "max_hit": null,
+    "max_hit": 2,
     "attack_type": [
         "slash"
     ],

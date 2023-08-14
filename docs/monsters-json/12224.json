@@ -1,14 +1,14 @@
 {
     "id": 12224,
     "name": "Vardorvis",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-08-14",
     "incomplete": true,
     "members": true,
     "release_date": "2023-07-26",
     "combat_level": 572,
     "size": 2,
     "hitpoints": 500,
-    "max_hit": 24,
+    "max_hit": null,
     "attack_type": [
         "slash"
     ],
@@ -35,8 +35,8 @@
     "wiki_name": "Vardorvis (Quest)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Vardorvis#Quest",
     "attack_level": 260,
-    "strength_level": 210,
-    "defence_level": 180,
+    "strength_level": 0,
+    "defence_level": 0,
     "magic_level": 180,
     "ranged_level": 0,
     "attack_bonus": 185,
@@ -45,10 +45,10 @@
     "magic_bonus": 0,
     "attack_ranged": 0,
     "ranged_bonus": 0,
-    "defence_stab": 215,
-    "defence_slash": 65,
-    "defence_crush": 85,
-    "defence_magic": 580,
-    "defence_ranged": 580,
+    "defence_stab": 150,
+    "defence_slash": 25,
+    "defence_crush": 50,
+    "defence_magic": 560,
+    "defence_ranged": 560,
     "drops": []
 }

@@ -1,7 +1,7 @@
 {
     "id": 28334,
     "name": "Awakener's orb",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-08-14",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 30000,
     "highalch": 45000,
     "weight": 0.4,
-    "buy_limit": 55,
+    "buy_limit": 50,
     "quest_item": false,
     "release_date": "2023-07-26",
     "duplicate": false,

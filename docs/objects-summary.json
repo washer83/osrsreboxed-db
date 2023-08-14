@@ -93247,14 +93247,6 @@
         "id": 47576,
         "name": "Floating Column"
     },
-    "47578": {
-        "id": 47578,
-        "name": "Entrails"
-    },
-    "47579": {
-        "id": 47579,
-        "name": "Entrails"
-    },
     "47580": {
         "id": 47580,
         "name": "Scoreboard"
@@ -96802,5 +96794,25 @@
     "49554": {
         "id": 49554,
         "name": "Strange shrine"
+    },
+    "49555": {
+        "id": 49555,
+        "name": "Entrails"
+    },
+    "49556": {
+        "id": 49556,
+        "name": "Entrails"
+    },
+    "49558": {
+        "id": 49558,
+        "name": "Chest"
+    },
+    "49559": {
+        "id": 49559,
+        "name": "Chest"
+    },
+    "49560": {
+        "id": 49560,
+        "name": "Chest"
     }
 }
