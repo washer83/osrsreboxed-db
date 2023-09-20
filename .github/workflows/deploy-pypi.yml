@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
     - name: Checkout code
       uses: actions/checkout@v2
       with:
@@ -22,6 +21,8 @@ jobs:
 
     - name: Install Poetry
       uses: Gr1N/setup-poetry@v8
+      with:
+        poetry-version: "1.5.1"
 
     - name: Poetry setup tools
       run: poetry add setuptools==60.0.0
@@ -33,7 +34,7 @@ jobs:
       run: poetry build
 
     - name: Deploy to PyPI
-      uses: pypa/gh-action-pypi-publish@master
+      uses: pypa/gh-action-pypi-publish@release/v1"
       with:
         password: ${{ secrets.pypi_password }}
         skip_existing: true
