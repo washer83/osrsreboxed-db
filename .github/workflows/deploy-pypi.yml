@@ -34,7 +34,7 @@ jobs:
       run: poetry build
 
     - name: Deploy to PyPI
-      uses: pypa/gh-action-pypi-publish@release/v1"
+      uses: pypa/gh-action-pypi-publish@release/v1
       with:
         password: ${{ secrets.pypi_password }}
         skip_existing: true
