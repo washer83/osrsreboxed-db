@@ -1,0 +1,84 @@
+{
+    "id": 28543,
+    "name": "Corrupted scythe of vitur",
+    "last_updated": "2023-09-20",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28544,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 250000,
+    "lowalch": 100000,
+    "highalch": 150000,
+    "weight": 3.175,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-08-23",
+    "duplicate": false,
+    "examine": "A powerful scythe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
+    "wiki_name": "Corrupted scythe of vitur (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_scythe_of_vitur#Charged",
+    "equipment": {
+        "attack_stab": 56,
+        "attack_slash": 88,
+        "attack_crush": 24,
+        "attack_magic": -6,
+        "attack_ranged": 0,
+        "defence_stab": -2,
+        "defence_slash": 7,
+        "defence_crush": 8,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 60,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "scythe",
+        "stances": [
+            {
+                "combat_style": "reap",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "jab",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

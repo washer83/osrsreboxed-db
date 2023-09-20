@@ -1,7 +1,7 @@
 {
     "id": 12223,
     "name": "Vardorvis",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-09-20",
     "incomplete": true,
     "members": true,
     "release_date": "2023-07-26",
@@ -24,7 +24,7 @@
     ],
     "slayer_monster": true,
     "slayer_level": 1,
-    "slayer_xp": 700.0,
+    "slayer_xp": 1085.0,
     "slayer_masters": [
         "konar",
         "nieve",

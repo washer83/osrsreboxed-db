@@ -1,7 +1,7 @@
 {
     "id": 10566,
     "name": "Fire cape",
-    "last_updated": "2023-08-14",
+    "last_updated": "2023-09-20",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-01-04",
     "duplicate": false,
     "examine": "A cape of fire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4XuVXXWsTURDt/gN/QsG34kdCqiGQ9CViKViwFPMQaCXSgoFAIGCxqPiBL0Kbum52/+51zpmZzaZaDHrTPDhw2W2y2Tl7PuZuNzb+r0qCLj9fayXhqHuHy8/XCEqZcRC1zc11gVIgxZfnIR+2Q/FhrwJo/v3875VWEman7ZANmqF4vxuyUz3O+vUFH90CS8bKuBPyUStM97d4LN7uhFxA5WM5f/fEQFyXMXoJkI/PyAqAZKNm+H7yKKTHTYIAQ5CNS86rJo8MyFhBU2EGoNJ+LUwPHrBxPuoQRPaiVoLhtViTTmxAxgrkEGkgyWxojEA2kwiNi/MuAcHg2csmr3MwkQAlCkLMC1BoCgBp76GCkYbZoE5Al70tBQWGwGIlcfHAIMqf9lWSr4e6JOIAwVQJI5BtOnisQMCUAL86atBXEaWyFL1qaSMBBSAA5H5xeSDLRX9bAeI6WZGlUs/w5nakJzBvYFyfO8d1BXa2o9dVViQwliS5IbwBBvjU8IM0hTT8HKkyg/OaEXykYOE1yBVBqkSf/qShjT7v3TxvwAqY8JlTmT0AGoGdhDcqzsQTo64CgjlNilSkWZg38l05b9zI8BOAVeS63mXJMr9MuioNUgTvyM0RbUYafoEsrxvaFM193siDgDXOpcoA/HdAbmIAOt+1qLd0GA6x2pTzl3mDozD7+53+ryop5wyNWXlyTVBXJZGNMz24T8OSJZMTvvox2Cb4KOxAFk5haXLZa3B/KgEhQYg2QJlfwA5AuLRgEL/DisIOnuzi6V3eGD7BjT01BCXs5G/U5OUIqM4o20QjsOOlswfR9hQBGOcMjOpJsnhzI+Uc0nmDCY0ERmCnWvpakU+0GZ9ePFICAivOlEUb3yFZ8E9EdrwSGpp+sRRx3lj6PNr+iloCFW9hFERmB6WD8dvhPd21XRqLtUeagJA4fG4DcAXsoGzbEO9c9e21Ajs7pBO54BEwRGaMsSqQyGC8kLi5TP4awbQJEIwDbhfjKNN42fJ/g+cLKeJkFpOvUKKba1GGhCnC5noLEi1ba2DlT7VqMD8BXonGRqybWuUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADF0lEQVR4XuWX3WoaURSFM2/QR8hdIfRHMe0gqDcWQqFCQ6gXQgyWCA0IglBJaUtLKZRCYzodZ173dK+1z56fEOiFR73ohoM6TjLfrL32OuPBwf9VkdNl7/dakTvvP+Cy93uEUmUMonF4uC8oBck/nLh83nX5p5MKUPl9+XmrFbn1tOOyaezyzy9dOokJtB41az7agUqmSt+lArMaHPE9FEovWwLWdPnHFx7ibhuDl4B8eeVuhi0uXDgZx+7P5Jjv8R3U4hK1qiYPDORVwYUWXb5CmWTU4IWzq07RrgIIgFjXvdBAqgpakc3bLn3Xctms7fJlT48t2oThAqycm71tUzmcZzCBgCL+02wmF1r06ZX1VVxRJiYgjt8Mj6gG1cHUybHgMBxl3DFa8v1Ml4Ak4yYNjZagdYAsWiRAt9I6TF3AVkGZro4y7vjroIChUtYi+Q6G/nn2SKFwjpwL2IDqqGcI4WEAR5XoJc2bdFwxMJb9jbwGgiknCd7Il333+/IZvQCg1ekTbaEshCGBpEVQJpsqLILy9rwVolUKwlCjbzRT4AXmjUDhQpicQg3vF2sdbyRMqyKNf29ejjSSV8Yax6AMp0oALG/SN4163uB8D7ehOlHhEZrVfCN5AmWo2LXmDU1rakBFKCJ5A1MjnwJljgIVyybp22v1iRiYWXMha6ajXcsb+AYe8rAbqoPyCkkrOD2A8qat+gN3n5w+VpOjlR4I6lg0BFEHew99MdcpYou8OTlB2JusTfL6Y/BQW+cVBRBamwyfhlEHAEhaeAB3j6kys9reRcOKp5jM3uhFiwG7LDfPDYFQmj24Q92bOrqBImNw8eok+dbhPOTNavKcUQBPBVCnWvqwRTVwx5w6nZrCRwKXvfefGQ8xH8awpwVUxyqiIrVde+kjoPIowSkDmIHKOTgWWB2UAsGw6aJXv6jfKuxxtTC436+2oA5Ktw0zNUPSmxZgnL6L0tCYsipIYBir8tmnFpTYJqb6QMbtQo5tSZX7yn4Gl+vX6JjGrf6K2BGMVr0NEYPv7iTtDOb+2oMq/6ptw/wF0ZHGDFISEvcAAAAASUVORK5CYII=",
     "wiki_name": "Fire cape (animation item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fire_cape_(animation_item)",
     "equipment": null,

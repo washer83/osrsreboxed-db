@@ -54541,43 +54541,43 @@
     },
     "9597": {
         "id": 9597,
-        "name": "A red circle",
+        "name": "Red circle",
         "type": "normal",
         "duplicate": false
     },
     "9598": {
         "id": 9598,
-        "name": "A red triangle",
+        "name": "Red triangle",
         "type": "normal",
         "duplicate": false
     },
     "9599": {
         "id": 9599,
-        "name": "A red square",
+        "name": "Red square",
         "type": "normal",
         "duplicate": false
     },
     "9600": {
         "id": 9600,
-        "name": "A red pentagon",
+        "name": "Red pentagon",
         "type": "normal",
         "duplicate": false
     },
     "9601": {
         "id": 9601,
-        "name": "An orange circle",
+        "name": "Orange circle",
         "type": "normal",
         "duplicate": false
     },
     "9602": {
         "id": 9602,
-        "name": "An orange triangle",
+        "name": "Orange triangle",
         "type": "normal",
         "duplicate": false
     },
     "9603": {
         "id": 9603,
-        "name": "An orange square",
+        "name": "Orange square",
         "type": "normal",
         "duplicate": false
     },
@@ -54589,121 +54589,121 @@
     },
     "9605": {
         "id": 9605,
-        "name": "A yellow circle",
+        "name": "Yellow circle",
         "type": "normal",
         "duplicate": false
     },
     "9606": {
         "id": 9606,
-        "name": "A yellow triangle",
+        "name": "Yellow triangle",
         "type": "normal",
         "duplicate": false
     },
     "9607": {
         "id": 9607,
-        "name": "A yellow square",
+        "name": "Yellow square",
         "type": "normal",
         "duplicate": false
     },
     "9608": {
         "id": 9608,
-        "name": "A yellow pentagon",
+        "name": "Yellow pentagon",
         "type": "normal",
         "duplicate": false
     },
     "9609": {
         "id": 9609,
-        "name": "A green circle",
+        "name": "Green circle",
         "type": "normal",
         "duplicate": false
     },
     "9610": {
         "id": 9610,
-        "name": "A green triangle",
+        "name": "Green triangle",
         "type": "normal",
         "duplicate": false
     },
     "9611": {
         "id": 9611,
-        "name": "A green square",
+        "name": "Green square",
         "type": "normal",
         "duplicate": false
     },
     "9612": {
         "id": 9612,
-        "name": "A green pentagon",
+        "name": "Green pentagon",
         "type": "normal",
         "duplicate": false
     },
     "9613": {
         "id": 9613,
-        "name": "A blue circle",
+        "name": "Blue circle",
         "type": "normal",
         "duplicate": false
     },
     "9614": {
         "id": 9614,
-        "name": "A blue triangle",
+        "name": "Blue triangle",
         "type": "normal",
         "duplicate": false
     },
     "9615": {
         "id": 9615,
-        "name": "A blue square",
+        "name": "Blue square",
         "type": "normal",
         "duplicate": false
     },
     "9616": {
         "id": 9616,
-        "name": "A blue pentagon",
+        "name": "Blue pentagon",
         "type": "normal",
         "duplicate": false
     },
     "9617": {
         "id": 9617,
-        "name": "An indigo circle",
+        "name": "Indigo circle",
         "type": "normal",
         "duplicate": false
     },
     "9618": {
         "id": 9618,
-        "name": "An indigo triangle",
+        "name": "Indigo triangle",
         "type": "normal",
         "duplicate": false
     },
     "9619": {
         "id": 9619,
-        "name": "An indigo square",
+        "name": "Indigo square",
         "type": "normal",
         "duplicate": false
     },
     "9620": {
         "id": 9620,
-        "name": "An indigo pentagon",
+        "name": "Indigo pentagon",
         "type": "normal",
         "duplicate": false
     },
     "9621": {
         "id": 9621,
-        "name": "A violet circle",
+        "name": "Violet circle",
         "type": "normal",
         "duplicate": false
     },
     "9622": {
         "id": 9622,
-        "name": "A violet triangle",
+        "name": "Violet triangle",
         "type": "normal",
         "duplicate": false
     },
     "9623": {
         "id": 9623,
-        "name": "A violet square",
+        "name": "Violet square",
         "type": "normal",
         "duplicate": false
     },
     "9624": {
         "id": 9624,
-        "name": "A violet pentagon",
+        "name": "Violet pentagon",
         "type": "normal",
         "duplicate": false
     },
@@ -139667,30 +139667,6 @@
         "type": "placeholder",
         "duplicate": true
     },
-    "24609": {
-        "id": 24609,
-        "name": "Blighted bind sack",
-        "type": "normal",
-        "duplicate": false
-    },
-    "24610": {
-        "id": 24610,
-        "name": "Blighted bind sack",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "24611": {
-        "id": 24611,
-        "name": "Blighted snare sack",
-        "type": "normal",
-        "duplicate": false
-    },
-    "24612": {
-        "id": 24612,
-        "name": "Blighted snare sack",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "24613": {
         "id": 24613,
         "name": "Blighted entangle sack",
@@ -151643,12 +151619,6 @@
         "type": "normal",
         "duplicate": false
     },
-    "26704": {
-        "id": 26704,
-        "name": "Blighted wave sack",
-        "type": "normal",
-        "duplicate": false
-    },
     "26705": {
         "id": 26705,
         "name": "Blighted surge sack",
@@ -153898,12 +153868,6 @@
         "name": "Rune pouch",
         "type": "normal",
         "duplicate": false
-    },
-    "27089": {
-        "id": 27089,
-        "name": "Blighted wave sack",
-        "type": "placeholder",
-        "duplicate": true
     },
     "27090": {
         "id": 27090,
@@ -161926,5 +161890,701 @@
         "name": "Stink bomb",
         "type": "placeholder",
         "duplicate": true
+    },
+    "28473": {
+        "id": 28473,
+        "name": "Blood ancient sceptre (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28474": {
+        "id": 28474,
+        "name": "Ice ancient sceptre (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28475": {
+        "id": 28475,
+        "name": "Smoke ancient sceptre (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28476": {
+        "id": 28476,
+        "name": "Shadow ancient sceptre (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28477": {
+        "id": 28477,
+        "name": "Sigil of sustenance",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28478": {
+        "id": 28478,
+        "name": "Sigil of sustenance",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28479": {
+        "id": 28479,
+        "name": "Sigil of sustenance",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28480": {
+        "id": 28480,
+        "name": "Sigil of hoarding",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28481": {
+        "id": 28481,
+        "name": "Sigil of hoarding",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28482": {
+        "id": 28482,
+        "name": "Sigil of hoarding",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28483": {
+        "id": 28483,
+        "name": "Sigil of the alchemaniac",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28484": {
+        "id": 28484,
+        "name": "Sigil of the alchemaniac",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28485": {
+        "id": 28485,
+        "name": "Sigil of the alchemaniac",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28486": {
+        "id": 28486,
+        "name": "Sigil of the hunter",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28487": {
+        "id": 28487,
+        "name": "Sigil of the hunter",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28488": {
+        "id": 28488,
+        "name": "Sigil of the hunter",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28489": {
+        "id": 28489,
+        "name": "Sigil of resistance",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28490": {
+        "id": 28490,
+        "name": "Sigil of resistance",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28491": {
+        "id": 28491,
+        "name": "Sigil of resistance",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28492": {
+        "id": 28492,
+        "name": "Sigil of agile fortune",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28493": {
+        "id": 28493,
+        "name": "Sigil of agile fortune",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28494": {
+        "id": 28494,
+        "name": "Sigil of agile fortune",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28495": {
+        "id": 28495,
+        "name": "Sigil of the food master",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28496": {
+        "id": 28496,
+        "name": "Sigil of the food master",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28497": {
+        "id": 28497,
+        "name": "Sigil of the food master",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28498": {
+        "id": 28498,
+        "name": "Sigil of the well-fed",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28499": {
+        "id": 28499,
+        "name": "Sigil of the well-fed",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28500": {
+        "id": 28500,
+        "name": "Sigil of the well-fed",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28501": {
+        "id": 28501,
+        "name": "Sigil of the infernal chef",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28502": {
+        "id": 28502,
+        "name": "Sigil of the infernal chef",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28503": {
+        "id": 28503,
+        "name": "Sigil of the infernal chef",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28504": {
+        "id": 28504,
+        "name": "Sigil of the infernal smith",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28505": {
+        "id": 28505,
+        "name": "Sigil of the infernal smith",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28506": {
+        "id": 28506,
+        "name": "Sigil of the infernal smith",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28507": {
+        "id": 28507,
+        "name": "Sigil of the lightbearer",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28508": {
+        "id": 28508,
+        "name": "Sigil of the lightbearer",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28509": {
+        "id": 28509,
+        "name": "Sigil of the lightbearer",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28510": {
+        "id": 28510,
+        "name": "Sigil of the bloodhound",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28511": {
+        "id": 28511,
+        "name": "Sigil of the bloodhound",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28512": {
+        "id": 28512,
+        "name": "Sigil of the bloodhound",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28513": {
+        "id": 28513,
+        "name": "Sigil of precision",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28514": {
+        "id": 28514,
+        "name": "Sigil of precision",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28515": {
+        "id": 28515,
+        "name": "Sigil of precision",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28516": {
+        "id": 28516,
+        "name": "Sigil of the augmented thrall",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28517": {
+        "id": 28517,
+        "name": "Sigil of the augmented thrall",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28518": {
+        "id": 28518,
+        "name": "Sigil of the augmented thrall",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28519": {
+        "id": 28519,
+        "name": "Sigil of faith",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28520": {
+        "id": 28520,
+        "name": "Sigil of faith",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28521": {
+        "id": 28521,
+        "name": "Sigil of faith",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28522": {
+        "id": 28522,
+        "name": "Sigil of titanium",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28523": {
+        "id": 28523,
+        "name": "Sigil of titanium",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28524": {
+        "id": 28524,
+        "name": "Sigil of titanium",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28525": {
+        "id": 28525,
+        "name": "Sigil of the ninja",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28526": {
+        "id": 28526,
+        "name": "Sigil of the ninja",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28527": {
+        "id": 28527,
+        "name": "Sigil of the ninja",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28528": {
+        "id": 28528,
+        "name": "Sigil of woodcraft",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28529": {
+        "id": 28529,
+        "name": "Sigil of woodcraft",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28530": {
+        "id": 28530,
+        "name": "Sigil of woodcraft",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28531": {
+        "id": 28531,
+        "name": "Corrupted voidwaker",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28532": {
+        "id": 28532,
+        "name": "Corrupted voidwaker",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28533": {
+        "id": 28533,
+        "name": "Corrupted voidwaker",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28534": {
+        "id": 28534,
+        "name": "Corrupted dragon claws",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28535": {
+        "id": 28535,
+        "name": "Corrupted dragon claws",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28536": {
+        "id": 28536,
+        "name": "Corrupted dragon claws",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28537": {
+        "id": 28537,
+        "name": "Corrupted armadyl godsword",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28538": {
+        "id": 28538,
+        "name": "Corrupted armadyl godsword",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28539": {
+        "id": 28539,
+        "name": "Corrupted armadyl godsword",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28540": {
+        "id": 28540,
+        "name": "Corrupted twisted bow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28541": {
+        "id": 28541,
+        "name": "Corrupted twisted bow",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28542": {
+        "id": 28542,
+        "name": "Corrupted twisted bow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28543": {
+        "id": 28543,
+        "name": "Corrupted scythe of vitur",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28544": {
+        "id": 28544,
+        "name": "Corrupted scythe of vitur",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28545": {
+        "id": 28545,
+        "name": "Corrupted scythe of vitur (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28546": {
+        "id": 28546,
+        "name": "Corrupted scythe of vitur (uncharged)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28547": {
+        "id": 28547,
+        "name": "Corrupted tumeken's shadow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28548": {
+        "id": 28548,
+        "name": "Corrupted tumeken's shadow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28549": {
+        "id": 28549,
+        "name": "Corrupted tumeken's shadow (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28550": {
+        "id": 28550,
+        "name": "Corrupted tumeken's shadow (uncharged)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28551": {
+        "id": 28551,
+        "name": "Quest lamp",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28552": {
+        "id": 28552,
+        "name": "Quest lamp",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28553": {
+        "id": 28553,
+        "name": "Quest lamp",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28554": {
+        "id": 28554,
+        "name": "Quest lamp",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28555": {
+        "id": 28555,
+        "name": "Starter bow",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28556": {
+        "id": 28556,
+        "name": "Starter bow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28557": {
+        "id": 28557,
+        "name": "Starter staff",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28558": {
+        "id": 28558,
+        "name": "Starter staff",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28559": {
+        "id": 28559,
+        "name": "Starter sword",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28560": {
+        "id": 28560,
+        "name": "Starter sword",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28561": {
+        "id": 28561,
+        "name": "Trinket of vengeance",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28562": {
+        "id": 28562,
+        "name": "Trinket of vengeance",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28563": {
+        "id": 28563,
+        "name": "Trinket of vengeance",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28564": {
+        "id": 28564,
+        "name": "Trinket of fairies",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28565": {
+        "id": 28565,
+        "name": "Trinket of fairies",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28566": {
+        "id": 28566,
+        "name": "Trinket of fairies",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28567": {
+        "id": 28567,
+        "name": "Trinket of advanced weaponry",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28568": {
+        "id": 28568,
+        "name": "Trinket of advanced weaponry",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28569": {
+        "id": 28569,
+        "name": "Trinket of advanced weaponry",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28570": {
+        "id": 28570,
+        "name": "Trinket of undead",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28571": {
+        "id": 28571,
+        "name": "Trinket of undead",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28572": {
+        "id": 28572,
+        "name": "Trinket of undead",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28573": {
+        "id": 28573,
+        "name": "Chest key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28574": {
+        "id": 28574,
+        "name": "Strongroom key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28575": {
+        "id": 28575,
+        "name": "Crystal chime seed",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28576": {
+        "id": 28576,
+        "name": "Crystal chime seed",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28577": {
+        "id": 28577,
+        "name": "Crystal chime",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28578": {
+        "id": 28578,
+        "name": "Crystal chime",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28579": {
+        "id": 28579,
+        "name": "Yewnock's notes",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28580": {
+        "id": 28580,
+        "name": "Yewnock's notes",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28583": {
+        "id": 28583,
+        "name": "Warped sceptre (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28584": {
+        "id": 28584,
+        "name": "Warped sceptre (uncharged)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28585": {
+        "id": 28585,
+        "name": "Warped sceptre",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28586": {
+        "id": 28586,
+        "name": "Warped sceptre",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28587": {
+        "id": 28587,
+        "name": "Magic lamp (strength)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28588": {
+        "id": 28588,
+        "name": "Magic lamp (slayer)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28589": {
+        "id": 28589,
+        "name": "Magic lamp (thieving)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28590": {
+        "id": 28590,
+        "name": "Magic lamp (magic)",
+        "type": "normal",
+        "duplicate": false
     }
 }

@@ -1,7 +1,7 @@
 {
     "id": 7401,
     "name": "Cave abomination",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-09-20",
     "incomplete": true,
     "members": true,
     "release_date": "2016-09-15",
@@ -14,7 +14,7 @@
         "magic"
     ],
     "attack_speed": 4,
-    "aggressive": true,
+    "aggressive": false,
     "poisonous": false,
     "venomous": false,
     "immune_poison": false,

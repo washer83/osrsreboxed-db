@@ -96814,5 +96814,425 @@
     "49560": {
         "id": 49560,
         "name": "Chest"
+    },
+    "49561": {
+        "id": 49561,
+        "name": "Breach"
+    },
+    "49563": {
+        "id": 49563,
+        "name": "Boss Spawn"
+    },
+    "49564": {
+        "id": 49564,
+        "name": "Loot!"
+    },
+    "49565": {
+        "id": 49565,
+        "name": "Loot!"
+    },
+    "49568": {
+        "id": 49568,
+        "name": "Cavity"
+    },
+    "49569": {
+        "id": 49569,
+        "name": "Cavity"
+    },
+    "49570": {
+        "id": 49570,
+        "name": "Cavity"
+    },
+    "49571": {
+        "id": 49571,
+        "name": "Cavity"
+    },
+    "49572": {
+        "id": 49572,
+        "name": "Cavity"
+    },
+    "49573": {
+        "id": 49573,
+        "name": "Cavity"
+    },
+    "49574": {
+        "id": 49574,
+        "name": "Cavity"
+    },
+    "49575": {
+        "id": 49575,
+        "name": "Cavity"
+    },
+    "49576": {
+        "id": 49576,
+        "name": "Cavity"
+    },
+    "49577": {
+        "id": 49577,
+        "name": "Cavity"
+    },
+    "49578": {
+        "id": 49578,
+        "name": "Cavity"
+    },
+    "49579": {
+        "id": 49579,
+        "name": "Cavity"
+    },
+    "49580": {
+        "id": 49580,
+        "name": "Cavity"
+    },
+    "49581": {
+        "id": 49581,
+        "name": "Cavity"
+    },
+    "49582": {
+        "id": 49582,
+        "name": "Cavity"
+    },
+    "49583": {
+        "id": 49583,
+        "name": "Deposit pot"
+    },
+    "49589": {
+        "id": 49589,
+        "name": "Tree"
+    },
+    "49590": {
+        "id": 49590,
+        "name": "Tree"
+    },
+    "49591": {
+        "id": 49591,
+        "name": "Tree"
+    },
+    "49592": {
+        "id": 49592,
+        "name": "Spirit Tree"
+    },
+    "49593": {
+        "id": 49593,
+        "name": "Spirit Tree"
+    },
+    "49594": {
+        "id": 49594,
+        "name": "Spirit Tree"
+    },
+    "49595": {
+        "id": 49595,
+        "name": "Spirit Tree"
+    },
+    "49596": {
+        "id": 49596,
+        "name": "Spirit Tree"
+    },
+    "49597": {
+        "id": 49597,
+        "name": "Spirit Tree"
+    },
+    "49599": {
+        "id": 49599,
+        "name": "Heavy door"
+    },
+    "49600": {
+        "id": 49600,
+        "name": "Heavy door"
+    },
+    "49601": {
+        "id": 49601,
+        "name": "Heavy door"
+    },
+    "49602": {
+        "id": 49602,
+        "name": "Human food"
+    },
+    "49603": {
+        "id": 49603,
+        "name": "Human food"
+    },
+    "49604": {
+        "id": 49604,
+        "name": "Human food"
+    },
+    "49605": {
+        "id": 49605,
+        "name": "Human food"
+    },
+    "49606": {
+        "id": 49606,
+        "name": "Human food"
+    },
+    "49607": {
+        "id": 49607,
+        "name": "Human food"
+    },
+    "49609": {
+        "id": 49609,
+        "name": "Alarm button"
+    },
+    "49610": {
+        "id": 49610,
+        "name": "Singing bowl"
+    },
+    "49611": {
+        "id": 49611,
+        "name": "Singing bowl"
+    },
+    "49612": {
+        "id": 49612,
+        "name": "Chest"
+    },
+    "49613": {
+        "id": 49613,
+        "name": "Chest"
+    },
+    "49614": {
+        "id": 49614,
+        "name": "Chest"
+    },
+    "49615": {
+        "id": 49615,
+        "name": "Chest"
+    },
+    "49616": {
+        "id": 49616,
+        "name": "Chest"
+    },
+    "49617": {
+        "id": 49617,
+        "name": "Chest"
+    },
+    "49618": {
+        "id": 49618,
+        "name": "Chest"
+    },
+    "49619": {
+        "id": 49619,
+        "name": "Tunnel"
+    },
+    "49620": {
+        "id": 49620,
+        "name": "Tunnel"
+    },
+    "49623": {
+        "id": 49623,
+        "name": "Tunnel"
+    },
+    "49632": {
+        "id": 49632,
+        "name": "Rock"
+    },
+    "49633": {
+        "id": 49633,
+        "name": "Rock"
+    },
+    "49634": {
+        "id": 49634,
+        "name": "Rock"
+    },
+    "49635": {
+        "id": 49635,
+        "name": "Rock"
+    },
+    "49636": {
+        "id": 49636,
+        "name": "Gnome barrel"
+    },
+    "49637": {
+        "id": 49637,
+        "name": "Gnome barrels"
+    },
+    "49638": {
+        "id": 49638,
+        "name": "Gnome crates"
+    },
+    "49639": {
+        "id": 49639,
+        "name": "Gnome crate"
+    },
+    "49640": {
+        "id": 49640,
+        "name": "Barrel"
+    },
+    "49641": {
+        "id": 49641,
+        "name": "Crate"
+    },
+    "49642": {
+        "id": 49642,
+        "name": "Crates"
+    },
+    "49643": {
+        "id": 49643,
+        "name": "Crates"
+    },
+    "49653": {
+        "id": 49653,
+        "name": "Table"
+    },
+    "49654": {
+        "id": 49654,
+        "name": "Stool"
+    },
+    "49655": {
+        "id": 49655,
+        "name": "Smashed chair"
+    },
+    "49657": {
+        "id": 49657,
+        "name": "Gate"
+    },
+    "49658": {
+        "id": 49658,
+        "name": "Gate"
+    },
+    "49659": {
+        "id": 49659,
+        "name": "Yewnock's machine"
+    },
+    "49660": {
+        "id": 49660,
+        "name": "Cogs"
+    },
+    "49662": {
+        "id": 49662,
+        "name": "Yewnock's machine"
+    },
+    "49663": {
+        "id": 49663,
+        "name": "Yewnock's exchanger"
+    },
+    "49673": {
+        "id": 49673,
+        "name": "Lectern"
+    },
+    "49700": {
+        "id": 49700,
+        "name": "Ladder"
+    },
+    "49701": {
+        "id": 49701,
+        "name": "Ladder"
+    },
+    "49742": {
+        "id": 49742,
+        "name": "Metal gate"
+    },
+    "49743": {
+        "id": 49743,
+        "name": "Metal gate"
+    },
+    "49753": {
+        "id": 49753,
+        "name": "Sewer exit"
+    },
+    "49754": {
+        "id": 49754,
+        "name": "Sewer exit"
+    },
+    "49755": {
+        "id": 49755,
+        "name": "Sewer exit"
+    },
+    "49756": {
+        "id": 49756,
+        "name": "Sewer exit"
+    },
+    "49757": {
+        "id": 49757,
+        "name": "Sewer exit"
+    },
+    "49758": {
+        "id": 49758,
+        "name": "Sewer exit"
+    },
+    "49761": {
+        "id": 49761,
+        "name": "Gas"
+    },
+    "49762": {
+        "id": 49762,
+        "name": "Gas jet"
+    },
+    "49868": {
+        "id": 49868,
+        "name": "Sewer entrance"
+    },
+    "49885": {
+        "id": 49885,
+        "name": "Secure door"
+    },
+    "49886": {
+        "id": 49886,
+        "name": "Secure door"
+    },
+    "49889": {
+        "id": 49889,
+        "name": "Metal gate"
+    },
+    "49890": {
+        "id": 49890,
+        "name": "Metal gate"
+    },
+    "49891": {
+        "id": 49891,
+        "name": "Metal gate"
+    },
+    "49892": {
+        "id": 49892,
+        "name": "Metal gate"
+    },
+    "49893": {
+        "id": 49893,
+        "name": "Pipe"
+    },
+    "49894": {
+        "id": 49894,
+        "name": "Pipe"
+    },
+    "49895": {
+        "id": 49895,
+        "name": "Pipe"
+    },
+    "49896": {
+        "id": 49896,
+        "name": "Pipe"
+    },
+    "49898": {
+        "id": 49898,
+        "name": "Warped tree roots"
+    },
+    "49899": {
+        "id": 49899,
+        "name": "Warped tree roots"
+    },
+    "49900": {
+        "id": 49900,
+        "name": "Warped tree roots"
+    },
+    "49901": {
+        "id": 49901,
+        "name": "Parted tree roots"
+    },
+    "49902": {
+        "id": 49902,
+        "name": "Parted tree roots"
+    },
+    "49903": {
+        "id": 49903,
+        "name": "Warped tree roots"
+    },
+    "49904": {
+        "id": 49904,
+        "name": "Parted tree roots"
+    },
+    "49905": {
+        "id": 49905,
+        "name": "Oaknock's Machine"
+    },
+    "49906": {
+        "id": 49906,
+        "name": "Oaknock's exchanger"
     }
 }

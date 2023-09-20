@@ -4677,51 +4677,51 @@
     },
     "1240": {
         "id": 1240,
-        "name": "Cute creature"
+        "name": "Cute Creature"
     },
     "1241": {
         "id": 1241,
-        "name": "Evil creature"
+        "name": "Evil Creature"
     },
     "1243": {
         "id": 1243,
-        "name": "Cute creature"
+        "name": "Cute Creature"
     },
     "1244": {
         "id": 1244,
-        "name": "Evil creature"
+        "name": "Evil Creature"
     },
     "1246": {
         "id": 1246,
-        "name": "Cute creature"
+        "name": "Cute Creature"
     },
     "1247": {
         "id": 1247,
-        "name": "Evil creature"
+        "name": "Evil Creature"
     },
     "1249": {
         "id": 1249,
-        "name": "Cute creature"
+        "name": "Cute Creature"
     },
     "1250": {
         "id": 1250,
-        "name": "Evil creature"
+        "name": "Evil Creature"
     },
     "1252": {
         "id": 1252,
-        "name": "Cute creature"
+        "name": "Cute Creature"
     },
     "1253": {
         "id": 1253,
-        "name": "Evil creature"
+        "name": "Evil Creature"
     },
     "1255": {
         "id": 1255,
-        "name": "Cute creature"
+        "name": "Cute Creature"
     },
     "1256": {
         "id": 1256,
-        "name": "Evil creature"
+        "name": "Evil Creature"
     },
     "1257": {
         "id": 1257,
@@ -41054,5 +41054,241 @@
     "12438": {
         "id": 12438,
         "name": "Tail"
+    },
+    "12439": {
+        "id": 12439,
+        "name": "Dagannoth Rex"
+    },
+    "12440": {
+        "id": 12440,
+        "name": "King Black Dragon"
+    },
+    "12441": {
+        "id": 12441,
+        "name": "Dagannoth Supreme"
+    },
+    "12442": {
+        "id": 12442,
+        "name": "Dagannoth Prime"
+    },
+    "12443": {
+        "id": 12443,
+        "name": "Kree'arra"
+    },
+    "12444": {
+        "id": 12444,
+        "name": "General Graardor"
+    },
+    "12445": {
+        "id": 12445,
+        "name": "Commander Zilyana"
+    },
+    "12446": {
+        "id": 12446,
+        "name": "K'ril Tsutsaroth"
+    },
+    "12447": {
+        "id": 12447,
+        "name": "Dharok the Wretched"
+    },
+    "12448": {
+        "id": 12448,
+        "name": "Porazdir"
+    },
+    "12449": {
+        "id": 12449,
+        "name": "Justiciar Zachariah"
+    },
+    "12450": {
+        "id": 12450,
+        "name": "Derwen"
+    },
+    "12451": {
+        "id": 12451,
+        "name": "Greater abyssal demon"
+    },
+    "12452": {
+        "id": 12452,
+        "name": "Giant goblin"
+    },
+    "12453": {
+        "id": 12453,
+        "name": "Flaming pyrelord"
+    },
+    "12454": {
+        "id": 12454,
+        "name": "Cave abomination"
+    },
+    "12455": {
+        "id": 12455,
+        "name": "Jal-ImKot"
+    },
+    "12456": {
+        "id": 12456,
+        "name": "Malevolent Mage"
+    },
+    "12457": {
+        "id": 12457,
+        "name": "Vitreous warped Jelly"
+    },
+    "12458": {
+        "id": 12458,
+        "name": "Sulphur Lizard"
+    },
+    "12459": {
+        "id": 12459,
+        "name": "Night beast"
+    },
+    "12460": {
+        "id": 12460,
+        "name": "Guard"
+    },
+    "12461": {
+        "id": 12461,
+        "name": "Guard"
+    },
+    "12464": {
+        "id": 12464,
+        "name": "Mutated Terrorbird"
+    },
+    "12465": {
+        "id": 12465,
+        "name": "Mutated Tortoise"
+    },
+    "12466": {
+        "id": 12466,
+        "name": "Longramble"
+    },
+    "12468": {
+        "id": 12468,
+        "name": "Spirit tree"
+    },
+    "12469": {
+        "id": 12469,
+        "name": "Spirit tree"
+    },
+    "12470": {
+        "id": 12470,
+        "name": "Yewnock the Engineer"
+    },
+    "12471": {
+        "id": 12471,
+        "name": "King Bolrie"
+    },
+    "12472": {
+        "id": 12472,
+        "name": "Bolrie"
+    },
+    "12473": {
+        "id": 12473,
+        "name": "Hazelmere"
+    },
+    "12474": {
+        "id": 12474,
+        "name": "Advisor"
+    },
+    "12475": {
+        "id": 12475,
+        "name": "Argenthorg"
+    },
+    "12476": {
+        "id": 12476,
+        "name": "Cute Creature"
+    },
+    "12477": {
+        "id": 12477,
+        "name": "Evil Creature"
+    },
+    "12478": {
+        "id": 12478,
+        "name": "Cute Creature"
+    },
+    "12479": {
+        "id": 12479,
+        "name": "Evil Creature"
+    },
+    "12480": {
+        "id": 12480,
+        "name": "Terrorbird Guard 21"
+    },
+    "12481": {
+        "id": 12481,
+        "name": "Terrorbird Guard 72"
+    },
+    "12482": {
+        "id": 12482,
+        "name": "Terrorbird Guard 21"
+    },
+    "12483": {
+        "id": 12483,
+        "name": "Terrorbird Guard 72"
+    },
+    "12484": {
+        "id": 12484,
+        "name": "Terrorbird Guard 21"
+    },
+    "12485": {
+        "id": 12485,
+        "name": "Terrorbird Guard 72"
+    },
+    "12490": {
+        "id": 12490,
+        "name": "Warped Tortoise"
+    },
+    "12491": {
+        "id": 12491,
+        "name": "Warped Terrorbird"
+    },
+    "12492": {
+        "id": 12492,
+        "name": "Warped Terrorbird"
+    },
+    "12493": {
+        "id": 12493,
+        "name": "Warped Terrorbird"
+    },
+    "12494": {
+        "id": 12494,
+        "name": "Warped Terrorbird"
+    },
+    "12495": {
+        "id": 12495,
+        "name": "Warped Terrorbird"
+    },
+    "12496": {
+        "id": 12496,
+        "name": "Warped Terrorbird"
+    },
+    "12497": {
+        "id": 12497,
+        "name": "Warped Terrorbird"
+    },
+    "12498": {
+        "id": 12498,
+        "name": "Warped Terrorbird"
+    },
+    "12499": {
+        "id": 12499,
+        "name": "Warped Terrorbird"
+    },
+    "12500": {
+        "id": 12500,
+        "name": "Warped Terrorbird"
+    },
+    "12501": {
+        "id": 12501,
+        "name": "Warped Terrorbird"
+    },
+    "12502": {
+        "id": 12502,
+        "name": "Warped Terrorbird"
+    },
+    "12503": {
+        "id": 12503,
+        "name": "Warped Terrorbird"
+    },
+    "12504": {
+        "id": 12504,
+        "name": "Warped Terrorbird"
     }
 }

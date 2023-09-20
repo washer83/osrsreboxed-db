@@ -1,0 +1,84 @@
+{
+    "id": 28537,
+    "name": "Corrupted armadyl godsword",
+    "last_updated": "2023-09-20",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 28538,
+    "linked_id_placeholder": 28539,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 250000,
+    "lowalch": 100000,
+    "highalch": 150000,
+    "weight": 10.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-08-23",
+    "duplicate": false,
+    "examine": "A beautiful, heavy sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
+    "wiki_name": "Corrupted armadyl godsword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_armadyl_godsword",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 106,
+        "attack_crush": 64,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 106,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 7,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

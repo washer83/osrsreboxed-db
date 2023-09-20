@@ -1,14 +1,14 @@
 {
     "id": 6356,
     "name": "Ice Troll King",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-09-20",
     "incomplete": true,
     "members": true,
     "release_date": "2007-02-06",
     "combat_level": 122,
     "size": 2,
     "hitpoints": 150,
-    "max_hit": 25,
+    "max_hit": 21,
     "attack_type": [
         "crush",
         "ranged",

@@ -24177,31 +24177,31 @@
     },
     "9597": {
         "id": 9597,
-        "name": "A red circle"
+        "name": "Red circle"
     },
     "9598": {
         "id": 9598,
-        "name": "A red triangle"
+        "name": "Red triangle"
     },
     "9599": {
         "id": 9599,
-        "name": "A red square"
+        "name": "Red square"
     },
     "9600": {
         "id": 9600,
-        "name": "A red pentagon"
+        "name": "Red pentagon"
     },
     "9601": {
         "id": 9601,
-        "name": "An orange circle"
+        "name": "Orange circle"
     },
     "9602": {
         "id": 9602,
-        "name": "An orange triangle"
+        "name": "Orange triangle"
     },
     "9603": {
         "id": 9603,
-        "name": "An orange square"
+        "name": "Orange square"
     },
     "9604": {
         "id": 9604,
@@ -24209,83 +24209,83 @@
     },
     "9605": {
         "id": 9605,
-        "name": "A yellow circle"
+        "name": "Yellow circle"
     },
     "9606": {
         "id": 9606,
-        "name": "A yellow triangle"
+        "name": "Yellow triangle"
     },
     "9607": {
         "id": 9607,
-        "name": "A yellow square"
+        "name": "Yellow square"
     },
     "9608": {
         "id": 9608,
-        "name": "A yellow pentagon"
+        "name": "Yellow pentagon"
     },
     "9609": {
         "id": 9609,
-        "name": "A green circle"
+        "name": "Green circle"
     },
     "9610": {
         "id": 9610,
-        "name": "A green triangle"
+        "name": "Green triangle"
     },
     "9611": {
         "id": 9611,
-        "name": "A green square"
+        "name": "Green square"
     },
     "9612": {
         "id": 9612,
-        "name": "A green pentagon"
+        "name": "Green pentagon"
     },
     "9613": {
         "id": 9613,
-        "name": "A blue circle"
+        "name": "Blue circle"
     },
     "9614": {
         "id": 9614,
-        "name": "A blue triangle"
+        "name": "Blue triangle"
     },
     "9615": {
         "id": 9615,
-        "name": "A blue square"
+        "name": "Blue square"
     },
     "9616": {
         "id": 9616,
-        "name": "A blue pentagon"
+        "name": "Blue pentagon"
     },
     "9617": {
         "id": 9617,
-        "name": "An indigo circle"
+        "name": "Indigo circle"
     },
     "9618": {
         "id": 9618,
-        "name": "An indigo triangle"
+        "name": "Indigo triangle"
     },
     "9619": {
         "id": 9619,
-        "name": "An indigo square"
+        "name": "Indigo square"
     },
     "9620": {
         "id": 9620,
-        "name": "An indigo pentagon"
+        "name": "Indigo pentagon"
     },
     "9621": {
         "id": 9621,
-        "name": "A violet circle"
+        "name": "Violet circle"
     },
     "9622": {
         "id": 9622,
-        "name": "A violet triangle"
+        "name": "Violet triangle"
     },
     "9623": {
         "id": 9623,
-        "name": "A violet square"
+        "name": "Violet square"
     },
     "9624": {
         "id": 9624,
-        "name": "A violet pentagon"
+        "name": "Violet pentagon"
     },
     "9625": {
         "id": 9625,
@@ -45907,14 +45907,6 @@
         "id": 24607,
         "name": "Blighted ancient ice sack"
     },
-    "24609": {
-        "id": 24609,
-        "name": "Blighted bind sack"
-    },
-    "24611": {
-        "id": 24611,
-        "name": "Blighted snare sack"
-    },
     "24613": {
         "id": 24613,
         "name": "Blighted entangle sack"
@@ -50659,10 +50651,6 @@
         "id": 26703,
         "name": "Saika's shroud (broken)"
     },
-    "26704": {
-        "id": 26704,
-        "name": "Blighted wave sack"
-    },
     "26705": {
         "id": 26705,
         "name": "Blighted surge sack"
@@ -54742,5 +54730,285 @@
     "28471": {
         "id": 28471,
         "name": "Stink bomb"
+    },
+    "28473": {
+        "id": 28473,
+        "name": "Blood ancient sceptre (l)"
+    },
+    "28474": {
+        "id": 28474,
+        "name": "Ice ancient sceptre (l)"
+    },
+    "28475": {
+        "id": 28475,
+        "name": "Smoke ancient sceptre (l)"
+    },
+    "28476": {
+        "id": 28476,
+        "name": "Shadow ancient sceptre (l)"
+    },
+    "28477": {
+        "id": 28477,
+        "name": "Sigil of sustenance"
+    },
+    "28478": {
+        "id": 28478,
+        "name": "Sigil of sustenance"
+    },
+    "28480": {
+        "id": 28480,
+        "name": "Sigil of hoarding"
+    },
+    "28481": {
+        "id": 28481,
+        "name": "Sigil of hoarding"
+    },
+    "28483": {
+        "id": 28483,
+        "name": "Sigil of the alchemaniac"
+    },
+    "28484": {
+        "id": 28484,
+        "name": "Sigil of the alchemaniac"
+    },
+    "28486": {
+        "id": 28486,
+        "name": "Sigil of the hunter"
+    },
+    "28487": {
+        "id": 28487,
+        "name": "Sigil of the hunter"
+    },
+    "28489": {
+        "id": 28489,
+        "name": "Sigil of resistance"
+    },
+    "28490": {
+        "id": 28490,
+        "name": "Sigil of resistance"
+    },
+    "28492": {
+        "id": 28492,
+        "name": "Sigil of agile fortune"
+    },
+    "28493": {
+        "id": 28493,
+        "name": "Sigil of agile fortune"
+    },
+    "28495": {
+        "id": 28495,
+        "name": "Sigil of the food master"
+    },
+    "28496": {
+        "id": 28496,
+        "name": "Sigil of the food master"
+    },
+    "28498": {
+        "id": 28498,
+        "name": "Sigil of the well-fed"
+    },
+    "28499": {
+        "id": 28499,
+        "name": "Sigil of the well-fed"
+    },
+    "28501": {
+        "id": 28501,
+        "name": "Sigil of the infernal chef"
+    },
+    "28502": {
+        "id": 28502,
+        "name": "Sigil of the infernal chef"
+    },
+    "28504": {
+        "id": 28504,
+        "name": "Sigil of the infernal smith"
+    },
+    "28505": {
+        "id": 28505,
+        "name": "Sigil of the infernal smith"
+    },
+    "28507": {
+        "id": 28507,
+        "name": "Sigil of the lightbearer"
+    },
+    "28508": {
+        "id": 28508,
+        "name": "Sigil of the lightbearer"
+    },
+    "28510": {
+        "id": 28510,
+        "name": "Sigil of the bloodhound"
+    },
+    "28511": {
+        "id": 28511,
+        "name": "Sigil of the bloodhound"
+    },
+    "28513": {
+        "id": 28513,
+        "name": "Sigil of precision"
+    },
+    "28514": {
+        "id": 28514,
+        "name": "Sigil of precision"
+    },
+    "28516": {
+        "id": 28516,
+        "name": "Sigil of the augmented thrall"
+    },
+    "28517": {
+        "id": 28517,
+        "name": "Sigil of the augmented thrall"
+    },
+    "28519": {
+        "id": 28519,
+        "name": "Sigil of faith"
+    },
+    "28520": {
+        "id": 28520,
+        "name": "Sigil of faith"
+    },
+    "28522": {
+        "id": 28522,
+        "name": "Sigil of titanium"
+    },
+    "28523": {
+        "id": 28523,
+        "name": "Sigil of titanium"
+    },
+    "28525": {
+        "id": 28525,
+        "name": "Sigil of the ninja"
+    },
+    "28526": {
+        "id": 28526,
+        "name": "Sigil of the ninja"
+    },
+    "28528": {
+        "id": 28528,
+        "name": "Sigil of woodcraft"
+    },
+    "28529": {
+        "id": 28529,
+        "name": "Sigil of woodcraft"
+    },
+    "28531": {
+        "id": 28531,
+        "name": "Corrupted voidwaker"
+    },
+    "28534": {
+        "id": 28534,
+        "name": "Corrupted dragon claws"
+    },
+    "28537": {
+        "id": 28537,
+        "name": "Corrupted armadyl godsword"
+    },
+    "28540": {
+        "id": 28540,
+        "name": "Corrupted twisted bow"
+    },
+    "28543": {
+        "id": 28543,
+        "name": "Corrupted scythe of vitur"
+    },
+    "28545": {
+        "id": 28545,
+        "name": "Corrupted scythe of vitur (uncharged)"
+    },
+    "28547": {
+        "id": 28547,
+        "name": "Corrupted tumeken's shadow"
+    },
+    "28549": {
+        "id": 28549,
+        "name": "Corrupted tumeken's shadow (uncharged)"
+    },
+    "28551": {
+        "id": 28551,
+        "name": "Quest lamp"
+    },
+    "28552": {
+        "id": 28552,
+        "name": "Quest lamp"
+    },
+    "28553": {
+        "id": 28553,
+        "name": "Quest lamp"
+    },
+    "28554": {
+        "id": 28554,
+        "name": "Quest lamp"
+    },
+    "28555": {
+        "id": 28555,
+        "name": "Starter bow"
+    },
+    "28557": {
+        "id": 28557,
+        "name": "Starter staff"
+    },
+    "28559": {
+        "id": 28559,
+        "name": "Starter sword"
+    },
+    "28561": {
+        "id": 28561,
+        "name": "Trinket of vengeance"
+    },
+    "28564": {
+        "id": 28564,
+        "name": "Trinket of fairies"
+    },
+    "28567": {
+        "id": 28567,
+        "name": "Trinket of advanced weaponry"
+    },
+    "28570": {
+        "id": 28570,
+        "name": "Trinket of undead"
+    },
+    "28573": {
+        "id": 28573,
+        "name": "Chest key"
+    },
+    "28574": {
+        "id": 28574,
+        "name": "Strongroom key"
+    },
+    "28575": {
+        "id": 28575,
+        "name": "Crystal chime seed"
+    },
+    "28577": {
+        "id": 28577,
+        "name": "Crystal chime"
+    },
+    "28579": {
+        "id": 28579,
+        "name": "Yewnock's notes"
+    },
+    "28583": {
+        "id": 28583,
+        "name": "Warped sceptre (uncharged)"
+    },
+    "28585": {
+        "id": 28585,
+        "name": "Warped sceptre"
+    },
+    "28587": {
+        "id": 28587,
+        "name": "Magic lamp (strength)"
+    },
+    "28588": {
+        "id": 28588,
+        "name": "Magic lamp (slayer)"
+    },
+    "28589": {
+        "id": 28589,
+        "name": "Magic lamp (thieving)"
+    },
+    "28590": {
+        "id": 28590,
+        "name": "Magic lamp (magic)"
     }
 }

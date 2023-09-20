@@ -1,7 +1,7 @@
 {
     "id": 26117,
     "name": "Sigil of the serpent",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-09-20",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACt0lEQVR4Xu2Xz2oTURTGOzsLoisXxU3ARaGgZmEWEsSIdBEsYmkxYDFQJUQskWqt1TaUhthSrFKlVClV6p9Nn8EXcKsv4N6nOPK7w5ncuZkJU70NKL3w0SySub9833dO6MDA0fn/TyDp6vsJ5PvXMzHN3K9ItXpdxm9c6TdYN4ytqalrRmNjpX641htGgYApl4tSKhWkWMxLoXD2MKAC2dlZll8/ho1cEFtEBxRAwOTzwwYon8v5ggrkw/uWAXr3thlBqX5+66jRuCW12oRxij7h0MgIIH0CsmEWF2syO3s7BjR69aJxKZc77Su2QD59fC67uysR0NbWsy6gleV7RnOPqlKv30wF8uBSINvbS/Lm9YKB4bUL1G43ZG31gbRaMzI/Px2tgMnJUQNEhzzGFpYZ6UgDBCBA6+sPZePFnGxuPolFdmd6PALCIa9AxFWplCMBBATO4IrG1WzWTWQ4pECMP8X2PGlBDIjYNKKnC3eNM1zMqPMaKCLjvYcAFJaab6viYqLBCcS+IRouV1FsSq0LUpejFyAiwhVEsTUKLsQFOvPq5WPjGtHhmk6avSA9AHUKTY9U9EfjQixDOkNMWnygXYc0NveWDCf8QRwcPGZcAYjF+OXzWrQgmS5gGHMddRsK51ygP5y0EASdPHHciDj29zdkb69tHGLkcYipIi6V7p80hzrbOrNL3TBDQ6eMKDYO0SEiwyH6AoQ64soGIi6AeCbPzwCWDnP+XPjTQFGB0T2ES/RHi407GpsNxNjrs/TZelcPqGQgYBBOEMPlSxdiEwUkAPpXwRRIP4/SgHp0KoRKckgFEGLvIEC0P7ijQPZn/gKIkwyVBJdVNogNkxGIE4dywdwLk+R2xoXRUgOTAYjT2UVJci9KkvsZ15UDwIQnfLP9n4MfHRjEPfa38SX3jqPzz5/fQOz7n0sCAs8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWElEQVR4Xu2X3UtTYRzHPXcJUVddSDcDLwaBJZKIDGkhI4YShkORUZhhgklgmZkNGWaZiUzMTBLRdDQcM19yzZfGXPMFXwpfrrzpvr/il9/f4Tkej2djq5NQ+MCXgXjO8/H7/f6eZ6alnaz/f0kUX8e+JNqazzykrq42crkeUV3d3eMGOwqjVlNTPau6+tZxuJYYBoJLtbV3qKrKSRUVDiopKSK7vfBvQEm0uhqhn9tmlhZErZaWx1RTc5vKym5QcfE1umotYKBsk8koKIk2N5cYaHn5iwIl9GP1QN3dL+lZ61NqbLzPUACyWPKNB9rYiDHQUmwhLsz74bf0preT2ttbuEeIDrHZbFYymzONim2/N1trtL4epZWVMANFo6EjQD7fIKu/30MdHW5l4m46y7lDWVkXjHJJYohIJBgX6OP4KE1NfSC/f5gGBnr4CECPHtTfo8rKCo4tJyfbOCC4AzmdRazFxc8UDn9ioJmZMQqFArSwMEmjI/3U19fFDqFHDQ11PG0G90gudHm5XVHs6xzNz03Q5ISXAoERdgZCZHBIFFsAYfQNnjTpEBAmTUSEInu97/Z7Ytl3wsouoUdu9xMFqLT0OhfbICCJtrfXyeGwKcLGiMbjecGyWnPJVpjPUELoEToEIJxH4nA0BAglRkwoNNwBFDbFFGG8Meazs+McIWIbHOzln+EswhWC0UePDACST+e1tUWWKDdKjO4grqGhPnrd84qet7k4Jox7c/NDjgvA6itExKbdJYklX4jp6ad41AHx/dsK7e5u8icgg0E/w8ANSBQZ4y6AtHdaXl7u77gkg0Bnz5xmYaT39naVAxJjD4cQD6KB4BD6JFxCfwAkIlMfjim4dBQmI+McCzA7OxvsGPoCh8bGhri8cER87UBvIHVkmDKcQybTeX4n3p8EWHyYSxfNvHlnZyvDoOToEcYeUWFzuIS4hEOAElcHCi3eJd4t9koApQ8EGAhxIIYrBZc5wulpnwIJEHwCRvQIkIhLPA/FA0rQKRlKzyEhAEE4dyCAoD+IDjBwChGqn/kDICx9KD24ZKUGUcMkCYR1GEoLpt1QT9rOaGFEqQGTBBDWwVmkJ+1GetI+o3UlBRh5yb+s/s/BGKUMol3qv8Yoafc4Wf/8+gVFZmmUgHe8kAAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of the serpent (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_serpent#Un-attuned",
     "equipment": null,
