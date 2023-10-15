@@ -1,7 +1,7 @@
 {
     "id": 21735,
     "name": "Guardian boots",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-10-26",
     "duplicate": true,
     "examine": "Some sturdy Bandos boots, made sturdier with the blackened tourmaline core of the Grotesque Guardians.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoElEQVR4Xu2Wb0siURTGmy/RG98M+EIYECSIRUQwREJcQtlQTBLdxXVJEWrbtm1FpNqtEEmWthdFn/XUc91z58y1PzQzFSweOCh6nfub53nOHRcW5vX/l0XefrOaAixFo+TYtu43gJqCSAgTKKFe3bUvpN7jINHFRd28Vn7mfh5KWXRzc0GXl2OaTE4fBEHbdkTZyG2uCwnKonazSVdXE/p7MaKzsyENhz9of3+bdrY71GhUKZ/PUjzuzCh3H3xoUK16nT7WajQeH9PR4U8F1Ot9oc1aheKOQ3YkMgNhqpjLZZSKIWXLUkCblQqVSyV6v7pKuUyG3i0vK6Dr6z8eS0070bFYVIPgN0uJRHCoxkaVquvrVCwUKJ/NUiqZVBeGpefnv5V6/f431bC03W5SsVhQlkJFXAOvAMJ7TKU7mc8uSyvx67ivbOt2P9NKJq3UA+iHtTWtHsPG7gIOCDS/Z3UCwex0Okqhh2yBnY8BSbBQ1MF0DQbfVYbQbBlvxPliO1fSaZ0x5IfX4TeB1Tk4+KosQkMFbMobQgVshGNhNDpU4Ht7Pdra+qSOhXK5NGNbgEBbdHIyUJsgqBh1WCIDDQVwVnHgeQoBbGaI7fJpmRcGd43JabXqnpHHJgg11kjLAMzfA8qcrGfDyEzgjgEDGwDE6mAzqINx393t6rUcagmUSvnOjnsIcl5wx9gENmAjqMMWQEWEHUAM4wn0P8twPPgAsnRG5Bjz1Mip4lGHOgg98oUQy7CzQmg8OnwD8V0CiNXBxeW5wyFmaJ4qOXncWO87yEknpv8+mIcfNx625mPEPAZCgOEy/+15W1p630EoQUKAmZYcTe+YThWUmZJTJfPFNxAY5ul62lYJ8sIwXLNWyn5FELdMO802189rXq9dtz7wEnCEV7K0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmUlEQVR4Xu2W/0siURTFmx9CRmQkihWVtJRN3EQz1JJ1U5Dato1tRaTarRAJiaIfIvr7b3ue3eedZ19oZipYvHBR9DnvM+ec+8aZmWn9/2WRuz+sRgDz4TA5tq37A6BGIBLCBFpbWnqAelP1ngcJz87q5rXys/HngZRFd3eXdH09oOHw9EkQtG2HlI3c5rqAoCxq1Gp0czOkq8s+nZ31qNf7Rfv727Sz3aRqtUSZTIqiUWdCucfgA4OqVyq0US7TYHBMR4e/FVC7/Y3Wy0WKOg7ZodAEhKliOp1UKgaULUsBrReLVMjn6fPyMqWTSfq0sKCAbm8vXJaadqIjkbAGwW/m5+b8Q1XXSlRaXaVcNkuZVIrisZi6MCw9P/+r1Ot0fqiGpY1GjXK5rLIUKuIaeAUQ3mMqx5P56rK0En+OO8q2VusrLSYTSj2AfllZ0eoxbORfwAGB5vesji+YnWZTKfSULbDzOSAJFog6mK5u96fKEJot4404X2znYiKhM4b88Dr8xrc6BwfflUVoqIBNeUOogI1wLPT7hwp8b69NW1ub6lgoFPITtvkItEUnJ121CYKKUYclMtBQAGcVB56nEMBmhtguj5a5YXDXmJx6veIaeWyCUGONtAzA/D2gzMl6NYzMBO4YMLABQKwONoM6GPfd3ZZey6GWQPG45+yMD0HOC+4Ym8AGbAR12AKoiLADiGFcgX6wDMeDByBLZ0SOMU+NnCoedaiD0CNfCLEMOyuExqPDMxDfJYBYHVxcnjscYobmqZKTx431noMccyL674N5+HHjYWs+RsxjIAAYLvPfnrulpY8dhBIkAJhRydF0j+lIQZkpOVUyX3wDvmFerpdtlSBvDMM1aaXsdwQZl2mn2eb6aU3rvese9sKFpH5UjtYAAAAASUVORK5CYII=",
     "wiki_name": "Guardian boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guardian_boots",
     "equipment": null,

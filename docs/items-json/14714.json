@@ -1,7 +1,7 @@
 {
     "id": 14714,
     "name": "Iron battleaxe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A vicious looking axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xt3XT0sCQRgG8J1v4GkvXvwIfQHBkBAxJGlJTBL/oEZatKFiUOChQ8cg6NC1D/rWMy+zM7tunqbZoQfey7qsP555FQ2C/xNBPIWHIcvZjFa3yyJRDJmPRhLzsFjQNo7ltaNKxTVK0PCyR9PBIMFs7u/oab0uAiToqtulcb8vQTeTSYLSR+Z0nwRddDrUiyIJU02po8Prb3FIH5vQFYxB5+32Hky1BtD7KqTPbZm+duVMa9aRGqTGhO2mIb0uwr2W0CCwGMAtohikUGetFp02Ggls3S/R47BEL9eMwo4BkweytPxpkHkMwJiDY1QgE2MZhGgEHsoP3gcBjGN0AAoCBfkNg2sntZo8UuyXiUFz1kHppEH6zdIoRyAhl1hNFnRcrVKzXpeLj70Dxikou1doCBi0pL4e/hDER5Xfjr4nbzTaag61o2N+AMwx77EQbud5HB7EOIyQmCwoe5ejCIp73A7Gq3byF9lpdDve7A4g+JnhBWYZMcaDRUa4HW8WedzmH14etPPzT6NZonnHm3YQ3h9PMCpeYTheYYrIN2hC+CCBdPVfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmklEQVR4Xt3XzUsCQRgG8B1k8X9QMj/I2Aw/wk+0NGpDRYICDx06dujQoXv/+1vPvIwz+5GnaXbogfeyLuuPZ15Fg+D/RBBP4WHIaj6n9e2qSBRDFuOxxDwsl7SLY3mtX6+7Rgka9Xs0Gw4PmO39HT1tNkWABF11uzQZDCToZjo9oPSROd0nQZdRRL1OR8JUU+ro8PpbHNLHNnQFY9BFu52BqdYAel+H9Lkr09e+nGrNOlKD1Jiw/Syk12WYaQkNAosB3CKKQQp13mrRWaNxgG0GJXoclejlmlHYMWDyQJaWPwkyjwEYc3CMCmRiLIMQjcBD+cFZEMA4RgegIFCQ3zC4dlqtyiPFfpkYNGcdlEwSpN8siXIEEnKJ1aRBJ5UKNWs1ufjYO2CcgtJ7hYaAQUvq6+EPQXxU+e3oe/JGo63mWDs65gfAHPMeC+F2nifhUYzDCIlJg9J3OYqguMftYLxqJ3+RnUa3483uAIKfGV5gVh3GeLDICLfjzSJP2vzDy4N2fv5pNEu0iLxpB+H98QSj4hWG4xWmiHwD27qrCBzvuNkAAAAASUVORK5CYII=",
     "wiki_name": "Iron battleaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iron_battleaxe",
     "equipment": null,

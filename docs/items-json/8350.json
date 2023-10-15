@@ -1,7 +1,7 @@
 {
     "id": 8350,
     "name": "Mahogany telescope",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDUlEQVR4XtWXzUtCQRTFm3+iTRvBRRAEEkiECIqEhCJKklgYWIiiJholghAEES1aFEQf0KJa9k+eOnO5fjwNWvTm2YEL7z3nOT/OvTN33tLS/5fBOObdO5VBfT+Du5sbJONxC5FNbaKcS+C4lHYNZdCvF/H+9ITTVgudRgP1atU+e3n9QPeo4Nopg0GzhM+3Nwx6PfS7HQtGGMbz6zualSzCoWW3UNapbxhCMRRGo1JI2jGRUMgNlExkrDtnJ+0poEkYZ0Aig2ouhmG7PFE3EoHANHYTaO+l0Clv2+taIW4BnaZKZCwE4/QgjfPDHXtdTm8iFgkHA6TOKBQdqmS2gkoXJbUyPM7isp5HMroaJIzK4KKWw3W7GFSqvDLWndteCdE12QYCB7pq7uL+fH9RgCiDx0EF6+GVRQAyNl0P/YPFAWK6CBRekWa6cEASgcigmIpOAeUTGzYCgDK2b3G35i49qGZGOzWBdMV53/JJsvdoD2MQiHBsrOqQwx1b6sYLxJ5G13hPtxw6RBkLwcjGInZyusa+RiCHK05WEYt42gkzcop1xGOIAyA5crBO2C6YIq4yBeJvWkv6zMe0SYrUFUKpO+PiHbukq09Pj95/+wONgfQwNntUFSA6x7Ecx2ufUieTcZLJlMwubTkfKTyL3CcgavaLYv5EAq/hI5B8i/0MMqlZeO8I5/o9/Hx9AU1y8EZLMWBJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCUlEQVR4XtWXT0sCURTFe4uQJIpIChUtEw0z/EdYgZphRomLIAgiWrQpCGpfHyCoRbSrb3vqvMtNHQ1aNG+mAxdmxje+H+fe9+6bqan/L4NBTLp3KoNGJYvry0ukEgkLkUsvoZxPYqeUcQ1l0GsU8Xh/j8O9PXSaTTTqdfvs5e0DB9sF104Z9FslPD08oN/tonfQsWCEYTy/vqNVyyE6M+0Wyjr1BUMohsJo1AopO6ayuuoGSiYy1p2j/fYI0DCMMyCRQT0fx0m7PFQ3EoHANDeSaG+m0Smv2OvdQsICOk2VyFgIxmE1g+OtNXtdziwhvhANBkidUSg6VMsuB5UuSmrlZCeHs8Y6UrHZIGFUBqe7eVy0i0Glyitj3bnqlhCbmwkH0HlrAzfHlbAAUQZ3/Rrmo5EwABmbrtteNTxATBeBohFppqEDkghEBsV0bARoPbloIwAoY/sWd2vu0v169nunJpCuOO9bPkn2Hu1hDAIRjo1VHXK4Y0vdeIHY0+ga7+mWQ4coYyEYufiCnZyusa8RyOGKk1XEIh51wnw7xTriMcQBkBw5WCdsF0wRV5kC8TetJX3mY9okReoKodSdQfEOXNLVp6dH77/9gQZAehgbP6oKEJ3jWI7jtU+pk8k4yXBKxpe2nI8UnkXuExA1/kUxeSKB1/ARSL7FfgYZ1ji8d4Rz/R5+sj4B0wOmwyFdtm8AAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

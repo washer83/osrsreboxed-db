@@ -1,7 +1,7 @@
 {
     "id": 13019,
     "name": "Adamant trimmed set (sk)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xs2X/UtTURjHt//En4NA+hdChkxG4kimLJqSi+XGmi+NbYytta2ZlsWIyCixaFpYiZkRCYlp9UPQi/RLf8zTvuf2XM89O1u7ewkf+HLPPefsPp/z9pxnDsfxNyfppWvvujnp5Uqa1pdTQs8fJWntQUKIIXY35+nDxhztvCppoNRBtA1uADEUgFgqzPsXRXr7LG9xjHe0qbJC2YJ00sbjTA0UngBhMdD2Wo42n2ZFXzx1QOgvQx8erND3vaXWoBgIZZ4dBnq3XhBA3LceEH73c3+Zfn2pVLUqgOCjt6dHSPWumDHtPGp5ZO1IBkIZdU3ByMuA90z4NOVmz1Ho/ADNhrwUDw9TMuqjdGyUMtN+0ZaPB+h6YoxupMZpITNBi9kg3cmFxBPtXtcJ8a2OA4XHPBS9MEhTwSEtHMAABZBy/pKAQr0VqGIPiPeFDmh8xEVBv9uEAxigAIQ+mCWGuVeKiKcO6MfHh+0BYeQAWSoGbKlrQBg5ZkV1+C/pgA4/PTFhWgLKRfsEEJZIduYadwmFc2EhftcB+dwntUCq9zpmHNOtylUTCBuVgdixDCMDyWAdADJiEGZIBcLpUp02ArqdHtEDSUFR9a6YceR1QIgtOFGqUxlIB9V1oNKVs6ZzuayrQ7mjQBDqCjGXiC0IhLdSPtOhXNbVocxAfk/vX6BVE6YpIJywRkDlzKjpUC7r6lCuBao0OzuwIyCGkoEQkbFR4QxPSN0z3M59ugqEO6sw4xXO5hPDNTDqRtcvmRGpUVa9a8wAkpcNdXPT/eKSBFBycoDSEQ9lL5+h159/awVYFgMFBk+JbyEG2YhDViBOTRkIF2gk0Eex6izMTPRT/KLbAnhtakjMIE4Xq20gnLJ6QPgwbnvcaZyC8E2PNk49ECLQ/25xsnNADCUDAYLzIc6FZBjcdwyjph8mUDUG2Y5DumXrhJCUtQSkLhs2N+qQ2O9tLYg2+V8JysgMIPTjpB5999/cpK87Zfq2e78VIFjtyHSSYWSpQAfbixYglg0gh4PDeiOpgLIwkwDC7HQEqFlTIZuBZR31/U+mQuqk/uZY2x9S3amEnso5igAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xs2XW2sTQRTHky+giO+2aWikjTRp0DTSGBsS04uBJKSJMYnpRYsSEPGCUoripRRvFGq9gGBBKLUU7ZMPoij65Mc6+p/lbCeTScwmG+mBPzs7M9nzmzMzZyYOx/43J+mla++6OenZUpaeLGaEVu6kaflWSoghNtfm6P3qDG08r2ig1EF0DG4AMRSAWCrMu6dlerNSrHGMd7SpqoWyBOmk1bvTdVB4AoTFQK+WC7R2Py/64qkDQn8Z+vvOEn3dutkeFAOhzNFhoLePSwKI+zYCwu++bS/Sz90H9Gv3kQCCD39vr5DqXTEj7DxqeWSdSAZCGXUtwcjTgPdc9AgVpo5T5EQ/TUW8lIwOUTruo2ximHITAdFWTAbpQmqEZjMhmp8epYV8mK4UIuKJdq/rgPiW7UDREQ/FTw7QeHhQCwcwQAGkWjwtoFAvA0GWgHhd6IBCfheFA24TDmCAAhD6IEoMc60SE08t0IfbnQFh5AC5UQ5aUteAMHJERXX4L+mAfny8Z8K0BVSI9wggTJHszBVyCUULUSF+1wH53Ae1QKr3BmZs0/WH50wgLFQGYscyjAwkg9kAZOQgREgFwu5SnTYDupz1a4HkpKh6V8zY8jog5BbsKNWpDKSD6jpQ5ewx07lc1tWhbCsQhLpSwiVyCxLhpYzPdCiXdXUoM1DAc0h8C1maYVoCwg5rBlTNDZsO5bKuDmUVCBFqMTqwPSCGkoGQkbFQ4QxPSF0z3M59ugqEM6s06RXO5lJDdTDqQtdNGWdqlFXvGjOA5GlD3cxEnzgkAZQe66dszEP5M0fpxaffWgGWxUDBgcPiW8hBFvJQLRBfTRkIB2gs2EOJv1GYHO2j5Cl3DeD58UERQewuVsdA2GWNgPBhnPY40/gKwic92vjqgRSB/lfLY/YBMZQMBAi+D/FdSIbBeccwAJGvHwyEHGQ5D+mmzQ7hUtYWkDptWNyow8V+a31etMn/SlDGzQBCP77Uo+/2y4v0eaNKXzavtwMEqx+ZTjKMLBVo5/VCDRDLApDDwWm9mVRAWYgkgBAdW4BaNRWyFVjWXt//ZCqkTupv9rX9AXG/p62z1ilNAAAAAElFTkSuQmCC",
     "wiki_name": "Adamant trimmed set (sk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_trimmed_set_(sk)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11497,
     "name": "Super def. mix(2)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": false,
     "examine": "Two doses of fishy super Defence potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRElEQVR4Xt2XyU9TYRTFff8JG8JMmcKQQhkLtEAXQjRINHEe2EBiRAuUoi4kxphAAIMEGUVMiEN0RYxxgaKCUmSQsbQFGRwYOjBsjt/9ni3FuNCk5ak3OemQpu/3zr1f7+m+ff9PCdiR5CVAW5yE2ioNupsL/gYoAc8eHMeLx6fQ1ZjPgcJ8fKSCEttEQM8fnkRnw0EpWycgOFiGoKAQDkRqrz8Af/8ghIdHSQElIDZWjviERA7T030MrXV5iI2TI4a9L0HrBKSmpjEpkZbmVDqSk1ORoEiSBigjI5NJhcxMUfSawMg1SYCysrK5dDo99PpKlJRchFKZDnm8QgogKoG3KCdHA0v/Gd5C5ykjGEmA0tMzoNFosDp2ls+ThDBUAlQqNQfamNHz+fHzC5TiyFMJSExK4TO0OV0Mx3Qp7jfkSXXCqAR+zGl+NqaKYJ/SwtBzmEP6+e+5SwLkcgVv16axEpumKjiM17A2egJvnhQgLDxyr10id5RwTJ7Dlrke25Z6BlUH++h5LA8eRfftXL5C9sglAdHRcTC91TKIGmzNtWF7ntQM+7gOtuHTMPcdQUhI2F65JLoz/64UVtM92MxdsFvcxFyyGvLReOMQAgK87pLAN3nf0yIsDencgO5yOeY6XS6t9GcjNDTc2y7RQlXC+PoSvo0SUAcDEmE4kKWDzVXVD5dyUX1lPwICg73lkph/aFfNDWixNl4J62wbbKY22M3tXARkN9bCNloE66AGCy9VkMkivOWSgBS2qyZ6L2DRUI71qeuwGltgm22B3dTK5TAzuNlbu4BuXs7lIc4LLon5Z6avBF9GGNB0LawzTbAZmxjEHZdssw1Y/ah3AVFYk4VFwNfXz5NQApLYLzCdrsneEix/IIeqmWpgna7hj+5aHCrnM0RACrZKIqNiXG3zUOvEmEFAFMjohK2NX8X6hCh6TjO1MlaBryMVbOi1KC7Mw9KrLL5KKOp6eI52HCKgxaEydmEd1+dhHRYMZfj0vgyWgVKY+0vxqLWQJ0gliyZ0I15KkOJQU/5Rq9W7pPqF6HMpKWm7tr/Hgehu6UK0VN3lzNRirt7J1gpFsrdgnOX8E/j78iKMWM4L/Il+/o5/tr4D4KAGsW3kPiMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADb0lEQVR4Xt2X60uTYRjGff6K8pRrnipPLWfOdvCwTWcqBSlph6mJBSlFaGamhmenBNWHvlQQ9E1CiiLStFQ6iKbOTTthRkcq3abp/Hr1PM+Ls9mXAre3uuHiZTD2/t7rvu/3uebj8/8UwYpEL4Jden+UGMNgOi37G6AIrrYrcP28Eo3lMRxoq0QiFpTQJgZ07VwC6k5Ei9k6gqAgKQIDJRyIqfZYJPz8AxEaulkMKIKoKBliY+M5zOXWeJwpjUBUtAyRkcIsebl1BCqVBiq1Bmp1ItSaJGioEhJUkMsV4gClpOiQotVBq9Vzsc8MjrkmCpDBkI709J2oqqpGdXUNjh8/QV1KhmxbnBhArAhvUUZGJibu5PAWLm8ZgxEFKDlZi8zMLHwZyObzJCIMKwKdTk+BMrE4UsTnx9c3QIyVZ0UQH7+Dz5HzWS6+DxvRUqEVa8NYEb7mbH4WhvZifugguq+kcUg/v0Bvu0Qgk8mh16fCOVoMp7kEC6NH8a0/C50XtQgOCfe2S4S/CBeGsuG0nsLSRCUWLRVw9Bswfc8AU4WaHyFecolgS0QMzLf2U4gyOF80YullE5ae18PxaA9svSpYOnWQSIK95RLh2/T8rhE2iwl2axscE+2Ym2yn1zbu0mx3DMqLVfD33+Bplwg/yTsv5WCqJ38FyNqKuYlWzE+aXC59vh0KycYQT7tE+Mtv9OY+fBo4BNt4M+yWFgrUIgBZmzE3aBRc6tqCI3mxCAgI8pRLQv5JTEym7TqAr48p0FgD7OYGOMYbMWdp4kDz5krY+3SYvReG1x1SSKWhnnKJQKnUYLBjL153HcDMYCkFqqNAdRSongI1UCAKZj7tBlScK+chzgMuCflnpDMP7x8WYGb4JGyjNbCP1cJhPuuSfayKulfkAmJhTRochnXr/dYSikChUPLtetKRi7c9RswMlWF2uAy2Z+X06q7p3kI+QwxIHqdA+KZIV9vWqHVCzGAvQxbI3tAN+/b0sLueFOHLoyJ87C/EyE0jcnanYepGMD9KWNRd4zlacUgAKsCHPkHvHhRg6n4+XnXlY5K+m6x3jLhQt4cnyKSkFP4gHkqQwlCz/JOamuYmvf5Xse8plWq303/NgdjTshuxDLRarlxNHVzO1nHbEzwFs1w//4f/PXkQRqjlG/yJVv/GP1s/AFMQ15v8QgBbAAAAAElFTkSuQmCC",
     "wiki_name": "Super def. mix (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_def._mix#2_dose",
     "equipment": null,

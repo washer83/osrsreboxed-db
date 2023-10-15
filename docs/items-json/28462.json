@@ -1,7 +1,7 @@
 {
     "id": 28462,
     "name": "Crimson fibre",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "For holding things together.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwElEQVR4Xu3W70tTURgH8J3/xD/BdyJj4JAxLhtjw7GxjY2Z2IbN0FjYL2M0WjRSRJBAfCEiiEgQQUREREREREQv+nue+j6H53o89+q8dzkjfODBeXflfPw+59wtErmq/78U2VcuqQBRtFfO80/73RGXos1cmnaKM/Q8n6WtmcyoUDoFb+v3+mmHuk6Cr42PjXF77zX/ZqhS1EslaS3j0EY2xSkgDaRiL2ZCkJzch3Gid0sy1tAwRZ3kNP/3SAEoLCSo7UKO20ThPVwDBABA9isFtw+qxWFgilYTcQaZKQFlwgQHhEC25jJub86mqV9xaDUfp8NaiRuwEAdBg5ASQEhJkgJMcIAJbn+x4PZeK087zT8bfj5LG/UUo9rpKGOAOqqXjVGfqxTdm55ikIwOMMGZsFcrtRN9dKtMB0tFF4Wk1moO9cpJaiYmGBUChNIoSQqNBV/fqdHb+7P07sE1+tCZd/v9wzm+9uZune/BvYfLJdpd0GMEqltMUDU2HhaE0iiBobGgYD52rtOnRw368rhJn7sNfo1rwAGFtDBCMymgMLaQIJQXhbSwKBDAfO0t0PenLW78DhRSfHm7yuNDSrKfcAhCgOwHmqKVeMyDwqJAAfKjv0g/n92kb09u8DUzJeyn7UaOQTgA2EcBQIo3rbSJa09FfdPC+AD5tb7EMCRmpyQg83Qe/8MDy0xIpwPMcky3X1rYVxiXjA77Cdf8QIIKkFIkIp9N8rEgCMFJWiYKDQhGhtT8QOZzDB0gJbv0yAAycX5p4bmFceHov2hXGISTBpBsBYEFSslbyh2b4GRP2SiB2Q9V86l/cp+GLkXNyQlqRSddmI0LAhPc0Kjz9CAYWu493q8hy9z09gEwX58FM+8dCnN6Ket7kob7wf5KKoNLnXqkTdiIMCj9tfesRS94RH514fsieP0zkKu6jPoN1+CuKK1sLQwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwUlEQVR4Xu3W70tTURgH8J0/oTfKJnPujm3Mje1ubKa02SSNidEPSxotGhqCIASCLwRBEEQIehFEEEQQBEEQgRBBr/rTnvo+h+d6PLs6713OCB94cN5dOR+/zzl3i0Su6v8vRfaVSypAFO26ef5pvzvkUrSRS9N2cZJe5LO0OZkZFkqn0Nv6vW7aobaT4GvuxAR3773m3wxUijqpJK1lHFrPpjgFpIFU7MVMCJKT+zBO9E5JxhoapmglOc7/PVIACgsJaquQ4zZReA/XAAEAkL1ywev9SnEQmKLlRJxBZkpAmTDBASGQzemM1xtTaeqWHVrOx+mgWuIGLMRB0CCkBBBSkqQAExxggtubK3i928zTduPPhp/J0notxahWOsoYoA5rrjHqc5Wie+NjDJLRASY4E/Z6qXqiD2+7tD9f9FBIaq3qUMdNUiMxwqgQIJRGSVJoLPjmTpXe3Z+i9w+u08dHM15/eDjN197erfE9uPdgoUQ7s3qMQLWLCarEroUFoTRKYGgsKJhPKzfo8+M6fX3SoC/tOr/GNeCAQloYoZkUUBhbSBCqF4W0sCgQwHzrzNL3Z01u/A4UUny1WOHxISXZTzgEIUD2A03RUjzWg8KiQAHyoztHP1dv0dHTm3zNTAn7aaueYxAOAPZRAJDiTStt4lpjUd+0MD5Afj2fZxgSs1MSkHk6j//hvmUmpNMBZiGm2y8t7CuMS0aH/YRrfiBBBUgpEpHPJvlYEITgJC0ThQYEI0NqfiDzOYYOkJJdemQAmTi/tPDcwrhw9F+2ygzCSQNItoLAAqXUW8obm+BkT9kogdkPVfOpf3Kfhi5FjdERakZHPZiNCwIT3MCo83Q/GFruPd6vIcvc9PYBMF+fBTPvHQhzeinre5KG+8H+Sir9S516pE3YkDAo/bX3rEUveER+deH7Inj9M5Cruoz6DRceCvrncwrgAAAAAElFTkSuQmCC",
     "wiki_name": "Crimson fibre",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crimson_fibre",
     "equipment": null,

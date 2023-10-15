@@ -1,7 +1,7 @@
 {
     "id": 27374,
     "name": "Masori assembler",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-09-08",
     "duplicate": false,
     "examine": "A superior bagged chicken empowered by Vorkath, ready to serve you, magnet in claw.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjklEQVR4Xt2WX2vTUBjGk2/Qq930ptCLwUAoQiglFDJKKKGltKS0ZKVjzagdWxluTBCEgSLiQPFGvJLh9xDFP+iYE/9+BBGFetns9jXPyc4xDUFBe5LhCw8hJ/CeH8953/dEUf7fUCm6klIARKUfr/fYM/o14QhAuPBeyOXShFJp8mqH6fwAvRynARTUSZwmLzaYctlsUkAqGaZJFcuiar1OtWaTGrZNrU6Hur2+gEkISGUbRWE4UNtxaPJ8KIDWNzfPnJMWARCHiQJBHAba2N6W7VI8UBgGrlwajxnM1s4uUyIuQWF3lpstMttt0v3jNHxgrtPPd0U9RTPNKVRaLBSooOukGQaVKibbOA4IawCCJB7dLBAAOAQA4oAwm84F0Omng3SA0O6YQT3XTQfogqaJwr6dXxB6sLgw41ZiQHAIrY8OgzvO6hqtDoes5TmQ9/FWAOQL01sqUG5piV0fmEP8ysBxDUYjBjQ9uUzehxsBDC5b2UBZP3HZWI51yep2afpmi7z3+8KdRIBKflHjTgu7BCgGdDwi7921oH58GByfxOEYAGnFIju2sEvoOgzH6VGfvLd7AgbiDkl3id9rcIkDwSUA4ciiQNFMc4qgsMNQcAmzCe1+9DBPXx4P6NtTl/2OSG57hEp1v/UBBDCMAT4s76/16PgwT1+fuPT92br4P5IO1C5q1NdLNDYrdKVm0X6rQQdOh+71HDp5lGfuJAqETQZlnYZGmbnEdWele9ZNv2Triiyg2Y12rSoTf68XFeYYnhzEMTLi+5yBVDIvKkzYEMKG1+0m3WzbYg262qiRW80w9SsZBsVdimb9x5h16HcCGEA4FHdozi4pCk/6J4XhAMWBovkSjTDc37rzEzxt8TNyM68MAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACi0lEQVR4Xt2Wb2vTUBTGE8ooLWNSLC1pWLO2tKV/aNaytSt2W2FuTPCFMFBEHCi+Enwngt9FEUFFHEwmKKJ+C0EQhOkH2Lpv8NjnZDemoShokw4PPITcwD0/nnPPudG0/zd0+FemFATR8ePVtjz9X0MOB0SJ74sLC9OE0vH95abo7AC96E8DyDkn43T4fFUUi0bDAtJhWhay+TxyxSIK5TJK1Soq9ToazZYLExKQLon8MAqoZts4fNZ1gVbW1k6dCywcIAXjB6IUDLW6sRG0S+OBvDB05UK/LzDrm1uiUFyivO7MlyuwajUYw3KaQ2Clk0+33fPk32lCoWM2kUDCMJA0TaSzliQeB8Q1AlEBlm4UiAAKggDjgDibzgTQycfd6QCx3TmDmp3OdIDOJZPuwb4Zn3F1b3ZmxK3QgOgQW58dRnfspWUsdbvS8gpo8OGGAzQUp3egQLG5Obk+OIfUlcFytXs9ATo+uIjB+2sCQ3cCB4rGYsiY82NdyjcaOH69jsG7HdedUIDSw0PNO83rEqEIdLTfw+DtFTk/hGH5AhyODlAylZKyeV1i13E4Hu21MHiz7cJQyqHAXVL3Gl1SQHSJQCyZH8i/04TCOdheKLrE2cR237sfx+dHbXx90pHfkYDbnqGjOGx9AhGMY0ANy7vLTew/iOPL4w6+PV1x/48CB6qlkmgZafStLC4V8tiplLBr13GnaePgYVzcCRWISdoZA10zIy4p3VpsnHbTL1UNLSig0URb+ZxIvRdTmjjGpwKxzYj7fcJAOqzzmogJKSa8Wi3jeq3qrlGXSwV0chFRKxsRKOWSf9d/jFGHfieCEURBKYcm7JKmqU3/JC8coRSQf79Qwwv3t+78BMcxgiuRwJPvAAAAAElFTkSuQmCC",
     "wiki_name": "Masori assembler (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Masori_assembler#Normal",
     "equipment": {

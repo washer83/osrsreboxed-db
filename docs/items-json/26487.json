@@ -1,7 +1,7 @@
 {
     "id": 26487,
     "name": "Rune crossbow (or)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": true,
     "examine": "A weapon plucked from the shattered abyss.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4Xu2WzWsTURTF81Yu3VgR3YRmIVWKMRhKLIEEKaUkBkMDIYaUpKFJyUdJbYnR2hIJgdBalVJCcavgpi7cKbgWl250Xf8NN0fPG2cymWbayccoQg9cSDLMe7+ce96dcTjOdCYzCRh/+YcS2FhOYACovm84RVxPIBubRSoSlJ/dTqfVPQTiK7VB/kUPKSCt9UVsFZPweyfhunJRVh/rC5S22wjGUn9usnyjQQK7tRwalQXUcnGUUxF4rrkw5/dqDvXlkmvSIxdjdcCswnVcWVucRz4eQiIUQDo6MxhMtf0akz5/F4h1OIHmg4wGU7gflrm543MPAkMJrDw7gDc4Z1jACpzA8nxAFttUSUdlkJmdAWEogdzTXfhCUW0R9YoVuFTIpxXdGRKGElioNbRQmy3SC65eTklnCHEv4JE1JAz1e17UdxBayJ8I1C2Bl4/y0ikGODztHoUzqgQKzT3MF9YsAgnsbxZlgFkEGfBom0mZQxyOao6M1/VFGM4b5oVHW/19RDCqBBY3Wz1cErj0oopz3uto10vY2yhgp5qVxzwcnNJgmKXjf2QoKS4xS7FSVdto6d0r3GquwjExLl3h8OMEPj5jRu4QpWSJTqnPttzPbxj/8gYXHmbgun1TBti8RSN1iBIotvalSxwDxaPPmDj6COeHA4w1ihjzTHSBGGFsaBulDMnM4ybu/viE8e/vcfntNs4vxUxc0avjnPHKkBIywNNfD3Hj8DlcT3IIeq9a2MxGl3i0OYGZGQ7MmUQagehpb34doJPB+5YCxAclw81REMmWEc4UdO9MZrKxbSyCJNe3usDoljmUbW1THqYqGGcTwRKrG4jmK9pzr1fZ1LaO9GAcBwQjIN0iHJ0jaKpal6eTp3Q2mdVB2iQjGCEIxnYSkjCcYRyu1jM3AhlbqUIRUN+6qZmw1jrb2qeXHkwtdXP12l+D0UsPYdzc+P2/0i/L23hnmRELJwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xu2W22oTURiFuz3UNhpDTWg0YUzTkGpSaNqQEyTNgUYbQtDYg5ZitRYspVj6BPZCvCroreCVD5A38EYfwRvxVbxauvY4k8k0004Oowhd8EOSYfb+sv61/5mRkXOdy0oC5l/+oQSaiwn0AdXzDWeI6wnkZsNIzijy8/zUlN09BOaWGv38iy5SQbZqWayWFhDweeC6cllWD+sLlJ8fQJlN/rnJ9o0mCew08tioptDIz6GSnIH3ugvTAZ/uUE8uuTxeuRirDWYXru3KcjaOwlwEiUgQ6VioP5j6q9fw+AMdIPbhBDbvZ3SY4nxU5ua2f6IfGEpg6cUhfMq0aQE7cAKL8aAstqmajskgMzt9wlAC+cc78Edi+iLaFTtwyYhfL7ozIAwlkGps6KG2WqQb3HolKZ0hxJ2gV9aAMNTvebG2jUiqcCpQpwRePihIpxjg6K2JYTijSaC4uYd4cdkmkMD+SkkGmEWQPo+2ldQ5xOGo5ch83ViE4bxhXni0td+HBKNJILuy1cUlgdGjpxDhmzhYK2OvWcR2PSePeVSZ1GGYpZN/ZCCpLjFLs+W6vlGt9Q7K212MuMelKxx+nMAnZ8zQHaLULNEp7dlW+PkFY60jXGxkMRnwygBbt2ioDlECpa196RLHQPl7C+5vHzH24RCXnpRw9Ya7A8QM40DbKHVIZh5u4u6PTxj/+h6jb57hQj5u4YpRbefMVwaUkAFWPh/Dd7wL96MCFN81G5s56BKPNicwM8OBGUqkEYyd9ebXBjodvGepQHxQMtwcBTO5CqKZouGdyUoOto1FkIXaagcY3bKGcqxt6sNUA+NsIljiXhOxQlV/7nUrh9rWlhGM44BgBKRbhKNzBE3W1+Xp5CkNL+QMkA7JDEYIgrGdhCQMZxiHq/3MDUHmVmpQBDS2bjIU1VvnWPuMMoJppW2uXftrMEYZIcybm7//V/oFX/4irB7RwUYAAAAASUVORK5CYII=",
     "wiki_name": "Rune crossbow (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_crossbow_(or)",
     "equipment": null,

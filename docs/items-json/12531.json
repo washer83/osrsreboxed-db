@@ -1,7 +1,7 @@
 {
     "id": 12531,
     "name": "Light infinity colour kit",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Use on infinity pieces to recolour them!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3W70sUQRgH8Lt/ojf35sAXghBI4AuJA+WIQ5QwlMIiyMSMqAhByhTR7MyzK09TqdQUFU8Lq0vMLIXUtF8EadL/0F/x5HeOZ312du668zZx4Mvuze7efHZmdnY9nsNfvGSO6fh/L156NdFGc+OtKi/GWmh25LYKI1bno/Qx0UMrryMGlH4TOcOTIEYBxNExyy/v0bvnYVvD+I1jeuyorJBeSky2O1DYAsKRiPnpDnUutiaQfv7O5gRtrQ/vD8Ug7Ms/HQifs4Lf6UDo1V8b4/T7a3w3MwqEawr9fhW9da0ku53vmkE6wgRaiN8xgtYXHthA2GeQ3rpWvGpeLM52KhB6CSDZK36fz5ZMQJuLMfdAqLtef8KYq7VBWy8B9H6uywH6siRB8exA+EMd1HSlzJjGhlBGoG8f+myg7U/PcgO13Kgw5ta1ctuwpQJ9X37kLqijqdKRtsaTKjoIW1MYtPN5ysJkDUJQ19VcrTJcVkqxQDdFSorp7s0qFQYxquz4ERU58esq0bDXAdJbT1GSd4S7ZVC07YzKaHCI/mzlU3/gPrUXNVOk9bTjaVsbCdB0uIiOFRbS0YICys/Lo6XB4v2CkmsQekiC+jrPkn+5Rm0XqiuoPxigkG+SettrHCAEEBnUWUMmFkW9da0kH3kTaKj7PL0Z86stIhfFAwXxJB2O1trypOeCCnCmRXItUUWnykupIlSi4gqIUagfj9XZMtp7UQU42TMcYMygGQuTEQhPmAk0NXjJykR/vRXgcBzLA4JrsO7owJ+rT60eyrB3UPZActhQP/v4spX4UIMKA/HoM4pBCD458JbHa8M1kESlCzD6pweDsEpLEKP01g0lCTING+rQAD4j0AiOy4+4VCCc/2NlwAJhDcpiHbKD5LBJELaolxgTCPCcQXjK/gVCY6gzgfjFysPlGkgfNtRLEH9NyuFiEJ8L0Mbbh3bQ7hqU9TpkGjYJwn46kJw/roBMwyZBOGaa0AjOk/MnRxCK85E2RZ8/HB2Eb2kJ4mQB8nh4WU8XHSgj548roEyLjswEy9k794CKjjRFv+ZQl78KURQbNm7nMQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3Wa0sUURgH8N0XIStiSIK0onnBJI20IFOyKApBClM0M801y1uKVKaZWKIl0g1D7B4KgZpIGUEvulDU9+i7PPE/yzM+8+xx23Un8cCfmT0zs+c355w5Mz7f1i9+ssd2/L8XPz0aracHI3UmU8O1NDl4xoQRCzPt9Ha6jeYfhywofRMJw8MgRgHE0Zi5hxfoxVSzq2H8xjEdNyoupJ+m7zREoLAFhCMRM+ON5lxsbSB9/o+VUfq2dGNjKAZhX/5pb/N+J/gdDYRe/b48Qr9WJ+j36j0DwjWlOTkmunVVwt3Od80gjbCBZu+es4KWZi+5QNhnkG5dFb+ZF88mmwwIvQSQ7JVAUpIrsYBWnnd6B0LdiYpd1hwry3b1EkCv77dEgD686nJASFwg/KEGVR/Ns6aqMjcm0Mc33W7Qu5uJgWpPFlhz+ni+a9jWA32au+ItqLG6MCL1VbtNNAhbWxj08/2Yg4kbhKCupabYZCAvizqDrRTKzKDzp4pMGMSovJ3bTOTELy8MmGMapFtfp4TvCHfLoPb6fSZD2f3052sK9QQvUkN6DYXq9kY8bYuDQRpvTqcdaWm0PTWVUpKT6WVfxkZB4TUIPSRB3U2lFJgrMdvZ4gLqyQ5SbtJt6jhbEgFCAJFBHQ+ZXBR166qEH3kbqL/1AD0ZDpgtIhfFTQXxJB1oL3PlWttBE+Bsi+TidBHtyc+igtxME09AjEL9ra5yV4Y6DpkAJ3uGA4wNhFWaMTGB8ITZQGN9h52M9lQ4AQ7HsTwguAbrjgZ+Wbju9FCMvYOyBpLDhvrJq0ecTPRXmjAQjz6jGITgkwNvebw2PANJVLQAoz89GIRVWoIYpVu3lDDINmyoQwP4jEAjOC4/4tYD4fzP870OCGtQHOuQGySHTYKwRb3E2ECAJwzCU/YvEBpDnQ3EL1YeLs9AethQL0H8NSmHi0F8LkDLTy+7QFiD4l6HbMMmQdiPBpLzxxOQbdgkCMdsExrBeXL+JAhCiXykbdHzh6NB+JaWIE4cIJ+Pl/Vo0UAZOX88AcVaNDIWLGft3E0qGmmLvmZLl79tvyI5w8q70QAAAABJRU5ErkJggg==",
     "wiki_name": "Light infinity colour kit",
     "wiki_url": "https://oldschool.runescape.wiki/w/Light_infinity_colour_kit",
     "equipment": null,

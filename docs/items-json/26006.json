@@ -1,7 +1,7 @@
 {
     "id": 26006,
     "name": "Sigil of fortification",
-    "last_updated": "2023-09-20",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtElEQVR4Xu2XT0tUURjGvbuEqFULaTPQQhCqWTgLGaSJcDEkkSQOKA1YDBPJhGVm2SAOUyJpWIiFWNifjR+nT9C+T/HG71zeO+eeuXe41nGg8MCDs5i55zfP87zv4MDA6fn/TyDp6vsJ5MfYpZgWHlakWr0lU7ev9xusG8bW3NxNo8nJUj9c6w2jQMCUy0UplQpSLOalULh8ElCB7O+vya/SsJELYovogAIImHx+2ADlczlfUIF8/tQyQB8/NCMo1c/xjhqNWanV7hin6BMOjYwA0icgG2Z1tSaLi3djQBM3xoxLudxFX7EF8vXLKzk4WI+AdndfdAGtrz0wWnpSlXp9JhXIg0uB7O29lPfvVgwMr12gdrshG68fSau1IMvL89EKmJ6eMEB0yGNsYZmRjjRAAAK0uflYtt4syc7Os1hk9+anIiAc8gpEXJVKORJAQOAMrmhczWbdRIZDCsT4U2zPkxbEgIhNI3q+ct84w8WMOq+BIjLeewJAYan5tiouJhqcQOwbouFyFcWm1LogdTl6ASIiXEEUW6PgQlygM2+3nxrXiA7XdNLsBekBqFNoeqSiPxoXYhnSGWLS4gPtOqSxubdkOOEP4uDgGeMKQCzG7982ogXJdAHDmOuo21A45wL94aSFIOj8ubNGxHF0tCWHh23jECOPQ0wVcal0/6Q51NnWmV3qhhkaumBEsXGIDhEZDtEXINQRVzYQcQHEM3l+BrB0mKtXwp8GigqM7iFcoj9abNzR2Gwgxl6fpc/Wu3pAJQMBg3CCGK6Nj8YmCkgA9K+CKZB+HqUB9ehUCJXkkAogxN5BgGh/cEeB7M/8BRAnGSoJLqtsEBsmIxAnDuWCuRcmye2MC6OlBiYDEKezi5LkXpQk9zOuK8eACU/4Zvs/Bz86Noh77G/jS+4dp+efP78By1fhvYq+eAQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xu2XfUtTYRjGPWTWUozBRNaplIWFKUNjWIOVjCwzIxvWWIpkIYVIIb0gvfznl+pD9BH6Lnf9nsN99pxnZ+NYj4PCBy7cH9t5fruu676HAwMn5/8/gXRX308g38fPJbR4pyyVylWZvnap32CdMLbm568YTU2F/XCtN4wCAVMqFSUMC1Is5qVQOH8cUIHs76/Lz3DEyAWxRXRAAQRMPj9igOYmJ31BBfLpY9MAvXvbiKFUPy60Va/PSbV63ThFn3BodDTXPyAbZm2tKktLNxJAE5fHjUu53BlfsQXy5fNz+fD+WQy0u/u4A+jp+m2j5fsVqdVmuwJ5cCmQvb0n8ub1qoHhtQvUatVlc+OuNJuLsrKyEK+AmZkJA0SHPMYWlRnpSAMEIEBbW/dk+8Wy7Ow8TER2c2E6BsIhr0DEVS6XYgEEBM7gisbVaNRMZDikQIw/xfY8aUECiNg0okert4wzXMyo8xooIuO9xwAUlZpvq+JiosEJxL4hGi5XUWxKrQtSl6MXICLCFUSxNQouxAU68+rlA+Ma0eGaTpq9ID0AtQtNj1T0R+NCLEM6Q0xafKBdhzQ295YMJ/pBHBw8ZVwBiMX47etmvCCZLmAYcx11GwrnXKA/nLQIBA0NnTYijsPDbTk4aBmHGHkcYqqIS6X7p5tD7W2d2aVOmOHhs0YUG4foEJHhEH0BQh1xZQMRF0A8k+dnAOsOM/b723E5RQVG9xAu0R8tNu5obDYQY6/P0mfrXT2g0oGAQThBDBfDscREAQmA/lUwBdLPo25APToVQaU5pAIIsXcQINof3FEg+zN/AcRJh0qDyyobxIbJCMRJQrlg7oVpcjvjwmipgckAxGnvojS5F6XJ/YzryhFgohO92f7PwY+ODOIe+9v4knvHyfnnzy8g6j+fQKo7ugAAAABJRU5ErkJggg==",
     "wiki_name": "Sigil of fortification (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_fortification#Un-attuned",
     "equipment": null,

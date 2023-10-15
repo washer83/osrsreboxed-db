@@ -1,7 +1,7 @@
 {
     "id": 26517,
     "name": "Shattered cane",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": false,
     "examine": "The cane of a Shattered relic hunter.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYElEQVR4Xu2XUUoDMRRFm3X4M+AGXIh/CqKiYAtVWpWiMlSKpVIEoShFRITil7+iGxBchAuK3hduZhqoH4V5iTAXLmRgAoebN+9lGo1aS8nYwtFl7Li3L57krdhQxj5ede3q97sY69dJHistY2/ODuZg4KfRsSQ1OtnThDK2396yd/22h1n5mHqo24umwKxlmTjcXYFc3RCkDDO9PJTkCBTurEhGjgUJAYAwMECZkOqRDbu7UicA4NEBBGsY687Oui4UkwIMiplF/TDoSHJsA6pHh/rJvl48xGzc83B4RlqKKUG/UG/3Nvuc+YJ+vj71UARVhwpdhqFVodhzit7jwMpA6lChCEaYCP1pkdyYoaOmVOjfQEUHc1Ds8ufNjTSgAMOk8tZmGlCAwcyDB0fbaUBhtPDmoHypWyQjCYW9KnxLWe5r4/xL4Geh6OoYzABKJCmIvUn1Tv635od0rVrV6gdCQ318xsAIoAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABX0lEQVR4Xu2XwUoDMRRFm5XUr+jGjYJWEVuotopFZShSrEoRhKIURBBBcela0G8Q/A8/LnpfuJlpoC4K8xJhLlzIwAQON2/ey9RqlRaSsbmjy9hxf1s8ydqxoYy9P+vZ5e93MdavkyxWWsZeHe3MwMAP5/uS1MXBliaUsYPOur0ZdDzM0sfUQ12ftASm2WiIw90lyNUNQYow09NdSY5A4c6SZORYkBAACAMDlAmpHtmotyl1AgAeHUCwhrHuNld0oZgUYFDMLOq7YVeSYxtQPTrUT/3rxUM8jfseDs9ISzEl6Bfq7dbWP599QT9eHnoogqpDhS7C0KpQ7Dl573FgRSB1qFAEI0yE/jRPbszQUVPK9W+gooM5KHb549ZqGlCAYVJZey0NKMBg5sHDvY00oDBaeHNQvtTNk5GEwl4VvqUs97Vx/iXws5B3dQxmACWSFMTepHon/1uzQ7pSpXL1A3INQXMplrbtAAAAAElFTkSuQmCC",
     "wiki_name": "Shattered cane",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shattered_cane",
     "equipment": {

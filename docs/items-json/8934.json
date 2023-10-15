@@ -1,7 +1,7 @@
 {
     "id": 8934,
     "name": "Scrapey tree logs",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": false,
     "examine": "Slimy logs from the Scrapey tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xu2W7UsUURTGnf/AT33py0IfFgRBAhGRhZYlZFFkRTE2McgQQyzasOxNEA3DxN5kLaIgspCIoC/9fad+9/bM3Bkldje3XbADh+XOZeb89nnOuTM9Pf/jdEVkPrsiInuweMHyud5ugPIwqwsFq10ZsevVod9QHQHzMGtLRVuZH7Hl2WG7OnneKsU+KwzmOgEW2fqNkoMS0NzEgJULeQdVHet3yiVgbYWLbOv2qAOiKEALM4MOAhjAsFCg7HGtRajsTdl/6GE2b110dqEQxWUXhYEIlWNverTPPWMgh50NR2SVO+G0+LVSYE9XyjEQCskuksYOrWT9F72VAOjG7PrF/bGUQrJLMIDISk0ee6Xhcw5oqP+sDeTPNAqVVmS85lNArx6O2+5qOQYK7aIwEOxJOQGhjoAEg3UN2pf0zPtntUDiBAjLpAJ2URSlslYCxD6TB1ALMD6SGyLbf7JsO4+u2ev1irMrBFKP8AtICMQ1qQcQVrUEczR+KbO5ZG+2bzqF1EMU1WgDx3UB6fRmD7sEk86WI7KvLy9bfW0itoyiKgiYQKVcCHSwd9c+11ftcP+ezU0VrTQfDknT4WE+bk87yygc9g8wAAIr5djT+UT/cFjyHIZjdLHXysvZY6Th8DBfnlft7cZk3EOyiwSOPYA0fQICmP7hOdmjQ9fUU9nKx4SHIQ93L9m7x1NxUeyiKMWBIbPHAUCow2SFEGpoDUwTDR7Zj4MNp86nnZm4qOyiMIAfttJWhu83fYqEENni2fUfIrJve7MOigztojAAgKJceByE09ekAo1EZN/rczGUzh+K0+SkrBSQpk9v9hOEUXjrlCgDBH0FkBo6HHl9A52wOmF4pZSCC4FCu9oMo0gmhd7JqqYTmslqk1VHI/nX6d4iBfSP1Dku0lAAdRBGkX5ZdhjGhyC6AubUxU919HQrVtrqQwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xu2W/UsUURSGHSTCWBRJFA03d0UXP2hVIhNMNmrDMvoQRMUwsaJELIKCoC+KCIJ+6w8+9dzbO3NnlNjd3HbBDhyWO5eZ8+z7nnNnOjr+x8mKyHy2RUR2d/Gc5bo62wHKw6wsDFn14qBdKff/hmoJmIdZXRq25flBq8wO2KWJs1Ya7rahvq5WgEW2djXvoAQ0N95rxaGcgyqP9jjlErCmwkW2daPggCgK0MJ0n4MABjAsFCh7XGsQKntT9h96mI3r551dKERx2UVhIELl2JsqdLtnzIyM1AMVWelmOC1+rRTYw+ViDIRCsouksUMrWf9FbyUAujG7fnJnNKWQ7BIMILJSk8defuCMA+rvOW29uVO1QqUVGav6FNCze2O2u1KMgUK7KAwEe1JOQKgjIMFgXY32JT3z+lE1kDgBwjKpgF0URamslQCxz+QB1ACMj+SGyA4eVGzn/mV7vlZydoVA6hF+AQmBuCb1AMKqhmAOxy9lNpbsxfY1p5B6iKIabeC4LiCd3uxhl2DS2XBE9vXpjO2vjseWUVQFAROolAuB3u/dso/7K/b54LbNTQ5bfj4ckrrDw7zdnnKWUTjsH2AABFbKsafzif7hsOQ5DEdhsdOKlewxUnN4mC+Py/ZyfSLuIdlFAsceQJo+AQFM//Cc7NGha+qpbOUjwsOQn3Yv2KvNybgodlGU4sCQ2eMAINRhskIINbQGpo4Gj+zHu3Wnzoed6bio7KIwgG+20laG7zd9ioQQ2eLZ9R8ism97sw6KDO2iMACAolx4HITTV6cCtURk3/fnYiidPxSnyUlZKSBNn97sxwij8NYpUQYI+gogNXQ48voGOmZ1wvBKKQUXAoV2NRlGkUwKvZNVTSc0k9Ukqw5H8q/TvUUK6B+pc1SkoQBqIYwi/bJsMYwPQbQFzImLn8yW13r46jFPAAAAAElFTkSuQmCC",
     "wiki_name": "Scrapey tree logs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Scrapey_tree_logs",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 715,
     "name": "Radimus notes",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-08-20",
     "duplicate": false,
     "examine": "Notes given to you by Radimus Erkle, including a partially-completed map of the Kharazi jungle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4XtWXy08TYRTFZ/6DrmbTzfwJ7o2JW5fGRONCE3VhookJURTEGAiIVR4pICAWAlgURBoeyis8AmJtkLflESAI6kL/iyPn1mmnn21omcHiTW5ok5Lv13Pud89U0/7f0hHrY1E62rqnUdvcn2soSxUdHb1htPfMwFfTkSsoHUadCaPSC+2cB93vZvG6L4JgKIwHjxpzAaXDGzThbTYxMLaI3pF5vB38jK6BCFrfTCGvwJcbKPbw1Arejy+hf3QBoeE5Uau+dRDXbhTELVX/8whLx/jMKkanv2BoYjlJrYpnXSj2BVBUWm8DO6gdl47ZxW2E57fwcW4T05ENjH2IimIE40w1BUdFMX+gD1UN3TL4ZdXtKHnagoePmwT4XnENrlzPdw+Ks0MAqkTFZmY3BJR/J8Nrohzt5HqobuwR9cr9QZRWtoqKvAhnz18VoBOm6RRKlytvNWeIClEpKhZZ2MLc8g4Wol9l3vgZf1NI1HpS2ylgVOvk6TNuWZcMlAqOqtFWqkZQWkkLLbVomSfPgOeiB9opzSlUeqBUcASjtdxb3O5Ui0CGzytQ3GsOrcsMyN60knPF1xx4zpLh98Io88Zh/ikQm8POi8BFmpidrGHUoTscjNWcJ1ppB8kAJkHPaxt4NRZ/rx6QTR9SFV289eTHhs0KUC47XlX1kExbVSRDGNZ+iL4wZdjsAcrHjecvR2SpqYcd1FkqolYs1Y0G86+sIlhD25CsfwapenC6toDUk7KomM8cwHTJzm1rBakKoLYLQKxYiDIGrHwinJVRtJDXN1WQcsdQxcKSOtwpqsKtu+V/htlR6Vjd/IHoxncsr+1haXUX8ys7snW55KY+rQukPelbOidTQl24fNM9ldI1QVfWv8Vh2VSPg69CWSHqApCmqVc1cVtiYDt7v7C9+1Oa9nLGVPuSv8wRlh2MTYtppZXshLp9vwKewv1Uv+RKqmdWdtWsZ6BA54RA8UlRfq0wRJ2n+mFKF+s45NxZyXY5WpBOShfrGDt2iBzBWJVTRVLXsYJxq34DQSa+YCp0owgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4XtWX20tUYRTFz2E4DPMnVC/SWxEVEdVD1ENIWWJGJZpNecHUTDMvWDZZZimDZRctEzERy7TERLyUZqZIiSFSvUX/y8q1pzOe+ZrBGc+xsQ0bZ2Dk+81a+9vrjKb9v6Uj0OuidFytf4GCiqZ4Q5mq6Khp7EN1Qw+8+TXxgtJhFHpgZLuhbXXh7qMB3Lr/Bj5/L06cKYkHlA63zwN3hQcP20fQ2DqE+ua3qHvQj6o7XUhM9sYHiv206z0ed4yiqW0Y/ieDolZRVTP2HUgOWqr+5xqWjo6eSTzrnkDL87EQtbIu1uG0txyp6UUWsJXadukYGJlD39BnvBqcRXf/NNpfTohiBONMld5oE8UulN1DzqV6GfyM3Gqkna/EybOlAnzsVD727E9yDoqzQwCqRMV6BmYElH87e6dEOdrJ9ZBb0iDqZeb5kJ5dJSryImzZtleAdiYk2IXS5cqbzRmiQlSKivUPf8Hg2DyGJxZk3viZvFK/qHWuoFbAqNaGTZudsi4UKBwcVaOtVI2gtJIWmmrRMleiAdcOF7SNml2oyEDh4AhGa7m3uN2pFoEMr1uguNdsWhcdkLVpJeeKrznwnCUjzw0jwx2E+adAbA47LwIX6fLsxAyjDt3qYMzmPNFKK0gUMMv0vLZlN9uD79UDYulVqqKLt66kwLCZAcplx6uqHhJtq4pECcNaCtErHhk2a4DycePy9VZZauphK3WMiqgVSHWj2PNXVhGs+FqLrH8GqXpwpDaB1JNiqIDPHMBIyc5tawapCqC2A0CsQIgyBsx8IpyZUbSQ1zdckHLHUMWUtEIcSc3BoaOZf4bZVun4OPsDH2a+493UIkYnFzA0/lW2Lpdc1+tPAmlN+srbnWGhtu8+6JxKkZqg49PfgrBsqsfBV6HMEHUASNPUq7p8WwJg84u/MLfwU5r2csZU+0K/zBqWFYxNi2mlmeyEOnw8C66UpVTf5UiqR1dW1cxnoPLaDoHik6L8WmGI2k/11ZQu1nHIubNC7bK1IO2ULtYxdqwQcYIxK66KhK91BeNU/QZNZjFcEnOjuAAAAABJRU5ErkJggg==",
     "wiki_name": "Radimus notes (Complete)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Radimus_notes#Complete",
     "equipment": null,

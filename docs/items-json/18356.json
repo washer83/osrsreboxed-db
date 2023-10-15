@@ -1,7 +1,7 @@
 {
     "id": 18356,
     "name": "Bandos tassets",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2013-10-17",
     "duplicate": true,
     "examine": "A sturdy pair of tassets.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu3WUWsaQRAH8NznyIuQh0JAkIKU4EuKSBBFKopiREmUoMQqBmPUakRrYk2TNDZNbFKRVBpaKP2OU/8re+6tZ6u5q09dGPTQu/3d3OzOraz8H6YMhYyFqUMhy+qqoTARNcakQqGZkYmEaS8YoITfT1Gvh8JuNwVdLvJubpLb4SDXxoaZKIXysdjMyEa3GYh/Aghc3OdTcUA5bDYzUArV0ikqJ5O6IYLwvbATp2JiV4MDyu98ybJkt1qNohRqVavUqFRY1EslNXrXr+nxa4eG/RMa3DXp4UuLvg3a9GN4RjfdDIv9EToRjVIkGKRXHg+9sNsZxmaxsJBnm2MoKkYE1YpFNiEAgPR7DRaAAdi9SFEunaa9eJxi4TAFRo/Pu7WlAckzzTkmIDE7eqDbbpXub+rs+/m7pJqd0KjQkR2Ano/qaGmgT1cVFp+va3T6dleTHQ6yrq+bDwJGBiEzHy9KdNk5ZJ+N4xjtbEc02XE7neaB5OyIINQNB3VaB3TeLlC1HJnKDkDP1taWD2o1snRUCKrZMR2kh+EgvuRRN1fvj6jdzFGjmqZ81j+VHQTfg0wBiRgRhIKWQdl93xTINWojiKWC8Miax5kpkIj6ZyDs1LyGAOI1BBB/ZHpZWioIKwxFDRCKeqmgu9sc62XYhwDCpoh9CKBCPqABcZRB0LixzgPCsucgFDYHyVkCiC99ebY5hhYkw/q9POvsIoivNOxD6PBylgAy0GD1QRw1C4TCFkEiCnVkCCTv0mIM7g8YCEsfIHR7gFDY5WJYN0umg8bPXqHh4JB+ff+ggvjrB0CoI/QyoPBfMUsAOZ7+fj0GccTkrmaDsPSBqr+JMhQ/TwY9sesrdNZsqCfywPFDv6ALQh0BhQBKvAkxDPS0CYYfA4P4+XipAWEvQnAY3onEScUbMgAaX2hyNAahoEUQdmu8tnZOEizwxojQn9QgSDsUhkFg2WNzRAtBo5Ufy3R2tdeZ/dvCY3picQI55LP5+NNvCw950r9Nvuj4DcReG8eswMDzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xu3WXU8aQRQGYPfK1DQSU1JDTEEh0PARvoKCCUgJGEQIBRGKpVi11lqt1WqIDWlMe9P+7FPeIbPMzi4tuluuOskJbGB3nj17Zs7OzPwflgyFzIWlQ6FHs7OmwkLUEJMOhcZGNhKm9WCAkn4/xbweCrvdFHS5yLu0RG6Hg1yLi1aiFCrE42MjF4syEP8EELiEz6figHIsLFiBUqieSVMllTIMEYTvxdUElZJrGhxQfuczliW7zWYWpVC7VqNmtcqiUS6rcXH6gu6+dql/s0e9yxbdfmnTt16HfvT36ewky2JjgE7GYhQJBum5x0NP7XaGiS4vs5Bnm2AoKkYE1UslNiEAgNx8arIADMD3h2nKZzK0nkhQPBymwODxeVdWNCB5pgnHCCRmxwh0flKjq7MG+37wJqVmJzQodGQHoCeDOpoa6ONxlcXn0zq9frWmyQ4H2ebnrQcBI4OQmQ+HZTrqbrHP5k6cVqMRTXbcTqd1IDk7Igh1w0Hd9iYddIpUq0R02QHo8dzc9EHt3RxtF4NqdiwHGWE4iC951M3x223qtPK0W8tQIefXZQfB9yBLQCJGBKGgZVBuw6cDuQZtBDFVEB5ZayerA4mofwbCTs1rCCBeQwDxR2aUpamCsMJQ1AChqKcKujzPs16GfQggbIrYhwAqFgIaEEeZBA0b6yQgLHsOQmFzkJwlgPjSl2ebYGhBMuz6osA6uwjiKw37EDq8nCWATDRYYxBHjQOhsEWQiEIdmQLJu7QYvatNBsLSBwjdHiAUdqUUNsyS5aDhs1eo39uiX9/fqSD++gEQ6gi9DCj8V8wSQI6Hv18PQRwxuqvxICx9oBovYwzFz5NBD+z6Cu23muqJPHB8e100BKGOgEIAJd6EGCZ62gjDj4FB/Lw70oCwFyE4DO9E4qTiDZkADS80OhqCUNAiCLs1Xlu7e0kWeGNEGE9qEqQdCsMgsOyxOaKFoNHKj0WfXe11xv9276GfWJxADvlsPv70272HPOnfJr/v+A3yny6UCHY03QAAAABJRU5ErkJggg==",
     "wiki_name": "Bandos tassets",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_tassets",
     "equipment": null,

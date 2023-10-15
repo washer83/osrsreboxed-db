@@ -1,7 +1,7 @@
 {
     "id": 8270,
     "name": "Mithril armour",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABy0lEQVR4Xt2WTUsCYRSFe/+BKzduBlq4CtxIuBAMkRBFEkUxmfCDNEylECMSRekDJQIjkaJVBG1aRgVB+6hFP+nUvcOMH+vwDh24vAPDwMM598zM0tL/kYIxtpBCxulAW3PaBUqhv+y0gDyaJg2lcL/iQlNz2Afo4RdoK3eMSKRsn9iK2+fI50+huVx2gFJIpg6QzXYsIOHoFHS9y0B+f1IaSMHrDcPni8Pt9iEQyMDjCUrFptiRUCjHQLRHa0GdoQRcMmCoWQRE16XSBbctnT6UASI3TCByhVoWj+9ZkS0YiKQYghwhd+ik2DKbLTmgRKLBDSvvDBkutlFDNFqRAFIcF0VVrY2xWx2xOwRnwiwciABoiekkILqmHRJwh6QYYnoKxT5HKAREMn7M6vVrBqLFFgYiGUDmHtE3TRiIpCwgwcpPywCioZbRchtximkCZO6VQO2npTDozb5/BGFIs0DzdxcsIyITSHx3ogEPMpFVBtJjPiTXvVJQCs1C2BoCorOuh6SiUzipJ3jO9pM8g0aKz04lJuGSwtNdD6NWlmfc1nHTzeG2l0f/qCDn0tfrFT5fLvHxPMT32xjvj4OZ+s8/sQCZzZrMX8H8AC6peW29AoOdAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4Xt2WS0sCcRTFu4SIEYQgCUpqiYaONDmkFj3FIowg6SE9UCKoSJKiZbRo1T6KFi36BhFt+nqn7h1m1NbhHTpw+Q8MAz/OuWdmBgb+jwj2eEIE0zeI7YDPK1CExpDPBZpOJLShCHcjflQDg94Buv8BminsI5lc8E5ss3PHKBYPEfD7vQBFMHIbyOd3XCDl6AiWtSdAkYihDUQIhSYQDmcwPBxGNGoiGIxpxUbiSDxeECDeo7GYJVAKLtkw3CwG4uv5+RNp29TUpg4Qu+EAsSvcskxm1Y2sz0AsEgh2hN3hk2Mzp2t6QNnsujRsYfFU4NKTZaRSSxpAJHFxVCvlNpZXWuIOwzkwfQdiAF5iPhmIr3mHFNxhkUB0T2m2IREqAbHsH7NK5UqAeLGVgVg2kLNH/E1TBmKRC6RY+W7ZQDzcMl5uO041dYCcvVKofbcIzXrv+0cRhtUL9Ptun2VH5ACp704qGoSZHBUgKx2GMR7SgiJUSxPuMBCfFSuuFR3hoJKVOVozZJrrOTl3ltIaLhEeb+to1fIy7W0L17sF3NSLaGyV9Fz6fLnAx/M53p/O8PV6ibeHZk/9fz/RBznN6sxfwXwDlao/ygDasPwAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

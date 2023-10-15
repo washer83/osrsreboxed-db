@@ -1,7 +1,7 @@
 {
     "id": 26799,
     "name": "Catalytic talisman",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": true,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xs3W/0sUQRjH8bt/ol/65aAfBCEQIUJESEJEEjESoqBAovAHESqCyJAsS4oKoyCoKLHotLASMbMUFNO+EVhJ/0V/w+R7js/67LSXd94WDjzs3uzszWufZ3buMpmt37IuOZKu//OWdS9H+tz48Hkfzx/1urEH53wIsTB53c1PXHNzr64moMKHqBheAAkFSBFiZl8MujfPLscm5jPXwoijykJm3cTjC3+gOAJRCDQ9dslNPu33YzkmgRhv0avLI+7b4v3NoQTiXNkR6O34FQ/S2GIg7vuxNOx+fsqvxagHMUdNLucjnD1ohbTrqQVi0iTQVP5iBOI8CbQ4dSMG4lygcPagZWNlYCItbj5bkOAgVN5ioOXpofRAyhJ9AjGuo2WXPyqTApG1EPRxxoLy5YG0LkIQT25BXYf3uENtu/35RqDP727FQN/fP6wcRD8gxnR21Lvuo3tde1PthiCuf5m9nS6IoJQCgTl1rNmd7drnmhuqIxQgzm2otAKtfngSYcoGWZSe9vjBBo85c6LFDXRuc62NNTEApQTMOGVwZf5uIiicvUgrfDFPmwTq6WyKMMSv8WrfJyRZA0RZhV1ZuLdZUOFVJkMWJCRPbTFM3tvd6o8zgzkfwMiSSkmZYyCzKYazB63wyocg+vX0yoAgRF9PWwxFtoA31lWlD6Kv/2S7n1Qonv7I/jpfEvq4TghFuVQqtojUQBYlGAC9NTbADJw+4EGA62t3RNeWXt80oNEIUxKINywJpCyRFcG1Q+s6GMCUDDSonVXb/XWboRKzQ1sHhWUDQykolcbZnwyNAcz6IVQ2fjZSAxH0a+3op4Lr2g74rEUOSIuaftYPu7QFCRXOntAKoGJlUzBJCGL9CKRxLGj+dnyduxOB2IPK2IfiIFs2+jQBR/ptucggmRGITRR4xSAW60YgJrP/gbiPxWwxet1TA4Vlo9+C7IK2Ozn3aSwgXvkYaG0PKnsfSiqbBdlXXiD9EHOfMsTYVEBJZbMgrtm/JRbEOLt+KgTR4jtwsbAYGyGI/9IWpCgDlMloW/9bhEAbdv2kAiq1hchSsIr1sf+phcikCO/Z0u03abUtzDvUxw0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMElEQVR4Xs3W/0sUQRjH8bsfIgoxwkg0zC+hUkJJxFGEIEhFEGQYliVFRUX9EERRiBR9EbEvCGJfsFAoxETKCIKiKOpf6R+ZeM/xWZ+d9ro7bwsHHnZvdvbmtc8zO3eZzMpvWZccSdf/ecu6R8N97sHQER+jN3vdyPXDPoSYnTjjXo2fdjOPTyWgwoeoGJ4HCQVIEWKmHw6656MnYhPzmWthxFFlIbNu/NbRP1AcgSgEejpy3E3c6fdjOSaBGG/R3xaG3Ze5a8tDCcS5siPQi7GTHqSxhUDc93V+yP1YvOt+Lt73IObobGryEc4etHza9dQCMWkSaPLesQjEeRJobvJsDMS5QOHsQcvGysBEWtx8tiDBQai8hUALz86nB1KW6BOIcR0tG/xRmRSIrIWgd1MXIhBRFkjrIgTx5BbU1bnJ7Wjb6M+Lgd6/vBgHvblROYh+QIzJddS57l2bXXtjTVEQ1z9MX0oXRFBKgcDs393sDnVtcc311REKEOc2VFqBvr+9HWHKBlmUnnbP9nqPObi3xQ3kVrnWhvUxAKUEzDhl8NPrK4mgcPYCLf/FPG0SqCfXGGGIX2PVvk9IsgaIsgr7efbqckH5V5kMWZCQPLXFMHlvd6s/Tg2u8QGMLKmUlNmC7KYYzh60/CsfgujX0ysDghB9PW0xFNkC3lBblT6Ivv597X5SoXj6nVtrfUno4zohFOVSqdgiUgNZlGAA9NbYADNwYJsHAa6rWRtdm39yLgKxSwtTEog3LAmkLJEVwbVD6zoYwJQMNKh1Vav9dZuhErNDWwKFZQNDKSiVxtmfDI0BzPohVDZ+NlIDEfRr7einguvaDvisRQ5Ii5p+1g+7tAUJFc6e0PKgQmVTMEkIYv0IpHEsaP52fJy5HIHYg8rYh+IgWzb6NAFH+m25yCCZEYhNFHjFIBZrMRCT2f9A3Mdithi97qmBwrLRb0F2QdudnPs0FhCvvAWxB5W9DyWVzYLsKy+Qfoi5TxlibCqgpLJZENfs3xILYpxdPxWCaPEduFBYjI0QxH9pC1KUAcpktK3/LUKgDbt+UgGV2kJkKVjF0tj/1EJkUoT3rOj2G5ZcN7GlVFUkAAAAAElFTkSuQmCC",
     "wiki_name": "Catalytic talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Catalytic_talisman",
     "equipment": null,

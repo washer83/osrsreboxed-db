@@ -1,7 +1,7 @@
 {
     "id": 13041,
     "name": "Saradomin armour set (lg)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, legs and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJElEQVR4Xs2X/WuSURTH9T/Zz0Ew+hdiyHBIY9Jww8hJM2yKuZdERTRTc7laITEyaqzIWawaYy2iQWNt0Q9BL9IfUH/Iad/7dJ5dr1fzNXbgy3Ofe6/P+dy3c48Wy8k3K+mla++7WenVWoI2VuNCLx7HqPIwKsQQe1sF+rC5SLuv8xoodRBdgxtADAUglgrz/mWO3j7P1DjGO9pU1UK1BWmlzSfJOig8AcJioJ1KmraepURfPHVA6C9DVw/X6Nt+qTMoBkKZZ4eB3m1kBRD3bQSE3/04WKWfn8tHWhdA8DE4MCCkelfMmHYetTyybiQDoYy6lmDkZcB7MnCW0gsXyH9xhBb8TooExikWclEiPEnJObdoy0Q8dDM6RbfiXlpKTtNyykf30n7xRLvTdkp8q+dAgSkHhS6N0qxvTAsHMEABpJi5IqBQXwtUbg+I94UOyDthI5/bbsIBDFAAQh/MEsOs5IPiqQP6/vFRd0AYOUBKOU9b6hsQRo5ZUR3+Szqg6qenJkxHQOnQkADCEsnOoqWKULCwIsTvOiCX/bQWSPXewIxjul2+bgJhozIQO5ZhZCAZrAdARgzCDKlAOF2q02ZAdxMTeiApKKreFTOOvA4IsQUnSnUqA+mg+g6Uv3bedC6XdXUo9xQIQl02bBOxBYHwTtxlOpTLujqUGcjtGPwLtG7CtASEE9YMqJicNB3KZV0dyvVA5VZnB3YMxFAyECIyNiqc4Qmpe4bbuU9fgXBnZeedwlkhOl4Ho250/ZIZkRpl1bvGDCB52VC3ODcsLkkAxWZGKBF0UOrqOfr9q6oVYFkM5Bk9I76FGNRGHKoF4tSUgXCBBj1DFPbaaH56mCKX7TWAN2bHxAzidLG6BsIpawSED+O2x53GKQjf9Gjj1AMhAv3v52Z6B8RQMhAgOB/iXEiGwX3HMGr6YQIdxaC245Bu2XohJGUdAanLhs2NOiT2+9tLok3+V4IyMgMI/TipR9+DN7fpy26Rvu496AQIVj8ynWQYWSrQ4c5yDRCrDSCLhcN6M6mAsjCTAMLs9ASoVVMhW4FlHff9T6ZC6qT+5kTbH5Yv0WNqQTUPAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKUlEQVR4Xs2XbWuSURjH9QsU0fs2JzM2YzopZ8xsormHBBWnmZrL1SiEGLUoxih6kNETg7EeIGgQjDVG7FUvomjUV6gPdMX/3Fz3jsejefsQu+DPfe5zjvf1O0/XubTZDr/ZSS9de8/NTi9X0vR8OSW0ej9J1bsJIYbYWi/Tx7U52nxV0kCpg+gY3ABiKACxVJgPL4r0bjVf4xjvaFNVC2UJ0k5rD2broPAECIuB3lRztP4oK/riqQNCfxn6x+4Kfdteag+KgVDm2WGg988KAoj7NgLC777vLNPPvcf0a++pAIIPb3+/kOpdMWPaedTyyDqRDIQy6lqCkZcB75nwCcrNnKbQmUGaCbkpHh6hZNRD6dgoZaZ8oi0f99OVxBhdTQVofnacFrJBupkLiSfa3Y4j4ltdBwqPuSh6dogmg8NaOIABCiCV/HkBhXoZCLIExPtCBxTwOijoc5pwAAMUgNAHs8Qwi6WIeGqBPt3rDAgjB8idot+SegaEkWNWVIf/kg5o//NDE6YtoFy0TwBhiWRniaWqUKS8KMTvOiCP86gWSPXewIxjuvHkkgmEjcpA7FiGkYFksC4AGTEIM6QC4XSpTpsB3Uh7tUByUFS9K2YceR0QYgtOlOpUBtJB9RyodPGU6Vwu6+pQ7ioQhLpCzCFiCwLh9ZTHdCiXdXUoM5DPdUx8C1GaYVoCwglrBlTJjJoO5bKuDmUVCDPU4uzADoAYSgZCRMZGhTM8IXXPcDv36SkQ7qzCtFs4KydG6mDUja5bMo7UKKveNWYAycuGurmpAXFJAig5MUjpiIuyF07Sn9/7WgGWxUD+oePiW4hBFuJQLRCnpgyECzTi76NYwEHT4wMUP+esAbw8OSxmEKeL1TEQTlkjIHwYtz3uNE5B+KZHG6ceCBHof6s40T0ghpKBAMH5EOdCMgzuO4YBiJx+MBBikOU4pFu2bghJWVtA6rJhc6MOif32xrxok/+VoIzMAEI/TurRd+f1NfqyWaGvW7fbAYLVj0wnGUaWCrT7dqEGiGUByGbjsN5MKqAszCSAMDtdAWrVVMhWYFkHff+TqZA6qb851PYXyNrQsSQdhfoAAAAASUVORK5CYII=",
     "wiki_name": "Saradomin armour set (lg)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_armour_set_(lg)",
     "equipment": null,

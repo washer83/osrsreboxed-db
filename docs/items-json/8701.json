@@ -1,7 +1,7 @@
 {
     "id": 8701,
     "name": "Diamond dragon bolts",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "Dragon crossbow bolts, tipped with diamond.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xu2Vv0tCURTHvf9ES4vgEASCCCIigiIPkRqMWtpqCBpagiL6BZLQEgQN0dAiUYsotLwKHAoMHQJrkIb+mVPn3c713vt087wn1BcueC7o+fA551YkMpEIsG9CjIBGvQ5TAiXgrdOBp1bLA0pEo79gocEJ+Px4h9d2W4E8uy7c392GBSXgrDAP/V7PA/gaDKDf7cLL44NlLJAIuHDiUInNKDtXpYQHqMMEZEs2r+VkczzX5QScF+MGjN8WW+SodtMxBYS2qtk5A+jSsY2xRsBafFYB7WfmDEDbGDOQgGqlCOvZpAI4WMgbtd8YawTslLKq+elyCbYdWdO4dGPMQBJAt4G2NvNpA+joxw6NlB1or5wzmus13RFwIPuzkUspO6PGhfsUGMzxYsFojuNaTZl/f3Q79i9MOMK3K/b4dGBmIGlDb64vN93RONlh8GwVMmNt2MCMQAKazRvvrCTNf5z2+MyaJUMYfEm1k0OvId0TIJ7aksNtZwiDn123oWo8+LR1QHOcbJHN8CXhOHQgNKbX5jhZ4wciI1SjKboPAAgjTdGhJSYgG9b+NktoWc2lHW0vIEvjMnx1UwIk7enjDB2IMlUw//mz+QYWAPI5DFUSxQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByElEQVR4Xu2Vv0tCURTHvUMEIokoioo+NUKqoZaChqAlKIJ+gSS0BA0NQUObBLUpQptFg0s0GIhLg7VJU//WqfNu53rvfbp53hPqCxc8F/R8+JxzKxSaSATYNwFGQL1WgymBEvDW6cBTs+kCrRYKv2CBwQn4/HiH13ZbgTy3WnB/dxsUlICz3Bz0ez0X4GswgH63Cy+PD5YxXyLgwolCOTyj7FwVYy6gDuOTLdm8mpHN8VyXYnCejxowXltskaPaTYYVENqqpCMG0KVjG2ONgLXorALaT0UMQNsYM5CASjkP6+m4AjiYzxq11xhrBOwU06r56VIRth1Z07h0Y8xAEkC3gbY2s0kD6OjHDo2UHWivlDGa6zXdEbAv+7ORSSg7o8aF++QbzPFCzmiO41pJmH9/dDv2L0w4wrMr9vh0YGYgaUNvri833dE42WHwbOVSY23YwIxAAhqNG/csx81/nPb4zJolQxh8SdWTQ7ch3RMgnuqiw21nCIOfW626qvHg09YBzXGyRTbDl4Tj0IHQmF6b42SNF4iMUI2m6N4HIIw0RYeWmIBsWPvbLKFlNZd2tD2fLI3L8NVNCZC0p48zcCDKVMH858/mG7YBvV4DoKOOAAAAAElFTkSuQmCC",
     "wiki_name": "Diamond dragon bolts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_dragon_bolts",
     "equipment": null,

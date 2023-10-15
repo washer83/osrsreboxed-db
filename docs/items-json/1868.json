@@ -1,7 +1,7 @@
 {
     "id": 1868,
     "name": "Burnt pitta bread",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": true,
     "examine": "It's all burnt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xs3WbUsUURQH8N3P4ZsFXwRCsAQSEoIhIWFIkiQmSQR9iYrogYqioigKKkosWi2sRMweFFZMeyKykr7Oyf8d/rNnzt5Z5u5M4YWDszN3PL895+6dKZW2/yiLP3zX//koy6upMzI7edrFi8enZObhSRdErMxfk/rcVVl+fcWDsl8iNzwCEQUQw2KWXl6Wt88vJhLjM67ZSKKCkGWZe3K2CYW/gDAIWpy5IPPPzrm5+OsDYb5Gb65Pyc/VB+2hCMIxq0PQ+9lLDsS5aSDc93ttUv58qW3FtAMhR7VScWGzmxGVnd+aICT1gRZq52MQjn2g1YXrCRCOCbLZzSgn2oBEXNz4bEFIDgTbmwZaX7xZHIhVwjkfiJUkCFWzoM/vNKgWBuK6sCAkJ0gvUB1poK8fbiVAvz4+yg/CeSbe29sre3p6ZHd3t+yqVl3s7OpqAhL0bel2sSAErh0YGJD9/f2yr6/PhYYRB9iOzk4XuAcV/VG/G4M2Pz2NMcEgonD+4OCgA4WgCNqo3/OCbPaU0VgPAOH48PCwHBoaahu1sXK/XVC0B6FCPlAeVAxSm6LNbkb0k9cgnDs6OipjIyO5UFzwhYPaRVU6OvKDEDh37MhYLhSrE7VsOsZkAuEXZkEnJiZiUCgKIPwPvagzVgejAbJt01UKQbE6hYFYpePj4w6VpX0EsTrYpTWIKJvdMyKQbRurhNa1ghFEDKvzfflODMIeFLAPJUG6bfo5xtDtY4WA0XPwHpQLhF9ZGgiPACTAw5JV8wWuYy7eDAoD2bbhvAbpdyA86/jcw32cC9DamxtJ0NYeFLwP+dqmQThuBWKFMLcQkK9tGoRr+rVEgzAPILYrJwijeU34QmN0WBDepTWIEQAqlbittwoL1KHXTyGgrMMis2AZjbn/aVikL+w923r8Bfc25IITSi5QAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xs3WfUsUURQG8N2/JAlDkiQl0yTDDF/CED9FRVFRkVRUFBFEUYgUvYhohSD2QoWCISZSShAVRVGf7MRzh2f2zNk7y9ydKbxwcHbmjue359y9M6XS5h9l8Yfv+j8fZXk6cUxmxo+6mLp7RCZvH3ZBxPLceVmaHZPFZ+c8KPslcsMjEFEAMSxm4clZeTV1OpEYn3HNRhIVhCzL7L3jVSj8BYRB0IvJUzL34ISbi78+EOZr9M+1Cfm+cqs+FEE4ZnUIejN9xoE4Nw2E+36sjsvv9YfyZ/2xAyHHYGenC5vdjKjs/NYEIakPNP/oZAzCsQ+0Mn8hAcIxQTa7GeVEG5CIixufLQjJgWB700BrLy8VB2KVcM4HYiUJQtUs6OPryzEIEQTiurAgJCdIL1AdaaCNt1eSoPd38oNwnol3tbXJztZW2dHSItubm11sa2qqAhL0aeFqsSAEru3t6pI9HR2yu73dhYYRB9jWxkYXuAcV/bJ0PQb9+nA/xgSDiML5fd3dDhSCIujruxtekM2eMirrASAcH+jtlf09PXWjvi3frBcU7UGokA+UB0WQ3hRtdjOin7wG4dzB/n4Z6OvLheKCLxxUL2pLQ0N+EALnDg0O5EKxOmgZdmliMoHwC7Og0eHhGBSKAgj/Qy/qjNXBqIBs23SVQlCsTmEgVmlkaMihsrSPIFYHu7QGEWWze0YEsm1jldC6WjCCiGF1Pi9ei0HYgwL2oSRIt00/xxi6fawQMHoO3oNygfArSwPhEYAEeFiyar7AdczFm0FhINs2nNcg/Q6EZx2fe7iPcwFafX4xAcIeFLwP+dqmQTiuBWKFMLcQkK9tGoRr+rVEgzAPILYrJwijek34QmN0WBDepTWIEQAqlbit1woL1KHXTyGgrMMis2AZlbn/aVikL+w9m3r8BV6867ikFLfHAAAAAElFTkSuQmCC",
     "wiki_name": "Burnt pitta bread",
     "wiki_url": "https://oldschool.runescape.wiki/w/Burnt_pitta_bread",
     "equipment": null,

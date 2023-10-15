@@ -1,7 +1,7 @@
 {
     "id": 9159,
     "name": "Mithril bolts",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Mithril crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgUlEQVR4Xu2VwUrDQBCGu8/RSx/BVxDpoZdCqLTYQ7GWEDFELEUQ9aAWxOfwKL32+Vb+DJOd2dTjbAr2hyHdITBf/pmd9nonmcv5ONOhnJ/PK6+hOgV0fji8rIHOBoP62SEgFe/3CQSR588twOm0iABN5HxVbf3sqmxg1uuvxh2GKYpXPx4vRM5Mzpflu/h6OjMgAy2uN5FjpnLN1yNWqycFeP/wqRwzBnL+9u6tBSTPbcdMRe3g4pineH6kY8ZABJBlNw0QhncyyRUQblyygV4uH1VxeeachDEHYjfYrUPtSgaDVsjiaNdoNFM5bqcxDBQ2Lxfn4Zazk8wduCGL42rrwQ3tNIdBxJv4UPsSuOP8bvddx/lFpgDi9iXYOwEG7mw/XuqCnGdABDa3sTsBBr/3+5/mjMDukYCJ/iaoGG4ShlUCAUCedTtNRZsY8yEdk0BwivMJgCByioOHmIGke/ROAvGw6qGldsbuJXLpL4VbdyRA5J5sZ+dArKOCOenf6hdvidgFccKu9QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfklEQVR4Xu2VwUrDQBCGu6fiQ2hLD4XUUnOotYFoCFpEELRQtCA+iXf7AH3gkT/jJLObepxNwf4wpDsE5ss/s9Ne7yRzOQozHcpRmpbkQ3UK6GgwuKyA0uGQn90BcvF+/+wXwFGWvbQAp9M8ADSRo7Lc0uyqqGFWq8/aHYHJ8zWNx3OVM5OjonhTX89nARSg+fVj4JipXP31iOXy2QO8f/jwHDMGcnR7t2kB6XPbMVNxO6Q45imcH+2YMRADJMlNDYThnUwyDwg3LtpALxZPXnF9lpyGMQcSN8StQ+2KBoNW6OJo12g083LSTmMYqNm8UlyGW89ONHfghi6Oq+0PbtNOcxhEuIkPtS+CO452u68qzi8SDyBsX4S908DAne37a1VQ8gKIwOY2dqeBwe/9/rs+I7B7NGCkvwkuhpuEYdVAANBnv52m4k2M+dCOaSA4JfkIQBA7JSFDLEDaPX4ngmRY/aHldobuRXLpLzW37kiA2D3dzs6BREcFc9K/1Q8dsqFo19pVKgAAAABJRU5ErkJggg==",
     "wiki_name": "Mithril bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_bolts#Unpoisoned",
     "equipment": null,

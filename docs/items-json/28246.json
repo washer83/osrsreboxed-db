@@ -1,7 +1,7 @@
 {
     "id": 28246,
     "name": "Wisp",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "Born in the shadows.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xt2WT0sbQRjGnc/hJTehIOSSg+QSKTmElEBQFCyRqoSArcVU+tdSGluaQGi61WTjn6bGGlqxhtZYYz0oevBSbaFQPPRQCj0IPUm/wNN9Zl13G3vruit94YWZcZL3N793MtjU9P+FgJ5nIgQ+7H7GYnX1LEAJPJ5YxJf9rxKKc6/H4yaUQK6whIODnyitfMOLte9uWxIYuZnF4eEvJJIKFmr7bloSSKVLUEt17Oz9wPjUMmZfbrkJxBCovf+E6rtdlF9tY6q87iaQQKmyiUfpeSjFt9JOaqzkLlC5vI2B+CBKzzcx82wD2eyCW0AClYyCgqq/PWxZPl9DYTQFRa268UsTyOYKEoLjN6t7sm2xvmFkchU3LGkPoqIieSMjiy+vfcTdsSLC7VHszL92GkjgydNJaehhdg6xjjjq61u40ncd0VA31MlZ54HGCzOy8NC1B0jG7+D26H0M9o6gJ9qPqlJ0EkhAmZg+urQC8Z4hXB24haWcikRsGP3dlyWsg0AMHYatIsRKfUOCsV2XuhLIq46/RUIWJxBB7qXS0kwk2CnXitNzzgNFIr3SBgGYBOK8M3zxGMYBIOO/Qs2QdnkJFdJMdWhAfl9AjoOaJYfsaEW8frS1BWWGNRMGEDMQuCDn7eejpwnU+PzrdmihS2sPITgnREuLV0KeIpBAa6vvqEXmGu3QCG3QGEGamz3HLSSQ3x9q+JwtYQUyzbAgzRhFuYdJO4Timk+7T0zzs7aFkAY8nnMyjdMTzLSgJ+f8u7GXQLRJezaDmSc2Tk1DbBvH+l3RgQhKWxwThvt5IK4R0kYw04SE0O6OAWdeXr2lhLG2i0DczyQY57ZAmQ+dDsQvNgsb8ec9MyBOHMjeR9ME4thqg+uNxa0A1mz81n8MvbjxC2Mal9ghgL/FSRNWmMbdjkSjBTthfgMxrVPZHPawawAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xt2W30tTYRjHfa9kIMlgIGOYstFgKrLE1MGwJJf0gzKiWbTBaM10v1Rs+SMZkTCTQmYq4UVJ4UVdVVIX3UTddJc3XRV0LfRPfDvf93g8p1N3Hc+RHnjgfd+957yf9/O852U1Nf9fCKh5IELg1Zv3qNxfOQhQAtdHK/jw8bOEYj/c3OwklEA6t4Bv33+gtPwFd9a2nbYkMHA2hZ2dn4jGMpivfnLSkkA8UUKhtIqXW18xMr6EqbvPnARiCFQfv8Pio9eYvreJ8Zl1J4EESuUNXEvMYbj4UNqJD5WcBZqe2URPpBel2xuYvPUEqdS8U0AC5WQGubx697Bk2WwVucE4MvlFJ740gVQ6JyHYfrCyJcvW0dWPZLrshCXlQswUEDuTlIsvrb3FxaEiAo0hvJir2A0kcOPmmDR0NTWLjpYIVtef40TXaYT87ciPTdkPNJKblAv3nbqCWOQCzg9eRm/nAMKhbixminYCCQyPTuweWoFIuA8ne85hIZ1HtKMf3e3HJayNQAwVhqUixPLqUwnGch1riyJbsP0uEnJxAhHkUjwhzQSbWuVYcWLWfqBgsFPaIACTQOy3Bo7uwdgApP0rVAwph5dQfsVUiwLk9fhku0mxZJMdAbfbi4aGJpkBxYQGxPT5jsh+4+HQfgKZr3/VDi20KeUhBPuEqKtzS8h9BBKor/fslkgfox0aoQ0aI0htrWuvhATyev2m5ywJI5BuhgvSjLYo5zBph1Ac8yjniak/a1kIacDlOiRT2z3BdAtqss/ftbkEok3asxhM37G2axpi2dhWz4oKRFDaYpswnM8NcYyQFoLpJpg8OxqcfnjVkhLGWC4CcT6TYOxbAqVfdCoQX6wvrMXv50yDMG/I4ktTB2LbaIPj5sWNAMY0v/UfQ11c+8KY2iG2CeBv8acJI4x5ti1htmAlzC84rP9SCV9bEQAAAABJRU5ErkJggg==",
     "wiki_name": "Wisp",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wisp",
     "equipment": null,

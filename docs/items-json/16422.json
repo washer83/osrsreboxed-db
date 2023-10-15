@@ -1,7 +1,7 @@
 {
     "id": 16422,
     "name": "Red goblin mail",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-17",
     "duplicate": true,
     "examine": "Some red armour designed to fit goblins.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpElEQVR4Xu2W72tSURjHPf+Br+4b3wh7EQwGMohexECI4QtHJEWyDcfcaBthI1lrNXIY2LLVmhHJ1k9BmGVbrCgK+uOe7vc5Pno86naX7L6ZX/hyvXqecz7n+5yrBgIDDXR+pKi7j5M91kuNJykaCwboYkB72PW4ez/huvcCiseiDuNN967xJEVzoSBddzQEFoDxHj6LhMNsu0pLQ5nuA0rHm3KCbIFCKmIBsiu1FI+RDchmOqE8gSnKXHVBrgRp0gCCcS/ONlKyqwUGEGLZDF43ocLu6wue0lKUTbgAsXagxQaUpAYXhpwuEyquExiA4N6EGhvRPrntLEUPky5AvBMo07gKnNy34m/BSGsBIhtpgl1ywUZPanubdEpomyy8GtZtggXEhJKWSgomjNQ0waIu2OVTAuVTDq3e0IsBJhd2KO+2CFcTAgvYQAKDe4xFDcybahwHj+0ypaiQdhjMbEllOMQT21DSDgGRdmOsWZ+bcvihOUU6pvQkrZ0oqo6EOCksZAOZxnuAw9We4z/SaamzUFGx0TobyrQcbjzmdhqdc/YlDSRQOLACJQaQfDH2lYY3tSckTxAsbTK/BO10zkCqCSOPcmZhgW4mEjQRi3X8dvkCVPv4gT6Vy1R+uU3bhQKtr6zQYjpNc9PTlEomGW48GqXRSMQfoB+fa1SvVKi6t0tvX5Xo2eM8Pchm6d6dDC0vLdHt+Xm6NTNDs1OTfgBBin59rdO3apX237/jpJ7mN+hJ7hFtrK1xYvfvLvtxoCFFe+uz3LI/h4f0vbbPSb158Zxeb23RzuYmp3MtHvcvHQAhld3SDoOgZUgGRstwjnCGhkLd/g2ciRT9PTrihH4fHHD7fta/MCDg0L5SsehXy0St36de9hFGSxY8znbNQAP5qX9AeoJLBLieHAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACn0lEQVR4Xu2W/0tTURjGdxiXMQlFjCAH6RgWq5hz6DTUWNgwM5JmC5ZNzcyIDI2+CgpmNTEwooh+6I99u8979m5nZ5teG95f2gMPd3c77zmf87znbgsE2mrr/5Gixj5K9lgvNZ6kqDcYoLMB7U7Xfe79gOvmCygeizqMN928xpMUjYaCdNnREFgAxnv4LNnfz7artDSU6RagdLwpJ8gWKKQiFiC7UkvxGNmAbKYeyhOYosxFF+RCkAYNIBj34mw5JbtaYAAhls3gdQUq7L4+4yktRdm4CxCtBZooQ0lqcKHDaTCh4jqBAQjuTajeLu3j285SdDfhAsTqgTLlq8DJfTX+Koy0FiCykQrYORes57i210inhLbJwjNh3SZYQEwoaamkYMJITQUs4oKdPyFQPuXQzBW9GGByYYfybotwNSGwgA0kMLjHWNTAvKnycfDYLlOKCmmHwcyWfOgM8cQ2lLRDQKTdGGvW55IOPzQnSMeUnqS6E0XbXSFOCgvZQKbxHuBwtef4h3Sqqi9UVCy3zoYyLYcbj7mdRv2cLUkDCRQOrECJASRfjC2l4U21CckTBEubzC9BO51TkKrAyKOcGR+nq/E4DUSjdb9dvgDtvXtL79fX6eWTFVopFGhuepom0mkaHRqiVCLBcH2RCPV0d/sD9P3THpW2tmh7c4NePVujxQd5upPN0q0bGZqanKTrY2N0bXiYRpKDfgBBin6WSvR1Z4d237zmpB7dn6eHuXs0PzvLid2+OeXHgYYUbc6NcMt+HxzQt4+7nNSLx8v0fGmJVhcWOJ1LsZh/6QAIqWw8XWUQtAzJwGgZzhHOUEeo0b+BU5GiP4eHnNCv/X1u348vnxkQcGjfWrHoV8tE1d+nZvYRRksWPMp2TVtt+am/XBco3XT3P4sAAAAASUVORK5CYII=",
     "wiki_name": "Red goblin mail",
     "wiki_url": "https://oldschool.runescape.wiki/w/Red_goblin_mail",
     "equipment": null,

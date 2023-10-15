@@ -1,7 +1,7 @@
 {
     "id": 13237,
     "name": "Pegasian boots",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-08-27",
     "duplicate": false,
     "examine": "A pair of upgraded ranger boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADDElEQVR4Xu2V7UtTYRjG9/wBwSBaH4YxHTKbL0xtKc6JknMsR25sMFRczWEDbeDanFZaygikEYTVh4g+lB/6M+/O9Tzd5zx7wbBzfPngDfeXcx7P/fO6rvuZy3VTF16C2p9cYQl6MDNM1wRKUGCkl0YmAxIo5PNdNZSgyflR8g8BpBsQq3Yp6gkaehiQQGpgO5Cge/1e+XxwvP+iLRUUiY9TNBGm0FSQIstuGku6tKEKAkCws6fvbhdgR0opMZ+O0KN1N82uqZ7IuCgUc5E/yFAKKPo4bAYeMA4DCSq8siCgCjfUCUYNoLACShcWaCEzLe1037l1hjq2bFRAKxUFAVXQgJHqGDBBo7MbM7T0dN48w+87hwsTtvX5uUpQfsdNuRduShmWxY2hc8bQqDF0KtZLffdvm+rpMFBvLGrZiebA27TSUilTctOiMRwwGIZMca66AUE9ztbAaN8/rDxXWVBQCUAbB54zYQCMwGMj0Q6pwyXo9HudvnzcosZ+nqrljAkIK1k53U7ANH/tyZBDHUdh6p899PNbjU4+bNKbnWVazs6S1xjI2QIMQCagTljB5CspOvl9RGPTgy3qtH/9P0pQMR+XigAAakAJDJWDtWc6UPP0Nfl9HvPGdkwdWFQqLMrstMNg+I+vFWo2irRXzUnwZGKCasdFqSDU6R3ocUIdtabHR+v0dneV6ttZyqaj5oYxUO2Th+IltWkc7OfvliSMfoPbVKdzzbe30vK/BwxUCYYCVC49oWerMXkOjXO6ZWj8jU11hFxn/SLUA4tVDkdCUrnNjSSt5ebkGb4w8Z6BAI/3NoAEHTSrLevMg/Bxr88rrUC/PyzIzGDbeNXROlAyG5M22wJKGiC7jTKV94qmXRgkM/H31mUrOVd877CCofCwhE/lEnaBUKLj5mUQzpauHDKiWwkYf9AngRwKNMr6MdS7dNiaLbZS2mSEnEHYVodgVPGHrA+qfL3cL7VYCXV0CF1Nx2C6l6CEoQyAiuUVUx0AsBrtIBcIw9VpYzeISwCxqn3wlUDc1HWpP7/vsOQOOydYAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/UlEQVR4Xu2V208TQRTGO6m1aaUthbXAcuuF2pRiCwRKiRugCVhuMVLUoIkBTUxQfFATX0x8ND75Nx/nm/HsTi9icJfLAyc5L7vDnh/f951pKHRbl16Cup9cYwmyZ+7TDYESNJhJUGYqrYDms9nrhhI0VR6llDXwFyBW7UrUE2RNDCogPbAbSNC9VEw9t+zUZVsqKPfQpnx1gkayQzRWC9NwMWQM1RAAgp3xZLQPcCCllSjXszS1EqbxRd2Z2RClp0NyMENpoMnSiBt4wAQMJKj+xIOAKtxQJ2lLIEsDzTkzVKiNKzvv3A2fo44vGzXQ/JaGgCpowCh1JExSdm2jQJVHefcMv+8dLlzYzucXKkFLO2GqboSpJC3LyaGTcqgth45kExRLRFz1TBioN2x7dqI58D6t9FSadcJUkMMBg2HIFOeqHxDU42wNjSb/YeWFyoOCSgBabUfOhQEwAo+NRAekDpeg71926cPbdTo6WKJWc9YFhJWsnGknYM5+vFQhhzqBwuy+j9C3T9t0erxGT3dqVKuMU1QO5GwBBiAZqGNpmNX9Ofr86w2N5a0Odbq//h8lqLGUU4oAAGpACQxFm89MoNOfhxSPRdwbOzB1YJFTL6jsdMNg+NezLTo5atB+q6rAi/kMtT9uKAWhTmIoHoQ6ek1fv1ihw70F2t2sUKVsuxvGQNvvIpRz9KZxsLeOlxWMeYP7VKd3zTfXy+q/BwxUSaYHqOk8oOWFaXUOjXOmZWj8jU91hFpn8yI0A4tVtsbSSrm11SItVifVGb4w8Z6BAI/3PoAEtU9aHevMg/DxaCyqrEC/elZXmcG28aqjTaBiZVrZ7AuoKEH2jprU3G+4dmGQysSfW5et5FzxvcMKpq2Ugi9V836BUKLn5mUQzpapHDJiWgmYeDKmgAIKNMr7MTTbed6ZLbZS2SRDziBsa0AwuvhD3gd1vh4fOB1WQh0TwlQzMJj+JSgvlQFQoznvqgMAVqMb5BJhuHpt7AdxBSBedQ++Fojbuin1G7a3R36btHb+AAAAAElFTkSuQmCC",
     "wiki_name": "Pegasian boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pegasian_boots",
     "equipment": {

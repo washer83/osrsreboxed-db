@@ -1,7 +1,7 @@
 {
     "id": 1698,
     "name": "Ruby amulet",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-05-08",
     "duplicate": false,
     "examine": "I wonder if I can get this enchanted.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4Xu2WUUsbQRSFvf+gT/viy4IPvvriP7P4osHaFFNsMVIarQpVE20bkzZsY5OQBI2JDWqairZJW2MIlYAgCOIPOO3M1GTdDbqr7iwFPzgQsjfcM+fuzKSr6/+G0FmuQHju9WJ8dBRPH41wjY14uFwwRchoGjYzGZSLRVT39tCo1XDcbCIefscN9amqLFOEfCqFw58/OoyK8K1cxsykX1ZKhO2NHHa3tlop6MW+Oz05QTb+UUZKhM/ZLHLJxCUzxir2rFatIrK46GRKhEQkAu3tm2vMMAjnZ2c8yWn/hFOmCOuJT0jHYhZHQThqNBB8NW2x3jaE4toaCum0jQbUGpu1elsQf5F38nkbDQirK2Eb9bYh7H8p2WhATu82wkGlwk9n9tn41Azxg9NRQ7/rdVsvdmmzYLH2xoiUrN9XhPfBoMXaGyOuh+tXTliem23VXV17awiewcF/K++0esLrQADh+XkLxu8Msa39Pp/OWFuh2RnElkIyDTHEvZWMRrEwNYUnw0MIvFS4no0r8D5WrkjRMUTDyu5XfpIvh7qR61fxYlKBb0zB8JCChwMP5JoSIyF8iAozRvknRFISR8f4+49g1WyGiaXGJDUl1iy3bjYT11RoMZGghO2vh7Cz3WMylEmrSCXbhoy/chBCvdaL7/uXTRU2XEnnAkLzqBcHv4SxcqmHp+ZCOnrMh6RL6bS5MKCXseaee2TxB3Au20psAx3gAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJklEQVR4Xu2W20obURSGXZRBIl76AD6Cj2HxyrMRU2zxgHg+gKg1lR4S0jZE4yFKSBCJiUhQJEYvFBttwYZWC23JTW+86I30If52712TOBN0Rp09CH7ww5BZw/r3v2b2TlHR/YZQWJZAeGa3o7WxEU8a6rla6mq5LDBFCPl8WAuFkIzHcbS3h2/pNH5lMvC/ec0NVZSXyzJFiC4t4sunjwVGRThIJjHY2SErJcLmagS7GxvZFPLFfvt9doawf0ZGSoT1cBiRwMIlM+oqdi99dAj3xISZKRHm3W5Mv3p5jRkG4c/5OU+yv73NLFOElfk5BL1enaMg/Dw9xfOBfp31hiHEl5cRCwYNNKDs2PTVG4L4i7wVjRpoQJh1uQzUG4awv50w0IDM/toIx6kU353ZtfquFuIbp6mGvp+cGHqxE2sxnbU3RqSk/7wivJ2c1Fl7Y8TxcP3KCVMjw9m6q2tvDaG2qur/ygutnjDa0wPX2JgO43eG+Kw7HI48Yzk5hwbx/oVTpiGGOLcCHg/G+/rQXFON3m6F62mrAnuTckWKpiEapnZ3+E4+5SxGpMyGrk4FjhYFNdUKHlc+kmtKjITwziPMqNXeJpKSODrGv38Es1ozTCw1JqkpsWaRFa0Z/7QNPq8tm5DElAhbmyUaQ6GgDUuBnCH1UyZC+JouxYf9y6Ziq5akcwEh86MUn4+FsWSihKdmQTr5aDdJi9LJcWEgX+qaBx6QxV/V8LGlb9YWQgAAAABJRU5ErkJggg==",
     "wiki_name": "Ruby amulet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ruby_amulet",
     "equipment": {

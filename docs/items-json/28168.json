@@ -1,7 +1,7 @@
 {
     "id": 28168,
     "name": "Clothes pouch blueprint",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": true,
     "examine": "A step-by-step guide to crafting your very own clothes pouch!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhklEQVR4Xu2X3UrDQBBGs2/SFygUQaQXguCFCCKIgoQSUKHSC4WCUAqC+Dx67fNFJrBx8nVmdjZNC0IHDnR/MnN206TbojjEIQaLUO8fNUI9Pi0bJmdVy9H5o8rxxdzk5HJhMr16saTCRsEUKJALSVHdyWgkSYW6Wnw2zJ4/OpTz95b7p7XI3cOq5bZ663AzW7Zcl68dsoW4jCXkkeNiRJRxC/18fzXkyGhikpyxOxSbQtIOebHkopRLqI8M30UJGpfEsoXwlmnF4zxpPh/HXest5O2TxrSFuYQwkQYW9QrFdpTaqZD02eojkkLxKUtBBbDPM4YYQv7dwRXj6rGt9RGDCmnfGWxrfcTehLCPw5+0wYQ4VnEOvpuSQjh5VzhfjLIQ3hoC52jgdUTGm1oW2hYUIJy/ZaFzbEWwUAqUQJGthTh4jPUcZfEsHTGFsEhfUATlOKYQTuZgUQm8Jl6HOfhuG0IU+H/pDyyUghfHXBySMYSKIk5AMFEOmAtBB3dgohww17+LX1RbgPbzEbIDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgUlEQVR4Xu2XbUrDQBCGsycQURQUpAoKKhgbUClSsCAUSn8UxCv1Ah44MoGNk7czs7NpWhA68ED3IzPPbpp0WxSHOMRgEer9o0aojy7KhuPLquXk6lXl9HpicnYzNTm//bCkwkbBFCiQC0lR3efRSJIKdTX9bhi/f3UoJ6uWp7elyOPLouWhmne4H3+23JWzDtlCXMYS8shxMSLKuIV+1uuGHBlNTJIzdodiU0jaIS+WXJRyCfWR4bsoQeOSWLYQ3jKteJwnzefjuGu9hbx90pi2MJcQJtLAol6h2I5SOxWSPlt9RFIoPmUpqAD2ecYQQ8i/O7hiXD22tT5iUCHtO4NtrY/YmxD2cfiTNpgQxyrOwXdTUggn7wrni1EWwltD4BwNvI7IeFPLQtuCAoTztyx0jq0IFkqBEiiytRAHj7GeoyyepSOmEBbpC4qgHMcUwskcLCqB18TrMAffbUOIAv8v/YGFUvDimItDMoZQUcQJCCbKAXMh6OAOTJQD5vp38QtsED7E2Fen1QAAAABJRU5ErkJggg==",
     "wiki_name": "Clothes pouch blueprint",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clothes_pouch_blueprint",
     "equipment": null,

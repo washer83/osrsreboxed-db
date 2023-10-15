@@ -1,7 +1,7 @@
 {
     "id": 7808,
     "name": "Anger mace",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-04-03",
     "duplicate": false,
     "examine": "A heavy duty mace.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXElEQVR4Xu2WMUvDQBTH+76Bk0uWfAS/ShdBQbAO7dLFwcFNR9FBoXZQa4aCtbXYEqsFE0GoTkKnDLZU8Zv8JZde7jxCFSSXG/KDRy7HhffLu3skhUJOJhDUmeQ5LRDc6xZ+ChCuLs6VudRQkxC8fp8lX7Ftdr1tNuP7aC415DcX8eJ5sC2Lje9vOrpkOITn4QNalw0c7O+x5G+jETbX1/Dq+7plOFFlQqnHXo9VpVGrYdBpo1IqzSunHWICbcfB0+AOvuuyiq0Wi3GV1CdShvA5neBrNsM0CNjZOj06RLVczk4ojI/JO4LxOD7sw24XZyfH823TtnUUd5UcvO15OPW6Dikhw7tJjnCFGGvpOMKuvSRVZDF/WfMPCDuSTMrJfoOwbeUySRCquUwihIpJMlu5TCKEjWWDZMKQPwvqCo1EIjwyFkqWyUgol1mEEDJAhiP+9AyQiTBKxgS+AXaiMIqF+70iAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXElEQVR4XmNgGAUDAhj/o4tgF6MLYPw/obnpP6oDGP83lBSjidEMoFvC+H92by/YcgMFBTDdVVsL50PEaAaQfY7Ay2fP/s/Jzg5mT25ro5djYIDx/6KpU/43lZX+jwsLBVu+cdmy/6YG+v9XzJ1Lb8fAACRkQI6a1d0NDpXSrKz/k1pb/tuYmUFDju6AEeyAlvLy//MmTfw/t78fHGI6mprwUELXQWPA+P/ssaP/z588+f/Yvn3gtJWdmPDfwdp64BwEwqePHP6/b+tWeGKf2t7+vzA9DRptdIs6RniuQsawbA/D5Tk59HAUwjGw3ISMQSoQbLrkOMb/fpzMSCGCHxCjhgLA+N8TyTE0towQYPzvyj7qGGyA8b/DqGOwAsb/NoPJMeajjsEKGP8bsQ4ix4AwcrWAroKOAOIQGB5gB2F3zAA5aNQx+ADCQYPAMTCAaOkNAsdAwKByzGAAAC0qGcSPzcvNAAAAAElFTkSuQmCC",
     "wiki_name": "Anger mace",
     "wiki_url": "https://oldschool.runescape.wiki/w/Anger_mace",
     "equipment": {

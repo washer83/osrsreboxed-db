@@ -1,7 +1,7 @@
 {
     "id": 8287,
     "name": "Giant dwarf",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4XuXV30oCQRTHcX2TfQRfweueoeeINJZSCi+9CqHI/hFGhohE5qV4HV3WXfQiU2fkDMefRzOZPbvQwhcXHHc+zDq7pdLSUXabNL47ds+3Td/TTcONro58w8tDN7hIfY/nB775b7Y6ym7SOwmTaRPxJA9nddfe3/k1BlWSZBvUHHTfqS1dWOvrc29t0UE4wV8zAzUbdf+Zpj+TtlshHGcCIoRW4UAUjjUBUZOXgQ9BH++7C0UH4QRcv3/t02C5gCjGIEiiTEGIwu/MQbwahQDJ21M4ULd7GsJx5iBC8I7jp/XbazUUHSQvLtNAdI6o/wuiGMKY3EASomFMQYjBW2UG4mcNQrTVyRwkXw8SsQpDzaaJLzpIYmgCxJiD+MK0xfk8TKZAcgMhADMBSRTeNixzEK4SArDcQPKtLzMD4X8JITgmUxCu0joQjzMBLayAssNMdtmqEBID9A0QVpyUXl1KegAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4XuXV0UoCQRTGcb30IQLBF5BeQzBjJaXwUq+CICJFQwIlCSEQEcn78AmE7sNrwReaOCNnOX6OWjJ7dsGFPy447vyYdXZTqZ0jbf7S9PXWTLpV2/ilYkbtG9tHq2yGz4Ht/enatvnNSUfazHp34WSuiXiSt8eSqRdzR2NQPps9BbUB9R+udi7sar0qHMw7CCf4b2qgaqVkP4OgYBqNWhiOUwERwlXiQBSOVQFRs8+hDUHLn8utvINwAm4w6NhcsFhAFGMQJFGqIEThd+ogXo1EgOTtSRyo2bwPw3HqIELwjuOn9ffiIsw7SF5c5gLROaLOF0QxhDGxgSTEhVEFIQZvlRqInzUIca1O5CD5epCIfRhq/pWxeQdJDE2AGHUQX5i2OJ9ziIgVhABMBSRReNuwyEG4SgjAYgPJt75MDYT/JYTgmEhBuEqHQDxOBSRRuLvUdtm+EOID9AuJ74kehC/V1gAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

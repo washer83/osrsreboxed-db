@@ -1,7 +1,7 @@
 {
     "id": 1018,
     "name": "Wizard hat",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A silly pointed hat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRElEQVR4Xt3W+0rDMBgF8O05/GeP4POpiBdUFBVFUVDRoeI2ZeoYOq8wmXcRr/g6cafldF8/U9u4TsTAYb2kza9JkzWT+fsla+yxne94yZq99X5Tzvd52VnrNaWVHi9EXFQnTb0yYc73xy0o/RBtw30QUQAxGnO2O2aOtkdCDWMf53TCKCdk1lQ2Br6g8AsIQ1CtNGyqW4NeXfzaQKgv0e/X6+alsfwzFEHYZu8QdFIe9UCsGwXCdW9XefNxV2im6IHQRncu50W3rorf7XxqgtCoDXRQGApA2LaBGgdTIRC2CdKtq5INDQMa4suNfQ3S708U6Lo2kx6IvYRjGoT6ua6uINhHr2nQ7bEEFdxAfC80CE8uQRojURp0fzobAr1errYPwnGAiIoC2VAPZ3PpghAMZVKQRKHuU30hAL3fbAYYZ5BE4eYEJcUQ9FxftIJ06xGlNWOiQHqhiwVdLP0U5K9B6KE4EOrYMBqE+iGQWBR166r4U94GQnjz73pGgwBPFUQUEofoOIgoF4gEybRAxQCTCIQZJkGukKjgPuyhhL2D0gIR9W9BCO7FldofytjigzoxbOwhrEEO61AYJGeb/0Tx090W1OdL7QzCLLOBcAxTGB9amM5JgTj3eD7fPkgPG45LEL8mESyaGshcHU6HQc01yHkdsg2bBGFbg7h44jouiKibCsg2bBKEc/KzRIJQj38xKYBQvna7LRIjo0H4lpYgxgGUyXBZ/y4aKMP/L/ROKqCkRSOTYJlW3V8qGmmLvuZPl08P2rEezYdjvQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xt3WfSsEURQG8N2/5FvsR/BNECFECJGUiDaRt+QtpfUSokhIrJQQEZ/s6pnpmT1z3NmZuzsrOXXaebkz9zf3zj07mczfj6yxp+18zSNrNmdbzHq+2cvVmSazMtXoJREXO33mbLvXnG71WFD6IaqG+yCiAGJqzMlGtzlY7Qx1jH2c0xlGOSGzZnuu9QcKv4AwCdpb6TA7C21eW/zaQGgv0e83s+b1crIyFEHY5ugQdLTW5YHYNgqE696u8+azuGi+isseCH005HJe6t5V+MPOpyYIndpAhaX2AIRtG+iy0B8CYZsg3buKbGga0BFfbuxrkH5/okA3+4PpgThKOKZBaF9fVxck9jFqGnR3OBSAkE4gvhcahCeXII2RKA26Px4Og66mqwfhOEBERYFsqIeTkXRBSExlUpBEoe3T2VgA+ridDzDOIInCzQlKiiHo+XzcCtK9R0RpxUSBdKGLA71cTFQK8msQRigOhDY2jAahvQTJoqh7V+EveRsIyZuXGxkNAjxVEFHIOETNQUS5QCRIJkGo0sQkAmGFSZArJCpxH45QwtFBlEBE/VsQEvdipfanMjZ8UC2mjSOEGuRQh8Igudr8J4pf7rZEe77UziCsMhsIx7CE8aGF5ZwUiHOPp6PVg/S04bgE8WsSiaKpgczr3YEQCDXIuQ7Zpk2CsK1BLJ64jgURbVMB2aZNgnBOfpZIENrxLyYFEOLnsNtSYmRqEL6lJYjpAMpkWNbLpQbK5P8XRicVUNLQyCRYZqntL4VG2lJf86fjG3oO2FNRsgtyAAAAAElFTkSuQmCC",
     "wiki_name": "Wizard hat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wizard_hat",
     "equipment": null,

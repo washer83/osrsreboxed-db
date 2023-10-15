@@ -1,7 +1,7 @@
 {
     "id": 4812,
     "name": "Zogre bones",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-17",
     "duplicate": false,
     "examine": "A pile of Zombie Ogre bones.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqElEQVR4Xu2WW0tbURCFnT/hc6DPBV9EpAiKiIhBCAZERKkVG/BSIqkXVCQSWsQiirW1IqKiYi9IkUL76j8b+eZ0k5Od2JiY5FhwYODksM+eNWutGW1q+n9DNMhHEaJX56t6+DH9WECJXn/N6tGnOQPUEotFDUr08nhJTw/e/mUoUpZEP2/P6Mb6K/2Qm7Dni6PFqICJbr1/rUuZIX050qPp6YSuLY7Yuy87b/TbyXKjgYkBife1aTLRoaNDXZoa79fM7KBml0d1ZyNlvsLweWB+1jz8AqITY706mxow5nKrY7q7OWX+wvg3vzeNOVjkTF1AMVUuKfDr+7oxMzUZN7aQEY8BDJ8BEiZ55nwdprKQIbeTVuaH7TfecmzxDpCwWCfpxOQ43s8YKyQrgGnjnQ8WtvAd8p0dLuje1rS+y47XEpSYHHRPMRjgN4WcHGE5OZeIt+vPyzVrBBn5zp31by8TpSgWk8DlQjppE4ZpfXbC+eNsxRhkEvmmCkBiXXFR4X4pTlhy55CPRYk8YWnZU7ADcDxWIaCgIwqEL+dizMvleAaZKELXFGKKkA+PIBXMOVkxOckz73gOGrp3BFs57BcugW6kokv2CqPOSDNFmJdlydLENyzQvu5W7e5s0Y4Xz3U42Wln+YZvubcCUGId0xEfU4jL/5UwA1uwCKu+tKUyPwBlI5gmGKEr17V/oZ+wipR4Bz+Fi96VfuU7QqxjpEEKv6NS6ZrAV46l/N+1mkQxteU7EpPNLUoGg6XoM1k1yPsDCUfwPxMsMaWw9OcqZ2sEGQHKpFYNqroQA8S6IJGPtQFQfOYmrLJGHxxiTIT3FLuJQWH0IwGEwQHB+nBAWCHsqEgAMXVMKkCexZoLTF25Nx8cYuzAiANTvCoaHpEyUjoiZuQpGhu3Oqb0o7wK+p8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4Xu2WW0tbURCFnQcf2hcRSqVKvZUU0oBW8VYMWjElrQoqWgktooiWWrGKINLihV4UpFAo6A/oL53yzXGTk53YmJjkKDgwcHLYZ8+atdaM1tXd3hAN8kaE6OnhrO6sp24KKNHfP+Z1d+OVAXre3h41KNHve1P6dfv1BUORsiS6ufpSFxcGdTkzZM9Hu5NRARNdeT+sU+ku7e9p09RoXOcme+zd1odx/fllutbAxIDEOh9qIt6svV2PNTnwRNNjz/TtdK+uLSbNVxg+C8zPiodfQHSor0PHkk+Nucxsn35cGjF/Yfy/Z0vGHCxypiqgmCqXFPhzvGDMjLyIGVvIiMcAhs8ACZM8c74KU5nLkNtJM2+67TfecmzxDpCwWCXpxOTY+5w2VkhWANPGOx8sbOE75DvYmdBPK6P6bn6gkqDE5KB7isEAvynk5AjLybl4rEl/fZuzRpCR79xZ//YiUYhiMQlcTqQSNmGY1mcnnCf7M8Ygk8g3ZQAS64qLcvdLfsKSO4d8LErkCUvLnoIdgOOxEgEFHVEgfDkXY14uxzPIRBG6phBThHx4BKlgzsmKyUmeecdz0NCVI9jKYb9wCXQjFV2yVxh1RpopwrwsS5YmvmGBdrY+0NaWRm1+1KDdiRY7yzd8y70lgBLrmI74mEJc/r+EGdiCRVj1pS2U2QEoGsE0wQhdua79C/2EVaTEO/gpXPSy9CtfEmIdIw1S+B0VStcEvnIsZf+uVSTyqS3ekZhsblEyGCxFn8myQV4dSDiC/5lgiSmFpfPTjK0RZAQok1o2qPJCDBDrgkQ+1gZA8ZmbsNIavXaIMRHeU+wmBoXRjwQQBgcE68MBYYWwoyIBxNQxqQC5f68+x9Sle/PaIcYOjDgw+aui5hEpI4UjYkbuorbxD2GGgdc+Dq7HAAAAAElFTkSuQmCC",
     "wiki_name": "Zogre bones",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zogre_bones",
     "equipment": null,

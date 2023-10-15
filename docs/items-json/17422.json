@@ -1,7 +1,7 @@
 {
     "id": 17422,
     "name": "Dragon token",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": true,
     "examine": "It's got a dragon on it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xu2WX0vTYRTHfd6JL6GbrrqKkDEcojiUGYkuTKhuKkqEiEIYURnLSslZmZZLx3AM/yQhpWUxJCy666Ygoot6Dyc+Z5z1bPPC2aYDO3DY79/zPJ9zzvc5zxoa/tvBMielT/bRnDy90yF1BOVkY75fYgOBeoBy8ibdLx+WzsrLmajcH2rZLygWdbI81SPZR92SSZyQ1FiXJO92euXbE7D8QouT3eoA8WtA5oBNDodrDeZ0sfT4cXUgcDJkbnCzoxHN1MTNdhmLtdYCqhim1MkI79GRlZHngI1fb1OgQ42N1YTKA/nZwKfiYS0NjqC5B2Q1eVJWpnv12jJVxSzl+4wBsZCJ14DIwq3BI5J50CzTt5sUgG/JlkFVKUt5UfpAlKEUKBE7KtlESGbiAbkxGJThy0F9DzxjTOj/KHKnkbMgkxEpovWBRq6F5G0qLJuZTnk+EtDmCAzPKaEFwS/jEHhf5PBuoJwOZlIWZjLbPTiQQxeb5HWyTVaftWmntuzErzTrOIKx0pn4CYj7q+ePVQLl5Nu7S/Jl7YJObjuIiVj498cBhVh50iqLD0Oqm7l7QVl+3KJl4z49GtRn6Inx1iI2F85ILnu6kK2KoHA0AoxNiP/MReXH+6h83+gtckq3PtuusIABRKasP+EE5HdyRL5joec/dIUmaH2FXoOztV/N9cla6pSeZ5+WIrK1ECkAoSMCst2GwJnHB9kxTLHloWynAGVNkgWIHLiv6z2Sm+/QUlIOnG8MiCAqzsr25sq2L2IletMX7z+/6NKS8c7cyg10lWDMnGah9FgwMJ6RHa5Nd7bV+Za2YEClM+/SnJbEjgT/hLeT3d9Nts0NrMrZMXPya+tcGZAvej8zuPWpKmfHt/I/Zj6MdXHcQGqUnb9m7QC3rm2dmevt+kzNYHzzwYDw/yHuKUi5OS1fHYD4VmOd7MbqCuZA2B9vNqnxjyKX1AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACz0lEQVR4Xu2W3UvTYRTHff6Hbroo3WTKnLgV6pKkuqkoQYgohBGVMbI3SXuT7MXMRqKR+EJFFFFZGDEQQiK676pugqC7+ktOfM4469nmha7fdGAHDvu9Pc/zOed8n/Ospua/bSxzUvxkHc3JrdPNUkVQThYmOiXVFaoGKCdv7nfKh9k98nQkKed6GtYLikWdzA23ydTVVpm8tF0y/Qm5c6bFK9+agOUWmhlqVQeIXwMyB2yoN1ZpMKeLjQ9sUwcCJ0PmBjd2Pq6ZunyiSfpTjZWAKoQpdjLCe3RkZeQ5YAPHogqUqKsLEioH5GcDH07HtDQ4guYekGejO+TxzXa9tkwFmKVcnzEgFjLxGhBZONm9WSYv1suNU7UKwLdky6ACylJOlD4QZSgGGkxtkYeDERlJh+R4d1h6D4X1PfCMMaH/o8idRs6CTEakiNYH6jsakbeZmCw+aJG7fSFtjsDwnBJaEPwyDoF3xDeVA+V0MJOyMJPZ7sGB7DlQKy9Ho/L8dlQ7tWUnfbhexxGMlc7ET0DcH9m3dTVQTr69OyhfXu/XyW0HMREL//7YpRBPrjfKzJWI6iZzNixz1xq0bNyPXwjrM/TEeGsRi9O7JTu1K5+tVUHhaAQYmxD/mU3Kj/dJ+b7QXuCUbn6sSWEBA4hMWX/CCcjv5Ih8xULPfejyTdD6Cr0GZ2u/uNchrzI79Tz7NBuXpel4HggdEZDtNgTOPD7IimEKLQdlOwUoa5IsQOTAfZ1vk+xEs5aScuB8Y0AEseqsLG+uZPsiVqI3ffH+86OElox35lZuoAOCMXOaheJjwcB4Rna4Nt3ZVudb2oIBFc9cpjktiR0J/glvJ7u/m2ybG1jA2TFz8mtpbwmQL3o/M7j1qYCz41vpHzMfxro4biAVys5fs3aAW9e2zsz1cn2mYjC++WBA+P8Q1xSk1JyWrwpAfKuwTsqxqoLZEPYH3gMZagCdOgMAAAAASUVORK5CYII=",
     "wiki_name": "Dragon token",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_token",
     "equipment": null,

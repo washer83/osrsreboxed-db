@@ -1,7 +1,7 @@
 {
     "id": 27736,
     "name": "Crystal body (inactive)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-08",
     "duplicate": true,
     "examine": "Sturdier than it looks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xu2WUU8aQRDHvS/QF5P2xQdSY0xINIZA1KDJtdQakFihKgELFa0h1mBLibavfvIpv73O3rJHhGttHxommZze7sz+5r+zeywszO3/s0Ain9XSzk9lgZy/O5ej10e/Fpnu66vrkn2Z/VtQgfRbfelU21INq7K1viVLL5Yk83xZVjNZ42vLOcmtbstOrmjG89m8mUPsRibzlFBx1YPOQJrlplR2KmZRBQIGD/OhcaCAUaDY/9gCUzWLsjgq9U56crp/YqBY2AUqbZWMA7uytGKANBZPCZXsg+JGaQzounEtF/ULs3UoxfahiMLsb781DhD9AxA5klC+TzCatv6mbhLTkFRPcp78T3KAUOiq/skAoRSNzjwU46kKKRDwjNFT+s73iVDDj0NpHbRM1ThwLOYCNfYvx1yBmA8Mam2u7Y6pCjy5GANUT586MDT9hMYP5PbDrYGiKp44C00COt47t0CowoJsjwKxjQDdNG+sSsyjQNTCH4FRi6DoE7ZQ7x49NS5Q7VV7BFszC6kCwGjfAaQqaTu4SpJTgXwKzwK5797bBkYFVclV5zBs2p4LC2U7T1VSIPJpHlelGdRxLTALsygqaNWAoAzvdQEWBqC0WbVb424Zufw8KWGwwG4J1WuS1kHPQuF6/FlITx3zAVR1/Fz6PgUMFiWhaj/5Ze2rtKufDRxPtpaTRJ+g6sHusb17NIZ5FMKYqpYaSCVG+jhBIN3DvlVqcPbFOlDmZFbOTBHuJUgM8ynwNxSKJXYTKxDVooQqw0XJfP5myzhJbLEfxxxXuScDQh2+aQBweqgcQN7rvcUp8uNo7KTiM1kMlKwo+uKrOnrieAJGH6FQ8qdHYPpHD0jKD20gw843uXp/NVrkWPa2S2OJuXkBcq8AFlMwvUgXny2OxZHzotY1wIW1QhqVArnr3knvtCeNcsMGamK2ywdSKJzjz+XnK/Tj8rstsrgx8y2NRcEAETweGAHpbe2rxDbr58Qv5OHmIYodFRkWwjRAWPxbJU6aHHvMp8Ulx6eYBkwKcsce82lx/vjc5ja3f2k/AWSOj94jTP6LAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xu2WW28aMRBGs1VaFESLUBAIUJdbQFDKVQSIRNPQkiJCn/P//4nL8Wa8xouAbdM+VIw02mRtz5z5PDZ7cXG2/888FfipFnd+LPPU3ac71fE7L0mOe+Z9RqWT6b8F5anVeKWmrYlq+S2Vz+RV4l1CXb1NqtTVB+3p5LW6TuVVKVvU47l0Ts9h7aBSeU2osOrNdKNGjZFqlBo6qQABg/s5XztQwAhQ6H9snq6apCRHpYf+gxrc9DUUiW2gSr6iHdhUIqWBZC0eEyraB4WMvwP0ffhNzT/P9dahFNuHIgJzU6hpB4j+AYgYUSjX9xhN2612dWAakuoJzpP/CQ4QCt13v2gglKLRmYdiPEUhAQKeMXpK3rm+F4rtGDfHumocOJLZQL3qbMcFiPnAoFYuXdxRFXhiMQaonD5xYGj6PY3vqeVwqaGoiidOon1AnfKtAUIVErI9AsQ2AvQ4ejQqMY8CUQs/ACO2hRotdZ+whXL3yKmxgdofR6qab+tEogAw0ncAiUrSDraSxBQgl8IxjveTaWBUEJVsdZqlvum5UrZm5olKAkQ8iWOrdII6tnk6MUlRQaoGBGV4LwlIDICfa5itsbeMWG6cmDCYZ7aE6k2Q+txA4XL8SSSnjvkAijpuLHkfAwYLglC1G3zWXm6T32s4nmwtJ4k+QdV6sWPuHlnDPAphTFSLDSQSI30YwFOT5sIo9XS7Ng4Up3JQH+oi7EuQNcynwN9QKJTYDixAVIsSogwXJfP5my3jJLHF7jrm2Mq9GhDqcIkCwOmhcn1Jbt/LvcUpctfR2FHFT7IQKFpR8Isv6siJ4wkYfYRC0U8PT/ePHJCYP7R8+/wILsVyR5Xz/k5gbl6A7CuAZAbs5SK9fHO5s46Y03ZwLWTT2TgqeWo9Wevt6NV6ZmEYeBUBEiic48/l5yr0c7YxRRYyhXhALA76I/hkDRcGQHJbuyqxzfJz4hby/PVZLQYLXWQpW4oDhIXfKmHQ6NghP7YuOn7EZMG+RfbYIT+2zh0/29nO9i/tFxEI71iO9S6hAAAAAElFTkSuQmCC",
     "wiki_name": "Crystal body (Trahaearn) (Inactive)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_body_(Trahaearn)#Inactive",
     "equipment": null,

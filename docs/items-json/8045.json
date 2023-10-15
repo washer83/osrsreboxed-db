@@ -1,7 +1,7 @@
 {
     "id": 8045,
     "name": "Shaving stand",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABq0lEQVR4Xu2WQUsCQRTHd76Bp73sZcBD4CmCDh08hHRYEFEIpaAoRZIiKIg8hCAWUZEhQUUSIR3qGERhERFBH6AoKpVKKw36Ev+YWRbbpdpL7kDsDx7DMLvMj/dmhidJ/wuC5qiHMAiScS+XuK28olxtoFr/EClFcLI1jPEBirvHNy51U35B0CeLkiLYSAcxFFJQem7g/qmO61INYVXhQu2U2i1FkBrtRr9fQaX2zrN09VC1U+jrwdUim1S50PlOHGeFGA+bhAg6PC5DnG5HecnMkrpMi4UYBG1uNy6Oi3xTJrQ64xclwyDwdkoYibgMJWNjOi4jNyljN6OVSwtbaGaBjaxkhysUxRzF/qLChdanZSyM2Xj1myXRHsbLPOVxsExRSCmYS8iIBrQs2lQ6HYKjzUF+y9hbFAtT/iiqXhm+LkFC7FDvZSMozPcinwnx+dKUitmJHjFCP117XcZ2obVUwLC5Ocx/tBijkHlVAI6QFY6QFY6QFY6QFY7QbxDezDMh1l+zufkLGyG890n0Ud4LedyS6CxpQqwpY0K6jEAhhtC+53t0kb+W+QRgNWsLZI3g1QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqklEQVR4Xu2W70dDURjH7zHXdSd7U8RozWWbadak2kYrUaS9yZiVVFpGpDSSpTf1uhdR+kGiF9G/kCT6ZZNqVlrpRf/KN+dc17pXdd+0e8j98DiOc6/z8TznHI8g/C8IaqMW3CBIxt1M4qL0jGL5DY/VD55SBPtL3ejvkHF598KkzotPCHhEXlIEC+kAuoISbh5ecXVfxdltBSFFYkIRr9dqKYJUbwsiPgmlyjvL0ul12UqhrwdXjWxSYUJHq3EcrsRYWCRE0Ohy6OJgOcpKZpTUZOosRCFocDpxvLfLNqVCsyM+XjIUAneTgJ6wQ1cyOqbjInKDItYyarnUsIRaFuhIS7Y1I2MnJ2NjUmJC88MiJvosvPq1kqgP40leZrE5LaOQkjCWEBH1q1m0qHQaBNuLneyW0bcoFpLZo6i4RXiaOQnRQ72eDaMw3oZ8JsjmU0MKRgda+Qj9dO01GcuF5lJ+3ebGMP5RZ/RCxlUO2EJm2EJm2EJm2EJm2EK/QVgzT4Vof03nxi8shLDeJ9Eus17I5RR4Z0kVok0ZFdJkOApRuPY936OJ/LXMJ0tNRaJVS6TpAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

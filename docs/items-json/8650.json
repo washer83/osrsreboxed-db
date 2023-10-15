@@ -1,7 +1,7 @@
 {
     "id": 8650,
     "name": "Banner",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A banner with the symbol of Arrav.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA9ElEQVR4Xu3XMQrCMBQG4PYcLjmClxAHRRALoqAURQqiIBRcHL1G79XFuzx5qVF5TUlq0jRqf/iHJiH50i1B8N0JQa9OEkKyHJW6nQ9542jwbEMoemvTGiWEHsus1hDVDKjP2KeoDqRKB9KJPZTAeAeiJ9SMHuiW57x0vBWQwHgBese0DqIYRyBMNUoGo/OWQfUwXoHoHK1TkM64E5A4nI7JagGkxmC9A+m2A6n6ayC7GOz/gXBNVenaRkD0UNxclM7JcIYgTDXgBSnWXdM1XA4LOCcRHOMJf+fjm3+/GvPv02YK6W722MsgcoAs5T8jq3qfInfST3AtERT+GQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA8ElEQVR4Xu3X0QrCIBQG4O0qeooWUVCDGtGoYERBMOiqyx6kF6y7nurEcVlxpujSOav98F9MRT93ZxB8d0LQq5OEkCWDUlfTPmsa956tCUVvbVqjhNDpnq3WEFUPKImiT1EtSJUWpBN7KI7xDkRPqBg90O16YaXjjYA4xgvQO6ZxEMU4AmHkKBGMzlsGVcN4BaJztE5BOuNOQPxwOiaqBZAag/UOpNsWpOqvgexisP8HwjWy0rW1gOihuDkvnRPhDEEYOeAFKdad8gUctzM4ZDHs0hF75+ObfzMfsu/9cgz5evLYyyBigCjlPyOqep8idw5U0EF3ZvJVAAAAAElFTkSuQmCC",
     "wiki_name": "Banner (Arrav)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Arrav)",
     "equipment": {

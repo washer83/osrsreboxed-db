@@ -1,7 +1,7 @@
 {
     "id": 8841,
     "name": "Void knight mace",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-06-06",
     "duplicate": false,
     "examine": "A mace used by the order of the Void Knights.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5UlEQVR4Xu2W3UsCQRTFnTdhWdgIw/JFfCqKkKSPpQzNQsUSRUkskkwqSZPUvkyLIPq7b3vvNLaM9NaM+9CBwVlcdn6cc+fO+Hz/mqoY8OGei2et4gs/3nXg/rZN870ZAzZMP0T8Pp1QHOSl3yeYXqsFhYBJvwgUc4ACPg4UDYdVQzF4e3oaw1SCJhTnTOg0m1DK52HH8hOQgFEMxGFw4Lw2b0HZgbmu16FaLkPCcaeRtPW6M3p4oGhwXg1akIzHITdrwL4D08ukwI4s6HPnYzikqEQNoStYOxkHaNcyYNXgUWlzB4FEXO2rKzguFuHIAUJ3tpy6WTJ4VBenp99gysRhMC4s5JtGgwoYiznruFNaDLu2OYPzk6pql37iwvrBqHB3tWLLkFkIwIorKuxHZ5WKeqD3wQAuazUo5HK02EEiAeFQaLzr8P/P1xHFKGCUA+FiWDvYc9CJ526XnuWh2B0UoxjQIew5WEMCSsTjHordQTGCkBeWAdxD/sIfiS+IdbMWjf66uEIAtxjFcphOU/FqiuI38YiyqdRELPKbGsSoeAWM5lhk8baPPWbKrqD41vYMDB4HeJXwBAx24G3b/oeRxOgKsbm+7g0Y7L6egpGPAvktTWJ0wfLI1haa+lEwKU/BeEVfvCObzTz3Yn0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2klEQVR4Xu2W204CMRCG6bKyoCbEgCIQkYOCHOQURAhHRUTEIGhMjO//HmNnamFTwp1d9oI/aeiGzc6X+Wem9Xj22qkYiGXfy2dHJQK/Po3g5WFI+9KBAUkvgyDzOAklQN4nE4J5Hgyga3npF4ESHMjyCKBqMqkbisHnbLaCGfu90Ocwo14PCtks5ExGQBJGM5CAwYX7ecCERw7TbTahUixCgWenfZVxNjvL6ZSswf3Eb8JFLAZNnwFlDjO5ycL50aFz2fleLMgqWUOYFaydOgfKmwZEjXWHaYZBCSBp17DTgVI+Dy0OhNlJ87o5NYRV97XaH5g2CRi0Cwu532pRAWMxN3h2bo8DtjZncFet6M7S2i6sH7QKu2sUCkLWZ0LEZhXOo3q5rB/oaz6HdqMBuUyGgl3G4xCwrFXX4f8/H0uyUcJoB8JgWDs4czATb+MxPatLc3ZQjGzADOHMwRqSUNIe+9KcHRQjCDWwCmBf6hf+SSIg1k3o5GRrcI0AdjGy5TqVouJ1yIptEhalE4kNW9Q3HRCj4pUwDtuiSox9nDE7zgpKtLZrYPA4wKuEK2BwAkcjkT2MIkZXiLNw2B0wOH1dBaMeBepbDonRBcslrS2186NgU66CcYt+ASFCZ8UkHZ73AAAAAElFTkSuQmCC",
     "wiki_name": "Void knight mace (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Void_knight_mace#Normal",
     "equipment": {

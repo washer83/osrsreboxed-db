@@ -1,7 +1,7 @@
 {
     "id": 8025,
     "name": "Combat ring",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqUlEQVR4Xu1WwWrCQBDd/YPcvQQ8CELBi3jKoZQeiqVUGiqpKEZRS/HSQw/e+ufTTraTbCa7yURKqZAHD3Gz783bdUZV6vKgga804xyNCBqO+z20K3CORgwNb9ttZj4KQ2GBczRO4Imq3K1WLc0LjZ+N+L7mNID3neHHq+HpGMDzbAaDft9h6idpxiMF0UTBbaTg/kbB052hIJTONiYPASzjADZJAIdlkIVE86vhMDenAnYRriPNcKBy2uGwXsON61xgF8ECeP2T8bhkzkk6iQbrtApknxxPTdfPjXkR1Ek1gkCIai8gkziGsNerrCNpmjjrNPSVIAikFG6yicLlfJ4bSJ751unZ+iWRBsITcGjYLBYeA3MT9umJpHHxcTr1+JWgvaN9SNPKGvE6iip9h0SNPXn21GKziwLZY4pFyJwmjohFqBD2CW9YanIe1NaKAtWNqc9cEsilEwVyjSn/iDh9k1THz9Mpe20M5DLnU8InBnuoaR/XUK+a97VwG/NdBcxvltD8B+IpMxBtKqE4BH/ixq/9NfGjvXHbQ/wB/lWYDh06dOhw6fgCY7YsZ40YUPgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpElEQVR4Xu1WwWrCQBDdJQepiKUQPATaSqUtNsWo2Khoi5ceevHW//+UaSfbSdbJbjIJpVTIg4e42ffm7TqjKnV+0MBX6tFGI4KGw24HzQq00Yih4W2zyczn47GwQBuNE3iiMrerVUPzQuNnLb6vOQ3gfWv48Wp4PATwPJ3CoN93mPpJmvBKQTRScBspuL9R8HRnKAils43JQwDLOIB1EsB+GWQh0fxyOMzNqYBdhOtIMxyonHY4rFdz4zoX2EWwAF7/KAxPzDlJJ9FgnUaB7JPjqen6uTEvgjqpRhAIUe4FZBLHcNHrldaRNE2cVRr6ShAEUgo32UThcjbLDSTPfOv07GWeSAPhCTg0rBcLj4G5Cfv0RNK4+DiZePxOoL2jvU/T0hrxOopKfYdEjT159tRis4sC2WOKRcicJo6IRagQ9glvWGpyHtTWigJVjanPXBLIpRMFco0p/4g4fZNUxc/jMXutDeQy51PCJwZ7qG4f11CvmveVcBvzXQXMb5bQ/AfiKTMQbTpBcQj+xI1f+2viR3Pjpof4A/yrMB06dOjQ4dzxBda867EEvXc0AAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

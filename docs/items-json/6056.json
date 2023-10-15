@@ -1,7 +1,7 @@
 {
     "id": 6056,
     "name": "Weeds",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": true,
     "examine": "A handful of weeds.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xs3Wy2sTURTH8eQ/yJ/QnSAUin+JCxFcZBFF6kIXXbhRER+oKCqKoqCipYpplVpLqfXRQkptfSFWLf4713xv+pucOd7EPEbphcPMZG56Pj3nzp2USjt/lEM6Uvf/+SiHuanTYXbyVIznj06GmQcnYgixunA1NOavhJWXlxMo/08MDW+BhAKk8JjlF5fC62cXcom55p6PPKovZDnMPz7zB4ojEIVASzPnw8LTs3EuxxSI+Ra9tTEVvq/dHwwlEOeqjkBvZy9GkOZ2AvG9n+uT4denejOmI4gcYyMjMXx2N1pl138tEElToMX6uQzEeQq0tngtB+JcIJ/djXKuDSTS4uZaIOaRiOQg1N5OoI2lG8WBVCXuAeJYPVrJ1gPzdA6Iqgms+PjGgur9gbQuLIjPa8dGs8TEvoOVUJtowQ4c3h2vdU9zBfr87mYO9OP9w+FBhybGsmRKqKMFeQzxZflWsaBUlQRTVI+MRjQw4cCw5r417mSgrQ9PMkzfIKFiFcYrce2QXNWyMO4rLB7QZuNuEuSzdxjtBerbJpgQVIJ26RqoraIqtLl6b1BQaw+iQh7EH9dTZisDgnbZSu2tthc438mBzKbos7vReuRTIAKQhxDjx/eE/bVd2eeqEDCtpcJAQhECaZ1YQKxMs3VqmW1bYRWyVeIIiFeArVJc6NvtUuuomJ2Tr9B0hukJxBOWAul1oET67+PmuH3tK6Y5OleFeqwOow3y60ivA4/h6LcAtY5rPQS2ZUOBhOJz+5vGviYIFr19p9E6gdilLUgonz0xWqBU2wRiDflH34JSrf26cjsDsQf1sQ/lQbZtFsSRz5mv1niQULo/MIin7G8gkuk3kDACMU+7syo5VIUE8m3jcwsiuV66wgikuYDWX13Pg5p7UN/7UKptFsR5N5AqxNxCQKm2WRD37M8SC2Ke3nkFgBjtR7lbWIwND+K3tAUp+gCVStrWu4UH2rDrpxBQr8Mje8Eq2nP/0/DIVPjv7OjxGwv7BZUyH5r5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xs3WTWsUQRDG8V32KgbxC+TmQUHZw6oQQQ85eFJRVFQUFRVFBFGUEBRfQvCNQIgvqCQQCTEEjQiioij6yVr/PXlma8rOurM7ShqKmdnpTf1S1dOztdrqH/WQjtT9fz7q4eHo/nB/ZF+M8et7w9jVPTGEmJs8GWYnToSZR8cTKP9P9A3PQEIBUnjM9INj4dn4kUJirrnno4gqhayHiRsH/kBxBKIQ6MnY4TB562CcyzEFYr5Ff1scDV/mr/SGEohzVUegF/eORpDmrgTie18XRsKPpdvh59LdCCLHlsHBGD67G1nZ9V8LRNIUaOrOoRzEeQo0P3WqAOJcIJ/djXqhDSTS4uZaIOaRiOQg1N6VQItPz1QHUpW4B4hjc2cjXw/M0zkgqiaw4u3zszmIKAXSurAgPm/tGsgTExu3NkJrOINt3r42Xuue5gr07uW5Iuj1tf5B24bX5cmUUEcL8hji/fT5akGpKgmmaO4YiGhgwoFhzX2cvZiDvr+5mWNKg4SKVRhqxLVDclXLwrivsHhAn15dSoJ89hVGe4H6tgkmBJWgXboGaquoCn2eu9wrKNuDqJAH8cf1lNnKgKBdtlIbmu0FzncsyG6KPrsb2SOfAhGAPIQY2r0+bGqtyT9XhYBpLVUGEooQSOvEAmJlfrdOLbNtq6xCtkocAfEKsFWKC325XWodFbNzbIXYpYXpCsQTlgLpdaBE+u/j5rh87SumOTpXhbqsDqMN8utIrwOP4ei3ALWOaz0EtmV9gYTic/ubxr4mCBa9fafROoHYpS1IKJ89MTJQqm0CsYb8o29BqdZ+mLmQg9iDSuxDRZBtmwVx5HPmqzUeJJTu9wziKfsbiGT6DSSMQMzT7qxK9lUhgXzb+NyCSK6XrjACaS6ghcenCyD2oNL7UKptFsR5J5AqxNxKQKm2WRD37M8SC2Ke3nkVgBjtR7lTWIwND+K3tAUpSoBqNW3rncIDbdj1Uwmo2+GR3WAV7bn/aXhkKvx3VvX4BSZcG5/8w7wOAAAAAElFTkSuQmCC",
     "wiki_name": "Weeds",
     "wiki_url": "https://oldschool.runescape.wiki/w/Weeds",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 22104,
     "name": "Dragon metal lump",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "A badly damaged lump of dragon metal.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8klEQVR4Xs3WS08TURjG8fYbdNVNN01YmJiY8F1cuXDjxo0bFy68Bu+XoMFgMEGjBIxQFZEQxAskJQjeYrwRv86x/5k+03deTktLq+EkTzoz55T31zNnDlMo7P9WDPHE+v95K4aF6QthfupckuePz4bawzNJhFhfGg31xVth7dXNCMr/iL7hKUgoQIrHrL68Ht48u5orzDl9PnlUT8hiWJwZ2YHiE4gi0Ertclh6ejEZy2cMxHiL3t6aDj83HuwNJRDHmh2B3s1fS0Aa2w7E935vToU/n2cbmUtA1BiuVpP46q6l065fLRBFY6Dl2UsZiOMYaGP5dg7EsUC+umvF3G2gkBY35x5EcRC6ve1AWytjgwNplrgWA2kmBWLWPOjTWwua7Q2kdeFBFPcgu6A7gb68v5sD/frwqH8Q1wEJpZlkjH2CbAT6ujo+WBABYEGMU+Ej5VI4XimFU9VSOFZJwzl9jP1en8hA2x+fZJieQRbFLxVIkKNNyIkm5ny1nBwTC/pRvx8F+eptWlqM9eBB6jtcLiSzAojZEObKUDmcbJwTUBlofXKvoHQPYoY8iD7NBgVBnG5CRoZSzOiBcnKdCMb3ciCzKfrqrqWPfAxEHzMhDBAhbjQhZKwZwQYOIlzXotVaiYGAjJsIRj9/o2+QUFozzJAtPNHI5MFKmDlUCbVGXgxXwkIjQhDAwFuguQzTFYgnrB2IBexnxwM5p4+wthhL7Ax1OTu0FsivI/rIbreMcwFs7BrqCySUNkEt7NgTBoxzxrFF8LizZ7FLW5BQvnqkpaDYbeMaBfwvj0X/LhjPa8e3tXsZiD2oh30oD7K3TSAK8Ml1/UthWyD+5YzZ6RvEU7YbiGL2HciCGGdv18BA/rZx3YLsK4cwAmksoM3Xd/Kgxh7U8z4Uu20WxHEnkF0/AwHFbpsF0WdfSyyIcXb99Ami7XxqYvHrR/Eg3qUtSOkBVChoW+8UD7Sx62cgoG6bR3aDVVpj/1PzyFj8d/Z1+wuoayOYpaylTQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xs3WS2sTURjG8YQQQosofoOu3Shu3Lhw48KN9/uVKlUqKhRFKVVRG+qlUij1gkoLlVJL0YogKoqin+yY/0ye9J23J2nSjNIDD5mZc9L3lzNnTqdQWP+tGOKJ9f/zVgzjI4fC4+EDScZu7Q/VG/uSCDE32R9mJ86FmadnIyj/I7qGpyChACkeM/3kdHg5djJTmHP6fLKojpDFMHHn8AoUn0AUgZ5Xj4fJe0eTsXzGQIy36J+LI+H7/PW1oQTiWLMj0OtHpxKQxjYD8b0fC8Ph99L98GdpNAFRY1tfXxJf3bV02vWrBaJoDDT14FgDxHEMND91PgPiWCBf3bVi5jZQSIubcw+iOAjd3magxRcD+YE0S1yLgTSTAjFrHvTh1cUGiHQE0rrwIIp7kF3QrUAf31zKgt7d7B7EdUBCaSYZY58gG4E+TQ/mCyIALIhxKry1XAo7K6Wwp6cUdlTScE4fY7/MXmmAfr2/28B0DLIofqlAgmyvQ3bVMQd7yskxsaCvb69FQb56k5YWYz14kPq2lAvJrABiNoQ50VsOu2vnBJRA3+aG1gpK9yBmyIPo02xQEMTeOuRIb4rp31BOrhPB+J4F2U3RV3ctfeRjIPqYCWGACHGmDiED9QiWO4hwXYtWayUGAjJoIhj9/I2uQUJpzTBDtvDVWoY2VsLtTZVQreXh5koYr0UIAhi4QOzSwrQF4glrBmIB+9nxQM7pI6wtxhI7Q23ODm0Z5NcRfWS1W8a5ADZ2DXUFEkqboBZ27AkDxjnj2CJ43Nmz2KUtSChfPdJSUOy2cY0C/pfHon8XjOe14/PM5QaIPaiDfSgLsrdNIArwyXX9S2FbIP7ljNnpGsRTthqIYvYdyIIYZ29XbiB/27huQfaVQxiBNBbQwrMLGRB7UMf7UOy2WRDHrUB2/eQCit02C6LPvpZYEOPs+ukSRFv51MTi14/iQbxLW5DSAahQ0LbeKh5oY9dPLqB2m0e2g1WWx/6n5pGx+O+s6/YXNJ42cSfgb9QAAAAASUVORK5CYII=",
     "wiki_name": "Dragon metal lump",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_metal_lump",
     "equipment": null,

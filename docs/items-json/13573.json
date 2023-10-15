@@ -1,7 +1,7 @@
 {
     "id": 13573,
     "name": "Dynamite",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": false,
     "examine": "A pot of dynamite for blast mining, with a fuse ready to light.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoUlEQVR4Xu2Wb0tUURDG93wToReCr0JYQmRBWZYQJXwhRAmSRQkhEqalbcUqJRWBUQRGCZKgUQRqiCxGfxARUaJvNPXMYXZnZ+/d3bv33lc18HC57DlnfueZOeduJvM//q1wFK7UwyZ0NF7opM21Cdr+NEXv312n0f7OiuxYu1rMcDQ70s2au9hNi2Pn6PVkH8PsbU/T/u4slb/cptWVq7Q6naeVqT56eTNHz2/00uPxHiqNZpOEclS8nGUQJECit7f6aeCvCyODXXT47R4d/Sjy83v5Lr15dYWBRC8mcvT0Wg8Dne3oSALK8S7hDiCGC10Mgifefx2V6PfxAuvk4CEdfJ2n5WeXGB4g2ACUKBAWFxgRynT88z5DnB6WGAzlQxnRT4CCs9gM5qPECZTN946UByVAudAnazN5Wr9ToI2586wP814fiwP8jt8wBmMxR4BiuuS4IQGDBTVMEIgI7xoK87CZRICkV7CgdsaCfH5QlYbSLsUEcpW+0aUSGAuyVRqsSKDCXLKZWogqDKRhkCQMRMuWLqZLte7ovkEinXhnYahO2iVAaZdwu7fhku8dKZXAYHEkksS7i8HSUNYl3PIRXaq6IzDSN1IiCxAkQIW5FBkIxxxP28QCs/foQlNhnHWpDSBfqnzvGZ5k+wa7RrLy0nBTWZfaAHKUy2a4XL7p6oGQBMn2nzQXwGMDwZ3q4GAgmzhMMYE8DBxKA6iNpvYnSwamBRTxctQw/h0LJAUk7kT66tcOcryAHPuoQHLstTvy17ZloNpwlc+GdsneN2HCWMzRMFizvhKRwi+goex3K0xysjBXlykGjA9pcAFDIvnSNxKckQaO6UpwaDD0RSOhgfU/xMRhdAgYHAgSXEzNlcbhkwYpdVfCQie2smNbjT+pnT93Y0dilwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoklEQVR4Xu2X0UsUURTG976K+OKiuOKuKeWDYAplRRKCYVmiW21KRUVgUPRghD5IPhSBEIQRUiQYFYQIgkQQ/XmnvnM5O2fPzuzu7Mw85YGPYdh77/nd75w7M5vLHcf/FY6ilXnYhI4mS530emOKtrdm6OXaBZoY6KzKjrWrJQxHc6PdrPmxblo+00PPpvsZ5tP2LO3tzNHuhyu0vnqO1meLtDrTT08uFejRxT66O9lLlYl8mlCOyuN5BkECJHpxeYCG/rkwOtxFB18X6fB7ma/fPl+n50/PMpDo8VSBHpzvZaDxwcE0oBzvEu4AYqTUxSC44v734W36c7TE+rl/i/a/LNDKw9MMDxBsAEoVCIsLjAhlOvpxgyF+HVQYDOVDGdFPgIKz2Azmo8QplM33jpQHJUC50CcbV4u0ea1Er+ZPsN4seG2Vh/gev2EMxmKOACV0yXFDAgYLapgwEBHuNRTmYTOpAEmvYEHtjAV5ezOQhtIuJQRy1b7RpRIYC/KuMlyVQEW5ZDO1EAEMpGGQJApEy5YuoUu17ui+QSKd+P3SyTpplwClXcLTvQ2XfO9IqQQGiyORJN5ZDpeGsi7hKR/TpcAdgZG+kRJZgDABKsql2EA45rjaJhaYj3dONRXGWZfaAPKlKvZ18CTbN9g1ku3eG2kq61IbQI4K+RyXyzddPRCSINne/eYCeGIguBMMDgeyiaOUEMjDwKEsgNpoan+yZGBWQDEfjhrG32OBtIDEnVhv/dpBjheQYx8XSI69dkc+bVsGqg1XfW1ol+zzJkoYizkaBmvWVyJW+AU0lH1vRUlOFubqMiWA8SENLmBIJG/6RoIz0sAJXQkPDYa+aCQ0sP5CTB1Gh4DBgTDBxcxcaRz2n2mgzF2JCp3Yyo5tNf4C2K5c14LpjawAAAAASUVORK5CYII=",
     "wiki_name": "Dynamite",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dynamite",
     "equipment": null,

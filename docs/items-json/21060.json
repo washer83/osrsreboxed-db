@@ -1,7 +1,7 @@
 {
     "id": 21060,
     "name": "Bandos godsword",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-01-26",
     "duplicate": false,
     "examine": "A brutally heavy sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDUlEQVR4Xs2VQUsCQRTHnW/SR5BuER7CgwQRSBJ4CwQPIkGQ2SHCkxgVhphaIpaWokhWlkESdQg61qmv8+rNNDM7u6lhO7v+YVjdwf3/9v/ePD0ex0RALtdFoNN5gHr9Ck5PL9yGItBo3AiYarVFgbwzMzqhhpWDQLN5SyEKhSoFOjws6AYi0Os9iSWhCLRad3B21qYwxeK5gEYYjUAoZtTvvwjTdvsearUOhcnlygqIZhguAoPBKzXGBuYw2WzJqVTMIvD8/AbvH58CZv/g2C0YLgKVSpPCZDJHbsKwvsFk8ERhI5dO6vTK9hyVTAVXKrUnGltzQsZZY3xrBoTJ/HaabIaRMyWZ3FUWB7u4vIZyuUHnDIJxIPUZtpSNwPr6ljDmEEYY7JF8vgLpdFbcU1ORQ9M2KPZwFYTfQyBMxwhiTofDWPcmliwXB8LV7T7SkzTebNz+RGIQOFsQDP8w8YiryQ2XzTBcBCKxCEQiMSUZDqvJdJgYTHA1CL4FH212Ywn/kpKNIhCNRymMd9ZLjTc2tiGR2LGMAQdSksnMzc9ZyoRgxpJpBmJGCONf9FtMzf2jEUaeKExgeXllhCmBeHzzB8x2yUT4CofXIBBYEkDmXzANg/2XCITCIVEC8/dxhqP2/iEJwmE4iCbDcVJTkZ9dkxXIRSgJYO4lF0pmbWhj7zgMwzUVEKqmAuJbX3ZmIcjqEsvzAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACD0lEQVR4Xs2VzUsCQRjGmz9BOkhBokGBGdglEAQRIujrEuEpjBIJMbNCRMo+REQhI/qwS0JIly6d69p/9tY708zs7LYatbPrA8PqDu7z2+d953VkxDURkMtzEWi1HuDs7BKOjs69hiJQq10LmEqlQYHmgkGdUHblIFCv31CIQqFCgTKZfd1ABG5vn8SSUAQajTs4Pm5SmGLxREAjjEYgFDPqdJ6FabN5D9Vqi8LkciUFRDMMF4Fu94UaYwNzmGz2wK1UzCLQ673C2/uHgNne2fMKhotAuVynMOn0rpcwrG8wGTxR2MgHh6f0yvZclUwFVyq1JRpbc0LGWWN8awaEyfx0mhyGkTNldXVDWRzs/OIKSqUanTMIxoHUZzhSNgILCyvCmEMYYbBH8vkybG5mxT01FTk0HYNiD1dB+D0EwnSMIOZ0OIx178+S5eJAuNrtR3qSBpsN2v+TGATOFgTDP0w84mpy9nIYhotALBGDWCyhJMNhNZnaicGEZ8MwPjFOm91Ywt+k5KAIxJNxCuMb9VHjxcU1WF5et4wBF1KSyfjH/JYyIZixZJqBmBHCBCYDFlNz/2iEkScKE5ienuljSiCZXPoGc1wyEb6i0XkIhaYEkPkXTHaw/xKBSDQiSmD+Psiw394/JEE4DAfRZDhIairys2eyAnkIJQHMveRByawNbewdl2G4hgJC1VBAfOkThdDoOPwBJmQAAAAASUVORK5CYII=",
     "wiki_name": "Bandos godsword (Misthalin Mystery) (Quest)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_godsword_(Misthalin_Mystery)#Quest",
     "equipment": null,

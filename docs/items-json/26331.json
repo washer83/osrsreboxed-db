@@ -1,7 +1,7 @@
 {
     "id": 26331,
     "name": "Normal snowball",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-12-16",
     "duplicate": true,
     "examine": "A normal snowball.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcklEQVR4Xu2W3UuTYRjGff4DjzrxxD+hf0DIg4ggIjGECDooiEgSMhMLiYjISsaG1frYgZYy2dC0mRZ+1EzdcI7Z3Nqcc2sf7MNtzm12fsV9r2eMPuhkmx68F9zsPXjh/XFd1/08q6tTpEjRoZVAcQ6FBEYMk+hXP/sFdaBwAstWOxYWLZiZNWNw2IAHj9S40t5xEFACrm8+2NddsKw6MG9egWlmnt16rnuNh/2aWkIJhMJRbAdD8Gz6GWrJsoa5T8uYmJrFG/0YVBotbnTfrgWUQCyeLA1BkVM2uxOLKzaG0hvfYUCrw63euzh/4WI1oQR2Uhme5E4a0VgCge9heH3bcLq8sNqK0Rknpjm2O/f6cOnyVTQ1NVcDSiCbzSGzu4d0JstQBEQOEZB0iQpOsemG9Ljfp0L7tU4caz7OQEcbGysFJbCXyyOXL/AvgZFDkWgcwVAEPn+Qu7Tm2MDnL1Yu99CIEY9VT9DR2Y0TJ09VHohg8oV9HgIih6hD4UiMXdrcCnC5zUurmPqwwNumHniB6109OH2mtXpAhf0f7BLFlkimODZyyR8IYd3p4W2jM8kw/h6ap69ws6cXZ9vOob7+SCV7JLg7BERg9EyRSYeo2BSb46ubN40cKt+0lta2kkMVdYncobhS6d2SO/I8kpHJDg2PvoX25SB3qKGBICoaGUkwCLlD/YknkqVSU1y0abRltPbjpo+la4TiqoI7UkWocnckzIbby/ca9Wd0zMTnEPWnijBS4q8w1B/asMnpOV552rAawEgJ7ozbs8UnNHWH4iJ3qDt0j9UQRqr8v8+fU2OYouRH/zW/v69IkSJF/9FP3NS8jyEDJ3sAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xu2W7UtTYRjGfZCQ/gVDsqAiEyoICqIkJCuRQiIispIxhpW9+kF7kyFjYlZmSoGilZXKGA4Zk2xmLrNlNl+WbIwtc2XTJv0NV9z3eg6jF/pydvTDueBm58OB8+O6rvt5lpamS5euZSuBxCwLCVRbbqHUePYX1JLCCXTZnWh/YkNzSwcqr1tw/KQRu/LylwJKYODVGzj7BmDrcaHtcTcamtvYrfOXr+JEqUlLKIHxqWmMfpjA0LCXoTptvWh92IX6xhZcM9fCYDqHfYWHtIASCATDyhAUOeVw9uNpt4OhzNY7KCuvwMHiI9i6bXsqoQQiM1GecOQzPgZCGPNNwTMyin63B3ZHIjprfRPHdvhoCXbs3I3MzKxUQAnMfZtH9GsMs9E5hiIgcoiApEtUcIqtosqMYyUG5O0pwKqs1Qy0JTtbLSiBWGwB8wtx/iUwcsg/HYRvwo+Rdz7uUq/LjUfP7FzuK9VWnDKcRn5BIdasXac+EMF8jy/yEBA5RB2a9AfYpWHvGJe7o7MHjffbeduMZRewd38R1m/ISR1QfPEHu0SxhcKfODZyyft+HH0vhnjb6Eyy1N2D6cwlHCgqxqbczUhPX6FmjwR3h4AIjJ4pMukQFZticz0f5E0jh5I3bWNOruKQqi6ROxTXzOwXxR15HsnIZIdu1NxE+cVK7lBGxkq1IyMJBiF3qD/BUEQpNcVFm0ZbRmtf1/BAuUYorhS4I5WASnZHwrhfvuZ7jfpTU3uXzyHqTwphpMRfYag/tGG3m1p55WnDNICREtyZQc9bPqGpOxQXuUPdoXtMQxip5P8+f47GMAnJj/5rfn9fly5duv6jn9Bqg/wKNHLGAAAAAElFTkSuQmCC",
     "wiki_name": "Normal snowball",
     "wiki_url": "https://oldschool.runescape.wiki/w/Normal_snowball",
     "equipment": null,

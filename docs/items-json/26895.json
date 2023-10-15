@@ -1,7 +1,7 @@
 {
     "id": 26895,
     "name": "Portal talisman (body)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A talisman bound to the Body Altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTUlEQVR4XtWXzU7CQBDH6XN4IfHmyYchIZiYeOKiJxMOBExMVGJQBBEBQQQ/In4dlMSTvoEPtea/ZLrT2QJdsEYn+SdttzPzYzqzLYnE/zRPuSs289T25qazYoTy1NvwXnXr9cgioNVkMg4oT40ehlbSafoVIFSJa69Q8CXXYgaCBRsWgBzI9IwRYGIESiRMAhtoK5sNQPwQzLSxDa4BYjef93tmPZ3Wiupvr1tmj7Zx8nRyCCAHO0UfZHnlyz/OpFIaamMto8X9ZewI20JwtHlP3HU7Wjx5GBCdQ4CDL3/EfFIjNP0YqNdoaEkgSiQBwmBIpkoGqF2rBio0E+i61dLiQLcXbSshQSSXlkKB6PFJoPPjI3cgAMChmMtp4ZwqxysCGBJd65zWdBWaJxUfChM4N1C/2VT3l13fCUCAxHUOxUHomMMgMQFRLABhzRnosd9Xw6ueBkP/oEIEBcnK8HOCOSuXtWqHh6paKqnK/r7WXEAAAZCE4mColATiMBIEwrlzUyMZEtMzh8IqJYHoUUkY7Fs81lxANGXvz09aYTB8wnj/8ArRa+VpMFgMCCIHiGDk2PM+kmMPKAJCDAICuBNQ2Mb48fpqwcwCgghmISAKLoEAyWEmScLIV4czUPgH1hhKJicAeQ3CDwgDotgRgGDBzwPcbBzG1z5Ho6lABDLJf3L8CUY32TebQIAivdzcaFHvyYTG344t1x3M/p5B+QkGkuumB2Ox+YEWqMI0+4N/g/iWEEW/AuSimIFg9tjO0oKTNNvkyEaRjBHFvgGHY/dQHgMqWgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTklEQVR4XtWXS0vDQBDHm1PRg5/Be6EVwVMP9ST0Uqog+EB81VqrVuurVEXqg3rSCh7FD+EnXPlvmexkNk2zrREd+EOSzcz8OpnZpKnU/zRPuSsx89RCoeCsBKE89XrfUee1WmwR0Mz0dBJQnnp7fLCSRulXgFAlrpVy2ZdcSxgIFmxYAHIg0zNGgEkQKJUyCWyg+Xw+APFDMFFjG1wDxHKp5PfMbDarFdffXrfMHm3j5OnkEEDWlhZ9kMmpL/84l8loqLmZnBb3l7FjbAvB0eY9cXfW1OLJw4DoHAIcfPkj5pMao+n7QJf1upYEokQSIAyGZKpkgE72KoEKDQW6bjS0ONDt6YmVkCAm0ulQIHp8Euhwe8sdCABwWCwWtXBOleMVAQyJrjX3q7oKx7s7PhQmcGSg1tGR6lyc+04AAiSucygOQsccBokJiGIBCGvOQE+tlnq4utRg6B9UiKAgWRl+TjAHm5ta1Y0NVVlfVzurq1ojAQEEQBKKg6FSEojDSBAI585NjWRITM8cCquUBKJHJWGwb/FYIwHRlL13u1phMHzCeP/wCtFrpdtujwcEkQNEMHLseR/JsQcUASEGAQHcCShsY/x4ebFghgFBBDMWEAWXQIDkMIMkYeSrwxko/AOrDyWTE4C8BuEHhAFR7BhAsODnAW42Dv1rn71eJBCBDPIfHH+A0U32zSYQoEjPNzda1HsyofG3Y8t1B7O/Z1B+goHkuunBRGx0oDGqEGV/8G8Q3xLi6FeAXJQwEMwe22Eac5KGmxzZOJIx4tg3OvURIByiA/QAAAAASUVORK5CYII=",
     "wiki_name": "Portal talisman (body)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_talisman_(body)",
     "equipment": null,

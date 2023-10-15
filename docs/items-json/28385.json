@@ -1,7 +1,7 @@
 {
     "id": 28385,
     "name": "Argian berries",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "Some strange berries.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnklEQVR4Xu2VS0sCURiGPf+gn+CuVdCmVRuhRYgRiZJUJCGYQRIauaiVP6CoVdGFkIqCQuyCRARdoaALdCWiy19585zjGb4ZtVXnTIt54EMGB318v/c4Pp+HhweFQY7rVEUiTXLcFSMiarqqY4kZk6sjUxVKhYiYlZoRaApy0t1EiIqakmr1+6HGJuRMsHIt7zEKQzZMhNSYTknCkItKGSVEk7NfG0Gui79SIfWuRpl6x1lKJDobC2mC4fNjAq8vGdzfpS2xvoC9N/YOaYPh/GwYx0cJlA/iKBYHsLUZQ2E1Kr5Yrev7K4f3t3E8P1FpLTDs78Wxs92PjfVerCxHMDMdxNJi2BJSEtdXI5a8xtUxrBWiQoCLTE0GxNA1/Zag89P+AIa52ZCQSCbbEAw2k1/PRKGdIvx+laC2lOgoGVp0LrIw34N8vsNKUOORr31UPD6M4fZmFJcXKbEunko2025LUJtMLQynJ0kcloewWxp0dMa4DIeJzvBTx7vi7IxhGYUsO+8MX5XLMorKv3WsxXHyXMe13jTmX8l4eFT4AcknjVnpXzUqAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABm0lEQVR4Xu2V0StDURzHd/KqvHjRSrOFtmlG01omK5vshRf+AOKRiEQiXtZEouVBHoh4kBIpCSkpkf/pa+ecndvv3m2enHM93E/9Wrfdts++v+/Z9fk8PDwoDHJcpyISaZDjrhgRUdNeGUvMmFwNmYpQOkTErNSMQFOQk+kgQlTUlFQ8EIAam5AzwfK1vMcoDLkwEVJjOiUJQz4qZZQQTc5+bQS5Lv5KhdS7GmVqHWcpkWyrL6QJhs+PEby+ZHF/l7HEuv323tg7pA2G87N+HB8lUTpIYLvYg63NGFaWo+KL1bq+v/J4fxvG8xOV1gLD/l4ChUIcG+tdWFqMYGoyiIX5sCWkJK6vBix5jatjWFuNCgEuMjbqF0PX9FuCzk/7AxhmpkNCIpVqRjDYSH49E4V2ivD7VYLaUqKjZGjRucjcbCcmxlutBDUe+epHxePDEG5vBnF5kRbr4qnksi22BLXJVMNwepLCYakPuzu9js4Yl+Ew0Rl+6nhXnJ0xLKOQZeed4atyWUZR/reONTlOnuu41pv6/CsZD48yPw9pX3ppMTF2AAAAAElFTkSuQmCC",
     "wiki_name": "Argian berries",
     "wiki_url": "https://oldschool.runescape.wiki/w/Argian_berries",
     "equipment": null,

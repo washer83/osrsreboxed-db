@@ -1,7 +1,7 @@
 {
     "id": 2535,
     "name": "Steel fire arrow (lit)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-04-15",
     "duplicate": false,
     "examine": "These steel-headed arrows are ablaze with fire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABJElEQVR4XmNgGAWjYBSQAxj/o4sMIGD8H2jP83+QOIrxf5IvP9hBlrqcg8FREAeVeAj+DzTm+S8uxDCQjmL8nxcm9L/HWvR/iYHg/2Blnv/KXBAHGSgoDISjGP/PTJD83xYs+r/QTfB/pCXPfwO5AXbQlDjJ/01Bov8LgA4Kt+D5b6EywA6aGAVxUK6L4P8QU4iDBjAdMf5P9Rf6/+Vy0v+jK2z/711k/V9LEeEgOocSKAQY/3885wPGB5bYQkMFgkGOoZODIBamOwugYGRH0NUx2BxC5xABAcxQQXcInRwzaBwCAoPIIdgcM2gcguwYdB00AIhyA59D6OaYWgUxMB5gh4AAdscMgEOQASKaQA6DOQhdFZ3BgNQ9+MEAR9MoGAVkAQDzMvyIa9XHRQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABIElEQVR4Xu3Vv07CUBTH8Z7bNg1RcCECxUAZQDcBSUqM0bCaSEh3JhcnNhZISIzv4eDkC7j5Qg48w09vr6a1Ngwk3tPhfpO7NG36ybn9Y1kmk2mfCNkjjBHGPYGCoAjTkR2DOjUJYkcp0OxM4LxO8FyLE0WY37hYtB3MjgX6ZcKBrUD9IOBAER4nHh4uHExPBcITQvWQGbS69nA/dHD3BRo1Cf4RM2h5qUC3XYFBQ4EYnyNCFLrYvod4ffLxvG6gWklAmqekXvGPt268Xjb+91TUkhhNIHXDq5b9a6URWjF5EM0Tkf2dShaiCVMYiKxAkDxMYSBpTPaKfyj5buyCaMNEJTdezBBZPoYBki7ZJgn7AWXP0hzLv2d3zNtkMu3VJ35f5WHSQcCkAAAAAElFTkSuQmCC",
     "wiki_name": "Steel fire arrow (Lit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_fire_arrow#Lit",
     "equipment": {

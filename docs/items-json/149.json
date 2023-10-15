@@ -1,7 +1,7 @@
 {
     "id": 149,
     "name": "Super attack(1)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "1 dose of super Attack potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xt2X7UtTURzHPf9HiPQmUIiJBJKb7s65Tfeg1+kenV433aPNrbnNPQRBUghBEVQg/QNBWpTLFxEVQfQuAvt7vt1zbvduu/ONcXcW/eDL4DDu/fD9fc/vnDs09H8UQbcGWgSPD9y4W51FMTWFWMA0aCiCr60UvrxNMh09EnG/6RwkFNFgPr5O4PnDJdyrzTEg08gIbyglMyrQh+M4nh76WPsGkCeCWCwOSdrS3Dl7KeHJAw/u7AlwuxfhW/TzhCJIpbI9WottIhiKYdkfwpxjgWfrCPK7Babd3aKmaFRCIBDFwoIPU+YZvkCVSlXTXrmCUmkP4cg6vD4/rFY7TOMTPIFoERyfvEGrdYbT0/d4d9pi7XI43VqoKQxXoJ2dPOr1BprNJhNtl8vlHQQMLSK3qYxGo8mkAtH8cG6VWoS5w9RQRFvm9ixhetrGc8vTIigUbqNWq3dJDbUgcJ3WBMlkBvv7tS6YbXktuiZBFAOw212wWAReLhEUi6UeIAq5vpGAXx6KTpeHbX0OLskTOp1DtbrPgDpF16XNbawGIizYnFxqu6NXWgZKJFIIycH2eEU2j/rsEkEmk0NZnsrUIb1LmewOtrbSiEQ3sLi0gvl5L2ZnnTCbrf1yibDzSoXRK5u9xYJNbwHiclBzacaqXEcMdokwB+gg1IOoyuXyLNgbkhzslTC7fvTRJfl0zxe6DlQqi/C5SzTYm/FtBIJrbPvTIUmvIQa7pOwsGubyBRCXkUEukZ4H/60Mcsk4IKp/wqWx64cYvprUHDLEJXHlF9NquK1IrC2X5xyC4wdmbN9gFj5h8uYJxideYHTsAFeGo0bCqKXcAumLveJ5FyAFomsMyP6dwZgmjnBttPmnRYbDKKU8UP3mIhoYhaK/NsdP3Jh8Jd+nn/WAGA7TWe0XtOH04gJyUXW+WC/9fy9bvwHrkx9DT2B23gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xt2Xy08aURSHvauaJm00ahs1WqxVQXwgiKj4RnzhCwmiIAgWKRaDKIJim666aNJNE+Oq6aaN7U5Jd026btKN/ZN+5VxkhpFubIah6Um+kEzIzJffOffOnbKy/6MYpJS0GLbXm+G0NcI6VAt9R2WppRg+nw7h0zszZz+ogcfeVEopJsh8eNuPaKANa4uPuJBOpVJaKjszOaH3b0yI+Fp5+0owTwwLiw7Y7S4hnbPXRoQ3WrAy04C+PjMGzeNKSjG43ZsFzC84YJ1awOjYFHQ6o5Kty6yuUJgTCu0IzNnssEzOwWgcREurRlmh2H5cIBqNIRKJYmZ2CQODY2jXdqO+PjtLCglRMZyff0E6/RWXl2lcXKR5u3p6+oShJhlFhQJb2zg6OsbJyQsOtctg6C+FDBXD7m4UqVTqmhNhfhRuVa4YT4dznOJQy0ymYag1nUoueSqGcDiCZPJIQm6otR06JVNiWHf7cHiYQCKR5JDM2roXtvkVDI9Y0NVtgFrdoVRKDDvPdyVCBEkuLTkxNj4Nvd7El74CKTF4PH4cHMS5UD50fcXhgsUyywdboZQy6exEEI8nJJDQhtcPp9ONqenMYPeP8P2oyCkxeL0B7O3tZyQOrxGlfL4tuFwezM4twzw0gd7eAXR26dHW1l6slBh/X1G7CFEqy+bmUz7YdAoYGbUKKWnau4qREuMJ0EaYE8qHhPyBIB/s5eVVjE/M8ONHEVNiCAafSV6oRF3DRwk02A7HGiatNr78aZOkY4jMKWVXFi31WOygQOI2yJQSK7jx3yJTSvIJEf9EShWVIZTfHRUSkiUlbfcvjs4g0msSeaK+QuPjH2hQfUN94wUe1p2huuYV7lf4cadcPF/LIJOr7CmQHqzRXkkESYiucaGm71ymquYl7t1fvW6R7DLZyt4w983FBDGSol9V8088qD1FVXWyQER2mfwSHyDK3UQRkT9V/oNvcvO/t63fR8zVo0GA/hcAAAAASUVORK5CYII=",
     "wiki_name": "Super attack (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_attack#1_dose",
     "equipment": null,

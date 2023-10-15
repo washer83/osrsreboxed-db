@@ -1,7 +1,7 @@
 {
     "id": 9468,
     "name": "Sawdust",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": false,
     "examine": "What is left over when a log is made into a plank.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu2WXUtbQRCG3X8ieBHoVe96aylehIq0NFRUIjESE2wrpm0qfkHQ1qIS/GoiMamkUQmphH4hIiJSSpH+qqnvLHOyJ2er0UjNRV4YjieZc+bZd2bXtLW11FJLTStFtZ/cohRNhTupSaAUlTdiFOtpZ6C77bjemhRl5oJ09OkV7a6ONAdQaS1Kh4WX9CM/fgkQ2mnGjUvRh+QAfcuN0cF2nK9fsi/+UUxRMRXh1iIH+fa8hqSoknnOIHAHV4TXJUW590MumOPtsCWvIelW7aefcREAmVf36rU7JsxpMUJH+aGbcEn3HwUAhFWLSyiIWTreSVBqwu/MysfFMOcxzPl3P3dG6NdelKHWp7sbgVI0P9pFW3OPqbA8zLsKhcQlxEzQR2eVaccl7EDk4R4wgDgrxzh+l6J0Uhi+Tuv0SqeinZSe7dFACwEqLgaolOql8kof7a/1U2VjgNuBQiguc7Uy0+e4ZQvAXAHo3JXxLm7B6uRDD9Du8lMH6Gs6yCsGEAJnE1qIVgHOPBZqo7bqBVK09NrPvUYAaDP5iPJvn7iA4M5BdpBbIkCnpQk62XvDbh3mQvz998xgIzMDKXYGEAi4AxizZeIOimJgBQiBe7iGHSVQiIahAIFYGvNTMuRjGEABCO5g5Zgf7B4TSHYToOTscc+NzFJd0snSMvyd6O3gqwChZXAIq0ZBccjcSfgMULXzg/vZyH2KBe7VA6VoIRGg7LsQnzcYTIGSl0nbAASH0BYUFqg/n0cNB2y7Sf9kkZ8tlwy3PtBwxqD364lup/fVBzUUhlpmSE5h003vbrr21nc/NB++Y1mJ9+XVHFshRcnoA454oMMJ/VwdMvuNU9gLBGk3Jvt9lIrrfxmS482F7Auw514o24NVmKu8XHLMqM2pS/YH3SD2nP+spgFpqRn0F31RBeLz8Dj0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtUlEQVR4Xu2W70uTURTHvS+T0cveSCkLjVroHM453KzQVUvwFwwtQ2UoamOxxhJrqCzGSIoopChKEIIgiv7FU99zOc/us+em04nuxQ4cHp/tPM/53O/33Ova2lrRilY0bSiq/eQcQ9FkpIOaBEpReT1O8Z4LDBTs6jpPKEXZ2RB9eXmPtleGmwOotBqjT5t36UNh7Agg2GnmqYeiJ6l+epcfpb2NBF/f5O78p5miYjrK1qIG9fa6hkLR6+xtBoE6uCK9KinKPx50wXzdiFjqGgptVSVzi5sAyLy6V6/VMWEOilH6XBg8DZW0/2gAIKxaVEJDzNK3rSSlx/3OrDxfiHAdYPDd961h+rETY6i1qe5GoBTNjXTSs9nrtLk0xLsKjUQl5HTIR792pxyVsANRh3vAAOJ3Oc7581WM9l8MncQ6vdLJWAdlZno00HyAigsBKqV7qbzcR5XVIO2u97MdaITmMlfL032OWrYEzDGA/qky1skWrExc9QBtL910gN5mQrxiACFxNsFCWAU481iozdquh4Sixft+9hoJoKepa1R4eMMFBHX2cgNsiQAdlMZpf+cBq/UxH+bv32cHGpkZhGJlAIGEOoAxLRN10BQDK0BI3EM17CiBQjYMBQjk4qifUmEfwwAKQFAHK8f8YPeYQLKbACVnj3tuZJbqCl0sluHvZG87XwUIlkEhrBoNRSFzJ+EzQNXOD+5nopcpHrhUD5Si+WSAco/CfN5gMAVKXia2AQgKwRY0Fqg/lRFDAdtu0j9Z5GfLEcOtDzScMfB+LdnteF99UENhqGWG5BQ21fTuphNvffdDc5GLlpV4X16tsTVSlIpd4UwE2p3Uz9URpt84hb1ACK3GRNBH6YT+lyE13lqEfQH22kPD9mAV5jgvlxoza2vqCvuDbhB7zRlH04C0ohniL9Trm8zKVvs/AAAAAElFTkSuQmCC",
     "wiki_name": "Sawdust",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sawdust",
     "equipment": null,

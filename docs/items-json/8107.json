@@ -1,7 +1,7 @@
 {
     "id": 8107,
     "name": "Kite shield",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwUlEQVR4Xu2Xv0oDQRDG3TewT3OQ4uAgEITguwiCYGOjkMKAaCEINoLprQM2ghKQEKOEKImQIhaikCZFLPIYY2aO0c3cP5Pdu4D6wcdxu8vML5Njdndl5V9zS4EcMZNRPAX1yzr4QeIC8XzymuppNWFdrBQ0rhqw4eTguOhqSWdd9vK0Bp9yjl27qMF23oEd16H3ooPPuaWgddOiZIflEgU8KLgEd7LmwVnJozGcY4et2crnKAYa542A2rftLyAbRjgjoKfmo1UgjGUE1Hvo/V4gHSZzoMpeJTBmWB3UfECbq+sEwpbzFoBQKhHIczyC0YHkGqtAu+5sr2EzRJjlWqtAR9NGpwfWKxLn1ICw2/60MpkAde+7ge9IJo2qWipA7y9vtHHKX8wJESYJyEIPYikYj8a0UUqgJJgoIJlhAUXvaXEwaJxPBWg0HNGRQgJJAAkiYSwBoRQMngeRPSnKKcGgFEw+JnBeKgSSxtnw/JMkBcPXYaBRRjnF6uhS0O/0Qz9w6QxgWArurpt0Pg4Dw7/J8Oy8iBR0Gh36yBkMQfhWkWF1dPmJ96ddHMH4GsQgGcP48pN+37+WBiK11Kr8aX0C8y6PTET1HlQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxElEQVR4Xu2Xv0oDQRDGs1iEC8cF8bDOIwRBsLEQSWEK0UIQbATzAr5AChsLEQISUYOSIkoIQqpYCVrEzjSxytOMmTlWN3P/THbvAuoHHyG7y8wvk2V2N5P519QSwEf0pBVPQO2kBl6QqEByPn5N5aASsy5SAuqndShaWdhbtJWkky45OVqDn3xOunpchbWcBeu2Rd+LhcIsUAIa5w1KtlNyKeB23ia4/SUHDl2HxnBOOmjNai5LMdA4rwXUvGh+AZkwwmkBPVzdGwXCWFpAnbvO7wVSYVIHKm+WfWOa1UFNB7SysEwg0nzeABBKxAI5lkMwKhBfYxRow57sNdISIsh8rVGg3XGjUwOrFYlyYkDYbX9amVSA2rdt3z7iScOqlgjQ69MLHZz8F8uECBMHZKAHSQkYDoZ0UHKgOJgwIJ5hBoWfaVEwaJxPBGjw9k5XCg7EATgIhzEEhBLQe+yF9qQwJwSDEjD6GMGRm/cljbLm/SdOAvrPfV+jDHOC1VEloNvqBm5w7hRgpATcnF3T/TgIDP8mzbvzLBLQumzRJpdgCCJfFSlWR5WXeGvcxRFMPoMkSMownryk3++vuYFwzbUqf1qfuljtndVo+EcAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9435,
     "name": "Bolt mould",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "A mould for creating silver crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvElEQVR4Xs3WTU8TQRgH8PabkHDw6pX4HbjIxXDzxMmEm1E0vgQF40sTPRg1SqqhoEUtBEulBJttqYIvoA2JHHqQgx/jkf9unu2zz8zgDl0Nk/zT7ews89t5o7nc8S95ssd2/5+XPL0pXqaFmYkwr55dpPknF8IworF0mz5UbtHa22kLSr9E3/AIxCiAOBpTf32TVl5OJjrGd9zTSaK8kHmqPL9ioPAJCIdB1fnrtDR7NWyLTxsI7SW6s1GkneDx0VAMwjWPDoPeL9wIQdzWBcJzP1oztPupdJC5EIQ+Tg4MhNG9qxINO781g9CpDbRcuhaDcG0DBct3EiBcM0j3rko+MQ3oiBc3vmuQXj8cDdqoFrID8SihToPQPqjVjGgg0gOV/EC8LjQIoyFBLowraM+g782n/YNQDxCjbKCtIDDqkBODg9mCEEwlg2wY5Gu7bdQBI0Gd9osY4w2SKN6+NsyZkREqTE0Z9X8D6d4dJVqE2MJpQa5IDC9qT1B0BmGEbKCjYrYbj3ogcSjq3lWJtrwNhLgwp4aGjDoG4RmMamYgRiEukC2MwW7MDCRHyYU5PTxs1GlQ691dAZqLMalA2GE+oPPj40YdkGjPmwD/NuQIpRwdlB5ITpsLc3Z01KiTIJ6uj7UMQYgLZMu5sbF4dBi0Vb+fADFK924pEUhPG+p/7+/Tr26Xuns/DcRhIPzs+LL2IAbhDPI4h5IgRmnQXqdDu9vfaGdzM4F5WLgXY3j99A3CLvMBfW41qb2+Ts3VVZq8NGFMV2Yg27TJNFaqVF9cpGq5TJXSLJWL0dmC5/A3GIQtnwAdnEHe55Bt2rgTvDGuNRDB8YDn5PrJBGSbNgnCPfmzBNd8mqOdXD99glDMN7dFYmQ0CIeiBHE8QLkcH+uHRQNl5PrJBJS2aGQaLKfX9j8VjbRFP3Osyx8yA7xPKvKQ3AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACwklEQVR4Xs3Wz0tUURQH8JmttJd2rlzkoly1chXugrKiwrLQUqhNRFHIUGiJ0y9GxNRMRgyGN4NMivS7aLBF7mZTbfprTnzf4zzPO/dcm+e8wgtf5s1993k/7/5ycrn9X/Jkx7r/z0uenhZO0+PxgTDTd0/S1O0TYRhRmR2mV6XLtPLskoHSL9E2PAIxCiCOxpSfXKTF6cFEx/iOezpJVCpknkr3zjgofALCYdD81HmanTgbtsWnBUJ7if66VqDPwa29oRiEax4dBr18dCEEcVsfCM99qY3T1vokfVt/GILQx5GurjC6d1WiYee3ZhA6tUBzD87FIFxboGBuJAHCNYN076rkE9OAjnhx47sG6fXD0aC1hdHsQDxKqNMgtA+WXjjRQIRBSCoQrwsNwmhIkA/jC9rHoOqd9kGoB4hRFmgzCJw65EBHR7YgBFPJIAuDvKvXnTpgJKhRvx9jUoMkirevhTnc00NjQ0NO/d9AundPiRYhtnCrIF8khhd1SlB0BmGELNBeMR8rN2OQPBR176pEW94CIT7Mwc5Op45BeAajmhmIUYgPZIUx2I2ZgeQo+TCHurudOg2qPb8Sg3BKM6YlEHZYGtDx/n6nDki0502AfxtyhFocHZQdkJw2H+Zob69TJ0E8Xa+XxrIDIT6QlWN9ffHoMGizfC0BYpTu3SgRSE8b6n//+kk/mk1qbn93ELuB8LPj7cr1GIQzKMU5lAQxSoO2Gw3a+vCePm1sJDA3Rq/GGF4/bYOwy9KA3tSqVF9dperyMg2eGnCmKzOQNW0ylcUFKs/M0HyxSKXJCSoWorMFz+FvMAhbXoJwBqU+h6xp407wxrjWQATHA56T6ycTkDVtEoR78mcJrvk0Rzu5ftoEobhvbkViZDQIh6IEcVKAcjk+1neLBsrI9ZMJqNWika1gOTtt/1PRSCv6mX1d/gAcZdMVUlzMAgAAAABJRU5ErkJggg==",
     "wiki_name": "Bolt mould",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bolt_mould",
     "equipment": null,

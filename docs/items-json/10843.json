@@ -1,7 +1,7 @@
 {
     "id": 10843,
     "name": "Helm of neitiznot",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-06",
     "duplicate": true,
     "examine": "A gift from Neitiznot's Burgher.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXUlEQVR4Xs3Wz0tUURQH8Jn/oL2bAReughBciAiJtAhb5EoSXGiELiwCc5MmajmW5M+RETR1GMPnmGP+wNQcUfNXP4i0rH/n5Pc+zvPcO9eYcZ7hhcN7c9+duZ937q8JBK5+CZI9bM8vvQTpfbyNkrFWFe8mWyjx5qkKRuwsv6btxR7aXHhlQZkvkTPcBTEKIA4Tk5rvprXZLq1jfMYzM3RUVsggLU61p6FwBYSDQauJ57Q83aHa4moDob1EnxzE6Xh37GIoBuGes8MdfEyGFYjbngfC937tx+jPF+c0ZhQI378RCqkwezeKm3Z+awahUwahzWwspq4rTqcHwr0NtLvSq4FwzyCzd6MEtWFARzy58RkgtBl8WU0bCwseiIeXQaiXoIPVAf9AnCXU4Xky3kiLzrS6l5lkkMwegz6vS5CTHYjnhQniNx+P1HmdyQktQZw9Bn3dGNRAP/cmcgehnodMZlKuSNQnJic1DOJbKuIvCAEAg9aSSXWVE5pBo4MDGgiL4Md21AOdHL71MFmDJAo/juf94bC6op2c0GhnyxBAR9sjVpDZ+znFHRJ0JkGoW3Ye0+rcnJslY0IzyJw/CrQzelGQ2xEyZAPFRx6oq7nzcrQ2N2sYBIZZA4lN0ezdKO5EtYH47fu77nmdOxPjFOnpoScPG6mstFTV3a2o0ECA+wpiFALPo7016ppaWqL5qSmK9vWqrNRUVVEoL0/FpYFklnh/iUXv0+HWFu2nUrSebKKxoSHqetZK9bW1VFJcTAX5+Wmg/Q99AjTjYTICYeXYQHw+oc3vwxd0vNepQOPDw9Td3kaPGhrUcBWErmkgZAfHhsxQhtlBOQOZ8wj1EnT0qUOBnLF6da61NN2h2uoSDcTDhWPDNxCjUM8r69bNYioqvK6GD58RddWV584f7NISxCizd0txQbZhk6Db5SVpoMqKMisIfzu+bw57IOxBWexDOkgOmwliCO9PRYWhNBCykzMIqyxTkDy/sML4heRw+QYyhw31PARoJ48MF1nugbgtQFjyGuh0D8p6H7INmwTh3naGydXIbX0B2YZNgvBM/uXAPe/maCfnT44glPQD0xYSI8MEYVOUII4sQIEAb+v/ChMoQ84fX0CZFhOZCZbjrO1/KibSFuZ3rnT5C15NUpTdpDfmAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYElEQVR4Xs3W70tTURgH8I1eyETohYJoaJJE+MaGL7RAwSgwX+VStNSS1NSJCmJqYxjOZDpLRczEZKJhOsSMIDKMfv1lT3zP5bk+9+wYm7uGBx7u3blnO5/7nF/zeM5/8ZI5TM/PvHjpVbiRYqGAiuh4A00/u6eCEdtLT2hroYM2Xj82oPSXyBhugRgFEIeOic+102q01dExPuOZHk5UWkgvLUw0JaFwBYSDQSvTD2hpslm1xdUEQnuJ/rEXpqOdkdOhGIR7zg538G62TYG47UkgfO97IkS/DyL05+ClAuH7/pISFXrvWrHSzm/NIHTKILSJhkLqujzVYoNwbwLtLHc6QLhnkN67VryOYUBHPLnxGSC06X3kp/X5eRvEw8sg1EvQ3tun7oE4S6jD89lwLS1EJtW9zCSDZPYY9HGtxwYh0gLxvNBB/OajwSq7MzmhJYizx6BP671O0O5Y5iDU85DJTMoVifrp8XEHBvE5HnQXhACAQauxmLrKCc2g4d4eBwiL4OvWgA36uf/CxqQNkij8OJ53t7WpK9rJCY12pgwBdPh+yAjSez+hWEOCziQIdUtTd2hlZsbKkjahGaTPH4C+bQ+fFmR1hAyZQOGhm+qq77wcgfp6BwaBYZYguSnqvWvFmqgmEL99d+t1u/OpsVEKdnTQ3Vu1VFRYqOqulZY6QIC7CmIUAs8HOyvUNb64SHMTEzTY1amyUlFeTr6sLBVnBpJZ4v3l+cAN2t/cpEQ8TmuxOhrp66PW+wGqrqykgvx8ysnOTgIl3nTZIOzSjEkJhJVjAvH5hDa/9h/S0W6LAo3291N7UyPdrqlRw5Xju+AAITs4NmSGUswOyjFIn0eol6DDD80KFBmpVudaQ91VqvQXOEA8XDg2XAMxCvW8si5fyqe83Itq+PAZUeUvO3H+YJeWIEbpvRuKBTINmwRdKS5IApWVFhlB+NvxZaPfBmEPSmMfcoLksOkghvD+lJfrSwIhOxmDsMpSBcnzCyuMX0gOl2sgfdhQz0OAdvLIsJDFNojbAoQlL0HYg9Leh0zDJkG4N51hcjVyW1dApmGTIDyTfzlwz7s52sn5kyEIJfnANIXEyNBB2BQliCMNkMfD2/q/QgfKkPPHFVCqRUemguU4bvufio40hf6dc13+AmxoZaXcYQ2MAAAAAElFTkSuQmCC",
     "wiki_name": "Helm of neitiznot",
     "wiki_url": "https://oldschool.runescape.wiki/w/Helm_of_neitiznot",
     "equipment": null,

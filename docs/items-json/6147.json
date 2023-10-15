@@ -1,7 +1,7 @@
 {
     "id": 6147,
     "name": "Skeletal boots",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-01",
     "duplicate": false,
     "examine": "Some finely crafted Fremennik boots, made from the bones of a wallasalki.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADg0lEQVR4Xu1Xa0tUURT1/I6+DPRBCAQRQkICQyQkEcNQhkHxgQ9sGBC1LC0ssTIRpSxFEU1L0dTUNDUVFV/5IBOhfs6udQ575sy5c8a5jCCEGw5+8K7t2mutfc81IeGyzq0EOc+FlaBCXwHl5eVQdvZtupV+k1JTr18UKUHV1WVUWVlCxcVeys+/S7m5dySZZI9HHhOhylTzXMgLqqvzUyBQRX5/hSRWWuqjzrYXQUImQpWQz5eXF8kBsrIyzktRQUd727S3uU5bq8u0tviVlmanqK2lOQohNQQIQVVYDZvLS4qiYGIuQT/39+hge5N21ldpY/kbzX0eo5YnjZbmghoaaoKqss0YoLqizIJxVYJOjg6CKq0uzNH02Ag9rq+1NFeKgjzUXJieoMlPw/Ty2VMK3K+yYFyVoNPjI6nS7saatGt8eJDqAn5Lc0Voe21Fkp+fGqeJkSFJyI5xVYJ+nxxLQpsri/IPjPT3kr+qwtL8n8U/diWhlfkZaS8GaG99Tg21NRaMqxL05/SEDne2pAWwa6CnO0pAVeZgGQjNTozS2NCA3Mqmh/XBHIVjXJWyDHZ9n/sip+1900mF3gIroV+H+/J5WAZCo4P99LbjNTU3Poo3R8oubBiaI5wf+nroXWc75eXmWBqrJcACQFFYBkLvuzqotbkp3hypgK4vLcjsQB3Y1dX+irIyMyyNlaIYAq8IbBksg6pY/ThypLLA4WTp+7q7ZB6irT0UQubwIl2cmZRbBhyCjRxFxp1ZQk6JzcKqI8wfB/rkpLwxxT6vbG7ikCFgQQi5AxZWY/UxCOcoHBe1lFUIJmRHUygEQsgCpE9JSabExKvk8VwxmitlkSEMo2Oh7IOagNs3tpCvetw/uBTxuYGbHXcRLsjMzHT56WESCjUPDYPsQV1efQwDZe2vDEeFyHi994KETDJpaTdkFpyEREQMnsdNjyHwEzhXhHQyujogw4S4ccgy9QHHWBMHjEtCTnUiWYXG+sRMSMfi6MOwSngedsVMyLQKDXUyujpMCEcnZOvBzyLQ9pdqWIVPGY2QTgo4fEGahHRSwDMh/eo4k5DZ0EaKiXF2mJBpGwjhsF04SUnXYlEHFbJMb2aSYmKhps78mAvB9vIAMajDZf6HIIKNmRROeFNhJcJDsLWMiZGMKh3Ef9A8zqbOZ8zjxMRRJslIjc3fRzom5rL+m/oLTk91P5fq0ocAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADhUlEQVR4Xu1X70tUQRR1PoUhSRiGSWqGSpu4Kf7EHy0sopaUVpZYmYhIGSkiImaWiWlZmWlmJYqIqJkpIhlWH+ovu3VmuLtv5+2s+1hBCC8MfvCd67nnnPvmGRV1UHtWguxn30pQTnYWuVzplJZ2ik4mnqD4+GP7RUpQWVkhlZTkU16emzIzz1BGxmlJ5lxKijw6QpWu5p6QF1RZ6SGvt5Q8nmJJrKAgm1oab/oI6QhVQj5fVJQrB0hNTdorRQVtfVmmtcV5Wpr9QHNTb2l67AU11teFIKSGACGoCqthc1F+bghM2CXo2/oabSwv0sr8LC18fEfjw4NUf6XG0FxQdXW5T1W2GQOUFRcaMI5K0M7Whk+l2ck3NPq0ny5XVRiaK0VBHmpOjg7TyJM+unX9KnnPlxowjkrQr+0tqdLqwpy0a6ivhyq9HkNzRWh5bkaSn3g+RMP9vZKQGeOoBP3+sS0JLc68l3/gUVcHeUqLDc3/Wfx1VRKamXgt7cUATQ03qLqi3IBxVIL+/Nyhzc9L0gLY1d3eFiKgKnOwDITGng3QYG+33Mrai1W+HAViHJWyDHZ9Gn8pp+2420I57iwjoe+b6/J5WAZCAz1ddK/5DtXVXIo0R8oubBiaI5wPO9vpfksTuTLSDY3VEmABoCgsA6EHrc3UcK020hypgM5PT8rsQB3Y1dp0m1KTkwyNlaIYAq8IbBksg6pY/QhypLLA4WTpO9taZR5CrT0UQubwIp16NSK3DDgEGzkKjtu1hJwSm4VVR5gfd3fKSXlj8rLdsrmOQ4aABSHkDlhYjdXHIJyjQFzIUlYhmJAdTaEQCCELkD4u7ijFxBym6OhDWnOlLDKEYaxYKHuh3Ov0jS3kqx73Dy5FfG7gZsddhAsyOTlRfnrohPzN/cMge1CXVx/DQFnzK8NWfjJu91kfIZ1MQsJxmQU7IREUg+dx02MI/ATOESErGas6IMOEuLHfMvUBx1gdB4xDQnZ1glmFxtaJmZAVi2MdhlXC87ArbEK6VWhoJWNVhwnhWAmZevCzCLT5pRpQgVOGImQlBRy+IHVCVlLAMyHr1bErIb2hiRQT4+wwId02EMJhu3BiY4+Eow7Kb5m1mU6Kifmb2vOjLwTbywOEoQ6X/h+C8DVmUjiBTYWRCA/B1jImTDKqrCD+g/qxN7U/ox87JoLSSQZrrP8+2NExB/Xf1F/Wj8ZqDtcNngAAAABJRU5ErkJggg==",
     "wiki_name": "Skeletal boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skeletal_boots",
     "equipment": {

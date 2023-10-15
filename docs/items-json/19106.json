@@ -1,7 +1,7 @@
 {
     "id": 19106,
     "name": "Bowl",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": true,
     "examine": "Useful for mixing things.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXUlEQVR4Xu2Wa0tUURSG3f+gT/PlfDk/IfoSIYEgIVJEoRQqiRaKhASGl6xGxgt20xi0xhgkBoVCKgQxRBAk6H+tePdmnVZrzj5nj45GMQtezpzbWs969+VMW1sr/r8wdDI1PVziLxv9tLMU0dcXTruvnPZWYq+G71xqNpyhtfkbtF2K6NNCZIHSoEI0du/yaeEMbT6LqFaMLJAPKk8aDJocbW8UylD1SZQAZUHx7zSlweFYfXnbAl2M4xAoQ5XpggUKgYJwruWD4/PS484Qlwy9X7xpgbKgdPE8aXDkCHDJUHnuOq1PFqwkFIDSoNgxnzQYX+c8q8+7s1xyQOUJBxQCJZNraTi+znm2yr20NFbIcslYYgAxFAP5oHQR3335DE8DAJVGcoAwrphs0iUGk/MpTXn3IM6DnACaHbqQDQRrl2e6/nApC4rP8ySdRq6VRw5oaiAACC5NPGjPhUorlib5PoT8m296qLbam8B4gXiJ4mF8MhanrtldVQIxlK+gFjeG7eTz+t1ktcHhDHc4TN0HcqfSZ7t6PdtNMw+vpoJwUS0MDY57HweTXdo2XHTuBgEdlONMfasO2PFHx4B8Ot5B40NX7BHnG8u36HttkPbfxonQGAPBIbiDpgKAEIaO3sV1OlxrXGhAQgEIw4UaOfNHh7Ed/fgQWx1XGpNsgKEApEECYTjcy+jqZzUOkmyAoXioTwHyO9yLDgxjjyLaDRaKy6HB8zxPGhye/JBgmJD6fw5/yXn1FO/XgzQNRoYEw3KWWwCWON87cxAdEswHcS4gOjTAX4FoRSv+lfgFUyTCGgi2mT4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACW0lEQVR4Xu2W30sUURTHvcQyzHOQmFBmZPiD1NA0whDE0AyzjU3F0jQWtNJYEFmohwIpxAej8KGHoIegP/PI917OdDw7d+aubkWyB77Mzq9zPud7f8y2tDTj7IWhk6nh4RJ/3Bqg3cWIPj112l92OliNvbrVd77RcIbWn1yjd6WI3s9HFigNKkRjNy+cFs7Q9lxE1WJkgXxQedJg0NSdtnqhDFUeRAlQFhT/TlMaHI6VZ90WaKCjIwTK0Ob9ggUKgYJwruWD4/PSvUshLhl6tdBlgbKgdPE8aXDkCHDJUPnxVdqYKlhJKAClQbFjPmkwvs551h51ZrnkgMqTDigESibX0nB8nfO8LffS4lghyyVjiQHEUAzkg9JFfPflMzwNAFS6nQOEccVkky4xmJxPacq7B3Ee5ATQ7PC5bCBYuzRz5ZhLWVB8nifpNHKtTjig6cEAILg0OdqWC5VWLE3yfQj5t5/3UHWtN4HxAvESxcP4ZCxMX7a7qgRiKF9BLW4M28mHjRvJaoPDGe5wmJoP5O7rftvVymwnzdy9mArCRbUwNDh+3hlKdmnbcNG5GwR0WI4ztVcZtOOPjgH5cLydxodb7RHnW0vX6Wt1iL68iBOhMQaCQ3AHTQUAIQx9fxnX6Nt6/UIDEgpAGC7UyJk/Oozt6Oeb2OrHZn2SDTAUgDRIIAyHexld/arEQZINMBQP9SlAfod70YFh7FFEu8FCcTk0eJ7nSZ3Dkx8SDBNS/8/hLzmvnuJILUjDYGRIMCxnuQVgifO9Pw6iQ4L5IP4KiA4N8E8gmtGM/yWOAPlYALn6hxkrAAAAAElFTkSuQmCC",
     "wiki_name": "Bowl",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bowl",
     "equipment": null,

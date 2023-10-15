@@ -1,7 +1,7 @@
 {
     "id": 6288,
     "name": "Snake hide",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "Scaly but not slimy! It could be a useful material if it were tanned.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkUlEQVR4Xs3W304TQRQG8PZNSHwB73ggbhruSOQGCeFPRDBqJBpIgEiDhIIElDS1Km1SAi2oMSgQX2fkm823PXt6tt1dV9JJTna7O+389pyZ2RYKw9+Kzg7r/n9vRfdhe8Ydlqd9HGw9dvubUz6IOK0+d63jZ675cdlA6Yf4Z3gAIgoghsY0jp66z++fRAbGZ9zTEUWlQhbd8bvZHhSOgDAIqu8vuOrunO+LowVCf4m+7Wy732cb2VAE4ZzZIejr4aIHsW8cCN+7aZfdn2+Vu9jzIIzxcGTEhx5dtSDtfGqCMKgFqlXmQxDOLdBZ7UUEhHOC9OiqFSNlwECc3Ey3BGFwIFjeOFCn/io/ECGl0qibfPQgRBHETBKErGnQ5RcJqqQDcV5gIEJkEIWQE7of6PvJSgR0ff42OwgAhIaNj435+3JFxoF+NF7nA2LJLJBEIeJAKO9VazUE3V7shJjUoEFZ0mWMA/1qrZkgPXpMC54YPy6zhGxoiAQRhUXRAzpdzwoK9iBkyAIlRUkQ9q4ISGyKenTVgqezQElRnFMyO7mCiEJgAPRJOp9yB8ks4YgB8AoYhJL7FKML2gsxiUBYIRaIrwOA8MSyfLqE8joD/ZmhhNlB64L0POJSJgifZQasjC0tTfjIFUQUrmM+EIT73KFltnT5LBBRenSjBSCrbFlBDIKwB6XYh6IgWTYJwhHX+f5KsnFmBmGVDQJhLuGaBUKJNEaiMoN02XBdguRfDoD4zusXPkN3e1DqfcgqmwTh3ALJ1ci+7U8v3c/mm3AfygSyyiZBuCf/A0kQX6yY+DmA0HpTbYXEyNAg/JeWIEYKUKHAbb1faKAMvr+QnVxASZtGJsEyun3vqWmkFfo7Q93+ArWOOr9gHofVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmElEQVR4Xs3W30vbUBQH8PbVP8Dn/gl79EXfhPmkoszhpsMNJ8oQRNkoxeGmFPeDQtEpKi10iEqZFWFs4tiYf9mVb8I3PTk9aZMsDi8ckia3vZ+cc+9Nc7n73/LODuv+nbe8+1SacB+K416U34y5rbVRL4g4rs65RuWZq3+eNVD6If4Z7oOIAoihMbWPT91+eTo0MD7jno4wKhEy7yrrkx0oHAFhEPRl67Grbjzy+uJogdBfon83S+76ZDUdiiCcMzsEHW4/8UDsGwXC936dFd3f1jt309r0QBjjQaHghR5dNT/tfGqCMKgF2nk/FYBwboFOdp6HQDgnSI+uWj5UBgzEyc10SxAGB4LljQI19+azAxEyONjvRh72BSiCmEmCkDUNOj94GYAQiUCcFxiIEBlEIeSE7ga6OFoIg05fpwcBgNCwoYEB775ckVGgy9piNiCWzAJJFCIKhPL+aLwKQH++vQ0wiUG9sqTLGAX6+XXZBOnRI5r/xPhxmSVkQ0MkiCgsCg26Ol5JC/L3IGTIAsVFSRD2LgmSm6IeXTX/6SxQXBTnlMxOpiCiEBgAfeLOp8xBMks4YgC8Anqh5D7FIAi7NDGxQFghFoivA4DwxLJ8uoTyOgP9maGY2UFrg/Q84lImCJ9lBqyMzcwMe5EpiChcx3wgCPe5Q8ts6fJZIKL06EbzQVbZ0oIYBGEPSrAPhUGybBKEI67z/RVn40wNwirrBcJcwjULhBJpjESlBumy4boEyb8cAPGd1y2QIexBifchq2wShHMLJFcj+57tvnDf60vBPpQKZJVNgnBP/geSIL5YMfEzAKF1ptoKiZGhQfgvLUGMBKBcjtt6t9BAGXx/ITuZgOI2jYyDZbT7/qemkVbo79zrdgu9+j4jjFadyAAAAABJRU5ErkJggg==",
     "wiki_name": "Snake hide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snake_hide",
     "equipment": null,

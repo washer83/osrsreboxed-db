@@ -1,7 +1,7 @@
 {
     "id": 13571,
     "name": "Volcanic sulphur",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": false,
     "examine": "Minerals from an unstable area, very rich in sulphur.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xu2Vz2pTURDGe94kj+ALFCpdiFSkwaBEMcSI0IWbgOAi0IUPIF20G7toF+Kii1IoQa2KtlVCUFv/1f7DaimlbW7yDNN8czP3nntykpyDIC7uwLdIcueb35kzdzI0lEYaaaTxX4eipHzCzPXN7wpF795m6fOnG6z36zkPY0Vrq9c4b3MjT/Xadf78F3CKXq2Ms+HWj1us799uWsBsxorevM4yBPJ2d27T9s8w/2M9zMfv9lxrKHpevcrJMPq1X4i0v1fgIgLWbazo5Ytxqn3I0dcvec45/FOMhM/IR9fw7IVMZhCUoqXFMTZE4u+DIh0flRKCsQ6W7FZ8VejM0eEdCs7uRTo9uUsnxyX2dQBStLBwmQ0FBsmx4UQkGKND6CKEA+gzIvnIawYPQzUeRAoaZTcgzI20mmHaiboRhCsRGLRehK5gbvAbXgazc6YAMxAIpjHMfWoFk9RqPmI9e3qJZ0aHwaDqwmHwvd61eM68YCS6TzL1eJivUodBYQBg6E3JW4lnzK7hBtDh0NsxYnpFM9MjPOQmDAqiOIbbJgy0/rqbXZMumbX7hKLZJxepunzFCoNiKIzB7SV9VeB5vWueQIrm50Z5F5kwODHMUQhF8VoPEtaEQAIOHh5Aioe3FwwMZdmhGIbfRbLDBNARKNxD/WBwShjCPLmjBgu7SxYj5DDY4V+GDUa/IsDAmAu1V4OXOotVOuTUJRuMfkUhzAQXMJemizxgJML9o8MkrwgwnQ0eVLzlOD/JkD0EdV9RufP/VIm2uE2Sb8qzO8nQwXwlhW0y63iHaegq0yeNNP5FnAPVse/HkMCmCwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYklEQVR4Xu2VTWsUQRCG039DUaKiIUZMlMToYcGLIOQiePAHiBc96UW8iBc9iBcJIoqKKEZCQkDxAzRBUZSAHxAUJRCTjf6Q0qeGmunp7WS7EcTDFLyH3Z166+nqmtqeniaaaKKJ/zqc1JUTYW5ufkc4uXe3X5483q16ODGQYezkwf2dmvfs6aDMTO/Sz38B5+TWzT41fDW3RzX7cigCFjN2cud2v0KQ9+7tXnnzush/NFPk83s8NxpOro3v0GSMPswPl5p/P6xFDKzT2MmN630yNTkgL54Pas7C55FSfCafrvHsUG9vNygnVy5vU0MSP30ckW9fR2vC2Aerd6u6KjrzZWGfrCwdKLW0uF8Wv4+qbwKQk0sXt6qhwZBcGbZKYUyH6CLiAP6MWD55qytjhZYPl2ovH0oDYm6s1cCQ6BshrsRgaL2JrjA3/MbLEHYuFDBdgTAtYX4clJ/to/Jr9ZjqwvktOjM+DIPqi8Pwvd+1as6yYCw6T3Li+Aa9Sh+GwgAw9KHsreSZsGvcAB0uvBOjondy6uRGHfIQhoIUZ7hjYqD91z3smnUprL1OODlzepOMX90ehaEYhRncteSvCp73u5YJ5OTc2c26i0IYTow5hSjKa91NrAmDBA6PDCCnw7sWDIa27CjG8KfIdpgBJgIVe2g9GE6JIeb1HdVd7C5bjChhsIu/jBiMf0XAYEwRVkOObLFah5K6FIPxr6iAaWmBcGmmKAPGotg/Pkz9ilrVBm8fyVbi/NTD9hDquCJg+G/6Y25bPCbLD5XZnXr4YLmywjGFdbIjNExV6NNEE/8ifgPf+3tTkwTyCAAAAABJRU5ErkJggg==",
     "wiki_name": "Volcanic sulphur",
     "wiki_url": "https://oldschool.runescape.wiki/w/Volcanic_sulphur",
     "equipment": null,

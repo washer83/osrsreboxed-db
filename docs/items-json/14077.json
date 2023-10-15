@@ -1,7 +1,7 @@
 {
     "id": 14077,
     "name": "Fire rune pack",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-09-18",
     "duplicate": true,
     "examine": "A pack containing 100 fire runes.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4XtWXa2sTQRSGs7+jXwL+Ab+I/0fxAl7wgneRaixFKWpRg1qCIVailqpVQyy11NKWIIoXRKSt1vpLjvtMPJtxdnKZbSp64GW3O7Nznn3nzGSay/3/EUl39S3cgdN6++ic0ZsHZ41qtw5L/c4Rc1W576TVU0Rm4G6aHjsqM6VjMnv3uMyVT8h85aQs3DslS/dPG0CuPKOdvrzzvHhInlw/IBPX9snDK3t7hYpMAsRgPtGmyRvVMwYAt95NDMr7yUFz5Tl96Au4ujd186BMju43MFvzeSOXwInIJLLFwCqF0OQfH5+XT08vyOepgnx5dtFc+RtA1yWA1CUFcrN7olUfPgECBMm/vhiS5dqwLNcvNRXf8wzRB+dclwDCpSAgBvOJL1eQlemrsjozKquvbjQV3/Ns5eWIEf1wEDddl4KB6uWCScqgKuNG7ALJSL72ekzW5ktNxfff527Lt9liAkhfpg9HfS4FABFR8qUqdYPEAPxsVM2X6hRQF8iAxqK/PXWuS8FAyVRYED8WyrK+WJH1pXGTHBjdBrRgFQ633KmzXQoG0i+1IWzhkE/05wP4EIAodJ06Vp26FAz0oVZMQbQDyg8MpIHiKaOOcIhp021AXQoEIqI/AEjaCxBumhr67RBtrE7dLKmlDA4RaSAbyoZZ3JZPoGhj5VFD+g5TRh1R3DiUoYaIFhCDNrZvyQSkbVrY1FCGVUakgWwoG0alUNSR3ca9FjX1k2EfIppANowCaeJ2QNrHbWODpH4Cd2oNP5ANZSe0E/vaeEZBUz+BP64akRfGhnKTamL3md1G/djHDzdrh+gMhNyE3cR41A8HtECgKKkFF8InN3EnMaaeFjcNqFcwdag6sicbUBaodmBa7Kyw8cu7/y6QC6Yw7EGssECgFkw/oJACsQexwirDuzYGlBVKQfTUyB4EUHlo58aBQsAUBHH8AEg3RZZ8qbCjf0AK1U38wHLoB4izEL/ybIos+UAgwv2Xt/8CJgAol9MXNlNuzn86fgGjHhc3liyHSQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4XtWX60tUQRjG93wS+xx99k/oW0VFRTe60IVum0ghFdJFKkTaWFKWSqRCKrGQMqRCi4WIoIIIIqisyOo/euM38exOc47uznGNeuHhHM/Mmfd3nnlndiwU/v9IrLFaFuHAaT2/us/p2eW9TqNnN9ud81vcVQrfSaupSNzAjTTet9Xu92+ziQvbbfLiDntU3mlTl3bZk8HdDpArz2inL+/c6t1k109usKET6+zKsbXNQiUuAWKwLNGm5NXKHgeAWy+G9tvL4QPuynP60BdwuTdyeqMN96x3MMs7OpxCgiASl8gXA0uCUPLX1w7amxuH7O1I0d7dPOyu/A1g6BJAcklAYfaMqNdHlgABguTvb3fah9Eu+zh2xIl7niH64FzoEkC4FAXEYFniywUyM37cZu712OeJU07c8+zT3W4n+uEgboYuRQONlYouKYNK/I0LJCP5t4d9Nvu434n7r5Pn7MuD3hogfZk+HM1yKQKISGpfKskNEgPws1pxX6opoC4QbYj+/tSFLkUD6Ut9iNmpkn2fLtuPpwMuOTDaBlSwgsOtcOp8l6KB9KU+hC8cyhL9+QA+BCAKXVPHqpNL0UCvRs+kIOYCam9rSwExZdQRDjFt2gbkUiQQkfwBQNJmgHATZ+UQbaxObZbUUg6HiDSQD+XDTC9tr0HRxsqjhvQOU0YdUdw4lKOGiDoQg1aXLckFpDYVNjWUY5URaSAfyoeRBEUd+W3cq6ipnxz7EPEbyIcRkBLPBaQ+YRsbJPUTuVMrsoF8KD+hnzirjWcUNPUT+eOqSDJhfKgwqRKHz/w26sc/foRZ54n5gVCYsJEYj/rhgBYJlNRqIYTIUph4PjGmTouLBtQsmByqdK/JB5QHai4wFTsrbODo6r8LFIIJhj2IFRYJVIdpBRQSEHsQK6zctWphQHmhBKJTI3sQQKXOlQsHigETCOL4AZA2RZZ8f3FF64AE1Uj8wHLoB4izEL/ybIos+UggIvyXt/UCJgKoUNALi6kw5z8dvwC/Zy/8l8CSjAAAAABJRU5ErkJggg==",
     "wiki_name": "Fire rune pack",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fire_rune_pack",
     "equipment": null,

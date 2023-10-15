@@ -1,7 +1,7 @@
 {
     "id": 27477,
     "name": "Witch robes",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-10-26",
     "duplicate": false,
     "examine": "Protects the legs when brewing concoctions.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlklEQVR4XtXWUWvCMBAH8OYb7Kkvvgh9EAqFUpAio+AoQ0SRyWSyB7//x7j5b7j0elYrrEm3wFEpoffzLiSJov89DN2P4MPQ62pF5XJJRZ67WCQJzWezKVCG3qqqCQnL0tSB8vk8JMrQtq7pfb12KAmaoEqGPna7DgpVAkS2LVCVDO03Gxd/DsRV0qBAbTNNcrRLghAAyDWUxHGIKnVBEoPA4sazLnJaRpFD6a+MOIZBWE/4fYlfaJUufFfpOdC+LKnKshBts/vPEGh7XeBoW3Fd4JOCePeWO/jkIH2UTAqSRwgCe5J3EDBfxyN9Hg4OxiBUhiH8ziPIYgDh0CC0jK8hAY4Q0yBkdfpAaJusklcQY4ZAaB1XKQhIYu6BuHVeQZfzmb5PpxsYg+RVRN8g9dd+OVrMIxC2AKACVOk5ENonr7W8DUwK4ip5Pj6Mw2gQngzihQ6QRAUDcUgQo3SlRl7YxiXtC5tseM5IVbKJHj1totv3GjMSCKNNqhN2/3k7T84fGWMHf1An1Mm68+xzdEzf0Il9jB/3a570X2oGZwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjklEQVR4XtXWDWvCMBAG4IZRZCItxWJZZZ0f6HAON/z//+3m23Dp9axWWJNugaNSQu/xLiSJov89DN2O4MPQS1HQIs9pnmUuZtMpPU8mY6AMvZZlHRKWJokDfa9WIVGGNlVFb8ulQ0nQCFUy9L7dtlCoEiCybYGqZGi3Xrv4cyCukgYFapupk6NdEoQAQK6haRyHqFIbJDEILG48q3lGeRQ5lP7KgKMfhPWE3+f4iYpk5rtKj4F2iwWVaRqibXb/6QNtLgscbZtfFvioIN695Q4+OkgfJaOC5BGCwJ7kHQTM5+FAH/u9gzEIlWEIv/MIshhAODQILeNrSIAjxNQIWZ0uENomq+QVxJg+EFrHVQoCkphbIG6dV9D5dKKv4/EKxiB5FdE3SP21X44Gcw+ELQCoAFV6DIT2yWstbwOjgrhKno8P4zAahCeDeKEDJFHBQBwSxChdqYEXtnFJu8Im658zUJVsontPm+j6vcYMBMJokuqE7X/ezJPzB8bYwR/UCXWy9jz7HBzTNXRiH+MHfmYlSxsUOAgAAAAASUVORK5CYII=",
     "wiki_name": "Witch robes",
     "wiki_url": "https://oldschool.runescape.wiki/w/Witch_robes",
     "equipment": {

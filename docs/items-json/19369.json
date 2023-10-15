@@ -1,7 +1,7 @@
 {
     "id": 19369,
     "name": "Super energy(2)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-01",
     "duplicate": true,
     "examine": "2 doses of super energy potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPUlEQVR4Xt2XbU+SYRzFu75An6AXrpdtbbjmamn5ACIKgkpDEEEEEUQREJDnYursSdNpZqkrWzrT+ZSKVmarrLXWetGLXvRpTlwX3bdA2tYGN1v/7YyNMa4f55zrD5w69X8MQaYKOgTjQ3LEA2J4bKUwaESFhiI4TNjwfquTaWasEcPRmkJCER7mYMOC6ZEGDIaqGZCoqEhoqFRnOKD9NTOmbitZfAXoE4HBYIbJ1MG7s7dswsRNBWK+SsjlKihVaiGhCGw2xx9qNbSjWWtAk1qLammdkNER9LrcTC6Xh5deb4JGo0ddnRKlZeXCAvX3B3j5/P3wen3QtRhRr1SjokICUfEFIYHoEKytbyKR2MPOzi62dxIsLmmNnC81hREUqMfpQjgcQTQaZaJxyWT1hYChQ+Dz+RGJRJk4INofgaPihiAciWSIRiZXNKCsrELIK0+HwO3uQygUzhAtNd0/VVVSoV1K3bJgMMTL2tnFliXdQVyxBQIibOcEAkFeFIguRlO7lfWIbmqxWLAvWQKPx8vvIA7Kbu+GpcPGx1YjUwjhEoHD4WS3y59choPVbgSuWGG/qIPuvBxWq52PjZZbIpHl2yWCffNjJIyPsKafxFLzKOavDWNKGcOdWh/iYifCFTZ4So2wlmhgEOV1BRCsJyG+dq/is30Zh7ZFHFjm8ap9jgFuGqawrBvDguYu5tRDmG6IY1weYqB5cIngue4eEm0zeNvxFD/79vDDncD33hf41rOOL44VBkjd2zI+4N27JfMiUm7Ph0sEG6338cb8BO+sz47V6yTMtvEhVlsmsKgZwbQqzoCuV3YhVtWdS5cIVlrG8dI8iw+dCyeKwlIH04FGav0YkDgRLLfi7OkzuYIi7JNTF9IBPiYjShcHRHvGAY3WBjAkdbPY3JfbchUdYYdlA2SLFnzXdAQ00ziACUWExXYjGZn/qgX2Em3uXPpkX/qraNnTgWabBjFZH2OxUYeMxSreoZy4dFxcJwEtaUeZQxSG9qfxnCSXMNykfgXSg7mblQ5Hn6fFp7eRg3Feav0dUc5hUpN6Q+4/F8kAo48UiMLQImeD5BwmfY4OOILLliAgx036wdnKfu2/zi9RNElWpcSCpAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4Xt2W60uTYRjGe/oS9KEQRFCbx5x5nDvPHXLDeUjTsdncPKyZh+FaTuemOxSWZAdLxJAkEIkoNSh0SRB96kv/19We522vr0sDY76DbrgYvIzdv1339dzvc+7c/1EER5XTIpgYqISzuwRtxkIo6vNyDUWws27E+zUDU2i8BkP28lxCER5m66UOwTvVcPeWMqCmsjKxobjMpIE2n2sRuC1l48tBngh6evtgt7t4d14vqTE5XAVHpwQajQF6g0VMKILBQe8futnTh7b2HrSY29HUpBZzdKnT5Ztk8vn8vLq67Wi1dkGt1qNKWiMu0EwozCsYnEEgEETnDRua9WbU1slQXMxlSSQgWgTb27tIJg+wv5/E3l6SjUsu1/ChpjCiAo2O+RCNxpBI3Gei41IqdbmAoUUwNTWNeDz+Wwk+PyKPKl0E0Vj8iOjItFoTqqtrxTzytAgmJwOYn48eEQ013T/1DXKxXeJOWSQyx8s94GHLku6gdLBFAiJs54TDEYHm2GJ09LlYjuimbmhUiDU2Av/de/wOmp3lNOwZQX//ID82hUIrhksEXu8YO13T0yG4S63oLmqGqUAG2eVKuNzD/NhouBtlyrN2iWBTO4911QyW5X4sNo4iVjeEgNQBb0UnnCUW2IqNaCtUoTm/Hoo86Vm6RLChDuNLyzN8Ni1hx/gQW7o43mgiDHBFEcCSbBwL9SOI1A4gWO3ERGUvAz0DlwhWlVN4q0tg7/oT/GzfwA/rOr63ruKr+UXq2VMGSN1bU03x7k1c7YFTwl1DsuwSSTkxh4/GReynHDpOu4ZHKcdiKbdCDChaO8SA3CVW3JKYs+kSwSvVND4YFnDQsnyiKCx1UAjkr7LBU96BPkkLLp6/kC0owv45dUEIQEclVBqI5iwNFKhyYKSii42tq+jwpZvZ4ZRFWLNMgEx9Mj3GO/0DHihR58HMNScb21BZO2xXTLAUcK+UzA7/UATfLCt/FQ27EGihwYtwjYuNjTqky+deuFm6lpBjx3US0Io8wByiMDQ/dZfKswmTLu4WSBunT5YQjj6nwaenMQ3TUXjGt0fuB7kGVEIw+kmBKAwNciZI1mGEddjgEC5TooAcV8LGmcr87mnrF5sX8La8LTWkAAAAAElFTkSuQmCC",
     "wiki_name": "Super energy (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Super_energy#2_dose",
     "equipment": null,

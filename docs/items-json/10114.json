@@ -1,7 +1,7 @@
 {
     "id": 10114,
     "name": "Kebbit claws",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": true,
     "examine": "More menacing when attached to the owner.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADU0lEQVR4Xs3WXUtUQRgH8N1vInQRCIEIISJB4EWEEApCRBR0EQR64YVQlEhlFmWKtVagkmKyq+amm6wvuebaplkSvUlfZ9r/DP+zz3n2rO1xt3Dg4cyZmeX57ZyZOScSOfolaoIjqP+fl6hZmOo1yckeG68nbpnZ8Zs2iNhaemyyqUdmY/FhAEr/iYrhDkQUQAyNybx5YFbn+n2JcY8+HX5UKGTUpF7dLkLhCgiDoJXZPrMUv2PH4hoEwniJ3t+ZMj9yY4dDEYQ6Z4egd8n7FsSxpUD43a/tSfP7cyIfMxaEHHU1NTZ0dlXctPNfE4SkQaB04q7tO+iR5dKDPhDqBOnsqkR9jwGJuLhxT5CcfoBwvXKu3jQ3HLN1DdpZGa4eiLOENoAw5lJLnWk9XesBEFfbTtq2INDumgQlwoG4LjSIu+nCmROmvbnWnG06bu8xTiJP1SOJH/Vl/YkP9PPjy8pBaEc/MBLE9aNnTYL2MrHqghCcHSQFhok1SPYBgzX3LfvcA+1/mvYwoUESVQrEPoAwc+yXoO/ZF4Egnb1EKewegpiQIJlUgri+ZL8FbY0eFuTOEcxQKZBOSBC2vR6DduxMH0gcijq7Km7La5BOphMShG1fClU1EA+9oGQICbrW3lA0rqogokolkyii5bjO840mMXHDdHW02X4HmvEwZYGww4JAubVBm2B7fcgmZMgZ2tuKmeyye63MTrpvJ/xuZLBDgBLlzg5KAUQU2jbS+Zdoyh2KK0nXhui9ftEH2n0/7PUtJHpNX89lW5+fnzLd3Z22XhEI9+n0nInH+d0StY+A9bFYlw/Uf6/H60ul4qapqdHWcx/WzLORAQ9ElM4eUByIKNxnMm/NwIB7bIjY08KbfnFh2ocYHS3M0Opq0mHynx0ciyvOoBDnUDEI/47t/OzgFUlbW1s8BB4N65ubaQ/0dWPE1rGGQoOwy4oeW35hE4QEeB1YWHbZXnFw8vDEOPbjQCSI2/7QIL3b0C5BPDCxfoDhew+/41iAtpeH/KD8GRT6HJIgoiQIdX7eBoH4QsXYqoD0Y9Mg9MnPEgnCOID4uCoEobhF+beQGBkahG9pCWKEAEUiPNYPCg2UIddPVUDlFo0sB8sojP1PRSODQv/mSJc/wmzQgCfwsdQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWUlEQVR4Xs3W70sUQRgH8LuXRRhhKBaIJSQi9IsIehH6whdCQYlRZlGXknUWgRWJSHKaaKZcyGmXyZnKdYmkIURFUdRfNt13lu/es8/t2a13hQMPOzszx/O52ZnZDYV2fgkb//Dr/+clbKaGOszkYLuN8YGLZuzxBRtEpGdumeX4TbM4fcMHpf9EyXAHRBRADI1JvbhukuNdnsS4R58OLyoQMmziTy/loXAFhEHQ3FinmYldtmNx9QNhvET/WBsy3zKPtociCHXODkFvnl+zII4tBMLvvq8Oml8bI+b3xjMLQo7jdXU2dHZVnGnnvyYISf1AidErtm+rR5ZJdHtAqBOks6sS9jwGJOLixj1BcvoBwvX0kUpTW7Xb1jVo7dXt8oE4S2gDCGNO1u8zDQcrXADiTON+2+YHWp/vdUGIQCCuCw3ibjp2aK9pqq0wh2v22HuMk8gDlbvyUB8X7nhB75+UDkI7+oGRIK4fPWsStJmKlheE4OwgKTBMrEGyDxisuc/L913Qzw/DLiYwSKIKgdgHEGaO/RL0ZeWBL0hnL1Byu4cgJiRIJpUgri/ZD9DXdP92Qc45ghkqBNIJCcK212PQjp0pQfJQ1NlVcba8BulkOiFB2PaFUGUD8dDzS4aQoLNNVXnjygoiqlAyiSJajms5Wm1GB86b1uZG2w8QTmliigJhh/mBMvPdNsHqQo9NyJAztJmOmuVZ57UyNuh8O+F3fd3NLggzVOTsoORARKFtMZF9icadQ3Fu0mlDdJw74QGtv+11+6ZGOkxn+ylbn5gYMm1tLbZeEgj3icS4icX43RK2j4D1h9FWD6jrarvbF4/HTE1Nta1n3r029/oiLogond2nOCCicJ9KvTSRiPPYENG7uTf99NSwB9Hfn5uhZHLSwWQ/OzgWV5xBAc6hfBD+Hdv52cErkjY01LsIPBrWl5YSLujTYp+tYw0FBmGX5T227MImCAnwOkD7ysqsveLg5OGJcezHgUgQt/22QXq3oV2CeGBi/QDD9x5+x7EArc72eEA4gwKfQxJElAShzs9bPxBfqBhbFpB+bBqEPvlZIkEYBxAfV4kgFGdR/i0kRoYG4VtaghgBQKEQj/WtQgNlyPVTFlCxRSOLwTJyY/9T0Ui/0L/Z0eUPIFfvz6s7vbQAAAAASUVORK5CYII=",
     "wiki_name": "Kebbit claws",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kebbit_claws",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 3195,
     "name": "Steel halberd",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "A steel halberd.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3XXUsUURgH8N1v0FU33fgRpJuuhLoICSOSlmCLIJMowoIFw2hV1szCxcIwCkpqsWi1sBIxe1FYMe2N6E36Oif/5/SffebZs+vO7hQeeJhx5syc357znGcwkdj+LWn84bv/z1vSvJgaNLOFfhvPHmbNzORlG0SszI+Z0lzeLL8c9aD0j2ga7kBEAcTQmKXn183rpyOhgfE37ukIoyIhk2buUa4ChSMgDIIWZ4bN/JMh2xdHHwj9JXpjfcr8WL3fGIogvkyC3s5esyD2rQbCrP5aK5jfn4qbMW1BeFdrS4sNPbpqbtr5qwHCtaOdneZwR0eAImiheCUA4dwHWl24EQLhnCA9umrJ0DJgIIIQ+/ckQiAMDgSXtxpofXE8PhCuDWez5uSxtBnP7KwAcSYJwqxp0Mc3ElSMBmJeSNDIQL85191tl2x3a6u9hoFkQtcCfX53KwT6+f5Bc6DRoZzpPd9j0qmU2dfWZjLpHfa6TOhaoC9LE/GCJvJ5M9jXZ850dZmD7e322okDDrUVCMv7rXQnAG18eBxgIoMkCnEpk7GzhPPCwC57JAb9qoG+l+56QXr0Ks0NjpcThAHxct5DgtuZ63VJLkHYFBWglXuNglwNwgz5QChwCPRDHxyvnnUo9MM1DUL/EEgURT26am7L+0AICcKvZkLjuYvHy0kuQegXK4goBAZAxcUAOJcVGs+eOuRQerliA8lZwlGC0E9WaM7Ukb2JEAqgtVc3BWg6wNQFwg7xgfg5kCBZEAmazLqdJ/MHnw05Q3XODloZpPOIW5kg/K1BQc36u/O4XPhsxAYiCtcxAEG4LwsizjmTeM/YBYdCX1RpCSJKj+5pDuRbtiggzCTelTvtUF+Xbwcg1KAIdSgMkssmQdzyerkkiCiWg4ZBSNatQNzyPhBzjfmDd/akHKopkF42XJcgndCsVXiOfQHClg/N0GYNilyHfMsmQb4tL0GcIfQFKJRDjYB8yyZBuOdLaAQ/G5idGEBo5X9VaoXOH4YGoShKECMCKJFgWa8VGihD5k8soHqbRtaDZZT7/qemkb7Qz2zr9gci8Y3TMucg3QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIklEQVR4Xs3X/UsUQRgH8D0i+lmCfjAiTSrsgrMgM8gw4sAw6NQ0s/CwsDBCiKQSKXoR6Q1B7IUKBUNMpIwgKoqi/rKJ70zfvWcf587buy0ceNh1d3bnczPPPItBsP5byvjDd/+ft5R5PN5tHo512pi8kTMToydtELEwPWjmp/Jm7smAB6V/RNVwByIKIIbGzD46Z15M9kcGxt+4pyOKioVMmalbp1ahcASEQdCziT4zfafX9sXRB0J/if6xPG6+LV6rDEUQXyZBrx6ctSD2LQbCrH5fGjO/Vu6a3yv3LQjvaqqrs6FHV81NO381QLi2t7HR7G5oCFEEzdw7HYJw7gMtzpyPgHBOkB5dtVRkGTAQQYjtW4IICIMDweUtBlp+PpQcCNf6cjlzoCljhrIbV4E4kwRh1jTo/cuLIQgRC8S8kKD+rk5zpKXFLtnmmhp7DQPJhC4F+vD6UhT09np1oIHeHtN+tM1k0mmzrbbWZDMb7HWZ0KVAH2eHkwUN5/Omu6PDHG5uNjvr6+21/Tscai0Qlvfz/JUQ9PPd7RATGyRRiBPZrJ0lnN/s2mSPxKBfMdCXNyNekB69SHOD4+UEYUC8nPeQ4Hbm2l2SSxA2hQZ9XbhaKcjVIMyQD4QCh0A/9MHxTKtDoR+uaRD6S5Asinp01dyW94EQEoRfzYTGc8f3FZJcgtAvURBRCAyAiosBcC4rNJ49uMuh9HIlBpKzhKMEoZ+s0JypPVtdJZegpacXQhCqNDFlgbBDfCB+DiRIFkSCRnNu58n8wWdDzlCZs4NWAOk84lYmCH9rUFiz/u48Lhc+G4mBiMJ1DEAQ7suCiHPOJN4zeMyh0BdVWoKI0qN7mgP5li0OCDOJd/UccqhPc5dDEGpQjDoUBcllkyBueb1cEkQUy0HFICTrWiBueR+Iucb8wTvb0g5VFUgvG65LkE5o1io8x74AYcvLGUINil2HfMsmQb4tL0GcIfQFSOZQRSDfskkQ7vkSGsHPBmYnARBa4V+VUqHzh6FBKIoSxIgBCgKW9VKhgTJk/iQCKrdpZDlYRqHvf2oa6Qv9zLpufwCMq5QUe53D8gAAAABJRU5ErkJggg==",
     "wiki_name": "Steel halberd",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_halberd",
     "equipment": null,

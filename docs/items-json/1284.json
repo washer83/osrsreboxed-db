@@ -1,7 +1,7 @@
 {
     "id": 1284,
     "name": "Black sword",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-12-08",
     "duplicate": true,
     "examine": "A razor sharp sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuElEQVR4Xs3X22oTURQG4MkbeJ+bAS+89cYH8Bl8Ax9DRTygoqgoFiu1aKmlaZWqpcS02kJCT1YpnoqX4pts+8/4T9b+uybNNKN0wyKTyU7WN2vt2UOS5PiPRvDD+/yfj0Z4M305LExdyuLV84thfvJCFkT0lu6G7uKdsPb2toPSixgZnoOIAoihmNXXt8LyyxtRYrzHZxoxqhKyERZfXDmAwisgDII689fD0uzVbC5ePRDmW/Te1nT4tv70aCiCcMzqEPR+4WYG4twyEL73Y3Mq/Nxp7cdcBkKO02mahWaXkZedV00QknqgdutaAcIxW2hB6+17EQjHBGl2GY2oDUjExY33CkJyINheHOM30mYzQm11HtQHYpVwzgOxkghiFPRxxYJa1UBcFwpCcgXZBV2GQXz68DACfd94NjoI5wEiipXkHK9VjM+rj+oFIQCwILugB1UHc790Hxegve2ZAlMZZFH4cQ+k1cF5BX3tjrsgzV4y8s0LyQaBuKC1OqjkAVBv4qigfA9ChQ4DsYq2OjinIMyPQGZT1Owy8qvzQAgPpNVREObVCiIKgQTYcZEAx7oJAo3vabtqA9kq4dWCME+rUwbafHffgOYKzFAg3CEeiA9MD0SMB8JcPDZshYasDkYfpOuItzJBXnUUxHbhsVEbiCicRwKAMK/XTQsM7kBgbCUtCLu0BRGl2Z2Rg7y2KWh2phlWltOws32yqJAHwvzdtbEChD2owj4Ug2zbCMKcc2eScP7sib9X2W+XglCdkUFYrIeBOu00/P51KmoXQVxrbFdtIG0bzhM08aS/duz6IYhzAcItH4H296DK+5DXNibhGkLyMpBdP7WAvLZZED4DwgPxscF2jQjCsH/sysNibCgIm6IFMSqAkoTb+qBQoA27fmoBDTsUOQyW0Z/7n4YivdDvHOvxB9qPl3rYLLtdAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvUlEQVR4Xs3X32oTURDH8QQvQsRLb4Vee+Wdj6GiqKgoKiqKKEVRSrFULcV/FEqtpUoLLaGWUiOCqCiKPoD4SEe+u/42s+MkTZpVemDIZnOS+ezM2bOkVtv5o57iiD7/56Oeno4fTY/HjmQxffdwmrp9KAshWrPn08rMubT87GyA8hcxNDwHCQVI4TFLT86khelTpcS85zMfZdRAyHqauXfsLxSvQBQCzU+dTLOTx7O5vEYg5lv0143x9Hnt1vZQAnGs6gj08tHpDKS53UB878v6WPrevp9+tB9mIHIcGBnJwmd3Iy+7rlogkkaguQcnChDHaqEFrc1dKIE4Fshnd6NeagOJtLh570EkB6H2csxvNBuNEmrjxaXqQKoS5yKQKkkI40FvFi8XIGIgkNaFB5Hcg+yC7oYh3r66Uga9vjM8iPOAhFIlNSdqleLd0tVqQQQAC7ILuld1mPth5XoB+rY5UWAGBlkUPx6BfHU470EfV2+EIJ+9y8g3L5L1AmlB++pQSQ/61BrdLijfg6jQViBV0VaHcx7EfAuym6LP7kZ+dRGIiEC+Oh7EvEpBQhEkYMclAcd+EwTN93y7KgPZKvFqQczz1ekGWn9+sQCxSwvTF4g7JALpgRmBhIlAzOWxYSvUZ3UYHZBfR7qVBYqq40FqF4+NykBCcZ4EgJjXWm0WGO5AMLaSFsQubUFC+ezByEFR2zxocqKRFheaqb25u6hQBGL+++VrBYg9aIB9qAyybROIOfv31tLBfbv+XGWnXR5EdYYGsVi3As3PNdOvn3tK7RJIa03tqgzk28Z5gUZvdtaOXT8CaS4gbnkLYg8aeB+K2qYkWkMk7way66cSUNQ2C+IzEBFIjw21a0gQo/NXpVdYjA0PYlO0IMUAoFpN23qv8EAbdv1UAup3eGQ/WEVn7n8aHhmF/86OHr8BL/6ggDmwQq8AAAAASUVORK5CYII=",
     "wiki_name": "Black sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_sword",
     "equipment": null,

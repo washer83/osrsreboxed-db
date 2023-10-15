@@ -1,7 +1,7 @@
 {
     "id": 6024,
     "name": "Willow leaves",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-11",
     "duplicate": false,
     "examine": "A pile of Willow tree leaves.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtklEQVR4Xu2WXWsTQRSGu3/CG28KuSgIhSKI9KJgkCLiIkrFEkJKTKiRWENLaqwGS7Uqpa2gRUQQEfHKXznyzPDuzG4SaXcNC6UHDuxOsnOeec/H7szMhZ1fi8yol2aR6b9/ZHp7DdN4dtfUOnfMw/atMqGcIoe/ts3rk66FuteommtL82VARSZeup6kafipYzZ26+bqXMVULl8qI42R2Wmu2nR1dlbN1v5aEpxr1gHsDmvW01BTAYzMy4+PbXDqiOCsvfu+aV4ctS1Qc/O+qXdju74wO5sAx7Ub01AtsoGBAQqVqKUPP7ZsPaFKq7+SguEAAK40l4P1wubrgrqRGuuDB3btqNc2+09cyrSG7315asFRjW68UvGKFVArskHkbI4anJwO4/c3XzcSSAUjjawLkv/urtft//DnB628UJH5/OeVDUDNkBLa/O23XjB/vCtVx78HNijpVYFzENYAUkPkTKELBgQbVWPf+uNg5AJScEBQNlQzJxDmaoIg1BHzCNXUdVKhcbtq6+VkuzsCzHOopBHh6y2XjSpy8LNvITmxNqfzwm7DuaaGaP1mvJwU+xk7T4Hd9bBVS4JJblKoegiHIfcAoEiooMDCQwFzCiDXOTqBVMgORJwUhEWKc8/sARgnzeEzgjglDObaVkNNQdlYmytFgKNECDTJzwgRmksHgZg7ONd6mSK/pFcrh+qE9znUGGdOIYJRNxqKrKMa13RSVgGekYpAcxD3W2FzqdBEBspv7uZLukPcelhrms4euJA5IJwgdMe4N7gccF2H7zp9pvgRUMh8wMGaS1e6DiI7/Hip0nlSEHB91i7eXEj2KFhDzvwmkzb0bU+KUIM0AcUQXJyf+8ezBW3yhk6BcEYBBxQvYQFln5qyeaWoG3WYvgZKAMLShf5fayevKXjWs/+7sHNrfwG8WiZYFYzmVgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsUlEQVR4Xu2W72vTUBSGlw8iluEQxcGkbipRnLLastoOa510o7MOLc7pVIZTEIcggiCC4Df/7yvPvby5N2krW2IJjB04kN4k9zz3PT/SmZlTO7kWmVEvzSLTf3vf9HYbpvH4pql1bpi77WtlQjlF3v/aMi8OuxbqVqNqLi3MlQEVmXjhcpKm4aeOWd+pm4uzFVM5e6aMNEZmu7li09XZXjGbe6tJcK5ZB7A7rFlPQ00FMDLPPj6wwakjgrP25vuGeXrQtkDNjdum3o3t+r2lpQQ4rl2ZhmqRDQwMUKhELb37sWnrCVVa/eUUDAcAcLm5GKwXNl8X1I3UWBvcsWsHvbbZe+hSpjX85ZdHFhzV6MbzlXPJvQJqRTaInM1Rg5PTYdx/9XU9gVQw0si6IHl2Z61un8Of7LfyQkXm85/nNgA1Q0po89ffesH88a5Uffg9sEFJrwqcg7AGkBoiZwpdMCDYqBr71h8HIxeQggOCsqGaOYEwVxMEoY6YR6imrpMKjetVWy+HW90RYN5DJY0IX2+5bFSR/Z99C8mJtTmdF3YbzjU1ROs348Wk2I/ZeQrsroetWhJMcpNC1UM4DPkNAIqECgosPBQwRwBynaMTSIXsQMRJQVikOL+ZPQDjpDl8RxBHhMFc22qoKSgba3OlCHCUCIEm+TEhQnPpIBBzB+daH1Pkl/Rq5VCd8HcONcaZU4hg1I2GIuuoxjWdlFWAd6Qi0BzE3StsLhWayED5zd18SXeIWw9rTdPZAxcyB4QThO4Y9wWXA67r8Funvyl+BBQyH3Cw6tKVroPIDj8+qnSeFARcf2vnr15I9ihYQ878JpM29G1PilCDNAHFEJyfm/3HuwVt8oZOgXBGAQcUH2EBZd+asnmlqBt1mP4NlACEpQv9v9ZOXlPwrGefO7UTa38B3kem/y9Y5ukAAAAASUVORK5CYII=",
     "wiki_name": "Willow leaves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Willow_leaves",
     "equipment": null,

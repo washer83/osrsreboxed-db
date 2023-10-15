@@ -1,7 +1,7 @@
 {
     "id": 28410,
     "name": "Dr banikan",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A mysterious archaeologist.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xu2X3UtTcRjH9/sPztW5OTcHdhEEgQQiEoERIYFIoRRTFqnUxFTaaomGISWjwGgUWqw3TXrRlEwMWWYhFRJCEV1EECEzp91Lt09+nx/PXhyD1vHMoH7wcM7EnX32fb7Pyzye/+ffOIpyY0uO/vBorUkXD5jUU2VSZ6VBwT3GVkApGj5q0eARi27VWzTgM6mvRkMJUIltFwtK0ZOARWPHLBppsuhBg4aCUgAK7zWosbxoKimKt9k03WrTVIvNYICCUtcOmdRbrYECuwyqKfG4DaXozSmbXgVtetGehoJSAELa4CX4SIBKbVehNNBcKA0FtaAS/CQ+6t5vUmuFQb6dBu3b5qHtpmtQGihTJSgEpUQlKJQJBJUEyAWTa6D5sJdVEnVwDzB4aSMQQtLmGhAC6gAAQAsdXlZpstnOAUK17fYWAejro9P0bTRMi6NnWCmpOJS/APnLtLm7/BXuAb3v9DLQz7U1CoZu02oyya+h0PepCANJc4R/cB3vrXcPCOn58XqIks+vUnKmn1Zmr9NIj49TmIxH2djoRQCp2uFhtaQfuQa0OneXYQCAiByvZKilpz1c/hMRP6cMJS/Gdg0IFbbyMpYCWp7uo3exFuoPVdNstInHyOPzdewdaY4uAuGoLBiYG8ZeuHmCZq40sjoPzx3m8QFTo8pkrrkApLiaBGb52SWKlq+Pi7L1oVpqsnkBde9sLauDtMFLuLowbFVqdiGWJi+wZxIT3ZQY72Kl3g4EGAoQUAgzDYF76UubBKWyhimugEiMdXC6vtwP0cfBdlYnFj7IlYXSl8Br2QBQeQ6hFM8tWTkQuEdAlc/DQfpwp43VgZlRbejWGLK4ItAGZJOEr6Rzb/yk3zzZQAIDxRBohujYn4ZOUvxyAwf2IgQWNoRskoBC6hyuJblAAMHfEGiQgELa5m80pyJWp9cRBOBk587cJlF1f1B52j+ZygBEf7v8Ibs2wBDyQwB+crhzp4EkTZnfLl/gf+RHgGyTgIKfHKiDo4EEpLCHKe7c8iMAqSvs/XlPNkhhD1O8TUKtTYLRx9mDClW2COevgnFyfgEQRlaKC08+DwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJklEQVR4Xu2X7UtTYRjGdzgcDmdEEYlSUmmgkUabo9RommJbLUHDGCWjwGhRiMWiF7GiIlMkqTAEe5H6IEUUgR8Kgr4EfQmiD+tlFf4N0n9w53U/3G5zDFrHZwb1wM05E3f223Vf98s8nv/n3zgG5caSHPXh8VqLDm20KFplUUelSaG15lJAGXRxm039W206U2dTn8+inhoFJUD+iopiQRl0I2jT8HabBhttulKvoKAUgCLrTGooK5pKBt1tdWi8xaGxZofBAAWlTmy2qLtaAQVXm1Sz0qMbyqAnux16FHJosi0NBaUAhLTBS/CRAJU4WqEU0FQ4DQW1oBL8JD7q2mBRS7lJvlUmrV/moeWWNigFlKkSFIJSohIUygSCSgKkweQK6FnEyyqJOrgHGLy0EAghadMGhIA6AADQdLuXVbrV5OQAodrWeIsA9P7aHvpwPUIfh/ayUlJxKH8BCpQqc3cGyvUBvezwMtDP2VkKhc/STCrFr6HQl7EYA0lzhH9wHemu0weE9Mw8HqDUveP07UEvfZ88SYNRH6cwNRFnY6MXAaRqhYfVkn6kD2jqPMMAABHbUclQn25GufxHYwFOGUpejK0NCBX242EiDTTeQy8SzdQbrqbJY408RoYO+Nk70hw1AuEYWTAwN4w9fXon3T/awOpc3b+FxwdMjSqTuaYByOBqEpivdw5TvGxuXJTODdUSi80LqAv7alkdpA1ewlXDsDXmZxfi8+2D7JnkaBclRzpZqad9QYYCBBTCTEPgXvrSIkEZWcMUV0Akh9s5Xe8uh+l1fxurk4hs4spC6UvgtWwAqDyXUAbPLVk5ELhHQJW3l0L06lwrqwMzo9rQrTFkcUWgDcgmCV9J5174Sb95soEEBooh0AzRsd8M7KKJI/Uc2IsQWNgQskkCCqlzuZbkAgEEf0OgQQIKaXt+qmk+En61jiAAJzt35jaJqvuDylP+yVQGIOrb5Q/ZtQGGkB8C8JPLnTsNJGnK/Hb5Av8jPwJkmwQU/ORCHRwFJCCFPczgzi0/ApC6wt6f92SDFPYwg7dJqLVIMOq4e1Chyhbh/FUwbs4vA5jZyBVifVUAAAAASUVORK5CYII=",
     "wiki_name": "Dr banikan (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dr_banikan_(item)",
     "equipment": null,

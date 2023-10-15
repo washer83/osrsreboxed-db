@@ -1,7 +1,7 @@
 {
     "id": 4653,
     "name": "Fire",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-04-18",
     "duplicate": false,
     "examine": "Hot!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMElEQVR4Xu2W3StDcRjH/f4ON7tzpZaSllZnrdNak5QrFyQ3FAoRISGvkZeWC5kSIaK8lJIIJS+tNY3WktfF8rKwsxd3j/M8xzZzze+cC8/NTr86/T59vs/z7KSl/dd/qVoMfp6oWAy2G3NBQ1AMDlqMBKTX6bQAxcDZLmgLyN1p0haQt9esBaB4EzO4HBC/AanS3Ay2GuKTxcA/bE08qzRxysUbdQa6PDCaBNptUmXilIs36xWg4JgtAbTfrBIQXhyPRxrPVx8IlyFawgmTJotgtSaHQFRakgyO2wSygRMWDfcn4jtsFaC9IOPLGJdiEI2M0HbGy9drDRAJt1F8H7FlOhsdyeRpickAPTKUXbG0Z4SIVE9RxaKzdDZm1/MGaqGYXB0mAgpLlWQsFnXQ78Q4byDZCMaE/2EEFCqmZ7SGQJOOLL5A4VA5QXm6zAQkvefD7Y0lYW1qijOQFCoiKBx5BHoN5sGFT6Qo0dTcbDZnINkIQvn6RAJ6DNjgzGOWe6mGgBbmOQMFX2zw/iZb6Rdhd8cI/jsruF0m2VoZxbi0qCxJbkCBBys8P9ngetBCQNdXFjg+EmRrhXDWbYbVFc5AaOTeb4XbIQXIe57sJbS3vmaA0pJ0gvr59h8Uo37BqcKIEKi6Sgdbm7kEibDY1BXlyscaN0sIhUYwHowLzy4vRPB5xZTFyA3o8EAgGzPT33cOA5fTxHsxxouRjVQTDDynyQ9+7kDOEyWq1It/B+YTpSYcb/k/lXIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQ0lEQVR4Xu2X30tTYRjHfa9ECESShjtsZz9IwZtFJN0oFixRFFLMREtRCkW8EXFQRCwiEiEkwQtFKDCEQjIwBoqyMBQDf4AxEIZBMRCcZ5s//oBv53lO21S6rPecC5+bHV44vB8+3+d5tuXknNd5mVoCZ09MLIE3tUWwEJTA+3o7A11xuawAJTB7R7EW0Fyzw1pAS/edVgBKN7HAWod6AsiU5haYqElPlkDkoSfzbNLEGRePVtn48mh3FmiyzpSJMy4eqzaAYr3eDNDUbZOA6OJ0PFpfsflAtAzJEk2YFvBh2H+JQUxakgIzjQrboAk7SLZn4ptuUNBUcuGPMSklcJjq4u1Ml4/csiGVaOT4jo+G+Ky7K1+mJYFU8p4O1WNYemdHSqvmqI4Pg3zW21MgGShRzzGF7joYKLlfycaODgb4s79PNpBuhGKi7zACSsSv8jNZI6DAwEW5QIl4OUMttDgZSNsrxtamO2Pt8SPJQFrcx1A08gS0G7uM1RWVoyRTz4KFkoF0IwS13KYy0E7Ui/CiU+8lPwO9eC4ZKPbLi71d3Uq7ism3dkS+ezAXcujWrnOMgy+NJSkNKLrtwc8fXmx0uhloY92NmY+Kbq0U4VYnhl9JBiIj2xEPth4YQEtfsr1E9kZe21B2LZehzr79H0pwv9BUUUQEdPNGHibGixiSYKmpK8rz5FoiKDJC8VBcdLb2TcXyV/XUYpQGNP1BYRtPn5zcOQKhzw7ZizFdgm2cNiGwMJ/9wS8daPbT3/6P/RuY3y7P6K9169yqAAAAAElFTkSuQmCC",
     "wiki_name": "Fire (unobtainable item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fire_(unobtainable_item)",
     "equipment": null,

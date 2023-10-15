@@ -1,7 +1,7 @@
 {
     "id": 28180,
     "name": "Leprechaun charm",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": true,
     "examine": "They're magicly expeditious.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1klEQVR4Xu2Vu0oDQRSGd9/AKk2ahXQBIQREgiwEQhCx8QUsfAAFGyu1iQTERosgJHgpJF5QQRRRRFBBRLCzsBCfwIc4MrNMZuacXbNrZiaNPxzI5cz8X/45O/G8fxmVD+nLunzYazVSlwMoCUTToGUZSsIE+Tw3KgVBbLHvWI/lpPR0pHmcIiC8BncNoCwwQjSl/mtSiwLhDqoICEPhrj+IwqQDYrJydBQIdyRLpoT3wZ0ZRGch24Z0fbaUiWTs9FemAYu/LnBXRunRU7Ak6Te7gXRUxT818QY69O+9A4mmoxtQEIswQvi4ZGEQSzC6aZIxK3Gk6qwZhIk2fD4K4fEs4DVRHuGfNVcWeKkASSDGYD5uaj0QVo3uJHRbeThtUwiLIKp8+H6d5mYqmFqOQIR8AqCmJV4bnpMkRTDMWDVntdMsw9NhCMebY7CxVOwB4R0Myoev+zq8X8kZaq2W4Ha30nvfWSu5BWID/XZehYeDkJvur5fhulPR0hLz4+S4mNlluwJby6M8CTzYU2FOA8I7GJb8zxKmn3d1eDmpwsX2OMzPBjBTy0Gx4LkCYtJvZgbDEmMDvThX0GAdAXmenA09sbi7B691ID0xB5dgf6kQQwUZhn4Au2WZBoyq2AUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu2VP0sDQRDF75AQkiISIgYvkEQtbMXCXsTGTm0iAbHSIiBEUbERRVG0EBRBC21EQRAsbK2sLPwSfpOR3WOzuzN35s7sbhofDOTP7L5f3s5tPO9fRuVD8rIuH3ZbjcTlAEoC0TRoWYaSMLlslhtN1uuRxb5jPZaT0tOR5lEKgfAa3NWD0sAI0ZS6r0ksCoQ7qEIgDIW7/iAKkwyIycrRUSDcES+ZEt4Hd6YQnYV0G9L16VImkrHTX5kELPq6wF0ppUdPweKk3+wG0lEV/dREG+jQv/f2JJqObkBBLMII4eOShUEsweimccasxJGqs2YQJtzw+SiAx7Mcr5HSAP+suTjLSwWIAzEG83FT7YCwahyMwkErC6dtCmERRJUP36/j3EwFU8sRiJBPANS0xGvDcxKnEIYZq+astpsleDoM4HhtCFbnCx0gvINB+fB1X4P3KzlDraUi3O6UO+83l4tugdhAv51X4GE/4KZ7KyW43ipraYn5cXJczOyyXYb1hUGeBB7ssSCjAeEdDEv+ZwnTz7savJxU4GJjGGamcjBRzUAh77kCYtJvZgbDEmMDPTed12AdAXmenA09sai7B691ID0xB5dgd6kQfQXph34AcbRMM3YvfEwAAAAASUVORK5CYII=",
     "wiki_name": "Leprechaun charm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Leprechaun_charm",
     "equipment": null,

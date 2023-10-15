@@ -1,7 +1,7 @@
 {
     "id": 897,
     "name": "Bronze arrow",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Arrows with bronze heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABqElEQVR4XuWSQUvDQBCFk3/QUy9eAj0UCoVQkByKUAgiIohgLwoe9KJXjwr97ZFJmOzMy6SLyZgcfLBkJrvkffOySfJ/lFbNmkxoqOtjuanKYjUVFBqmqn65y6uHw6Yqthd1n2dZD7iLguHVjoxSVdP6fN7XwLQ0kAR3UWNGiz6cr5eqZqD3clHd7tf1CkAaXKc2WA3Qx7FoE5A1w1yukhbOSo3P4tcHKiSANfdcP91s218kgXRyo6QTwDRk/3q/UxcbYQlmJJANECYN/ffboXOx5VkHGJKe0ILjnoDkxZZ7DiAkG8BKJ3bWFeicIfbWniuMZThDOrZBrLf2HGBI/WlgjwB41gHINoj11p4DDKk/DewRAM86ANkGsd7ac4fBNGI97rkBoZlM45QtTQA86wYjzdGQYehJC/cd0+lOzqb8DmGuF0kHximdrpmE4forC2AEwxAIPjKdkMTpMUyOYAzA98qCoadLOjQ5T8/G/A5hLCAeyiEdVmPAZtJU7vF7/EUIhF8fJDmZfMqFMBrCLZ3fSF9+fa/CIBOr+4tmAgma8Red11/A/ADPdMWc8f6a0QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoklEQVR4XuWSQUvDQBCFU0qRlNJSKoFaiFVBwR4sHuxFj14V+v//y8okTHbmZdJgMiYHHyyZyS5537xskvwfTUK5BhMa6vqQL0OezYeCQsOJql8f1uFptwzZ6qroj/t9A7iLouHNJi0MZU3r87gtgGlpIAnuotKMFn14vZipmoHe82m43y6KFYE0uE6ts0qgj0NWJSBrhrmeJxWclRqfxa93VEwAa+65frlbVb9IAunkekkngGnI/u1xoy42whJMTyAbIE4a++/Trnax5VkHGJKe0ILjnoDkxZZ7DiAkG8BKp+2sK9AlQ+ytPVcYy3CEdGyDtt7ac4AhNaeBPQLgWQcg26Ctt/YcYEjNaWCPAHjWAcg2aOutPXcYTKOtxz03IDSTaZzTmQmAZ91gpDkaMgw9aeG+Yzr1ydmU3yHM7TSpwTilUzeTMFx/pRGMYBgCwXumE5M4P8fJEYwB+F5ZMPR0SYcm5+nZmN8hjAXEQzmkwyoN2Eyayj1+j78IgfDrnSQnk0+5EEZDuKXzG+nLr+9VHGRg1X/RSCBRI/6iy/oLmB+rn3W1bFDvsAAAAABJRU5ErkJggg==",
     "wiki_name": "Bronze arrow (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_arrow#Unpoisoned",
     "equipment": null,

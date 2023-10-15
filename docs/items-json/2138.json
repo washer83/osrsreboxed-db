@@ -1,7 +1,7 @@
 {
     "id": 2138,
     "name": "Raw chicken",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "I need to cook this first.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xu2Wi0obURCGPW/iI/SxCqVCS1uxiihKTBpiojU2IQ1RDCraoAZvqZdqi0jv9/Zxpn6znXV3u4GYxlBoBn6M56xnvvPPv8G+vl716p8oJ57iqtn6tZWTqfFRKcxmY6CcZFOJmPVrLSf5bFoyU5MycOtmoLmTXDqp63y+0d/fDSgnjzOPVGPDQ35jr7lT17oE5GVmbTojJwsVWc2kJTv4INDY268U5rsB5KQ8MS71/JwclUvyLDctM0ODIZji2Khk7t/TbAGUHxkOjLJj5d16JZ2Sg6cl1eZszm9mMAACu18syO6FQzxv+x106SIrD4cUAFcapaI2xYlwM6fr7B9Xyn8ARU9to35nYXJCb4wrNKEpY7N902Ji0oc5XVzoNJCT5N07GlxzZWc+L1tzs9oYxxBZ4TmeJ9yE/Ky65AN1aFxOswEAruAOrtRmclJNJdUdxgUQP3nDJgZu60jPlqvyen0tBHSptsppA2wPukJYcQAoEwAGiAB4U1tXGRBvoAG3CeVZD5BlhqZA8Rm3ELCIdXLCM4z2w3Y9BMRFlpIJeTI6ouNtA8ppQ7LArckQB9OMNRqhV0uLKqAZJ435/cvzhrzdqGmOLHtAc0lejja+k7zvGkZiGQLgfGVZztdWNR/IRsM6+1wCkE97u/JxZ1ufAZA9+wrgzCuG3IMhG+YSIaUxo3hf3/L1bnNDZVA053dgvh4e6Geg2MMtc9OAop1jqjkMAHZzBJzJh7pwD4dY+9zY0+cN3PaBaxHoEoaZ24gMBgiyQSNrZoAGFXSDv7f8kMHgq9/iuJwGjwOw1mBsBEB8OzrUUSDggoBRp3CWc3A5mpsWYKyc3g4YbksDsx+I7y+OVVEwcwxw3GRsQbeu4Eq0nI6MG0ZHBcSP0xOVQRmYQdn4DIozAGsxM83K6SEWTm4eBYqDirrURmaalfOzEwf08+VpCAqZS3EQfwljFf6XolV1GCJc0cNbVfScXv0X9QsX48pbv0fo2gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xu2WDUtTYRTHfb6JH6EvEBFSVIIpK5no1pjzJZdtWMMaIpa4EstErSxZJlYURUX0QkhUn+zk71zP9d7bHcw1RWgHDm7P8/ic3/mf/72sra0VrTgS4cTLuKi1fmDhZKA3IYXRXAyUk1y6P2b9QMNJPpeR7ECfdJw4HijuZDiT0nU+H2tvPwwoJ5ezlzQvdnf5hb3iTlU7JCDPM5XBrGzenJTZbEZynecChb39ycKVwwByUkr2ylJ+TKqla3JnaFBGujpDMMULCcmePaPeAijf0x0YZdPC6/pWJi3r1yc0740O+8UMBkBgHxcLsloY1/O230SVdrxyvksBUOXJRFGLokS4mNN19jcmS38BRW9tIHa90JfUjlGFIhRlbLZvWe7v82FelG80G8hJ6vQpNa6psjKel8WxUS2MYiRe4RznMTcmfz095QM1aVxOvQEAqqAOqsyPDMl0OqXqMC6A+MsTluw4qSN9MzMt7ytzIaC9bCicFkD2oCqYFQWAsgTAAEkAPtytaBoQT6ABNwjlSQ+QeYaiQPEZtUhgSdbxCWcY7ZflpRAQjUyl+uVqokfH2wCU04J4ga7xEBdTjDUKka+myppAM04K83376Zp8XJhXH5n3gKZJHo4G3kneu4aRmIcAeHt7Rt7Nzao/SBsN6+zTBCDfHq7K15VlPQMge/YK4M59mtyDwRumEialMKP4/GDRz0/3FzQNiuJ8B2a7uq6fgWIPtUxNA4pWjonaMABY5yRwlgaFeijE2ve1R3rewG0fuDqB9mCYuY3IYLTrHW9QyIoZoEEF1eD/zT94MPjo1zkup8bjAqQ1GBsBED+eVXUUmjtwQcCoUijLPagc9U0dMBZOuwOGbilg8gPx8/mGZhTMFAMcNRlbUK19qBINpyOjw+iogPi1talpUD7YLpSNz6C4A7A6PVMrnF5i5qTzKFAcVFSlBjxTK5zvnTig3y+3QlCkqRQH8Y8wFuGfFPVmkyHCEb283oze04r/Iv4AeU40VjvdLWQAAAAASUVORK5CYII=",
     "wiki_name": "Raw chicken",
     "wiki_url": "https://oldschool.runescape.wiki/w/Raw_chicken",
     "equipment": null,

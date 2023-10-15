@@ -1,7 +1,7 @@
 {
     "id": 1108,
     "name": "Black chainbody",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-12-08",
     "duplicate": true,
     "examine": "A series of connected metal rings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xs3WbUtUQRQH8N3P4Zv9CL2RkBAUCRFDEkXpRV+kIrJQSTIMo6CkxKLVQk3E1FRY8amS8CHp64z+7+V/PXP2XPdedwoHDvfO3dH57Zwzc7dQuPqt6OywPv/nrejmpx662ckHUXx5f9/NTNyLgojNxWeusjDiNr4+NVD6S9QNj0FEAcTQmPW5YbfyedCbGH18psNH5UIW3cKHR1UoXAFhELQ888QtfhqIxuJqgTBeok92p9zR1tvLoQjCPVeHoO+zQxGIY9NA+Ls/O5Pu78/yWUxHIMxxrVSKQs+uWrzs/NYEYVILtFR+nIBwb4G2lkY9EO4J0rOrVvTSgIlY3OhrECYHgulNA+0uj4UDcZXwjCBZDzqwahr0Y1WCyvlArAsNwjcHCGNKDQ2pQZgE/Vp74YGOt9/VD8LzWhgNI2h/fTwsCIFUStDtzk53s6XFdbS1Rf1b7e1R/05vrwdCig8qrxLQyd7HBJMbJFH45wRdb2x0N5qazGtrc3MV6LDy2gTp2VNaXAPYMWmgLOGBNt9cFhSfQVihWiCkCoFUyT5TSBA2ggcSh6KeXbV4y1sghAahhoAhiH0JwuoEBRGF0KBaERwkVwlXDerr7k5C9nu6urz62fn2XICmE0wmEHaYBeLrQIO4xXVf1g9eG3KFMq4O2jlI1xFfBwTJArZCpguvjWAgovCc7zBdK1ZIEE5pCSJKz260GGSlzQIhPXf7+5M0sc8awnj87Pi98TIB4QzKcQ75IJk2DdIp0oFxWJ26QdhlWUC1IjhIpw3PmYI4/xcH6wdb3gOdnUG5zyErbRKEe+w8/grAKc7Dk7uRY4OArLRJED6TP0skCON4/gQAoVUvvxUSI0ODcChKECMHqFDgsX5RaKAMWT9BQFmbRmbBMs7H/qemkVbov7nS7RRmKO5F03YjJAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xs3WbUsVQRQH8Htfie8lUck00fABC7+IhqJhUZhYJBKEkYgomiJmIYg9kKGgiImYEUSJotQnG/nv8l/PnnvWu+sdxYHD7uwdnd+dc2b25nLXv+WdHdbnl97y7v1Et3s3fj+I+bEuN/e6MwgitpYH3MbSE7f+4bGB0l+iZHgIIgoghsasLT5yX+b7YxOjj890xFGZkHm3NNlTgMIVEAZBn+YeuOXp3mAsrhYI4yX6eHfCHW6PXgxFEO65OgStLjwMQBybBMLfHe2Mu3/7M+7//mwAwhz36uqC0LOrFi47vzVBmNQCrbzti0C4t0DbK09jINwTpGdXLR9LAyZicaOvQZgcCKY3CbT7ecgfiKuEZwTJetCBVdOgH1+fRSBEJhDrQoPwzQHCmPKyssQgTIJ+fnseB31/UzoIz4thNIygX2sv/IIQSKUE3WlocLdqatzt2tqg31hfH/TvtrbGQEjxn42RCHSyNxVhMoMkCv+coBsVFa6qstK83qyuLgD93XxpgvTsCS2sAeyYJFCakKCDrVcXBYVnEFaoGAipQiBVss8UEoSNIEHyUNSzqxZueQuE0CDUEDAEsS9BWB2vIKIQGlQsvIPkKuGqQW3NzVHIfktTU6x+dj4ORiCc0sSkAmGHWSC+DjSIW1z3Zf3gtSFXKOXqoJ2BdB3xdUCQLGArZLrw2vAGIgrP+Q7TtWKFBOGUliCi9OxGC0FW2iwQ0tPR3h6liX3WEMbjZ8fv9eEIhDMowzkUB8m0aZBOkQ6Mw+qUDMIuSwMqFt5BOm14zhSE+T8/WD/Y8hKEMyjzOWSlTYJwj53HXwE4xXl4cjdyrBeQlTYJwmfyZ4kEYRzPHw8gtMLlt0JiZGgQDkUJYmQA5XI81s8LDZQh68cLKG3TyDRYxtnYK2oaaYX+m2vdTgGQagTOsDvQFgAAAABJRU5ErkJggg==",
     "wiki_name": "Black chainbody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_chainbody",
     "equipment": null,

@@ -1,10 +1,10 @@
 {
     "id": 28178,
     "name": "Axe handle",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
-    "tradeable": false,
+    "tradeable": true,
     "tradeable_on_ge": false,
     "stackable": false,
     "stacked": null,
@@ -26,9 +26,9 @@
     "release_date": "2023-06-28",
     "duplicate": true,
     "examine": "A bigger axe handle.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABz0lEQVR4Xs2XT0sCURTFfV+iTRuhRatA2oiEUEi4UARREAvDGlQYTZTJfw2JJVIhQyIigkhEREQf8sZ5jxkHN+3mvgOzGTc/zj1z7zEU0luCdt8wSlA2GSNNoARtXts0tq6odpHSAUrQz+Ke5iOT+maBiplTPaC+Zj166d3QbTlD6USUG0pIhzC6YfOSjEKS4tEjfqj3qUWzh5qEMktpHYKu8gSwxWOdurU8lfPn/FAfzp3M1Odbl1aTpsyVgmIDE7QcNyQU4OAY8pUzkrxQeOASoEbrFtmLOu0f7PFBRcJhD+pp05ZQg7kp36nf2KTcAtRw1aSOU+VzyZXrFqAwOmtq8EMpKahKv6DD6FwJqtpFHba5X4KsSk4vl7DJNTgvroQ8L5POta9HsYKpY4yNjtqCLpVPxfmhsDTXzy1y7CrZjaJsCcxuqXKHW4dONWqX5DHeNs/dJxAJ+p73vREiVxghvkLAofCVsmdBj1R1KRxijBBuTQeGdAxw/moc4JoQ9Lu0vRHCLWQLjiFbiZNI0EDQNuhYC3AJYUfzjB0fcgBBQgKhn2MlIEsIuXtqGIAg9U8G4wIQHGIamV/CW5r40lwYRiBou4M0gFFyQf6D+QO/OILta7tx2wAAAABJRU5ErkJggg==",
-    "wiki_name": "Axe handle",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Axe_handle",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4Xs2X3UsCURDFvQ8RRBARKBmZIgoqqEnWirIaKpsf2JJZIhkiFSKFIEgQRBDRvz1x7mXXxZfedu6BfVlffpw5O3MMBPSWoM03jBKUioVIEyhBq8cmDa0zquTjOkAJ+plf0+zWpK6ZpVzySA+or5cOjTsXdFlMUiIS5IYS0iGMrl8/JSMbo3Bwjx/qfWLR801FQpmFhA5BV3kC2PyuSu1KhoqZE36oj+mVzNTnU5sWo7rMlYJiAxP0NqxJKMDBMeQrbcR4ofDAJUANlg2y51Xa3tnig8pHoy7U/aopoXozU75Tv7FJuQWo/qJOrWmZzyVHjluAwuisicEPpaSgSt2sDqNzJKhs53TY5l4JskppvVzCJtfgvDgS8ryMWueeHsUKpo4xNjpqC7pUJh7mh8LSXD40aGqXya7lZEtgdkuVO9w6dKpBsyCP8bp5bj6+SND3rOuOELnCCPEVAg6Fr5A69nukqkvhEGOEcGvSM6RjgPNWYx/XhKDfV9sdIdxCtuAYshU53PcbCFoHHWsBLiHsaJ6hg10OIEhIIPRzrARkCSF3Tg0DEKT+yWBcAIJDTCPzSrhLE1+aA8MIBK13kAYwSg7IfzB/2gpFSwfZXJsAAAAASUVORK5CYII=",
+    "wiki_name": "Felling axe handle",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Felling_axe_handle",
     "equipment": null,
     "weapon": null
 }

@@ -1,7 +1,7 @@
 {
     "id": 9695,
     "name": "Earth rune",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": false,
     "examine": "An earth rune.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4XtWXUUtUURSF5/6D3n0RfAiEQAIJCcGQkDAkSRKTJJNU0iQzM9PEzMw008zUnExTc8rGsCAK+nE7vj3smeNpzHHuHaED61HPN2utvc9MLPb/nkCOroKdQB709kpPZ6d0tLbKtcZGuVRbK+erquRcZaXqbEWF6kx5eVoFhMoA3WxpSQNdrKlRXaiuVgFoAu50WVmhoPYDNTU0qK7U18vlurq0gDRQXMOlU6WlUUMF8mx0RO7f6ZHu9nYFutHcLNevNqlTJh/SdSliqP1At9raVHQJOAN0IQEiQnMJqJMlJVFBZYDu3e6Wu11dGh3KBggYLhGbuWTRRQQVyNNHwwpkAsxkgAYHGNG5LrkFLysuVvm35HgCeT01JaODg1pq5INlAzLhFFA+kH/LEU4gsxMTMjIwIA/7+lQumA/kR2gCKBJ31hYXZWZ8XIb7+1UGZWA+lA9m8blA/i05nkBWFxYU6PnjUXUIddSeyCqDcsEMiL0UiTsflpYUigmjQz5ELmINMGmh3cGZrfiKrLyakydDQyr/slxEqUPGlYpq8+2yam5yUkfeBSI66xTyIRBxsZOIyx7ZvIEASbxfVZeYMCIDysCIzzoFkFtuKzXdYUGyHEOOeyDb7+LyeW1NnZoeG1Mg5LvwL+EO/WEH2TuWNxAwQNEfgJgy/8LDhDu8aRTanou8gZIbGxrb4ssZBUL+hYfJXn+ejeKiovBAjDxPBkvRLrEO2db2IZC9+PY1hAkLDWT9YcIAstjcUtvWptDupnZffcCYstBjv7O+rpHRIWJ782Japy1fOHf0/dtyPKnYWIyMPm4Btzw3qzEeFQ63GP8QLnEC+bq5qfsIMByzpyQ+P6+uEWmucLaTQrjESf22wi1itHVggLhnkfpwtkzdRUqnQroUi6X+2P/xF8jPZFK+JbYVFEDiPAgOKFyiU6yDkC6ljn11yHyFCOTX7q58/5RQB4mWSK1rwAHlAtmHyfyPyE8gv/f25MeXHdn7uJV2y40SKIBckALB2El9atctekbxceoYXPn7HNSzY3Ql+/F7li/IH3c35qvbZ2CtAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFklEQVR4XtWX7y/VYRjGz3e9sKxplmWxRGdp0vxokoZokqSJJEkiSZJIkkkkNaaltbXWi/7Yu33us/ucx9OR43zPsfVs10uez7mu676fcyKR//cEsn9l7QRyq71d2pqbpam+Xi5UVcnZaFROFRfLyaIi1YnCQtXxgoK4sgiVALpcVxcHOlNWpjpdUqIC0ATcsfz8bEHtBKqurFSdr6iQc+XlcQFpoLiGS0fz8jINFcjDu31y81qbtDY2KtCl2lq5WFOtTpl8SNelDEPtBLrS0KCiS8AZoAsJEBGaS0Adyc3NFFQC6MbVVrne0qLRoWSAgOESsZlLFl2GoAJ5cKdXgUyAmQzQ4AAjOtclt+A1paUq/5YUTyDPR0akv7tbS418sGRAJpwCygfyb9nHCWR8aEj6urrkdkeHygXzgfwITQBlxJ3F6WkZGxyU3s5OlUEZmA/lg1l8LpB/S4onkIWpKQV6dK9fHUJN0UNJZVAumAGxlzLizruZGYViwuiQD5GKWANMWmh3cGb19ZzMPZuQ+z09Kv+yVESpQ8YVi+r9q1nVxPCwjrwLRHTWKeRDIOJiJxGXPbJpAwGy/nZBXWLCiAwoAyM+6xRAbrmt1HSHBclyDDnugay9mZfPi4vq1OjAgAIh34V/CXfoDzvI3rG0gYABiv4AxJT5F+4l3OFNo9D2XKQNtLm8rLG9fDKmQMi/cC/Z68+zcTgnJzwQI8+TwVK0S6xDtrV9CGQvvn0NYcJCA1l/mDCALDa31La1KbS7qd1XHzCmLPTYbywtaWR0iNhePB7VaUsXzh19/7YUTyw2FiOjj1vAzT4d1xj3C4dbjH8IlziBfFlZ0X0EGI7ZUzI/OamuEWmqcLaTQrjEif22wi1itHVggLhnkfpwtkzdRUqnQroUicT+2P/xF8jPzU359nFNQQEkzt3ggMIlOsU6COlS7NhXh8RXiEB+bW3J90/r6iDREql1DTigXCD7MIn/kfETyO/tbfmxsSFfP6zG3XKjBAogFyRLMHZin9p1i55RfJw6AFf+Prv17ABdSX78nqUL8gfaJ/5qQoWnbwAAAABJRU5ErkJggg==",
     "wiki_name": "Earth rune (The Slug Menace)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Earth_rune_(The_Slug_Menace)",
     "equipment": null,

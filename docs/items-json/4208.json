@@ -1,7 +1,7 @@
 {
     "id": 4208,
     "name": "Crystal weapon seed",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-07",
     "duplicate": true,
     "examine": "A seed to be sung into the finest crystal weapons.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xs3Vz08TQRQH8PY/wYMHb/4RXow3jiTeSLxA0BsWNSqBRkAj1mgsBhF/FEpAkVSslKS1FgRD/AHx33nync23vH2dLV26GiZ52e3sLO/DzJvZVOr0t7T4w/f8n7e0vJu/JctzN1wsvRiRxecZF0TU1qakujohm+/veVD2n+gaHoCIAohhMZWVrHwqjoUS4zee2QijYiHTsvrqdgsKV0AYBK0vjsra2ztuLK4+EMZr9MHWvPyqz5wMRRDuOTsEfV4edyCOjQLhvf3GnPzZKRzGggMhx/meHhc2u2nBtPO/JghJfaBS4W4ThHsfqF66HwLhniCb3bR0aBmQiMWN3xaE5EBweaNAW+sPkwNxltDnA3EmCcKsWdC3sgYV4oFYFxaE5BakC7odaHdjOgT6/XW2exD6ASKKM6l3ZBToeyWXLAgBgAbZgo4CYeyP6pMm6GD7dbwdpkEahT9OEMfpgsa4KNDP6lMvyGaPaMHhhT/uA+HZhUu97srQIMxkC6iWPykoOIMwQ+1AK+W6fKg0ZHj8kVy+ctX1YRzesyC8EwKpQ9FmNy3Y8j4Qwi7ZxPQzKdd25NrN8GeBwdlJFEQUAglw4iIB7nVyzNjUTFEGhkdlaCQrZ86ec/2JgvQs4apBGMeCxnsbX3ZlqVSTyfyCZLI5udjb1wQ1Pj5QoIUmpiMQdogPxM+BBvFAxHvbe/tSLFUdqH/ouvT1D7p+jMVnQ89Qh7ODdgSydcStTBB+a9DsyzcymcvLYGbMgfRy4bORGIgo9CMBQXiuD0S8q0MXNE5pDSLKZve0AORbtuNAuNdLSxDG720+boJwBsU4h8IgvWwahCv6NcYHArxrEIr1OBCScYdZEGuNy5UYyC4b+jWIBa2XiyCOBQhbPgQ6PINin0O+ZdMgveV9IF0/iYB8y6ZBeOYraAS/Y1yuLkFord8kX9j6YVgQDkUNYsQApVI81tuFBerQ9ZMIqNNmkZ1gGUdj/1OzSF/Yd051+wuk+su9PR8RkAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/klEQVR4Xs3VS08TURQH8HZvTPwGrNzowmjiRhM3slAXUjRIfFXUQjQGQzTUhvhACNGCTQoqPgqhpkECSKMxSDAY3fi1jv5n8h/OHO6UDh0NNzmZ152eX+89904qtftbWtzhev7PW1rGh87J80LGi7F8h4zeP+sFEbVyj1RLWZmduOpA2T/RMtwHEQUQw2JmipdleuxiKDGu8cxGGBULmZbSw/NbUDgCwiDo1Wi3lJ90eX1xdIHQX6M3Fodkff7ezlAE4ZyjQ9C7Z5c8EPtGgfDe94WC/FwZll8rIx4IOQ61tXlhs5vmDzv/NUFI6gJNPb0QgHDuAs1PXQ+BcE6QzW5aOjQNSMTixrUFITkQnN4o0OLrXHIgjhLuuUAcSYIwahb06W1vAELEArEuLAjJLUgXdCNQ/X1fGPRxsHUQ7gNEFEdSr8go0OeZW8mCEABokC3oKBD6rlbvBKAfy4/irTAN0ij8OEHspwsa/aJA3z70O0E2e0TzNy/8uAuEZ/sPHvGODA3CSFrQWm1gpyB/D8IINQJNztXlTe2LZLL9cvTEKe8e+uE9C8I7GqQ3RZvdNH/Ju0AIO2WDj4tSXVqT0103Q6PF4OgkCiIKgQTYcZEA5zr55NyK9BUm5GTHFTnTnZM9e/d59xMF6VHCUYPQjwWN92r1dSlVlqQ3X5TOngE5cPhYAFp4eSMAYZcmpikQVogLxM+BBnFDxHurG7/lRWVZcg+K0t6ZlePtGR/6ty8+G3qEmhwdtE2QrSMuZYJwrUHl6Yrkh8clc+2uB9LThc9GYiCicB8JCMJzvSHiXR26oLFLaxBRNruj+SDXtG0HwrmeWoLQ/+vs7QCEPSjGPhQG6WnTIBxxX2NcIMBbBqFYtwMhGVeYBbHWOF2Jgey04b4GsaD1dBHEvgBhyWsQ9qDY+5Br2jRIL3kXSNdPIiDXtGkQnrkKGsHvGKerRRDa1m+SK2z9MCwIm6IGMWKAUilu643CAnXo+kkE1GyzyGawjM2+/6lZpCvsO7u6/QHw580/adfB9gAAAABJRU5ErkJggg==",
     "wiki_name": "Crystal weapon seed",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_weapon_seed",
     "equipment": null,

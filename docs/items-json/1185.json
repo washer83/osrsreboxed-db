@@ -1,7 +1,7 @@
 {
     "id": 1185,
     "name": "Rune sq shield",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-08-13",
     "duplicate": false,
     "examine": "A medium square shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEUlEQVR4Xu2XTUsCURSGZ/7B/ATXrdqECwlqIRJJMCTFFIo1lCImhWGRJH0QSBIFueg7ySiK6C+ePHc6eWfmTkx50qAOvPvH5311HE37v79zOgSn76dDurID1loVUsUKTI9pkIxpEI9qMDqs9RtMh8zmPsyv12C2tAnThTKYuVWYslcguVCAyUxOZGSoL2A6LGwduO0ogBLztgga+2Gw8EBxKysynkqLGoci7GAOjFxXWKAx0xJBW12wns9tJwwQwhAQwSQTCQE0HIn0AqXD4nY9FNDHfiQgrAyBZJgegDowU4arLtV+MK5BS3XJVfUIg9e18539kJ0Z02SqqmMnbF2q/SAMffXZ7GDkuoKAvHWRneycxWPH3mn46goCUu2H0Y4OOdNwAWFdQUDeujBkZymT4bMTBIQwBKTaDwHRg5bVDu2HgLx2VPshmIJt89hZ3j3y7eezb5j3gYowpXye144XKOx+EAahWGCKKcNlR7UfGci3n6gDU1kt8VSFdsQPoRR5PzKQ8gfxHYjNDgIFBeHSEwZYcUO5H4LZKpd57Ly22/BydwfPrRY83d7C4801PFxdwv3lhUj7/MwF5dtP1PlfzWCHzvvm4M91sylCUAREMLWNDQ473aNPFhQCOzs57kLFHBh882C0E/4I7PTwEE7qdWdTHZj9apXXztfPsdXY2xMZiB3vyTUOHEa+XwXDfW+TdJXeyiN/RwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDklEQVR4Xu2X3UvCYBTGN3bVjRCEUBJmYTCNVmK1yKSwMDRI+iaQIiqom74T6YOIKOifPnnedfLd9i5WniyoA8/9z9/z6Jym/d/fOR2C0/bTIVNaA2u+AumZEqRiGiS7NYhHNejp1NoNpkN2cRNGF1ZguLAIqXwRzNwcDNqzkBzPw0A2J9IVaQuYDuNLW247CqDEqC2Cxr4ZLDxQ3BoT6U1nRI2RDnYwB0auKyxQzLRE0FYTrOVz2wkDhDAERDDJREIAjfT1tQKlw8RyNRTQ+34kIKwMgWSYFoAaMIOGqy7VfjCuQUt1yVW1CIPXtPOV/ZCdIdNkqqphJ2xdqv0gDH312exg5LqCgLx1kZ2xEYvHjr2646srCEi1H0Y7OuRMwwWEdQUBeevCkJ3JbJbPThAQwhCQaj8ERA9aVju0HwLy2lHth2Dyts1jZ2p917efj75h3gcqwhSmp3nteIHC7gdhEIoFZiZtuOyo9iMD+fYTdWBKcwWeqtCO+CGUIu9HBlL+IL4BsdlBoKAgXKbfACtuKPdDMEvFIo+dl9tbeL6+hqd6HR5rNXi4uoT7i3O4OzsVuTk5dkH59hN1/lcz2KHzvjn4c3l0JEJQBEQwK+Uyh53m0ScLCoEd7+81obodGHzzYLQT/gjscHsbDqpVZ1MNmM1KhdfO58+xtbOxIfIjdrwn1/jjMPL9KhjuewXd9OrAw7EyPgAAAABJRU5ErkJggg==",
     "wiki_name": "Rune sq shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_sq_shield",
     "equipment": {

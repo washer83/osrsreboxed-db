@@ -1,7 +1,7 @@
 {
     "id": 25413,
     "name": "Bloodbark helm",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": false,
     "examine": "A rather interesting smelling helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACX0lEQVR4Xu3Wz2vTYBgH8L3/QU9eegnkECgEQiGEEAIppZTQUBoWLG0ZbJThEAZ6UAQvIngQPIggCCIIwhBB8DKGiOD/IOLRP+Vrnyd70iyNc3btMrAPfA+FtO+nb94fz9bWpv7fUkhzLUrh2zjGUb97HVAKP6YTfB3FeOw7DLI0rSqUws/9Cb5Px3jba2Pb0KsEKez2O/h1sMuYikEp5vYwwruog1fdAK/DVvWg+3sJQ563fTxreRhWDbozifFihnniu7jnNGHUalWAFKZxl0GH4z6eBi7PzoFlQq/fON32V3YmpQMJ6FbSwyPPxkPXxqRhMMjS5lkDKv9vFbp2g0MQAo3CgF/XYdNEpGsMkmcco75qlELb0rMM/CaHMAJKOj5c00DjFCPxTB2tprFKlEJoG1mSwMZO18Vez+OtLqC45TKo2dAzjKnXYRsah2CUOWppmMLAaXBGbYcxlP3Iz0A7UYtB/ux1EUhmSUCCoZkikFGvcZZAzTEUwdDsUOQzrZ8ocBhEAIKUYfIg+m06Ev7xWFBIvEVQBpnNGIXWEy1eGlAAZRh6pggqjnhOKb61CSQpw9CaEpCgipGdll/YS83Oxzg8g8rPUhEUuVaGykcggsmDiiNeoBQ+bffwZThYeHVlIIlvapwyzCVBVCnqcwFFkaNAzieBFDECumtbfHBeEkSVok5u9i8MyqPoOiFMus2XWj9lla6p4yRaAP0JRW3sg9nNX4SsACOl8GEQ4v2sgacmnhoy6g7fhG3uhag5e9kJ+Nani3aNkHydvWTPy5oh88oP9LcUv7upTV1l/QZvG3TeKA8BWAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACW0lEQVR4Xu3Wz2vTYBgH8L0UKQ0hoTQkJKHpmpKWLNIfg40OnDDQg+LBgyB4EDwIggdB8CDsIAiC4E08COLBv0MQvPs3fe3zZE+apXHOrl0G9oHvoZD2/fTN++PZ2trU/1sKaa5EKXwbx3jT714FlMKP6QRfRzEeejaDxtvbVaEUfh5M8H06xutegB1dqxKksNfv4NfhHmMqBqWYm8MIx1EHL7o+Xobt6kF39xOGPA08PGm7GFYNujWJ8WyGeeQ5uGO3oNdqVYAUpnGXQUfjPh77Ds/OYdOEVr92su0v7UxKBxLQjaSHB66F+46FiaEzqNmYZw2o/L9V6FoGhyAEGoU+v66jlolIazBInrH1+qpRCkFTyzLwWhzCCCjpeHBMHcYJRuKaGtotfZUohdDSsyS+hd2ug/2ey1tdQHHbYVDL0DKMqdVh6Q0OwShz1NIwhYFtcEaBzRjKQeRloN2ozSBv9roIJLMkIMHQTBFIr9c4S6DmGIpgaHYo8pnWT+TbDCIAQcoweRD9Nh0J/3gsKCTuIiiDzGaMQuuJFi8NKIAyDD1TBBVHPKMU39oEkpRhaE0JSFDFyE7LL+ylZud9HJ5C5WepCIqcZobKRyCCyYOKI56jFD7s9PBlOFh4dWUgiWc2OGWYC4KoUtTnAooiR4GcTwIpYgR022rywXlBEFWK+nS9f25QHkXXCWHSbb7U+imrdE19TKIF0J9Q1Mbem938RcgKMFIK7wYh3s4aeGriqSGj7vBVGHAvRM3Z847Ptz5dtGuE5Ov0JXtW1gyZV36gv6X43U1t6jLrNxKWAyX00+J0AAAAAElFTkSuQmCC",
     "wiki_name": "Bloodbark helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bloodbark_helm",
     "equipment": {

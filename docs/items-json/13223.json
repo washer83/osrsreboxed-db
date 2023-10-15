@@ -1,7 +1,7 @@
 {
     "id": 13223,
     "name": "Music hood",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-07-30",
     "duplicate": false,
     "examine": "Music cape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADD0lEQVR4Xt2X3UuTYRjGff4OTwYeBEIggYT053jWqWcdhB1l9oGRaWk2M3O5Jppp06ao+DGma7kpmp9MxzYdSjJGp1ddtz3b2xr47n3fKfTAjTp8t99zX/d1Pc+qqv6vpVCoK1sFiNH3Hgy63XB3dFwVlML2+jqiy8sIzsxgeuwTxryD8LzuQdfTtsuGUkgdHmJv6zs2Vr8hvLiAhUAAX4aHMfKuH29fvkDHk8eXBaVwlEziKJVCfHcXW2trWA2F8l3y+3wC9aazU4DqXK5KQyn8OD3ByfExEvE4djc3sRmNinQr8/NYnJrCzPg4vL29eHCvudJdUjjNZPAzlxPJDvb2zoFiMax9DSOytITQ3KzIx3l6/uhhpbukkMtmkU4kRC4NEwuvCAxlm5+cxNyEXzpFx91paqpUlxSyZ2cyO4f7+9jZ2BCpCMOh1jCUizXr/4yp0VHcb75bqS4pkSp5cID97a383BBmaXo6DxMYGREQDjj/Zj7dbmx0ukvnUtFdlIr5w85wiDUMAWj7iaEh+WkEY2DeamhwEkohk07nXcXs4cwQ5nptbb5u1NWJ7UtB9bS3OyXduVR0VXxnR4aYINdqaqSKgXSVAmtraXGiS0oGmRbn4Lqqq6WKgYwwrJv19VKU1QjmQJeUZAvPJw1zEZCG0cX54es0gIYq/hSTS4mjuEMemlaACMPi7zQC58lGl5RYm8k7/sFrG4hmYD7ZAmIARoJBSV8zQKXk0kA0BCOCMWBRtgIQW20HiKWBfH19VrukJHcIRJeUC2SEMQLxemILiNZlrjgBxAzjTcAyECVj/vBMKgeoGIbFyxwjhJuzDMRd8SrBNpcCKgeM3TZmkTWg36c6bW8EKoa5CIwwTHrmEN2qYSwBMTs4iB89A6aAjFBGOC0XzWGxO1wK65GI7ErPUPGHmy1+EWAocmO2gHhXZofoDH694WvlFrtMd+kjyBYQdddHR393V/7NzBb/n4PM2yPn0IF7kRKX0aoDr7rxrLX1z87NrtLP2wDi+luCwu7NLrvPl1j/SlHesvL8Ly6wyQ1TF7lWAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xt2X30uTURzGPVeShCFJ0p1/QpdedetlF/24yuwHGJlZViZmmJkpYma5zEomYjFljInZkuEQNXOIbJmJQzJBLxIGSf/BE8/Xzva2Br5733cKHfiiDt/tc77P93nOWU7O/7UUkrVvKwnx9GEzWurqUFdVtV9QCnOTkwiOjMA3MID+7mfoftSC5ju1qLlcsddQCrGlJSzMfsTU+AeMDQ9hqK8Przs68Ph+I+7duI5rly7uFZTCt5UVrMVi+Dw/j9lQCON+f6JLPW1tAnW3ulqAjhUXZxtK4cfmBjbW1rAcjWJ+ZhrTwaBIN+rxYNjtxoDLhdb6epw7czrbXVLYXF/Hr+1tkezLwoIAzUxMIPR+DAGvF/43gyIf5+nqhfPZ7pLCz3gcq8tfRS4NM/FuVGAom+fVS7ztfSGdouNOlJZmq0sK8a0tmZ2lSAThqSmRijAcag1DuViDPc/h7urC2VMns9UlJVKtLC4iMvcpMTeE8fb3J2D6OjsFhAPOv5lPx0tKnO7SjlR0F6Vi/rAzHGINQwDavre9XX4awRiYR4uKnIRS+L66mnAVs4czQ5hD+fmJOlxQILZPB1VbWemUdDtS0VXRcFiGmCAH8/KkUoF0pQOrKCtzoktKBpkW5+AeyM2VSgUywrCOFBZKUVYjmANdUpItPJ80zG5AGkYX54ev0wAaKvVTTC4ljuIOeWhaASIMi7/TCJwnG11SYm0mr6u11TYQzcB8sgXEAAz4fJK+ZoDSyaWBaAhGBGPAomxJILbaDhBLA7U1NFjtkpLcIRBdkimQEcYIxOuJLSBal7niBBAzjDcBy0CUjPnDMykToFQYFi9zjBBuzjIQd8WrBNucDigTMHbbmEWWgHiq0/ZGoFSY3cAIw6RnDtGtGsYSELODg/jkQZMpICOUEU7LRXNY7A6XwmQgILvSM5T64WaLXwQYityYLSDeldkhOoNfb/hapsUu0136CLIFRN310dF4sybxZmaL/89B5u2Rc+jAvUiJy2jVptu3cKW8/M/Oza70z9sA4vpbguTuzS67z6dZ/0qR2bLy/G9D5zJ6AqlLzgAAAABJRU5ErkJggg==",
     "wiki_name": "Music hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Music_hood",
     "equipment": {

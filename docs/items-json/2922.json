@@ -1,7 +1,7 @@
 {
     "id": 2922,
     "name": "Yellow gloves",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-29",
     "duplicate": false,
     "examine": "These will keep my hands warm!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfklEQVR4Xu2UPWsUURSGc//BVtNsMzDFQCp/iY2FhZgihYKkUERRRFEIohAwEAgSAipBxS+UEAkhSggRRUQRRAQFEUEsLP0BR557eGdmZ7O6G9zZZg+8zN2d2TnPvudjYmIc4yCClRp5BPu+lduvl5P2++1kBWwkcME+rmX26WlmXzdz+7njYFx/bOejgAr2YTUroL5s5NEt9O25A+1L0yahgr17lNn7J1kB9nk971DDLgV78yAroBBn4KpqECrYq7uZvb7v4vzidlqAIYBRQ1AhAmyvpLZ1K7VnN1LbWPYzEAJVLzXQTyECrF1PbXUxtccLbXs478ItOdZQcwdbX3KIe9fadmeubStXXZyBxLmG3ClhSL4826mblx2S0u3RnUE3a4hJFy8kNns8sYVzSTxLS5ccjDIOCOQgu6/9XvLfXTmZxM/njyXxPH+mFIAI9wYA8glhRLVptczYuIjvuM+k8CwlqkIJ7OKMQ0lzp1241SdQiJNA41Fn7ZL6kuNetVe48htBeaJgp6Zb0SnAEGVEQPUNpMajziRlhzAVOFF1hH7gqvFVgjJJsJlDrQh19ogLOARU30DUGij+OW6RVGByhvsAccWZ6pKrvw+oE1Mu4AQoqM7nuyJEa2k8TQRih8gxQAVEL/CZJdgLaPpAK+roQZcAux3tGaGoc1UqEeUEEFCAgON77Zb621TOuvqEIbwZVfeqANPmBajqEqUr+6kzlLyu+nN/idLquhhfXFHZKK9cos+YzN2g/kN024wO7/eGVI9pC8ulAcsxWNQt9iQOpeYHRpPJVAqo/q4hh0OxU+grgQ3VnX+HQ2mn4NKI3KnGnkd5eNHdY+NoJv4A2VgWuknSF68AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgUlEQVR4Xu2U34dUYRjH9zWOcY5j/4a96qKLVGIvSvaipCQpxUqxVCwly1KylPRDimVXsbQspSgiiugiukgXEV1Ed/0B/Q9PPu/je86ZMzs1s5ozN/Pwdd6Zc+Y8n/k+PyYmxjEOIlipkUew7xu5/Xo5ab/fTlbARgIX7ONKZp9WM/v6JLefzx2M64+n+Siggn1YzgqoL2t5dAt9W3egnVNTTUIFe3c/s/cPswLs8+O8Qw27FOzN3ayAQpyBq6pBqGCvbmX2+o6L84sbaQGGAEYNQYUI8GwptY3rqa1fTW1t0c9ACFS91EA/hQiwciW15UupPZhv272LLtySYw01d7BHCw5x+3zbbs61bemcizOQONeQOyUMyRdnO3XtjENSui26M+hmDTHp5ZOJzR5IbP54Es/SwmkHo4wDAjnI5mu/l/x3Zw8l8fOJ/Uk8XzhaCkCEewMA+YQwotq0WmZsXMR33GdSeJYSVaEEdmrGoaS5Iy7c6hMoxEmg8aizdkl9yXGv2itc+Y2gPFGww9Ot6BRgiDIioPoGUuNRZ5KyQ5gKnKg6Qj9w1fgqQZkk2MyuVoQ6ttcFHAKqbyBqDRT/HLdIKjA5w32AuOJMdcnV3wfUwT0u4AQoqM7nuyJEa2k8TQRih8gxQAVEL/CZJdgLaHp7K2rfDpcAux3tGaGoc1UqEeUEEFCAgON77Zb621TOuvqEIbwZVfeqANPmBajqEqUr+6kzlLyu+nN/idLquhhfXFHZKK9cos+YzM2g/kN024x2b/OGVI9pC8ulAcsxWNQt9iQOpeYHRpPJVAqo/q4hh0OxU+grgQ3VnX+HQ2mn4NKI3KnGlkd5eNHdY+NoJv4AO8WwjCObe3wAAAAASUVORK5CYII=",
     "wiki_name": "Yellow gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yellow_gloves",
     "equipment": {

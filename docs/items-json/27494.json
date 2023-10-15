@@ -1,7 +1,7 @@
 {
     "id": 27494,
     "name": "Old wool",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2022-10-26",
     "duplicate": false,
     "examine": "An old and frayed ball of wool.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIklEQVR4Xu2W7SuDYRTGd/8nKx+UT0tJWoqWtCytLEKT0UxeFtNCJPISUl5ikZcWIkmSJH/d0XmezrOzs/th3M/4sF11Pu7Zr+u67nPfPl9N1SMFpfMvsv/87WYWXvJpeLqYgofTcbg9GfsPOAUf93NFMPe5FFwfJeFyfwTO9xJwtjsMue34X7hXgHm+mobH88kiGAI53hyEw/UB2Fvpg53lXthajMHGfI/XUDbM6/VMEUz+YNSB0YGsZaOwkumGpZkILEx3eQWl4P0u48BQX3hM6AyHQUcQhkAyqU5IJztgKhEyhVJWV2R5JQy6s7/a/yVMcqAVEn1BCyjg9/8WSlmuIATCUGcwKiowh6GY3GDisRYTIPtoY18kBIehqMqB6Y82mwFhb9AZCSQLjDFheREkOxF2+iJhYpEmMyDsDgGV0xmEQWfcYKLhRjMg7I9cfPxE6WJCmPGhNi1MJBQwA8L+YKHlvuHuUFTUGYRBd3QwnW0N1hgcfWW58h2Mrjc6mPZgvePQr11ChziIjIr3hkfFYRCExiAyknJ1RgeCzkhXKg5EzvDOyJgkjN0bo7i4lDYqAtK5gxDBpjprOIgHMKTC24bHJd2hqHQw8os/lHxgFQ/GiBGiW3RF0NXAxzMYt+uCuoTRYWw8Mg7gYUTKuQ7444r2DS1AWWgP3ZBSzrOzXKAKwqBUyfuGb2QJVGEYUmmJ3eYPYGzJYn418rc1VZU+AU0oyCsDFIaIAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4Xu2W/yuDURTG3V8lJaIRZpqVaUaMZb6FaZFokS+hlRAtEiIRkpRSUspfe3Tet/Pu7Oy+jPtu+4Gnzo979+l5nnvurar619+RgsKpiOw/f7uegZfLKXg6nYCHo1G4ORypBJyCj/vZPJi7bAKu9uNwtjMEJ5kYHG8PQnazvxzu5WCezyfh8WQ8D4ZADtb7YG81Cpl0BLaWemBjIQxrc91eQ9kwr1fTeTAXu8MOjA5kJRWCdLILFqeDMD/Z6RWUgvfbpANDfeExoTMcBh1BGAJJJjpgKt4OE7E2UyhldUWWV8KgOzvLvV/CxKPNEIv4LKCo3/9bKGW5ghAIQ53BqKjAHIZicoPpDzeZANlHG/siITgMRVUMTG+o0QwIe4POSCBZYIwJy4sgqbGA0xcJEw42mAFhdwiomM4gDDrjBhMK1JsBYX/k4uMnShcTwowOtGhhgm11ZkDYHyy03DfcHYqKOoMw6I4OpqOl1hqDo68sV76D0fVGB9Pqq3Ec+rVL6BAHkVHx3vCoOAyC0BhERlKuzuhA0BnpSsmByBneGRmThLF7YxQXl9JGRUA6dxDC11BtDQfxAIaUe9vwuKQ7FJUORn7xh5IPrPzBGDFCdIuuCLoa+HgG43ZdUJcwOoyNR8YBPIxIOdcBf1zRvqEFKAvtoRtSynl2FgtUQhiUKnjf8I0sgUoMQyossduUAcaWLOZXI3/7rz+lT2HXGH8+7eaGAAAAAElFTkSuQmCC",
     "wiki_name": "Old wool",
     "wiki_url": "https://oldschool.runescape.wiki/w/Old_wool",
     "equipment": null,

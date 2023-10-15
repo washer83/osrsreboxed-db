@@ -1,7 +1,7 @@
 {
     "id": 1798,
     "name": "Silver cup",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-06-09",
     "duplicate": false,
     "examine": "Bob's shiny silver coated tea cup.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBklEQVR4Xu2WW09TQRSFmX/CswkJITG8mhh/g1GDQQxisGmCWGuhNrX0Sq1tEApSERAC0fgft13TrNPp7um5tfpg3MlKb3Nmf12zZ/bMzf2PmYSRcP2VGCRLbb6wSqdeWr1Ov/Je32yl5O12+k/D+YMQwgVyod5ltmQnu+3j3lSgwSCEcb8nEKFWHj+U1ZVHsrb6RNbXnsrG+jPZ3HieBMpIficzklA7QSAC83sXKp/LSGE3K8X3Oal8yEttryCNSlGWl+/GhTJSyGfHHGFC1x1dUxzT2i9bdVp1aTXK0qyVLBDewzHkWJyfjwplpFjIWSgNo91xl5VjCdOslzwQOHRy2JZ2s2rfLy0txnFpAATtFXetKqW8B+MCoSZclwhDICTHkrGg4RgAUVsxXDIjIFCtXLBqVItW9t/35QJoGIwb3V1GjjpNW0eorYWFO1FcMh5EEEgQEH9zgeAuIE67HbtscA27MIJLxoMIAgmDgfA8/hSSo5bgznmvK5/b+3bZeFZFAtIgOqEG0TB4FvNg2QFw9uXQuoMaQl3ROcCEArkwk5Lq793f+DzcARB2F9zBUuGzCxICgzBjSdsfq2PJtTSMt1z9nQoQnD/cbRFBGGYEhNIAQTCuOwBCvaCgE8AgjAfR+VSPBKWBXHdwuKINJYRBGAtChQH5wbCYAYSmmqBVMIxtiNA0QFwunNw4ydHlEwAZW3RaWPtJUH4wBEK3Z6thixls9chhvL4DCIqO8SoBhQHxOdyJCAa3YrpkRjozwfyAeMfxE5/BKQy5UFAMl4w9TXFeoPkBDHWABJwcmgToggBCC1AxOzzC2GMeBxncAhjcIpj7zzVcECjGYqc9uH8vPtDVtxPpHR9I96A1dtvzg+M1xbuu9Me4wljuMsLEAEIY+XlzITeXPduZ0RDZh1w4vIaJfcsFiQnDGEzy6/a73F6dWddQX2iSWFIKoBDcpOAqoWcAMozBBMOb3o/rc7m+OLWuQZdfj63oojtWu6LnniqGk44n9EuupeebaehkWnr8PxW/ARUyExJlUg1EAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBElEQVR4Xu2WbU8TQRSFmT8gMRi+mCi/QJGISERs0iDWmtJaa99LrU2DiCAiokgIIUZ/9pUzzdnO3m73pa1+MN7kpO12du6zZ+7M3ZmZ/zGVMBKtvxL9ZKn1R1bp1GOrp+kn3uezjZQ830z/abhgEEK4QC7Ui8yGbGU3A9ybCDQchDDudQIRamnxjiwv3ZWV5XuyunJf1lYfyPraw3GgjBS2Mr6E2gkCEZjXXahCLiPFfFZKL3NSe12QRqUorVpJ5udvJIUyUixkhxxhQtcdXVMc09muWvU6Tem0qtJulC0QvsMx5FhcWIgLZaRUzFkoDaPdcZeVYwnTbpY9EDh0sNuVbrtuv8/NXU/iUh8IqpTyVrVywYNxgVATrkuEIRCSY8lY0HAMgKitBC4ZHwjUqBatWvWSlX36K7kAGgbj/LvLyPte29YRamt29locl4wHEQYSBsT/XCC4C4jDvZ5dNriGXRjDJeNBhIFEwUC4Hw+F5KgluHPyaU/edbftsvGsigWkQXRCDaJhcC/mwbID4PjjrnUHNYS6onOAiQRyYUYl1dfd/3g/3AEQdhfcwVJVXuV9IBEwCDOUtPumPpRcS8N4y3W1UwGC84e7LSYIw/hAKA0QBuO6AyDUCwp6DBiE8SB6b5uxoDSQ6w4OV7ShMWEQxoJQUUBBMCxmAKGpjtEqGMY2RGgSIC4XTm6c5OjyYwAZW3RaWPtRUEEwBEK3Z6thi+lv9dhhvL4DCIqO8VUCigLifXgnIhjcSuiS8XVmggUB8R0nSLwHpzDkQkEJXDL2NMV5geYHMBxiSMDJoVGALgggtACVsMMjjD3mcZDBLYDBLYK5T67hwkAxFjvt9q2byYHOvhzI0f6OfNjpDL3tBcHhtyuMcYWx3GWESQCEMPLz4ptcnB7ZzoyGyD7kwuEzSuxbLkhCGEZ/kl+X3+Xy7Ni6hvpCk8SSUgCF4CYFVwk9BZBB9CcYvOn9OD+R86+H1jXo9PO+FV10x2pX9NwTxWDS4YRBybX0fFMNnUxLj/+n4jcpDfj/M/SWeAAAAABJRU5ErkJggg==",
     "wiki_name": "Silver cup (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Silver_cup#Normal",
     "equipment": null,

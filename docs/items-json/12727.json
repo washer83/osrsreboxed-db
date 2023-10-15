@@ -1,7 +1,7 @@
 {
     "id": 12727,
     "name": "Goblin paint cannon",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-09-11",
     "duplicate": false,
     "examine": "A curious device made by goblins.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2klEQVR4Xu2VS0/CQBSF7R9wqRsXJCaG+EhkAUhAxCBghaBAtQHEAIooDyOQGAjR4EYX+p+P3GkGpuUVihgXPckJdBjmfHPntl1ZsWTJkiVLlv5aEoYep0njS5EEWfZCUUJQVXkMlIRYLCAATwNfWNrigYCTheqhNIfdGwgFPVDPnLhJ+ZCNOlC+8i0DSsKmbW1k5xyKTJDRwy2kQnY8JLbxXj9HNePHveJgc/dttkWh9OHtiqq7TkQ8KGeiuFUjyPfBcoljpOMB9OphnLjs6BRc+OqmUbsOLgqkBcaCbhZCodwUzk3XlVxMZxqrKjt4fTzFRyuOl1IY+YsDs0DDnXMQCqnn48xiKB9/LiYGv9N3cquUwmcziZK8il7Fj171zAyQxBYy7l4M4uZjNP+lrLCjpP6haxonmO92EvXLXfbJYeYAktjCtCA1J4cRdzzOHIb/l8M2ihHUkuvo3HnRLByZrw4HEivAgydZBBEbXvSc1SFJAwACEo+D3GvkmN+esszdWlrXO8bgcTYmzpAGRCYguf/gEyEIgB8NeVIFTARPk8TuLLJYCbFHaA41PM1ZIoio0fM32uncYw9BDmRc4ddlPHt9FbT3GL1c/wxotkzfOcvTv4KxZKmvH01V7HbdhFozAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu2VWU/CQBSFqYkm8qBoCKDIVigJFApUiQuIoCyiGBdCjBp9ML4Y///zkTvNwLRsoQjxoSc5gQ7DnG/u3LYulyNHjhw5crRqSRh6nCaNL0USZHkPqhqBpsljoCQoSlAAnga+sIzFg0EvCzVDGdbCbkTCflwUQrguxVFSfWgVw8uAkuDeXB/ZOYciE6Qe30Eps4t61oOPtorOWQTNQx+bm49GF4Uyh3cqmuk6FfOjnI/jRIuh2AfTUyHkkkG8txOQA1volQP4eT7CXTmxKJARqIR9LIRCuSmcm64rumIyjTU1D17qCr7u03isJnCpH9gFGu6cg1BIrZhkFkP5eP04NfidvpNbp2l8drKoKGt4q4fw2lDsAElsIevuxSBuPkbzb8oqO0rqH7qmcYL5fsqglfOwTw4zB5DEFqYFqTk5jLjjceYw/L8c9rbfM83sBrrn++jWCMJmdTiQWAEePMkiiNjwouesDkkaABCQeBzkXkNn7l4VmB+qOVPvWIPH2Zo4QwYQmYDk/oNPhCAAfjTkSRWwETxNEruzyGIlxB6hOdTwNGeJIKJGz99qr3ebPQQ5kHWFP5f17M1VMN5j9HJdGdBs2b5zlqd/BePIUV+/2KeZGU0LcMQAAAAASUVORK5CYII=",
     "wiki_name": "Goblin paint cannon",
     "wiki_url": "https://oldschool.runescape.wiki/w/Goblin_paint_cannon",
     "equipment": {

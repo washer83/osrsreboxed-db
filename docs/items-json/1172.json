@@ -1,7 +1,7 @@
 {
     "id": 1172,
     "name": "Wooden shield",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A solid wooden shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACt0lEQVR4Xs3WXUsUURwG8Nlv4EfYO2FBWATxIgJvvIhEEIMo8CJB8qaLLroxEV+wKFSKpIuMEpVWE0sR30pB8aU3QjPp65x8zvDs/uc/Z3Zn3PHlwMPOnjnD+c05M2eO5139kjHuuM6fe8mYz1N9ZmGy12b+/WMz97bHhoid5RGzvfTcbC0+c6D0TVQN90FEAcRozOanp2b943CgY/zHOZ0gKhEyY5am+0Mo/ALCELQ2N2SWPwzYtvh1gdBeok8Opsyf3YmzoQjCMUeHoC8LTyyIbaNAuO7v/qT596NwmlkLQh/5bNZG966KP+y8a4LQqQbJuy43ZbsrowEQjgnSvauSCUwDEHy48V+C0LblmmeaGz1zPe+Zhpwf1GvQwdqL9EAcJdQRhHZ3mmvMg1t1Nt1tpeSyYdT3DQkqJAPxudAgTAVAGiNBXa05G436+fVlAHS89656EOqJeXg7H8JIkEb92nyVLgjBuY4bNZEgibl3s9aGqMPt10XQybeZIiYxiChiEGAIihodgiTKBdK9RxT/9V0pDEaC4owOgjcQ1x7tvDkryF9HMEIEoa6zNTw6cUBYDkIgsSjq3lXxX/koEHLpIISgR3frK4IkJnUQUai/35YWaLaIiQXCG+YCccoqPdQa43qoY44OSgkkp40jhBCFtQiJAgFCDD4bqYEkijCiCGtv8gIgicGnBqu0BBGle3cUH+SaNtTpTZYcLaAQfP0RnEd7bDt+b40XQViDEqxDQZCcNoLQAX5RL3FEEcNNWdUgvGWVQOgMdfzGcSVncB5tUwXpaUO9BHE3SRC/e7iObQHaXx0Lgk7XoMTrkGvaJAjH5UAcIbRNBeSaNgnCObktkSC0k89PlSCU8KbdFYmR0SDspSWISQDyPC7r5aKBMvL5SQUUt2hkHCxTantBRSNd0ddc6fIfT7LhpWDTYgYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtklEQVR4Xs3W74sNURzH8bntI6WrjRQe7Ea2lmLzgBQPPPDAI0QIEULkiYi2jfzYNr/a2taP0G5tbWvbWClJRPxlR++ZPvd+53tn7p3ZO9hTn+7cM2c6rzln5syJouVfaiE7Wef/eqmFpyNHwuPhw3HGbh8KozcPxhFiduJcmBk/G6afnclA+ZvoGp6AhAKkeMzUk9Ph1djJVMf855xPGlUKWQvjd462oPgFogj0YvREmLh3LG7LbxaI9hb9Y2EkfJu7sTSUQBxrdAR68+hUDFLbPBDXfZ8fDr8W74ffiw9jEH0M9ffH8b27kgy77logOvUge9ftpmxu8nwKxLFAvndXaqlpAKGHm/8WRNvN66LQtzYK63ujsKaehHoPWnh5sTqQRok6gWi3va8n7Nu6Ks7ewWbqK1pRH15faoBIKZCeCw9iKgB5jAXtHqjH8aiPby+nQe9udQ+iXpj923pbMBbkUZ+mrlQLIpzbsbEnF2QxOzetjCPUl5lrDdDP93cbmNIgoYQhYATKGx2BLCoL5HvPKcnrO/ngeC6oyOgQ3kCu/Tp7famgZB1hhASibtdA6+gUAbEceJBdFH3vriSvfB6I/HcQEejA0OqOIIupHCQU9XsGqwGxSgtTCMQblgXSlHV6qD0m66EuODqUJshOm0aICMVaRPJAQIThs1EZyKIEE0qwLRuiFMhi+NSwSluQUL73jJKAsqaNOr/JsqMFivD1J5ynPduOz9NXGyDWoBLrUBpkp00gOuCXeosTShhtyroG8ZZ1AtEZdfrGaSVXOE/bSkF+2qi3IO0mBdJ3j+vUFtD88wspEGtQ6XUoa9osiON2II0QbSsBZU2bBXHObkssiHb2+ekSRElv2PNiMTYexF7agpQSoCjSst4uHmhjn59KQEWLRxbBKs22/6h4ZFb8Ncu6/AGUk+6uTntBmwAAAABJRU5ErkJggg==",
     "wiki_name": "Wooden shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wooden_shield",
     "equipment": null,

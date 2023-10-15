@@ -28803,6 +28803,10 @@
         "id": 11525,
         "name": "Feather"
     },
+    "11628": {
+        "id": 11628,
+        "name": "Ava's device"
+    },
     "11640": {
         "id": 11640,
         "name": "Book of knowledge"
@@ -55010,5 +55014,25 @@
     "28590": {
         "id": 28590,
         "name": "Magic lamp (magic)"
+    },
+    "28591": {
+        "id": 28591,
+        "name": "Tainted essence chunk"
+    },
+    "28593": {
+        "id": 28593,
+        "name": "Warped extract"
+    },
+    "28595": {
+        "id": 28595,
+        "name": "Twisted extract"
+    },
+    "28597": {
+        "id": 28597,
+        "name": "Mangled extract"
+    },
+    "28599": {
+        "id": 28599,
+        "name": "Scarred extract"
     }
 }

@@ -1,7 +1,7 @@
 {
     "id": 28551,
     "name": "Quest lamp",
-    "last_updated": "2023-09-20",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-08-23",
     "duplicate": false,
     "examine": "I wonder what happens if I rub it...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9ElEQVR4Xu2T6ytDYRzHnf/AK6+VFyulpPZiSZG0lqXJaZplGbm88IISSkTuQlq5S4sxt2WWYW65JkmSJHnlL/nye+Y5trPIOJJ6vvXtXDrnPJ/z/X2fhAQhISGhfy8J6jt/KAmtPUb8MtRXPy5heNyCPpf5DYhbU0noGsn6wgISQufVWN8rhzfgwOyyDaNuGXVN/F1NJOHk1obD62LFdc0ZKriwg8dV8IWcWA464F4twZTHCtdMEVo68yKg1I5LEo5ubNg8KcLWmYz9q2IGd3pXgvN7Oy4e7OxI12SC3b20smd9exZ4g2bMrpgwNp+HoYlsdAxmorFdj5r6dNicOtQ2ZH4PSu3Lx1JcPTkYEAESNIfZuZAZEP0Eh3L7TJhcNL6OLxcDo9lo6zewBD3+Ujgq9fFDpScnI9L0gdvnMgZGCREMpcfTIRj/QSHWQhYsBKJTonPqFfWLd61ATo0fKlbhtHhKPB2CCRwVKunM+/MxvWTEyHQO2xidQyak6BKjEqfOUdc0geI9ooQoHYJRp0Oj6nVloaXbAKM5nDB546CCjW18TmbX7xP4kcKdoh5xIEpnZbuApcNHRb1x1qRBb0hSFo9MSSMYLklJiadD4+Kj4rvLatcp4+KLR3dTU8Xuxo/8SwCxUu/Gz6x+V0hISEjov+sFAcvWUTQwbGkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAElEQVR4Xu2T7UtTYRiHPYgflFFIg+Gk5hbbcGfsjbUKFfqgIOoHMRHzFQ1hMLSyEEdiamYOhxOnqJUKhoUoA0EERRAEwa/+RT+5n/UctzOSTY+I8Fxwc1445zzX+d33k5cnEAgE9x4J6jt3iISmdjNuWSrbj0t4O2BHZ9D6T4iXpkh402fMYgEJy1uVmPn5HONzfgxNuhEallFdz9/VBAmbh26s77mUqm54pJJLVvx3BaaXA5iM+xGe8uDDqBPBTw40tppSpNSVExI29t2Y33Rg4a+M1V0Xk/tz5MHWsRc7J152pGsqkv2RcLJnI7/smIhbMTRlQf+ICb3vStHSU4K6Zj2qaorhDujwqrbkelLqSpz6sHvmZ0IkSNJcZmlbZkL0E1wqHLHg/ZgZofATdIdK8brLwBIcjfrgf6nPXcpTVobUog8cnD9jYpQQyVB6PB2Sia6V4/uKHV9i6SnROc0VzRefNZv8IHepTJJp8ZR4OiQT2yhX0hmJPsXHr2b0DT5mG6O114IiXX5a4jRzNGuaSPE5ooQoHZJRp0Ot6gga0dhmgNlaqIjMrr5gbRv4LLPryw7ciORM0RxxIUrn26KNpcNbRXMTqHoIvaFAWTw1JY1kOJKSEk+H2sVbxXeX06tT2sUXT59NTcncjf+rWxLIRL0bryr1uwKBQCC471wAMGCaa7Pf+/UAAAAASUVORK5CYII=",
     "wiki_name": "Quest lamp",
     "wiki_url": "https://oldschool.runescape.wiki/w/Quest_lamp",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 28231,
     "name": "Beaver",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": false,
     "examine": "Looks like it's gotten through a lot of wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4Xu2TUUsCQRSFd//BPO3Lviz4ICwIsiARIhQSIkoIgZFQmBJGJGQkIUgIPhQEQQ8RFIHQDz11dpwcJw01s4I9cJndcXfP57l3LCtSpEiRIkVapWyM169JAgwuXJzmBHZSFoqBNQHKBDZ/X4ps3FQctAoCjazA3rpAJm7BdyVQ0vOGpjZergLcnSdwe+aj14ijcxhfNpiNpzMXnZLAfkYW00nFTCAbr/1gDOi66aN9EEO95KG04cwLZcYsq7YpwhapNm0lZKsUkIIa9AI8d5N4uEyGQP0TP0ynVYmhknfhe2aaX0q2pF0U6JWd0Jwgak70IhD3WQqIKagixPG2h3rBQzXnopR2kA3EB8wMQDIJwhCEM0JTzghXda2K95whrgqIlU4I5NccVLLup5TnguFMqESUCdtBc70tap8p8R0daJq5Wab7BEkgmugAKhkThs8oUxNoAfNpkgb37UQ4mGr49LaYCfC5x44c3vKwRd+E0CVheEzTSTl8LM4Sk9MT4EqQ7lEc1aKL/PvAznl6ZtV4/9U1zXhs9X2mwj9AGP2dJQNZ1uijsiUsvR0jw8nDO/61pcpGv+ajuSvhJhmuCETXD7ZiUf0pmEiR/pveAHl5iXWkXoCoAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABy0lEQVR4Xu2T0UvCUBjFNy5jTMaGTAqNTA0TImpEpUFFgkUSCBKCDwVBDz0EQUFQD/3tp85ut643izSzgh34uNt12/l5vu9aVqpUqVKlSjVN2RisX5MEuD9ysV8WWM5ZqEbWECgT2Px9IrJxFjs4WBTYKQqszQoUfAuBK4HiUunF1MbdSYSLwxDnrQC9HR+dLX/SYDZuWi46NYH1giymk8uYQDYe+9EA0GkzQHsjg0bNQ23OGRXKjFlWfV4kLVJtWghlqxSQgnroRbjtZnF1nE2A+ntBks5BnEFccRF4ZpqfSrakXRXorTiJOUHUnOhFIO6zFBBTUEWI3SUPjUUPm2UXtbyDYiReYb4AJJMgDEE4IzTljHBV16p4zxniqoBY+VCgMuMgLrrvUh4JhjOhElEmbAfN9baofabEd3Sgj8zNMt2HSALRRAdQyZgwfEaZmkBjmH8kaXDZDpPBVMOnt8VMgM9dd+Twrry06JsQuiQMj2k+K4ePxVlicnoCXAnS3faxWXVReR7YEU/PVzXYf3VNMx5bfZ+p8A8QRn9nwkCW9fZR2RKW3o43w+HDO/i1icpGvx6gueoNgZGaEoiuH2zFuPpTMKlS/Tc9ARyWVzxIm/vcAAAAAElFTkSuQmCC",
     "wiki_name": "Beaver (Maple)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beaver#Maple",
     "equipment": null,

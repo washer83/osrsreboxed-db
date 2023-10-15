@@ -1,7 +1,7 @@
 {
     "id": 8106,
     "name": "Square shield",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnUlEQVR4Xu3XPUvDQBgH8OQbOLl0CXQIBAIhEEIpHURE3JwcFKFQxIJECNj61iFUiogv1ELpUAoFwa/5eP8Lh9ejxFqbS4U+8CfQIffrJZfnzjA29ecyafmsvEyaVn2asIwrHo1YhqFH76FLb4FLz4FDj75DDyyJZ1PHtemWpeWUKWbJAWXywTHg52ifBr0a9bs1ekmqPE+dCvXu0nSvQ577OKDWhU+RbXGQZ+G6skpB+Pcfwz2OyQIlVwHdRD7F555+EDBrCxKPqxCQ/LgKAWE1/QbkWE5xIHWFAdO+bFPUcKlZFOh0K+QIOVpA08HuDAazAYwMwm/8G6QTJEPUaAGhPQhQFkZGaQGpA2cldxCaJmZIngURFSOiBSQA8pJXIQLcKGsAiZdaXWVqtIAm/RT0E0YrSLQLFaBi1g7UrLt6QWoPQ1NFsFtEYz07yXGGsGdeBASMDKqXS3pA8zCFgMavOxvQnPoG4ZyFFxUDyTm2ZnNY2qYDltxB8gEQ21MR9CxEYIE6slJsDiCUejxePMDkADIMceNlot7r39UXjuSFNELh4oEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABl0lEQVR4Xu3X70vCQBgH8I0I2RgbY2OiUFlvetMLCwSDJEYM0qISDEMi+oEkCL4QfCH0ov/8ad8bR+chy8zdDHzg+2Yvdp/ddnvuNG1Tfy6dls/KS6dpyaNJnHHRpVGcYeDSe+DQm+/Qs2/To2fTQ5x716K2Y9FNnKZtUhQnA5TOBseAn6N9GvTK1O+W6aVTYnlqF6l3m6R7FbDcRT41zz0KLYOBqpXKKlEJCE//MdxjmDRQ59Kn69Cj6MxVDwJmbUH8deUCEl9XLiCspt+AbMPODySvMGBaFy0K6w418gKdbAUMIUYJaDrYncFgNoARQbjG/kEqQSJEjhIQ2gMHpWFElBKQPHBaMgehaWKGxFngkTE8SkAcIC55GcLBdVMBiH/U8iqTowQ06SegnzBKQbxdyAAZs3agRs1RC5J7GJoqgt0iGuvpcYYzhD3zIiBgRFDNLKgBzcPkAhq/7mxAc+obhHMWPlQMJKZqzOawsE0HcTIHiQdAbE950LMQjgXqyEiwGYBQ8vF48QCTAUjT+I2XiXyvf1df4TTkFjfXMsgAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

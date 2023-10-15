@@ -1,7 +1,7 @@
 {
     "id": 4713,
     "name": "Ahrim's robetop",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-09",
     "duplicate": true,
     "examine": "Ahrim the Blighted's armoured robe top.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADEklEQVR4Xs2WfWsTQRDGc9+k4B9CQSiFIkECkSISDGIwUEqh//VLqIgvqCgqiqKgoqWKaZWqpdT60kJKbX1DfCt+nTHPns9ldro5c8kpHXi42925zO9mZjdXKOx8iySs0Po/t0iez5yU+ekTTk8fHJe5e8ecCLG2eFmaC5dk9cXFAJR9ib7BYyBCAYiyMCvPLsirJ+e8wBhjzcqHygQZycLDU9ugcAUIRaDlubOy+Pi088U1BAR/Db21OSPf1+/2BkUg3DM7BHozf94B0bcTEJ77uTEtvz42Wpp1QIgxNDDgZKMbi9POtyYQgoaAlhpnEiDch4DWl654QLgnkI1uLPLKgEBsbowtEIIDguXtBLS5fC0/IGYJcyEgZpJAyJoF+vBaAzWyAbEvLBCCWyD4sVHTgD69ve4B/Xh3v38gzAMIIgRUKu1x0nMUgT6v3MgXCEIpGahY3O0gxsYqUjk4IhMTh6RcHpFqda9bGx7eJYODCBa5bH5t3kqAtt4/SmAyA2korI2ODiUw1WpZKpV9Ujuy3xPW4KOBvjVvB4Fs9A4WZwH9QCCM8fbIBksEOIxDwpoHtHanV6D4DEKG0oAQENlAllymWvOTk4fdtVYrekDoOQ9IHYo2urF4y6cBIRBL4rLRKpmDaMHV6wfcmH7oo9yBCGWBMAbI1NRRlxlcec81QOcKRCjMowzsDQJhh+lmxhhZIjz8mKU20GwC0xUQdlgIiP0DIIyZBSv4Ya1eLyX95gM1us0OrA1EKJ0dSgOhTBqGQHiGzxEqNyAG0gFd0D+NjL7RpbPP8CX0SR3/xl8tBtJlwxzSPz5eTt5YZ8hmRwPjGYjlwxzOoAznkA+kobRw0IXmKf5/2XlkKDMQdpkF4j84QPChhWD6GwjnFITjgf/08MV2h/+X1ZtJU/cMZHcb5jWQ/gYiDIHoC6CNl1d9oNYZlPkcCpVNA+E+DYgZgm8uQKGyaSCs6c8SDQQ/ALFcfQLBtjdpSLZ/KAuEb2kNRGUAKhR4rKfJAmrp/skFqFuzkN3AUm3f/2QWMiT7zI623yO+6mDWyZC9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xs2WfUsUURTGd/8swgglySWzjS1sQRP8x09RUVRUFBUVRQRRFCJFLyK9IYi9UKFgiImUEURFUdQnu/m70zOeuV63HZ3CCw8z994ze35zzrlnp1Ra+6Ps4ort//NRdo+GDrgHg/u9Rm7sc8PX9noJYnrslJsaPekmH5+IQIUvsWrwBEhQAEkhzMTD4+75yNGMY+bshcpC5YIsu9GbB5dAcQVEEtDT4SNu7PYhb8s1BoS9hf4+N+S+zlxdGZSAuFd0BPTy/jEPJNvlgHju2+yg+zl/x/2av+eB8LGnq8sr9B6MJOx6awHhNAY0fvdwCsR9DGhm/HQGiHsBhd6DUc6kAUcqbuYhEM6BUHqXA5p7drY4IEWJtRiQIikgohYCvXtxLgVCuYBUFyEQzkMg7FSojYDevzqfBXpzffVArAOEBIE6OjZ62TVJQB8mLhQLhEilHLW3b/AQPT1VV93e5vr6drhKpc3Vapv9XmvretfSss7bEs1PU5dSoB9vb6UwuYEsFHudnZtSmFqt4qrVLa5719aM2MPGAn1+fTkKFHpfZiRRoB4ExJy3JxpKEXDMY2LPAn2ZvrJSoKQHEaFGQDgkGkTJR2phvb9/p792d7dngKg5C2SbYug9GMmRbwSEI6XER2MhZR5iAa5e3+bnsqOOCgcSVAjEHJCBgd0+Mlx1rz2gCwUSFOukQbUhIE6YLWbmREnw2ClKAqJLC6YpIE5YDEj1AxBzRSEUduzV6x1pvVkgItRkdBiLQIKy0ZEsEGmyMALiGT0nqMKA5Mg69E7/FDJ1Y1MXPqOXsJ06+Y2/jgTIpo01wt/bW0nf2EYojI4F5hmk9LFGD8rRh7JAFsqKRhdbl/T/Fa4TodxAnLIQSP/ggPChhTP7DUSfQrQH/dNjy3HH/uPkxbSoVwwUnjbWLZD9BhKMgGQL0OyTMxkgelDuPhRLmwXivhGQIoRtIUCxtFkg9uxniQXCDiCla5VAjKVFGlNYP1IIxLe0BZJyAJVKauuNFAJa2fopBKjZEUI2Ayst2v6nEULGFD6zpsdvrm/5oC6g7MMAAAAASUVORK5CYII=",
     "wiki_name": "Ahrim's robetop (Undamaged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ahrim's_robetop#Undamaged",
     "equipment": null,

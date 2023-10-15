@@ -1,7 +1,7 @@
 {
     "id": 7797,
     "name": "Woodcutting tome",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": false,
     "examine": "A tome of learning which focuses on the Woodcutting skill.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xt2XQU8TURDH2W/SsycunLyQEGMMCZFIJIRIRCJtaNmItZTS0mytbS0NtkEEBBGwpASCJsTEGE9e/Fxj/mNm+5guLX1UjU7yO7Hd+fHmv+/t9vX9u+VQk79eDnkrKZoLz5AbixhiQfz2cqi29pIyqQTLjI8/YCYmHgbSKthzWYfWyi9oKbFAi3G3RWBy8tGV6YGYQzubNSoXPJaZmnrc0kTA39qBa5aTcaqUnl9HyqHtjSoVchke2fR0+EKTdDp/KbjWBEIYNaRw3/5QyEbKoTe1CmXTSQ71zMyc30ALaHCtiQiNjt63FXJof3eTA5330jQ7G+Mb68btwPXyOxEKhW7YC+293eCZl/JZikRcvrlu2gn8RkY2NjbBUhZCDh0d7NDu1joHOhp9ykBKN+wEfiNCAwODdGto0F5oc32NqpUixWLPGEjphp0QIazM8PBdX6Zrofr7bXpdXeUMue4iAyndsB24XoRGRu7xClmtzsnRPh2+2+InbGFhiREpQTcPQoQwLjPMXQsd1/c40BhZPL7MiJgW1BKCrChCjTCb49Id25RDn07qLIQdOpHI+IiYFkRzLStACBsoRtXff9NO6Oz4AzUOd3mFksmsz2VyENKyIoyHQG+GVkJ4wrApplKeT5CcjEckTGkIYUNEmIHV6pyfNei0ccBCZh5MMZ0VYIoIyJCE2XpcIoSRZVYKPlpAy5mrJyuIMGNUCLT1uEQIO3Q2W/Ix5bSguXoCxiVhvtZhiiAjO9iDwuEME5nzmKvIiaCEGSOzHBfq13GBVw0cppD78eWVTzSaYzFTNEgQ45IwmweplRCOCxwV2IPM/xq5+H6+2oL7pEjz83lfFmAzxYGMFzEzP7rbFcrh/GBcQP/nAuTwiH89Lfh8+1j0wRsmhPAOdY1xSTW/EMxQB2HKYUc+r3vM50aOkS8Qy3E1q3mDphxGYuJ55QtoORyoli9i7StILkjQBGJ4yu7cHuq9kFkipwW1EL7h8JXSk3F1U0FyJn9URpe5ehdX8j+on9T5ayo7RQZVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xt2X70tTYRTHvS99Ewi+CcEswTDDZZgZ7pesteZkbu5Ha/7ExjAzzcwsUxkiGr0YBEHQu971X574njh3j2fXzT2uog58Xnl3z8fnfO/z3NvR8e+WQzX+ejmUm01S0D9OkXDAEPPit5dD5ZUFSifjLDM8fJfx+e55Ui/YdlmHVhaf0nQ8SlOxSJ3AyMj9C9MGMYe21su0WMyxzOjog7omAv7WCFwzk4jR8vyTy0g5tLlWomI+zSMbG/OfaZJKFc4F15pACKOGFO57p6/PRsqhF+VlyqQSHOrx8aDbQAtocK2JCA0O3rYVcmj39ToHupBN0cREmG+sGzcC18vvRKiz84q90M6rNZ75fCFDgUCEb66bNgO/kZENDflYykLIocN3W7S9scqBDoUeMZDSDZuB34hQd3cPXevtsRd6ubpCpeU5CocfM5DSDZshQliZ/v6brkzLQvtvN+l5aYkzFIlMMZDSDRuB60VoYOAWr5DV6hwf7tLemw1+wqLRaUakBN3cCxHCuMwwtyx0tL/DgcbIYrEZRsS0oJYQZEURaoTZHJfu2KAc+nR8wELYoePxtIuIaUE017IChLCBYlRdXVfthE6PPlBlb5tXKJHIuJwnByEtK8J4CPRmaCWEJwybYjKZc/GSk/GIhCkNIWyICDOwWp3qaYVOKu9ZyMyDKaazAkwRARmSMFuPS4QwsvRs0UULaDlz9WQFEWaMCoG2HpcIYYfOZOZdTDktaK6egHFJmC91mCLIyA72IL8/zQSCWeYiciIoYcbILMeF+nVc4FUDhynkfnx55hIK5VnMFPUSxLgkzOZBaiWE4wJHBfYg879GLr5Xl+qIPJyjycmCKwuwmeJAxouYmR/d7QLlcH4wLqD/cwFyeMS/nhRdvn2cc8EbJoTwDnWJcUnVvhDMUHthymFHrh5kmc+VPCNfIJbjqlXtBjU5jMQkl1s8g5bDgWr5Ita4vOS8BE0ghqfsxvXe9guZJXJaUAvhGw5fKW0ZVyvlJWfyR2V0mat3diX/g/oJCExrec1OEhwAAAAASUVORK5CYII=",
     "wiki_name": "Woodcutting tome (Blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Woodcutting_tome#Blue",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 20386,
     "name": "Steel gold-trimmed set (sk)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, skirt and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xs2XbUuTURjHt2/i6yCQvkLIkMlIHMmUSXPkYrmx5kNjG2NrbWumZTEiMkos2iysTMyIhMQ0eiH0IH2ZXlz5P3fX7dnZ2dy9h/CCP/e1c859X7/zdJ0zm+30m5300tV33ez0ZiVFa8tJoVdPE7T6OC7EEDsb8/R5fY623xY1UGon2gY3gBgKQCwV5tPrAn14masKjN+oU1UNZQnSTuvP0jVQeAKExUBbq1naeJERbfHUAaG9DH24v0I/dpdag2Ig+Dw6DPRxLS+AuG09ILz3a2+Zfn8rH6kigBCjt6dHSI2umDHs3Gu5Z+1IBoKPsqZg5GnA73ToPGVnxyh4aYBmg26KhYYpEfFQKjpK6WmvqMvFfHQrPk63k35aSE/QYiZA97NB8US923FGfKvjQKFxF0UuD9JUYEgLBzBAAaSUuyqgUF4NVLYGxOtCB+QfcVDA6zThAAYoAKENRolhHhbD4qkD+vnlSXtA6DlAlgo+S+oaEHqOUVEDniQd0OHX5yZMS0DZSJ8AwhTJwd5VylrpgDzOs1ogNXodM7bpZvmGCYSFykAqQD11CMjIQRghFQi7Sw3aSPdSI3ogKSmq0RUztrwOCLkFO0oNepK6DlS8ftEMJvu6MvgdBYJQlo86RG5BIryb9JgBZV9XBp+BvK7ef0AVE6YpIOywRkCl9KgZUPZ1ZfBrgcrNjg7sGIihZCBkZCxUBMOTfVlymbyouwKEMys/4xbB5uPDNTCq9FNmZGr4anSNGUDytKFsbrpfHJIASkwOUCrsosy1C/TnYEwrwLIYyDd4TnwLOchCHqoG4qspA+EADfv6KOp30MxEP8WuOKsAb04NiRHE7mK1DYRdVg8IH8ZpjzONryB80qOOrx5IEWj/oDDZOSCGkoEAwfchvgvJMDjvGEa9fphARznIch7STVsnhEtZS0DqtGFxowwX+93NBVEn/yuBj5sBhHZ8qUfbvfd36GC7RN93HrUCBKvtmU4yjCwVaH9rsQqIZQHIZuO03kgqoCyMJIAwOh0BatZUyGZgWcdt/5OpkDqp75xq+wuwR+qWHCC/EwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHUlEQVR4Xs2X/WtSURjH9R8oot/bnMzYjOnGcsbMJpp7SVBxmqm5thqFENELxRhFbWP0xmisFwgaBGONEftpP0RR1J/VT098z+W5Ox6PzqvX2ANf7uM5597nc96ec3Q4jr45SS9dfcfNSa8WM/RiIS20+ihFKw+SQgyxtT5Ln9dmaPN1WQOldqJtcAOIoQDEUmE+vSzRh9VCVWD8Rp2qaihLkE5aezxdA4UnQFgM9G4lT+tPc6ItnjogtJehf+4u0vft+61BMRB8Hh0G+vi8KIC4bT0gvPdjZ4F+7z2jP3vLAggx/N3dQmp0xYxh517LPWtHMhB8lDUFI08Dfmcjpyg/NUzhs700FfZSIjJAqZiPMvFByk4MibpCIkBXkyN0LR2kuelRms+F6FY+LJ6o97qOiW/ZDhQZ8VDsXB+Nh/q1cAADFEAqhQsCCuUyEGQJiNeFDijod1FoyG3CAQxQAEIbjBLD3ClHxVML9OVhe0DoOUDulQKW1DEg9ByjogY8TDqgX1+fmDAtAeVjXQIIUyQHe7O8pJUOyOc+rgVSo9cxY5tuLF02gbBQGUgFqCebgIwchBFSgbC71KCNdDPj1wLJSVGNrpix5XVAyC3YUWrQw9RxoPKlM2Yw2deVwbcVCEJZMe4SuQWJ8EbaZwaUfV0ZfAYa8pwQ30KWZpimgLDDGgFVsoNmQNnXlcFXgTBCTY4O7ACIoWQgZGQsVATDk31Zcpm8qDsChDOrOOkVwWaTAzUwqnRTxpkavhpdYwaQPG0om5noEYckgFJjvZSJeih38TT93R/WCrAsBgr0nRTfQg6ykIeqgfhqykA4QKOBLooHXTQ52kOJ8+4qwCvj/WIEsbtYbQNhl9UDwodx2uNM4ysIn/So46sHUgTa3y6N2QfEUDIQIPg+xHchGQbnHcMARL5+MBBykOU8pJs2O4RLWUtA6rRhcaMMF/vtjTlRJ/8rgY+bAYR2fKlH252312l/s0Lftu62AgSr7ZlOMowsFWj3/XwVEMsCkMPBab2RVEBZGEkAYXRsAWrWVMhmYFkHbf+TqZA6qe8cafsHdqTuZPzpMJMAAAAASUVORK5CYII=",
     "wiki_name": "Steel gold-trimmed set (sk)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_gold-trimmed_set_(sk)",
     "equipment": null,

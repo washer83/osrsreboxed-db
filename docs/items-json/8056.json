@@ -1,7 +1,7 @@
 {
     "id": 8056,
     "name": "Zamorak symbol",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrklEQVR4Xu2X30oCQRTGnTfoyhtvFnqBbnuCCEKCoigwzCijIrKwklDc1MQSNRKhxP5DWJGQRAR20U13PdOXZ9Yxd7H2Rme62A8OM5zZ5fz4ODM763L1VAzWTJ9FBX8rynAQmvxjvediqCQCyGxNdSnKcJla4PkhTeNhXu+LDAdO4/4WkDk+nrJtIOubfRRDNbeM2nkMLzf7aNynOchnvYCvt6IaoOv0ImonHkQ1N8LaAEKeAcQH3TyvBIj6qJr3INKEoSAogivr82qASlEfHgsG0OuZhmTTHZpTXgnQcWQWzyUNjQuNuyOcyu/MqAGibU9A1DsEJKDEcSAdKLk+wYEECIHRqK+NqwHaC45xIJrTKOYipAOFA6MmAAraYXRobvpHWjlpYvykph1FzU2NTGNsxWtySLpL3UKASIYxZBRluD1cUuVKN5mBrKsK5ADZyQGykwNkJwfITv8KiPEPK13sfd5hDmV9QqIYsuFpvD9kUD7aQDG1ioIebEFJBzNg6ld6G4CuHnRHIrDE9pxsKIa70m5H3xiX/h93lHz5O4sy/tdayYVUwRgyF+2tM9/wUXeqDavOXQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrUlEQVR4Xu2Xz0sCQRTHG0Rk+we6WpBBRYlkFtkPKAsrJLQ2NbFELZKEEqyo6BBWkIeQCLrYqVPn/r9vvlnX3MXai8502C88Znizy/vw5c3sbF9fV8VgzvRYVPC3ogx7obE/1rsuhnI8gPTaeIeiDJfJGZ73ut08jOs9kebA6ba/CWSMj6dMC8j8Zg/FUMnOo3oew8vNLur3KQ7yWcvj660gB+g6NYvqsQtRxYmw4kDI5cBOv5PnpQBRH1VyLkQaMBQERXAldVoOUDHqw+OhBvR6piDRcIfmlJcCdBTx4vlEQf1C4e7oTuU2JuUA0bYnIOodAtKh9ONAOFBieZQD6SAERqO6NCIHaCs4zIFoTqM+10M4UDgwZACgoB1Gh+aqf7CZEybGT2raUdTc1Mg0xhY8BoeEu9QpdBDBMJq0ogy3+3OyXOkkI5B5VYJsICvZQFaygaxkA1npXwEx/mGli73PM8ChzE8IFEMmPIH3hzRKBysoJBeRV4NNKOFgGkztSm0B0NWD7kgEFl+fEg3FcFfcbOsb7dL/446UL397Ucb/WsvZkCwYTcai3XXmG7iPTJvR3+MjAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

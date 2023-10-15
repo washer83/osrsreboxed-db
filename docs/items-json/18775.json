@@ -1,7 +1,7 @@
 {
     "id": 18775,
     "name": "Oil lamp",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-14",
     "duplicate": true,
     "examine": "Not the genie sort.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTklEQVR4Xu2V/W/SQBzGd/+FG25i/G3JHAyQ94mZZFtYNmCF8rIhtFBeqoiL0Rjjr/7bj/e97li5gZmjUmJ8kk8o0Lt+7ukVNjb+x/Mw3OF7GDa3drAVCCKw/dxvKYYnXGYz8AyBp47Q9s4LP6UY9sMJhA5SCEczOIhlEYvnhFAoGPRDioSSM0LR+Gt/hUJCKO0IvTpEJHbot1AKocitUDS7BkK8HRIiGZIKxzLrIRSOZByiayCUTOeRSL8VkJyvQomUIyKgY45PQgz6lY38aQX5kzv0pu2H0HyZ/ImGWnOEvf24kFJH/aUwcUEhwzm7uL7lSlDgvAzFVyXFUK52XfRwSVS6glLFQEkz+Gf8vd5dhRQJORKabkGrWTDMG3Q6E5hd/mpO0DE+otf/gjIXFHA5R0rFkzA03o2FyOjDd1wUa4JyuTHDwP6GIm+q2hhOBXqtFq51HZfn5zg9OvJKiqFlfMLnrz9Rr7UXYnPZ8eTHVOa9ZaHf6aDdqKNaKuHs+BhvslkvpJhYndUbwzTshRjtoTiPGA8GgpFpipZojrqmCTE6XvLngYnKi4UChoPJDAOLGKPPZel7Ym93Fze2PRWi8UazKZpyS6lXeWCc+mkiCU24iHwuh3QyKSApEqGG6NbRK0nJhh7REhP3XCJXKaHN6oZadJ8vx0gh2dajZWi1KnKlbjmSoebUcyWy5SVkZJh4Mgi5Wf8EVWJJGRk23awSKfk7VBF11iXjPGXzUGUJD27NQ8LuPVHzWJGMjPq/dJ8VyjhRN+g81DH/TH4BWLaMZ7C+7t8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACU0lEQVR4Xu2Va1PaQBSG3T9gW6qlyqhAEi6C3AlIbhRQwI5VcaRTP/RT//9fOD3nhAW6xo6VlJ3p9Mw8k0B2l2ff3Q07O/8r9hKwQnsJeJdIQmLvAPb2U7qlBLxNfEChjyz0HoX2k0c6pQScZEuQMStg5upgFhpQOLVZqJZO65AioTIKVcHMh0L5YkuvUNo4g6wVClnFJliFpmYhcyVECVmIViHaP4ZVYxlOCdEqlMX9Y+RqYKAIg/d6hXC5iqXOEu1CdMwLKBJC99qOvYBgNIeGPYJ6e4U/nOsQipapt4co9ICvgjJLqb3+UtG7p8wyhN27WjBl2ucTyOC7aUtSAnrBLXLHOH264mf/hul6xDU4+J2Dz7cgJViCcD/N8DrDpXsAf3APAeINZuDisz5+1wtuFtwupFRiKQGD8SPK3MPF9BHKZzZTqXR+YXA5x6S+cDspcN5qQaNSgdNcDrLHx3FJCRhdfYfrux/QbHnQaLqRDMdf4WLybSnTdxxwbRvatSqUi0WwMhk4OjyMQ0rw7ILgM7ju+Fl6vRG3I4aex/jdLqdEY1RLJRaj+w1fD4IjzxsGS63j+1PwvAky5ufEm91duAyCpRD179TrnNS6lPorL6wwfhpIQgM+x0kqBQfJJENSJEIJ0dLRlaRkQq9ISfCaS+QsJbRZ16EU19vLPlJIpvVqGZqtipzpuhzJUHJqW4lMeQMZWYJPBiE365+gSmwoI0ssN6tESv4OVUQddcMKT1kUqiwRw9K8pMSTExXFlmRkqf9LT9miTFjqBo1C7fPP1E+yMSk41k1ljgAAAABJRU5ErkJggg==",
     "wiki_name": "Oil lamp (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oil_lamp#Unlit",
     "equipment": null,

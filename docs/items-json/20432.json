@@ -1,7 +1,7 @@
 {
     "id": 20432,
     "name": "Nuff's certificate",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-11",
     "duplicate": true,
     "examine": "A scroll that says she's a healer, that's Fairy Nuff.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCUlEQVR4Xu2XXUsbQRSGd//BXvXau14VRCi9KIJQxItKobQgWgTxJgHb0mBjDdGSVGsT823SaIitH0lMtBb6D6d5z3gmk3ESdxXtRT3w4H7MznnmzGxmdZz7+H/DFcO503DF7KRHRGZGRei5J96+8MRil9DL7rVZ77akbJ1KGUjgGEKQiUCkS/S1JxLzD+je6MiI5XnfYZZcJu6XckkkOjdGcDsI4fqrpw4dr8/dWKg3BTpIwpXQwbXFKU/MP/NEfDUsVqMLIplKE7gem5HPXFOoN0IeuQ4LIPnshKxCdHlBfM3mFJvbGQXa6dNmZrsiXHq4+GG8rwJYCywBgeknjsiUSkS6WCRS+YLiWy6vuMG0ycogOUqMv/SmXExFIhYWayuhS2R3dggW1CUZDCbgtMlpYCEW2Vh/RyTjSwOBKMiVywqWZHjaAglBACKpZESxlXjfB+T4mO/bpAuVSh9Ya1x5n+vIpVGgSrmtjyKzsazQBQFf53amPAsWq1UFzukl8V8llxYfqlRIrRBIaIPvl7Y/9bW1DaC8t0dUajXqO4AQQlapnI1RMkYXALgPvufjBLcfNpDqfp36xrQFEuIqcSIdFtgtrhG10mcCx6acCffBL43vdTQ55tAC5KQ2gXolQfyoJgk+N+V0uA8MNnCVmEECB7sbxFFtU4Fzm5zZB6YNVQog5DhoKBu7lORn44g4aB5T8kZ9i2jupxQ4t8nZBsF7oW8hGa7svCtx2Goojk6a4rgtaXRaROcwI9oHaYLluMq832Grwfrkn5b4wmO/6wghtxB0bhNonp4oWqdt4ryRF2fHOfX9o0+9vjaxhlbn5Qbdm4krQ24jGLkuwMlbZx2i/atHIh6mZHiOf5H1z5bpi7f3GjIIKYRR25K3z09F+kuY2vB0mBVh+PsJMnwtoAzCpSR/2kVKDjq/z9QniE2Ck5gMamNmvCJcMf7IobLzrk8fYhPDJcxeOPy08RGueDP1kN4MyNCHWVfo8mfsnUavGvhPQkevkPnUrYZtLfwzGTP8rpn7uO34C/93oTcVS+JyAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xu2X208TQRSHd9P4ZmIMxkRIBGIwURNAEsMLRo02CippC9RqUyiFUnqhIhcRaAttucTE/3ns7wxnOh2GdhdSfJCTfGEvs3O+OTPbWRznJv7fcEV7rjVcMdIfIILDd8XEo4B4/TggxhtMPGlcGwl0S8rWqZSBBI4hBJkgRBpMPguIubFbdG90YMDyvOcwSy4Tt0q5JDI52kNwOwjh+tMHDh1HRq8s1JwCHSThSujg2vhgQIw9bCSfCYtQJCS+JNMErk8Py2cuKdQcIY9chwWQfKRPVuFzOCTiy6uKb6mMAu30aTOzdQiXHk6/622pANYCS0Bg6L4jFrMFYmE1T8yv5BSJdFZxhWmTlUFylBh/6U05m4rZ6ZciPDVxjlSuQLCgLslgMD6nTU4DC7FILPKGiIZeXQhEwVK+qGBJhqfNlxAEIJKIBhXx2bctQI6P+b5NOr1WbAFrjSvvcR25NApUKRX/IJKx9wpdEPB1bmfKs2Dm+7oC5/SSeK+SS4sPVVpOTBFIaIPvZxY+trS1DSD7Y4PIb2xS3z6EELJK2cVpSsboAgD3QX4pRHD7dgNZ29qmvjFtvoS4SpxIhwWK6TCxnpkhcGzKmXAf/NJ4Xkf9PQ4tQE5qE9jMzRHbhSjB56acDveBwfquEnORwE4xRuytf1Xg3CZn9oFpQ5V8CDkOGsrGLiX5WS4RvyolSl7aiBOVrYQC5zY52yB4L/QsJMOlhyGxe1BW7B1WxH71gCjVDon6blJUd+YJluMq836HrQbrk39aQi/ueV1HCLmFoHObQKVebXIkOS0viZP9lPr+0adeX5tYQ5/G5AbdnImOIbcRjLxF4Cz5wXGNqJ7UFdGoXLB4jn+R9c+WobO39xIyCCmEUduS106PxEI8TG14OsyKMPz9BBm+5lMG4VKSP9UVSg7qv4/VJ4hNgpOYXNTGzNghXNF7x6Gy865PH2J97SXMXji8tPEQrng+eJveDMjQh1lD6Pxn7LVGsxr4T0JHr5D5VFfDthb+mYwZXtfMTXQ7/gIcyt99B/lZFwAAAABJRU5ErkJggg==",
     "wiki_name": "Nuff's certificate",
     "wiki_url": "https://oldschool.runescape.wiki/w/Nuff's_certificate",
     "equipment": null,

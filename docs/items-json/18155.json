@@ -1,7 +1,7 @@
 {
     "id": 18155,
     "name": "Skeleton boots",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-30",
     "duplicate": true,
     "examine": "Skeleton feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4Xu2V30uTYRTHff4ObwZeBEIwAunWm64ECRIkJC+SvIiIbkxECzMS0n6A2aiWTpy5shm1WhNszIU1ttZoLQi7CGHgcpQ2t9UGGyfOeXm3ve+z99kvl0R+4bCx5zznfJ5zzvOsoWFf/4cYKG3PJAHoGhsVVhyq7tA8iAyj1+nIRL67DMUnUAOV8uX9ahKDJ2YzJHZ24PvmJoTX1wWJ/hLQ0wdzOaBIOCxItAdA0UhEkIiBx+WitYDHAwszMxp+NYnBM8s8Af2IRslEQL7XbloL+nzU6uJ+NSkP9HNrC2Lb20Ig/5tVWvsUCNC+Qt+8X01iYHtoIaB4LEafIiBsFa59DgbB/nhB4Fu1pEH9lUiQ/U4mBUkYfPS/gznjPZi/b4SlxUWBb1XK35pUKgXpdJpMOwmjVlmmp2igX9lsAt+qVPwaF5pyNhi16pHJRDfTZbfD1UvDuwXE6BHMZDLUBq97hYPhobQPYJyYUMFXJEb9x5PiifHmrDhe0qkxsDqZlEgbBs189041VZICf/B6FSd763QSIH4/3dPDJZP3JeNxejy/flmj2+Z88ZwOdWtsTNE6dVYNMTjT28slQ7s5OkowJzo74Vh7O7eOe7PZLAF929iAtVCIWuywWsFkMMCVC0O52BVUicGp7m4Y6uujjXhbVpeXc48bVuZkVxcc7+iAo21tCiCEQcN3Cucu9N4P7iUHWGdnqTrnz52FI62tlQAp+48PGgbDvl8eHFQAyUELTf7/KmZYmUN6PRxuacnBlADSHkbDjesENDwwoACRg0qBGc0YHmB8ZISLcbC5mQNSExRR6VvCg0j7piYn4WJ/P9y+Nk7tliuKv+HngaYmgiqzOnnJpy0GJg4m+eP8YXsQEOHw7wPnB2dOvL+ECsHULVL7SuIPIBtedRzoClqlrcL2iINpA5Wubt2krGj51a2j1BUtr7r7+sf1B4rKZ/8L6C/rAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu2VX0jTURTHvU+ShCFJLz4kCAYJliFkCBHUiwmihRkJaX8ezIwysyGmmcWGEVkt80EawwwjxkbZiNEIguotXxJksIRCLM1cZPbgghPn/Phtv/u7v9/dP5dEfuGwsXvuOZ97zrl3GRlr+j/EgLdVkwKwLjOTM2OotEOLICrM9vx8MpnvCkOJCfRAsXxFv5TE4HpXF3ybm4OPwSBMjI9LEv0loBuXuyNAgYn3kkSrAPQhEJAkYuByOmnN63KBtaPDxC8lMbh5pYeAPk1NkcmAPA9HaM3n8VCrjf1SUhTo8/Q0fJmZkQKNPRqltZdeL+3T+kb9UhKDW1d7Cejr7Cx9yoCwVbj2yucDu9Uq8U1ayqB+X1gg+xEKSZIwePH0CXSfb4WeC20w2Ncn8U1K0Vvzc3ERfi0tkZknYdSq3ovtNND3+/slvknJ+BprjZ8NRq26ZrHQzXTa7XD0UO1KATF6BMPLy9QG94NhAUaEMj9AW1OTDj4hMeo/nhRPjDdneOAunRoD65Mpicxh0C6dO5tMlZTAz91u7mSPHQ4CxO+7y8qEZOq+0Pw8PZ7v3r6h2+a4c5sOdaqhgWudPquJGOwpLxeSoZ2sryeYHcXFsLWwUFjHvb/DYQIKTk7Ca7+fWjxgs4GlpQWOHKiJxE6gSgx2lZZCTUUFbcTbMjo0FHncsDI7S0pgW1ERbCko4IAQBg3fKZw7/7MxGBm8B7bOTqrO/n17YXNeXiJAfP/xQcNg2PfD1dUckBpUa+r/l5FhZTbm5MCm3NwITAwg82E8c+I4AdVWVXEgalAlMKMZwwM01tUJMTZkZwtAegIDxb4lIoiyr725GQ5WVsLpY43UbrWi+Bt+rs/KIqg4qxOVelojMHkwxR/nD9uDgAiHfx84Pzhz8v0xpAXTt0jvq0g8gGp41XGgE2iVubTtkQczB4pd3bSJr2j81U2j9BWNr7pr+sf1B58BCO1ob1u6AAAAAElFTkSuQmCC",
     "wiki_name": "Skeleton boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton_boots",
     "equipment": null,

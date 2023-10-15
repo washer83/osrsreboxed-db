@@ -1,7 +1,7 @@
 {
     "id": 4053,
     "name": "Barricade",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-13",
     "duplicate": false,
     "examine": "Use these to block enemy team movement.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEUlEQVR4Xu2W70dDURzGd/6Tve5VIr1ILEmmzKaJXkTFlEmkZUxlKpOITIn0YhLpRWQv+0FvepESs5SSUvSD6F/45rmn7869d7+0ds/tRV+OXefunPu5z/Occ67H8+sSZO9xsQQtT/jpD0EJSk/1GECNXq/bUIIioWbamA7R1lz4WyVz01pSmdhAqwGTSUqgpXG/0Rf0NeiGkkDJkY4C0EykndbiAUqNddFouEW3jRIIgWYgqINf9APOFaD1RNCizu5iP23O9tLKZLc7QFAHmWF1EHDeBgCjCUhQfi9Dj6fH9HZ1SZ/PD/Rxf0PvNzl6zV/QdXaHDlZT+kMNW7YX+gxFYB1Ugm287DUqhJJAsAwwWFl3R1lKx6LuwNwe7tPT2Qm95M6NhmvkB01zmLlUqNkmKIXGK8w+wsESNBRoKgDxWcbbgOazTcLEB9uKgFglVkwDkILBkcFAyiJhwKBhxTlsm4KZj3aWBcIWYAZyUCVhwGB5o3FmAGTemVkla1/dS1Bi2Gc8RFlRHgiKoUFFB2xTMGg4t+xAVnvkNxHuwdo6q6Rg8MawzPzg0kByHO6xtXUCUjDIBK55cjtQ8YNluAHK46xz/7gUDPYV88eWXYVyQLAL4+v0oSbfEOeSOQfWSRVQ6azInJUeW1NVm7AakMfD4+z9NVflCRUQL+/S/9NW/0DVSgGVz5n2qhR6l8oJmC9oFWyzIoTQ+AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu2WTytEURjG53wBG1JMGCMzjVGkkGJSktEsJjShSUqpiVLKgpRSNhZiTbOxs5GSzUwKJSlKNpOysPE5Xj33eOfce+dfxtxzLbx1mtu5c8793ed5zjnX4/l1CbL3uFiClsb99IegBKUmOw2gXp/PbShBQ6EGWp8K0fZs+Fslc9NaUploX5MBs5mQQItjfqMv6K3TDSWBEsOteaDpoRZajQUoOdpOI+FG3TZKIASagaAOftEPOFeA1uJBizp7Cz20MdNFyxMd7gBBHWSG1UHAeRsAjCYgQdn9LXo+S9Pb9RV9vj7Rx+Mdvd9mKJe9pJujXTpeSeoPNWzZme82FIF1UAm28bLXqBBKAsEywGBlPaQPKRWNuANzf3JAL+enlMtcGA3XyA+a5jBzqVCzTVAKjVeYfYSDJWggUJ8H4rOMtwHNZ5uEifU3FwCxSqyYBiAFgyODgZRFwoBBw4pz2DYFMxdpKwmELcAM5KBKwoDB8kbjzADIvDOzSta+mpeg+KDXeIiyojQQFEODig7YpmDQcG7Zgaz2yG8i3IO1NVZJweCNYZn5wcWB5DjcY2trBKRgkAlc8+R2oMIHy3ADlMdZ5/5xKRjsK+aPLbsKpYBgF8bX6ENNviHOJXMOrJMqoOJZkTkrPraqqjRhJSCPh8fZ+6uu8hMqIF7exf+nrf6BKpUCKp0z7VUu9C6VEzBf9noVfOmhFkoAAAAASUVORK5CYII=",
     "wiki_name": "Barricade",
     "wiki_url": "https://oldschool.runescape.wiki/w/Barricade",
     "equipment": null,

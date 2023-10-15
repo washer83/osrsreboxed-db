@@ -1,7 +1,7 @@
 {
     "id": 9881,
     "name": "Mahogany magic wardrobe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "Mahogany magic wardrobe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOklEQVR4Xs3XbUtUQRQH8N1v4kfwfS8jemEEkiAlSSolaIZhqaiIumhmWVL2aKaptWpttohpkZCYVi+CHqSvc9r/XP7rucdZ2+vewoHD3nt31vntmTOzYyJx+FtS/OF7/5+3pCzN9EpmusfFy6luWXjS5YKIjeWb8jE7IutvrntQ9kuUDA9ARAHEsJgPr6/J2uJgaGDc4z0bYVQkZFKys317UHgFhEHQ6kJKll/0u7549YHQX6N3tmfkx+bEwVAE4ZrZIeh9ZsiB2LcQCJ/7tTUtv7+mczHvQBijvKzMhR3dtCDt/NYEYVAfaCU9kAfh2gfaXBkNgXBNkB3dtGRoGjAQixv3FoTBgeD0FgJtr47FB2KW8MwHYiYJQtYs6Ms7DUpHA7EuCNLFWEpo0M9PT92zyCDcT967LBN3W+X+7YsyPtosd0aaZHTogtxINchgX52kemqlr+usdF89LZ1t1dLWckpamyulpfGkNNZVSEPtcTlXc8z9rVhAzx5dkakHbQ71cOySgwE1NtzoUMP99Q4GVG9HjUO1t1Y5mEYRtPN5Lo85EOj5ZIfMTrQ7lM0WUDpb9WcqQyhkqun8CYfygezoBVow5yhQvC5Md0l6qtOhmK2aqgpprq/OB+4ZdvqQJaAOCAr2IGSIoMxcbh+a7Xaoo0fKHUyDLA41hSwBxSwBlQepTdGOblqw5C0oO59b+uleh0K2MIVEYIr0NV4xdYAzWOSxgVZeDTgUMoUBkKn9MoQi1yuPBV4yCEHQ8mJ/6FvrmrGBTDFLusAD0HweUxQIK8yCVjMpB2KWMG0cmIHtgKsO976tgBkqMjtouyCi8GxtaTA/bawlveqwFRTan/TUxQpilgBiluz+9DcUQUTZ0T0tAOlpc8+yQw5ksxQVhb+FPSjCPhQGaVQcgR/XyCCsMgvikQJHDhy0cJzQZyCcCBD4qeHRA31xVEH/b+vj8n3jcWkgu9rwXIP0GYgYgtgXoK23t8Kg3B4UeR/yTZsG4Xo/EDOEvrGAfNOmQXhP/1eiQegHEKerRBDa3mL0ha0fhgXhLK1BjAigRILb+n5hgTp0/cQCKrZZZDFYxm7f/9Qs0hf2M4e6/QHQ0hqVkqBJLAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQUlEQVR4Xs3X70tTURgH8O1P6GVvypACE8yFqZG4JMNSYYqmY8ssSymjX5aNZVr+yDJjIMukICEQEylf9SKKov6yJ79nfOe5j2e2627hgYfde3fc+ew55zw7hkJ7v4XFHa73/3kLy/xYl8ylO03Mpjpk5kHMBBErC1fkQ6Zfll9dcqD0lygZngMRBRBDY96/vChLswnPwLjHezq8KF/IsGTGu7eh8AoIg6DFmbgsPO0xffHqAqG/jf6xPibfVu/vDkUQrpkdgt69SBoQ+xYC4e++r6Xl18ak/N6YNiCMUV1WZkKPrlou7fzWBGFQFyg71ZsH4doFWs0OeEC4JkiPrlrYMw0YiIsb9xqEwYHg9BYCrb8ZDA7ELOGZC8RMEoSsadDnt0N5EMIXiOuCIHsxlhIe0MeH5plvEO5Hb56VkRvNcuvaaRkeiMr1/kYZSJ6Sy/F6SXTXSryzRi7EjkvH+WPS3lIlLU1HpTlaIU0NR6Shtlzqaw7JichB81mBgB7dPSep2y0GdWfojIEBNdjXYFB9PXUGBlRXW8SgWpsrDcxGEfTz00QesyvQk9E2GR9pNSidLaDsbNVVV3hQyFTjycMG5QLp0Qu03JxjgeJ1Jh2TqVS7QTFbkcpyidZV5QP3DD19yBJQuwTlahAyRNDcxGYdetxhUAf27zMwG6RxWFPIElDMElAE2UVRj65abstrUGZ6c+tPdhkUsoUpJAJTZF/jFVMHOIOLPDBQ9nmvQSFTGACZ2ilDWOT2zuMCLxmEIGjhWY/nW9trRgcyxSzZCxyfhSpNTFEg7DANWpyLGxCzhGnjwAyUA+463LtKATNUZHbQtkBE4dnSfCI/bVxL9q5DKShUn+ypCxTELAHELOn69DcUQUTp0R0tB7KnzTzLJA1IZ8kvCp+FGuSjDnlBNiqIwI+rbxB2mQbxSIEjBw5aOE7YZyCcCBD4qeHRA31xVEH/L8vD8nXlXmkgvdvw3AbZZyBiCGJfgNZeX/WAUIN81yHXtNkgXO8EYobQNxCQa9psEN6z/yuxQegHEKerRBDa9sXoCr1+GBqEs7QNYvgAhUIs6zuFBtphr59AQMU2jSwGy9jq+5+aRrpC/82ebn8ACQobPKM7PzIAAAAASUVORK5CYII=",
     "wiki_name": "Mahogany magic wardrobe (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mahogany_magic_wardrobe_(flatpack)",
     "equipment": null,

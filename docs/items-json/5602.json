@@ -1,7 +1,7 @@
 {
     "id": 5602,
     "name": "Bronze wire",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-27",
     "duplicate": false,
     "examine": "Useful for crafting items.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACaElEQVR4Xu2X20sbQRTGd/6DfcpLX4Q+CIVCKfjggw8lFCkRUSIGGxQveKGm0lSjTb2Q2tQr0kL/4FO+M3zT0yHRks4uCD3wMbPLMueXb072zGbZ/ygknAxX6eGkXctlu5rL+is/Lk/lsjSZS30iKxvOyWm9Ip2ZXNVbrOh1dy5XyNa0hyRgCVBOIfqNio4AARigCEr3APXbscLCadIfV1dB3y8uwpyAEKDg0szLQqGcAlB3/X6QvQ/BKWwfoF4/t7WVNFwAuD0/l+svPR0pCwjHWFPYuqnxTJ49SeqWh2Hyy95ZEMAoXBOOUKgnbt2LsTFVvPoI4YIr305P5OvxsY5WvEco1hfriUDxyiOECw4gYa/bDQIExrOjIxXmeIbbCaifNzcKlRQIvxqJkPSk0wkAvP68v68aBIUCZ/0kAHJhO5CMialP7bYcftiTg/ctnROK2wcg1FHC+nEBhsktxMfdXdnb2dGRUHCMLrKGkrkD+7E4EiGhhWhtbcm7jQ0V5rgPUAo/xP/Nk7jjFyLMIIjttTXZXFlREQrCcwC3IP8MYxsnexQbKADWm01Zfbsky42GzgkGARS1lG6bDIwFAgzEo4e2hoUFFcAouJVsm9DJ2c0JZp2K4fDCm6vVpD47q1qcn9dtS+YOgWKwYXBwCW3hTbWqgkOJ3EHcD2ShKLqEjh4DxauPGH8PxZMiO/rE0+QNlHE/1DCgAo4YNgZDxXUUAxXkEOPhfx1fA/GWxSslDA8Vw9gvDZ53Enb0h8K3kdgd++ljD2AlAGWZT+LBLBDf2jimluTOn2HBYpXmzqBg8ljxc48+fgH4sHxDkQfBVAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xu2Xe0sbQRTFd1hCoUj7R4WC0NQ2qBglarA+8JViUxuV1Fe0qfVBKQW//we4cu5wprdDoiWdXSj0wmFml2XuL2du9s5m2f8oJJwMV+nhpF3LZbOay+orPzYncll4mUt9PCsbzslJvSKdqVzVm6/odXcmV8jWGw9JwBKgnEL0GxUdAQIwQBGU7gHql2OFhdOkP6+ugn5cXoY5ASFAwaWpF4VCOQWgvvf7QfY+BKewfYB6/dzWVtJwAeD24kKuz3s6UhYQjrGmsHUTY5k8e5LULQ/D5N/OToMARuGacIRCPXHrFicnVfHqI4QLrnw9OZYvR0c6WvEeoVhfrCcCxSuPEC44gIS9bjcIEBhPDw5UmOMZbieg7m5uFCopEH41EiHpcacTAHj9eW9PNQgKBc76SQDkwnYgGRNTh+227H/YlU/vWzonFLcPQKijhPXjAgyTW4iPOzuyu7WlI6HgGF1kDSVzB/ZjcSRCQgvR2tiQ7bU1Fea4D1AKP8T/zZO44xcizCCIzZUVWV9eVhEKwnMAtyB/DWMbJ3sUGygAVpeW5N3igjQbDZ0TDAIoaindNhkYCwQYiEcPbQ1zcyqAUXAr2Tahk7ObE8w6FcPhhTdTq0l9elo1Pzur25bMHQLFYMPg4BLawttqVQWHErmDeBjIQlF0CR09BopXHzH+HIonRXb08afJGyjjYahhQAUcMWwMhorrKAYqyCHG4/86vgbiLYtXShgeKoaxXxo87yTs6I+FbyOxO/bTxx7ASgDKMp/Eg1kgvrVxTC3Jnd/DgsUqzZ1BweSx4uf++bgHZRfclt7ljMcAAAAASUVORK5CYII=",
     "wiki_name": "Bronze wire (Recruitment Drive)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_wire_(Recruitment_Drive)",
     "equipment": null,

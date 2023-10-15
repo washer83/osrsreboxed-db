@@ -1,7 +1,7 @@
 {
     "id": 1580,
     "name": "Ice gloves",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "These will keep my hands cold!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xu2VbUtUYRCGff6JP6HvEQQREUUERZEhaKJJmZhhmoq4ZZZkmCBLZoaYJCYiJlYiZiJippmmvbiWrUTQv5i45jC+nN01V/Lslx24ObtnX55r77lnNiMjXeminGwo5eWke2lNBiO/ZSz6ZxNYSuCcNM+uSHjuu3QuRqX/2y8F49rzZS0VUE4a30cUquXDirQvrKpbqGspqkD7MjODhHJy592yNEwvS9NMRKFaP/5Qtc2v6jVgl5zcmliU21NfFQoBCBzOmQKEchJ6O69QN8cX9HHtm7l1MEDrJj+rAoJyUjs6K9XD01L1ekoqX07KjaEJfQ6EgVqWAsiTk4oX43K9f1TK+kbkWu+wlD5/JVe7h9bdQgGF24MBoPjpgFzp7Jeijj4Vj4GsGZkJyh0n5QNjCgNAwcMu1cVH3arCxz0KSRt36U6ym9XpoRea2+VsqFFyH7Tp47yWDlV+uFMBaWGSQB5I/LWfSN7nztU16fOT5SHJqm+W7HthybnfqjJA3EsCyBtZ9gSr35YZ27bj00/9K+A+rzMxhNN+sX0e4dDp6noFRMCdv9uiAmqHQE4ngRwwoownh7I3Ni82XiO4gJAJrnzGoLyDnBwvrZJTlXUKdqa2QSERUDsGInwlzwZ1XNkdBJCpsEVnjpAHrja+dsDGIU4OFxQr1ImyGm0hcAi4HQPRc6AYUcCYGNwwMJwguABxZYwBjX+AkyOXSuVoUZkcK6lQAQicQW19f0w5tZfw2UQgQohjgAEKCPeZHFqGk4mADuYUyqG8IhWOGWCsownLC6QFkDAiDrdld/lJ7zoQcNwnV/F/sX8a47V32/LCiK303sQ9AG3z0lbbL9yjlRt52lp2uF/+921TntXoQHb+FjHCuGI5or3A4RJ/opYn/zf+h4q1Ge3PytWWWsZsE9v/VJLtSK78FnuHeFAWfmDYwuaSAfm/a4/Lg2KnkCv7S9hTd/5dHhSBp4XsrxS5s7l2Pcp7V7EZS1cw9Reuzo8PtWJ/UgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC80lEQVR4Xu2Va0uUYRCGfX5GBWVFBRVlgqaYZWiGKalollmSYQiSZAfDWJIMk0KQxCgEJakQQbKS7GRHKjuQVhB96r9MXPMwuu6u5kq++8WBm3f33cNz7T33zCYlLdVSUU6mlfBy0vr6h3SN/5b+yT9hYAmBc1I38kkaRr9IaGxSOt7/UjCubW9/JgLKSc2DcYWqf/xZmp5PqFuo5dV3BUpJTg4SysmR+x+kevij1D7yUI1PvqrOPvum14BdcnJo4KUcHnqnUAhA4HDOFCCUk4o7TxXq4L0X+vjA7dEpMEArB9+oAoJyUt43IqU9w1Jya0iKbwzK/u4BfQ6EgVqWAsiTk6Lrd2VfR58UXOuVve09kn/lpuy53D3lFgoo3B4GgNyLnbI71CE5F66qeAxkWe/DoNxxUtjZrzAAZJ1qUe043arKPtemkLRxge7Eu1mdHrq9rkm2VNRI+okz+jijvlmVeTKkgLQwTiAPEnvtzyb/ua2Vtfp8Q2GFpFTVSeqxBkk73qgyQNyLA8iPLHuC1W/LjG3bPDahfwXc53UmhnDaL7bPIxzaVFqlgAi4bUfrVUDNE8jpJJADRpTx5FD2Rvhi4zWCCwiZ4MpnDMof5GRdfolsLK5UsM3l1QqJgJo3EOHLu9Sl48ruIIBMhS06c4Q8cLXxtQOmD3GyKitXodYXlGkLgUPAzRuIngPFiALGxOCGgeEEwQWIK2MMaOwDnKzemS9rcgpkbV6RCkDgDGrm+6PKqb2EzyYCEUIcAwxQQLjP5NAynJwNaEVatqzMyFHhmAFGOzpr+UBaAAkj4nBbdrvOt08BAcd9chX7F0dOY6z2zlk+jNhK703cA9A2L221/cI9Wjmdp5llh0cq8n1zlLcaLU/NnCFGGFcsR7QXOFziT9TyFPmN/6GibUbLUtK1pZYx28T2PxVnO+KrSIv9IR7Kwg8MW9hcMqDI71rk8lDsFHJlfwmL6s6/y0MReFrI/kqQO+G14FFevIrO2FIFU38B9x8YLiPSLyMAAAAASUVORK5CYII=",
     "wiki_name": "Ice gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ice_gloves",
     "equipment": {

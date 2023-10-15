@@ -1,7 +1,7 @@
 {
     "id": 27806,
     "name": "Bob the cat slippers",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-22",
     "duplicate": false,
     "examine": "No cats were harmed in the making of these slippers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xu2UzUtUURjG5/wHd3U3sxlwIQwIgzCIyMCIiIghiZKMovhBKjmJhl/hB2JGQQVCGJUVgWDQMpDalcsWURnVTihoZbSStk/znOt759zjVcfxC8IHXrg4r/f9ned5z41EznWuU5dCsM5UCqmIqysZcXSdMZRCbSTqQ2WcEsRDoWwX7d+PRQoXcjAsQmWduH7m3xOxmC7pM6FP0EmF+24VbrsVmHHL0Z8Dao7EUJFMWsM8IIEiDPvCnSxaCo+jKSy6lVhwk7juJLRDHFKeSKC0pMSPxnSRQD1OqX7mb+w9JiiFuwbMiFOmHSKQwHiRBV1kX8fOnlWnUr6b+XiPJA+Kg2R/JAaBoYt7AVVVVlpuFi0viifRNB64KczlXJL9kWU1gRhrGBDdMd0s0CWbPLcTdXW6zGEyiLsRi3r7If3mrhFKgMri8cPDfFhqDbzchJEo6BD3iIN4YgGyXZJ947eKyx3sK0gKP1a68PlhRv/jxYYGH6i+pkaXwNAhnphDbCDGyl1j79gOOOPlzgXdPFAKv19N4NdqD74ut6M2ndY3g8WFZL2cqsfqZB2ej9b47uSHeO7YQLz2BNrdX5AUmhsbdZkOyZUlyPJwNZayaf/lXx61BeD5TDflNkq0drwFRKfQ0dqKv9vb+LO15UN9+/QRb9fWNBCv7WJ/KnBSiVSg2CfF/pXx2mJgKA+IlWlpwaWmJvzc3MT3jQ2sv3mNF8+e6gGyOxITwW0oiZeOmm7md60gKXS1ZQJA4hIH8cSEMU/LProp8ZpAYW4ewh2Rwr2FBdyZn/eB5PTml9Z1vA+iCU8n36+/CwDZi3xIGErh1twsbkxNYXpsDOPDQxgaGEB/d7d2T1ySuEwgukTwMKAi3aGUBmFNjozg2uAgrvT2oqe93R9iAtFJM14BCou3CBiRN2y/ko8g3bw5M43ZiQn/ADbQEdzJS16wX3EQQUwYunm5szMUyJ5xQlJ6+OjVLLJ9fRrG3LUzAKJ2R2rHe8pAB0ds95/rv9I/3Qsc3lpEwikAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+klEQVR4Xu2UzUtUURjG53C5DIqMiIPiDH6ToYaj4leoOaGGX4RfYRMFFbgIiUoqCAqkRetAqG1U61ZRkEHR3kUtWhu0lv6Dp3nO9b1z7vGm4/gF4QMvXJzX+/7O87znRiInOtGRSyFYxyqFRMTVFY84uo4ZSqE2EvWhUk4xYqFQtov27wcihVNZGBah0k5MP/Pv7XV1uqTPhD5EJxVuuVW45lZg1i3HQBaoJVKEinjcGuYBCRRh2BfuZMFSuBdNYNGtRMaN46JTph3ikPKyMpQUF/vRmC4SqNcp0c/8jb0HBKVww4AZdUq1QwQSGC+yoIvs69zas+pEwnczF+++5EFxkOyPxCAwdPFfQFWVlZabBcuL4n40idtuApeyLsn+yLKaQIw1DIjumG7m6ZJNnt2J+npd5jAZxN0oinr7If3mrhFKgEpjsb3DvF9qC7zchJEo6BD3iIN4YgGyXZJ947eKyx3sy0sK359049OdlP7H042NPlBDTY0ugaFDPDGH2ECMlbvG3vEtcMbLnQu6uasUfj2fxM+VXnxZ7kBtMqlvBosLyXo23YCVqXo8Gqvx3ckN8dyxgXjtCbS9Py8ptDQ16TIdkitLkOWRaiylk/7LP99tD8DzmW7KbZRo7XjziE6hs60NfzY38Xtjw4f6+vEDXq2uaiBe28WBROCkEqlAsU+K/Y8naguBoTwgVqq1FWeam/FjfR3f1tbw9uULPH34QA+Q3ZGYCG5DSbx01HQzt2t5SaG7PRUAEpc4iCcmjHla9tFNidcECnNzD+6IFG5mMri+sOADyenNL63reB9EE55OvnvzOgBkL/IeYSiFq/NzuDw9jZnxcUyMDGN4cBADPT3aPXFJ4jKB6BLBw4AKdIdSGoQ1NTqKC0NDONfXh96ODn+ICUQnzXgFKCzeAmBE3rCdSj6CdPPK7AzmJif9A9hA+3AnJ3nBTsVBBDFh6ObZrq5QIHvGIUnp4WPn00j392sYc9eOAYjaHqkd7xED7R6x3X+i/0p/AUCJn5+jN93tAAAAAElFTkSuQmCC",
     "wiki_name": "Bob the cat slippers",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bob_the_cat_slippers",
     "equipment": {

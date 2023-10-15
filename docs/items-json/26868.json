@@ -1,7 +1,7 @@
 {
     "id": 26868,
     "name": "Robe bottoms of the eye (green)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "The perfect robe bottoms for runecrafting.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xs3Y70taURgH8M5/4Kv7xjeCLy5cEEQQiRAaEiHJcCSGkyIbzignWFmZTqxc5Vzl+uFCJ7UVxiAG+wu/6znusXtdo8butR04JDfu9cP3+R6Nhob+egn8eQ98CczOxjAdn4Jfc8gdjb5AODyBYDDwFCiBUmkNq6sZpNOvEXSrCHs1pFIJiXK5tEGiBKrVMsrlvEQVizm5CUSwubl4LyW3wzEIlECttoXtrQI2Npaxvp6VSRGQUT6nHarqHERKAqcnNezvV/CuUpTJrKyksZRdlEi6RqkRiraq2KxGCTQa+zg83MHubsnQI0LyNcJEfBo01QGnQ7EK1R3V2dkh6vW9Xo9oZPPhUYnkazS6gMspYe5fIAv61B1Xs1nH8dF7Q4/0ILrGXSKUpaAvF5/Qah0ZesQgSq2/RwTjHpkMEjKVy69naLdPDD1iEKfGZTecOPPLLWQyV1dNnJ83DD3Sj4yLzaePyk6f4JyQiSkJiel0WnJs3CMC0SkjEGG4R4TMZOaRTM5YgeElcH3dlmPjHtGb8ymjcenHSOnQd50F/eElcJKNy6SoRwyi8RCIXtMY9SB9Qv1PM2EJfFic6m0G0YkiEEFobARMTIwgMurF+G2xvSphTC00LYGdVERCqgtRVJKT2HwVRu5lEEtT4xJEP9OTASRDfkyPDyPs9+CZR+2BTE5JSAiBCMagwkwI6/GJHiwTGZM4QnFCI67ul6zpIE7nMSAaGaUUGnb/P6BYwCdTorE9GYg6pAdRjyilJwVRf/Qg6hGn1P/Uf1hCAkqJ5xLxEIhPGWMs6JGQGAYxgjb1pn9U1B0aleUgwtyXCh/1AYEE7Ac3v6XDp0oPolHpy2wdqNqBfecS9u0L2Dc/34vhzx5Kh0G20DRswRiG/CGTQTqMvdSEUmhAyR9DWa1Dye5BeVOBslCGknoLWyIHWywNWzRlBA2PmXXSBHw/NuG7eQtvJw/PRQ7uVhbu0zRcHxeg1ZLQthNQi3Go+Vh302va5Rm56ffa7py5KfH2fS/D+60Az+WaxHnay3fAg9TdvsXSNf29pv6hdvcw/X85Ht58n6mY/tX/Jg/t/vsfs34CWJHx/jJEguAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADL0lEQVR4Xs3Y/0taURgG8A5ykeRyRRQjY1aGk6VkRtlkVg6xssI0p+Uq56q1vqyFa9LaWkgMgv2wf/lZ73GvXV2jxu61HTgkN+71w/M+R6Ourr9eAn/eHV8CExNhjEVG4NG65Q6FniAQGILP530IlEA+v4iFhSQSiWfwOVQEXBri8ahE2e1aJ1EC5XIBhUJGonK5tNwEItjkZKSZ0ujAQCdQApXKKtZWs1hensPSUkomRUBGuW1WqKqtEykJHB5UsLVVwstSTiYzP5/AbGpGIukapUYo2qpiMRslcHS0hZ2ddWxs5Ft6REi+RpigW4OmdsPWrZiFaozq+HgHu7ubzR7RyKYCfRLJ12h0XrtNwhy/QCb0qTGuanUX+3uvWnqkB9E17hKhTAV9PnuPk5O9lh4xiFJr7xHBuEcGg4RM5fzLMWq1g5YeMYhT47K3nDjjyy1kMhcXVZyevmvpkX5kXGw+fVR2+gTnhAxMSUhMvX4ix8Y9IhCdMgIRhntEyGRyCrHYuBkYXgKXlzU5Nu4RvTmfMhqXfoyUDn3XmdAfXgIHqYhMinrEIBoPgeg1jVEP0ifU/jQDlsDrmZHmZhCdKAIRhMZGwOhQL4J9LgxeF9t1/eFocKFpCazHgxJSng6hFBtG8WkA6VEfZkcGJYh+Joa9iPk9GBvsQcDjxCOn2gQZnJKQEAIRjEHZcT+WIkNNWDLYL3GE4oR67Y0vWcNBnM59QDQySsnf4/h/QGGvW6ZEY3swEHVID6IeUUoPCqL+6EHUI06p/an/sIQE5KOPJeIuEJ8yxpjQIyExDGIEbepN+6ioOzQq00GEuS0VPuodAglYt69+S4dPlR5Eo9KX2TxQuQ7r+jmsa59gLX68FcOfPZQOgyz+MVh8YXR5/AaDdBhrvgolewQlsw9l4Q2U1CaU5yUo0wUo8RVYomlYwglYQvFWUE+/USdNwP2jCPfVClz1DJxnaTg+pOA4TMD+dhpaJQZtLQo1F4GaCTc2vaZdGJebfq9tTBqbEm/39xdwfcvC+XVR4py1uRvgdvxmX2Ppmv5eQ/9Qu3mY/r8cd2++z1BM+2p/k7t2+/33WT8BXUg3tdLgUF8AAAAASUVORK5CYII=",
     "wiki_name": "Robe bottoms of the eye (Green)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Robe_bottoms_of_the_eye#Green",
     "equipment": {

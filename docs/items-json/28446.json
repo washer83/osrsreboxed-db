@@ -1,7 +1,7 @@
 {
     "id": 28446,
     "name": "Water nerve",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A very poweful nerve.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACP0lEQVR4Xu1WfyuDURR2v4mP4NOQpERMfjVkZkOzSDQhTKNpSUmSJEmSJEkk/pCPc3jO7ezevbbX+7P84anbajs75znPOfd536amf/xZKDIndtjF6hVUlNl6oOntJ5otPTeIiQyKEjOHlFq94YL5vXdHQUWTa7c0tXFP2eIj5XZe+PeW5uY4SCnqSG7S6NIFpdfvHMW0WhMr10wICsl3+D02Qn3ZAxovXHHBufJbtShUA1EoB2VsIjGRARSNLJyxAmY3FA3lT5gMvg+hSpBFU5RcPOf9yO2+0vD8KRORMQVURXcA2b2RMrepNbHEBEAKn8iBEQVURf8JySA7zsL+ZzVZvVicwdwxjwRq4NhknER8kQEBJERyFOnPHfGR62uTwAiwtNgTm5DdTEAiNkxB+/Rm9qknXWFyKAiC2BGQxJ44Y0E2Mm+xOzKdKepOlfmAlO0xYnoSJ4YoREMTqg9tdugeHoPxjC1fspfMVz6q6rQNFHh8uE21RCOFLtQ+tMrdYzdkX+T2iDpd4yVWT/wnxO78Bu2+YniiSG1RPS6QFdViI4MxYETYG5uETaZztMjq/CQaKbQVYDTyIKxfSPGyO524NiY0FHcsrwjuhXSsraAzIgS05HBZ++XJjYzcLPe4QNCPDfaYbx+xza1xET1WcfLGcb5hlhf7Yt8U9yJazRh8R1W95fcxCRQ/Upy3zxkVEGZc3pPrJrzH+4J5//GeXPGIIx4VYMblP7mfBjxD+0jQ5H7jPSIYmVjxp8j8wwVfGIOvuZXRcwcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQklEQVR4Xu1Wa0dEURSd80/mB6QXqfSa9NJDMz1HSSkpPZVMSkQkEZGIKCISkUSiL+mX7ax97Dlnbndu98l8mMUxzOzZe+2191n3plJVVCwUmZM47GJuBRVlN55pbPuVJnbeysTEBkXt4yc0tHzPBfP7X46CioZXHmh07Ylymy80ufvOv9en00mQUtTQu05989c0svroKKbVGly6Y0JQSL7D74kRassd08DiLRecLnwWi0I1EIVyUMYmkhAZQFHP7CUrYHZDUSZ/zmTwfQRVwiyaot65K96Pqb0P6p65YCIyppCq6A4guz9S5jbVtM8zAZDCJ3JgRCFV0X9CMsiOM3v0U0zmFovTNXXGI4EaODYZJ5FAZEAACZEcRTomT/nI9bVJYARYWuyJTchuJiQRG6agfVqzR9QycsDkUBAEsSMgiT1xxoJsbN5id2Q6U9Q8VOADUrbHiOlJnBiiEI1MyB3a7NA9PAbj6V+4YS+ZOfwuqlPbucjjw20qJRordKG6zDJ3j92QfZHbI+o0DeyweuI/EXbnP2j3FcMTRUqL6nGBrKiWGBmMASPC3tgkbDKNfVuszl+isUJbAUYjD0L3QoqX3enEpTGRobhjeUXwLqRjbQWdERGgJYfL2i9PXmTkZnnHhYJ+bKBT+IhtbuWL6LGKk5ePCwyzvNgX+6Z4F9FqJuA7qugt/49JoPiR4rx9zqiQMOPyn1w34T8+EMz7j//kikcc86gAM67gyYM04BvaR8ImDxrvE+HIJIqKIlOFB34B7itiUc9vUK4AAAAASUVORK5CYII=",
     "wiki_name": "Water nerve",
     "wiki_url": "https://oldschool.runescape.wiki/w/Water_nerve",
     "equipment": null,

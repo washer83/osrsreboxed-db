@@ -1,7 +1,7 @@
 {
     "id": 28589,
     "name": "Magic lamp (thieving)",
-    "last_updated": "2023-09-20",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-09-13",
     "duplicate": false,
     "examine": "Give it a rub.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCElEQVR4Xu2TTUsbURSGvX/CjZuAC1eFbrpw4SKLLEqLEAhdKIbYUlsSDYohaoxh8jUmphMn5kPbVGKMGvyitEUUUVBKS2kp9B+9cm56x2SCYmxEhPvAYT6YmfvMe87t6JBIJJIHD4P5zj3C8CY4ijuWuunHGXzaDLyq75+QqLbCMBwfu8ECDCtHJaT38lArGpSiiplsCANjzmveaRkG7VsJC2cfjbKPD5rkapX7UoS2k0WyqiNaSiK4HMFUZg6vA+46KXO1BMO781VEDrKIHuaRPC1yufT3Neg/K8j82uBH/cc6v0ey6vEyfzb0aRHT1QQmS2F4V4IY0SbhjHrg8Lvw3P0C1qFnt03O/EeMi+T+VPmRREiaZOZP3htC9BMkFdhegL8Sw8SqgtFCAK9SExhS3vIEqa39TnvrUo8tFtQXfeDD3z1kf2/xhEiG0iOZ+FGByyifdczupjC1qTakROc0VzRf+n4BiY00rHZb61LNXKZFbaR0SIbSCX/NNKXjXvLzjeEJj6PL0tWQOM0czVpbpMQcUUKiVZROcF/jM+QrR+HJTeNlwovB0AiePO01RCihWDmF2bzCry878F8w3jpKiRIS6Yh2iVaRjM3Vj57eR8bi9Sm1SUbAjJRIiNKhdolWid3V57Chs7vWLrF442y2lebdeFXdkUAz5t14XZnflUgkEslD5wLfptgbr8IOuAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4Xu2T7UsiURSHux8iimC/LASBGC0bSH2osDfa1cIiMcnMl6xJszFz1a1220IqeyWKCKKICIKCYFkiiAj60H/3i3Prjjqyka2xBPeBw7wwM/eZ3zm3pEQikUjePQz6O/8Rhi/uLryx1Es/zmBXB2BT7E9CoooKQ+to9wsWYJg9SSGyk4SSVuH7pWAg7kFjt/mZdwqGQf2TwvjFvFamniad3GMlDuagbscR2ogikArBPTOM/tgQOlyWLCl9FQTDxO8FDB/FEThOInQ+x+Uil4uYuk4jdrPKj9GrZX6PZJXTGf6sZ28Szs0g+lJ+2Gbd6FT7YA5YUe9owWdLAwzNn16bnP6PGBdJ3G3yI4mQNMmMnf3QhOgnSMq1NQ7Hygh6F7zomnahPdyLZt9XniC1tc5sKlyqsaYG2UUf+Hm/g/jtOk+IZCg9khk9meYy3v0pDG6H0b+m5KRE5zRXNF/R3e8IrkZgMBkLl8onkxa1kdIhGUrHfxjLS8fyzcE3htXfg7LyspzEaeZo1ooiJeaIEhKtonTcuyqfIftSANaEE21BG5o8nfhYW6WJUEIjS2EMJn38OtOBf4Lx1lFKlJBIR7RLtIpkjC11qKz6oC2enVKRZARMS4mEKB1ql2iV2F3V9UaUVjy2SyyeO5tFJX83/q3eSCAf/W58rvTvSiQSieS98wAjkJXIX4yDTgAAAABJRU5ErkJggg==",
     "wiki_name": "Magic lamp (The Path of Glouphrie) (Thieving)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_lamp_(The_Path_of_Glouphrie)#Thieving",
     "equipment": null,

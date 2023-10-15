@@ -1,7 +1,7 @@
 {
     "id": 17349,
     "name": "Air rune",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": true,
     "examine": "An air rune.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzElEQVR4Xu2WXUtUURSG3f/Aq268GfAiEIIhkJAQDAkJQ5IkMUkyySRNMjMzP5jMzDRzMhvNycacUIoI+gVe9rNWPCvWac82csYz2s0seDkfN/vhXe9a51RVVapSlQrLSaGOtcLDDup8Q4OcTSYlUVOjOkYwJzc6O6Wro0OutrXJldZWudzSIpeamyPxfLGpSS40NirYmbq6AKxs5eROb6/c7umRW93dcvN6VwSHrrW3F8iAgfTBygTl5PHIiAz198vdvj4VcCYA7R5gg0bAGdTp2loFSiYScaCcvHyakpnxcYV6dH9Y9fDekAo4QB8MDuozV54NFPdwihZarmJmykl6YUGWZmfl+fSUpCYmFA4BBgBXgwVqeGBAQX0gcnWuvl5dihl2J1tra5J5vSwr8/MKhmPPJiflyehoJB8ImUtkzaCsdf4EHiFXTr7t7Mjn7KZkV1fl3aslWZ6bU7dwaWps7ADUz/39osBiTKCT7/m85N9vyEZ6RVuIS0DhFKKVgADIFR3mGG30c1Vi2F2BS7QPp2ghh79IzagM0qDMRdwLwZhAoE5VV5cK5GT3Q1aVy2TUJTIFmB1sMkgDRUBai0Mwm9ISgJy6QrBp2af1ddl8k46gQqDQOWSTaU4xmbbPbNKAKRqIg4ECBoe4N6gQCBjyRfvsnYFY6FkLvislwFBOIcgPDnGPWwD9rW2WIws5snDjDDCoRFf8crL3cSvKkA9lTtnBbxcXo13lQ9oSNSiyU0JmwnLyJZdTAYZT1jofytrn58qyhGPsKYNigx9h9/jl5Ov2tuowKH8CcQz530LEXwKfkRguUb83tjkVKswYkAg4nLJPDS1j/8TIkF+Ff4a+fuzt6jYHmKwZIM6x2Qk702b7J6Y7f8of08KRLQSjvYDhFu0jS0yerYCyAf2rfDBrsb/dcYr2laldxVfoWqgThQkrbO1/hanUSdUvmTg5FtSv8PQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4Xu2W3UpVURSFXUhIEoYkSUqmSYYZ/oSZYaZhZmaYZmZmppmZmWlmJmaGRRR00TP4AL3jjG/FOK2zjPS4j3ZzJgz2z836GHPMuXdeXq5ylau4nKVrXys+bLtOlJbaseJiO1xQ4LWPYM4u1NdbQ12dnaupsbPV1XamqspOV1SkxPOp8nI7WVbmwY4WFUVgWStnV1pa7HJzs11qarKLjQ0pOHS+tjZNAgYyBMsSlLPb3d3W2dZmV1tbvYCTANQ9wIJGwAnqSGGhB2qsrEwC5ezx/WEb6uvzULeud3ndvNbpBRygNzo6/DNXngWKezhFC5WrhJlyNjM+bpMjI/bw7qAN9/d7OAQYAFwFC1RXe7sHDYHI1fGSEu9SwrA7W5mbs1dPp2x6bMyD4diDgQG709OTUgiE5BJZE5RaF07gHnLl7Nv6un18s2TLs7P28smkTY2OerdwabC3dxvUz62tXYElmEBn3zc27MPrRVt8Nu1biEtA4RSilYAAyBXt5BhtDHOVYdhdmku0D6doIYc/ujfkJUhByUXci8GYQKAO5ednCuRs8+2y1+r8vHeJTAGmgyVBChQBqRbHYJrSDICcd4Vg07L3Cwu29HwmBRUDxc4hTaacYjK1zzRpwOwaiIOBAgaHuBdUDAQM+aJ9eicQhZ61ELqSAQzlPAT5wSHucQugv7VNOVLIkcKNM8CgDF0Jy9nndyupDIVQckoHv5iYSO2qEFJLVFBkJ4PMxOXsy+qqF2A4pdaFUGpfmCtlCcfYU4Jig+9h94Tl7OvamtdOUOEE4hgKv4WIvwQ+Iwlcon5vbDkVK84YkAg4nNKnhpaxfxJkKKztf4fSj0+bfpsDTNYEiHNsdsLOtGn/JHTnT4Vjmj6y6WC0FzDcon1kicnTCsga0L8qBFOLw+2OU7QvS+3afcWuxTpQmLji1v5XmFwdVP0CE6yDY2i+sqMAAAAASUVORK5CYII=",
     "wiki_name": "Air rune (The Slug Menace)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Air_rune_(The_Slug_Menace)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8227,
     "name": "Oak shelves 2",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACUklEQVR4Xu2T4UtTYRTGvf9Enwd+CARBhCFDhBvhh3HH2HAwbPhhk7VwKpuxuFSM+WFpVmAUaUpCzlxZtBoEmYIfZg4plmAE/TVPnTPeu3fXO3eVFhH3gQcGe+95fu855+3qcuTon5MCa/8VmUMVFNeesd+sr7PfFzfZfwjqtNvVw83BtYMDFJ4uG45FIujt6eE6fS5Xi1q2pOD50hLbGkoxwimUTEAEaQX09fN+izq29DusWsXG6goS0SjbPBorIAqeHhvGtbAKn9qHoNcD7yU3w4gz54CqBxGMDGTejeyEn8/J4yKgaHCQYSrb2xhWVXS7LuBLpQI9nWafcXR1GLpJKyCyDCA6Eg8NYVQbYJj+3m58KpUw6PHg5/Ex/z4HUGMUH15vYeXhouEbqWncSvigxzVkYl6GmLxy2QChrowGVHj6L3JHdstl9sT4OF+QgMgjfj/bxtgU3M+EcScdwuxkgMNFMIVS4PXECBbn55GKBzEV8yMxpvFu0K4RhLjM0eEhw4gHMeB2422hwJaB2nRJwcfNPEprWRSf6Fi9l8KD3FVkZyIMQOG3Mxn8OPqGu7M5hHxDvLBiNxoBCqp7e9wNOkcmoPLLIlssNZ1tC7S7NYdXyzfxOJ9EXo9CnwpzJ2gHvtdqmMtlDdN5eTdkIIJ892IDjxYW2PIq2IQRav6QxkZjomAKMQOJ3Ti5F9YAsptzT1HzR/WCAU3jJ0yWXwpZjIHgRLi5zpkA2kmA7e/ssGeSSXYj/GQnzDU6JOsx0D8d6YQddWwMjhw5cuTI0X+mX9gQjtrolmT0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVUlEQVR4Xu2T30tTYRjHPRddJKGEw6EHU3bYxhxM58XmaDnFzVgcqJh5sfxRXRgGaQp5kWm2yqBFBl30QwSvZsgQIpY3El30f33recZ79u545o7SIuJ84QuDvef5ft7ned6mJkeO/jkpsPZfkTlUQW75Ifvlygr7zdN19h+COu525XBzcGlvD48fLBiOhsNobWnhOv09PTVq2ZKCR/PzbGsoxQinUDIBEaQV0NfPuzXq2NLvsGIRa0uLiEcibPNorIAoeHSgG5dCKrzqeQQ8bni6XAwjzpwCqhxEMDKQeTcyQz4+J4+LgCKBDoYpfPyAblVF89kz+FIoQE+l2CccXRmGblILiCwDiI7Egp3o09oZpq21GZ/yeXS43fh5eMi/TwFUGcW7jQ0s3p01fCU5imtxL/SYhnTUwxDD/RcMEOpKn1+Fu+0cd2R7c5M9NDjIFyQgcq/Px7YxNgW30yHcTAUxMezncBFMoRR4Od6L2akpJGMBjER9iA9ovBu0awQhLnOwv88w4kG0u1x4tbrKloHqdEnB+/Us8ssZ5O7rWLqVxJ3xi8iMhRmAwq+n0/hx8A3TEzcQ9HbywordqAQoKO7scDfoHJmA3j7LscVS09m6QNsvJvF84SruZRPI6hHoIyHuBO3A91IJk+MZw3Re3g0ZiCBfP1nD3MwMW14FmzBC1R/S2GhMFEwhZiCxG0f3whpAdnXuMar+qFzQr2n8hMnySyGLMRCcCDfXORFAPQmw3a0t9lgiwa6EH+2EuUaDZD0G+qchnbCjho3BkSNHjhw5+s/0C7FaM0eHjcWMAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

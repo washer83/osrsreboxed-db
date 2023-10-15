@@ -1,7 +1,7 @@
 {
     "id": 7430,
     "name": "Fungicide spray 1",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-07",
     "duplicate": false,
     "examine": "Pumps fungicide.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xu2W30tTYRjHff+TwS6EQdCNhIQXXXnjRSI0bDSa0hS14Zo653TMH5tzbXOaTcvMxMBK+mERRRgU/YSuo/vuuuiiiy66+tb3Ob7nnC2FwrPtxi88jAPvzvs5z/N9n/dpaDjSkSgFK+ouhWQshul4XKLOYEogCJSIRjEWicjz3GSyHmAWzPjwsMCMDIYwdHEAo+EwUhPjyM/M1ApMyYYaxu6hUG8v+rq7MRAMCuRsMoFiJlNNqL9hjrtcZvCZMBf8fpw/24kr2ayEXlf5tkPKguHX22Eq1/UEAgJyNXdZwmEgoxyjpS3TvAfDGOs1SBWAFEYWNiXi17aRvLmz54eDNrBgSoV82dr91/+zjBeFc2uIFNYFKHHjIaY3n2H2zi5y91/vbVb+H0Iw7FlxBKZ/ZgkD6ZLEYHYVY8t3MXnrCdJbL5DdfoX8gzcVWbJg7CY+JAilEJzIoydZlOibWsRQcUOyk7r9HHP3XgoMg2A6k/asOARjvCgQTUkQatfVhg/udnx2e/G10Wdmp/DonQnE8hGkMiuHhukMxeELJ9AVyyCUWcFb12l8cneYMN8a/WZ2ijvv5ff6QlFgdONzAIRS6AhG4B+elqzQMywRj/gXG8x3TwA/PF0Cw1hdXJQyOQ5zzuuVJsaWr2FoYHpmauNpGcxPTzd+eYImjIN+oRTOtLdLeycML0TpwH9g2Gt4vOmZSpi1pSWsFOed9Aul0Nbaii6fT+4d3tLswLwI59NpE4amZb/RMOulkvjGwaxoGUDMEG9mjgy8KHlPEYgnR/ca8czjj9WEoRROtbQIFP1zqb/fnGEIxJLwaBNkY3lZgr6pEgylcKKpCSebm2VMoIdYNnqIQxWBNAiDvqkijJbCMY9HfGQvG8dPNrkaw1DGzMJSEYSmZoZYNg1E39QIhlJSHgIQSENxTtZANYTRsmZhBqGYJYe77/9Jb2psbMHVBWY/lQMeqf76DToCJutMJJK7AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xu2W30tTYRjHfS8dsm4kSQj0QkIJdbE2Y/6Kueac6HT+nnM5nS7zR7/MGBX0S6JCioggMAiiouiivyDoT+i6q+666q7bb32f43vO2VIoPNtu/MLDOPDuvJ/zPN/3eZ+KigMdiFKwouxSGB0YwEQsJlFmMCUQBIpHoxgMh+V5Zmy0HGAWzFAkIjB9PUH0nu5GfyiEqeEhpCcnSwWmZEMNY/dQsKMDnW1t6A4EBHJ6JI6FZLKYUH/DtNbVmcFnwpzyenGytQXnUikJva7wbfuUBcOvt8MUrmv3+QTk/OxZCYeBjHL0L982zbs3jLFegxQBSKFv8YZE7MImRq5u7fhhrw0smJW5dN7a3df/s4wXhWbXEZ7bEKD4lYeYuP4M03e2MXv/9c5m+f8hBMOeFUdguiaX0J1YkehJXcLg6l2MXXuCxK0XSG2+QvrBm4IsWTB2E+8ThFIIDKfRPpqR6BzPojeTk+xM3XyOmXsvBYZBMJ1Je1YcgjFe5ItOSRBqu7IBH1yN+Oxqxtcqj5mduUfvTCCWjyCFWdk3TEswBk8oDv9AEsHkGt5WHsMnV5MJ863Ka2Yns/Vefi8uLgiMbnwOgFAKTYEwvJEJyQo9wxLxiH+xwXx3+/DD7RcYxuVsVsrkOMyJ5mZpYmz5GoYGpmfGc0/zYH662/DLHTBhHPQLpXC8sVHaO2F4IUoH/gPDXsPjTc8UwqwvLWEtM++kXyiFhvp6+D0euXd4S7MD8yKcTyRMGJqW/UbDbCwvi28czIqWAcQM8WbmyMCLkvcUgXhydK+hXxYefywmDKVwtLZWoOifM11d5gxDIJaER5sgudVVCfqmSDCUwuHqahypqZExgR5i2eghDlUE0iAM+qaIMFoKh9xu8ZG9bBw/2eRKDEMZMwtLRRCamhli2TQQfVMiGEpJeQhAIA3FOVkDlRBGy5qFGYRilhzuvv8nvamxsQVXFpjdlA94oPLrNxHJsNHAJtw6AAAAAElFTkSuQmCC",
     "wiki_name": "Fungicide spray (1)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fungicide_spray#1",
     "equipment": null,

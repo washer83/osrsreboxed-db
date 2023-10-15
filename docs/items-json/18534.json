@@ -1,7 +1,7 @@
 {
     "id": 18534,
     "name": "Ensouled dagannoth head",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-01-07",
     "duplicate": true,
     "examine": "The creature's soul is still in here. I could reanimate it with Expert Reanimation.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAklEQVR4Xu2X4UtTURjGd/8ToQ+BIAxhiMhgMmSIIkojGaI4wyW1hCAT0cYwNdPGxExNEc3CcAhhIFL4v735O4f3ery5gu1O+9ALD+juxfM7z/uc98xI5H81pDy50p2Whcg+zvq6QyhPMqmETL6c/E236NZVa54N9slMcaaqmluaGwllIRZKC75W3q/I2s6abO5vyu7RrmzsbUhpsyRL5SUpvCkYqFRvqhFQnjzqTxkAFt37umcAXO182ZHtzx9lfXddVj+8M8AKNTQ2FCaUJ6O9XfIk3Svl7bJZFKCg+BzYrU9bxjXg51fnfahcPhdGrmxoXXdwIgiDFIR3aCHwy2vL16DyL/ISbY3WA3XdHRZVoP3jfV/8rhC0CyjNUxBqam7KAEWbmmqBstnhNGk7bgIKBlqhNE8KNbf4SqYL0xJri9Xqkue7EwQ6qBz44jM3zCyuULSRnwHtjMeNRsZHanXJzhrNRjUgPV0a5NnXs1IYH5LFp1kpPc+ZDSkMmpickPaO9tpdqgZ0eHJoWqaBpjXFt0Up5oZlOT8m2USrjCdjBpZ2KhCTPN4Zr9UlykIR3CCQG2jaojCZjhYZjkd9IJ7jIC0lR4muRD1AlOdnSWcRQAQaIA30+fmJUbqt2QDhkgJplgh3sjtZLxDlmYVZAChcCgIlW+5Jd/S+AcKlIJCeOL1S6gSirFPkJjiDALq4+G7UH7NAuHQTUE9/T3hAeqRxB5eA08kMDA79/PHNVxCI4Pc96AsPCCdYhICTI/eU8Zy24VA1IKb2wMOBsIAomyVtG07phcoz5ObIHZC8Q6jTmXS4QOyUnes1ooPRBdIcKRCb4B0G5+DwYJhAlHWJ00bbCDYO6LHnOUC45ALxDkCZ0Uz4QLjkTnAWU4eQwimQ5sj90hYiEGUDThvYPYu6QOqS3vwKxKSu44L9W9mF2TWnp3I5Bk5Pj+TsrOI7hDTUvKPfHoFpAFAkYv/odWdUx5eBR7iIm/ovUsNg3NJFXCmYXqq3BvOncsHuHMatfwqmnvoFQKd4Fbnz20IAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAElEQVR4Xu2X4UtTURjGd79GKMOhuOF0iootXIrOZFkLCTJBtDFMbWlDxMw0EREzQkL0Q2AfxA8F/q1v/s7hvR5vrmC70z70wgO6e/H8zvM+5z0zEvlfdSlPLnWrZSGyj7K+bhHKk0wqIeMvxn/TDbp12Zqn/T0yVZyqqIbGhnpCWYi58pyvxXeLsrK1Iuu767J9sC1rO2tS/lCWheUFKbwuGKhUd6oeUJ487E0ZABbd+bpjAFxtfdmSzc8fZXV7VZbevzXACjUwMhAmlCfD3e3yON0ty5vLZlGAguJzYDc+bRjXgJ9dmvWhcvlcGLmyoXXdwYkgDFIQ3qGFwJdWSleg8s/zEm2K1gJ11R0WVaDdw11f/K4QtAsozVMQamJmwgA96OioBspmh9Ok7bgOKBhohdI8KdTM/EuZLExKrDlWrUue704QaO9ozxefuWFmcYWijfwMaFs8bjQ0OlStS3bWaDYqAenp0iBPv5qWwuiAzD/JSvlZzmxIYdDY+Ji0tLZU71IloP3jfdMyDTStKb4pSjE3KKX8iGQTTTKajBlY2qlATPJ4W7xalygLRXCDQG6gaYvCZFobZTAe9YF4joO0lBwl2hO1AFGenyWdRQARaIA00Gdnx0bp5gYDhEsKpFki3MnOZK1AlGcWZgGgcCkIlGy8I53RuwYIl4JAeuL0SqkRiLJOkZvgDALo/Py7UW/MAuHSdUBdvV3hAemRxh1cAk4nMzA49PPHN19BIILfc68nPCCcYBECTo7cU8Zz2oZDlYCY2n33+8IComyWtG04pRcqz5CbI3dA8g6hTmfS4QKxU3au14gORhdIc6RAbIJ3GJz9g/1hAlHWJU4bbSPYOKDHnucA4ZILxDsAZYYz4QPhkjvBWUwdQgqnQJoj90tbiECUDThtYPcs6gKpS3rzKxCTuoYL9m9lF2bXnJ6jizFwcnIgp6dHvkNIQ807+u0RmDoARSL2j151RnV4EXiEi7ip/yLVDcYtXcSVgumlemMwfyoX7NZh3PqnYGqpX/YovCc929oIAAAAAElFTkSuQmCC",
     "wiki_name": "Ensouled dagannoth head (Item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ensouled_dagannoth_head#Item",
     "equipment": null,

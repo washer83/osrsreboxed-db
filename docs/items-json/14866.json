@@ -1,7 +1,7 @@
 {
     "id": 14866,
     "name": "Rune kiteshield",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A shield with the symbol of Varrock.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xt2X/2dWURzHd/+J/fL8cnn+gUdMJmOZmSzTNM2aZl+0mO23JCIiEaMxJjMqU6mNmEhEIpL9UWde59P7Puee3bHtnut59OHNdnme89rrfD73nA0M/B+VufhJDytzczMzrk+gDGbx7py7Mz3dD1CZh1meny8sdfK8V1CZuzc762H+fm73g6XMwxwftD3Q7/e5t3RrcrIXUAZzf2GhBISx21NT7ubExD+oqjRSWQETAv14k/ttwxJQ5MbYmM/46KjPacDaoAZzFtDRjkFhCjDBxWDXR0Z8rg0P+9SAytyDpaUCJgb6sNly+y8tb19Y9p5bdp9ZBCYgvpPpvMSEGkxoh4R/8c7TQZ/tJ93oWWIYqmxHX87I09BM2eajQbf1uAwjM2xdCBMCxSudozK3trJS2AFGvcTEEaDomRhE29WYHcEAwTN+ZxEBEYEosR0+U9uOFhcMC9DQQDJdh1utAoiEQI3ZCbeJyfrzse2+7ebu06uWh6oCiu3UhsGOGjnsmV/7ufu+Z2YAIlVAsgOMzrtLwlBdO2yPYJSvr3P/rgEgfBkKqDE7wMRALIIVHRMhDLk6NFSyU7ORqbKdGIhFWFhHg34mwCS3s766WjoeiM4ieufLtm2VIEKYuHd4lsxOnJ/v7BDVmAsEAMEktkNZ/2CF0VYYdcYcOxykAFzpdHwEE9tJ0DuUbRljDgRhzHXFwA4nevjya+i9E5bdfWhgtomEds4CCt/KiS//XSBOdBpZdhh3oML7TmyHJLRDWWMLiMMTIAwJShexKjt8NqEdlV3owzsPr/+qa6omTUCJ7ahOAwkKIEEJRkAPN9absKOK/0M4Xxqw0y19+UUTf89F6wTWhRlwEnwgTgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChElEQVR4Xt2XzUtVQRiHPQu5nLuTJEnJNMkww48wMwyxXUSLIAgiCIQKBCUEwQihiD4WLQLBRYugRdBCEPwLJ56Zfue+ZzyCeuZwL73wAz1w7zw+875nxr6+/6MyFz/pYmVudnra9QhUgLk9N+tuTk31AlTmYe7MzxeW5sbGugWVuVszMx7m8HO7FyxlHuboS9sD/Xmfe0vXJya6ARVg7i4slIAwdmNy0l0bH/8HVZVGKitgLNDPndxvG5aAIldHR32ujIz4HAesDRpgTgL6vhGgMAWY4GKwy8PDPpeGhnxqQGXu3uJiARMDfVhrud0XIW+fh2w/C9l6GiIwAfGdTOc5JjTAWDvE/sWbT/p91h93omeJYaiyHX05I09DM2VrD/vdq0dlGJlh6yyMBYpXOkVlbmVpqbADjHqJiSNA0TMxiLarMTuCAYJn/M4iAiICUWI7fKa2HS0uGBagoYFkur6+bhVAxAI1ZsduE5N18LHt9rdy9+lly0NVAcV2asNgR41se+b3bu5+bAczAJEqINkBRufdOWGojh22RzDK3pvcv2sAsC9DATVmB5gYiEWwomPCwpCLg4MlOzUbmSrbiYFYhIV1NOhnAkxyO6vLy6Xjgegsone+rYetEoSFiXuHZ8nsxPn1LhyiGnOBACCYxHao0D9YYbQVRp0xxw4HKQAXBgZ8BBPbSdA7VNgyxhwIwpjrioEdTnT78mvovWMr3H1oYLaJWDsnAdm3cuLLfweIE51Glh3GHSh734ntkIR2qNDYAuLwBAhDgtJFrMoOn01oRxUu9PbOw+u/6pqqSRNQYjuq40CCAkhQghHQg/urTdhRxf8hnC4N2OmUvvysib/nrPUX3WNhZ8p1sJsAAAAASUVORK5CYII=",
     "wiki_name": "Rune kiteshield (Varrock)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Varrock)",
     "equipment": null,

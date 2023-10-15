@@ -1,7 +1,7 @@
 {
     "id": 6180,
     "name": "Lederhosen top",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-01",
     "duplicate": false,
     "examine": "A leather strapped top.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWklEQVR4Xu2Wy0tUcRTH5/4Hrtq0mV3boU3EbASRENxEErQw0IiCKCQzS0QUSyozrTFLJlFTTDTxgY/EB5qZmVaapn/OaT7ndu5cJ7Obr1nkgYN5f/f+zud8zyNDoSP7P8yRpKfdHBkceCbxeKVUVV3zgaUFzpGpybi86Xoo9fW3JS8vW0GyT4Yk91TosMEcmZlplaGhRml5VSVlZZdldKTJg2lvuyfNzRUKegiqOTL/oUMBurtr5WlDqeTmZurv56IhdUDf9j6Rjtc1HljN/RsHAeXIwscumZiIS19fg6pTUlKgagFyITNDf1LK/KwMdcBQDOU430e1HFla6vNKRfax2F3JyYnKu7GXGpyAwExPtajznKYHhvPW1mqprr4uhQVn9wMqUar5Thkfb5aenjqdrOKbF2VhoVufmSKA2E8DsjPKV15+RV40lSvYHtRy5PNir6pDANShd7KzTmtgShg7f0ydd3ADMpjOzgeqaCRyQktIXzEMu1DLzYJGJgDqkGlRUb4sL/UrDGUCpvBMhvrsbJunlDkQdY9v6ft2R2XFVQmHj+v9kXA4CJSrDAGYIi6ikVHHGhwYA0l1f2PzXTQakbn37aqylc9gAgAlA3IBkpMlvUOp6CdrXlOFYDhq8tzKyHrgO1N6oL9B+4iSBVTH0YspERPFBajDVjZ1Fj/1eDC4Hwb3K0UyJEGJSdD2153SS0GA3CxoTD4GamT4uQdl56jHOwZjICjnh2Ffoc7qypieozbjX/uoOGj/uNmzcygDUIw1UKYOzw0GNxAcUHtOMgDxDfehqAHa5g7QP458+zosKyujmtXa2oSsr01qU3OmCiUCA7UTDE4Spg7DYRNG/9hfB3+BMXMDoxQXkV3yYxfIK9MvEPXEkjQY29i8/2V50AOif9hH/glLjb6tWXDzpLRuw+8Eg1NSmyxLzA8UsH9+NwNJfug2tQeTAMEJajAAm6p+eD/Q1iT3ZG7JUmGstPyb8WYR8q6VDsUYjlSg1Nt3aclS+mEAwX+sT3vnDAPTBgzOLgu4f/7N/D21ndsZ+4vdg7NkAbLe2lcgv/n7bGvPOVrSzc05HXf+TwPIYA4M6M/myPfVcd1jGxszCuYHSn37kMwtoYGxUNMMtNNOS7Nt7a8j27v9BFGKn82Wol4GAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADVklEQVR4Xu2W60sVYRCHzyIRQl8kKA6CmuCHMigktKCISDIzErHEksrMLAtLNLFMxBANsURUzDiYSGVWZna1Ol3Ef2zimWX2rCezzdv5kAODue/uO8/85pKh0Lr9H+ZIzBNujvQ+uCKNDaekrOygDywhcI6MjDTK3fZzUl19TLKz0xUkfXNIsraE1hrMkbGxZunruypNN8ukuHifDA7UeTAtt09LfX2pgq6Bao5MPG9VgI6OSrlcUyRZWan6+45wSB3Qe10XpfVOhQdWcebwakA58uplu0QiDdLdfUnVKSzMVbUA2ZWapD8pZU5akjpgKIZynK+gWo5MT3d7pSL72toTkpkZlodDNzQ4AYEZfdykznOaHhjOm5vLpbz8kOTlbl8JKEdeTLTJo+F66eqs0skqOLJHJic79JkpAoj9NCA7o3wlJfvlel2Jgi1DLUfeTHWpOgRAHXonPW2rBqaEtTs3qPMObkAG09Z2VhVNSdmkJaSvGIYlqOVmQSMTAHXIND8/R9697VEYygRM3rYk9adPbnlKmQNRdeGovm93nCw9IMnJG/X+3RkZQaBcZQjAFHERjYw61uDAGEi8+xub78LhFBl/1qIqW/kMJgBQLCAXIDlZ0juUin6y5jVVCIajJs+tjKwHvjOl7/fUaB9RsoDqOHoxJWKiuAB12MqmztTrTg8G98PgfqVIhiQoMQna/jpetDcIkJsFjcnHQA30X/Og7Bz1eMdgDATl/DDsK9T58nlIz1Gb8a88XxC0f9zs2TmUASjGGihTh+cGgxsIDqg9JxmA+Ib7UNQAbXMH6B9HPn3sl5mZQc0qGo3I928j2tSc4QQGajEYnCRMHYbDJoz+sb8O/gJj5gZGKS4iu9jHLpCVyUBwlqTB2Mbm/Q/vez0g+od95J+w+OgLmgU3j0nrNvxiMDgltcmyxPxAAfvndzOQ2IduUxsMIDhBDQZgU9UP7wean+SyzC1ZPIyVln8z3ixC3rXSoRjDEQ8Uf/sSLVZKPwwg+M8fo945w8C0AYOzywLun38zf08t5HbG/mL34CxZgKy3VhTIb/4+m99zjpZ0bm5cx53/0wAymFUD+rM5Ev06rHtsdnZMwfxA8W+vkbklNDAWaoKBFttpCbb5/bVuy7dfsvoGAZcXEXwAAAAASUVORK5CYII=",
     "wiki_name": "Lederhosen top",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lederhosen_top",
     "equipment": {

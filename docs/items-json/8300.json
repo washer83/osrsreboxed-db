@@ -1,7 +1,7 @@
 {
     "id": 8300,
     "name": "Spiked cage",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrElEQVR4Xu2Xz0sCQRTHfX+HF8FDVwkkJARDOoQgSZKEJJhkkiaZmZkmm5ESBpWQhzr0p754I9Nu82PxMON66AuPxZmB74ed932LoZAxAYorAQrw+qKBawQFeNtqMaBYJBIElPgmAAedjm0g0ZQLMBIOC9dj/Q0BnpXLmp4A3IzFBHPAm8umXSD9FQDuJJMS0FW9rjlvRP5A+5mMBNSs1TTnjcgf6Cifl4CG3a7mvBHpDAC/53M8KRbZHq+n+4H9puZAYpHxbiqFB9ksHhcKrJmnoxE2qlW7QE6vx0wPczk8r1Twrt1mxgTkTmW3Hvt9u0BksJ1ISMZUfA6R+QLAr+eMCPB1PP5j6jXfiscF8xUMRroetQHgXjotAVmfQxNnqDEA1lf09JY6lcbkNqlYgaWMgFQpo2cgKaNh537V/1Mmag1T9vzgaAzklH3NZvZTRj0kGyzifVoqsUan5qbeWcnHdZnYe9etp0wXe5o3G9HorzlvdNq3CrRs7Pl5603tF3sVEP9TYA3o42WqMVABLdZdaOMC/Hx/U5i6+ypz8bdhqU25dOtWFYjpuukHuWoQGKFj5NcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xu2X3UsCQRTFvU+S9CJJkpJJgmGGZYgZZhpmZoZpZkZGGEQJ+RI99OffuLNMa/Ox+DDj+tCBy+LMwPmxc89dDASMCVBc8VGAl2c1XCIowOtGgwEdJJN+QIlvArDXatkGEk25AFeCQeF6rL8hwJNiUdMTgGvhsGAOeHVetwukvwLAzVhMArqoVjXnjcgbaCeVkoDqlYrmvBF5A+1nsxJQv93WnDcinQHg93SKR/k82+P1eNuz39QcSCwy3orHcTedxsNcjjXzeDjEWrlsF2jQ6TDTvUwGT0slvGk2mTEBuVPZrYdu1y4QGWxEo5IxFZ9DZO4AePWcEQG+jkZ/TGfN1yMRwXwBg5GuR20AuJ1ISEDW59DTXV9jAKyv6Dlb6lQak9ukYvmWMgJSpYyevqSMhp37Vf9PmaglTNnz/UBjIKfsazKxnzLqIdnAifdxocAanZqbemchH9d5Yj+7bj1lutjTvFkNhX7NeaPTvlWgeWPPz1tvaq/Yq4D4nwJrQB8vY42BCshZd6GNC/Dz/U1h6u6rzMXfhqU25dKtW5UvpsumH4/z2VFjhzq5AAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

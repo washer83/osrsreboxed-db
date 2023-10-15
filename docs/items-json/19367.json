@@ -1,7 +1,7 @@
 {
     "id": 19367,
     "name": "Energy potion(1)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-01",
     "duplicate": true,
     "examine": "1 dose of energy potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xt2Xy2sTURjFe/+T7t20uBGatkmb5v3oNGmaJp10mtckmZgm5v0QBMVSEBRBiiJuxIViW9HELsSF+Icd595hJs2km8rkRvzgEBjC3B/nO/e7dxYW/o8imNRci+DFEz8etTdRk1cgxpbmDUXweyTj19c805vnAp4O3POEIgbMz8sMzp5t43F3iwEtLS7yhtIyowP9OE/j1WmItW8OeSIQxTQkKWu4c/VRwsuTAB42HPD7wwiFIzyhCGS5NKUD8Qh7cRE7kTi2XD6erSOoHFeZjo9rhpJJCbFYEj5fCCu2db5ArVbbUKPZQr3ewH4ihWAoArvdiaXluzyBaBGcX3zBaHSF4fA7vg1HrF0ut98INYXhClQuV9Dr9TEYDJhouzye4DxgaBG1TU30+wMmHYjmh3Or9CLMHaa+Jtoyf2Aba2sbPLc8LYJq9QG63d6E9FA7HFynNUE+X0Sn052AyanPkgcSBCEGp9OD1VUHL5cIarX6FBCFTB1mEFGHotsTYFufg0vqhC4oaLc7DOi66HPpKIfdWIIFm5NLY3fMKqhAmYyMuBrsQFBg82jGLhEUiwqa6lSmDpldKpbKyGYLSCQPEd6OwusNYnPTDZvNPiuXCDuvdBizSqX7LNj0FiDs7Bkurdu164jFLhHmAB2EZhBdilJhwT6U1GBH99n1Y4Yuqad7pTpxoFK9lgoTosE+SucQ2ztg258OSXoNsdglbWfRMDdvgLiNLHKJTL34b2WRS9YBUf0TLikbXgjL9wyHLHHpc6nFdKG0DV2WO4Y+FZt4n6/ibVrBWaqA090UeoEoig4PXHe0D0iLYPTSboF0YTOcDvRBruFduoyTqMhgJJt+DbEcRivthfo316Rr9JcCUZimV5gCsRzmeo0XGMOZxQXkprq+sFnm/962/gDDuSwhmib5bAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyElEQVR4Xt2XXU8aQRSGnX/Qpk2axtTaDxREBUEEARVEVgWVr1IU5EuRYjGIIiI2aXrRC5vetDEmTZpeNbZ3SvoH3zKDu7DQG5tlaHqSJySE7Dx5z5nZoa/v/ygCOT0tgp2NZwh7B+C2P4Rh9G6vpQh+nNvx/ZONcZDRIBZ40kspIsl8+2hBIT2M9bXHTEg/OMhbqjEzotDXMzPyiSHWvh7ME8HqWgiBQERK5+K9CblNFYJLjzA1ZYPV5uQpRRCNJjtYWQ3BLaxiziFArzfxbF19d2VzjGx2V8LjDcC14IHJZIVqSMNXqHhQkigUisjnC1ha9mHa6sCIVof+/sYscRKiRXB5+RO12i9cX9dwdVVj7ZqYmJKGmspwFUpv7aBSOcHp6RsGbZfRaOmFDC2Cvb0CqtXqDafS/HBulViEpcM4qTJoy8zmGag1Yzy3PC2CXC6P4+OKDHGotaN6nikRbEQTODoqo1w+ZlCZ9Y04vCtBzMy6MK4zQq0e5ZUSwe7rPZkQhUr6fGE4nIswGMxs63NIiSAWS+HwsMSEWqHfB0MRuFzLbLA5pVRPZzePUqksgwptxlMIh6MQFuuDbZll51GXUyKIx9PY3z+oSxzd0JRKJLYQicSw7PHDZp/H5OQ0xsYNGB4e6VZKhL2vaLsoTakGyeQ2G2x6C5idc0spaUbGu5ESYQnQg1AUaoUKpdIZNth+/0s455fY9aOLKRFkMq9kL1SGaUYGHexQaB0Lbi/b/vSQpNcQhVNq7Cy61YvFww6J26BQSqTjwX+LQikpJ0T5J1ISBlXQ3n8gJaRISuduP+NCCEp8EUISnxd8OJvz4K1NQMXiRFZvwQu1DvMDz/H0zj0lZcRq3ALpwu1yotAHxwre2QVs68xMxtpPF+/i7bHxQPE/lzw1+kmFqIxPpe0QUVymtZoLNOXa4SLyp2pduJ323962fgN3dNh2+tOkmAAAAABJRU5ErkJggg==",
     "wiki_name": "Energy potion (1 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Energy_potion#1_dose",
     "equipment": null,

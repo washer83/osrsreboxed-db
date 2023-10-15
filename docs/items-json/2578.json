@@ -1,7 +1,7 @@
 {
     "id": 2578,
     "name": "Ranger boots",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "Lightweight boots ideal for rangers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAklEQVR4Xs3Wy2tTQRTH8eQ/yKobNwV3XZWCuJCCItKFLoQsRKGCgnShGxcufOJbFBVFcaGipYpplaql1PpooaW2vhBfxX9nzPfe/pJzTyc1aa7SgUOSmbnMJ+fMTFIorP1WDPGIjf/zVgwvhk6F0cETSTx7eDyM3D+WhBCz41fDzNiVMP3ycgTlv0Tb8BQkFCCFx0w9vxReP72QWZjPjPnIolpCFsPYo9PLULwCUQg0OXIujD85k8zlNQZivkUvLgyFH3P3VocSiPfKjkBvRy8mIM1tBOK5X/OD4fenSjWGExBrdHd2JuFXdy1Nu761QCwaA01UztZAvI+B5iauZUC8F8iv7loxUwYW0ubmswUJDkLlbQRamLyRH0hZok8g5nX1Fmp7woLImgd9fGNBldZA2hceZE/TxnIhiU27S2Fzf6mG0rgHfX53MwP6+f5B+yALsaCeHYWwrivNFp/pF0y4L1O38gXRTya0oAWpdDGsoN9m7tRAix8e1zAtg1ZCbd2/hNuWhRDMI3NghYqB/OoNWppqNqgFkXqL4rWPDG1IAcL0DaTj3VUoYzzzffbuakHpUSZDjUB7j5TCwfMdYWc1Q73VLKx3+0eZ61kqJSczAzKXol/dtfTIx0CEQGD2HS2FPYdLYUu5DhKKbAFVX64goQgtIAwZomQCAVXm6FMwlgvIZomxAyc7Ekh5oI5hQ7OoxtRPhijZctBwDdMUiBPmQcoKe2fXoRS0vT8tlzYtY7YfaBxUaTY7tDrIlk0LkgFANju2hB4ENncQQb8wKpfdtMqcLZewBLe0BQnlV4+0FNSobD44eY1A9PMjzN+Or9O3ayDuoBbuoSzIlo0+LcAr/bq9fbno44rguLcN4pT9DcRi9j+QzxzjzM0V5MtGvwXp3yRB6XRX8ZzmApp/dT0Lqt5BLd9DsbJZEO9XAilDzM0FFCubBTGm3zcPYp7dP22CaMtPUywsxoYH8V/aghQtgAoFXesrhQfasPsnF1CzzSObwSrqc/9T88hY+GfWdPsDD6XbO8fNWjoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xs3W3UtUQRjH8V0WCboQwggyKiUi8KJEogiEuumim97pnaKiougmkkKk6EWkNwSxFyoUBDGRMoKIKIr6yya/5/g7+5zHWdt1T+HAw+7OzHE+Ps/M7JZKy7+VQzxi4/+8lcPTgSPhcf+hJIZuHwyDfQeSEGJy5HyYGD4Xxp+djaD8P9E0PAUJBUjhMWNPzoRXQ6dyC/OZMR95VEPIchi+c3QBilcgCoFeDJ4II/eOJXN5jYGYb9E/ZgbCt6mbS0MJxHtlR6A3j04nIM2tBeK579P94dfs/fB79mECYo3ujo4k/OqupWnXfy0Qi8ZAow+OZyDex0BToxdyIN4L5Fd3rZwrAwtpc/PZggQHofLWAs28vFQcSFmiTyDmtbaXsj1hQWTNgz68vpyBiIZA2hceZE/Tmq5SEmu3VcK6nkqG0rgHfXx7JQ96d6t5kIVYUNvmUljRmmaLz/QLJtynsavFgugnE1rQglS6GFbQLxPXM9DP93czTMOgxVAbds7jNuYhBPPIHFihYiC/eo2WppoNakGk3qJ47SRDq1OAMJ296fiqOShjPPN18sZSQelRJkO1QNv3VcLuky1hy1yG2ueysNLtH2Wubb6UnEwLspeiX9219MjHQIRAYHbsr4TuvZWwvqsKEopsAVVfoSChCC0gDBmiZAIBVeboUzBWCMhmibFdh1sSSFdvFcOGZlGNqZ8MUTIP4pYWpi4QJ8yDlBX2ztY9KWhTT1oubVrGbD/QGIgM1ZkdWhVky6YFyQAgmx1bQg8CWziISP7APEblsptWmbPlEpbglrYgofzqkZaCapXNByevFoh+voT52fF5/FoG4g5q4B7Kg2zZ6NMCvNKv29uXiz6uCI570yBO2d9ALGZ/A/nMMc7cQkG+bPRbkH5NEpROdxXPaS6g6ecXcyDuoIbvoVjZLIj3i4GUIeYWAoqVzYIY0/ebBzHP7p8mQbSFpykWFmPDg/gtbUGKBkClkq71xcIDbdj9Uwio3uaR9WAV1bn/qXlkLPwzy7r9AaxU96wVkwxHAAAAAElFTkSuQmCC",
     "wiki_name": "Ranger boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ranger_boots",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8267,
     "name": "Mounted bass",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACu0lEQVR4Xu3XW1MSYRgHcPwmXnfV9+imu6aLbmqa6aJxaioPaU5omChyCCKLUE4CQphkaicaHSJSpGTSCBA8VNa3eOr/2Au4C8bosl3UO/Mfhl1mn9972OVdjebfay20l7/SRPFKOs+fIFPHaTVQ8uLaiydpxq3lzHr76JlfR69CtynysIfPH29tVQolL264dooLVudFcIBiYT0tThkoETXSu1kzpZ/bKOzoPgpIXtx+4wz3VARFRRYiQxSfHqG3M2ZanrPQpPGCLEcAtZBLd457KA2KilT3Xlq8ZkavHx7k7D/LvRVBYaRe7xuKEqCGe99AAvZOdUHFdEp2TCQecKsLyibiVHy/IjuOJAJe/py426EOKHdPT7nkGyqtpmXnEiEfvfY41QHFB7qoMGahgsvGqM3MBz6+vZbhz2TYTwve8fLvvdb25oEy5j4q+u5Tye+gUtDJqPwDA2OQZCRIixMueulyNB+EUdkMuWjrkYe2pny0PR1g1IbHzqjUcC8v4pi7gkHclqvKg9B7geA8meTvwJVRDhPF+tppzmFvLgh30ZfsGpkHB2nnabgcBv6eKkwjpg+jGO1q2wcaN19RDpRfTtLXz5/oWy5Lu/kc7W7kOQABiWA9iWnDCEXtd5oHQkEB+V4sMExMG9YTsAjutqWhHl4/UpDTeFkZEG7nasjO+se9NfNrRDTHNBxMVdamY0w1oimgH6ViGQIc/iIwNQID2J8wiGP4kjIgXAxPYkDySwlesJiadestWjVpG8IoDhLBggUAD8aVkZuU1HfXxaTmrbxnwgZu3tdPo/o25UEHBQDsl6oRj8d6+V8ed5gqIACwccMOEtvaagSuIw0wioLEKOCcQODNQrxR1CoujbRaA20/SIwCpgL7aoFoBCC98iFbBSQQeLVREVCr1Z9/lQDyJi2uOuB/O6D9BMKz7EiwQ7nRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyklEQVR4Xu3XbU9SYRgHcPwCfQa3XvSuWm+qF21t1ip1ptnQMFEEIWxkQSgDRXwiM2cz7WE1a26OJEnNWW6ucpiKYlTaeljru1ztf7VbD+eAnenh9KLu7T/GOXCu3/1w4D4Gw7/X8uh3/koTxbdSfHQv2YoO6IFSFjce30cDfiNnsKWC7odMNNx9kW5eL+PzB/PztUIpi1vO7OeC0jzsrKLHYTON9lporN9KzwftNPOggcLu0t2AlMVd5w5xT0VQVGSkp4YifXX0bKCeJocc1GU9psguQHnkMx3hHsqDoiLS3suLZ0zj2Z2DvJWHubciKIxk672qaAFS3XsV6XAV6wtKzkwpjolE2v36ghaiEVp7Oa04jox1tPBr2+UifUBLV8y0GHtKqdkZxblod5CeBLz6gCJVJZRoctCKr4FRqblXfHz9zRy/jodDNNLavPn5Vmdh7kBz9gpKBq/S+5CHUp1eRi1fszAGifV00mibjx753LkHYVRSYR99uBGgj71B+tTXzqjVgItRU7XlvIiH/Z607/kdp7UHofcCgazf7uL3wAlUwmOj4YpCGvK4cgvCXfQ5/pbs1dW0cSe8GYDEVGEaMX0Yxf6SgjRQc/0p7UCJyRh9eRenr0sL9C2xSN9XExyAgESwnsS0YYT6XZdyB0JBAfmxtsIwMW1YT8AiuNsmasp4/chBXutJbUC4naWQjfnXvGYwIoY9Bg6mKt5gYowUkRPQz1RyEwIc/iIwNQID2J8wiLv2hDYgXAy/xIAsT0R5wWJq5p0XaNZmVIXRHCSCBQsAfhin687TuLk0K+bFPSfvmbCBuxuspEZzgfag7QIA9ktSxK2mcv6Xxx2mCwgAbNywg8S2VorAdeQBRlOQGAWcEwg8WYgnikzF5ZFXU9HSQWIUMBXYVwuEGoD8yjtsWyCBwKONjoBMLfv86wRQNnlx3QH/2zbtF2DPH6fNkP6CAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

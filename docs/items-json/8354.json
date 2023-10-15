@@ -1,7 +1,7 @@
 {
     "id": 8354,
     "name": "Alchemical chart",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxklEQVR4Xu2VW0sCURDH3W/ic0/iW/QihPSQhFAQFgabUBEhhnlBRTQppIgW7S5mpWE3uxDRSwQRZKFBhgR9mokZO+u2PWTWbhL7hz9HPLPOz5nZc3Q6TZpaUhzU3BLigO/pAKvJqATUd/9pLX5/K0CrQa8ny6OaFAdBhwWcNnMDUDWQy0IMXsp5yGf8IpA88gfiCGas1yT5cVaxj16YHQEhPgoXR9NQLedgN+1TBui1cgxrghO8rj5KgKvf3Q9Bjw0iATskBiwwH3MQkNHmgfODKFRLO+oAMRhMzICcZp6A8Dv0ST4Mzw+bkE15lQdCGAaERiCEMdgt1K6VxQko5EJQKaZge31KPSCxZdZOAkIYNMYdZoPwVNxQHkgKI50hNszoVNIlVi+z6lYeCCsirU4sNEQgiblxWtPLk9Syx9sl+qwqEA4zAuH8MCDcx6Eu3SSVBDoVgTA5A0PPRHhqDwPCuTnbi8D9tUDtUxxIOj/oeHSYgDAOja86nkN3VwI9owoQgwn7BkWQ+n1VP7nZxaoYEDuppWYg0qRSOPneL6gOJAdoJNlX+02IAz/fTeXvam97r8yf63OL5BGqq9EWadKkSdN/0RsuWQXAAQjexQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xu2VW0sCURDH3S8QRA8RQhphQkFaxCZ0IdAwTVDRTAopIkWLbkZJN6M7FgURPUYv0UM3uj2UUfRQn2tixs66bQ+ZtZvE/uHPEc+s83Nm9hyNRpWqghQHGReEOOCrysCoLZED6rv/NBO/OuOm1azXk6VReYoDj8UAVpMuB6gMyH4qCM83S7CccAlA0sgfiCOYlmqt6MdZxT56oLcJwqFm2NvohqfrJCxOdcoD9HK/CWMRKzhtNZQAV5e9FjwOE3S56yFqNkB/0EJAJSYH7K4F4PFyThkgBoOJGZBVxxMQfofeWvLBw8U0LMSd8gMhDANCIxDCFNcbqF0jg22QSnohfTYJs+MdygEJLTOWExDCoDFufd4Dd6cT8gOJYcQzxIYZHY/ZhOolRu3yA2FFxNUJehsIJNrXSuvUcDu17PZ4iD4rCoTDjEA4PwwI93Gor45i8gG9prcFIEzOwNA9fp7aw4BwbnZW/HB+GKH2yQ4knh90KNBIQBiHxlcdz6GTgzA9owgQg/F11gkg2fsqe3Kzi1U2IHZSi81AxEnFcNK9X1AWSAqQS7Kv9vMQBy6+kspfUVr0Xpk/1+cWSSMUV64tUqVKlar/ojfbt7myeVTBNgAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

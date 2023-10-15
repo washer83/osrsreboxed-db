@@ -1,7 +1,7 @@
 {
     "id": 19707,
     "name": "Amulet of eternal glory",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-06-30",
     "duplicate": false,
     "examine": "A dragonstone amulet with an unlimited supply of magic charges.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLElEQVR4Xu2WXUsbURCGM3/Cm9wEvBAEIRTEH+ZFiFpJ/S6lKCJRTG0sfkRT0NjaWhuDxmjEmLYmgaZCKqUglqL4C8Irc9KzJruSnqPuBkofGLKQzMmzM3t2jsv1n38XQv1wFELywwYOtrfxOZ1GPnuEYj6P7yffsBZZxPOBASfFCDsb7/FxdRVvliJIbW4il8ng19kZyuUyfp+fI7u/h+jsLJ719TkhRtiLx5FYfys+ra2qxM/TUyG7HA7j6ZOAnWIkWsWt4Wuvx3NrSIFiLifaG3k5g+FA70NLkXheuCXzoWlDyPwrSbVYPBaDx+3+a44mhK/HXyzVMf+qFsKPUkkzRxnCUSqFrs5OjTslnBQK4iFXz1GG7nCnhOPDQyy+CNkjNDo0pLkwIbObxKvJSc08Jch4t6gvTEgnEgiNj2vmKUHG1lVfmMT7aGpsVDNPCcLg4x6NhQmFT1nEFuaNHLU8ZQgBv19LiKsTDgY1crQg9Pp8iotXqrMeXbarOgzh3euostD+1pZd211CKBWLxo4xf3tDZVzwicDG6jAkjhg86cdGRv5IWYOryC/Qlbk5O6sjIXEY4z/t7+4WA1PGzMSEGLp85LBxZ5khXF1e1IjI4OeFZ5b+eLkXhJbmZhEs4W8KiuBrbhGfIh2XkRLVIc86DsowhLbWVouMWcohGaa+EIfjQo+8XotEQ4U62tvrSjksxNxIcfs4qnddA4QYq1QDdpiZ2nEhRR5a5hpTc0hwuxbi0gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNklEQVR4Xu2WS0sbURTHPQuRilhEce1H8Fu4EFKt7ydStIiopT4aFLS+moUv1NZXg0FEo4RisLaVkCx8bUIRoQtBpIu68Eso/Mu58Y7JjKT3ts4EpD84ZCA5N785Z+6cm5b2n8cLIXk4CmF9cQGfVlfxNRBA+PMODsNhfD8+wvTwEF7U1DgpRlib/4CPExOYGR2Bf3kJoWAQF2dnuLm+xs/zc+xubcLT14emqionxAibXi98c7Pi09qqWPw4ORGyY243Gisr7BQj0SpuDV8XFhTcG1LgIBQS7R1504v68rKHliLxvHBLBrteG0LmX0nixbxTU3iSkfHHHE0I+3vfLNUx/yoRwmk0qpmjDGHH78ezoiKNOyUcRyLiIVfPUYb+4k4Je9vbGOrptkeoua5Oc2FCcGMd/Z2dmnlKkPFuUV+YEPD50N3aqpmnBBlbV31hEu+jVy3NmnlKEGqfl2osTIh82cXk20EjRy1PGUKFy6UlxNVxt7dr5GhBKCsuVlw8Vp25d2N2VYchvPd4lIW2Vlbs2u4SQvTwwNgx5m/viI0LPhHYWB2GxBGDJ/3LhoZbKWtwFfkFOj4wYGd1JCQOY/yn1SUlYmDK6G1rE0OXjxw27iwzhKvLXwkiMvh54ZmlP17+CUJWZqYIlnCld4jga24RnyIdl5ES8SHPOg7KMISn2dkWGbOUQzJMciEOx4Vyc3IsEikVys/LSyrlsBBzJ8Xt44jfdSkQYqxSKdhhZhLHhRR5aJnfiMEPN1+k1a0AAAAASUVORK5CYII=",
     "wiki_name": "Amulet of eternal glory",
     "wiki_url": "https://oldschool.runescape.wiki/w/Amulet_of_eternal_glory",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 27859,
     "name": "Dragon longsword (bh)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": false,
     "examine": "A very powerful sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4Xu2WQWuDQBCFs/8kf6AggRBEBIOUUFJCQ0ODhYR6CPFQAoFCoX9+ynM7rk60p+6shz6Yi7jsx3vPXScTNRmSTwLK0OcypZFAGXrIc/rIkhoomk5DQxm6zzK6pqMAsu4A6D2JQwNZGAaq4sU4gACDOS3mIYG67gQGMvS4WnWAlmlad4ih5ArPckDsDoAw6JEy1K07/MnzKEJhg353DrPoB8ANuuSxTxZEwrArDMQQKjAyJkzbGc8QrGGYNpAaTB8IbnVcpJhyPmuA5Oo/lI1AghTR3U1xFdzpd6UvHpXyyi8I5wlOYMV4WA4Gm/PNLcejI+1T1P5goaz8TzMUjTeYS1U1G3/lLh4JIld6kqFzWdLpeKS316ITjzIIywId9nsqdjt63mzoab1ugOTbnmVhAIITGCAoMy7IAECmjullu6UkduUNFJeFQTxwRJZXGQYydTztrigD9ClINL9rVDD/GtA3JIWYtm6X87sAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZElEQVR4Xu2WUUvDQBCEe79ASktDEhpbi5VaaUqpgYIBQQTBB///r1mZnJtLthefvL08OLAvIcd9zEzuMpmoyZB8ElGGPpcZjQTK0F1R0EeeNkDH1So2lKHbPKf3bBRA1h0AvaZJbCALw0B1shgHEGAwl8U8JlDfnchAhu7X6x7QMsuaDjGUXBFYDojdARAGPVKGunaHP3keRShs4HfnNJv+ALhBlwL2yYJIGHaFgRhCBUbGhOk6ExiCNQzTBVKD8YHgVsdFiqnmsxZIrv5D2QgkSDm9uSqugjt+V3zxqJRXfkE4T3ACK8bDcjDYnG9uOQEd6Z6i9gcLZeV/mqFogsG81XW78Vfh4pEgcmUgGXqpKrqcz/R8LHvxKIOwLNDpcKByv6fH7ZYeNpsWSL4dWBYGIDiBAYIy44KMAGSamJ52O0oTV95IcVkYxANHZHmVYSDTxNPtijKAT1Gi+V2jgvnXgL4B25lbiaI/SqcAAAAASUVORK5CYII=",
     "wiki_name": "Dragon longsword (bh)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_longsword_(bh)",
     "equipment": {

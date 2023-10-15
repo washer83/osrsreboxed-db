@@ -1,7 +1,7 @@
 {
     "id": 26892,
     "name": "Portal talisman (chaos)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A talisman bound to the Chaos Altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMUlEQVR4XtWXzUrDQBDHk+fw0ptXX0UUSgXBkxc9CR6kFQSrFD9r1ba2arVK69dBC570RezBV1n5b5nsZjZJs4kpOvADyWZmf+7OrtFx/me4wp7MwhVrKyvWZCjlird+T7RrtdiQ0Ewul4WUKwYPfWPSKCYihFXS2S4WPfhYxkIIf8NCUBdSPaOATIZCjqMmMIVWl5d9Er8kE3Vs/WOQ2NrY8HpmMZ+XxM03x40wj7ZKcuXkACI7myUxfJ42KMzPS6mlhYJEz+e1Y1wL/qOt98R9uyUJE+FSBHL1LdZPaoymHwldnZ1JuNDdRdOYPAxMCCG1SkqoWT32rdBYodtGQ6ILBcl8D78M9HHaPi50frBvLwQBJJTW1yVBMnOzjoT/zMUghROYWKhTr4veZdtL+g0hqgWh+tGhvdBjpyP611dSDP2TRqhaqYjj3V1xWC5LEglBBEIkFSQUhf4uiQCIWTc1hNBDtOcgSig3NRUphHtLr5VIiE7Z+/OThG8bF4iSAU83N+mEACUArBgkx0np46d7e54QapBQ66RqJxR0MX68vkpJPA+T0p+jcXWZVEL8aichyNCYPjkH49gWkuF/OqyFgj+wRlL6FyEXIRkCv0CQENWOIYTwfx7gZZUwevY5GARKcZGw/PD6IUEvmS+rQpAiXrpdCfUen1Dlm7X5uEWY3zNYfpIBfFz1YCaRXCjFKkTFH/w3SL8S4jARIRsyFkKYx3YcKU/S+OBHNg68Rpz4ARaFQfbq5EDxAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMklEQVR4XtWXy0oDMRSGZ1ZF8CG6VcGK4KqLuhK6Ka0geKGo9V619V6qIvVCXdUKLsXHsTufKfKnnCZzMjOddBzRAx/IZM7JZ3ISR8f5n+EKexILVyzkctYkKOWKl/uWON/fjwwJzaTTSUi54vXxwZg0jF8RwirpLBeLA/hYwkIIb8NCUBdSPaOATIJCjqMmMIXms1mPxA/JhB1b7xgklgqFQc/MTk9Louab40aYR1sluXJyAJHVxZLotccNMlNTUmpuJiPR83ntCNeC92jrPXF3dioJEuFSBHL1LdZPaoSm7wtdVqsSLnR7UjcmDwITQkitkhKq72x7Vmio0HWtJtGF/GS+ep8G+jhtHxc63NywF4IAEkr5vMRPZnLCkfCfuRikcAJHFmocHYnWxfkg6SeEqBaEjrcq9kJPjYZ4uLqUYuifOEK75bLYXlsTlZUVyUhCEIEQSfkJhaG/SyIAYtZNDSH0EO05CBMaS6VChXBv6bVGEqJT9tZuS/i2cYEwGdBuNuMJAUoAWDFIDpPSxw/W1wdCqEFCp3u7dkJ+F+N7pyMl8TxISn+OxtVlYgnxq52EIENj+uQcjGNbSIb/6bAW8v/A6kvpX4RchGQI/AJ+QlQ7ghDC+3mAl1VC/9lHt+srxUWC8oPrBwS9ZL6sCkGKeL65kVDv8QlVvlmbj1uE+T2D5ScZwMdVDyYSowvFWIWw+IP/BulXQhR+RciGhIUQ5rEdRsyTNDz4kY0CrxElvgEb8W1tdEFq3wAAAABJRU5ErkJggg==",
     "wiki_name": "Portal talisman (chaos)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_talisman_(chaos)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 8309,
     "name": "Crude wooden chair",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtklEQVR4Xu2VT0tCURDFvd+gVZu3eeCibdsWrVw9klAKQ8PQpGzjokVERCARQQvpHxaVhCghEUEEEREREX2uiTPXefbKls4N8sBB57qYH2fmXmOxof6fDH0/URSaRx1Mjna/q8tQIe1RKePTStbnT9QCNO772lCGXpolquR9NqDgXNKjVMJhSqvFeGiAIalM4LlIydBraykCtFaK89gERhkIsgkBBEZCjtIRmRAGYNihxMSIW6CPTjlMB/vj8JZBNiFJB/sjN8wpkKSDKy871LOq7FIjHYwKxg59tTKU4UQwKqTTz8rjM/TWXub3CK/2U6NID2cLdFfPc12tJDSB7F9Ha2+Wm+K21dYDqm9Ncw24g40pXaDHiwKdb6e5KZICkADeHs9TpzanC4TRHG0muSnGBiCAoAYYUlIFut7PMoSMD9+xQ6gBCkgloOj+wM+XiwwkqcDvV2U6raa69UAV3R8YIAAC6Jhv3x+cyQgHnFJ0f2CMSsYnvjnM0f2JHeGAgSDb1DYy3FiA5KyxM6O72GgizZFYFAiyt6+5K7umJvvu/ASyv8mZSko9/d6435mKnDUe6i/pE0tZpl9i1XPyAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xu2V0UeDYRTG90rmm+6ji5kva1bT1rT1pXWxiy4SSUwSXUypTKlMyiQlEV1EIhIR0V958px351tfrcudN9rDYzvvLs7Pc877Lhbr6//J0PcTRaF51P7IYPu7ugyVsnEKch7N5z3+RC1AhVRKG8rQy1lA1aLHBhRcSMcpk3SY0kI5ERpgSCrnx12kZOi1NRsBWgwSPDaBUQaCbEIAgZGQo3REJoQBGHYoOTzgFujjqhKmg/1xeMsgm5Ckg/2RG+YUSNLBlZcd6lhVdqmRDkYFY4e+WhnKcCIYFdLpZuXxGXo7n+P3CK/2U7NMD4fTdNcocl2rJjWB7F9Ha3OCm+K21Zd8aqyOcQ247eVRXaDH4xIdrWW5KZICkADe7k3RZX1SFwij2V1Jc1OMDUAAQQ0wpKQKdL2VZwgZH75jh1ADFJBKQNH9gZ9PZhhIUoHfLyp0UMu0654quj8wQAAE0CHPvj84kxH2OKXo/sAYlYxPfLNToPt9O8IeA0G2qW1kuLEAyVlzfVx3sdFEmiOxKBBkb9/phuyamuy78xPI/iZnKil19Hvjbmcqcta4r7+kT8cza/FRoQMqAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

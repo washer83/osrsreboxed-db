@@ -1,7 +1,7 @@
 {
     "id": 26168,
     "name": "Group iron bracers",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-10-06",
     "duplicate": false,
     "examine": "Brace yourself.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDElEQVR4Xu2UX0sCQRTFnS/Riy+CD4EQSCAhIiQhIkkIimFiJFEE/SGkQiqEIIIgiCCCPu3EudPZ7k6Cm5pb4IHDruvszm/PvXcTiYUWmquM/XLsMna1VLfLuZJNplfiBjN2o31ii40D8Vq1bbPFml1KpuOCMrbau7SV3b6A0YV6T1KLIS1ja4c34s39gYCVO2dinDO1XwDTTasfbOzW0VBcP76TI8CQGo3fLOv3+yeSsflaN+iPdLbgwRmBgRun9wEYU2OCMEs7BZix660jeTv0BZwrN20mXxGwVCYXAAEGbp4/iDWcThFmihOAmaAvGDsAkRjAkBjW4O2xEWFa/cfA+K2BNTiu494fgLkp4iQRDEeCoZR4YyTAjQizffEkJtgoYPzPEkeAckDYkDEDjCYYktNQGqZ99SzeGbwE17RxD9bjiGeOgTJBY7IPCKYhmRzWaygNA3euX8W8Hu4j52wqJfZJPuWA/KZkxATlRPkbEMoH6t6+iTWAtk+h5EpGGN2UhPPHHeZGBAOUhsELMNExAL7clOkp0tPjj7q2g0kkNJjvCImMkiubBtJN6U8U7ENBflkmhKFcsxKITUnradLfI5xrqBnLhKaHTcqGhfVHDuuwnj3lP21GCk8OpwUGXLgvpu6VqHJTQ6C94buUDGlwc66cQa9ElQmA5pjEOIUhYoZx+hMQCy30X/UB+2Hz5KrKcTwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4Xu2UbUsCQRSFnQ8hSRiSJBqWGiao5AslRUhFIRVChRBEEARBEAT9/y8T505nuzsJmppb4IHDruvszrPn3rux2EILzVXGfjlyGbuWr9iVdN7GE6tRgxm72TixueqheL3UsKlc2S7FE1FBGVvqXNriXk/A6GylI6lFkJax5aMb8fZBX8C2WmdinDO1XwDTTasfbOxOdyCuHN/JEWBIjcZvlvX7/RPJ2Ey5HfRHIpX14IzAwNXT+wCMqTFBmKWdAszYjXpX3g59Aae3ajaZKQrYcjIdAAEGrp0/iDWcThFmihOAmaAvGDsAkRjAkBjW4O2xEWHqvcfA+K2BNTiu494fgLkp4iQRDEeCoZR4YyTAjQize/EkJtgwYPzPEo8B5YCwIWMGGE0wJKehNEzj6lnc7L8E17RxD9bjiGeOgDJBY7IPCKYhmRzWaygNA7euX8W8Hu4j52ahIPZJPuWA/KZkxATlRPkbEMoHat++iTWAtk+h5EpGGN2UhPPHHeZGBAOUhsELMNERAL7clOkp0tPjj7q2g4nFNJjvMRIZJlc2DaSb0p8o2IeC/LJMCEO5ZiUQm5LW06S/RzjXUDOWCU0Pm5QNC+uPHNZhPXvKf9qMFJ4cTgsMuHBfTN0r48pNDYH2B+9SMqTBzblyBr0yrkwANMckRikMETGM05+AWGih/6oPk+1pXY6SdScAAAAASUVORK5CYII=",
     "wiki_name": "Group iron bracers",
     "wiki_url": "https://oldschool.runescape.wiki/w/Group_iron_bracers",
     "equipment": {

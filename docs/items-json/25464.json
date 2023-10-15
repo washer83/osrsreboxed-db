@@ -1,7 +1,7 @@
 {
     "id": 25464,
     "name": "Black coffin",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": true,
     "examine": "Can store up to 14 shade remains.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0ElEQVR4Xt2XUUsCQRSFnd/hy8I+CEIggYT4UkSIJL4UBD30kIQhCBVGVBpiZFJE0h+eODPc3Wl23R13xim6cBgY3L2f5965o6XS/w/G0+U9ZOKjbpdPh/tC16dhJI9QEoQSE4wuD1AxiJ48SxuCWh9EBaoFgUuo4jDQTr3u0iXGO61WIomqoFxO7KmiXnLgUr4zW9WqAKqEqz/nCMgcRt/X5Q3IBMYRUD4MGjWrTGkwGwUylRd3sqQ++6fcwTt+3R0V5KG/a+sOE6dm0OslkpgKIJPBHr88DoQs3GFiphR1h54bnkiQ0XnTxh3Gt2s145mi6/nqIILBOyALGAQTM0VPlKf5TUvAwJ23UZs3Gw2xD6ctSoWQQCblooYFzO1ZGLmzXCz4y2QsQOC2NZCeOEtwA0BYP+7a/HX6xD/n86hclg6tD4OVgHB1UM+8z2Zitegf85mDH/EAwJEmIDhBtz1KpoIUgKFgfHxRyQWjQQcgCH1C0k+WnqFASJun/XQw7GG2AIigVsE4AkIwvrw/5F+PnQhMvQJU0RcgGMfuqBFDUfNSiVQYmViOig0DIX5CYc7QrEmWJf7L7LhcesgkBAWtSurgVJkFlcWTA+bhy4FvxgQ4Qwm3otIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABzElEQVR4Xt2XUUsCQRSFnSdRxJAkkahcQx8KwocgAxOECiOotMTIpIiK/v8fmDgz3HWadXfHnXGKLhwGBnfv57l37mgu9/+D8eXyHjLxQbvNJ4NdoYtOMZRHKAlCiQlGlweoBYiePElrglodRAXqNBouobLDQFvVqkuXGG8FQSSJqkI+H9lTRb3kwKV0ZzbKZQFUKsZ/zhGQOYy+r8sbkAmMI6B0GDRqUpmWwawVyFRe3EmS+uyfcgfv+HV3VJDb3ratO0ycmn63G0liKoCM+zv87LAgZOEOEzMlqzv03OBIggxP6jbuML5ZqRjPFF2P53shDN4BWcAgmJgpeqI0zS4DAQN3XoZNXq/VxD6ctigVQgKZlIsaFjBXx8XQnc/5nD+NRwIEblsD6YmTBDcAhPXtusmfH+75+2wWlsvSodVhsBIQrg7qmdfpVKwW/WM+c/AjHgA40gQEJ+i2R8lUkAwwFIyPTkupYDToAAShT0j6ydIzZAhp86S3HAx7mC0AIqg4GEdACMY/bvb5110rBFOvAFX0BQjGsTtqLKCoealEKoxMLEfFmoEQP6EwZ2jWRMuy+MvsuFx6yCQEBcUldXCqzILK4skB8/DlwDfsx2pbZ0OqsgAAAABJRU5ErkJggg==",
     "wiki_name": "Black coffin (Closed)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_coffin#Closed",
     "equipment": null,

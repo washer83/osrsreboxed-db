@@ -1,7 +1,7 @@
 {
     "id": 25398,
     "name": "Swampbark helm",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-01-27",
     "duplicate": false,
     "examine": "A rather interesting smelling helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJElEQVR4Xu3WQWsTQRgG4M4/yKmXvSzsYWBhYQgsy7IUGkIIwaVEujTEEjCVSpAKiihKQVTwIHjVsyDiyYvgyR/3mm+m3+5kktSaJt2CeeG9JZknM7Ozs7Ozzf8bAdNbEYHPXzt4+zG7DSiB779yfPrSxunjSIOU79eFMphvP3Ocv0/R6np1ggSGh/v48buPyVNVN2iK6Se4P+zg7HlTL9WLN3H9oEcnucaMTkMNqx304LiL8STCcCwxGCkEslEHSGBUpOWSEebhWYqDIkTg71489jd2JpmBGDQ6auHoWOLeuIlOT2qQsroBlP1vBfYSX5dBRR7jZJLo2Un3fA3izyTSWzdKoK2CqpnpeJCVoH6viVj5iEJPY7gq3EWivHWiBHqxrNqSKO6EujYob6s5kPQbZQmmO7O3VopAPwlNO6aEGR5EJYiWywUtwtBMEUh6Dd0VUBbmAsSzQ2UgLVd3P0QWB3rgZRgbRL9NR8I/HgsCRVaB5iDT0hLSftKblwfl5XEw9BkX5I54SQRef0g1iGtDFoFslF1+0uyNvdLsPDuP9YuyBFn7iDEMslF2GcIYG+SOeIXMotzNvRQUmS7CXBNEMahX75JZ1LR8FPD5xBAXw6Bu7uteE0SpUFcF2ai7g6CErLh/FkXgycumvuu4oGUoerflh8EcZA0YjkHRfYdKt0Mq3YOodP3gKwjNygYhdmZfspd1w5Aq9kB/q/vdbba5yfwBKnllQT9hl9QAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACH0lEQVR4Xu3W0WvTQBwH8B1lhIQjITQkZKPtWsmKy2i3gt3GqEzYEEVkoCj4IPgs+wMEQfDNJx989X/92t/dfsn12s7ZtcvAfuH71vY+vbtcbmNjnf83AroPIgJXX1t49yl9CCiB778yfP7SxMmzQIEOdnaqQmnMt58ZLj8kaLSdKkEC/b1t/PjdxegirBo0xnRjPOm3cPairpbq5duoetDTo0xhBie+glUOOj5sYzgK0B9K9AYhPFmrAiQwyJNiyQhzepZgN/fhuZvXj/29nUl6IAYN9hvYP5Q4GNbR6kgFCo2uAGX+W4Gt2FVlUJ5FOBrFanaSLVeB+DOxdJaNEmiGXtlUd9hLC1C3U0cUugh8R2G4ob+JOHSWiRLoRLJsQyJ/5KuaoKwZToGkWytKMNWJvbVQBLqxr9vSJUx/NyhAtFw2aBaGZopA0qmpLoAyMNcgnh0qA2m52ts+0shTA8/DmCD6bToS/vFYEMjTEjQFGZeWkPaT2rw8KC+PhaHP2CB7xBsi8OZjokBcEzILZKLM8pNmbuyFZuf5ZaRelAXI2EeMYZCJMssQxpgge8RbZBJlb+65oEB3FuaOIIpGvX4fT6LG5aOAzyeG2BgGtTNX9Y4gSom6LchEPe55BWTB/TMrAuev6uquY4Pmoejdlu15U5AlYDgaRfcdKt0OqXQPotL1g68gNCsrhJiZfMne1BVDypgD/a32d9dZ5z7zBzoL9s/9JSSoAAAAAElFTkSuQmCC",
     "wiki_name": "Swampbark helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Swampbark_helm",
     "equipment": {

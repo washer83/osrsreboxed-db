@@ -1,7 +1,7 @@
 {
     "id": 14242,
     "name": "Thieving hood",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "Thieving skillcape hood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClUlEQVR4Xt3VXWsaURAG4Jx/0Kvc9EboRSAQkEAQEUEREVFEUZRVlKgYxWowxiRiUjHYhLZJ6Qf9v9O+Jx33rGvtflbowEBWs8fnzJzZ3dv7v0KQnjsLHdHPnlI7VaV6vLgrlKBFfUK32oiuS30aFTrUzdTpNFkmLZb/1yhBH1ozWjauaV4b07QypMtil4a51i5Qgp7adzIfmlNTldA6oLh1wUDAb5Sgr917+ny2WFWJUagUw3CesqGk31V6wfx4+0BftDt6rszoY/mGHktXdJ+/oHnunG6zA5pmerJSpWjW7yoJE+Z98dKEuUqfyUqhbYlgxK8qCfreX9K36vyvGE60jtvmQ5X06mzDjFPtVeIarQsfHHtdpRcMV2fTmWHMebJpQCFxwPdf7XuJ+gWqLQzVYUznpEy9kEYXkQZNIi0J4lRRHj4GzNUBpHSYonowJ0GDcG0Fuol2aBbrboTx1K3/gs3QqwNINHBC6YOoCQSMCnoX78tEJVWYB1USElIPFyj0+mgrCBgVtEgMZS6TI/k5cIxa/xWLIWSbsLtOtOIKhGsMgssqCbkIpggoKyBgVBAwSPyNYcA0ugJhqhhlBcRnZx2ExEBgnV6s6rRtOgg7cwp6TI03ghxUSQeh91ZBfHb+BBokGu5APLp2QIZWeQ3C2GMROyBGrIOwFjbnGKTuSgVpRxmJ4VRfH+qUAcMgrraL0TeDEm/CsjrN44IBxNf8GlGfSZ/SE/k84+FgjCMQnh0MUjHbEtUCjBMwD9qFMILyh3F5bpDrCCR/x2dLTa6OiwON0EHYWTNSkovZTXUNvII8A6mLWU38Pw4yqoMHIl7SLkAIYQBpodzvnVuNzfe7ACGMLdB3bzXc3r8hzK2wF07u/wlfYjHLLEE6JwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjklEQVR4Xt3V+2saQRAH8CwllJaQEBIUFTUqKj7w9DA+iFolxphEMKk12IQ+aWnp///7tN9Nx9u7s/ZeVujAQE5z62dndu52dv6vEGTk1sJA9LKn1EpVSY8Xt4USNNfHdKsN6brUo2GhTZ2MTqfJMmmx/L9GCXrXnNKifk2z2ogmlQFdFjs0yDW3gRL0sXUn86ExsVUJrQOKW1c9Odk0StDXzj19PnuzrBKjUCmG4TxlQ8lNV+kJ8+PVA33R7uhTZUrvyzf0WLqi+/wFzXLndJvt0yTTlZUqRbObrpKwYd4WL22Yq/SZrBTaljiMbKpKgr73FvStOvsrhhOt47ZtoEpGddZhRqnWMnGN1oX3joKu0hOGq7PqzDDmPNkwoZA44LvPdoNE/QLV5qbqMKZ9XKZuSKOLSJ3GkaYEcaqoAB8D9uoAUtpPkX6Yk6B+uLYE3UTbNI11VsJ46qy/4DKM6gASfXFM6b2oDQSMCnod78lEJVVYAFUSEqKHCxR6frAWBIwKmicGMhfJofwcOEZZf8VhCNkm7K4drfgC4RqD4LNKQi6CKQLKCQgYFQQMEn9jGDCNvkCYKkY5AfHZsYKQGAis041VvbbNAGFnXkGPqdFKkIcqGSD03imIz86fQP1E3R+IR9cNyNSqoEEYeyziBsQIKwhrYXOeQequVJB2kJEYTvX1oU4ZMAziavsYfTso8TIsq9M4KphAfM2vEfWZ9CE9ls8zHg7GeALh2cEgFbMuUS3AOAELoF0IMyi/H5fnBmlFIPk7PltqcnV8HGiEAcLOGpGSXMxtqmvgFRQYSF3MaeL/cZBRHTwQ8ZL2AUIIE0gL5X7v3Gmsvt8HCGFugbF7p+H3/hVhb4W78HL/T56ZXyB+7AMUAAAAAElFTkSuQmCC",
     "wiki_name": "Thieving hood",
     "wiki_url": "https://oldschool.runescape.wiki/w/Thieving_hood",
     "equipment": null,

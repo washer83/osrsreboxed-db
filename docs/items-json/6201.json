@@ -1,7 +1,7 @@
 {
     "id": 6201,
     "name": "Blunt arrow",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-25",
     "duplicate": true,
     "examine": "Arrows with blunt heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwUlEQVR4Xu2UMUsDQRCFs//gqmvSHFgIgiCChcVBggQLLYSkiSAYgwqihVilSCOiP0CwtrW1sRRB8GeNzq7jzuxuIbhzl8IHyyV3y+2X996k0/lXazLg1kLIwNl0CoNerw2olBMGhhsde3+tquySz9Vk4HQyCZz4urdVQL3sgfj+GD6rXDT9uv4+yMBsr4Dd9ZQ7Bg73x5oxGrjcKUQ0eD2oiwSM2z8ejX7gFWJ0h1M0BDhY9d+9E0bsi2H/LAPn2zIa68CmcwcXn7IwwswwKBkNAXIXMEqKJ13wbHKHUzQERF0K4UJ3wrdlkI+GYI76sTv0Wd2d+D/Gu4ALi92oO6kx5+7wYqu7w6MhID7m3B3eMTWg1Jhzd2jyuGtqMGE0oQt4bdQdHs3NW2UBhzPfF3KHu6YGww+5fa8sEE4bB2rNHQKaD0u4eOzae1j2EFwNBqM4eSiFG7SuX313EFLZHecGRjN7rqC7Ig+jIuNz6pQEzy5XXoxm/uIOl79cRpgCl+/LIhkNh7n7WLIgBIT30uCZRdHwmAiG9yrep6wQBiM6vi8jiEZgvOTYXz25sW8YIlQ89i0DuVga78xvtVAwGvoEPaz0u4EkP6wAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvUlEQVR4Xu2UMUsDQRCFsxxHOBEtFIQLMRER4VIkCMYERbQQuyvSiOgfsLD3B9hb2VsIFv7I0dl1sjO7Wwju3qXwwXLJ3XL75b036XT+1ZoUmLUSUnA+m8Gg12sDKuSEgmq7o+9PhkO95PNkUnA2nTpOfN/bzaBct0B8vw8fVSaafln+HKSgPszgYCvkjoLjyThljAqu9jMRDV6PyiwAY/aPR6MlfIIYzeEUDQEONu1364QS+3zYP0vBxZ6MRjuwY9zBxafMjTAyDEpGQ4DcBYyS4gkXPJrM4RQNAVGXXDjXHfdtEWSjIZiTvu8OfU7ujv8fY13AhcVu1J3QmHN3eLGTu8OjISA+5twd3rFkQKEx5+7Q5HHXksG40bgu4LVRd3g0t++FBqxq2xdyh7uWDIYfcvdRaCCcNg7UmjsEtKhyuHzq6ntYdhc8GQxGcfqYCzdo3bwVS3cQMrE7xg2Mpn4poLshD6Mi43PqlASPLlNejGbxapyQv1xGGAKX74siGQ2Huf9c0yAEhPfC4JFF0fCYCIb3yt+XWC4MRjR/yD2IRmCs5NhfP5uxbxjClT/2LQOZWBrvzG+1UjAp9AX9lcWOTO0ggQAAAABJRU5ErkJggg==",
     "wiki_name": "Blunt arrow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blunt_arrow",
     "equipment": null,

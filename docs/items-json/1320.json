@@ -1,7 +1,7 @@
 {
     "id": 1320,
     "name": "Rune 2h sword",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-08-13",
     "duplicate": true,
     "examine": "A two handed sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xs3XTUtUYRQH8JnP0WbARdCqTYsIlxEiBMHsAmEIatciCsJCKjEpKorEoKLEwtHKSkStHGvEtDeiF7Wv0KpFn+Dk/7n975x7OnOb69zCBw7zzL3PnfPzPC8XC4Wt34rih3f/n7eiPBntk8mR0yEe3j0lE7d7QxCxOH1J6lMXZeHpBQdl/4i24RGIKIAYFlN7PCjPHgwkEuM77tlIojIhizJ178wfKHwCwiBobqJfpsfOhrH49EAYr9FrK6PyZenW5lAEoc/qEPRi8nwAcWwzEJ5bXR6Rb++qGzEeQMixs1QKYbObFpWdfzVBSOqBZqrnYhD6BLEa6C/NXE6A0CfIZjetmJgGJOLixncLQnIgOL0E4Xe6e47IweN9ob8ydzU/EKuEax6IlSRIYwh6+1yDqtlAXBcWhOQWpBc0As937i9LpXcgBKfs/fy1BOjr6zvtg3AdIKJYSY5phkF8qF3PF4QAQIPsgsazxPSc7I9BGPupPhyD1t7cjzGZQRrF7WtBtjoaQ9Dn+g0XZLM3adF2RbI0EBc0xu7uPuBiYtDizc2CojMIFfobiFVMqw6fSYDUoWizmxZteQ+E8EBedfAbujq5gohCIAFOXCRA38PgOTtduYF0lfCpQRhHEDBpoOXZKwo0HmNaAmHneCC+nwjyMJhWC8JYvDZ0hVqsDloDZNcRrhOEcY8Gt8nqWIf8fLkjxlgQpwuvjdxAROE6EmjQ0cpeWa92yPfZ7eGarqQG4ZTWIKJsdqdFIG/aLKhS3iMnDnf9/uGoQh4I4z8uDMUgnEEZzqEkSE8bQRhT7tolxw7tC32cT5wuC0J12gZh9zQD4f6r4ZL8mI/WDd9xGsS1xunKDWSnjdu8NlSK14wG8azCcxhLELZ8ArRxBmU+h7xpYxKuGSRvBtLrJxeQN20EIQnu8f1mQXxtcLraBKE1/lVJC7t+GBaEQ1GDGBlAhQKP9bSwQB16/eQCarVZZCtYRmPsf2oW6YV9Zku3XyrxmHGu5UiiAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xs3XXUsUYRQH8N2rUKKrIOomUwhibwpkCeouiILAwigxKSoqkgqiKEQKM7FXBNGKkrUMMZEygqhIevsY3XbXpzjxf6b/7JnTmWnHncIHDvvszDN7fp7nZbBUWvmtLH549/95K8u9wW65M3AgxOjV/TJyuSsEEbPjx2Vm7JhM3z/qoOwf0TQ8AhEFEMNianf75NFobyIxvuOejSQqF7IsY9cO/oHCJyAMgh6M9Mj40KEwFp8eCOM1+tPCoHycu7Q8FEHoszoEPbl9JIA4Ng2E55bmB+Tr4g35tngzgJBja1tbCJvdtKjs/KsJQlIPNDF8OAahTxCrgf7cxIkECH2CbHbTyolpQCIubny3ICQHgtNLEH6no3OnbNvTHfoLD08VB2KVcM0DsZIEaQxBrx6fjkGIXCCuCwtCcgvSCxqB5zdsrki1qzcEp+z11Jkk6MWV5kG4DhBRrCTHpGEQb2pniwUhANAgu6DxLDGd+3piEMa+mzkXgz6/vB5jcoM0itvXgmx1NIag988vuCCbPaVF2xXJskBc0Bi7rmOLiyHow+zF5YKiMwgV+huIVcyqDp/RIH0o2uymRVveAyE8kFcd/IauTqEgohBIgBMXCdD3MHjOTldhIF0lfGoQxhEETBZofvJkDMIpTUxDIOwcD8T3E0EeBtNqQRiL14auUIPVQauD7DrCdYIw7lbfKlkaapWfT9fEGAvidOG1URiIKFxHAg3aVd0oX4Zb5fvk6nBNV1KDcEprEFE2u9MikDdtFlStrJe9O9p//3BUIQ+E8W+n+2MQzqAc51ASpKeNIIyptK+V3ds3hT7OJ06XBaE6TYOwe9JAuP/sfIv8mIrWDd9xGsS1xukqDGSnjdu81t8SrxkN4lmF5zCWIGx5DcIZlPsc8qaNSbhmkDwNpNdPISBv2ghCEtzj+82C+NrgdDUJQqv/q5IVdv0wLAiHogYxcoBKJR7rWWGBOvT6KQTUaLPIRrCM+tj/1CzSC/vMim6/AABwnElAupMKAAAAAElFTkSuQmCC",
     "wiki_name": "Rune 2h sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rune_2h_sword",
     "equipment": null,

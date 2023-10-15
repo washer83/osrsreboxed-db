@@ -1,7 +1,7 @@
 {
     "id": 2832,
     "name": "Key (medium)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": false,
     "examine": "A key to unlock a treasure chest.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4XmNgGAWjAAYY/2PiAQOM//fMV8DAA+QoVMc8P6z+//c124FyFMIxm6Yp/H+0X/3/57Na/39f9/n/+2bcQDgK4SD09ANyFLKcgQKIpjnA7SB0OTo4CNVSfJgODiLOIWsmSP9vyBGjpYPwh8rVLcr/b+9UByfug4sV/s9pkf6fEy1AKwfhdsi5tcr/nx5U//9grzrYQde3Kv/fMgORrkCOoaKDcIcKKKufXq0MtxgdwxxCJcfgdsjkarH/6ydL/z+5CuIYZIvRMbqpZALsDgGlhwkVYuDEih4K6CZQETD+/3lJC8Mx6eEC/3vKxP6v7Ic4hgahgA1gDxkQ7iiGZF+6hQo2x4BC6uUR9f+R3oisSxfHoDsEGdMxVEAA0zHLeqTBZcqt7eoojhoQx8AwqAkBiipQQYceUuimUBGgOggUMiCH3NsNcQRI/v0pLXCDC1kdDR3FiNWytycgoYPMB2EQPymYZvUSDDDCLUd2FEjs42mt/y0FkKwOijoQ31SXgdYOAgHG/6+PoRaEIDFQjW1rCnEAMqZbboNFC2pawV5PoeumEYAkYnRH0dEB2AAjOK2AmhV0Si/EALqnF8JgANLL4AEAUACIstlhO/0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4XmNgGAWjAAYY/2PiAQOM/+eWc2LgAXIUqmNuLuP5//OA1EA5CuGY/hzO/5cW8Px/s4Xv/8+Dqv9/HjUZCEchHISefkCOQpYzUFCgh6NwOwhdjg4OQrUUH6aDg4hzSHsa+/9QB1ZaOgh/qOyfxPX/xEwecOJeUsP5vySS/b+DITOtHITbIVs7uf5fW8zz//xcHrCDDk3m+j8pH5GuQI6hooNwhwooq29s44JbjI5hDqGSY3A7JDOA9X93Jvv/da0QxyBbjI7RTSUTYHcIKD2k+rCCEyt6KKCbQEXA+P/bbj4Mx9joMf9P9GL935ICcQwNQgEbwB4yIBzrDsm+dAsVbI4BhdSd5Tz/9ZURWZcujkF3CDKmY6iAAKZjGhLZwWXKsWk8KI4aEMfAMKgJAYoqUEGHHlLoplARoDoIFDIgh5yZA3EESP7Zej5wgwtZHQ0dxYjVskdrIaGDzAdhEN9ci2b1Egwwwi1HdhRI7OVGvv+RLpCsDoo6EF+En4HWDgIBxv8PVqEWhCAxUI0tJQJxADKmW26DRQtqWsFeT6HrphGAJGJ0R9HRAdgAIzitgJoVdEovxAC6pxfCYADSy+ABAN1rRLbMg4sHAAAAAElFTkSuQmCC",
     "wiki_name": "Key (Treasure Trails) (Medium)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Key_(Treasure_Trails)#Medium",
     "equipment": null,

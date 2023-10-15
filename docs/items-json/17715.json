@@ -1,7 +1,7 @@
 {
     "id": 17715,
     "name": "Dwarven battleaxe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "This looks very rusty and worn.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC30lEQVR4Xs2X32vaUBTHe/+OvvgmFAph0IfhS8fwYThkYlCqWFrFHzQqU+uc1YrOVV1L0a1u3RhjjO3/PPN74klC9nuNxgOHm5zcH597ftwkW1t/FEW/17WKonrNoGG7Qv1mic5qedoJBkjbDdLevV3aD+35AzUe91ivB6cM9byaYz1MRv2AssMzfNFhbzmhikcJCu/fXxeUoqPUAT2JRCyoXq9F3UaRoZz66GFoFVDuZF14pdOhbDrNNi0Q4HY6fGZBoZVrPRp2jb+TKErrEXZ/LPLA9kirRaeVMoU0zbJ9nPZp0DIsGCdUNhXjeTyAUpwTjZNDntTpkYvzLmVjpg364bpHt1ddrjyAoJVrzCFjzfH/LYp3iJ0/LWa4gmz3L2BzOdLDYX52M27Tp9mAq05gMA5tJZ9ybOZOoniHo07VgkIFIXxGNmnaMhkOx+S8Rp/fDBkKdqd6CoQdYjEoJkf4AJbPxNl7SOZiIkHN8jHnEaAQOvTFcQD1HOiq32AFFBYAFPICELB1S0VKP44w3Jf5S4ZCfwHCBlYChPyQhQCFZ7ie1GvUzB5zeL/dTqwcwzOEG31XBgQvoBUoLPj6okVf342oknaGRtHbVx1+7qwy9wr/KMoKkxsKKlCwoe+gbFBejy89ZI9HrnkGhHKGBwCD3QoUbFDYkEsSprNCnrRg0LoHOLzsERDEPncAgB0DCgvhHsCAcr4ikE87y7CJenAo2mJPZuYFgFDWgAIQbAgLziYBQD4JlKcwP4riww+vCoDAS1J9CI1UFBTnU2B7e3m/UrFD8TN1ehTvu7VAyaK/UrunogNdt0Btu2+iqFwoUCYp+eW7KJpNJlQtlfhLc2Ogbi4vGUrC5+7hg5hfmnXD2JR8UvR+NqV+u82fvxvjJYEST7l7+CCL99toxH8uJznzK8DdY82yOOnnc4biH4Xl75S715rFhMJxMO73KB6VnwdfxYSCl6TqNqLy/gbmO004BAe9I3+nAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xs2X+2vaUBTHvT8VQVpkhSFls0zm0IhVaauiNopT6xxWq7Wu6lqK61Y3usEYgzH2r5/5PelJQvZeo/HA4SYn9/G553GT+Hx/FEW/16WKonpNp2G7Qv1miY5qeVoP+Cm4EaDNexu0Fdr0Bmo87rFeDg4Z6nk1x7qbjHoBZYVneNphb9mhinsJCm/dXxaUor3UDj2JREyoXq9F3UaRoez66GFoEVDOZJ17pdOhbDrNttT2NrfT4TMTCq1ca9GwY/ydRFFai7D7Y5EHlkdaLTqslCkUDJq2j9MTGrR0E8YOlU3FeB4XoBTnRONglye1e+TsuEvZmGGDfrjs0c1FlysPIGjlGnPIWGP8f4viHWLnT4sZriDL/XPYXI60cJifXY/b9OlqwFUnMBiHtpJP2TZzJ1G8w1GnakKhghA+PZs0bJkMh2NyXKPPb4YMBbtdXQXCDrEYFJMjfADLZ+LsPSRzMZGgZnmf8whQCB364jiAug500W+wAgoLAAp5AQjYuqUipR9HGO7L7AVDob8AYQMLAUJ+yEKAwjNcT+o1amb3ObzfbiZmjuEZwo2+CwOCF9AKFBZ8fdair+9GVEnbQ6Po7csOP7dXmXOFfxRlhskJBRUo2NB3UNYpr8VvPWSNR665BoRyhgcAg90KFGxQ2JBLEqajQp6CgYB5D3B42SUgiHXuAAA7BhQWwj2AAWV/RSCf1v1+815gXALy+azJjLwAEMoaUACCDWHB2SQAyCeBchXmR1F8+OFVARB4SaoPoZGKguJ88q+t3d4vVKxQ/EztHsX7bilQsuiv1OqpaEfTTFDL7pkoKhcKlElKfnkuiq4mE6qWSvyluTJQ1+fnDCXhc/bwQIwvzbqur0o+KXr/akon7TZ//q6MlwRKPOXs4YHM32+jEf+5HOSMrwBnjyXL/KSfzRiKfxRuf6ecvZYsBhSOg3G/R/Go/Dx4KgYUvCRVtxKV9zcw3wHol4O+x7Xb7gAAAABJRU5ErkJggg==",
     "wiki_name": "Dwarven battleaxe (Rusty)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dwarven_battleaxe#Rusty",
     "equipment": null,

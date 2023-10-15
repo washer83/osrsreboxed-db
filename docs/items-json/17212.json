@@ -1,7 +1,7 @@
 {
     "id": 17212,
     "name": "Slave shirt",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-04-14",
     "duplicate": true,
     "examine": "A filthy, smelly, flea infested shirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+0lEQVR4Xu2X7UsbQRDGvf/Eb4VCwS8iIkJFioQGaTBUgkRMJU0xKglJkzSxkpBWpCVU+l5EbJFSSv/IKc9un3WyuQvnWYUWB5bk9m1+M/PsXjIxcWP/pwVysXZlZh3099al8zQntZ0V871ampPt4qw8KcxIMT8tW8W0pFMzrl0BoN1op7Qsm+tLcth7JN123sD4rV6ek1ZtVSrljJmbSc+679nMvKQWpy8LFRjndFIq3JfX/U152S2Etnb1rstgo5KVXNY+Yz3WAgp7Tk1OJoEKZHDw2DhiiVCOo8PSCAgaMucD5VcXzHwEhfUba/cuB4TN4Gi/uWYcoGxvX22ZPh8mDAilwnzMQZYQELKWsGwWCJsRCBu+H5SHykYYNPRrIJQpCihBloaBWLKPb7YdkIbhM4AYwLUAfT7aNdrSMOOAIGT0I2soOXSVACgwmdCixilDP4CoLR8IzQdCRrAPhQ1dJQKiVnhsCXT8rmKAMEYYiJlAWnME8suWCIinifcQ0o3+kw9VM3YRIOoO/bpsvtcxNnrkGdnpp5rLHsbxyYZsaiCKmFnFeML7KPxSRP+3L3UDhHGCUEMEQlY1ECXAsulb2/ccYtH6QTs7bjjBo3VqaVc6vtMIpMuDLGktASpmlkb1o4G+nzTdSdNADEADYZ0G8gMllE/g2egNrYF+nLacJvYbVuhwwjUEgkOU2gdCELzNtRR8ij9my0X9hAH9/No2Jw0AyA76MJ/lIJB+wWIO1vh7G+CHU2Y8onS2XHw1hAH9OuuYk4ayEQhroCuKG0BYiyzxRAEIc5hJZig2EG9cbJpdvq0WWR0BiiWDEwASmmv5jIb5PAwsGYLNZe6MB+o2Fx0QIsVP1NTiLW+RdfKis2I+e60HbpzQ/vOgl5KDvaWhYGMAwQJz87LhZ+nw5tboSH/64zqA/jNbuuf1BWnuzpt9ATSc/Ug7T3WYM23sjxq3ZoP098Ufg5hA5xGOg4lvwUim7Z5BfKC/b1GZjuq/BotyGtV/Y/+c/QYod7mx1VpRjQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xu2X/UuTURTHfX6PIhBFw6WLGXPhcthytJzixtY22swcK5FiVPRCLwgiRRFE9G+f+N7b93p29zzj8TGFwgOX7blv53PO+d77bBMTF/Z/WiAna2dm1kF/e1W6D/JS31wy32vlGdkoTcv94pSUCpOyXspIJj3l2hkA2o02y4uytrog+727stspGBi/NSoz0q4vS7WSNXOzmWn3PZedlXRq8rRQgXFOJ+XiDXneX5Onj4uhrVO75jLYrOYkn7PPWI+1gMKet+fnk0AFMti7ZxyxRCjHy/3yCAgaMucDFZbnzHwEhfV3Vq6fDgibwdFOa8U4QNleP1s3fT5MGBBKhfmYgywhIGQtYdksEDYjEDZ8O6gMlY0waOjXQChTFFCCLA0DsWTvX2w4IA3DZwAxgHMB+vhqy2hLw4wDgpDRj6yh5NBVAqDAZEKLGqcM/QCitnwgNB8IGcE+FDZ0lQiIWuGxJdDBm6oBwhhhIGYCac0RyC9bIiCeJt5DSDf6D9/VzNhJgKg79Ouy+V7H2OiRZ2RHH+ouexjHJxuyqYEoYmYV4wnvo/BLEf1fPjUMEMYJQg0RCFnVQJQAy6Zvbd9ziEXrB+3bQdMJHq1bz7jS8Z1GIF0eZElrCVAxszSqHw30/bDlTpoGYgAaCOs0kB8ooXwCz0ZvaA3046jtNLHTtEKHE64hEByi1D4QguBtrqXgU/wxWy7qJwzo5+eOOWkAQHbQh/ksB4H0CxZzsMbf2wDfumrGI0pny8VXQxjQr69dc9JQNgJhDXRFcQMIa5ElnigAYQ4zyQzFBuKNi01zi5fVIqsjQLFkcAJAQnMtn9Ewn4eBJUOw+eyV8UC7rZQDQqT4iZpOXfIWWSdPukvms9e+6cYJ7T8PemnZ214YCjYGECwwNy8bfpYOb26NjvSnP64D6D+0pXvUmJPW1qzZF0DD2Y+041SHOdPG/qhxazZIf1/8MYgJdBzhOJj4Foxk2u4ZxAf6+xaV6aj+c7Aop1H9F/bP2W+h6t3B8QPmmwAAAABJRU5ErkJggg==",
     "wiki_name": "Slave shirt",
     "wiki_url": "https://oldschool.runescape.wiki/w/Slave_shirt",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1435,
     "name": "Dragon mace",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "A spiky mace.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xs3Wy04UQRTG8Zk3YDUbNiQuTFz5Ej6BCxaEjSxMRI0x4sIBgyLeggaDwQSNEjQCGlRCEC+QQBC8xYhKfJ1y/j18zeljMcwwraGSk+6prp7zm1PV1VMo7P9WDPGIXf/nrRheTlwMM+O9STx/VA7TDy4kIcTK3FBYnr0Zll7diKD8j2gaXgUJBUjhMYsvroU3zwYzifnMNR9ZVEPIYph93P8XiiMQhUAL0wNh7umlZCzHGIjxFr25PhF+rN7fG0ogzlUdgd7NXE1AGrsTiPt+rY2H358nKzGVgMhxuK0tCZ/dtWrZ9asFImkMND95OQVxHgOtzt/KgDgXyGd3rZiZBhJpcfPZg0gOQtO7E2h9YTg/kKpEXwykSnIvIKrmQZ/eWtBkYyCtCw8iuQdpHPcNHywlxxjoy/s7GdDPDw+bB9EPSCgqqcW/G+jr4ki+IAKABTF2aAsBxoM458jY78ujKWjz45MU0zDIovhyDzrSUkhQAh0tFZJ+WzHGbizfi4J89h1a9QtZoPWArh8ohX4Ttlqq0MbK2F5B1T2ICtUCCU0cb21JAGA6Sy2Z4DrjMyCzKfrsrlUf+RiIEIhxVyrJbYwdak2ir62UhKqVO0goAhA7rq/QuVMnk7VDjGxNlYLpyg1kq8TRgvTIgxkol8NoBUJQHfr1uANae33bgKZSTF0gnrAYSK8DWyFhOAejqlgUY3lt2ArVWR3aNsivI+0tgBh3/szpFKPXBuuMe4TRdPHayA0kFP2qgMcQYGwlLYhd2oKE8tkjrQqKTRvXjnV0hLPd3WGwrzetyG4gKvpt6W4KYg9qYB/KgoSiv7O9PZzo6gq9PT3JZ/otJgaiOk2DeHo8SBVSkMz+B7IgrTVNV24gP230awpISHI/XQJpLCAe+Qyosgc1vA/Fps2COK8FsusnF1Bs2iyIa7EFTTDOrp8mQbTttVIr/PpReBCbogUpGgAVCtrWa4UH2rDrJxdQvc0j68Eqtsf+p+aRsfD37Ov2B0WObHckq+m3AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC+ElEQVR4Xs3W20tUURTH8RlkkCL6F/K5B0lf8iGyKCJ7Se1mdsPCwqhAikLE6CLSDUHsQoWCISZSRhAVRVF/2c7vGX/HdVbbccY5hRsW58w++8z6zNr77DOFwsZvxRCP2PV/3orh8fCR8HCoK4mxW51h9MbhJISYnegLM+PnwvSTsxGU/xF1w8sgoQApPGbq0enwYqw3k5jPXPORRdWELIbxkaN/oTgCUQj0bLQnTNw5nozlGAMx3qJ/LAyHb3PX14cSiHNVR6BXD04lII1dDcR93+eHwq/Fu+H34v0ERI4dTU1J+OyulcuuXy0QSWOgyXsnUhDnMdDc5PkMiHOBfHbXiplpIJEWN589iOQgNL2rgRae9+cHUpXoi4FUSe4FRNU86P3LiymIqAmkdeFBJPcgjeO+/i2l5BgDfXh9KQt6e7N+EP2AhKKSWvxrgT5ODeQLIgBYEGP7lhFgPIhzjoz9PHMlBf18dzvF1AyyKL7cg7Y1FBKUQNtLhaTfVoyxX95ci4J89lVa+QtZoNWAzmwuhWMmbLVUoa+zg+sFlfcgKlQJJDSxq7EhAYBpLTVkguuMtyC7KfrsrpUf+RiIEIhxJ5eS2xjc2phE96ZSEqpW7iChCEDsuL5CB/fuSdYOMbA8VQqmKzeQrRJHC9IjD6anszNcXYIQVId+Pe6A5p9eSEHs0sJUBeIJi4H0OrAVEoZzMKqKRTGW14atUJXVoa2A/DrS3gKIcYf270sxem2wzrhHGE0Xr43cQELRrwp4DAHGVtKC2KUtSCifPdLKoNi0cW1nS0s40N4eeru70oqsBaKin6YvpyD2oBr2oSxIKPpbm5vD7ra20NXRkXym32JiIKpTN4inx4NUIQXJ7H8gC9Ja03TlBvLTRr+mgIQk99MlkMYC4pG3IPagmveh2LRZEOeVQHb95AKKTZsFcS22oAnG2fVTJ4i2slYqhV8/Cg9iU7QgRQ2gQkHbeqXwQBt2/eQCqrZ5ZDVYxcrY/9Q8Mhb+ng3d/gBnB3jwmpW6GQAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon mace",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_mace",
     "equipment": null,

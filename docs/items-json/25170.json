@@ -1,7 +1,7 @@
 {
     "id": 25170,
     "name": "Decorative full helm",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2020-12-02",
     "duplicate": true,
     "examine": "A very decorative full face helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9klEQVR4Xt2X7UtTYRjGff4Jv+zLwA+CEIggMsZgIiJSiOJwaDgaMRM0ydTMV5aamWaa+RJqaGqab2nmUtOxTDPMkIj+n6uu+3C2efBbnXOgGx7ujXHO+XFd130flpLyf5dC4thaGkSpbxr5Bd3Izg7ZCaZQXrEsMIVXB5Gb1yFAGVd8cDo9dkBpQL6yWRQVj8Hlqo0D8bdMp1OO8SoTS6HMv4CS0knk5YeRlRXUgDKK40DGK0wuBZ9/DsUlE3B7GuNA6emF9gExPwUFvcjJqRbLCJWWlmcfEO3y5rYiM6sSHm+zdD3QtgBxutzuesmNPvYOR44dQIlFeDMUlWm7VjQS30MWT5hmFUc9VBVDxfVV+cw9lDzyxqtMKE0RwlAN2kWbAsGIjD8DbWF+FHbW1rD5egGL01OYGhnBcF8fHna0o7WhQcY/NTXTKrsUPu18wP7mJrZXlrEyO4tXExMYfzqIga4uDejPtrZo/yh8+3yI4/19xCIRUent/DwWpiYx+WwYQ729AhQKBMQyk4EUfn4/w/nJCb7GYjja2xOVtt4sYXlmBjPj4xeA8r1eM4GUgPD8OD0VsF/n56JUZHUFa3NzYpsOVOn3C5DT4RAo493+shS+HBzIzQ93d0QZfj+JRuX7x40NvFtaxMvRUTx+EEZddTVuVJRfUOgfq6QkLwTiw9kZZiqj28UMMdSdzc2orarCrWAQuR7TRl6bKoIcbG1JZ5jZqQz7i+EhDPb04H59PRpv14pKpgLRGj44uv1e+u76unQqxM5Ajz0ZEMuYoXt36uB2ucwDYnj5YF0pThc7bWNnfvTFSNsIRJVMA0oO9WVK6Tuou60N7U1NYpuJCrE0KE4YAYwhp0Lc0uGWFrHsbk2N2UAs7WVK+4whZ4YehTvFLguBWEq2NKeM486XKsPMCWN+dLu4GC0DOjs6kuxwO1MZhpnTRbsYZi5FXU0TluJlpSQ7fKnydfG8v1/U4Q4yglgAo1fyf/fEsQEkUckPtxXEqvoNj8DhEORBEl0AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4Xt2X/0sTcRjHvR9kKGKI4tiGXyNFJ3OJjYaJhpma4ddMzUwzM1MzTMNMNCubmJnlMqsxGWEWEoaB9EPQv/au93PcNg9/q7uDHvjwbIy7e/F+v5/nWELC/10KYsfSUiGK3VPIyetCRobfSjAFpd5Fgck/PoCs7DYBSj3mRlKS0wooFchd8gAFhaOw26ujQPzNm5srR3+VgaWgxDOPouIJZOd0ID3dpwKlFkaB9FcYXArcnlkUFo3D4ayPAqWk5FsHxPzk5fUgM7NSLCNUcnK2dUC0y5XVjLT0MjhdjdK1QFsCxOlyOGolN9rY22yZVgDFFuFpf1im7UTBcHQPmTxhqlUcdX9FBN6TAfnMPRQ/8vqrDChVEcJQDdpFm8p9QRl/BtrE/CjYWFrCi0fzWJiaxOTwMIZ6e3GlrRXNdXUy/omJaWbZpeDjxhuEVlex/mwRgZkZPBwfx50bA+jv7FSB/mxrk/aPgm+ftvE5FEIkGBSVns/NYf7eBCZuDWGwp0eA/OXlYpnBQAp+ft/Hwe4uvkYi2Hn/TlR69fQJFqenMT02dggox+UyEkgREJ4fe3sC9uvgQJQKBgJYmp0V2zSgMo9HgJJsNoHS3+0vS8GXcFhuvr35VpTh992tLfn+YWUFLx8v4P7ICK5d7kBNZSVOeUsPKfSPVVIkLwTiw9kZZiqj2cUMMdTtjY2orqjAGZ8PWU7DRl6dKoKE19akM8zsVIb97s1BDHR342JtLerPVotKhgLRGj54a/219M3lZelUiJ2BHr3eL5YxQxfO1cBhtxsHxPDywZpSnC522sbO/GiLkbYRiCoZBhQf6qOU0nZQV0sLWhsaxDYDFWKpUJwwAuhDToW4pTuamsSy81VVRgOx1Jcp7dOHnBm6eqld7DIRiKXIluaUcdz5UmWYOWHMj2YXF6NpQPs7O5IdbmcqwzBzumgXw8ylqKlpwFI8qhTJDl+qfF3c7usTdbiD9CAmwGgV/989diwAiVX8wy0FMat+A8XJdU1uRiG7AAAAAElFTkSuQmCC",
     "wiki_name": "Decorative full helm (white)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_full_helm_(white)",
     "equipment": null,

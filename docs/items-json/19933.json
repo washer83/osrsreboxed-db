@@ -1,7 +1,7 @@
 {
     "id": 19933,
     "name": "Saradomin d'hide boots",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Saradomin blessed dragonhide boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xu2WQWsTQRTHO98gp1xyWchhIRAICyEsYaElhBAaRKlQSlEMEgzSCgGjgSLEQsBCkSK0oFLoSTx58Ev4KcSDePDgZ3jO/01mM7M7STY1CkIfPAhh35vf/83Me7Ox8X+bINv/udkA4ZMTqj48ovLeIfm3uhmg1ipAULncj70xvqTo2RsKDyYUdEdUKGxSwWvNWWiRANf3mUxQJRiwd84+U2vygbZevKfo6RkVS40YyPM6iUWUEBYgv609Pqbg/pCBbBErgwkKqiP2or9LxeIOL46EJhCDex47w1QOWUTr1UfaHJ2rKj0aW0DIkxay1BRQWD+xgErlngKSiU2gOCYYchyq2nh5FVeUgaYxGmYmJJOpLVsVqFo7kj7mGLOipTs9J5C95lITFhAA/VKXPD9SyeUWJIFUVSfk+/scg/OE702gtJDMZgPhfMRAxRp7OrGgenS6GCglJLPNgKCcgeRCGihfqDgSC4o6z7lKiLOApiLcQpaa4GrU2wP26laPyuEe+ZU2LwCYxUBKCIC4KlMQM+baQGHzgIKoGwPlcv5CIDOuVL1LuXwQw7hjMpng7YFrICTP50MGYs/7juQzoFqjH8esDQhlR+JK/R4fxqxAiEUctmt5zFJTrX378ie1336n5vlX1VMkEMofJ8+5ks8qq4GsuNWBBNXCY25uPDpk58UMqw9OeQTwoNze58Tu5FLI1S9qv/tBrYtvtDn5QrXhJyo/eE1esz8nZqEphQrqSB1med3RoXVvQbWKWzuO5G4xmGc8YKdCrgUEx1UHEDo0ri/OBpdeOoAKodlxZ2cHQKYY/A8hautWAprB4DBrIHh8DjRQczdOnASyxMjLYB5qVGllIB4VUyC9RUiKhqiB0okFX/WkGMSal8B9EeaaDWS9gfB7OjL0jVkGZIpxQdlrO01wE0wClYLb6lHlGKomEGLnCUrC2LFzLQ2ETqvnF1wpcyVMAGkx6NSyO18DBia4mcGRFAcSCfHA0jA6WTqhHctPDzn7UN0/HqrzfHEyBYSzo18GgOHXpXOLVzCzCklPfmtbWkQ2MX/RkgKyi7mxG1uP/QbTOpUaP9uvJgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADI0lEQVR4Xu2WUYtSQRTHdxAR5aLIFS8q6upi0Qa7bZQkZOwSQpYPEksLQgtLLATbQwUL9Rb01ksfpI8SvQW99NYHOc3/jHOduXfUq1kQ7IEDIvec+f3PzJwzW1v/twmy/Z+bDRA8PKXSvTEV9o/Iu9ZNALVRAYIKhX7ojeNLqj5+ScHhhPzuiDKZGmWyrTkLLRLg+j6RCSr6A/bO+WdqTT5Q/elbqj46p1y+EQJls53IIkoIC5Dflh+ckH9nyEC2iJXBBPmlEXvO26NcbpcXR0ITCN/d2t5mZ5jiEYtoPf9ItdGFqtL9YwsIeeJClpoCCiqnFlC+0FNAMrEJFMb4Q45DVRvP3ocVZaBpjIaZCUlkastWBSqVx9KPOcasaP5Gzwlkr7nUhAUEQC/fpaxXVcnlFkSBVFUn5HkHHIPzhO9NoLiQxGYD4XyEQLkyezyxoEr1bDFQTEhimwFBOQPJhTRQOlN0JBZU7TzhKiHOApqKcAtZaoKrUWkP2Ev1HhWCffKKbV4AMIuBlBAAcVWmIGbM2kBB85D8ajcESqW8hUBmXL50k1JpP4RxxyQywdsD10BInk4HDMSe9hzJZ0DlRj+M2RgQyo7ExcptPoxJgRCLOGzX8pilplr7zuVPar/+Ts2Lr6qnSCCUP0yeciWfVVYDWXGrAwkqByfc3Hh0yM6LGVYZnPEI4EG5c8CJ3cmlkHe/qP3mB7VefaPa5AuVh5+ocPcFZZv9OTELTSlUUGN1mOV1R4fWvQXVytV3HcndYjDPeMBOhawFBMdVBxA6NK4vzgaXXjqAMoHZcWdnB0CmGPwPIWrrVgKaweAwayB4eA40UHMvTBwFssTIy2AealRpZSAeFVMgvUVIioaogeKJBV/1qBjEmpfAfRHmmg1kvYHwezoy9I1ZBmSKcUHZaztNcBOMAuX96+pR5RiqJhBi5wmKwtixcy0OhE6r5xdcKXMljABpMejUsjuvAQMT3MzgSIoDiYR4YGkYnSye0I7lp4ecfajuHw/Veb44mQLC2dEvA8Dw69K5xSuYWYWoR7+1LS4imZi/aFEBycVc2ZVtxn4Dxwj/xjKO2C8AAAAASUVORK5CYII=",
     "wiki_name": "Saradomin d'hide boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_d'hide_boots",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 28232,
     "name": "Beaver",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": false,
     "examine": "Looks like it's gotten through a lot of wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnklEQVR4Xu2UP2vDMBDFpW+gyYsXgQeDJ2MwJZiASwgh4KEloaWUQLZ26NKhn/+aJ/ViSXVCE9y0AT14+J+i9+PuFCGioqKioqIuKUm+/0wW4GNb0cMspWkpqCrUAFQIHH4fRZJe15qe5oru2oRmtaK6EFRoYQJLrb9CJXXPOc1XGbWdpmaRGo8MJul9U9K2S2l+IwxMUyoD4wNZGBcIrtuUikqRzoeqeVRhma2XTWKqwm1CZXBlIIYCyPIxMzBuhRgoK8JqHpWkt7WizVLRy71tC8wAbH5GpXCfa2XMrWFX0x1obQ0QF+YHQLYSgMGMrFobWu1KPCmT/ay4YADCNwaCORgQYZVPgukqYSC6xg8BEOyGwljTtdpbeyg8dJg+IGk2b+vUC0fYEAzecSgDFanfjhPCD8kGYBAxmHwaFpN0HxpWwB1gDCwDhTufKbnfvD+akqb5bl4y4VWA12Jw+Sjzb0YEgvz+8z3CcGzd93ysXfgR2vRd/ab9H5zbjj5weHj93UaVpNuVoHKSDMBYXQjE1S+24lz9K5ioqGvTJ8kRb/2p062AAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmElEQVR4Xu2UbUvDMBSFE0IpLaVQWhxtcW9QxE18Geybgl/84P//QdedxLsmsRtu1KmQA4e+ZTkP995MiKCgoKCgoEtKkutfkwF435Z0N42pKQSVuRqA8oH976NI0ss6oYeZops2ommlqMoF5YnQgY/z+WeopO4po9kqpbZLqF7E2iODSXrbFLTtYppdCQ1TF0rDuEAGxgaCqzamvFSUZEPVPCq/zMbLOtJV4TahMrgyEEMBZHmfahi7QgyU5n41j0rS61rRZqno+da0BWYANj+jUrjPEqXNrWGXzQ60MgaIDfMNIFMJwGBGVq0JLXclnhTRflZsMADhGwPBHAwIv8onwXSl0BBd7YYACLZDYazp2sRZeyjct58+IKk3b6vYCUfYEAzecSgD5bHbjhPCD8kEYBAxmHwaFpN4H+pXwB5gDCwD+TufKbnfvD+akppsNy+pcCrAazG4fJT5NyMCQW7/+R5hOLb2ez7WNvwIbfqqftP+D85uRx84PLzubqNK0vVKUDGJBmCMLgRi6wdbca7+FExQ0H/TB8s/QP3FN/RbAAAAAElFTkSuQmCC",
     "wiki_name": "Beaver (Yew)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beaver#Yew",
     "equipment": null,

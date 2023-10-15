@@ -1,7 +1,7 @@
 {
     "id": 28282,
     "name": "Magus vestige",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": true,
     "examine": "A fragment of ancient power.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xu2V+0tacRjGO/9Jf8J+H/thP47BGCwWGxSrKAeldHEpKWG5Lma2EzOv2DItm5dllt1tirP7dUVusP6WZ73v4VhrLAbpGQMfePlyDgffD8/zvl8rKsoqq6yy/kYCbi9FJWDQH0SPxwfD6Bi0FhvUJjMadV2oUbfiWX2jklACOj0BiJE4LIEQzN4PMNqd6Bx+B425H6ouI2pbOxjoXmWlElACuqdm4VvdwFg8Cdt0GG99fnQ73NCNjKKtbxCvjSalgATofSGIa5sYmFtnMNfCMsRw7LcInzSplYhNwOjGLsT1bQwvZtDvDzCgRnTxaQ3OFCJ8oTWU2iVpe+yZA4ZyJBcxNp+EPZFAt8sNlcGIBp0eqgERWqcf9aZBPK5TlcIlCcQcXYIjewRP7hjTuS2u4JccfKkNiJ/iMDqcDNRstfPQ01ml6SymSxJIbziJ/vhqAWZ86yvWTk65EvuHCG/twLuWghiNocNi5fh03im02X2oNZjxsLqmGC4JaHRMQuUJoXk8Ak1gDt7NE0xsnyK4e4ZsPs+VOc9jKJVmt9zLKxgJR1Hb3sHzRC419FoLw31HlwQ0uYIMo56c5bItZRHaO0f4II/02Tn2Ly74tGWysFw65L88aZ5MHi+6Jj7C4I9wbNXtejx4WlUcl1omYmidnmcg2qqRlRw7tHj6gx0ioOHPGcR29hiIXDKF5himZ2aeY7v/sq7g0J1doqioCGgomWaX6A6iLYsff+fIFg6PENnZRSCb41mi72jmaPYetbwpFowsCYqAyK2bUNHDb+wWuebMHvOVIN9Rz02WYsPIEgpAlkSqEB01fp/e4+0jGDrpmUBf2dy/uHPzF4sgaZ7o74Jcug5F29gXW+aiqKhK6M51Cbx1MhRFJ23OVcnbpQCMLIEdoOiuN71qLoEpBCPr9qZ/el9S/ZOmZZX1P+snCPy/1z999W4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4Xu2V+0tTcRjGO39GQSAFBRkmYl5woWPecoIb3paXOWdTmmsXxiynTpd51vKSOku8TBvKyUtqlppoiBb9UP1RT7zv4UwzksBtEeyBly/ncNj74Xne97sLF5JKKqmk/kYCzq6ESkCj14calwe6tnaUGs1QVxuQq61AhroQN7JzEwkloMzVg1ZxCMZuPwzuR9Bb7Shrvg+NoR6qCj0yC0sYKD0lJRFQAip7B+GZnkf7cAjmPhH3PF5U2pzQtrShqK4Rd/RViQISUO55AsvMChpGwgzmGJ+EZSD4W4TX8tSJiE1A2/wGWsNraJ5YRL23mwE1FgefJl9/NMJbpbp4uyRvj3Vhi6EehibQPhaC9cUoKh1OqHR65GjLoWqwoNTuRXZ1I65mqeLhkgxiCLyETdqBa2kXfcurXL43y/CE59H6fAh6m52B8k1WHno6UzVlsXRJBqkVQ6gfmo7CdKzuY2ZPrtEP2xh4uw73bBiWQBAlRhPHp3X3osjqQabOgMtpGbFwSUCurQsqlx/5HSI0PSNwr+yhc20fvo0DSEefuRYOj9A0F2G3nJNTaBEDyCwu4Xkil3JqTdHhPqdLAvIcPoZRdw1ymV9J8G8eQtw6QuTgEO+//+DTvCDBODsH76LE81TtcqPi8VPovCLHllZcjkvXU2PjUkHnMxT2jTEQbVXL1BI7NPHpGztEQM2vFxFcf8dA5FKVf4RhavrHOLaL6VlRh87tEkVFRUBNoQi7RHcQbdnw7leObHx7B+L6BrqlJZ4l+o5mjmbvSsHdWMEokqEIiNw6DRXY/sJukWt26SNfCcoddbPKGGsYRUIUyDg6F42OGj+IbPL2EQyd9Eygt83OX9w5/YsxkDxP9HdBLp2Eom2sC05yUVRUcXTnpATeOgWKopM357iU7UoAjCKBHaDoTjY9bi6DJQhG0dlN//Q+rvonTZNK6n/WT1G+Y1yx0XUWAAAAAElFTkSuQmCC",
     "wiki_name": "Magus vestige",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magus_vestige",
     "equipment": null,

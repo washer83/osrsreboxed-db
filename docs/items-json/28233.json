@@ -1,7 +1,7 @@
 {
     "id": 28233,
     "name": "Beaver",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": false,
     "examine": "Looks like it's gotten through a lot of wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDUlEQVR4Xu2UX2vTYBjFk2+wq97kJpCLQKAQBqGUUtgIpZSG0tEwidJRN0alW8c2/46CTDYoIg4VRcErP+kx54lJkxilHXUq5MBDkjfte36c53mjKKVKlSpVqtRdSkW2/poigG+fnuDx0QDD3W3sdOsFUHng/Pu1SMXH10e4fD7E6XhHYJr1Kgy9Ioa2rv8wVVF9P4d1NZMyL85gnE3WDabiy9sTXF3sYTzq4uBBG36vKUCWSZAYKLx+vkmAzMsXUgTSRgEqndaqUPmYo5rse9Ii1ihoSZuCwZYAbdrGAoowN9ew5i8z6eiP9qHt9qFYZi7N30rF13enksKH+UTMp4c9AaA5E2HF90yJbWPLpELjdOkHQ0lFu+9LMhuNWgKzBFCUBGFm5wGeTX3c8wz0O5sI+jV47Rrcpo2O68g9oQjLdzFQ1dLElOaSRkHSS8PMjh0B4bD6noOGY6C9ZQkQrzRzbF3WtxumgJyP2xmgX5nnK+9eIBUnhy0M/XoCQGOC8ZkwcQJc91w7MeVv+E7TtUKIvNMKigw4jBzMePiOH7oCVZhAPMDh8Fb63QQov/MtFcK8eSWbx8PH6u0NUG81MgnwShDj6VQGdsNtrnp6llW2/8lzaMZjm16XYx2WwKT+s2YgRVlsGrWElW7HwrB4eLO7rVWqfNT4LfkZJtIdgaT1B1txW/1TMKVK/W/6Dm79qm4/WAHtAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBElEQVR4Xu2U+2ubcBTFlRJEEYNUIkmIeWGkMdQ2JH1Aljb0sSclMDo6CGUsjJUNWtiP++dPvddp1LmSlLTbwAMX9WvyPR/OvV8FIVeuXLly5XpOiUjWX1MA8PP7K7w86qLfq2GrbWZApYHT79ciEd+uj3D5to/T0RbDVMwiFLnAhjuNxi9TEcWvM2hXUy714gzK2XjdYCLuPp/g6mKA0bCNg90m3E6FgTRVjgGJ0G/nEZB6+Y6LgKShh0KrvipUOuagxvs2t4hq6NW5TV63ykCbuhJBMcz8I7TZ+0Q68ot9SD0Hgqam0nxQIn58OeUUbmZjNp8cdhiAzCkRqvCeUqK2Ucu4fON4yQd9TkXacTmZjXIpglkCKEiCYKbnHt5MXGzbCpzWJjynBLtZglXR0bIMvicogqV3IVBRk9iUzDmNjKSXhpkeGwxCw+raBsqGgmZVYyC6kpmhy7xeK6sMcj5qJoD+ZJ6utHuGRJwc1tF3zQiAjAmMngkmTIDWbUuPTOk39E6SpUyItNMKCgxoGGkww+E73rMYKiuBaID94S047QgovfMj5cN8+sCbh8NH1Rl0YdbLiQToSiDK6wkP7IZVWfX0LKtk/6Nn34yObXydj7VfDBP7z5qBBGGxadASqng7FobZw5vcba0S+aNG35LfYQI9E0hcT9iKx+qfgsmV63/TPdSQapxOl817AAAAAElFTkSuQmCC",
     "wiki_name": "Beaver (Magic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beaver#Magic",
     "equipment": null,

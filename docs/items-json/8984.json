@@ -1,7 +1,7 @@
 {
     "id": 8984,
     "name": "Pieces of eight",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": true,
     "examine": "Piratical currency.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACoElEQVR4Xu2WXWsTQRSGO3/C60IvBCEQAiEEKVREQrFISwteCIKK0AsVlBYVS1GplWApsTXSEoKV4Ef9oggiIoKId/6oY58znN3ZTa7MJIHigcMuyybz5D3vvJmxsf91tMtJdw+t8gs72VmbkuaDKdlandS+f6M8LCgnrxs16WyekXb9tLTWTykMEI2VSanfrur9w1sVuXm5OGgoJ2+3atoA7T1JgVAHIGB4DhDNZ4rj44OAcnKwe1bVsWZhVArHxbN3z6bl55u5DFT+2/osJ1/aM/Lx+bQqQ+fHBhAwQAP0uTWTAEWGcvK9M5sAzdcmFMDAbGxcgQCms1GSx0sn5NFSdRBQWSDGsny1pFcDor++OCf7jbK010vydKUgG3dPqsHpECwClFM//Hg1p2DfXs6qEjquw8XDbq0Vtc1PmBwwGphq6VgMkzv5tT+fAUINFAOM3quXtBOwYOdxj6JeGQ8TBQiVegHpztssq2/oBO7Q7BYFjIygjBiWWZXyQHjHoOxqcWBhee+ah4mgEOXk9/uFxEumUqgQo/rUrMiH7YoCEp6W4HcW/cgiwVh1j665WpTlKxO6MADsQssnOu+f7u67fASgCgsCYplkgRiGJbvLFrf3eWaeigTmv4RxmRooQ6OSBSWGtncB5bmNEE8RA/gqq+A/lveBh2IxUwdArhj50sLx5B37MzZQMzoq4S9OBYsXCv1B+fK+siQHKP21LglRg+2lEkDXLxYSoAimzxo13UkpkJk9jALzESOLDORHGLZ/6oHyZmdkZmzzUHSg3uWzi1GGZu9l6iEBUU6D1M5RYXKPDOjPwXlNdVRCITsB5I8mWf8NtPzo8BJjs5MlfrIAHSKMld+BphL3ANIjgPFlUZD6JB8TI6oQYOQwR67+AoFco0kEQy5EAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnklEQVR4Xu2Wz2sTURSF+xZuihjChARb1KZSS1sQBfHHoqCI0qKIpaLUSrCUajWIEghSqShaKoriQlwI4kIQ1/6F1373cWfeTLIyLwkUL1xmGCZ5X8497+SNjPyv/V1OOntgVVzYydOVcWneHpfN5THtW5crg4Jy8nqjLtvrx6TdOCqt1SMKA8TG0pg0rtX0/s7Vqlw5V+43lJO3m3VtgLbuZ0CoAxAwPAeI5jOnJib6AeXk47Pjqo41C6NSOC6e7T6elJ9vZnJQxW/rsZx8aU/J+yeTqgxdHBtAwAAN0OfWVAoUGcrJ9+3pFGi2PqoABmZj4woEMC/XErm3cEjuLtT6AZUHYiyLFxK9GhD99fkJ2XlQkfZqIg+XSrJ247AanA7BIkA59cOPVzMK9u3FtCqh49pbPOzWSlnb/ITJAaOBqSUHYpjcya+d2RwQaqAYYPRWI9FOwYKdxz2KemU8TBQgVOoGpDtvvaK+oVO4PbNbFDAygjJiWOZVKgLhHYOyq8WBheXNix4mgkKUk9+7c6mXTKVQIUb1oVmVd4+qCkh4WoJfn/cjiwRj1Tm65nJZFs+P6sIAsAstn+iifzq75/IRgCosCIhlkgViGJbsLlvc3ueZeSoSmP8SxmVqoAyNShaUGNreBZTnNkI8RQzgq7yC/1jeBx6KxUwdALli5LNzB9N37M/YQM3oqIS/OBXMny71BuXL+8qSHKDs17o0RA22m0oAXTpTSoEimD5v1GwnZUBm9jAKzEeMLDKQH2HY/qkHKpqdkZmxzUPRgbqXzy5GGZq9m6kHBEQ5DVI7R4XJPTSgP59OaqqjEgrZCaB4NMn7r6/lR4eXGJudLPGTBegAYaz8DjSVuAeQHgKML4uCzCfFmBhShQBDh9l39RePQwoQAwvxmgAAAABJRU5ErkJggg==",
     "wiki_name": "Pieces of eight",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pieces_of_eight",
     "equipment": null,

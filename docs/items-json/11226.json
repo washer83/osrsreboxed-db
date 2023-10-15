@@ -1,7 +1,7 @@
 {
     "id": 11226,
     "name": "Dragon fire arrow (lit)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-11",
     "duplicate": true,
     "examine": "Arrows with dragon heads wrapped in oily cloth.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACK0lEQVR4Xt2UTUtCURCG7/0HFqSLNjfctGjRRlrVpk0RBBIIRVES5MYWfUjZF0ZCZVlGFqGFBhHUn5yccxrvOXOOi7j3ZjRw0Dl+zOP7vo7j/N9yQZ6+lQrgwtnhIUykUv2C0gFe6nU4KhQgk06LftzzfhPKhYfrKzjZ24PZ6WkB8FS7hYOdnW91bECRqebC+3MTHm+qXUXemg2olsuwv7UlYHZnBrpg9BlUMyIoFz5aLU2R9SSqIQEqmSEBNDLoQKJzCIasNZULXBLg8rQkFCEYOciFjfQgVFdHYXkyIaAwW2htRNmSMKoia8lhDej1fA4utqdgeX5M9I27WldJfE+IQCYMVwdtLBWLkMtmRf/Zbos7ypZ/Qik9K/ic1KGebOTAeO4rlTD3lAnAYXqphwf/hbgmEIjWRADrTBjslzwTyB+kA+OawLWwu5kPGm47DO9tdyocz1aAcJv/Iux7qWODwV7NViAYmzW85wBcKf6eUGFwWMZyp/YqXCQwP7Gq1+sBYLBcA6acjMOxF4eCF+sJwJVS1QsEg8PVwQiyEo/BQtwRjzTQtpNCtwqHl5ISgIblh2Ow2Onxju65GpFZlbMM54cDcHvN/AUqfTj9QhqmAuBBNXmuVPtCAHIcFcL/Qt9OAsCe1IwMxl4yR6qdpAgHoh0VIQyVny9dATNXEaujlp4rukPr+gAji8Pgzip2MkW5+lUYs/xsUY76DITlajB/AAjrT8HIChvmC9J1tKPQyluDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACJUlEQVR4Xt2Vy0vDQBDGE9tQkmMpXgQVD+KjYFWsPXjQg4+i1GqpWBDfD2wR8YXoQTyI//aY2TjJ7uzmIEmsODC0s006v37zZWpZ/zdsCLJvIQPYsN9swmCp1C8oFeCp24Wdeh3Kk5OiroyO/iaUDb2TY2htbsLY8LAAuL04h+319W91TECZqWbD++MD3Jydhoq83d/BaacDW6urAqY5MRCC0T2oZkZQNnw8PyuK1Dw3BOhV8wLIcywo+EkwNFpducQRABzutYUiBBM0sqFVc+BksQjzQ3kBhd7C0WbkrQBGVmTBKyhArwfTcLg2ArPjRVHfXV2GSuI1KQLpMFwdHGO70YClalXUny8v4oy8FWUqoXoF35M6VNMYOTDm9dFRmntKB+Awceph4lOIawKBaE0kGJ0Og3XF1YGiRiowrglcCxsry0nNbYbhtelMhuPeSmBu/SnCOk4dEwzWsrcSwZhGw2sOwJXi16QKg83KhjO5luEygfnJqOI+TwCDYWswHc+BXdeBupuLBeBKyeolgsHmcmMEmXNyMOX/L+ErNTTtpNRHhc3bXgBAzZYLOZjxazyjc65GZqNaMjTnyQH4eHX/JQq1Of1CaiYDYKKa3Ffy+FIAsiwZIvrCaJwEgDWpmRmMOQIfyeMkRTgQ7agMYSgif6kK6L7KWB05VF/RGY6uDzBBcBjcWQ3fU+SrX4XRI/IW+ajPQBi2AvMHgDD+FEwQacN8ATrQY9Tj4EMJAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon fire arrow (Unlit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_fire_arrow#Unlit",
     "equipment": null,

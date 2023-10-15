@@ -1,7 +1,7 @@
 {
     "id": 277,
     "name": "Oil can",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-21",
     "duplicate": false,
     "examine": "It's pretty full.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNElEQVR4Xu2WSUscQRSAp/6JZyHgVXL05N2LOYgiLkQjccvEldEY4+64jToTHXXUURlXBEP+3AvfK2toOooXq+ugD4qB6abr6+8t1alUkDAS/ydQAGLk9HdBf+NXEw4jk+m0nBeLcn9xrkB1NTUhoKyV0u6OXJVKj2YsTAAgIz/GxqS8v6dmoiAJw1gLh9vbaia4ldHBQQUp5nLhrazOzspxIf8fTPxuz2Hkc3u75Ney2tKkKijM+PCwWqF4A8LYFM1PZeTm5Fi7yBWwRxi76VNrY2FB9jY31crFwYEa8ghjN6UuSAezpLezUyGok8XpacmtLGt6AHJHgTeY5qYmhfn2tU/H/a/MpBTW13VzrLDcjPFupvVTs9r43t8vPyfGZXlmRraWFtXITnZVQVy9YCZqJ/60VwgjXW1tMvSlV80ARHqyc3OaLoAAoWaAwphHO4RRO6SK2uHtSReWgKJ+AKocHSkUy6MdwkhHS4vaYFM+EwDLjIyoKVJH/QCKob/X1/6B+ERgDfT06JlEh8VhuP7n8lKXRyCjKaEuXIc5M27mOJiHSsU3kP1uIQ2NDQ3VOoqnClimsmcg21nuDPpYX19teyApaFqe0zsKRP14A8KC65gPtbXS191dPTCjQBi8LZ8qCECAeQAijL49neXSR60wh/i+iQ7EhIAIC0VKsIWhwECEPVRpeYAYitGBCOjdWblaPwkApVL24RbsJSAH4xXIRRTsuZUYTDTcps+t+P3v8ebiH+bo6KkswsY/AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACN0lEQVR4Xu2WW08TQRSAO3+gPhJeGuIrD/BQCYSr4VIqBrmKgNyhQkEQEBvkjsUGMcSYGBP/7DHfGabZLBBemJ0HPcmkSXez8+13LrOpVJAwEv8nUABi5PTjrv7GryYcRkYHBqRcKsnPi7ICNdbVhYCyVg4/bMm3o6MbMxYmAJCRN0NDcv5pT81EQRKGsRY+b26qmeBWXuVyClLa2AhvZXl6Wo53tm/BxO/2HEY6mptl+11BW5pUBYUZzufVCsUbEMamaPb1uHw/OdYucgXsEcZuetdam5uTvWJRrXzd31dDHmHsptQF6WCWdLW2KgR1Mj8xIe+XFjU9ALmjwBtMQ329wrzo6dZx/3ZsVHZXV3VzrLDcjPFu5lljg9p42dsrUyPDsjg5KesL82pka2VZQVy9YCZqJ/60RwgjbU1N0v+8S80ARHoKMzOaLoAAoWaAwphHO4RRO6SK2uHtSReWgKJ+AKocHCgUy6MdwkhLNqs22JTPBMDGBwfVFKmjfgDF0J+rK/9AfCKw+jo79Uyiw+IwXP99eanLI5DRlFAXrsOcGTdzHMyvSsU3kP1uIQ1PM5lqHcVTBSxT2TOQ7Sx3BtXW1FTbHkgKmpbn9I4CUT/egLDgOuZJOi3d7e3VAzMKhMHrs1MFAQgwD0CE0bens1z6qBXmEN830YGYEBBhoUgJtjAUGIiwhyotDxBDMToQAf3x5bxaPwkApVL24RbsISAH4xXIRRTsvpUYTDTcpvet+P3/45+LvwfYgb7eZyyPAAAAAElFTkSuQmCC",
     "wiki_name": "Oil can",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oil_can",
     "equipment": null,

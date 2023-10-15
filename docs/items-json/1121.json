@@ -1,7 +1,7 @@
 {
     "id": 1121,
     "name": "Mithril platebody",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "Provides excellent protection.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xu2WTUsDMRCG3T/hudCDIAhFEOmhoEgRsYhFUbRUxB4EQRAEEQQRvPivI0/C685Od2taP04dGEqT+XgyySS7srKUpfyLFKFU/79p/E8kBW+3N6OurXXj/37/OvR6p2Fr6yCOtVrrcXx1tf2lvwyWgm1s9Cra6eyFw8PbsL8/CTs7F2F7exDHgPVA02ALwxUxEasnmYVhTkC2Ssx7kDpdAKoI3e6wAmR1MLirAFEl7GXrAbwSv9Nq5UIlGKmF4pd5D2ShsCcp58mrh/KZG6SIW2CBBIUeHd9XgKSCwhd7D+OhMquUYKS+SsxbIKuC2t0bR1+6Tl1ZB5RRpSKuUKusgxoOHyKQoKx6KOIIyINlVqkEaoI6OXmMCpiFs1WzQCyiDmquKqGj0WtMTBK1NePn58/h9OwpqofzVRIQV8HN5COMx2/RH1vmlYsKzagSUoSLy5eYjASs1oIyhxIcFRRV8tsGEH4WCDtgM2GQlJgkJJAzenX9HgMLzAP5basDYp7tF5DPXiMlkJ4GARHYQmkLgfLXAVAeCDvG1bHZQHImsM6PKpQLZLcaIOy1XXp+soFshSwQIILJBUpJ07lcGEjOlJc2FRDj9vzMArIH98dAJCL4dDekwHXt/x3Qj7ZMLa9DqaB1IP6StFtmG0JAjM8NRAIc9WWIcjAtiIXxbW9bv7yNy7hzAxGYu6L63qQK6Rx5GAuEL9XRjSx/FjEnUHrPuCd4d6YfwLRSrZYE2kI1AUDWzp4/OlafuhnvmKQMVg2YxCZoUtl43ya7cr5BmgNWxdst4uPnl7KU35JPlRYE2fN7nPgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXUlEQVR4Xu2WTUsDMRCG3YMHi1hEsVCxfpQqVdFaFD2IIAiCeBBE8OL//xmRJ+F1Z6e7mrbqqQNDaTIfTyaZZJeWFrKQf5EilOr/N43/iaTgrdZG1NXVTvy/u3sVut2TsLl5EMdWVtbi+PJy60t/GSwFa7e7FV1f74V+/zbs79+E7e3zsLU1iGPAeqBJsJnhipiI1ZPMwjAnIFsl5j1Inc4AVYROZ1gBsjoY3FWAqBL2svUAXok/2tvLhUowUgvFL/MeyEJhT1LOk1cP5TM3SBG3wAIJCj08uq8ASQWFL/YexkNlVinBSH2VmLdAVgW10xtHX7pOXVkHlFGlIq5Qq6yDGg4fIpCgrHoo4gjIg2VWqQRqgjo+fowKmIWzVbNALKIOaqoqoRcXrzExSdTWjJ+dPYeT06eoHs5XSUBcBdc3H2E8fov+2DKvXFTomyohRTgfvcRkJGC1FpQ5lOCooKiS3zaA8LNA2AGbCYOkxCQhgZzRy6v3GFhgHshvWx0Q82y/gHz2GimB9DQIiMAWSlsIlL8OgPJA2DGujs0GkjOBdX5UoVwgu9UAYa/t0vOTDWQrZIEAEUwuUEqazuXMQHKmvLSpgBi35+c7IHtw5wYiEcEnuyEFrmv/n4Dm2jK1vA6lgtaB+EvSbpltCAExPjUQCXDUlyHKwbQgFsa3vW398jYu404NRGDuiup7kyqkc+RhLBC+VEc3svxZxJRA6T3jnuDdmXwA00q1WhJoC9UEAFk7e/7oWH3qZrxjkjJYNWASm6BJZeN9m+zK+QZpDlgVbzeLj59fyEJ+Sz4BwXlFtZBP+tEAAAAASUVORK5CYII=",
     "wiki_name": "Mithril platebody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_platebody",
     "equipment": {

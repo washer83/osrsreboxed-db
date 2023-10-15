@@ -1,7 +1,7 @@
 {
     "id": 4502,
     "name": "Bearhead",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-07",
     "duplicate": false,
     "examine": "Quite ferocious looking.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmUlEQVR4Xu2V/0tTURjGPX+Hv+w3QQgkCJEhGCOGKDJpJDMG6lgOd7vo1pwlitI3FKmkkkokkSAiIiIiIiL6y9563ut7PDs7wrr3qL/sgYftDnbO5z7ve97T09NVV2ciRSe+cCnKZ/opN9JPo+m+BFDmS8Vd498fC9lL2gCLB9W6Dvz/axwn4zLSan/j043/2C+G3wdSKX9Q8IPwOvvRUl4bz+sLE7RSHqPG3CjDewSCFC9qem+tSC9Wb7J3706znzYL7J3GFG3VbzDY6vw4hcVrNDuZbgOKV3otxQvA+5uz7NcbM2zAuQBhQCGpYDpDxYkhZ0IxU4IUHdyfo8OHJTa+wy5AAUNam0GOajNZKueHKZe53AZk79KhFG/2bvsW++hxWdsEFDBACRDKJ6UrjA3qE5Y4HWz+4UmF3u/Mt1gAbSikhJ6SfkLpUDYPMJCij8+q2gATu6BcQCgdypZNy8hIJEWfdgNtG86EMoGkbDIK0NzjIwNJ+wdqBbLhTCikJGUDEBJCOgBCH+WzV/wAYWMbxk4HxncAISFJR4AwKNHYXoBSvb1sMxkbxuwhmUMCg5MGY0h66yNs/vOgQX+OVhhGQATWtFwjJhBOGhrbQx8pni3fXi3Rj/06/Xq7TF/3FunLy5A+P7+t0wKczJ7TgNDY6KOEKSkuB4C+v6kxlAsG5TJPF6BsIDQ25hGmduKUACR2waCZUVbzTjPBAIXGRtm8pAQQKZULBs2MJF0XrRx/87JFSlcHY9/6ihsaQGG43AYjl60c/WiTzhzzKomA4Hr9HgXBHapUQiqVFvSRN0Fkk05t79aBIiCcsGZznVOqVmt6FuHTBrFX8KwI6Pdhk+cQnmVawwmiT6LWutvP5wwTyS6J/dzVeesvyr703BpjGRsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmElEQVR4Xu2V/0tTURjGPT9JEEYUxpKmU3TUoq2BupFzV25uzUlJhvRFDFGRCumLiIkgBCFBEEQQBAlCf+hbz3t7T2dnR1j3nuyXPfCw3cHO+dznfc97enq66uqfSNEf/3cpyqX7KDvQR8OpswmgzJeKu8avP+Yz57QBFg+qdR3479f4nYzLSKv9jU82/mO/GH4vDA35g4IfhdfYT2Zz2nhenB6j+fIINSaHGd4jEKR4UdNb94v0fOEme/Nugb3ezLNXGzdopX6dwRamRiksDtLE1VQbULzSayleAH6zNMF+9WCcDTgXIAwoJBUU0lQcu+RMKGZKkKKdh5P09nGJje+wC1DAkNZSkKXaeIbKucuUTV9oA7J36VCKNzt4eou9v1zWNgEFDFAChPJJ6fIj/fqEJU4Hm79fq9C71akWC6ANhZTQU9JPKB3K5gEGUnS4UdUGmNgF5QJC6VC2TEpGRiIp+rAZaNtwJpQJJGWTUYDmHh04n7R/oFYgG86EQkpSNgAhIaQDIPRRLnPRDxA2tmHsdGB8BxASknQECIMSje0F6ExvL9tMxoYxe0jmkMDgpMEYkt76CJt/32nQj/15hhEQgTUt14gJhJOGxvbQR4pny5eXs/Rtu05Hu3P0ees2fXoR0sdnMzotwMnsOQkIjY0+SpiS4nIA6OvrGkO5YFAu83QBygZCY2MeYWonTglAYhcMmhllNe80EwxQaGyUzUtKAJFSuWDQzEjSddHK8TcvW6R0pT/2ra+4oQEUhnNtMHLZytGPNunMMa+SCAiu1+9RENyhSiWkUmlaH3kTRDbp1PZuHSgCwglrNhc5pWq1pmcRPm0QewXPioCO95o8h/As0xpOEH0Stdbdfj5lmEh2Seznrk5bPwEA3ELRSk0lwgAAAABJRU5ErkJggg==",
     "wiki_name": "Bearhead",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bearhead",
     "equipment": {

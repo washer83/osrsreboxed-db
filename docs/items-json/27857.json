@@ -1,7 +1,7 @@
 {
     "id": 27857,
     "name": "Dragon mace (bh)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": false,
     "examine": "A spiky mace.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlElEQVR4Xt3VYUvCQBgHcO9z7M1gL3oVjGCEhGBIjFAkSRITJZNspEmLzF5EX/2JZ8ez3d2cjrbbjf7wfyPO+3F3e2w0/lcYqJ8YDINzz4N8qDzfKZwE5Np2xoIIYXDmujnhhcJB+3cpgWBv+/0j8FIig/hiMoQwlYGuOx0JJUJETKUgQqmYE8eBq3ZbwmgH9Xw/RuHCiCAItaLdwTCwLSsGUVUMgeRqSRqEOyb2otncWw0oBr5tRSDx2AgSuKdw0+1mQLTcJw7CEoggVASJKBFSMgaTgLCh50oYEYTVtCtiEtAhjHi/NNwbMRzUc+wUhkDq26cRxS9mFgarQjSiWDRfxsMhPM/nEoKgx1riXeKT+eF+DC+LBXy8ruFnt0stlKfqL/8hLJq4j5NJClPyQnnCoiM6hFGf0BiOeZrNYL1cmsdMR6P6YO4Ggxjz+bYxi8HBhrtTCwwOL3yj8PXeBAF8b7cSSH1CYxhctlrRrKHjwnvzFYamdgfDj4sm8ftqZRJD4W8XzpwaYCil/+8UT60wJvMLnpcUdnhaWzcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkElEQVR4Xt3V70vCQBgHcO+VbAQxGklK5hINM/wRZoYtDVtk9ib6//+WJ54dz3Z3czrabjf6wveNOO/D3e2xVvtfYaB+YjAMzl0XsqGyfCd3YtCk00lZECEMzhwnIzxXOGj/LsUQ7G2/fwReSGQQX0yGEKY00HW7LaFEiIgpFUQoFXNi23DVakkY7aCe50UoXBgRBKGWtDsYBla9HoGoKoZAcrUkCcIdE3vRaOytBhQDz6qHIPHYCOI7p3DT7aZAtNwnDsISiCBUBIkoEVIwBhODsIHrSBgRhNW0K2Ji0CGMeL803BsxHNSzrQSGQOrbpxHFL2YaBqtCNKJYOF/GwyE8z+cSgqDHWuBd4pP5YTKGl8UCPl7X8LPbJRbKUvWX/xAWTtzH6TSBKXihLGHhER3CqE9oDMc8zWawXi7NY+5Ho+pg7gaDCPP5tjGLwcGGu1MJDA4vfKPw9d74PnxvtxJIfUJjGFw2m+GsoePCe/MVBKZ2B8OPiybx+2plEkPhbxfOnApgKIX/7+RPpTAm8wsl+rx7dg1JEQAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon mace (bh)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_mace_(bh)",
     "equipment": {

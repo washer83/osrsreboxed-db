@@ -1,7 +1,7 @@
 {
     "id": 9716,
     "name": "Rock",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-02",
     "duplicate": false,
     "examine": "A chunk of rock.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAApElEQVR4XmNgGAWjYBSMglEwCkYMYPwPwYMCMP7PDdH9H+6sDHXUgDqO8f+EAls47syy/N+Uav6/OsGU3o6ChEJPjjUYgxwDolvTLcGOKY0yAssbKCjQw1GoDoFhkGMakkz/V8QagaNQXUGAHqGE6ZhJRYioAjmmMNzgf0ag7v9Eb3V6hRJywsWPQY6hg4MYGGAWEYPR9Y6CUTAKRsEoGAUjGQAAI9F67pb7DbsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAo0lEQVR4XmNgGAWjYBSMglEwCkYMYPwPwYMCMP531Ob/ryfHBXXUgDqO8X+qixQcx9mJ/w+3FPsfYCpCb0dBQiHRQRKMQY4B0VE24mDHeBoIg+UNFBTo4ShUh8AwyDEh5iL/fYyEwVHIw8lMj1DCdEyGGyKqQI5x1RP8b6vJ/99MmYdeoYSccPFjkGPo4CAGBphFxGB0vaNgFIyCUTAKRsFIBgBtWmpkUgZIEgAAAABJRU5ErkJggg==",
     "wiki_name": "Rock (unobtainable item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_(unobtainable_item)",
     "equipment": null,

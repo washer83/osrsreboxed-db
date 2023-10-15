@@ -1,7 +1,7 @@
 {
     "id": 9322,
     "name": "Mithril bolts (p)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Mithril crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xu2VQUsCURDHdz9HFz9C9y5FeBBDECOxSCoRJTGSCMIKrCCCLhF17NIxvPr5pv67zO7/jXrw7aYdGng8Z1ze/N5/ZnaD4N9+3UKxkSUbA4TSHG2LjaW/f90sQCjF4m7krxcK0b5kwBQAa3+/L2trMQhWuz2cAmwMNw1gbhbK4eG5lEr1KEG//yD1Ri+BGQyeIkCG6b3uSHWwQbHcLJSz80dpHl1IpdKMk/XuZG+vkwDBV8CkfD/Pu4rlZnFCKKRAWPy71bpyAHEBVkwh7cmeFidkgO7paAqI/VmKdV/KeUDNPhzl0OToJ9s/rJjGDm63yPe2UI6PL6VcPnAAqtWTxO90bqRWazvJMXGs2PQEetlsdQA4z9cYw2ACeUIzASGZe1CYqIE1r1zs2wn1BHJHm0vBPsplgbWc6gM6FyCoY9+8FlCbex6wnca0rAtZrI5tVKjBPp5xb52WcxawN4wetLVdTW6GZZvbqmGBUSoXcGELZTz+jBaPtcYUUBPa8lmfXxceQGliHPRwf+3AQB2NaZwVRK9oYgViRTMB6U3Vx+/J5CvxLbRNjh3ldKdtIUuT46CPj7cECDv6Cb3AQABg35YTL8IM5YKlzczlwg41oBorxkB4XuNYaG7uJ0+gINDb8U05Zv9TIFZPL5ChXNPGt+KdV/xkrKhVD5+SHL5bvua+GlAuDIDbU0s2LuH723NULlVrJUCskH5EVwwEi0uH/uF+WiGQO6V/AkhNwdyJ/APmA/MNN/ApXcCBe+IAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNklEQVR4Xu2V30oCURDG3avoESLKSAos0QorBUskJYLAiv5BBN0EYddddZ8P4ANPfrvN2e+MeuFx0y4aOBxnXM78zjczu7ncv/26RWIjczYGiKR6ty42lv7+dbMAkeTzu7G/t7ER73MGTAFiiL2WLC0tO79e744AVrqrBjAzi+TgoC2bm+U4Qav1KOVK08F0Os8xIMM037ak2FmhWGYWyVn7SaqH57K9XU2SNe+lVGo4IPgK6Mo3fN5XLDNLEkIhBcLi37XapQeIC7BiCmlPDrQkIQOcnN6OALE/TrGT10IWUOMPRzk0OfrJ9g8rprH9mzXygy2So6MLKRT2PYBi8dj5jca17OzUveSYOFZsdAKDbLw6AJzka4xhMIE8oTMBIZl/UOTUwJpULvbthAYC+aPNpWAf5bLAWk71AZ0JENSxb14LqM09CdhOY1rWqSxRxzYq1GAfz/i3Tss5DjgYRg9aWy+6m2HZ5rZqWGCUygec2iLp9z/jxWOtMQXUhLZ81ufXRQBQmhgHPT5ceTBQR2MaZwXRK5pYgVjRmYD0purj92Dw5XwLbZNjRzn9aZvK0uQ46OOj54Cwo5/QCwwEAPZtOfEinKFcsLSZuVzYoQZUY8UYCM9rHAvNzf0UCJTL6e34phyz/ykQq6cXmKFco8a34p1X8mSiqFUPn5IMvluh5r8aUC4MgN9TczYu4XvvJS6XU2sRQKyQfkQXDAT7afhh/3j9tDggf0r/BJCagvkT+QcsBOYbuM7F+u8UkYAAAAAASUVORK5CYII=",
     "wiki_name": "Mithril bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_bolts#Unpoisoned",
     "equipment": null,

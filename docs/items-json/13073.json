@@ -1,7 +1,7 @@
 {
     "id": 13073,
     "name": "Elite void robe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-05",
     "duplicate": false,
     "examine": "Superior leg armour from the order of the Void Knights.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgElEQVR4Xu2Y0UtTYRjGz/d3eDPYhTAQRjBEQliISBiSNJLTaKjDNdxphEgi0zFQkYSwlkg0IlGoiJmym6J1U4RCF12oEAVe9Jc89bzjOx1PJZWd7xT0wsN5t4vv/Hje9/u+l2NZ/34oHC+joRDriMGKfV/R9qhpKIX5m/Oo3KigvFjGzMIs7GEb6dE0MmMZJDoTAhSPRExBKdQe1rD6YBVrT9ZQmishX8wjO55Fyk4h2Zs0CaTwstHAs3odjceP0PGlRNVaFVPlKZyKxzGezSLS1iYyUDaF5vY2XmxtiZ5vbqIzkcDK/RVxiflcqYThSzbao1FRwFAKnw4P8X5vD+92dvCm2cSZ7m6c7upCzslJfu/2LSzMzqCYz+NcX1/QpfMA7e7ibE+PlIsvJlBvMon6+rpALVbKGMtkzAB92N/Hx4MDAWK5CMSm5pN6urGBWrXqwgQIxFACcnFwUHYZRQi6U5gowJl0pJd0UwcMw1CwUykXaPnu8jdA3G2hAl0YGDgCxKMgFCDCaCCWkY39H8gPxNwLRIUCRGkgwhGIW5+HZChAvB4IRBg6pM8iw0Bf3bk8NOT2z/n+fhFd4vVh8BxqAU1edQRIu0NXQgWaKBRcoNF0WoD41Ackf+ubPnCg69eKAkQwXp7sJQIwJ6QGoktGgFgujhYcxLxAV0ZGJKdreiQJeEhTbgOzNOwXuqFfrvtHu2Ngp6kjMBqIw1gIQEpAfgaIMBRv/AAbuwWk9SMg7c5fCeQvm3/FE0arf7i7nFzOBaK8QJXpacm1+F9A21/J2eMH4jB/Z2kJb1+/Euc42HsdYk95p0f/qicM/8eEXxMd+sMuWZZe9HflX++4+AxL+AonJz+ragAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgElEQVR4Xu2Y30sUURTH5z5Ji6xIi5JL/kgybMNxY9WVbd2JDZEEWd0WVCQhxDYRIpYIESEKWkzEXiJo6a0IROipJ8WHiF586i/61vcsdxqnksrmjkEHvszZfbjz4XvOvfcwlvXvh8LRMhoK0aYorOiPFWmMmIZSmLk1g9LNEopzRUzOTsEesJEcSiI1nEKsJSZA/Z2dpqAUKg8rWH6wjJUnKyhMF5DNZ5EeSSNhJxDviJsEUni1tYXn1SqePX6Epq8lKlfKGC+O43RzM0bSaZxqaBAZKJtCbXMTLzc2RC/W19ESi2Hp/pK4xHy6UMBAv43GSEQUMJTC54MDfNjdxfvtbbyt1XC2rQ1nWluRcTKS37u9iNmpSeSzWZzv6gq6dB6gnR2ca2+XcvHFBOqIx1FdXRWouRtFDKdSZoA+7u3h0/6+ALFcBGJT80k9XVtDpVx2YQIEYigBudTbK7uMIgTdyY3m4Iw50ku6qQOGYSjYiYQLtHB34Tsg7rZQgS729BwC4lEQChBhNBDLyMb+D+QHYu4FokIBojQQ4QjErc9DMhQgXg8EIgwd0meRYaBv7lzu63P750J3t4gu8foweA7VgcauOgKk3aEroQKN5nIu0FAyKUB86gOSv/VNHzjQ9Wt5ASIYL0/2EgGYE1ID0SUjQCwXRwsOYl6gK4ODktM1PZIEPKQpt4FZGvYL3dAv1/2j3TGw09QhGA3EYSwEICUgvwJEGIo3foCNXQfS+hmQdudEAvnL5l/xmFHvH+4uJ5NxgSgvUGliQnIt/hfQ9ldy9viBOMzfmZ/HuzevxTkO9l6H2FPe6dG/6jHD/zHh90SH/rJLlqUX/VP51zsqvgAMQoJ214nyPQAAAABJRU5ErkJggg==",
     "wiki_name": "Elite void robe (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elite_void_robe#Normal",
     "equipment": {

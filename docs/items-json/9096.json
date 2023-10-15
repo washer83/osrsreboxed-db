@@ -1,7 +1,7 @@
 {
     "id": 9096,
     "name": "Lunar helm",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-24",
     "duplicate": false,
     "examine": "A mystical helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRUlEQVR4Xu3WXWujQBQGYOcf9L43gheBgCCCiBRBERFRQiQhwQ0poUsplPb/X56dM+MZHVO3aRntXuyBl7akjE/OfGlZ/8t4Mfg4i1f34O0OrKoGK8tlHmKwgmBpFIO7QyuigRBDoOVQPeZT0Pwojjmdp0HDKRuAPNueA8Xg8quF8/EI7X4Ph6aB3WYD26qCuiigzLLrLq3XMvN0icHT6aR1iEBDVBrH8BBFfYfmQ/Hpujz1GcDUtPHkSaJQIQf5ngcuB9n396ZRHPT8IlIfXqHavUDR/IZ8c4G0OkNStJOgleMokMH1JEGb9l0DESbO9xCljVhHi4EQMwYNMWFciyBqEVDMd1e0bSA5tup3L800TBCV4IWZ2GlDEGGMguo2UZCw5g8vSgHCuHyaMKswEnF8X4QWteHuYEkQJm8iiMsAosxTGYPWviOmzVnb84HuXt9k+JanrR7ErhYvWikMgTCGQQyeHx8/BGlXRhfCzAoq9zGkdTgN6oLdwW1Pwb9nAdG6ESA8qfGE7k7nYRBAh+OsIOwOgnCdaCDsDHarC64hBFEQhDEI0jFiceMVMp42/hORCMJLFoMgWuS2Y+yCZWqLywEnQLigu11HIAyBXJ8fCW6kxhg/5cbqMdQd2fbu5h+/oHEU/i++ilDoKMDTG1GUb6LYFaZfB/JVVoHUN2eTIEJdj3VzsQlM/zml/1wHYRCk7rjJsW6uvw9Anw07h12lN0n6Ugj6bKyb6+sDsCuQMcz3SoII8cMYKh3xwxhZ/wTCdP0B/GHA5ABcwZsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACP0lEQVR4Xu3WbWujQBAHcJe+KJEQEcWliloVE0xCbEJDr1DK3ff/UHM7u87qJvWaK6u9Fzfwpy0p6y+zTzrO/7JeDD7O7NU9eLMFp6rByXKVhxicMJwbxeBu38oYIMQQaD5Uj/kUND1KYI6ncdBwygagp8fHKVAMzk8tnA4HaHc72DcNbNdr2FQV1EUBZZZdd2m1UpmmSwxejkejQwQaotI4hgfO+w5NhxLTdX7pM4DpaRPJk0SjIgEKfB88AVrc39tGCdDrm0y9f4dq+wZF8wPy9RnS6gRJ0Y6Clq6rQRbXkwKt218GiDBxvgOeNnIdzQZCzCVoiIniWgZRs4Bisbv4poHk0Orf/TQzMCEvwY8yudOGIMJYBdVtoiFRLR5elBKE8cQ0YZYRl3GDQIYWteXuYCkQJm84xGUIPPN1LkGrwJXT5q4W04Hu3n+qiC1PWz2MPSM+X2oMgTCWQQxen58/BBlXRhfCTAoqdzGkdTQO6oLdwW1Pwb8nAdG6kSA8qfGE7k7nYRBAh+OkIOwOgnCdGCDsDHarC64hBFEQhLEIMjFyceMVcjlt4iciEYSXLAZBtMgXrrULluktrgYcAeGC7nYdgTAE8gJxJHhcj3H5lBurx1B3VNu7m//yBU2g8H/xVYRCRwGe3oiifBHFrjD9OlCvshqkvzkbBRHqeqybi41g+s8p/ecmCIMgfceNjnVz/XkA+mzYOewqvUnSl0LQZ2PdXH8/ALsCWcN8rRSIEN+MoTIR34xR9U8gbNdvpnBCyyiX1RwAAAAASUVORK5CYII=",
     "wiki_name": "Lunar helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lunar_helm",
     "equipment": {

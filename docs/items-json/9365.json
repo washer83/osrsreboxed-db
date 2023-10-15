@@ -1,7 +1,7 @@
 {
     "id": 9365,
     "name": "Diamond bolts",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-31",
     "duplicate": true,
     "examine": "Diamond tipped Adamantite crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAUlEQVR4Xu2VQUsCQRTHd79JH6G7FyM8iCGIoWQomUiRGEoEUZdKiD5AV0GiLqLQZSvwUGDoIbAO0qEv8+LN8mbfzG5Q7KwK9Ydh573Znfn5f89dyzIiG/TMjMUBbOh2OjBHKA5gw+twCI/9vpgvLy3JvP5URFIBcHy8v8HLYCDjJ8eBu9ubWUH5ASpHFZiMx2L+OZ3CZDSC54d7zbHIpALsnu5BLBmTcPVWXaxzmAjdsqF6XIVCvSAO2L9oQOlgS8I0L5tincP43TIm1w0EyFaz4gA8PLeTk0C4XmwUFaDaWU1zzJjcUiFAMp+UEHyOMASLAx3kjhkHytc2ILGeUAB4rK/7HTMmW5QqXUqzzW3FjfJhGTLbGWWdO2YcCH/9SmZVAdDdSm2mfEBUUoNAwe5QMwfFlCNgw/3juhNfiysAvJmDyoXPRAIT5A69h3hpdGDujr5rCAW7o/eKXj4ObBDIdUc/XH/x8ebWy2kUhn45/07h+En5KDYEZEOvdy0Gb1zKEeB35VPj0PIOxt5pnZ8oMPhPohzluYP0oY3EHSoNxTh3nK6MdWgcajlDyzsc+6DdvpJAeMV+wnJwIHSMx2o5jchrZl6uICByhGK8n/IGgSyLmtPb2LvyQTkC0mH1fUOLNya/8uHeGeyeUZd+L/XVsABA/lLPHYi0UDD/+rP6AiCDs1YXM2yEAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/klEQVR4Xu2VQUsCQRTHdz+GSClKgiZmYqZQiaREENQhSoi+QHcPEtRNEbpt0cFLdDAQLx2sm3Tqa714s7zZN7MbFDurQv1h2Hlvdmd+/t9z17KMyAY9M2dxABt63S4sEIoD2PA6GsHjYCDmxWRS5vWnIpIKgOPj/Q1ehkMZPzkO3N3ezAvKD1A9qsJ0MhHzz9kMpuMxPD/ca45FJhVg93QPYqmYhGu0G2Kdw0Tolg214xoUG0VxwP5FE8oHWxKmddkS6xzG75YxuW4gQK6WEwfg4fmdvATC9VKzpADVz+qaY8bklgoBUoWUhOBzhCFYHOggd8w4UKG+AYn1hALAY33d75gx2aJUmXKGbW4rblQOK5Ddzirr3DHjQPjrV7KrCoDuVnoz7QOikhoECnaHmjkophwBG+4f1534WlwB4M0cVC58JhKYIHfoPcRLowNzd/RdQyjYHb1X9PJxYINArjv64fqLjze3Xk6jMPTL+XcKx0/KR7EhIBv6/WsxeONSjgC/K58ah5Z3MPZO+/xEgcF/EuUozx2kD20k7lBpKMa54/RkrEPjUMsZWt7h2AedzpUEwiv2E5aDA6FjPFbLaUReM/NyBQGRIxTj/ZQ3CGRZ1Jzext6VD8oRkA6r7xtavDH5lQ/3zmD3jLr0e6mvhiUA8pd64UCkpYL515/VF3WEYuu5EgdGAAAAAElFTkSuQmCC",
     "wiki_name": "Diamond bolts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_bolts",
     "equipment": null,

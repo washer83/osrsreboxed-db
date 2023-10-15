@@ -1,7 +1,7 @@
 {
     "id": 1161,
     "name": "Adamant full helm",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": false,
     "examine": "A full face helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAklEQVR4Xt2XwUsCQRTGd/6DPe1lLwsdBEGQYA8igRJLiCKJoWgoqYiHCooQKgo6dOjYuX/2xfeGtw6D0qFmBvrgMaDs7o/vfe8tG0X/W4p2FVQaope8Uive0HE0DAmmaJh8MEwR3zNQLerRUXRCSVQNAaWBzpM36sZPlMeTEgj/1bOMy77KoRQNkveyXYCxgewrHEuV7jTiWQmURXk4ILjTjm84zKjgQHCnGS+pGhWcIZwS6CBAmC6AIDeSo0BAu0U4T7942s7ibbmHPE+YbhUABMZsnUd3tCMCI8twnHzy+HsOtKLx9YSG6yENlgPqXnapuCio1WtRs9Pk8Tez4xhI0exuRtPbKY02Iwbqz/vUGXeoPThlIIy/p4WoaPW4ovnDFUOJSwASlwBUb9a5ZY6BFG1eNrR+XtNiu2Ao0yUbKKsCxBmQYhApgKEAZboEoEbRoFpeozRLuXT4/1SKHcnSlAGk8Ju0DS7BIYQ6b+UlkKNQ6xADCC3CCQgBkVCb7UKZQPYdfynFjthAOAGEUyYM7YJDKC9A+5zCaY49oFBOgSRDh4DsxShOOQc65BSA4A6ABMahQ5CG+gnIdMcxEKRfpvvAkCG7XR6AIP3qQHbM7Wy3q1Kv+APCpkarsJ33hRlLUdx0sBT3SZVAshDFHRvEA4zI/HbfVQCQncyHBwXxpW/GskhhaBH06wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+0lEQVR4Xt2XQUvDQBCFs4QQItJSDJRaarSllVRpa6m2hYIKigiiKHjw4NEf4P8/jLxZJl2WiAfdXfDBsNCS5OPNmwmJov8tRdsKKg0xTF6oG29oLxqHBFM0Tt4ZpohvGagZDWkn2qckaoSA0kDHySsN4kfK42kFhP9mh4dc9lUOpahM3qp2AcYGsq9wLFW5047nFVAW5eGA4E4vvuIwo4IDwZ1OvKRGVHCGcEqggwBhugCC3EiOAgFtF+Ei/eRpO4rvqz3kecJ0qwAgMGbrPLqjHREYWYaT5IPH33OgFU0upzRej6lcljQ4G1BxUlB32KVOv8Pjb2bHMZCi+c2cZtczOt2cMtBoMaL+pE+98oCBMP6eFqKi1cOKFnfnDCUuAUhcAlCr0+KWOQZStHne0PppTRf3FwxlumQDZY3MJZBiECmAoQBlugSgdtGmZt6kNEu5dPj/VIodydKUAaTwm7QNLsEhhDrv5hWQo1DrEAMILcIJCAGRUJvtQplA9h1/KcWO2EA4AYRTJgztgkMoL0B1TuE0xx5QKKdAkqHvgOzFKE45B/rOKQDBHQAJjEOHIA31E5DpjmMgSL9M68CQIbtdHoAg/epAdsztbLdrt7XrDwibGq3Cdq4LM5aiuOlgKdZJVUCyEMUdG8QDjMj8dt9WAJCtzIcHBfGlL1sa40v6pgoWAAAAAElFTkSuQmCC",
     "wiki_name": "Adamant full helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_full_helm",
     "equipment": {

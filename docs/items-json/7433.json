@@ -1,7 +1,7 @@
 {
     "id": 7433,
     "name": "Wooden spoon",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": false,
     "examine": "Spoooooon!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMklEQVR4Xu2Wz2cDQRTH8/6D3ntZelhCWMOKVWHJoYdQqqW0Qn5Ik0MSIlKraYmQQ+khQumx/+m35o3Z7m6yx8zsYT68wzLLx/vOPK9Wc1iFcFzWICRdgdWTwOIx4Op3fFtSxCKydvMIX8trfL/F/G1BitKObCZhKnRIWlj3QvjeBQsFnmdCSsU0e2hg/RJiO23mhLajZipjQIiwGYSY3DWw6olU6HMRYf/a4sh+PmKz3eGougGSocjFpYWMxyUvbLY72bhicWkyLgnx3TkV1318ZVpGQvh9b7NQNi79zI3LyCf9fONzqTnzX9ZltEC2in+diXKZ4kkDOJky1ER2Msc4mTKUjJy4TiYP8UI1uq07mQJKRm5+lZGRe42TyUPYjSPeiSsgo7G2UJWjRSohUxX+AO9ndk9qBj2NAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABK0lEQVR4Xu2WQWvCQBBGHTwUS1Bkg0EDogiFtlCsYK2oYBERS6BaBMFDoYdCoQfP/vqv7CybJrE5upvDPphDYAOP+XaHKZUcViGclzUI0UBg3RdYPtS5nnqeLSliEVmHRYDPVRM/byF/W5CiuCO7mR8LfUctbIY+vEqZhfqdjgkpFdPLfQ2biY/9vJES2o8bsYwBIcJu5GN2W8N6KGKhj2WAr9cWR3Z8D812h6Ma1BE9i1RcWsh4XPLCJruTjCsUVybjkhDfnf/iuguvTctICKdtm4WScelnblxGPunHrsel5sxfWZfRAsnK/nUh8mWyJw3gZPJQE9nJnONk8lAycuI6mTTEC9X4pupkMigZufkVRkbuNU4mDeEwDXgnLoCMxtpClY8WKYRMUfgFRpZBiWrTFTkAAAAASUVORK5CYII=",
     "wiki_name": "Wooden spoon",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wooden_spoon",
     "equipment": {

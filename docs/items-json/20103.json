@@ -1,7 +1,7 @@
 {
     "id": 20103,
     "name": "Ankou gloves",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": true,
     "examine": "These gloves will make your flesh transparent.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACN0lEQVR4Xu2X2UoDQRBF7ZdACBOicYlv+QIRRVEUFRfcEffd//+LsmsmN12p6Z7pzvIiXpgn515PVVd1krm5f/0NGap+6qTf10+SDJ0stOi826Krbka3ixndL2X0tNym15U2ffQ6NaGGzqz/UnnfBt6f1Tp/SdVA/Pf1fj9/tLOQA7rxFPM9AAr7S4oD0i4nQ6cC6G6WQNz2+rAC6ML6AfQ4C6BnG/reiwNiPwNde4C+pgX0Iga6OszQ8Xzhl0DwTwXoQW1YdZgDYr8E4g5PDIRAOT/1YcWmwc8FAehzGkA80HHzA7lNQ4cxgxMB8QxgoOOOCxoFQgZ3eWwgrC3anQokMyRQWk6uIgzVYWXTKiuvvvz4iM/JVbRbzg8HpW2Hf/XjN3VExYYgCMOYfsOObtqYQIYObWWyunGH+shm+OYobVvtiwedZg4kP4/0YGtXWQ7I16VkIA5jIHlbx4cVXZZAukv1GUMZ2rdAHIi7SH+NwI2tnU5lIH3rRwIZ2mk3aW8AxMeG6jDg9RW6gjSQ/MKGDO1WMrQ9ANJzhGOTH5T+wGogeQWEixrK0JYF2rWBHKrnCMfGA46wcqAZFhQCQpeigfjY5Bzh2GSXwmHu2CWUBqrOGMrQZtbMj427pKuULQ+HuaIkFDqNDFmYThCy/yRr5FChQO5S+LigOKj6nFyGNiyUDNQbF+4OVM6QS8JQkTCQC5QDjlmIAVprNYJQiTCQ/unrnriwsi/N7xGMvke/65P2xPp/AccXKQyk+VNnAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPElEQVR4Xu2X3S4EQRCFt3eWxTOIrBAhQlYEEUQQghA/Qbz/i5Su6TnTNTXT292760acpK9MnXxVfWpm9Xr/+hsyNPnEpJ/XJ0uGDhf7dDLs0/mwoCt7bpcKelge0LM9byuDiKmhY1t/pmpf7Hm3td/R+pYmA/Hfx6NReXSlkwe6VLUM9FUBhetbSgPSVV6GjgTQzW8C8djjZg7o1NYD6F5c99yAHq3ha5KZq2egiw6gzySPhrqBnirDuJmhgwVXz0DXFRDq5wJ0JzIQN/NAXC+BeMIzA8FQ5idu5jYN9dwQgD5mBcKWpOUH8puGCSODMwFxBhDotPxATSB48JSnBsLaYtxp+YGaHhIoz6eUM0N3WNm8ztqrLz8f6T6l3LgRSBjlbUdz9eW7aCog3hAYIYz5b9jmpsmXY4aPoX3bmexu2lCPrUdXjvK21T64N3BA8nukg62r2vJAXVPKBmIzBpJv63QzN2UJpKcU96hlaNcCsSHeRfgZIQM+eUptIP3WTwQytGVhdiogvjZ0h49kvEPfkAaSP9jgoauVDG1WQDpHuDasL+ep23AykPz6h5uqZWjDmm3bw6Y6R7g2DjjM2oambigEhCklA/G1yRzh2uSUwmb+2iWUBuLGwh61DK0X/fLaeEq6SznysJlvSkJh0vCQjWkHIUNrhYMKGfKUwtcFpUHFfUoZGhVNQ71x4elAbQ+5JAyVCAN5QxlwZCEFaLUfhsqEgfS/vv6kmbXr8uo7hMKuo5/tkq5Jrf8B/1TwQkHtSZUAAAAASUVORK5CYII=",
     "wiki_name": "Ankou gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ankou_gloves",
     "equipment": null,

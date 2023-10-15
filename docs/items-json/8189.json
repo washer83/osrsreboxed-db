@@ -1,7 +1,7 @@
 {
     "id": 8189,
     "name": "Short plant",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIklEQVR4Xu1VTWvCQBB1/kQvXoQeBEEQQUQk0CAixVAUpcWKpVpaQSgUCj32Ugr919NMNpv9mtVELAr2wVwyb3fefGVLpX+cHwDtL0cEYH92hScnqlGpJGZ7joaTEnOuKDKkxC3CLwzA4WM/ZxDA0XqIrV4jJ39v5N0cwPnHFKevN9i+bv2VqLhCizDn5YC3myjlcklwd3DftgLwLs5YBrC9JgAncct8YlafcysxwMF+P1LAcBrkOGgKsr2uUCWI53uh2mZn7cvYDSB49nk/fyu4tgE2g3qyVUoUYBC1HR5Z9DSwxAtfL618YUFyWPVAcr1VG0DbLmG0dbP3CXZjoebDa1a9sCCaDTkf0jppcF1ktVVJqqEqZ5ou3qyOXT0WKpuXr4fE1t/LrPxce0iQHlwXYVYCkqpJrpksCyFCFzVYdjNhZOG44wiq1MuGmJFndsKZngzgIm6rn5/BLHF/IQRE6VMiK8UJksZvUTx/g1rGofsm8YySSUEmP4PtEBfQITmstqDy5UXyjZ4PMjnIbgBVHbnB8m6eX/I9GaLf1L7uqMkcVoGoojJz9x75TzLnZ6sgd9XFd7Jap4p3b2PGLzh0Npi2siFXrTd5VGW6R/0SfNwEthNw87NKBpoCtSP1H7LP6W3wBxCLYvN4bgrXmR4Oq1uCAd5r1XP9gjN8Doxt43m5oLbEf8muIGLG+DncC7sCctW1saulBXGISw4m5mzxCwLM/nQqSdDKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHklEQVR4Xu1V22rCQBB1H4pYRBGDYkrUVFKpFq3SaktFKBQKfe1LKfT/P2OayWazt9mYiEXBHpiXnbM7Z25JpfKP8wMD8+SIYDCYX8HJibofDhMzPUfDSYk5V5QZUuSW4ZcGg9HjoGAQBuPNCLx+qyB/bxTdHAaLjylMX2+gc+39lai4Qsug4OMM7rZRyqWSoN6gznLBYBZnLAKYXh0MJnHLXGLWnwsjMQbhfh9SBsHUL3BRF2R6baFSEM13QrbNzNqVsR2A88z7bn4uqLYxaPvNZKukKAZ+1LF4aNFTaIjnvn5a+dKCxLCqgcR6yzYwZbu44dbN3yfQi4XqP1696qUF4WyI+RDWTYOrIuteLamGrJxuqni9Omb1SMhsXr4eEtt8r7LyU+1BQWpwVYReCZZUTXD1ZElwEaqocNXLhKEFt11LUK1Z1cSMHbMTzNVkGCzjtrr5GfQSD5ZcQJT+SkSlKEHC6C2K5y9sZBx8bxLPKJoQpPMzmA7+AF4Sw2oKql5eJGf4+0ATg2wHkNURGyzepvkV1y+D9xvb1xu3icsyEFZUZG6/I75J+vzkCrJXnZ+jNbp1mL3dEn7Owbv+1MuGXLZe52GV8R35SXBxE5hOBtufdTLQGKgTye+QeU9tgzsAXxSTR3NT2E5+uRXUc4LF50r1bD/njJ59bdtoXiHILXE/sisInzF6DvfCroBUdU3samlJHOKRg4k5W/wC1obNIgqsNukAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

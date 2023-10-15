@@ -1,7 +1,7 @@
 {
     "id": 8578,
     "name": "Oak bed",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCElEQVR4Xu3WS0sCURQHcP0GrdrMZqAv0L5VRLQwAimIiqSUEuyBYaY9EM00KSTpXSYVVvYSsYgi+m4nj3ZkvJ6Zm5IuYg78YdDh3h/n3Bm1WMwyy6y2lRXaG8OywuWJDzJHS5A+8MJpahGO9+bhMDkH+zseSCXckIzPlrMbdUEi4oRYeBqiGw4Ir01CKDAB6/4xCPpGy1nxjoBvYRi8c3ZYcA+BZ2YQ3NM2cDkGYGqivxwJygrXZ8t1KD2YFqUH06IIpkXhnt2qqoeywm0mANn0CgsjlBGMUByM65QUlLsM1qH0YL8ZI9cpLUoKesquw8PVGgsjlBGMULLxEUoKyt9s1KH6erqrMLutlw2huC6JqIZAxfswFHKhGhiCqFsiRATpjQ7XwIhdkoJeHyMsirqFm9PiFPzMaHTi/VqUFKQ8dIFy95OsCsqVWl5EuShdn6vgHLezETumTcdqZyX+UpZ+Ml9JS0GdCaWSrVLCSrV7iMHrpkBvz5vVseEiODZqNY4NN9A+dbSpODYcGX1HYxMPN45NCnrPR+tQGKNXAb4CRBCeIwLh4eZAmIZB3OEWQdx7Se9pE3/vpKCPQqwGxYHELnEg8WnjUJiGQVyXRJBel2QojBT0WYzXoDgQ16VmUJiGQXpd+gsURgr6etluGwojAWGJfzFbG8RIQBYL3dSuiPubZda/rG/JZVHO9tVbGQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4Xu3WWUsCURQHcCVisLcee2hDCixoo8xItEixjTTaTJMiKlpok6QF2zdEkCIiCPqsJ496ZLyemdtI+RBz4A+DDvf+OOfOqMVilllmVa2sUN3olhVODwKQ2PNDfMcHh1tjsL8xArvrXthe9cBmzA3r0eFc1sIuiC0OQmTeCeHZflgI9sHcVC+EJrphOtCVy6SvEwKjHeDzOmDU3Q6eoTZwO+3g6m+Fgd7mXCQoK1wcjZehtGBqlBZMjSKYGoV79rS0aKGscJ2Ygsv4JAsjlB6MUByM65QUdHc6XYbSgv1kjFyn1Cgp6CkZgofzIAsjlB6MULLxEUoKSl3NlqGaGuqLMIe9kQ2huC6JKEOgzP08pG/nSmAIom6JEBGkNTpcAyN2SQp6fVxkUdQt3JwWp+BneqMT71ejpCDloQ6Um0KSNlDObLlFlJPs9bENBnscbMSOqVMzU5vPRDb+Qkby+VNQbUzJZzmbBaXYPcTgdUWgt+el4thwERwbtRrHhhuonzraVBwbjoy+o7GJhxvHJgW9p8JlKIzeqwBfASIIzxGB8HBzIIxhEHe4RRD3XtJ62sTfOynoIx0pQXEgsUscSHzaOBTGMIjrkgjS6pIMhZGCPjPREhQH4rpUCQpjGKTVpd9AYaSgr5eVqqEwEhCW+Bfzb4MYCchioZuqFXF/s8z6l/UNBG1klGhn7bAAAAAASUVORK5CYII=",
     "wiki_name": "Oak bed (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_bed_(flatpack)",
     "equipment": null,

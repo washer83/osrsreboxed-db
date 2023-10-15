@@ -1,7 +1,7 @@
 {
     "id": 28217,
     "name": "Dragon 2h axe",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": false,
     "examine": "A woodcutter's axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xt2WX0sbQRTFM98gT/uSl4APhYBQCn0QCSQEEYmIkuASRTEJJqGJosY0RI3ENJVULab0rbQgpSDFD3k6d8aZTHeV/mE3I164JNns7v3tuWfuTiTyvIPBe8RiMGw4UUgob1oJhgIHKsWiyDkR8bnP8+qFYwuKYTEaESpV72GGUw4+3wO9jMftQCmgHoehHEw9AaBOPIoRV6Ybd4RKBOb3Vej+YsgtLeFwpyF88yURE2BKJYKj39TKRkyq+GO/EhYUQzqZRKNSwVGzqZ++xQFMlQiIjhHUp/KabmXA7WSYTiSwvbmJk1bL8IsEekylm52ycW6gwX3julqZ8RMzUZzyIZVCU0f55n33RLdKJSlBMJSmSt8apfDUId+8Oz7WEGookmnJvCaQUkmZOWAghnY6ia9uDndb0qDmUKS2UKp5pBQy51KAQAzF168wWs7idsMVBdSrwlREQdw2q/h5WBN516oHrY5sTXcujZtCXnwnVUiN61IBV0UX3/e2NZCCUdcFrA5Dkt8oP53AUSaFi8WF3wqZST4hMC9EADDjIqsrK8I3pM5jhcYF/f977/wfIZe1Gnq9TkevqL8p9Kf//zEYlrNZAUEz5sNZz/fU3itCDL63mZ/Hm3IZHwcDH8jEYRYyGZTW1/X0tQRCwTCXSmFrrYDTdttWe1TILQS9KA/qdVz2+xrIe+aEgm/S83ns1mq+VnnPnEBIE1eLRbG8R8OhTXWkb5Q65J3r83N7QLMzM3r4vd3bFXPHKhC1ipY4qUPtokmsZo8VICpMK8u7QbdoaAr/1sAijIynAvIL8y4jX2jRHbsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWUlEQVR4Xt2W7WsaQRDGXeQQQzEfWghVNC+ShGg5TUjUoFZDkhormMRiUhtsm5K09GOhhUChECj5t5/e7GbW7V1DX7hzQwcG9V6c3z3z7NzGYv93CPiPWAyBDScOBeVPKyFQ8oCqiTgKTkx+7nt5/sCxBSWwHI9JlRq3MOMZBx9vgcoLC3agGGjowVCOZu4BUD8Zx6WnzCDpSJUILOiryP0lUFhZwcFOW/rmUyohwVglgqPf1Mp2Qqn4bb8eFZRANp1Gu17HYaejn77rAZgqERAdI6gPtbJuZcjtFJhNpbC9uYnjbtfwiwK6S6WrnZpxbajh+cZ1tTKTJxayOOWvVIpMHfbNq8GxbhUnKUEwlKZKX9rV6NQh37w8OtIQPBTJtGReE4hVYjOHDCTQy6bx2S3gZksZ1ByK1BZKnkeskDmXQgQSqDx6iMvVPK43XFmAXxWmIgxx3Wng+0FT5k23FbY6qjWD+SyuSkX5nVQhNS6qJZxXXHzd29ZADMP3hayOQDqZRHE2hcNcBm+Wl34qZCb5hMD8ECHATIo8WVuTviF17io0KRg87//nfwi1rHnoDft9vaL+pNDvzv9lCKzm8xKCZszrk2Hgqf13RBje3mZxEU9rNbwbjQIgU4dZyuVQXV/X09cSCIXAfCaDrXIJL3o9W+3hUFsIelE+a7Xw9vRUA/mvnFJ4m/RiEbvNZqBV/iunEMrEjUpFLu/347FNdZRvWB3yzsXZmT2gx3Nzevg939uVc8cqELWKljipQ+2iScyzxwoQFaaV5d+gWzQ0RXBrYBFGxX0B+QH7ANjocpLamgAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon 2h axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_2h_axe",
     "equipment": {

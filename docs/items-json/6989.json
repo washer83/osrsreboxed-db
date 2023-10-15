@@ -1,7 +1,7 @@
 {
     "id": 6989,
     "name": "Stone head",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-23",
     "duplicate": false,
     "examine": "A granite head shaped like the sculptor Lazim.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTUlEQVR4Xu2W7UsUURSHvf+Jn/sUfQkJwZAQMUJZWVFRXENdchVfMt9lfWdTUQsr1MJMMhNLDRGRiIiIKKKIiPxnTj5nvOPstvXBnbEvHvhxdWZ2znN/59w7NyvrLHwLI3/XqYeRupJcVTSUl6RYOP+0wRyYtsoCGWwolpEbIdVYrNRVojms+tM53yGNVBXlqAtdkSIFmWwtk4W+iOrhQK0sxa+rlofqkhSvzZfhuit+QjkzLM07J5HCCxItvig3yy9JT1WeJppqLJTV0QZZTzTKy6kmeTXToiP/c32svkBuRwv1HeezszOFMkmJ59quyWJnSFb6wzreby+WjYmYbE03y85sq+zNtcvrB7cUhr+5tjYelZmmIj+AjDqB5czwTstVme8okeXeUlkdKNMRqN27bS7I24Uuef+oR12y4j4TyRDISCyUo+7011zWGeLGUrcDsxYvd6HezHfKu8Vu+bDUK5+eDMj2eLVsjFTK+lCFjjwHcMZAuAMMPUC5bKlsIkbc+Pi4T0G+PI3LTqJa9qdr1amvq4M67t/r0NLRVydsbMedzopct3cQ5cKZzbEqV0CQ+PvzYfn1YlyBcIh7QOIO8EzGOnQCl4y0ho/doXfoAYBIQFKrH+sj8nNjVGG8QN+eDalz9BAuZgBDGHWHZvauLAuESwhnXJjNhCt6CVALhHuU7oTlsmFcdwChd+zqorGZNeXSUh1CHGxNJglIYAGi4TN0iHCAcAcAHAKO5iQBQPQIpSHxwfa0A2KdOiohS966kwGMDaNAqZsgswaGkuAS5bEueWG4D5AP7tgw6gqlwiVkNzqcooc+rxyVzdtHRzCIrcEnd2wYBcIlxAbHvsKoYAlnRWlze2D2piKyO1ETDJDdf3g5+wufiFQoWzYvDNfZg3wGIoy7MwMGDFBeMJID4oVBTCAQIMpmZb/suAOQhWJDTKcAgAjnTGSPGEDYj6r3e0bTc/RYGa7X531cYenCuAewVDCgcAz3OP8AxGkxIHdsGE3GXuQFo5cAsl90nuGkCBRHWsepQMLorElEUkrjBQIQWK57XQoQyrgHepKR3AtEuXCI67Z/Au4jI7MdFQqVDigdgFepb/Mpkmf+L4jUXwYWqYn/C8RZHMZvoDJ8D1KDau8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADT0lEQVR4Xu2W7UsUURSHvf9AX4IkJfOFEtdFV9E10c0V3zLF19Z3NhXFQiosC8mQJBMrEUOKooIgiCCICCKIIIJe/qxTzxnuNLttfXBn7IsHflydmZ3z3N85987NydkP38LI37XnYaS+LE8VC+WnKB4u2GswB6a9qkiGGktl9GRINR4vd5VsCav+dM53SCPVJbnqQne0REGm2irkcn9UdXWwTpYSJ1TLw/UpStQVyEj9UT+hnBmW5x+QaPFBiZUeklOVh6W3Ol8TTTcVy+pYo6wnm+TedLPcn23Vkf+5Pt5QJGdjxfqOSGFhtlAmJfF8+3FZ7ArJykBYx4sdpbIxGZetmRbZmWuTx/Md8uzSaYXhb66tTcRktrnEDyCjTmA5MzzXekwWOstkua9cVgcrdATq4fl2F+TFlW55da1XXbLiPhPJEshIPJSr7gzUHtEZ4sZSjwOzlqh0oZ4vdMnLxR55vdQnb28MyvZEjdwZrZL14YiOPAdw1kC4Aww9QLlsqWwiRtx4c71fQd7fTMhOskaezNSpUx9Wh3R8eqFTS0df7bKxHXe6Inlu7yDKhTOb49WugCDxp9sj8vXuhALhEPeAxB3gmYx1aBcuGWkL/3aH3qEHACIBSa0+r4/Kl40xhfECfbw1rM7RQ7iYBQxh1B2a2buyLBAuIZyxMN82k67oJUAtEO5Rul2Wy4Zx3QGE3rGri8Zm1pSLZEB835pKEZDAAkTDZ+kQ4QDhDgA4BBzNSQKA6BFKQ+If2zMKYl2yJWTJW3eygLFhFCh9E2TWwFASXKI81iUvDPcB8sEdG0ZdoVS4hOxGh1P00LuVM+4K87oDDGJr8MkdG0aBcAmxwbGvMCpY0llRlM0L82g6Kg8ma4MBsvsPL2d/4RORDmXL5oXhOnuQz0CEcXdmwIABygtGckC8MIgJBAJE2azslx13ALJQbIiZFAAQ4ZyJ7BEDCPtR9X7PaHqOHisjDfq8jyssUxj3AJYOBhSO4R7nH4A4LQbkjg2jydiLvGD0EkD2i84znBSB4kjrOBVIGJ01iUhKabxAAALLda9LAUIZ90BPMpJ7gSgXDnHd9k/AfWRkrjOiUJmAMgF4lf42nyJ15v+CSP9lYJGe+L9A7Mev+AnmUshQQcNjIQAAAABJRU5ErkJggg==",
     "wiki_name": "Stone head (Lazim)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stone_head#Lazim",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9703,
     "name": "Training sword",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-27",
     "duplicate": false,
     "examine": "Basic training sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xs2WzUoCURiGPXcwq9ZeQtuW0bIWtQkialGUUBGBFhkiolRCGCaD9oOlCE2FhQkSpFJmCNOPKQ0FuelO3jgzOOhQ7ZzvvHAYOHMGHp73fDAOR8/DYN0hCgdheK5W9af1rc1hKOZyqNdqaKiqDtTvdFJBMeTPFN3Md6tlwhABMWQO9nFXKOCj8YbPZlMcO1+aJo4drV6nhuEx7Dw9VPD++kJfVdtO51SRAnE7auVeDJjf7FhP2RiGa+UUj8WiOHZK+bwYMNFwWLfD6xKiKm7nJpsVx85VJoNauSyOHV6XMHaU46QIMDwMSVnGRSolRlXcTjqRoLZj/I7yFd+N0MMsemSshxTsBIM43ItSV8UwOevHivdIhyK2w8MwPObC/HKkC8p6yuYwzAxKJtTG5jklFMPEgITVEQmB8T4suGNw+07gC19SQBkwriEJ3lHJnLT2svkuMUzNBeDxp7EVu+0C6FzWr3oYhmlXCEtrcWzLJRPIesrGGNPFLRHU81dI7sr/sRvmB07gaKsmoW36AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiklEQVR4Xs2WW0sCQRiGHZZ+Q1eFEBFB0IGgIqmgQIswRESphDAwWdAOYKEk2BZJgRlIN4kSHQy8MKJMhJC6ybv+0huzi4su1Z37zQvDwuwsPDzvfLAWS8fDYNwhCgdheC4W1afxrclhyKXTqJRKqJbLKtCI1UoFxXB5rKhmvhsNHYYIiOFwZxs32Sw+qm/4rNXEsfNVr4tjp16pUMPwaHaeHu7x/vpCX1XTTutUkQJxO+W7WzFgfrNjPGViGC6OknjM5cSxk89kxIAJ+v2qHV6XEFVxO1eplDh2zhMJlAoFcezwuoSxo+xHRYDhYYjKMk5jMTGq4nbikQi1He13lK/wZoAeZtYhY9mnYMPrxe5WkLoqhtFJNxaceyoUsR0ehr5BG6bnA21QxlMmh2GiR9KhVlZPKKEYhrslLPZL8Ax1YcYegt11AJf/jAJKg7H1SnAOSPqkNZfJd4lhbMoDhzuOtdB1G0DrMn7VwTCM23yYWwpjXc7rQMZTJkabLm6JoJ6/QnJX/o/ZMD/TSUZYkAFo/wAAAABJRU5ErkJggg==",
     "wiki_name": "Training sword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Training_sword",
     "equipment": {

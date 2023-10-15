@@ -1,7 +1,7 @@
 {
     "id": 28139,
     "name": "Funky shaped log",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": true,
     "examine": "A weirdly shaped log. Perhaps a beaver would be interested in this?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xu2V0UuaURjGO//EbnYTeDEIAgkiZATJiIiJTBKkwtCkHC6HTedELXQuanMtXU4abjRnQ1y0EdFisJvdjY39Te983o/zedSSQP282QMv+HkO3/n5Ps97HBr6r55JUKMGLkHze2tcPsfMoKEEhRYdFFywM5DfeZc89ulBQQkKuGwU9TopvDTHYLJLbpt1EBZqQCoUarEQooV8kDvlsFqMghJsE0qFUsHcxXUu7DUPD/cbqgGkgsV8Lh3K8zbMNl4vU13ZK2j1KEH+6gYfKEMtS0J5S495DaCzt8c7HCgoVgrRRjnSYU9HCVr5GGeo+7WUHmgVDFAorOEZ03e1dfVJzfn19cv3dJQWZhwECJkZCaZCqUCd76iuLlbBB8gwS7DWLqFUIOf05BXWaSC+lJurff1aEvyLJZgKIQtwctKw1zY1QZNjozQ2YlIOFXRnwqwDdWEbpP0yTFErmITBd4DBfYTC4ZbRW7o9EkYD6ApGk3wRSrUJMKpV6A4KlqFL2I/PI6YGSON9XasdprU7OHw3tUo2i5m7gmfZqa670iwNRgZawqDUIOPwVMRNmegSzYyP6OHuMQwkuCs/Pm9TrLpD0cozCh+m+f9MDTKsiQacFAu6KBGaZyjVqh5K0O9veUqe7FLiOEvx2gsGyyZ9Td3xu+uh99RDv2zXM9eX7vz9XqBf5zna/LqnA1X2o1TcXtOnCmM+f2+K3HPWJpAew0CC/lzs60DoUu0gzkClbIhDLO2atfYtM6oEw6TP8pQ6zdHph1QTUGHrAdtlunnDOJifX15yd87KaYYp5yN08Pwhvc4EKLTiYKtUoNa39FCCYWDTxVGGjksJHSaX9tPmo0UOsHrx9R1IjjpgpE2A2Yp5ebwxVQbBQILOK0/p5F2SPr15wjCwaSe+zN2BXQbCQIIi5QzDvH+1zgHG3YPbGBegwTCQoGoxRoe5MN85eFbLYBipdgC1WncbooEDDFr/ALMuBOL/JkvIAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xu2W72tSURjHd15EJOEYG5M21n6ECyeok+kcM5vk0kxQN2c2tlprzmbIQoqFtUVjDVYwGKvoTe96GxH0/z35fS7n7qhNBuq9b/rCA17v4Z7Pfb7f52hX13+1TYLOynQJcm/McQUco2ZDCYpMOijsGWegoPMG+caHzYISFHLZKe53UnRqgsFkl7z2ITMs1IBUKNRkMUKeQpg75RiyGQUl2CaUCqWCeUvzXFjrGRnpNNQZkAqWCLh0KN+LKNt4sUy1ZK+g2b0UBd8v8IYy1LIklL98j+8BdOxaX5MNBSXKEVqoxJqsaSpBM2+SDHXrIKMHWgUDFAr3cI3pO9+66qTmg/r9f69pKi3M2AgQMjMSTIVSgZqfUS0drII3kGGWYPVdQqlAzuGBc6zTQAJLXq7G+xeS4DeWYCqELMDJScNa+2A/DfR2U6/Vomwq6Hp/jw7Ugm2Q9maYonowCYPvAIPzCIXNbd1XdXskjAbQEowm+SCUahNgVKvQHRQsQ5ewHp+tlisKkHxey2qEqe8ONl/PzJLd1sNdwbXsVMtdqZUGIwMtYVBqkLH5UsxLufgUjfZZ9XC3GQYS3JXvH1Yosb9K8d2HFN3J8u+ZGmRYEw85KRF2USriZijVqjZK0K/PBUofrVPqcI2SB48ZbC0dqOlO0FsNva8a+ulxPXMd6c6fb0X6ebpJi582dKDdrTiVVub0qcKYu28OkndC+0siQdoMAwn6/XVLB0KXDraTDFRei3CIpV1jQx3LjCrBMNmTAmWON+n4daYGqLh8m+2yXL5kHMyPj0+4OyeVLMNUCjHafnSHnuVCFJlxsFUqUP1T2ijBMLDpy16ODsspHSafDdLi3UkOsHrwdRxIjjpgpE2AWU74ebwxVQbBQIJO3z6go5dpevf8PsPAptXkNHcHdhkIAwmKVXIM8+rpPAcYZw9OYxyABsNAgvZLCdrJR/nMwbVaBsNINQKoVb/aEJkOYLb+ArYcf2QyyYjaAAAAAElFTkSuQmCC",
     "wiki_name": "Funky shaped log",
     "wiki_url": "https://oldschool.runescape.wiki/w/Funky_shaped_log",
     "equipment": null,

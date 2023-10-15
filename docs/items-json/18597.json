@@ -1,7 +1,7 @@
 {
     "id": 18597,
     "name": "Teacher wand",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-04",
     "duplicate": true,
     "examine": "A teacher level wand.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4Xu2XMUvDQBTHc9+gU5YsBxkODgJHoBwlBFpCkUCHDKFSRGkdpCAdOggiHdxEEP0A0llc3MUP9+x7Z9KY6thLhvzhz2W4kB//915ycZxOrRGDvRsXA+k7pRuGOoRRnJPrOy2og/lPLYPx3BbBxMqBvmwbDDcugOo7LYjBWBsYNF43mI6BKdLBtYMxYjCJDAT2CwI1ALP/QCLM42ZQwlTTqd91JDH4fBvAIg0hjQTcXIewvvIPYCwBMfh6j2AxDuF8pCAfStCBB2e5gOzEtQ2DYgQyGwbkPJKQhD4I3msGBhNBCHSmJaR9QdbSs983syQgoFQbiET55DjgZEtAZpJwihAo+ylRrDho4ZGrMEcGYvB8H9AErS453K7CEghLpHyXErIGs30J4eFOwvKCw3zqkZfzwKSzA8KyWYP52Gp4fVIlyHSyAxi5NNqnmU8NjaNvrW8QaLMWBFE46vfobINr0VsW0in0++hZGJOqgliCQe0eKlx64WEimBD2kuVU6qr+YVov0d+qlqZxmE41fQOyL2F060a3/wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjUlEQVR4Xu2XzUrDQBSFM0gICWFCSJmSlv4YKFm0WBVbF1Kkiy4EQbpwJ4LoEwh9AMGVTyD4sMfeOyaNqS47ySIHDjOLCXyce28ysaxGtZHAzpVLQHpW7oqh9mFOh0N2+aQBNTD/qWYwjl0jmE5ooSXrBuNqZ0DlkwYkMFAahkz7CtPRMFk6tDYwWgKjWENQvxBQBTC7DyTBPK7bOUwxnfJTB5LA51sb8yRCEvu4uY6wuvL2YAwBCXy9x5gPIpz3Qoy7EipwcDb2kR7bpmFIgkGm3YA9jiX6kQffPaoGhhIhCHKqJJKWz1bSMd83037AQInSEP3QY3cCl20ISE8STREBpT8l6oQulO+wizAHBhJ4vg94gpaXLm6XUQ5EJQo9mxMyBrN5ifBwJ7G4cDGbOOzFLNDpbIGobMZgPjYKr09hDjIZbQF6No/2SepxQ9PoG+sbAlqvfIbIHLeO+G5Da9ZbBtLJ9PvqmZmSKoIYgiEJhL7NLzxKhBKiXjKcSlnFP0zjJfpbxdJUDtOopG+DEzUjEZrnlAAAAABJRU5ErkJggg==",
     "wiki_name": "Teacher wand",
     "wiki_url": "https://oldschool.runescape.wiki/w/Teacher_wand",
     "equipment": null,

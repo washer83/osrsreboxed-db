@@ -1,7 +1,7 @@
 {
     "id": 3683,
     "name": "Shoe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-11-02",
     "duplicate": false,
     "examine": "A shoe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0klEQVR4Xu2W0WrCQBBFs9/hS8CHglAIBSlSBIsUKRapVCoqlVLo/3/ClpvlbibTXdPGbPNQL+yDyZo5c2d2kiy76KLeZGy1epWDeFos7G6zsY/zeZ9Qxj7MZiXMKMv86gnK2LvJpAbyvFx6mCLPy6X/lVDGvqxWfgEGTsExAnFfeHUuY9+223IBCDBw5346rQXGdcCiv7iP0PqJZ8rYj8PBvu93vlSAQRlxD78RWJYUC9cInaCkziVmDZjb8bgMBkjd6NiTEMjYz+PRH3UEAcxNUXgg2VsEki52DoSSISjdAcz1aFTrHQmTHAjlQlAGAczVcFgGO+VOAiB3gjQQSpYPBuW91/U66g77rAMgB4KThYDydLF/4BKg2OwhdzoAqhzRmcusCYSy0b2QO2z8FkAOhEONPSGHoMxaAwE+5E5LIOcIYPDgUJPqIBoI/5Hg2Nc5UAhGusPpTVc1EPdxPOioDar6Rr48QxkThEnI91YICC5yROioDXIzJdY3EoTwP4HheGj5mVK9LAmjQVjamJMdwlD17xlZHoDIudQEI4F0lF+pysgBxRo+BiQTOtOdkL7Pp5g7GiIBDOUChUoVciMRRF0soV5/4MZpaYBeIP6lvgCaxMxfco2m7QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABy0lEQVR4Xu2W3U7CQBCFu1dEYmqIRCJEBIkYxPBjMMb3f7A1ZzennY67VEvXXsBJ9oJ26XxzZnbaLLvoos5kbLk6lYd4ns/tdr22T9Npl1DGPk4mDibPsmJ1BGXs/WhUAXlZLAqY3Wzmlv5XQhn7ulwWCzBwCo4RiPvCq3UZ+77ZuAUgwMCdh/G4EhjXAYv+4j5C6yeeKGM/93v7sdsWpQIMyoh7+I3AsqRYuEboBCX1LjFrwNwNhy4YIHWjY09CIGO/DofiqCMIYG4HgwJI9haBpIutA6FkCEp3AHOT55XekTDJgVAuBGUQwFz3+y7YMXcSAPkTpIFQsqtez917W62i7rDPWgDyIDhZCChPF/sHLgGKzR5ypwWg0hGducyaQCgb3Qu5w8ZvAORBONTYE3IIyqw1EOBD7jQE8o4ABg8ONakOooHwHwmOfa0DhWCkO5zedFUDcR/Hg45ao7Jv5MszlDFBmIR8b4WA4CJHhI5aIz9TYn0jQQj/GxiOh4afKeXLkjAahKWNOdkiDFX9npHlAYicS3UwEkhH+ZPKjDxQrOFjQDKhE90J6ed8irmjIRLAUD5QqFQhNxJBVMUS6vUPbhyXBugE4iz1DfPyRDBCsAhDAAAAAElFTkSuQmCC",
     "wiki_name": "Shoe (unobtainable item) (Male Basic Dark)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shoe_(unobtainable_item)#Male_Basic_Dark",
     "equipment": null,

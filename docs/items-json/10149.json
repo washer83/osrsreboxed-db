@@ -1,7 +1,7 @@
 {
     "id": 10149,
     "name": "Swamp lizard",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-11-21",
     "duplicate": false,
     "examine": "A very slimy and generally disgusting green lizard.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBUlEQVR4Xu2VsQrCMBCGmzfo1KVLoEPASdzc3FzcHBycfP+HiL2EP5deKziYS4V8cCAl0o+7/5quazT+AuPlk4oYP15GvxMpljlaG0qeUGSHMsN5SELyhCJrmYpCTSaH1pgLMv2pSm6Md08XXk4SWzLKQkTsjL1ZP15tbRkiylBN9ylKuX4xRvmPgrAMhCBBv+kZyxXHhG7ktRwVd6jA+GTrM5k5yCi8HKcg8nOZENh0U5u0UdgqlBQqRFzt6eFSYNGdfMULjeYTnAdskhyTogxYh5hGqTQmCa8xugMZzpYanCGMaxlg1ewQs9DrEKXwJRYXp6IMyK8B9Y3aJt+k6jKNxhe8AVFX/4qHJjmlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABAUlEQVR4Xu2VsQrCMBCGG0opLcHFwcGlDi4Ooovv/2axl/Dn0msFB3OpkA8OpET6cfdf0zSVyl9gnHxSEOP6c+92IsUyj2nyJU8oskOZ7tRFIXlCkbVMQaEqk0JrzAWZ9lgkN8bZp/UvJ4ktGWUhInRmuA6uvwylZYggQzXexiBl28UY5T8ywjIQggT9pmcslx3ju5HWclTcoQzjk61PZOYgo/BynILIz2V8YONNbeJGYatQUigTYbXHu42BRXfSFc80mk9wHrBJckyKMmAdYhql0pgkvMboDmQ4W2pwhjCuZYBVs0PMQq9DkMKXWFycijIgvQbUN2qbdJOKy1QqX/AGVqvlj+wB4gEAAAAASUVORK5CYII=",
     "wiki_name": "Swamp lizard",
     "wiki_url": "https://oldschool.runescape.wiki/w/Swamp_lizard",
     "equipment": {

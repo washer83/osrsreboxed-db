@@ -1,7 +1,7 @@
 {
     "id": 19692,
     "name": "Clue hunter gloves",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-06-16",
     "duplicate": true,
     "examine": "Warm leather gloves lined with wolf fur.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xt2X7UsUURTGvf+J34RAWAKJ2C8bIbEYwtLigLESxjLRZhiK2RsowrJlZu/fhEQpqaQXKPpSX/rDTjxnembOXMfd3Fkd6MBhmGH2nt99znPu6NDQ/xtOoiw0COHk2ePbsrYyVySUk+r5siaB1tsLsrx4tSgoJ/XJcamUx/QKoM1HS7Jy75qEzakioJzMBJNy8UJFxitnZaOzqEDt1Zsyf6MhQb16ElCJZ5DhlSkJalUFgjKAAdj95VBaYaDvlIaHjwvKSW3inCpyuT4hzcYlac0GsUrlMyUFARS8dHepOQigtAI24RMmgGana6oQVYKXxk6PyuqDlgIhcwK5eGG0ANODnQMAz5m8hzJWJbxPKKgEP3XWbv3dUF8RmRS7Z+LeJp4RiioBCol2YiNoHVV9sXknv0o20Q4UQ+HDoKgUnnHiLBRg+gRKQKw/LBTSAhGK6uIeUGhdbhh4gQAEwzM+JxBVQnFOna/swTxyOJkPG/EC0a7Sitm0UL4a/C1aB4OfGkmv5VfuEuldARDq0LRZidZZGLsOQZlpb/G9Q8PJXHP6gIl9Q9sCeJf+sWm9xHu01hodWRodMXCZkby8cH1GYfyCfluYvvlpfOsx+8xfzyeJI6tYNgQjDZMFhLSHK35Df6XX6hFpEES0S3+qOIUWCG2yR4M9IgCIU51AXRXqHtG0cUH7kc1SiZNItZAE8tX3K/WIRA1OFgwK2VkEABbGB7JpQfqC2X3TkS8fnsuvH1vaHizKEfa//HYifaCcqjCc7O2sa37df6lHA4qiXTjwLBDPLB9kAKrYcPL982sF2t97Kt8+vVIl4AMcfLjyvLJA9AynKhmE3OHk989tbdnHt0/0CkAURREkikIhHqwce/utQyZmzh1O/QMgJgoDBF6ypu+VA2gZw2m70DqYfGerHR8BttC/pL9yjnDyfndD3m0/VAi0CK3hP4r+2ycU0dSxBfzb6Rh2f5SwAIXDRGEBBg3zB6IcyXvVTe0zAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xt2X7UsUURTGvR8DSSQplqW0lYRtZdgWwxamNslQTHpDRFi2TI3e6KMQIlIIVkQRFPQp+ta/eeI50zNz5jq6ubM60IHDMMPsPb/7nOfc0YGB/zecRFloEMLJsyd3ZGVppkgoJ5ULJU0CrbbnZHH+WlFQTmoTo1IujegVQBuPF2Tp/nUJm5NFQDmZCibk0sWyjJbPyVpnXoHay7dk9mZDglrlJKASzyDDq5MSVCsKBGUAA7AHi6G0wkDfqY+NHReUk+r4eVXkSm1cmo3L0poOYpVKZ4cVBFDw0r2FZj+A0grYhE+YAJquV1UhqgQvjZwZkuWHLQVC5gRy8cJoAaYHOwcAnjN5D2WsSnifUFAJfuqs3P67oZ4iMil2z8S9TTwjFFUCFBLtxEbQOqr6YuNufpVsoh0ohsIHQVEpPOPEWSjA9AiUgFh/WCikBSIU1cU9oNC63DDwAgEIhmd8TiCqhOKcOl/Z/XnkcDIbNuIFol2lFbNpoXw1+Fu0DgY/PXiqV7j0rgAIdWjarETrLIxdh6DMtLf43oHhZKZZ32di39C2AN6lf2xaL/EerbVGRw4PDRq4zEhenrsxpTB+Qb8tTN/8NL71mH3mr+eTxJFVLBuCkYbJAkLawxW/ob/Sa3WJNAgi2qU/VZxCC4Q22aPBHhEAxKlOoEMVOjyiaeOC9iObpRInkWohCeSr71fqEokanCwYFLKzCAAsjA9k04L0BLPzpiNf9p7Lrx+b2h4syhH2v/x2In2gnKownOxur2p+/fBSjwYURbtw4Fkgnlk+SB9UseHk++fXCvRx96l8+/RKlYAPcPDhyvPKAtEznKpkEHKHk98/t7Rl79+u6xWAKIoiSBSFQjxYOfb2W4dMzJw7nPoHQEwUBgi8ZE3fLfvQMobTdqF1MPn2Zjs+Amyhf0l/5RzhZG9nTd5tPVIItAit4T+K/tsnFNHUsQX82+kYdn+UsACFw0RhAfoN8wdo4SM++1nKCAAAAABJRU5ErkJggg==",
     "wiki_name": "Clue hunter gloves",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clue_hunter_gloves",
     "equipment": null,

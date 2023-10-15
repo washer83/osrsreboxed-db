@@ -1,7 +1,7 @@
 {
     "id": 21185,
     "name": "Bracelet of slaughter",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-02-02",
     "duplicate": true,
     "examine": "Occasionally prevents slayer kill count being decremented.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEElEQVR4Xu2VuU4CURSGvc9hY2Jh6zvZWUlnoY1RYiRGExPBuICgIogbgrhAANnCIsoSkM1g4XMc858RHJbSO1DMn5zMZXKH+81/lpmY0KVL11hJ0GCMTIIs21t0bDZTfnq9GyOCEmTd3aWzg/0emO8ZMwPNTk1pCSXIeXRIHrudbp1nXZjStImBXJMLWrokyG2zkffcSQ+XlxT0eocCaQglyOd2MUj0IUCJYLAHRg2kAZQgl9XKMLHHR8q8RCmfSjGMGgiB2jKtrND83JxMKME104EpZDJULRSoVipRo1Kh0muOsrEYxZ+feQ8cRAcuGgyyoAQ9XV8PwNTLZQaqFov0nk4zFPbkEnEOFP/a8pI8qGEwzWqVr5X3NyrmsgwFQOxD4EV2NjbkQfXDtGoffMU9uAOIr1aL0tEI1xl+h/1+2jIaZUAJfns1zGe9xlccfnN6wo6ghlLhMN8r5/Mc/gs3ba6uyoGCSwACTLvRYCBAYEYFPB6KBO4VoGSSCx77AYpnMcklTHMFCjDtZpNrBzBwAQcjRWogpPPK4egC9f/bP0nwQagXDEnHnoXd6Rmcv0BoBowByUCQ4LThYDjQcQfzCA6h9QGEtcR09UtJX+f7BneSoVB3miOdId+dFu50pLiECY1Wx4BEq6PoscZ9fAM1BIL+hiY6Dmulvf9Co3SpNRxAHf1PSNfIAXTpGnf9AJRBvY8B6IVkAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGklEQVR4Xu2VSUtCURiGO6sg+hH9hJauWtWuTW3CJIqoRRAWNIjZnCkNNGg2okiZhojSYCGK2CgiFW36O1+93029DsvO1cV94eMeL+d6nvt+w21q0qVLV0NJUHXUTYImRkdozmymeMtAMeoEJcgyPk7L01NlMN+tZgZqb2vTEkrQ6uwMOW022llZLsIkW4YYyN7cqaVLghxWK+2trdLRxgZ5d3drAmkIJci1bmeQwNEhXXm9ZTBqIA2gBNktFoYJnhxT7DJA8UiEYdRACNTWUF8fdRgMMqEE10wBJhGL0WMiQS+pFGUzGUrd3dJ1MEihszPeAwfRgd1dXbKgBJ1ubVXBvKXTDPSUTNJDNMpQ2HN7FeJA8ff39siDqgWTe3rka+bhnpI31wwFQOxD4EXGBgflQVXC5F+e+Yp7cAcQX/k8RS/Ouc7w2+9204jJJANK8NurYd7fXvmKw7eXFtkR1FDE7+d76Xicw+1w0LDRKAcKLgEIMB/ZLAMBAjPK43TSuedAAQqHueCxH6B4FpNcwjRXoADzmctx7QAGLuBgpEgNhHRuLiwUgSr/7Z8k+CDUC4bk/OQEu1M2OP+A0AwYA5KBIMFpw8FwoOAO5hEcQusDCGuJ6aqUkr7C9w3uhH2+0jT/TafPta+FOwUpLmFCo9UxINHqKHqscR/fQA2BoNLQRMdhrbR3KTRKl1q1AdRR+YR01R1Al65G1w/lVHnfJFEZrAAAAABJRU5ErkJggg==",
     "wiki_name": "Bracelet of slaughter",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bracelet_of_slaughter",
     "equipment": null,

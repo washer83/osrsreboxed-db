@@ -1,7 +1,7 @@
 {
     "id": 27012,
     "name": "Double ammo mould",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-06-08",
     "duplicate": false,
     "examine": "Looks like two ammo moulds roughly put together with a metal strip.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8ElEQVR4Xs2WzW5aMRCF4+fIhkdA3UdKF1lVQkVFRQGBShApKgFBgOaHJIKgpm2irvLA0352z5VldYeBjmTlxtdcfz5nPPbBwcbhLLT/Ipx9HY/s4erqL9RewQLM5WBgnzsdG/X7try52SeY8zCtet2+dLsejnY9mdjtdLprsABzcX5up7WaVweYu/ncw6DUt/s737cjMOdhZsML+1itFpahjhTqtdteOfppWwQLMDQm/lCp2Fmz6aEAABIbBSQbUY//twDmiomwhsl4Bo7dtl4svI1STVbSeAcwsJmgXDERf5XIgOgZMGxEJcYAQJ+gWEzp8NADlUulTaCC1FilyUhsrVxQ9KFQaiXvefemXC5gNgBy1qy/8x9HbhRgMpRi9QABJiigeSd1ZO3J8XEemNViYONBy16fnwsgVNLOYtK4QMY5I/VQLAMM4Ww+7tj6fmjXl10b9OpeLWz51DgtLBKgkhjQ78sHX48YlwmGcF5yPv7rafbnuW/TYdurJXVQjKa6o+TmNzxnSmLC+dXGdvxcLe1lPbXbWc+G/Ya1GxWvEEDYSf4wXkUyUxITQRntKlVmGqsmN36sJt5O1GIM1giccW+PjvLBIDcWsHoauwooJSyrZ3L6npYjb+NZq1pUZYAzwRDOrxIgJmWH6DgAAIVQg/+lGDmj3UjS07LlDZOooAkgPR5iQJ3yL4+PXtna+xMrlbIksvOSa/U6LHU88E75QRIrZ1QAaYDynQx2OT8puZLagwIkOE1FEFisBCoeF4NsBIMNTASIil58XqnmKKlpUobfUgBZTAabiKCOcidNYp1TshFIxgJJPzD0ZbApjqCSdpDuNCp0useoHgHJWGCA0uUrE4wi1J/4fqOKC1x68VKB1IUrozpxhB3CROSH7sSAaGfJNm332K70a1kifNgVdqCEFIqrNv383aI6aQS1tN1RCjXiUsDzVtVJQ2rpVgiAoEjuHaqTRlBLFVs5tFN10pBasnCP6qSR5az6Z/wGWJUN7nxFGGgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xs2WUU+aMRSG7ZXh0uxOs2iyhMWxIBCGEMeQAALTICoimds0u9v//wFnedq9X5pmdxTYSRqgX/n69H1PT7u3t3Y4C+2/CGdfhwN7uL7+C7VTsABz1evZ51bLBt2uPc5muwRzHqZRrdqXdtvD0W5GI7sdj7cNFmAuLy7srFLx6gBzN516GJT6dn/n+7YE5jzMpH9pH09PC8tQRwp1mk2vHP20DYIFGBoTfyiX7bxe91AAAImNApKNqMfvDYC5YiKsYTK+A8duW83n3kapJitpPAMY2ExQrpiITyUyIPoOGDaiEmMAoE9QLKa0v++Baicn60AFqbFKk5HYWrmg6EOh1Eqe8+zNwUEBswaQs3r1nX85cqMAk6EUqwcIMEEBzTOpI2uPj47ywCznPRv2Gvb75aUAQiXtLCaNC2ScM1IPxTLAEM6mw5at7vt2c9W2Xqfq1cKWT7WzwiIBKokB/b548PWIcZlgCOcl5+W/nie2mHVt3G96taQOitFUd5Tc/IfvmZKYcH61sR0/l4/2uhrb7aRj/W7NmrWyVwgg7CR/GK8imSmJiaCMdpUqM41Vkxs/liNvJ2oxBmsEzri3h4f5YJAbC1g9jV0FlBKW1TM5fc+LgbfxvHFaVGWAM8EQzq8SICZlh+g4AACFUIPfUoyc0W4k6WnZ8oZJVNAEkB4PMaBO+denJ69s5f2xlUpZEtl5ybV6HZY6Hnim/CCJlTMqgDRAeU8Gu5yflFxJ7UEBEpymIggsVgIVj4tB1oLBBiYCREUvPq9Uc5TUNCnDfymALCaDTURQR7mTJrHOKdkIJGOBpB8Y+jLYFEdQSTtIdxoVOt1jVI+AZCwwQOnylQlGEepPfL9RxQUuvXipQOrClVGdOMIOYSLyQ3diQLSzZJu2e2xX+rYsEV7sCjtQQgrFVZt+PjeoThpBLW13lEKNuBTwfaPqpCG1dCsEQFAk9xbVSSOopYqtHNqqOmlILVm4Q3XSyHJW/TP+AJPLRPYQsOx0AAAAAElFTkSuQmCC",
     "wiki_name": "Double ammo mould",
     "wiki_url": "https://oldschool.runescape.wiki/w/Double_ammo_mould",
     "equipment": null,

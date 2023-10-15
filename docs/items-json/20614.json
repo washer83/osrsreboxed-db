@@ -1,7 +1,7 @@
 {
     "id": 20614,
     "name": "Lunar signet",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-08-25",
     "duplicate": true,
     "examine": "An artefact imbued with lunar powers.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRklEQVR4Xt2WQUsCURDHfV+iixehgyAsLIKIyIIiIoKIoRQmhhKm0CJESAcjCiroEBF06dqljzk57zm7s2/d1AV3rT8M6O4483Nm3uwmEv9LAvQrMUqAcdIFBUUWmwRkB0MwLEtCZdodaV64yAAF5McTyJ2PFNASioNlmi1pEUEpoMKlDWa54kCZvb4Dhp/Rz0ylpOkRdiDVEg6ExtsVIQzJC8QhYoBBCcjV6hImnS84QLpXhHKBYmrRKgk4zGb3oToo4bSLoHSPiCVgUinBqGTB0CpCv6jmSPeKUEKCIBCC7cEcCZjbjWVVYodBCbDPKvsCg1qcsNTBLk9YmIFcDPapmp9wvw+UgE4+t0VQ95n1/T6Gr9cRzC7qDGydrZWAbiEvndeXX8GXM2kwkkn4fBrAx30P3m678HJzDI/XbeepH2QbQAm5R7wvWaukjjr6EhRBPFy1pKGPDqAb+QXnWSZK1+vq5coB8/rgviEgrChC3U2bjlESTKhD6IZ/As2fR0rIBVczMtIapsne+JThfdrK9AdwD3EY1e71QLyav6wMNUccqrV4RqFhcruqdg6vAgLRcnQDq3tBUBvCoFRLCAqBCAqvYXUI5nnWcYAQlqpGcYKA6DoH8jL4JGQldCicFTepFwi/bwK1CmYjoHmrIaFwcHnr6GlObaFjzkF523CuCCgkDElBTWtVCcGr5C2zO0+UgN+jYecwW7RK1yLgUVNCUVKskh7MD0JygThUiOpw+duwXTC3gv5YIaUH2DYYr6Ae68/oB9YQnnW6Io9fAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQElEQVR4Xt2Wz0sCURDHfYeQQhRRFFf8CSpp5A9SkpQEiZAuRhRU0CGCoFP3Tv3lk/Oeszv71s3dBXetLwzo7jjzcWbe7MZi/0sC9CsRSkDqtAsKiiwyCcgMR5AyDAmVbHek2eFCAxSQm0whez5WQGsoDpZstqSFBKWA8pczSJfKJlS6PzDB8DP69apVaXqEHUi1hAOh8XaFCEOyA3GICGBQArK1uoRJ5PImkO4VoiygiFq0SQKOMpl9qA5KmO0iKN0jZAmYloswLhowMgowKKg50r1ClJAgCIRgezBHApazxroqkcOgBMzOyvsCg1qdsMODXZ6wIAO5Guyemp9gv3eVgE4u6yOo9cz6fp/A1+sYFhd1BrbNtkpAN5+TztvLr+BLyQSk4nH4fBrCx30f3m678HJzAo/XbfOp72YeoITcI/aXrE1SRx19CYogHq5a0tBHB9CN/NzzrBMl6nX1cmWC2X1w3xAQVhSh7uZN0ygJJtQhdMM/gebMIyXkgqulktIa6TR741OG92kr0x/APcRhVLu3A/Fq/rIy1BxxqNbqGYWGyWcVtXN4FRCIlqMVWN1zg/IIg1ItISgEIii8htUhmOdFxwRCWKoaxXEDouscyM7gkJCV0KFwVqykdiD87gVqE4wnoGWrIaFwcHnr6GlObaFjzkF523CuCCggDElBzWsVCcGrZC+zNU+UgN+jYecwPlqlaxXwuCmhKClWSQ/mBCFZQBwqQHW4nG3wF8yqoDNWQOkB/AbjFdRj/Rn9APzTNhO7c87GAAAAAElFTkSuQmCC",
     "wiki_name": "Lunar signet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lunar_signet",
     "equipment": null,

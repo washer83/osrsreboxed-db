@@ -1,7 +1,7 @@
 {
     "id": 14942,
     "name": "Gold leaf",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "A very delicate sheet of gold.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABP0lEQVR4Xu2VXQrCMBCEzSV86UuP4D0VVEQRFRQVRVE8YmQaRjdrfxPpUwYG2pDuftmkm8EgKSkpqU7G/rpX+clXy6E9HTN72Gd2s86K9x6hTJF0t3UAl7N75hhgFvOhnU0JVedomQ/E7eqMZ4wRBgYcxlA1PRdjXMAfoIx93DP7evowrI4EwDxpCcQFIN4oz2OgzAeGgasAykwowNARVXLV6QJQZrkYWSmdrYUc0D+soQK2zhSV0YFjXAals1bIeHuOA6yDh1r+dR2q5APROnioAUWYlkCQDxVzqMvcoTpSrkOz1+igVZZdHd/KxQRWR8p16rZQ7NoAwje0bKiB1ZEytR1ZWl4hsu/AuO8mY3ffRQJBzVDcJkJg/vf++jpiu7T8wBqI50XPI4C0jhwsP6ifuBeAJunEvQMkJSVF6A1e/yi1X6kL/gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQElEQVR4Xu2VXQrCMBCEzYP0Gj2CR1JQREREFBQUERFFPHRkGkY3a38T6VMGBtqQ7n7ZpJvBICkpKalOxv66V/nJV8uhPR0ze9hndrPOivceoUyRdLd1AJeze+YYYBbzoZ1NCVXnaJkPxO3qjGeMEQYGHMZQNT0XY1zAH6CMfdwz+3r6MKyOBMA8aQnEBSDeKM9joMwHhoGrAMpMKMDQEVVy1ekCUGa5GFkpna2FHNA/rKECts4UldGBY1wGpbNWyHh7jgOsg4da/nUdquQD0Tp4qAFFmJZAkA8Vc6jL3KE6Uq5Ds9fooFWWXR3fysUEVkfKdeq2UOzaAMI3tGyogdWRMrUdWVpeIbLvwLjvJmN330UCQc1Q3CZCYP73/vo6Yru0/MAaiOdFzyOAtI4cLD+on7gXgCbpxL0DJCUlRegNBr27V+kU2xUAAAAASUVORK5CYII=",
     "wiki_name": "Gold leaf",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gold_leaf",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1454,
     "name": "Cosmic talisman",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChUlEQVR4Xs2XX0sUURjGd76BV97szYAXgVd9AcEuwpsQJElMkkw0URM3/2WWbLrh+q/Wf6ulsrVbhrqIReJFXUXXUfQJ6i5ESvoAbzzv7Jk55+zaop6Z9YWHnWF2Zn7znOe8ZyYUMlIWOToXZdHPHxdoemwsB1VyMA9IqMRgDpBQYbBA4TwgGUZXQFCeA9+/VeRBCEV6y1g+QjkQ0eFhuheJUE9HB3W3t/Mv9icfRRlAOCdgLto2S7/aKUp+MotW5+dpIjpKo0ND9PGD7erm9Ua6VldHV2pqtPwYhpED+nwuQbOxGD1++IAh4Mjdri7qbG2lW01N1FhfT5erqxUI4zACaDOVooWpKQYSrtzv66P+O908ZG3NzXSjoYFdEkD6Fc9QFh0eVCpA2XSaMs9WKBGPu0AYtne7zrZwCVB2OJxz1VjlA73f2qS3bzZoJfHUBRofGXG3EerbLS0MJYAMumTR3yMVaD+bpd3XryiVTFLyySxDINz60MkO+Qq0t71FO5kMbayt0vriIkMhT4BCCxBQCHZgQMgRgF4uLzPU0sw0H8esQ57gkBxqg0Aoi47+5AdbAKEfwSWEHMcHe3t4pl2trc0F2pd1zKKDXx4UBCDkCD0JMOjMGDKEGvm5VFWl/N8XqN+HlSz5Rv9TfKKc5dPQobwmWUyZdDhYmIH+MtbXLxWsz59sVy9SYVcGZ5m6MBYC0o8XkiF3ig+NfLNi0q9+wnLCu79nKzoOSD/bh7Lcdek4GBlKP9uH8oAgHSI2Xl4alyD9pR2voTJQgC6h1E8bASMDLcx5fUY/26fynBJA2MeCCxihAF0KhZynV3uLABL7hqb3yUrtKypI4DCF6tyABFH/AMhrba6bibJpAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACg0lEQVR4Xs2Xb0sUURTGdxBZVsIPoET6IsEM/4SZYaahm5ZhlpluuGla/su0sNhotQzMhegPJL6KXkafICj6EtHrXkiBIPQdTjxn9szce3d1se7MeuBhZ5idmd8897nnzkQiVsohVweiHPrx/RCNDw9noYoO5gOJigzmAonyg4UK5wOpMKZCgvId+Pa1LAdCFO8uYQUI5UIM9ffTpXicutrbqbOtjX+xf/P6EAOIcwLTWFXFMq/2D6U+mUNLMzM0em2QBvv66MP7mKeTjQ10vLaWjlZXG/mxDKMG9MH0FE0kEnTj6hWGgCPnOzrobGsrnWpqooa6OjpSWalBWIcRoLVUimbHxhhIXLnc00O95zp5yE43N9OJ+np2SYDMK/5HOfRrq1wDyqTTtHx/kaaSSQ8Iw/b2tbstLgEqFo1mXbVWuUDvXqzRm+ertHjntgc0MjDgbSPUZ1paGEqALLrk0J8dHWgzk6FXz55San6e7k1OMATCbQ6d6lCgQBvr6/RyZYVWHy7Ro7k5hkKeAIUWIFAIdmhAyBGAniwsMNTdW+N8HLMOeYJDaqgtAqEc2tnODbYAoR/BJYQcxy92d/FMO1ZTkw10IOuYQ1s/fSgIQMgRehJg0JkxZAg18nO4okL7fyBQ27/LWeqN9lJytJQV0NCh/CZZSMvpaLgwF3pLWF8+l7E+fYx5epyKerI4y/SFMR+QeTyfLLlTeGjUmxWSefV9lhvezY2Ypt2AzLMDKMdbl3aDUaHMswMoHwgyIRIjpcVxCTJf2vEaqgKF6BJK/7QRGBVodtrvM+bZAZXvlABhHwsuYEQhuhSJuE+v9xYBkn1L03t/pfcVHSR0mHx1YEDCqL8L0vE5oASEVAAAAABJRU5ErkJggg==",
     "wiki_name": "Cosmic talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cosmic_talisman",
     "equipment": null,

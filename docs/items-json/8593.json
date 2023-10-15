@@ -1,7 +1,7 @@
 {
     "id": 8593,
     "name": "Teak clock",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": true,
     "examine": "How does it all fit in there?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADP0lEQVR4Xs3XbUtUQRQH8N1v4kfwfa8iohdGIAURkmRSgmYYloqKqItmliVlj2a7qbVqbbaIaZGQmFYvgh6kr3Pa/1z+67nHWdnr3sKBw957d9b57Tkzs2MicfBbUvzhe/+ft6QsTvdJLtPr4lW6R+afdrsgYn3plnzKj8ra2xselP0SFcMDEFEAMSzm45vrsrowFBoY93jPRhgVCZmU/Ez/LhReAWEQtDKfkqWXA64vXn0g9Nfo7a1p+bkxuT8UQbhmdgj6kBt2IPYtBcLnfm9m5M+3bCHmHAhjVFdVubCjmxaknd+aIAzqAy1nB4sgXPtAG8tjIRCuCbKjm5YMlQEDcXLj3oIwOBAsbynQ1sp4fCBmCc98IGaSIGTNgr6+16BsNBDnBUF6MlYSGvTr8zP3LDII91P3r8jkvTZ5cOeSTIy1yN3RZhkbvig3U40y1N8gqd566e8+Kz3XzkhX+2lpbz0pbS210tp0QpoaaqSx/picqzvq/lYsoOePr0r6YbtDPRq/7GBAjY80OdTIwHkHA6qvs86hOtpOOZhGEbT9ZbaI2RfoxVSnzEx2OJTNFlA2WxqFTDVfOO5QPpAdvUQLao4Jitf5TLdk010OZbMF1JFD1VJbc7iIsuVDloDaJyjYg5AhgnKzhX1opsehMDizRRRByBTKxywBxSwBVQSpTdGOblqw5C0oP1dY+tk+h0K2UEJkiuUDSM8pZAnPGJzksYGWXw86FDKFAVg+zik806uPWWLpOMErBiEIWloYCH1rnSXcc+XpCY7neoIHoLkipiwQVpgFreRSDsQssWzMEueQXnW+rYAZKjM7aDsgovBsdXGoWDbOJb3qCPLtT7p0sYKYJYBslggqtWkSRRBRdnRPC0C6bO5ZftiBbJZs6TCf9kLhb2EPirAPhUEaFUfgxzUyCKvMgnikwJEDBy0cJ/QZCCcCBH5qePRAXxxV0P/72oT8WH9SGciuNjzXIH0GIoYg9gVo893tMKiwB0Xeh3xl0yBc7wVihtA3FpCvbBqE9/R/JRqEfgCxXBWC0HZPRl/Y+cOwIJylNYgRAZRIcFvfKyxQh54/sYDKbRZZDpax0/c/NYv0hf3MgW5/AUY7JT6nor5yAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRElEQVR4Xs3XbUtUQRQH8N2P0MteVIYUWFAZZkaiSYalwq5oumhmWUoZPVkmZlo+ZJmxIGZSkBCIiZSvehFFUZ/s5H+W/3rucVb2urdw4LD33h13fnvOzOwYi+38Fhd/+N7/5y0uM8PNMj3U5GJqMCmTDxMuiFiavSof012y+PqyB2W/RMHwDIgogBgW8+HVJVmYag8MjHu8ZyOICoWMS3qkZRMKr4AwCJqfTMnss1bXF68+EPpr9M/VYfm+/GB7KIJwzewQ9P5lhwOxby4Q/u7HypD8XhuTP2sTDoQxjhUVubCjm5ZJO781QRjUB5obb8uCcO0DLc91B0C4JsiOblo8UAYMxMmNewvC4ECwvLlAq297ogMxS3jmAzGTBCFrFvTlXW8WhAgF4rwgSE/GQiIA+vTIPQsNwv3ArXPSf7NWbl8/I33d1XKjq0q6O07LlVSFtLeUS6qpTC4mjkvywlFprDsidTWHpLa6RGoqD0plebFUlO2XE6X73GdFAnp877wM3qlzqLu9Zx0MqJ7OSofqbD3pYEA1N5Q6VH3tYQfTKIJ+fR7NYrYFejrQICP99Q5lswWUzZZGIVNVpw44lA9kR8/RMjXHBMXr5FBCxgcbHcpmC6i9u3dJSfGeLMqWD1kCapugzB6EDBE0Pbq+Dz1JOhQGZ7aIIgiZQvmYJaCYJaAI0puiHd20zJK3oPTE+tIfa3YoZAslRKZYPoD0nEKW8IzBSR4ZaO5Fm0MhUxiA5eOcwjO9+pgllo4TvGAQgqDZ562Bb62zhHuuPD3B8VxPcHwWdmli8gJhhVnQ/HTKgZgllo1Z4hzSq863FTBDeWYHbQNEFJ4tzLRny8a5pFcdQb79SZcuUhCzBJDNEkG5Nk2iCCLKju5pGZAum3uW7nAgmyVbOsynrVD4LOxBIfahIEijogj8uIYGYZVZEI8UOHLgoIXjhD4D4USAwE8Njx7oi6MK+n9d7JNvS/cLA9nVhucapM9AxBDEvgCtvLkWAGEPCr0P+cqmQbjeCsQMoW8kIF/ZNAjv6f9KNAj9AGK5CgShbZ6MvrDzh2FBOEtrECMEKBbjtr5VWKAOPX8iAeXbLDIfLGOj739qFukL+zc7uv0FRn0mmA56ft0AAAAASUVORK5CYII=",
     "wiki_name": "Teak clock (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Teak_clock_(flatpack)",
     "equipment": null,

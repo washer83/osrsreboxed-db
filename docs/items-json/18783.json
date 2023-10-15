@@ -1,7 +1,7 @@
 {
     "id": 18783,
     "name": "Empty oil lantern",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-14",
     "duplicate": true,
     "examine": "Put oil in to complete it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xu2W628SQRTFu18aP6gkfjP0gaU+glYpj11AeZTyFLo8LamNTR+xNrY2xhj//SNnhsvuFk1M3AVjepIJLDvs/e29Z+bO0tKtbrUQGZgdC5OBnXweVjqNrVhsOhYEZeD64gIfRiPs93po1+sKrttqKaB4JDJPKA3z6eQEx+8PpkDM1MejIwxse55ZMhQIIfhdgJq7u0jE47g6P8fp4SEOhsN5QGnTEogZmTWzc1+yFGDpDFUOBuNntVRSAS0rh3Q6g7X1TSwv31EeIqwX2HcZ+Hx2psrxuyFlYvmYHYKxjALuI5gxE5xw7kEYrjYCCZSAMVNeMF/k9Yd7EIbGJtCvoMT84iffPKUfpJe7G9C0skimLKyuRZWH5HcpoxvENxhH2ksSRIASSXMGiOA0vzM3EOmSuYHSZhbbCRMrqxseoG+Xl/MBkjJw1GpN7JRryBcriD5+jvDKIw+QF953Gfj+5UoZV4JWqg0FVBgDbb2y8OTZS4RCD9Q9zvWW13fptxaYwXCEbu8d7M4QrXYf5Uob2TdVbCdf4/4EikBsuPo/vkuvnJswbbuPZquHUrkFKzfuZ6n8uHQR3L0XUvMlowFkadKjJjCd7hB79kABNZpdFEpvkclVkDQLyk8Pw+vT40lgQDR0f7DvBdrro9boKCCWLGUVEXuRxMZmTAFx0wwMiG/74+u1MqwbqFq3URyXLJevwcyUEE/kFAQ9594cbz7xL2WoNvA0Gp1CMaD7oMaWwabKgxrnc06gQFw1AiVANK70NN7zdnd9ZImEw5Nr36UDCJQEJZRzbNWDWZR+Jg02gCxRTlCnYTrXbhj3JurMDUDycHcA7/UsdGAwf6p/BuS/1k/Wk1ouVGrZuQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfElEQVR4Xu2WCW/aQBCFs01p1JSScjQtoFKOkAsCtjEQbhyIRRMatf3//+XVs6vBa9xKlWpDVeVJKzBePJ9n3u7swcGznrUXCYTH3iTwqVDAaS6Hk1RqM/YEJbCYTGC1WmheXaFeqUi4i1pNAhnl8i6hFMy410PXaG+AKFMD28b1+fkusyQkCEHQdwaqlkrIptOYj0bomybajcYuoJRpCYgyEjazf5+zFGPphCwHBaPPz8WiDGh1+mgbNrK5AoR4IT1EsEHgyCUwvb2V5fjd4DJR+Sg7BEZlZPAIwUQoOMHpg2BotREQQzEYZSoIFomC/tAHwZCxCehXUGx+9lNknlIPUstdB7Q63oq7sZDJfpQe4t+5jDpIZDC+lJc4CH2aVg+NZhiIwMn8/txYpEqmAxlm1wMykc4EgdzZbDdAXAZZFucew7EDuzfB6YcSUifZAFAQPnIJrJy5NC4Hnc6WGI4cdPtTlGtN5AsVJBJH8h7NDZY3cqm3Zpj10w+sHr7h3v0KZ/HoQS1wfTNAxQN7mXilgD0garjqP5FLrZxtmLvlGlPnC6yug8tGH9WzFpJv0zg8TMj5nNEYsqQMzTDu6glLdy2BxtMVjM5cAtXqBrLvC3iTfLc5nsQGRIZ+XH8PAnnlGo5dCUQlO7uwkC9WkcnlJRBtmrEB0ds+LBfSsDrQYOTCtB00WkPULzsoV9XRgzynb47bT/xLCdkGksfHPpQXUD+oUcugpkoHNZpPc2IFolXDUAxExuWeRveC3V0dWV4fqa1g+4kRSAVgKA5KUP6xVQ3KIvczbrAxZInkB/Ubpn+tw+ibqD83BvHD9QDB6zB0bDB/qn8G5L/WT02LB0V/OuOGAAAAAElFTkSuQmCC",
     "wiki_name": "Empty oil lantern",
     "wiki_url": "https://oldschool.runescape.wiki/w/Empty_oil_lantern",
     "equipment": null,

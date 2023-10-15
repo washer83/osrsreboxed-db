@@ -1,7 +1,7 @@
 {
     "id": 8328,
     "name": "Teak portal",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrklEQVR4Xt1XbWsTQRDO/JN+FgoilFKC0BBCCS1iaUg5QkJriZHYStIeSY1tCcZWbVFrtLUo4jviB0H84s8bnR33bm97vbvdXiz4wHChtzP77Owzc9NM5v8B4Gm7EPDmnWYJh4Mm7qxXsFGdxWJu4iJIAd5rOXiwtYLd+lXcW5/B/loee41pdG9ksV3L/stsAT7p38S3T9ti853519idG+LW9Vfi9/3Se0GS3q1WpkZNDPDk8R0vE6e1EzQiRtnyiaUKENeiErk8NhZpcp304b+lAhBZkScNbhoHwO1mLs0sccB6masnOREVfCAZQ39rAK4m0oI9GQnW1PL8lfOQ4opSr0pfkQyAzXwfh7WfeMuZtI0FOOjUhJDTyM7da0d4WP1xHoEDvty9HbgufUVyAD5a/CoIkR4t4oHowp9edLyuaxhAA+Be+TM+q3wXXX2pXDDVETdAcm7ktlMldLz0y0aTgF+OujhoFdCZWjV1DoF/ZRTTUAaAH5673gezOO6YOEcARJWRqK0I0UlIgAsTdRPnMwC4u7mM3056og9RkzSIyYTkOFHJtk2czwDgu8MNr0CsCFGFUWrr0z0T5xBw+5D9jMyw9JkQPSmIRUVoAHH99JRN0ZoQPQ0FqMEfP9RhTe3+ukcIfELS2R9JTQC4ubYoDhTMMuCbg5Y9IbJkIvTXk1FVEZngx/TPAd2qGH/j43kAIWh6SsckI2st64oWkb/E/4XQepWMvzlXnDEhZ3ZcceKrIzESubnCpGgH7eK++IrL4f5B6aPoyEQmeqAD3Ggs/D1MLJjQ8UP9k+FrShpVD3X0fbfoNVLSWzQZibj3HphQmPBktsiIMBEgk01UraQkm8W9z1AgOjERirpnlZhukkiYnyU4Q0kmO3XzERBRwae1GKRGB3ktIzx1JH4D/4y7QiJSEJMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrElEQVR4Xt1X308TQRDu/APyIIFU0hZL0EAbzjYFbay1xBYuLbECEiugEH9WUYkmRqNRY+KLiQ+++PeOzo57t7ccd7fLVRK/ZLINuzP7zezM3JDJ/D8APCqnAr682yzhcNDEzZUKNqozWMyNnwYpwFttB/fXr2Cvfg53Vs7j1nIe+40pdC9nsVPL/stoAT64fRXfPuyIyzfnXmNvdojrF1+J33dK7wVJ2mtVJkdNDPDw/g0vEkdzJyhEjKLlE0sVIJ5FJXJpejpS5Dmpw39LBSCiIj0NXhoHwI1mLs0oscF6masnOREV7JC0oe8agKuJcsGejATn1NLc2ZOQ4opSn0o/kQyAzfwWDms/8ZozYWsLcNCtiUROIzo3Lxzgk+qPkyQ44PPt64Hn0k8kB+C9ha+CEOWjhT0QXfjTs67XdQ0NaADcKX/GR5XvoqsvlgumecQNkJQbuY1UCb1Y/GWTk4BfDno4aBfQmWyZKofAfzKyaZgGgB+eut4HszjmmChHAESVUVJbESJPKAHnx+smyscAcHttCb8d9kUfoiZpYJMJyXGiku2YKB8DwHePV70CsSJEFUahrU/1TZRDwO1D9jMSw9JnQrSSEYuK0ADi+WmVTdGaEK2GCajBHz/UYU3t/rpGCHxCUtkfSU0AuLa8IBwKRhnwzX7bnhBJsiT0z5NQVRGZ4Mf0j4NuVYy/8fY8gEhoWqVikpG1lnVFi8if4f9C6LxKxr+cK86YkDMzpijx01EyErnZwoRoB53inviKy+H+bumj6MhEJnqgA1xtzP91JhZM6OVuS/PCzykpVD3U0ffcotdIKd+iyUjE7XtgQmGJJ6NFQoSJAIlsomolJbksbj9DhshjIhT1zioxXSSRMD1LcISSTHbq5SMgooK9tRikRgf5LCP0OhK/AU/eYGu9QzaSAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

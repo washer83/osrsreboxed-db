@@ -1,7 +1,7 @@
 {
     "id": 9820,
     "name": "Gilded cape rack",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6ElEQVR4XuWWT0sCQRjGm2/QqYsXwYOwpy4REUEgIWFIoRgmBhJWhAgVihEEggRBIEF0kL5AQbfCL9ChiDoEEfQNOnSITp3eenaYnT8anWbW6IGX3XUZ5sc8z/uuQ0P/Q4zMX0IUo53VYRoQKEYv3Ti93XhUSk+GDcXo+SpGn48e1ZZnA6DRaNQ1FE6B0dNljD7uPf8eQCgHQHxztW7PY/R+51Ell1AA+DvcWwLiGxzWR6jTjATV7USpmp+h8sJUD4BVmNfrOO2V037hGRCoRilF65npHhjLYgFMMTWh2bW7MqflxVxpUTqEOBFc+9nlRHJDdXOmWaaCm+utSp4EC7oLNQBDkQcc1xCHoj6HtgpJerjoHYqOgs5n0WkrQmdtPoewcb+hKJ4tnhJvf7P1VXvE5uLeIgzE7UDbi9ZHqW1vrnAgeTJod4DhKqB4OZbICWBOGkU/1LANUKLjzDUO9B3uzUVqbWTouF7wgRDsbGIsLPsYHVRz/uYCqLk2T/nkuCsgffbArv1KVgOCXY4GIu8ukRO0vrBLBRKwTtodAO3tvG8TAGCPAECwHX/xJdBRbckHkLbwd2h9EWhztSXpGdJPggccFsop7kDq50C3hduGUv9fy/ehiEOpAXeQpd/0k6Uhqr+lf1xf91PMggb52TQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5UlEQVR4XuWWT0sCQRjGHSIkkT1FUYFpkpFK/iEk6Q+CVCgSQSBIEARCEHQQ+gh16FrUV+hUENSpQ9ChT9GpW9C561vPDrM7M2t0mlmjB15212WYH/M877tGIv9DjPRfQhSjreUhGhAoRi9XcXq7caiSmQgbitHzRYw+Hx1qLM54QMVk0jYUToHR03mMPu4d9x5AKAtAfHO5bk9j9H7nUC2fkAD4O9wbAuIb7DeHqdeOenXZG6F6YZqq85MBAKMwr9dx2qlm3MIzIFCtSppWs1MBGMNiHkw5Pa7Ytb00q+RFX2lQKoQ4EVz72WVF/oby5kyxTAbX1xuVfxLM6y7UAAxFHnBcQxyK6hzaKKXo4Sw4FC0Fnc+i406UTrp8DmHjfkNRPBs8Jd7+euvL9ojNxb1BGIjbgbYXrY+S215fYUH+yaDdAYargOJlWSIngDlqld1QwzZAiY7T11jQd7jXF6izlqXDZskFQrBzidGw7GO0V8+7mwug9socFVJjtoDU2QO7dms5BQh2WRqIvLtETtD6wi4ZSMBaaXcAdDcLrk0AgD0CAMG2/MX3gQ4aRRfAt4W/Q+uLQOurDUnNkHoSPOCw0J/iFiR/DlRbuG0o+f+1/z4UcSg54Bay9Jt+sjRE9bf0j+sLa6yUKErzT/YAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 9889,
     "name": "M. treasure chest",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-10-18",
     "duplicate": true,
     "examine": "Mahogany treasure chest.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3XbUtUQRQH8N1v4kfwfS8jelEEUiAlSSolaIZhqaiIumhmbUlpT2aaWqvWZouYFgmJafUi6EH6Oqf9z+W/nnuclb3uLRw47L1zZ3d+e+ZhZxOJw1+S4g/f839ekrI00yvZ6R4Xr6a6ZeFplwsiNpZvy6fciKy/velB2S9RNjwAEQUQw2I+vrkha4uDoY5xj2c2wqhIyKTkZvv2oPAKCIOg1YWULL/sd23x6gOhvUbvbM/Iz82Jg6EIwjWzQ9CH7JADsW0xEN73e2ta/nzL5GPegdBHZUWFC9u7KUHa+a0JQqc+0EpmoADCtQ+0uZIOgXBNkO3dlGRoGNARJzfuLQidA8HhLQbaXh2ND8Qsoc4HYiYJQtYs6Ot7DcpEA3FeEKQnYzmhQb8+P3N1kUG4nxy/KhP3W+XB3csylm6WeyNNkh66JLdSDTLYVyepnlrp6zov3dfPSmdbtbS1nJbW5ippaTwljXUnpKH2uFyoOeY+KxbQ88fXZOphm0M9Gr3iYECNDjc61HB/vYMB1dtR41DtrWccTKMI2vkyV8AcCPRiskNmJ9odSmerub7aoXS2UKdRyFTTxZMO5QPZ3ouUYMwxQfG6MN0lmalOh9LZOnqk0gHqz1UVAvd2+JAloA4ICvYgZIig7Fx+H5rtdiggAEPHDA0iClkCilkCqgBSm6Lt3ZRgyVtQbj6/9DO9DoVsYQgB82WIID5HcJLHBlp5PeBQyBQ6YKaKgVCvVx4neNkgBEHLi/2hb40s6WGzgQmOdnqCB6D5AqYkEFaYBa1mUw7ELHHYuPK4HWCP4qrzbQXMUInZQdkFEYW6taXBwrBxLulVh62g2P6khy5WELMEkC9LpaAIIsr27ikBSA+bq8sNOZDNUlQUPgt7UIR9KAzSqDgCP66RQVhlFsQjBY4cOGjhOKHPQDgRIPBTw6MH2uKogvbf18fkx8aT8kB2taFeg/QZiBiC2BagrXd3wqD8HhR5H/INmwbhej8QM4S2sYB8w6ZBeKb/lWgQ2gHE4SoThLJ3MvrCzh+GBeEsrUGMCKBEgtv6fmGBOvT8iQVUarHIUrCM3bb/qVikL+x7DnX5C5NOHIK7xYrDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADO0lEQVR4Xs3XbUtUQRQH8N2P0MvelBEFFpiGqZG4SYalgoqmi2aWpaTRk2VipuVDlhkLYiYFCYGYSPmqF1EU9clO/mf5r+ceZ2WvewsHDnvv3Nmd35552NlYbO+XuPjD9/yfl7jMjbbI7Eizi5nhJpl+2OiCiJX5a/Ix1S3Lr694UPZL5A1Pg4gCiGExH15dlqWZjkDHuMczG0FUKGRcUmOt21B4BYRB0OJ0Uuaftbm2ePWB0F6jf66PyvfVB7tDEYRrZoeg9y87HYhts4Hwvh9rI/J7Y0L+bEw5EPooLihwYXs3JZ12fmuC0KkPtDDZngHh2gdaXegJgHBNkO3dlHhgGNARJzfuLQidA8HhzQZaf9sbHYhZQp0PxEwShKxZ0Jd3fRkQIhSI84IgPRnziQDo0yNXFxqE+6Fb52Wwv0Zu3zgrAz0JudldJT2dZ+RqskI6Wssk2VwqlxpPStPFE9JQWyS11cekJlEo1ZVHpbLssFSUHpJTJQfdZ0UCenzvggzfqXWou33nHAyo3q5Kh+pqK3cwoFrqSxyqrua4g2kUQb8+j2cwuwI9HaqXscE6h9LZSpQXOZTOFuo0CpmqOn3EoXwg23uWkh5zTFC8To80yuRwg0PpbB3Yv88ByosLM4F7O3zIElC7BKX3IGSIoNnxzX3oSZNDAQEYOmZoEFHIElDMElAE6U3R9m5KeslbUGpqc+lPtDgUsoUhBMyXIYL4HMFJHhlo4UW7QyFT6ICZygZCvV55nOB5gxAEzT9vC3xrZEkPmw1McLTTExyfhV2amJxAWGEWtDibdCBmicPGlcftAHsUV51vK2CGcswOyhaIKNQtzXVkho1zSa86bAXZ9ic9dJGCmCWAfFnKBUUQUbZ3T0mD9LC5ulSnA9kshUXhs7AHhdiHgiCNiiLw4xoahFVmQTxS4MiBgxaOE/oMhBMBAj81PHqgLY4qaP91eUC+rdzPD2RXG+o1SJ+BiCGIbQFae3M9AMIeFHof8g2bBuF6JxAzhLaRgHzDpkF4pv+VaBDaAcThyhOEsn0y+sLOH4YF4SytQYwQoFiM2/pOYYE69PyJBJRrschcsIyttv+pWKQv7Hv2dPkL9QsdmcTek/kAAAAASUVORK5CYII=",
     "wiki_name": "M. treasure chest (flatpack)",
     "wiki_url": "https://oldschool.runescape.wiki/w/M._treasure_chest_(flatpack)",
     "equipment": null,

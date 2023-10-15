@@ -1,7 +1,7 @@
 {
     "id": 15090,
     "name": "Magic shortbow scroll",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-09-18",
     "duplicate": true,
     "examine": "Use on a Magic shortbow to imbue the bow.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xu2Xj2oTQRCHs2/SR+hLFCmKFJRKDSkkhViMStqkvbYx4UpM/xhDYkm1UEREfM7VmeN3nUz3Lnd7B4XiwEeSu92ZL3Nhd1Op/I/HE8YuUjQK5TF20mvai6Bhh51tG+7VCshFc2b9N5wz/3wOY29GH+y34TuGEknudy+Z8fGOnZ+27FX41k4/bvG11ZWVvFKRkJSipHm4PW/H80mGOnQZbDIeXTKcEEk1dP3H5Z79Oe4wvyZd+3t6aP/MAn5P1+i+lCLJLyevGI8uLT4ykCYEtAyJYP7XwWvGS0jLuISSoPtyPJiHVcZDiCL6UYbvazGDVjUROY4YtreZ0X6dueg2+BUyHkIUhpMmFZOgMIoT48OdGFzz7A4iEtKFKfHs+Clz1XsWc91/znwPN+L3uIfxBYUo/i2SwboTFJFiEEmTKSBk7OfuupNlUlqGxpbSHS3ikpJi8hFKmdKEzvafOFkmpWVKEHLLDNtrmaS0TClCVDyJZVJapoDQ3U4tBfSq60ILaDyEDO/M2H90wSxgU9Yy3kJIqgvp44ULKSQ3X71t6Kopcbep6mJZwLkHp0M6nBEkQ6t8TqF0GX1qdAEhfIYQ9kAvISmAhFmQ4+ksLj/jRJBbSCcFurgL19zRQZ3p7W7Zo2buk6JZSAKkVFrX9OOTnB28tJ86L5hoSckUhv/ySEgoSpAdktO/PwihQ7m6pEGCrGAeHVWxBNA/DZJCPl01NXSB3AkqUQ79xTy6U37oL/agMr7xF/C/PKkOKLV0AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACL0lEQVR4Xu2XiUrDQBCGu0/ihQoqXogK3lhttaL1qNR6VfEoigqCCIL46Ksz4Y/TcZMmm4AgDny0TXZnvk7K7rZQ+I+/E8a2kzUy5TH2sjpnTysztl6asrW1yQxywZzrvXnOmX4+h7FPjVX7UF9mKJHkZ/eiaW7P2rvDJds6WLRXu2N8bby7O61UICSlKGkank+K4XySoQ6dVUYYjy4ZToikGrr+crZmX5sl5u2ybN+vNu3HTYXf0zW6L6VI8mJnlPHoUvsjA3FCQMuQCObf7o8zXkJaxiUUBd2X48FdbYLxEKIIfpS1lcmQ/aWJSOQ4ol6cYhrr08xpeYZfIeMhRGE4aVQxCQqjONHcnA3BNc/uIAIhXZgSX2/3Ma1qf8j93gDzWBsM3+MexmcUovhaJCu9TlBEikEkTiaDkLHn5V4nnaS0DI3NpTtaxCUlxeQjlDK5CR2v9zjpJKVlchByy9SLXYmktEwuQlQ8ik5SWiaD0PdOLQX0qutCC2g8hAzvzNh/dMEkYFPWMt5CSKoL6eOFCykkN1+9beiqMfG9qepiScC5B6dDOpwRJEOrfEqheBl9anQBIXyGEPZALyEpgIRJkOPpLC4/40SQWkgnBbq4C9fcxsY0U10Ys1tzqU+Kpi0JkFJxXdOPT3K8MWyPSkNMsKQkCsN/eSQkFCRIDsnp3x+E0KFUXdIgQVIwj46qWALonwZJIZ+uGhu6QOoEhSCH/mIe3ck/9Bf7VRnf+AR3EknTlSiQUwAAAABJRU5ErkJggg==",
     "wiki_name": "Magic shortbow scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_shortbow_scroll",
     "equipment": null,

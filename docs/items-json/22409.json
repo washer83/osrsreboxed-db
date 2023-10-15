@@ -1,7 +1,7 @@
 {
     "id": 22409,
     "name": "Potion",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-05-24",
     "duplicate": false,
     "examine": "A strange potion.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1ElEQVR4Xt2Xa0sbQRiFnX/iLyiKX6RKvFRjNDc1MVXTjTHaxJgQN+ZWcxGttiJYLBaRSiktpfRC1dYmWtr6ofSHnfrOMpvNmi9CMoEeOARC2Hly3jMzSVvb/yGGWrdUDM+37djI3UMy0gPF19FqKIa/lQj+nIe5j/cn8LQ40koopsNcnS3gaG8cW2vDHKijvV02lNYZAfTrJITDXRcfXwv6xKAoIQSDi3o6l5+CONhxoJQegN3uhsvtkQnFEIks3/ADZR73pxVMeqYxbB2TOTqGxIrKvbKS1O33B+Hz+TE25kJPb59coGw2pzudySKVSmNmNgCny4P+/iF0dHbJBCIxnJx+RaVyiXL5At/LFT4u64hdLzXBSAWKxxPI5wsoFovcNC6bzdkKGBK7HlMGhUKRWwBRfySPSojhKrfNE8oXNNPI7I5xWCyDMrc8ieEs/ghX2cdVX8M9mw6h5JxCuM8qMyWGNwsJ/E5v1gC9DsVxMLuITfcMYoOjCPZKS4nhW2KNAwkTEEEeKmFsTcxCtTplpcTwdlHFj9X1GiAyvf9yLoodr4LM6ISslLR0fqY2uI1A78IqXoVi2PPNIe/wykiJ8UUvkus6kNHvI0neo/2ZENZdPj2lwF3tCjE/rQFiOI3l+LjIZqAPS6u8Ry/8D3mxc/ZJJIYcWLAMNSMlxhMoq0UdyAwmgI4CS3ji9fPtn7K5EB2wNSMlhs/RDB+XGUj4YzTFi30cjGJ3KtDMlLSdRWUmIKONQAQsik0HpDml+d6BRqXE+Le/UEs3gIxgX5azerHpgGxiSto1wYGE60BR4UWP6ICsl5K/29K4lGqA6oARtOgRHZAiJToCKCFvV7eeUENSOlcLumm3kY1w1DFzjwiGzqLRO52NhBHSfgVSErS4Ec4MJGBEb5oAo0l7oPjPpV0jAopeqdgEQ1eHGaThMEZVF6jCmS0FpJ6MC5tt/uxt9Q/r/EyrqCB+lAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xt2W/0tTURjGPX+CUIT5JU1nbmbbmtddt+nU9DI3r7qpmdMyLYcyGYrEnEUEFRhFFCJEUkRlBoWO/sGn3nM7x+vVX4LtDHrgYTDGzmfP+5x3t6rq/xDDSVdUDEszzZhKNGAoUoPrV6srDcXwbSeCL2/C3Ov33ZhNNlUSikmYDy915Bau4NboJQ7ka2xUDWV1RgDtbQeRvdPKx1eBPjGYoxNIJqdlOrvPNCzPuZCK1aOrK4xQuF8lFEM6PX/KI+YEhgwT0T4DPp+mcnR/bldmmTuTWZGOJ5K4MRiHpoXganWrBVpb35DO5daQzeYQGx5Dd6gPnnYvamutLikCIjHs7x+gWPyFo6MiDg+LfFx+f5csNcEoBVpYXEI+v4mtrYfcNK5AQK8EDIlhdTWHQqHw11uyP4pHJcTwM3WXJ5TfLHDTyILBHrS5O1ReeRLDO2MCP8ZvSxNc1h/GtNuHaH2zypQYnvbE8H107gTQk4iBtc5ezHkCMBpdCNUSjJKUGN7HJjmQMAER5INgFPPtnUhcdqtKieF57zC+mukTQGR6v6AP4J43iDFXu6qUrHQOzFluO9B2NI7HYQMrfh2TbV4VKTF+6OeRGQlk94u+Ed6jXCCCtMcvU9Iv1pcrJYZdI8XHRXYCveo3eY82tCgvdqq1A7GmNvTUWQ9sJU6J8QQ+xm9KICeYAMrr/Vi8pvHrb7Z4MNDQUo6UGN4OjvFxOYGEXw+YvNiPQoPI+PRypmTdLCozAdltByJgUWxakM6UukuXEuO//lNi+hSQHWxnaFwWmxZkGVOy/iYISNgJRKbCix7RgjwrJe1CXelSsgOdBUbQoke0IEVKtAIoIe/5GplQSVLaG56SpttGtsNRx5w9IhjaRa7qc6WEEbKeAikJOtwO5wQSMKI3ZYCxZH2hdQBZgBEUvVKxCYb+OpwgJYex6/iAYzinlYCcJfvBTjs/+6/6DdRb4rgarL89AAAAAElFTkSuQmCC",
     "wiki_name": "Potion (A Taste of Hope)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Potion_(A_Taste_of_Hope)",
     "equipment": null,

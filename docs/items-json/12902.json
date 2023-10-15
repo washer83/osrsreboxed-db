@@ -1,7 +1,7 @@
 {
     "id": 12902,
     "name": "Toxic staff (uncharged)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-08",
     "duplicate": false,
     "examine": "It needs to be charged with Zulrah's scales.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4Xu2X3UvCUBjGPVfRzWL4gTIkZ0XzYzGY07KaRE2UlIFGhVOaUWA30f9/8+TZsOXBW30P1A8eBod37MdzzmBLpf4uDOIKIQzz8AkSSHEBhsXrJLpapVIUcWrLxBI8vn+Dj7fJUuj5R0ic3jIM3W4bg4GLx9BFGIwwn46o2mHo969gWAXUHA0Psw7uxw6CYEjXTvE4Dd3IYDy+xUs4xPuXj2ng0wnlNAV2s4Je10W7ZcJ2dSw+ky0T79gyDIq6h0pNR8+7hm0ZODsvotHRqYQ4DE6rDjW7H7V1YuapDjSHQS/zhyavPalMtWagdeGsSZDJ5NQCTo8qy+1qUJ6XFYkQ4RatiGV4JJDhxEL/MpthyGc0GQ4xR6p2JJPJHOTWhMSJHRLL8EjQTiLzW0ic2hEMqpKOIkE7iQwPsQxns5A4tSMY6mYVTtOG593J0Q7/g7AuD+WQKVezUSSQWUH6CboZCplvOET8jIvX02YAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4Xu2Xf0vCUBiFvbHNqdkmzjUz05mz1PVDchksV0gUUZlE4ff/JKfuxlyO/avvhXrgMLi8sIdz7+Aul/u7MKRXCGFYLp8hgBQXYFi8TsPnZbsdJj21YSIJnrvgPJT5eAtWQunpDcMwvurB94fwHxw8zsZ4mnlU7TDcTPqoNYuw7BK8+w7cSR3v81u6dnYrCrSagtHIwTS4wMuXh8WCcLvUkoSDhgH3tIujwypaQw3zz2s6IUlmMAwdZ4MeLFNHwymj7WpUQhz205AJOb8TtlWtF6gONIdB0/dWn3wcMhnTqqHr2GsSZDKqXIRWrsA+5i8nOy8xiRDhFsVEMjwCyHAioX+ZbBgKSkmEQ8wRqh3BZBRJXRNKT2yRSIZHgHYSmd9C6aktwSBLShgB2klkeIhlONlC6aktwWDV92F3Whi4fTHa4X8QzZPo0kUuo5v5MALIxJBeQbOhkPkGJ0rsPRercdYAAAAASUVORK5CYII=",
     "wiki_name": "Toxic staff of the dead (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Toxic_staff_of_the_dead#Uncharged",
     "equipment": {

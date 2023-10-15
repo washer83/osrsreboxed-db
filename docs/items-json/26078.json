@@ -1,7 +1,7 @@
 {
     "id": 26078,
     "name": "Sigil of the menacing mage",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-08-25",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACuUlEQVR4Xu2XTWsTURSGOzsLoisXxU3ARaCgZmEWJRQj0kWwiMVioMVAlRCxRIq1VmsoDdEi1tKWUqVUqR9d9P+IG5fu/BVHnzuczJ07kzK1MwWxB15CPmbOk/d83KSv7yT+v/Ak0LGHndzX9MOq1Go3ZezWteMG82Rr64Vsbj6XjfV5+VHKy7ehC7K0+EDm5qYM2L2pMalUSg50JuHJzs6SbG8vGihgFKjVasjs45o0GneMU9VqRUZHy1IuF6VQyGcF5cnHD+0uiMKoZmbuSr1+2wCNj49EgAq5XJpQURgXqNmcMECTkzcMEGXLCMiT3d2O/BzOR/T9D4gthcGdketDUioVDFAudz6tsnny+dNLef+uFYFBv8oBFD0U51CxeLELlIJLnpmm1bdPTCPHAana7elQY9tQg4OApATEVCG+OQLQBgJ2be2pLCzUDRCjDxSfzaCx/VFnjFXsoJU3s8YR9o+K0WcX0dwZAhFeCIjSdTpNA/Fs/r4RpSG5usRytIHoo5SA/KamH1QkZ4JwgfKQkOe8ruI9exelCkSJEM7QS7ij5WEZ4gZ9tPzqUdc1t2QpAQUNzVLEKR7pH6AoD8mBYqqQNj7ucNDao3+EI8Q/EPv7T5n9Q1OzGPf2XoeggMElekahFIhec4H+cvR9EHT2zGkjyrG/v9KFoXw6YSxCle6fXg4F2zqxS1GYgYFzRsB8/bJsyoc7OvZA2BNoywbS44N7cv8EYL1hLl/KGzeYKEDsPcRrJNZTngbXnx8KxHmm99J7a64DoOKBgEEkJMnV4SuhidKzS8ulYAqk16NeQAf0lA8V55AKIMTeQfZxgTsKZF9zBCAiHioOLqlsEBsmIRARhnLB3IRxcnvGhdGmBiYBEBHsoji5ieLkXuO6cggYP/wP2/8c0tGhQdywv01acnOcxD8fvwEJQdTSNBAWYwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsUlEQVR4Xu2XbUtTYRjHPWTmchiDiaxTKQsLU4bGsAYrGUlmRjassZLIQgqRQnpAesA3fqxe9K4P0Ou+y5W/+3Dt3LvPmRzzHCHygj/Dbedcv/O/Hu7Z13cS/194EurYw04eaP52RarVKzJ59eJxg3mytfVINjcfypvXy/KzlJfvo2fl8eotWVqaM2A35ialXC450JmEJx/eP5Ht7VUDBYwCNZt1WbxblXp92jhVqZRlYsIX3y9KoZDPCsqTTx9bHRCFUS0sXJda7ZoBmpoaiwDNjI+nCRWFcYEajRkDNDt72QBRtoyAPNnZacuv8/mIfuyD2FIY3Bm7NCqlUsEA5XJn0iqbJ18+P5V3b5sRGPTbD6HooTiHisVzHaAUXPLMNL16ec80chyQqtWa72psG2p4OJceEFOFeHIEoA0E7MbGfVlZqRkgRh8ovptBYwejzhir2EHrLxaNI+wfFaPPLqK5MwQivC4gStduNwzEg+WbRpSG5OoSy9EGoo9SAgqamn5QkZwJwgXKQ0L+5n0Vn9m7KFUgSoRwhl7CHS0PyxA36KO1Z3c6rrklSwkobGiWIk7xSv8ARXlIDhRThbTxcYeD1h79IxwhwYHY33/K7B+amsW4u/u8CwoYXKJnFEqB6DUX6C9HPwBBAwOnjSjH3t56B4by6YSxCFW6f3o5FG7rxC5FYYaGBo2A+fZ1zZQPd3TsgbAn0JYNpMcH9+T+CcB6w4zsPx1uMFGA2HuI90ispzwNrj8/FIjzTO+l99ZcB0DFAwGDSEiSC/5I10Tp2aXlUjAF0utRL6ADeiqAinNIBRBi7yD7uMAdBbKvOQIQEQ8VB5dUNogNkxCI6IZywdyEcXJ7xoXRpgYmARAR7qI4uYni5F7junIImCCCL9v/OaSjQ4O4YT9NWnJznMQ/H38AhwA0q5KvCX4AAAAASUVORK5CYII=",
     "wiki_name": "Sigil of the menacing mage (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_the_menacing_mage#Un-attuned",
     "equipment": null,

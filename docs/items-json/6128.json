@@ -1,7 +1,7 @@
 {
     "id": 6128,
     "name": "Rock-shell helm",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-01",
     "duplicate": false,
     "examine": "Protective headwear made from crabs. Better than that sounds.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4Xu2WYUsCQRCG3d/Rl4M+CIEgQkhIYISEJGEYhohhhhl2HFgmIv73jXeXaedWvctjTiJ84QXRvdnHmdmdKxSO+v9SOtkHldLd7r3xoP+ox+Mn3enc6av6pa5UyrpYPD0klNKjUd9ATCbPxvg8HPZ0r/egW60bXatdGKByEOQNpXQUvekwfDWeTl+MAQVIZAuZAlSjUT9EliyQD8WBUMZ2+/YHKMcsWZiP2bsxBwMULxuyBCAqnR9JQMpsCpD5PIxBcSBetmbz2gCVSmd5QNnsLBaRMaDg+DF35kA4dUFwIgllswOA5XIW2xj9sc18DQcS6ieXHRd0Myu7zO8lMSC/PMgUlY56aVtj03pxIADAq9WncRIQP/p0SVJjiwERSBLQtssRjY3jj7KJAq3XXzHz8iUZMJhvwqNkM0MUfJfxO2UHMNXqueTR3w3kr3SyQJQdAPE/4a/eU9mAeLk4kL8yg+wpywJEMOJNnQWIZycXIA6VHjxnINw5HCo9uIrBiF+MfxKIQ6UHzxUIsi/2ZMwsfOevclIGAsZgFR6ukAPCrKLgyRtYKMAIvw+R3IxKhyFleWYPUdB9Amd55qjf6BsQZZT3Az1SFgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvklEQVR4Xu2WcUsCQRDF3b/CkCQMw6Q0wySTzMhMMjsQy0QQv/+H2Xi7jDu36l13zEmEDx6I7s3+nJnduVzuoP8vpaO9Vynd6dwZP/Ue9HD4rNvtW31ZvdCl0qkuFI73CaX0YNAzEKPRizE+9/td3e3e62bzWlcq5wbosV7PGkrpyeRdB8Gb8Xj8agwoQCJbyBSgarXqPrJkgXwoDoQytlo3a6AMs2RhPqcfxhwMULxsyBKAqHR+JAEpsylAZrMgBMWBeNkajSsDVCyeZAFlszOfT4wBBYePuTMHwqnL548koWx2ALBYTEMboz+2ma/hQEL95LLjgm5mZZf5vSQG5JcHmaLSUS9ta2xaLw4EAHi5/DKOAuJHny5JamwxIAKJAtp2OaKxcfxRNlGg1eo7ZF6+KAMG8014lGxmiILvMn6n7ACmXD6TPPq7gfyVThaIsgMg/if81QmVDoiXiwP5K1PInrI0QAQj3tRpgHh2MgHiUPHBMwbCncOh4oOrEIz4xfgngThUfPBMgSD7Yk/GzMJ3/ionZSBgDFbh4Qo5IMwqCh69gYUCjPD7EMnNqHgYUppnEoiCJgmc5pmDfqMfUs0r86EYL8kAAAAASUVORK5CYII=",
     "wiki_name": "Rock-shell helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock-shell_helm",
     "equipment": {

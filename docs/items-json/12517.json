@@ -1,7 +1,7 @@
 {
     "id": 12517,
     "name": "Pith helmet",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "Official explorer headgear!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xs3W/UtTYRQH8O0/8U/o936pH0KiCAJJRJRsrIGrsFZitmJruXS2XNMcuGpq0nSyUsTsRWFi2hvRm/TvnPw+l3M99/G5c3O38IHD7suznc/O83Kvz3f4m5/MYbr/z5ufXk3fofJkVMV84RbNPelXwYj1pQdUWUzR2sKQAaX/iYbhFohRAHHomNWX9+lNacCRGOe4p4cTVRfST4vPY3tQ+ASEg0ErcwlaehFXffFpAqG/RG9vTdPPjfzBUAzCMVeHQe/KSQXivm4gfO/35iT9+VzciVkFQo4jTU0q9Oxas8rO/5pBSGoCLRfv2iAcm0Aby2kHCMcM0rNrze8YBiTiyY1zHYTkQPDwuoG2VjLegbhKuGYCcSUZhKrpoE9vJahYH4jnhQ5Cch0kJ3Q10Jf3jxygXx+eNQ7CdYAYxZWUK9IN9HV11FsQAgAJ0ie0Gwh9v1fGbdD2x5n6VpgESRR+3ASy9hJrm3AD/ajkjCA9u0uzEuDHq4G4X3vbKTrZfNQ+RyX3gNYnDgqy9iBUqBoI/UZSvTScjFAyfoX6rgcoFDxHLWdPqHsShP4OkNgU9exas/6dCYTgH0e/4tQQTeXvUX48RqMjNxUsfjtM/b1BBwjV8RTEKAQPydPHV2lxPkvl2QyVZtIKlstGFQqgcKjV7uspSFYJ95B4oZSh/GiPQiEKuQiNpcM0GL9AfZFWuhw6Q4HOZupoPW7Pq83XDwVo1sbUBMIKcQOhIjIAQ2QGQ5SIdqo5hfkU7QvRjWtd1HOpw66WrFCN1UHbBenzyATiKEwk1FzCsDEK8wlVams55i2IUbjO8yLW30HDiYAaqmyqm9LJi+p8INalKtUdPE3n263VhsAuLUGM0rMbmgUyDRuuYYLiNYIT7Rfc/9vamA3CHlTHPuQEyWGTIHziOj8ueFvA0MpXD6yuhkFYZfuBkAzXTCB+bPBy9wykDxuuS5B85WAMg7gvQFjyDtDOHlT3PmQaNgnCcTUQVwh9PQGZhk2CcE++ckgQP1h5uBoEoe1dLabQ5w+HDsK7tARx1AHy+XhbrxY6UIacP56Aam06shYsx27f/9R0pCn07xzq9hdroaW0DBzUJQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3Wj0tTURQH8O3PiIi0KAhjppgpDVdkWSLZStdy+aOlpiaCWYlKkmkjSwSxH1QoGGIiZQRRUST1l5343sd5nne8b27uFV447P242/ns3B/vhUK7v4XJHrb7/7yF6dnYFZoeiZvIDF+iqbuNJhixPHeDlmbbaXGmzYLSf6JguANiFEAcGrPw9Dq9yrR4EuMc93R4UXkhwzT7oGkLCp+AcDDoxVSS5h4mTF982kDoL9G/1sbox8rQzlAMwjFXh0FvnqQMiPv6gfC9n6sj9Ht9gv6sTxoQchwrKjKhs6vmlJ3/NYOQ1Aaaf3TVBeHYBlqZT3tAOGaQzq5a2DMMSMSTG+cahORA8PD6gdZedgUH4irhmg3ElWQQqqZBH193uyBEXiCeFxqE5BokJ3Q20Ke3t7yg9/cLB+E6QIziSsoV6Qf6vNAbLAgBgATpCe0HQt+vS/0uaOPDeH4rTIIkCj9uAzl7ibNN+IG+vRuwgnR2n+YkwI9nA3G/stKDdKB4j3uOSmrQ9+XBnYKcPQgVygZCv872eupI1VEqcYYazldRtPoolRzZb+5JEPpLkNwUdXbVnH9nAyH4x9FvYrSNRoeu0VB/M/V2XjSwxOUYNdZXe0CoTqAgRiF4SO7dPkuzmR6anuyizHjawAZ64gYFUCwacfsGCpJVwj0knnncTXd6aw0KMTxQR33pGLUmTlBDXYRORw9TVUUxlUf2ufNq9flNF4RdmjE5gbBC/ECoiAzAEF2tUUrGK8ycwnyKN0TpwrlKqj1V7lZLVijH6qBtgvQ8soE4hgeTZi5h2BiF+YQqlZbsDRbEKFznedHcWE4dySozVD3tNZROnTTnLU2VplI11YfoeJmz2hDYpSWIUTq7pTkg27DhGiYoXiM40XbB/b8s9rkg7EF57ENekBw2CcInrvPjgrcFDK189cDqKhiEVbYdCMlwzQbixwYv98BAethwXYLkKwdjGMR9AcKSlyDsQXnvQ7ZhkyAcZwNxhdA3EJBt2CQI9+QrhwTxg5WHq0AQ2tbVYgs9fzg0CO/SEsSRBygU4m09W2igDDl/AgHl2jQyFyzHZt//1DTSFvo7u7r9BXrDo3r0pUvyAAAAAElFTkSuQmCC",
     "wiki_name": "Pith helmet",
     "wiki_url": "https://oldschool.runescape.wiki/w/Pith_helmet",
     "equipment": null,

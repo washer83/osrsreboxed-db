@@ -1,7 +1,7 @@
 {
     "id": 17774,
     "name": "Model ship",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-15",
     "duplicate": true,
     "examine": "A small wooden ship with a silk flag.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4XtWWa0tbQRCG3X/i536SQhApQkVExCBKRIkQ8YKNVCLqiddESUwNtlZsEVtFRa0tYou9t7YFv7Q/bHreSSdns9mE3KztwEuOm+zMM5ddT11dVaaoLdRE+DS/uSFT1BJsZKCG+vp/AaoY0F+vmqLd3ckCQDfSSkWHB9N0fr6kAQEgIztozcyWqaLT0zk6O1vIQu3vJ2hra46SyYnrAspkay+/YpBXL+cZCjo5fkA7OzFaX5++DiBF6Q2HogujRZxnqgSoD+8T/BlbCnKVmnt9OS3MT6hsU7ThOl6Mh4sCnRxHGerd2xX68T3Nz1h/+mSe0muTFHf3OzODFA73VQulaGt7kZYLzkMm66Mjh6EuLuL07XKNfv3c5PXNx1Fu37brAy1MrIxbfJRtilbTk5xtbtkVtwgwd7pva995AgT2YdAPD5IMVwMgWCbb58/iXH4J+OljkiujAyFoKhXhZxsoYKoA8hxtPHK49MgUATEPXz6v8rzogQGNucFQy7pAVA0jdwoApPx7eyt0+iLNgJdfU3yq5A6SPfgtKqoDmd4rMAxriquCjGWodaFdcv9AWEMCgAFw/txVZYph0AI410+ZV3rvYsSRx6dAYY9t7swoZZjiYwooBCicbeZixJGXFuJiRNtsc2f3UbJ57UG2gMrPNtO6N69jPORXVw+zF6Nt7nytDayKoaQ1ki2EyunZ+tpvec9usKYOHwvrLT1N1NrbnCP8ruoThxlC65CtQOmBm/2NLB0A652hFvIPtVH3aDurb6QnC2RGMcxrj00AQpVw8cl/dAmOwO3BuywA6BCBcCf13fdTf6SLBqZ6KDDYVQqQ4o1wAGdwjGB6xgCSoHpgswLwY0KEnABNLI3Rvdlh8vd3lAaEDePuawac6HASEEB6YFtwARAIKOIeAgj+R6ZC5cyPytkMCRwC6ioUfCoxzppx3w4g+RtCdYYiA6VURzeV40gARWZAXY57z+jSv8PeMWeQBv6czDKAYMrq1BZ01n0tscncj1FAdYJjgUqAYIrm3UvNDIQ1mxbd11x5NqGkOnJaS5wfmykOVEixzWhWsmZCoTomSIUwYoqW3cuwmIpB1RBEt/xLslTVGMQzPctyZfr6L+03k3x639MHkAsAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSklEQVR4XtWW/UuTURTHvf9AEA0lw3emOMWNoak0k+HL5gu6qc3lsEykECmlFNGsKER6oeg9Cuq3+jdPz/c8nT13d3djb2Yd+LLHu91zPuflXp+6uqpMUUu4gfBpfnNGpqgpWM9AodbWfwGqGNBfr5qi7e2xAkBn0kpFe7sTdHw8rwEBwJUdtGZmy1TRo6NpevZ0Ngv14P412tiYplRq9LSA3Gzt5VcM8uTxDENBhwfXaWsrQaurE6cBpCizFqP47FAR526VAPXm9RJ/JuaDXKXGHl9OC/MTKtsUrTmO55KRokCHB3GGevVykb59zfAz1u/cnqHMyhglnf2xyX6KRHqrhVK0sTlHCwXnwc16fz/GUC+eJ+nL5xX69XOd19dvxbl9m44PtHBpccTio2xTtJwZ42xzy664RYC52HVB+84TILAPg763m2K4GgDB3Gzv3U1y+SXgu7cprowOhKDpdJSfbaCAqQLIc7R2M8alR6YIiHn48H6Z50UPDGjMDYZa1gWiahi5UwAg5d/ZWaSjhxkG/PQxzadK7iDZg9+iojqQ6b0Cw7CmuSrIWIZaF9ol9w+ENSQAGADnz11VphgGLYBz/ZR5pfcuRhx5fAoU9tjmzoxShik+poBCgMLZuhcjjry0EBcj2mabO7uPks1rD7IFVH62butOThI85D++38hejLa58zWfZ1UMJa2RbCFUTs/W13bOe3aCNbT7WFhv6m6g5p7GHOF3VZ84zBBah2wFSg/c6K9n6QBY7wg3kX+ghbqG2li9g91ZIDOKYV57bAIQqoSLT/6jS3AEbgteYgFAhwhEOqj3qp/6op0UGu+mQH9nKUCKN8IBnMExgukZA0iC6oHNCsCPCRGOBWh0fpiuTF0mf197aUDYMOK8ZsCJDicBAaQHtgUXAIGAos4hgOB/cDxczvyonM2QwCGgrkLBx5dGWJPO2wEkf0OozkA0VEp1dFM5jgRQZAbUFXPuGV36d9g7HOun0J+TWQYQTFmd2oJOOa8lNpn7MQqoTnA4UAkQTNGMc6mZgbBm05zzmivPJpRUR05rifNjM8WBCimxHs9K1kwoVMcEqRBGTNGCcxkWUzGoGoLoln9Jlqoag3imZ1muTF//pf0Gore9Iw6FkA4AAAAASUVORK5CYII=",
     "wiki_name": "Model ship (With flag)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Model_ship#With_flag",
     "equipment": null,

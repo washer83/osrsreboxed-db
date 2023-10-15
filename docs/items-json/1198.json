@@ -1,7 +1,7 @@
 {
     "id": 1198,
     "name": "Mithril kiteshield",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "A large metal shield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xs3WXUsUURgH8NlvsB9hr73yJrqIYCMWERcpisRkIepCELqNyBArKoqMoq4qSixaLaxEzF4UEtPeCLSkr3P0f4b/2ec8c2aZcSfxwJ+dnZnl/PY5LzNRtP9byYQTuv7fW8m8nRozs5OXbV4/GzUzTy7ZELEyf8d8mbttlt/dCqD0n+gYHoOIAojRmKU3N82HV9e9jvEd13R8VC5kycw9H0+g8AkIQ9DizDUz//KKvRefIRDul+it9Smzufp4dyiCcMzqEPRp9oYF8d40EH73d23S/PvR3Mm0BaGP7krFRveuWlx2/muC0ClB/KcALTSvOhCOQ6DVhQkPhGOCdO+qlbxhQEec3PgOEO45UY1scAwEhzcNtL54rzgQq4RzBNUPRTZESRCqpkHfP0pQMx+I80KDuJpqByPT03POpq9v2KFYrRDo5+f7HujP16edg3Ce1SEGqddHbIaPlx0MkaBfSw+KBSG4drjbrw4xqNJgrWxztr+cwCEEbX174TC5QRLVrjoOdHrUpdHbwhGoQbr3lNaaDwSFqqNBAwMXPdDQ0JgLYLsExXsQKqRBrI4GsTppIFbHDZnYFHXvqsVLXoNYHawuLncNOnnqggfSmI2VR8WAEJwHplY7403m/mPnXXVCIAwTh6oQEIJzB7oiU60OmiNHGx6KGExerjCC5Epbe39XgKYdJhMIKywriAhWBzCGlcHOjseGrFDG6qC1QEQRhDkkQXKo5HA1GuNedQDCY6NQUFclCeJQJUCiOngrAAi7tAQRpXsPtBiUNmyc2KHqSBDux+MCILx2/F5+6EDYg3LsQz5IrjZcQ5Ww5CWmHQjV6RiEVRYC8cGKKsnJqyOrUyhIDxvO6/fiUPA73gsQlrwH2tmDcu9DoWFjJ/jHOObrLYJHCx/E+J2cP4WAQsMmQbgmX0skCPfJ+dMhCC05DKFIjIwGYVOUICYHKIq4rbeLBsrI+VMIKGvTyCxYpnXvHjWNDEX/Zl+3bZju3stp5IYRAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xs3W20sUURwH8Fn2yRchkMCWWk3W6IKXBckHCXqNIMNuWBQVFfUWhSGiWIl0QxC7UKEQiImYEfQQRVF/2YnvGb5nf+c3Z5YZdwoPfNnZmVnOZ3/nMhNFO7+VTDih6/+8lczzqTHzdPK0zfyDUTN3/5QNEauLV82HhStm5cXlAEr/iZbhMYgogBiNWX52ybyZH/c6xndc0/FRuZAlszB9JoHCJyAMQa/mLpjF2XP2XnyGQLhfon9uTJnva/e2hyIIx6wOQe+eXLQg3psGwu9+rE+a31sPzZ+txxaEPga6umx076rFZee/JgidEsR/CtDSo/MOhOMQaG3pmgfCMUG6d9VK3jCgI05ufAcI9xyqRDY4BoLDmwbaeH2jOBCrhHME1TojG6IkCFXToE9vbzoQkgvEeaFBXE3V3ZHp7h626ekZcShWKwT6/P6WD/o40ToI51kdYpBa7ZjNyMGygyES9GX5drEgBNf27PKrQwyq1F8t2xztLSdwCEG/NmccJjdIoppVx4EGRl3q+xs4AjVI957SGvOBoFB1NKiv76QHGhwccwFsm6B4D0KFNIjV0SBWJw3E6nDI5Kaoe1ctXvIaxOpgdXG5a9DhIyc8kMZ8W71bDAjBeWCq1SFvMvceOO6qEwJhmDhUhYAQnOtoj0yl0m/27qt7KGIwebnCCJIrbf3ldQfCLk1MJhBWWFYQEawOYAwrg50djw1ZoYzVQWuAiCIIc0iC5FDJ4arXz3rVAQiPjUJB7W1JEIcqARLVwVsBQNilJYgo3XugxaC0YePEDlVHgnA/HhcA4bXj68odB8IelGMf8kFyteEaqoQlLzHNQKhOyyCsshAI53AdVZKTV0dWp1CQHjac1+/FoeB3vBcgLHkJwh6Uex8KDRs7wT/GMV9vETxa+CDG7+T8KQQUGjYJwjX5WiJBuE/OnxZBaMlhCEViZDQIm6IEMTlAUcRtvVk0UEbOn0JAWZtGZsEyjXv/U9PIUPRvdnT7C+La6ygPQY18AAAAAElFTkSuQmCC",
     "wiki_name": "Mithril kiteshield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_kiteshield",
     "equipment": null,

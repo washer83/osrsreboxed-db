@@ -1,7 +1,7 @@
 {
     "id": 3070,
     "name": "Bronze javelin heads",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-05-06",
     "duplicate": true,
     "examine": "Needs a shaft.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZklEQVR4Xu2VQYvCMBCFnX8ieBAEQRZExIvgYVkWFgVBFDx4EDx48f8fZklCyGQybZI2VZE+GMTWxG/etC+DwWcKkF95kRQI4GYx0p/87hNlQLbrCf6sxrrU99lw+AoowP1moksBqbIwMpCB51cLCfD4PdVFoWR3DIhyr6ORAp5/Z7ooVOhO9ThD6MYCvPx96eJQvjvhODt6vgCvu7kHxR2KjbMgEOBtv9BloawzFIaCWqjq56uxAO+HpS4FZP+Udk2BOFQn7lgY5Q51hT431D15nMXkgOh4TPn3KZAMXkwWQMoVH0geJ9+ntVyuhK+x72DoSlUjjZWSKz4IHStdUyAg03OFu2J/X99Illyu0Nc4niuuiZRGEhVPZXlTuYmWeRSmsgTEVxnFG+ErIvJTOS9XXDhWHS/yuloBPk6rjFxx69KOl0aK5YqklOOllaRcqVN4vKSty1D+hsVdaa+3gunVq1eN/gGdbyogM87SNgAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYklEQVR4Xu2V0WvCMBDGe69jKMOhiFA6BxMRVPYw8GGwl/3/f9KNJIRcLtcmaVM7pB8cYmvi775rv1TVYwqQX5lICgSwXj/pT373jjIgh90C99tnXer7tWmmgAI81QtdCkiVhZGBDDy/WkiAl7elLgolu2NAlHsjjRTw8/1FF4UK3WkfZwjdW4BfHytdHMp3JxznSM8X4O346kFxh2LjLAgE+H1a67JQ1hkKQ0EtVPvz1VuAP+eNLgVk/5R2TYE41CjuWBjlDnWFPjfUPXmcxeSA6HhM+fcpkAxeTBZAyhUfSB4n32ewXK6Er7HvYOhKWyO9lZIrPggdK11TICDTc4W7Yn/f3UiWXK7Q1zieK66JlEYSFU9leVO5iYF5FKayBMRXGcUb4Ssi8lM5L1dcOLYdL/K6TgH+XrcZueLWpR0vvRTLFUkpx8sgSbnSpfB4SVuXofwNi7syXP8KZtasWR36A+ZU3A4Qg0+iAAAAAElFTkSuQmCC",
     "wiki_name": "Bronze javelin heads",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_javelin_heads",
     "equipment": null,

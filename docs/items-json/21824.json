@@ -1,7 +1,7 @@
 {
     "id": 21824,
     "name": "Revenant ether",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-11-23",
     "duplicate": true,
     "examine": "Ethereal essence of the revenants.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACW0lEQVR4Xu1Vz0sUURx3/o4uAx4GBoQlWEJCWJFYZJelxSXZxCFdsshOXTp06yR06lLBQkR1CMkSQZao6IfJEoZoGLKKlYFUmEmH6LDBp/l8n29nZtWD7jZ7mQ98eDtvZud93uf7+c5ra4sQIUKEg8BAkC2DEmBOFXEsHsfxzk50d3W1QpQS0j43BetLGX2vHwutr3OwtxbkXsw0wxLlCvnwVITkF59heGAA+VwOuTeTsDbewt6cb4Gg+WlYq6+QKd2v5aa3p0dcOpFIIJ1Mhlk2A6nJ27W80CmSQihqeMNzKFSXTmWzOHM6D2d1VsjfZAvEaHhtzg4j/XP1T/8H1C+002nM0+dZr9PcYLPbdj/fFHg7PhqLSW709clUKtBpnNPBZrbIJoZbLWo+uaccYHA/zsBaeYEjD2+IMC7Oax1q0v61hI7qGtLVTyj8XZd3NCFPhnQMF/CHlY5kn4+LA/z4DVZmkJ6+W3NCj+c3l3D5x3KzxBBuLhZKyL6cEPrLxnanILrjrJVljh/FiyMjMl4oFHBpdFQC7h0hDZfMULt1d598cBPdxWs1IfafipBuaQc4dtg2zNIdtJcfqfLtBJtnnJe7Q8NAXyYjQaVDFMePnZ/nhoYCgugohejy0i2Klk1sv0fczVXDojTPOo5kgry6VcH1bfVyLx+q9evLS1rf38H+vYzCt0XfBg4J/4L1DIZVlbh3oojErbEA9XGy+z8NQr/MT++ugcH+fjloKYwlYus71XUpOx1u2J2DQzlHAWz7K255x36u7ONoSNirvHs7GjL2L22ECOHiH//YLQjSkujfAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xu1VT0gUYRx1TrEyjEhLkovmuuzGuuGqTLphZacuXbp1Erp1qiAhCKNLUGmJgewhoogiExaiCEEMiSRLtOjPQQiEskLw1KHTdnnN+43f/Fn1oLvNXubBY3a+mZ3vfe/3ft9XUxMiRIgQ24EGP6sGW0BkdAB7olHsbWhAU2NjNUTZQmqf34b+pYC2xzeF+tdnMH5MybOOlpagRFlCXt0VIdnpe+jp7EQ2k0HmyQj0pacwvk9WQdDkGPT5R0jlrzi5aW1uFpf2xWJIxuNBlk1D4tZFJy90iqQQiupZch0K1KUD6TQOdmRhzk8I+ZusghgFt83ZYaR3rPTt/4DSidY7jXn6OOF2mhVsdtvG9ysCd8W76+slN+p+fyLh6zSOqWAzW2QFw21PGrlz2XaAwX0/Dv3tA+y6flaEcXLeq1CTxtoM6ooLSBY/IPf3s3yjAnnSpGM4gTesdCR9/5o4wM2va24cybFBxwl1PfJtBidWXldKDGHlYiqP9MMbQm/Z2O4URHfMxYKMcVM81tsr16O5HI739UnA3SOk7JJp9mqt1cevnkPThdOOEOPPnJBuKQd4rTMMRPKXUFsYtsu3HmyecW7udgwNbamUBJUOURw3Oy8Pd3f7BNFRClHlpVsULYtYfYlocbF8UYqHTFMyQZ76+QZnVhccMY4gK/il5SX15Rcwfs8itzztWcAO4Z2wlP6w2iVuHRpA7Hy/j+o42fifMqE+5qX7VENXe7sctBTGErH1zeInKTsdLtud7cN2jgLY9idXZtH/690WjgaEzcq7uaMBY+vShggRLP4B2ljswSF3xpcAAAAASUVORK5CYII=",
     "wiki_name": "Revenant ether",
     "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_ether",
     "equipment": null,

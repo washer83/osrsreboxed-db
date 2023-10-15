@@ -1,7 +1,7 @@
 {
     "id": 8191,
     "name": "Huge plant",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xu2UT2vCQBDF3c/Ri9CDkFMQQggSMEgIklAUAyJi8Q+tRWxpL6VQ6KUUCv3Q07xJJ8ZEQWgSPeTBsLKBnZ9v3m6jUatWrbQUZXcqVhpAkTdz6IxQikZP7h+AIntokTvp8m+92awaStFg7ZN/Z3MFD10KVh6NNkECWKFTu4b+3GWQ9J7R09kps29UAaXYDXFG3NFsjEgxSCcwqTNoJ1UiVJyZNJAdGrxem1fcGG45E5O8RSdxDHkqIVNRZrY9hpm9jWn6GibN8U2AsrU/zsKVb4gSKAZ42TnDoY8yhjHK7cue+A8pHg1GgVWaYmTuzKLw8Yb8rcV78/cJQ+IbMmR4GulOi5+FgqB24wIMmuPfizuSF7gDCIxz/bXYc1GqwDzlD0ch5O1+KwHCuvleMvT4ecgFwIJhYsmB6UrDWaHGK0JvBjqPSx5LgcqeWZKix3Cg8fjSjrArUXYAJiMu1KHjisMNoPx4YjA4VikQXMBtu/+8zTUWsMIzdFyxA7iBcrsONT60V6IUO7T9WR0FOoMULT+mlwQEVZqV03RRMLVq1TpBv6UqVMCIGSzBAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoklEQVR4Xu2UT2vCQBDF3VNpkYAYEoxojCEVDWiV+qfUiqXtpfRQ6KUUCv3+X2Lqm3TimigITaKHPBhWNrDz883brVRKlSqlS1Fyp2DpAIq8SYtOCKVo8OT+AShy+ja5oyb/vul0ioZS1Fv65N85XMFDk4KFR4NVEAMW6NS2oT91GUTfM9s1dsrqmkVAKXZDnBF3DOeSmwOkEVjU6NXjyhEqyowO5IQmr1fWBTeGW62RRd6sETuGPOWQqU1m1m2GmbwNafwaxs3xTYCStTvOzJVuiBIoBnjZOsOh32QMY5TblzzxH1I8GowCqzTFyNyJTeHjNflrm/em7yOGxDdkyPQMqrWq/CxkBLUdF2DQHP9e3JG8wB1AYJzLr9mOi1IZ5il9OAohr3erMRDW1fecoYfPfS4AZgwTSQ7US4ezQ4NXhN4KajwueSwFKnlmTto8hj2Dx6c7gkJ2ACYjztShw4rCDaD0eCIwOFYoEFzAbbv/vE01FrDMM3RYkQO4gXK79jXet5ejFDu0/lkcBDqBFM0/xucEBBWaleN0VjClSpU6Qr9B8CMNRoqoYwAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

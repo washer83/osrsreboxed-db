@@ -1,7 +1,7 @@
 {
     "id": 17266,
     "name": "Monkey corpse",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-09-14",
     "duplicate": true,
     "examine": "It's the body of a dead monkey.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVElEQVR4Xu2UzWoCMRSF575BVrOZTcCFMKtBcCUFwUURunAhSl2UShGK2EUXIkoLBaEvUPAVfMxbTsKtMTMW1E6gkAOH+SE3+Tg3SZJERUVF/XsR/+6gIn6dNPhlrPlpoPnxLuNRL+N+J+VOocy/wFDEywcL9Dy0UJO+hRp0LVQrV6GgiNfTpgFCSj4QUuq1lXnH2EIjrVpF/DazQJIQWgYgpCNASOhzdVt3SsTbef4D5KcDIMBIy3Kd1J3SAUhgqtJxgWb37WtS8o9u2W4yAiPpnAIq8vQSKOLNosvTUcssAGMxLAoDAJvYPeK+fRhpmbTtjNYR77/Gxn4i4rVWvMiUSUL2imsA+TUuyBkwovIEdhLiXTM1QP5dIzU4bVW1F4IcVD0B8Ucj5XddTmA1vzFP7CkBOq6tTeX08I17xrUdF0in0nNdPSaw/my/REVFRUUd6xu7aUYP39aKuQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABTUlEQVR4Xu2UzWoCMRSF5xKGISIDohsriBWKi4qdRSu6UOyiiyJYWigIPkEXfYg++S0n4daYGQVtJ1DIgcP8kJt8nJskSaKioqL+vYhPO6iIn4oGP040z0aaH24yHvczHnZT7raU+RcYivj53gItbi1UMbRQo56FaucqFBTxZto0QEjJB0JK/Y4y7xhbDAZ1QxG/zi2QJISWAQjpCBAS2q2v606JeLvMf4D8dAAEGGlZrpO6U9oDCUxVOi7Q/K7zm5T8o1u2m4zASDrHgFp5egkU8cuqx9Nx2ywAYzEsCgMAm9g94r59GGmZtO2M1hF/fUyM/UTEG614lSmThOwV1wDya1yQM2BE5QnsJMSfzdQA+XeN1OC0VdVeCLJX9QTE742U33Q5gfXyyjyxpwTosLY2ldPDN+4Z13ZcIB1Lz3X1mMD6s/0SFRUVFXWob1X2F1CStcFtAAAAAElFTkSuQmCC",
     "wiki_name": "Monkey corpse",
     "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_corpse",
     "equipment": null,

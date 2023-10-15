@@ -1,7 +1,7 @@
 {
     "id": 4481,
     "name": "Herb tea mix",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-28",
     "duplicate": true,
     "examine": "An unfinished herb tea made up of water, 2 doses of guam and marrentill.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADhklEQVR4Xs2X205TURCG2zfxEXwHrgw33vkKXHFLooYARs5nEBCE1hYp5VgOpUDbSC1UASEiRKMXvsrIt+qUtVc3pqXVsJI/XXsd9nx7Ztbs3UDg/reg+Mtv/p+3oKxHWmU1/NxoOfRM4m+eGilEbqtfDjZ6JZvo8YFyH6Jm8CKQQgGkcmEya12yu/TSY5hr5lx5oaqCDMpGtK0Mil9AVAqUir+QrYV2s5ZfPyDW29BXhYhc5GfuBqVA9NU7CrS/2mmAdO1tQOy7PArLt+PYtRYNEDYePnhg5Fp3WtHt+tQKhFE/oGSsowRE3w8onxzwANFXINe604KeMGBIk5trBbLd78oPqJAarh+Qesk2+qS/2aPtpbjsrq5KdnurDBCgT3s2UKw6IM0LG4jxpXC4DMRPPe1tMtTZKa/6+2R6ZNjsPUmPeIC+Hs7dHYixtWi0zPBtOkyn5bxQkJMPOSlks/K4sdHco65AG7EFI9e4q/zenhykdoy+X1zIce5A+jo6PEBXH+dLMFUDIcbIkeTykqRWVmR/fV3SiYRkNjflfTIpud2U8Qow9BlnDzrN5831o4YGc+0CudZvacWbcYQViIR1QUhgPKEg9BlnHXvIuavzczPW1VbMwzsAFY8tHrKBbBA1rN7RMCkknsSj5NCvnz9M2Ah3Ccgqiq51pxWPvB+QggCg3rC9wzzAgGP88uyzCdfmYqwUvlIO1QKEGHfzxIazYcgxTuT8zHQJhGL6JTddOxDSmx5lMh4gO1SECRjyDI/EQyFpbWkx+6jqRzuDFtBiCaYiIE6YAnEdfT1lRD3xg1LvkMh4J/Fu3hRFTWK8w2vD9lCF3qHdAOk3TmxuVkITE2V6OzlZ5h2SeXZ8XCYGBwyUAvHaqBsQCboSiZicwBivgpnRUdMHypbOAzTW2yvD3d3mHqeZMQ+QQrnWfVoRyA2b5gZgeIwQ4iXAAABEpR7kPdbc1GT2n2XHS0DUoCrqkBfIhtKwUF/IE4oeycsvoIjThaaGh/54IGi+g2oC4pS5QHr0gSJ5ASOBtQDiPYT38BprOV3kT92A7LAhxvWpXSi8pHN6DwXiyHuArmtQ1XXIL2xqhCe2jav0Rcw+/ahnbV2A/MJmAzFn/yuhr0Cs04/6OgDRyp/eTzaMLReIomgDqaoACgS0rP9NLqAtO3/qAlRpcyErgVXdrP1PzYX0k7vnXrff3/aRDwlsOPIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADj0lEQVR4Xs2XWU9TURDH2y9CiDz4ZvwCPPHIgxoQjOz7IoKIQLCCbBbZhbIITRtFLKRRCBEScSHyoG9+pjG/U6ece3oxLVTjSf7puWe587szc+beBgL/fwuKv/zm/3oLymyoTKaHbhmFB2/K5KMbRgqxvdQgrxfqJD5X6wPlPsSlwVNACgWQyoWJzVTLeviuxzDXzLnyQuUEGZSF4fIMKH4BUSnQ6uQdWRqtMGv59QNivQ39NRmST4m+i0EpEH31jgJtPq8yQLr2PCD2fd4dkm97Y3K6N2GAsHG9sNDIte60lNv1qRUIo35AkfHKNBB9P6BEpNEDRF+BXOtOC3rCgCFNbq4VyHa/Kz+g5FpL/oDUS7bRaw0lHi0/m5T16WmJLy9lAAL0fqM1DYRyAtK8sIEYDw8NZYD4qbbitjRXVcm9hnrpbWs1e/ejbV6gnYGLAzE2MzycYfg87USjcpRMyv7bbUnG43K1qMjcI69AC2OjRq5xV4mNl7K1umJ0enwse2+2pL6y0gN08m4kDZMzEGKMHImEw7I6NSWbs7MSnZ+X2OKivIpEZHt9zXgFGPqMswcdJBLm+kpBgbl2gVzr57TUzTjCCkTCuiAkMJ5QEPqMs4495NzJ0ZEZqy5P5eEFgFLHFg/ZQDaIGlbvaJgUEk/iUXLo54/vJmyEW4Hsouhad1rqyPsBKQgA6g3bO8wDDDjGvxx+MOF6MTGeDp/m0KWAEONunthwNgw5xokcedibBqGYftzuvTwQ0pvuxmIeIDtUhAkY8gyPTA4OSllpqdlHVd9daUoDUaUVJisgTpgCcf3kQY8R9cQPSr1DIuOduacjpihqEuMdXhu2h7L0Du0MSL9xxgf6ZbCrK0OPu7szvEMy93d2yv2mRgOlQLw28gZEgk6FQiYnMMaroK+93fSBsqXzAHXU1UlrTY25x0GswwOkUK51n5YCcsOmuQEYHiOEeAkwAABRqQd5j5UUF5v9h/HONBA1KIc65AWyoTQs1BfyhKJH8vILKOJ0oZ6W5t8eCJrvoEsBccpcID36QJG8gJHAWgDxHsJ7eI21nC7yJ29AdtgQ4/rULhRe0jm9hwJx5G0galDOdcgvbGqEJ7aNq/RFzD4+yHRtXoD8wmYDMWf/K6GvQKzTj/o8ANEyn95PNowtF4iiaAOpcgAKBLSs/0kuoC07f/IClG1zIbOBVZ2t/UfNhfSTu+e/br8AnRagT4kWxh0AAAAASUVORK5CYII=",
     "wiki_name": "Herb tea mix (Two guams and marrentill)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Herb_tea_mix#Two_guams_and_marrentill",
     "equipment": null,

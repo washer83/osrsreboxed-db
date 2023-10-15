@@ -1,7 +1,7 @@
 {
     "id": 21561,
     "name": "Numulite",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2017-09-07",
     "duplicate": true,
     "examine": "A form of currency on Fossil Island.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACx0lEQVR4Xu2V3UuaYRjGff+JnexE6CAYBBJEDAmKGBKKNJIiRyMTTTYnpHPZx0L7xM1Y7kMKaVlzWJMtYotoESN2tJOxHezvubbrfnnt9c1atjVheMGDBz4+z++5rvu+NZnqqquuuur6b6Sg8qqJFBQyMWQXPMhMDyA52ouVuUEcbcZqAaUgMdKN1eSQQKTG+0prfz0iQBaz+RSoS3FRQSxgx1TIidlIj7iTnnKLW9sr9yoAHcdJV3dy8cuIV4G1uQEuWwsCfe2I+exIRfuQm/MagBRE/V3YWh7H8/gtPJnsFyfpsAZffu6FpaDBfAWODgsC7nZxK/fYi71cWPd61UmCFNLD2Fj0ScSLcT/moy4cFpM4fP3gIlCVukgFslmvwXPTiuhQlzi0seCTPWtLEXHl/XoCrq4WcYnQWrwE23oWwMGrqMHRM6UC0GYexHp5mwmWQXV3NktkE8MOpMfcyD/yiyPsPP6OrjGajtZGDDivIzxow2yoB5mHAwK/uzxyXiAFIc8NKcL8kl8ueDpzR/Kn1Xoo/ZJ6+fVyOsA6oSt06fObMfQ7WyVCPo6gjOvrB7XAzwUU9trkAB6szRnWgdbaeqj19H3s5WdkL53R5hPjIeCX7UlxM+juRCLYLQ4VUsPVOESVv56RafkTrPjibuk7xsQ4He0W+FxtEmEy0luK5mA1esKhT4VRfNtNVANkMqkbFQRvd0qREoYOsEsIWMxO4OhdSvbQ0ZYmM/rtrTIG5kdcAsS6+rE/C4/LiomgQ2JnGXCqf9+brg5I1XFtbL+cknjYugTitP64OV9yikAcA1o30cmdbEiAjI5rizBVAlGqA/rWZZ3oD+VnU+PVig4xMv3lxmW87Zw6/XUa0O8c+oPLK8v4svILTgc6XFMn8l8HOlvq/xsHICNjl2UTHhSX1G48+YB/opOx1hBGlTHSmsLUVQv9BC/GnurEC+luAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4Xu2V7UuTURjG93yIUCQRh7GGyzmm5ESX5NyYq8XQtRy+pM5XVpPGemEoA3MoGaaNSBBKDAyNoOhj3yLoS3/aVdf98Mxnj9OcZYPYBYd92Nk5v3Nd933PZKqooooqqui/kYLiqyxS8DwdRWbWg/REF+ID7ViY7sbH9Wg5oBTE+lqxGO8RiMRQR37tLocFyN3UdATUmbioIBpwYDTUgqlwm7iTGnWLW5sLN4sAHcRJV7eyY2cRrwJLfTVcdjMCHVZEfQ4kIh3ITnsNQAoi/mZszA/h0fhV3B/pFCfpsAZfeO6ppaC66hycjXUIuK3iVvaeF2+z/brXq04SZC3Vi5U5n0Q8N+bHTMSF97k49p/dPg2UvoO0H6tAdssFeK5YEOlpFodWZn2yZykZFldeL8fgajaLS4TW4iXYxsMA9p5GDI4eKxWANvMg1svLdLAAqtVWL5EN9zqRGnRj9a5fHGHn8Xd0jdE0NtSgq+Ui+rvtmAq1IX2nS+C35/tOCqQg5LksRbia9MsFDyavS/60Wg+lX1Ivv15OB1gndIUufX4xiM6WBomQjyMo4/r6ZvzkQP1euxzAg7U5wzrQWlsPtZy6hZ3VSdlLZ7T5xHgI+GVzRNwMum2IBVvFobVEbykOUYWvZ2Ra/gTLPb6R/44xMU6ntQ4+1yWJMB5uz0eztxg55NCHtQF8246VAmQyqRsVBK/ZpEgJQwfYJQTMZYbx6VVC9tBRc20VOh0NMgZm+lwCxLr6sTsFj8uC4aBTYmcZcKp/35koDUjVQW1sPhmVeNi6BOK0frc+k3eKQBwDWjfRya1MSICMjmuLMCUCUaoD+tZlnegP5WdtzfmiDjEy/eXGZbzthDr6dRrQ7xz6g8uLy/iywguOBtpfUifyXwc6Xur/GwcgI2OXZWIe5JJqNx5+wD/R4VjLCKPKGGlZYSoqh34Cphk3dsG+TBQAAAAASUVORK5CYII=",
     "wiki_name": "Numulite",
     "wiki_url": "https://oldschool.runescape.wiki/w/Numulite",
     "equipment": null,

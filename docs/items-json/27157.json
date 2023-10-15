@@ -1,7 +1,7 @@
 {
     "id": 27157,
     "name": "Dragon knife",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": true,
     "examine": "A finely balanced and powerful throwing knife.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB40lEQVR4Xu3VTUtCURAGYM8/cOXGjdAiCAS3EoIhIWFIkiQmSSappElmZuYHRmUFQUHQIloEQdCqnzjd9xyPna4uu3NdNDD4gXof3plz9Xj+a25KkGrXS0FuF3zU8HvdRCnI/aJPNjBDC4X3QoEAJ0pBnizEo9WdgJdaVut0gGECKcizhUADZGKY0xH0uuSnl3Hj4v2Aa+kIerMQAKFnYfCaKR2F0X1lYWaB8MgOAmQWxkzHYZCg96BfNpLBhXWbIHN/7L/wx6VAH0GVDhAaojF4zZYOIJ/jdOwQs9nSAQZ3YKRjQmrjew7eK3OCvkJ++f+0l8tJBBoA7JBOhmFc6iIPoxHdDAe0n89LBFrvEGAmxFHMZbdLdxdDOm82ZTLr8bjE6P1hTQWJAHJ6VKfd7azELIfDEwRbKoN2m677PQk5rlZpJ5OhjUSCViKRKYSDEJSgYadDZ40GnRzWqFYqTTCr0SjHaFA/8WM8vVZLJlOvVOSYNpNJXgzGg6XFiPAc6WBMOE3MGJRKBcuL06TTASibTtNaLMaJQQkJQCrYHX2iMC6cKGaMLiETQQOEZca4zBNl/4bDJeRpQh8Ui5Nj7lI6ugSVCwWZjMvpmCVoK5X6dTd2GYSa/kuwf4K9NGQuMG7VNxSS7jxkiHY6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3klEQVR4Xu3Vy0tCURAGcA8iYkTSSjIyTTLM8BFmhpqGmZlhPjIqKwhq0aJF0KJFixbt+qOn+53jsdPVZc510cDgA/X++GbO1eX6r5kpQaodLwW5nfNQzet2EqUg9/Me2cD0LRTeS4fDnCgFebIQj1a3fG5qWK3TAYYJpCDPFgINkIlhTkfQ64KXXoaNi3d9jqUj6M1CAISehMFrpnQURveVhZkEwiM7CJBJGDOdKYMEvfu9spEMLqzbBJn7Y/+FPy4F+vCrdIDQEI3Ba7Z0APkcpmOHmM2WDjC4AyMdE1IZ3nPwXpET9LXolf9Pu5mMRKABwA7pZBjGpS7yMBjQzXmP9rJZiUDrHQLMhEwVc9lu091Fn87qdZnMeiQiMXp/WFNBIoCcHFZpJ52SmKVAYIRgS6XXbNJ1tyMhR+UybSeTtBGN0kowOIaYIgQlqN9q0WmtRscHFaoUCiPM6vIyx2hQP/FjPJ1GQyZTLZXkmDZjMV4MxoOlxYjwHOlgTDhNzBiUSgXLi9Ok0wEolUjQWijEiUEJCUAq2B19ojAunChmjC4hE0EDhGXGuMwTZf/GlEvI04Tez+dHx9yhdHQJKuZyMhmH0zFL0FY8/utu7DAINf6XYP8Ee2nITGCcqm+NXKVNAoCCqQAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon knife (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_knife#Unpoisoned",
     "equipment": {

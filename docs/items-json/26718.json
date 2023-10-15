@@ -1,7 +1,7 @@
 {
     "id": 26718,
     "name": "Bandos chestplate (or)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-16",
     "duplicate": false,
     "examine": "A sturdy chestplate.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYElEQVR4Xu2WX0sbURDFvV+iL31Z8CEgBEQIQURQShBRRIlYNCRoQkxIk2Aau01jDMH4r5VWEFrah9KH9qWfcpoz27Purpu6aS2FkoFhk7v3zvzumbk3mZgY29hgRoIj/9CMbKwtygNC/U4grLn1WGxSintp35jfI5uRZj034iIjq6tLsrgwL/H4lMzNzep3AFnWY/WpKUtVKxW3pNMqjRLfSOuwoEGi7cpIt52R5eUnrqdSC64DLplMyKT1KCTesJg+M3LZb+juEom47hp+N+Dt/FplzQexvr6iflDNKtByKqElVKVilsbd3EgN1u1EgXISIiBkx47T6bWB3LOSzTyVra0N/c55SHhQc8ZQ6nzO+Yx5BFxdSbqlg8/MTLvrpy1LPUjx04ySI6DXEbywtySVSkFKpT3J5zOyu7utwAC3m5v6xDz69vamrsU4oAHhhZqfi7tAQQqPGekdlTUYkrbtohu8eZDWz14oJMOzd5z1wXANnuwvwANsNhmT7M5iFHVgRncORyIGRsLnjWcK44XCE/Pevt4PBeJabAwb7fdq+sShQX/d0z9Gg9MBxaCXp3mx7bpUq/tSLOa0FICBQyWWFs3//Vvb12t4skzsm8j98/WLLZ8/NeTDTVVu3lXk4/u61MpxKRfi0mo1XJUAzGQoB1VBA+uFOIDGhgDG0l1f2vrOC/ILGJpDfnbakU7nhQZGUCSCOlCpXi+7495GRmLMw8WIch4eVnUe4Nng/eOavr+nVEFzSocdIggvOoBAHQZHk3rvHsxDybxHephHVId2NwAc5YISUAXJoQKVwk2MEwQgfPYmdRL/AUxY88GhGGBQCpQPal2dN3UcoCgFyxGE4B2Uy/BCjWRGk2Hn7AcGwjs0dbf7UpVC+QjFHgEsFOJ8nkgoiPIGGzqYPcSMe7SRBGWB/LdN6LwHNKCgDpxJeeLYQ/2TIwVHLAB5FQxmDjEj129subjo6ukCFBKgL7gzeLvdVKWCUEjKU8ceokpQkeXG7xz+fkSGuro6kV7vlasUd8ueQMnCoHjvcBNeRQFEWPZQxLINVLo+1zsISZHAv9gpA+8WXny8kfnPwHvs2XPsoxFgaP6T5V9s3N8wQNGDa4KbCB8fwbgofPHw5EHnimHjD2bBBH8lydjG9r/ZD+0vwclONvOJAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXUlEQVR4Xu2W3U8aURDFvQ9NgyGSRoJRY/EjakRThSAfESgEKXZLiohGrNqalgeTpmlfmj61T/2/p5zZnnV3XerS2jRpmGSycPfemd89M/fCxMTYxgYz4h/5h2ZkY21B7hHqdwJhzY1Ho5NSzKU8Y14PbUaa9eyIi4ysri7JwvycxGJTMjs7o98BFIk8VJ+aiqhqpeKWdFqlUeIbaR0UNEi4XRnpttOyvPzY8WRy3nHAJRJxmYw8CIg3LKbHjFz2Grq7eDymu4bfDngzv1ZZ80Csr6+o71czCrScjGsJValoRONubiQH63bCQNkJERCyY8ep1NpA7hnJpJ/I1taGfuc8JNyv2WModT5rf8Y8Aq6uJJzSwaenHznrdxYX1f0UP80oOQK6HcELuSWpVApSKuUkn0/L7u62AgPcam7qE/Po29ubuhbjgAaEG2puNuYA+SlcZuT4sKzBkLRtFZ3gzf2UfnZDIRmeJ0cZDwzX4Mn+AjzAZhJRyezYV8Id6sCM7hyORAyMhM8aTxXGDYUn5r19vRcIxLXYGDbaO67pE4cG/XVH/xgNTgcUg16e5cWy6lKt7kmxmNVSAAYOlVhaNP/3b21Pr+HJMrFvQvfP1y+WfP7UkA/XVbl+V5GP7+tSK8ekXIhJq9VwVAIwk6EcVAUNrBfiABobAhhL17+09J0b5BcwNJv81VlHOp3nGhhBkQjqQKV6veyMuxsZiTEPFyPKeXBQ1XmAZ4P3jmr6/o5S+c0uHXaIILzoAAJ1GBxN6r57MA8lcx/pYR5SHdrtAHCUC0pAFSSHClQKNzFOEIDw2Z3UTvwHMEHNB4digEEpUD6odXXe1HGAohQshx+Cd1A2zQs1lBlNhp2zHxgI79DU3e4LVQrlIxR7BLBQiPN5IqEgyutvaH/2ADPO0UYSlAXy3zSh/R7QgII6cCbliWMP9U4PFRyxAORW0J85wIz031hycdHV0wUoJEBfcGfwdrupSvmhkJSnjj1ElaAiy43fOfz9CA11dXUqJycvHaW4W/YEShYExXuHm3ArCiDCsodClm2gUv9c7yAkRQLvYrsMvFt48fFG5j8D97Fnz7GPRoCheU+Wd7FxfsMARfev8W8ieHwE46LgxcOT+50rho3fm/kT/JUkYxvb/2Y/ALXLFCaXg+EYAAAAAElFTkSuQmCC",
     "wiki_name": "Bandos chestplate (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_chestplate_(or)",
     "equipment": {

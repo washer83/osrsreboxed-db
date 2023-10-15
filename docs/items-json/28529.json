@@ -1,7 +1,7 @@
 {
     "id": 28529,
     "name": "Sigil of woodcraft",
-    "last_updated": "2023-09-20",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-08-23",
     "duplicate": false,
     "examine": "A power enhancing sigil not yet attuned to you.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPUlEQVR4Xu2Xy0rDUBRFzUxBdORAnBQcFAS1iEWkiBEpEhSpWFpKUXzgAy0FHzjw7/wBcerEuV9xdd144s3tTUkxKSge2LS0Tc7KPjsndGTkv/5+eSpZQy9Pzb48xbSzs6WqVV9VKqvDBuuFMbXhr2mtrJSH4Vp/GCQuAbS0VFLz83OqWJzNA8pTnc65Kr6/atkgpoJgU0PZQKVCISsoT3W7lxro6uo0gor09hzJzBIuDR/IgGk09lSttu0EKhRmshqbp25vrmNAFxfHPUCtVl0LIEYmwbaBMnDJU0dHLXXQbiYC8R2/AWh/fzd/oJOTtla7va0F0NnZoQYCRL6X/AAjYyPYuQA1m0EkHCEvuMGITOEOMDkCUV4MSFzhFVdQEFQ+X/2v9+FtnxOQpx4euqper0aisbiDE75fVtXNVQ0lYmzA5AJEkE0BRVMcoDGOkCtck3GayzFDoHA725J9w3hwSsIsgUaux8cPdlH4QBwbG43ywl11f9+J9hGfSbBNqDRAA7oUgqDJiXEt9svj451ekMAwHkaDJLzIhOoHNIBLvTDT01NauEO4yZA4BhBZobGtJCDOyflTgCXDLC4UdWa4csaESwKEKzQWV5IcknPJuaVXHyg3EDBIbuP1teXYUpStnAQkx6MkoD6ZCqFcDokAQuwdJLe9DWQe8wMgyg3lgksrE8SESQlExaFsMLuhS3ZmbBgJNTApgKjvXeSS3cgl+xjblQFgwgp/bP5zyEYDg9hlXk1Wsnv816+vD23xrEGfxAlcAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACM0lEQVR4Xu2Xa0rDUBCFDb61WKS1UqNWI1W0pbXiE1+F4gP/uEm3ILgAf7oE93L1u3Hize1NSTEpKA4cWtom8+XMyYSOjf3X3y9PJWvk5am5l6eY6vVNVav5qlpdHjVYP4ypNX9Fq1Ipj8K1wTBIXAKoVFpUxeKCKhTm8oDyVLd7rgrvr1o2iKkgWNdQNtD+xkZWUJ7q9S410NXVaQQV6e05kpklXBo9kAHTbO6qnZ0tJ9Ds7HRWY/PU7c11DOji4rgPqN1uaAHEyCTYNlAGLnnq6KitDjqtRCC+4zcA7e1t5w90ctLR6nS2tAA6OzvUQIDI95IfYGRsBDsXoFYriIQj5AU3GJEp3AEmRyDKiwGJK7ziCgqC6uer//U+vO1zAvLUw0NPNRq1SDQWd3DC98uqtr6soUSMDZhcgAiyKaBoigM0xhFyhWsyTnM5ZggUbmdbsm8YD05JmCXQyPX4+MEuCh+IExPjUV64q+7vu9E+4jMJtgmVBmhIl0IQNDU1qcV+eXy80wsSGMbDaJCEF5lQg4CGcKkfZn5+Rgt3CDcZEscAIis0tpUExDk5fwqwZJilclFnhitnTLgkQLhCY3ElySE5l5xbeg2AcgMBg+Q2XvWXYktRtnISkByPkoAGZCqEcjkkAgixd5Dc9jaQecwPgCg3lAsurUwQEyYlEBWHssHshi7ZmbFhJNTApACivneRS3Yjl+xjbFeGgAkr/LH5zyEbDQ1il3k1Wcnu8V+/vj4ACjQV2nUST8wAAAAASUVORK5CYII=",
     "wiki_name": "Sigil of woodcraft (Un-attuned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Sigil_of_woodcraft#Un-attuned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 22782,
     "name": "Wyrm bones",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": true,
     "examine": "I wonder how Wyrms have bones...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9ElEQVR4Xu2Wf0+SURTHue/El9D7aGv91x9tbbW1ttzaylZLGZPUchpBovwICQgTRDQkCAhJDJUJDvPH7OWc+p6nC/eBpwDFwR9+t7M9PPc+53zuOefei8l0pStdaaAlqPlNHyXoU8RPAwQlaC2xROsby4MFlUhGGOja0NBlQXWzWkEbqRUDIPiQdiEJisU/duFIUCoTbwLSeiuyEqAbN6934atFgtLZNbI7ppUA7Zxp3xhlCL2FcsoMNsY6kqBiKUeLAZcOxuub+48zQUcnB5TNJwyAtHFkrzWDHUnQ6nqYxifG/gJoO0g6UsshbXMrzUCtcxo+M98+s50LaL9aomgsyB8Xil/J/d5RDy4NGcSKt7YzPP/ktNY0R+8TMLnNpAL0r7ktElSubLPhGdmyjL/gZzRovvCFeyG87KN5l40mX1vI4ZxhQDQvxlDy5gUAHouTv63WYZqdGSGnU/PdTKFIA0JgNCMygP45PKrQ2a9jXiUCAygY9lBpd5PnAUQ2tTSff57hUNLd8lb9/fT0Y3rneE5er4UCgQl+16aMDaeAkweeagAu7xepWttjyEbTC96dgEMZKwc7dFArK0H/jNufMchGYo7iq287ATKZ5McIurNX4AygLMl0rA6CrJ2eHXLTo7Qvp8w8DhhkDnMwLgNKnwsLY1T6EaovwHgjGEqwY9QeWxrlkyAYQ/2j0Vl+RlkwFw3+87haD6ZmBjby5A5lMx4dSIcwUvpSSYPTfN5H3wvyltebPpig4Ye3yGx+oCtRlyANqc7V1WKXuTx2yuW89UB6gwSNjt7nJra9ecoNLYH0Uc4tQR9Cbu4TCYSGTqcWuHxul5leTT2ipSXt2oHhnX/RyiWW1gDuiQTvHmxpgOESRsMjaCg4yTDJ5LySiebMXbBkxtIcyzMLOw3nUixm42zpe6u17D2G0aSuHjsM2cKhiasGpzqOgLv3bve6PO2lgmH74yBF1tS/I5eSkXZSwXBm6S/TPkoF61t2jDRQML3Qb06rHOvDmbuDAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/ElEQVR4Xu2W70+SURTHuf+JW1u9a7W1WlvLF61staWMaWo5jRgJKpA/Is3M/AFlSgQpGoMYMyxjMsZwFdWqf+zU9zxduA88BShOXvjdzvbw3Puc87nnnHsvJtORjnSkppag8jeHKEFP5iaoiaAEPVueoaXAbHNBLQfnGOhUS8tBQdWzWkGB0IIBEHxI25cELfof1eFIUGjVXwak9dbTBS8dP3GsDl8VEhSOPCebvU8JUM2Z9o1RhtBbKKfMYGmsJglKptZp3Dusg/GMDf7HmaAvX3MUia4YAGnjyF5lBmuSIN/SY+rs7vgLoO0g6Ugth7RYIsxAlXNKPlffvGDbE9BONkXzvkn+OJ58Ta779mJwacggVpzYXOP5he/5sjl6n4DZiL1UgP41t0KC0plNNjwjW5bOG/yMBo3GX3EvTM+OkXPESj23LWR39DMgmhdjKHn5AgCPxcnfXV2tNNDfRg6H5rucQpEGhMBoRmQA/bP7OUM/fxV4lQgMoIfTbkq9j/E8gMimljY64WQ4lPRDOlF839d3me7Zr5PHYyGvt5vfVSljySng5IGnGoA/7iQpm99myFLTC96dgEMZM7ktyuXTStA/47ZrDBJYGSS/724tQCaT/BhBt7bjnAGUJRj2FUGQtW8/drnpUdqbvWYeBwwyhzkYlwGlz6GhDkq9myouwHgjGEqwY9QeWxrlkyAYQ/3n5wf4GWXBXDT4p0K2GEzNDKztyhmKrLl1IDXCSOlLJQ1Oo9FRehuXt7ze9MEEtV48SWbzBV2J6gQpSXWurha7bNhto411TzGQ3iBB7e3nuYmtd65yQ0sgfZQ9S9CDKRf3iQRCQ4dDQ1w+14iZbvVeopkZ7dqB4d3EeBeXWFoJuCESvHuwpQGGSxgNj6BTkz0MEww6lUyUZ26fJTOW5lieWdhpOJd8i1bOlr63KsveYBhN6uqxw5AtHJq4anCq4wg4e+50o8tTXSoYtj8OUmRN/TtyIBmpJhUMZ5b+Mj1EqWCHlh0jNRVMI/Qb5NnNWPUIhlwAAAAASUVORK5CYII=",
     "wiki_name": "Wyrm bones",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wyrm_bones",
     "equipment": null,

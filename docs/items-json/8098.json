@@ -1,7 +1,7 @@
 {
     "id": 8098,
     "name": "High-level plants",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWElEQVR4XuWVsWoDMQyGozfo1CXLQYabCuUgQwgZSocumVs6ZDgyJCTc0CGhpaV06dCtex9WRSd0lh2PsWXaH8QZn7E/fkn2aPQ3BchRhADf9jXOm4sSoABfNnUfNL6uqj7CVRkF+NHVeFhPBqBwRWZxup7agoAoXUUBff3cWNePbnHA9++FpTtcM9JVFMfPmT2Q1AzF7rmxBaI271Z0OAO13ZU90Pax6p2huG/dpRiuziTAZnY5AC0fzFse8HbpHFrcje2BKE0CRG75QFlefv/ukUImoEnNrzwD8Zx0nr/H2RQeAti9TofDw6+ME93cgJvD6WESMSD5lwCGFAfS6dH/dDDY2eWAQqgYkMwLdDKX3OZ+WmRM0Nq9hDAs3dLajRiQi+RyMLquaBzWmYNLqjiQOOS7k7SGtJwrMSBdPxlgRL4jUuyZIbROHaFZIxiRqSNxFQXzr/QLyLl4IpAyz/IAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUklEQVR4XuWVwWoCMRCGHUSKsuBhC1KhogdvpS09LD1YZQ8eFBFFvHjorS/Q94cps2E2k5ijyYT6w7AhG5KPf2aSTud/CtBEFgI8rgp8Krs5QAHuF0UTNH6fTpvwVyUU4LkucPM5aIH8FYll0rWuMgKidGUF9P37rF0/ssUBTz9jTXdMzXBXUWwvI30grhmK5a7UBaI2rz/6LVBVD/WBvt76jTMUL5W9FP3ViQRYjnot0PxVveUBJ3Pr0Hj2oA9EaWIgcssFSvLyu3cPFzIBDQrzyhsgM8ed5+5xM/mHANaHx/Zw/8vjSDc34GJzfRhHCIj/RYAhhYFkeuQ/GQbs5rJAPlQIiOcZOppLdnM3LTwmaOleRBgj2dLSjRCQjeiyMLKuaOzXmYWLqjAQO+S6E7WGpKwrISBZPwlgWK4jXOyJIaSuHaFZJRiWqiNhZQVzV/oDmvlLECk/88gAAAAASUVORK5CYII=",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

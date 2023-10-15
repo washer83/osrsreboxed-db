@@ -1,7 +1,7 @@
 {
     "id": 6120,
     "name": "Square stone",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-07-26",
     "duplicate": false,
     "examine": "There is a strange green marking on this stone.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACW0lEQVR4Xt2XQUsVURTHPd+g1dvMZmAWAw+EvoBgiIgokiSJSaJJJmqSmWlR0aJFixZB4EJcCEEQBEEIEQQRBBGBCBFBfZjT/M/tzLvv3plnzcx7Ix34wWOYOed3z5y5M6+v7/8I4ha1B/GZOw1u3DfULEVG5GHAjUcJjw01SZGRUJEnCU8TnoVCj28j+RK7IQd7IZ8fG+PxkRFhdGhI6LIUpRIQCPYTDhJeRHxxcpIvTEyIlIpBFHRJitJiwXMjEbxKeB3xzNSUoFJARC0qliIpgoJaPDyMOXwb8/ylGb48PS2oVPAyyqQiKZJCWhQCV2Zn28AxFQvfRNlgAQklpSgt5kooV+fm0t/huzib9+0UlCIvkfAhh485fGpmUkCKZPVeAZeMYiD6nMOXpnQT+c+GGPa/DiN0bWFBkniJ88C5Ll9bIB9mrZAQVoIEK4uLHB01W1gFOmJfk4A8yIknsbTQ+vIyR9/7Dd8cjk9mbWkp7Q62kMJCuG0qdHN1leNf/Rz/bCf64aDif8C1EEIubCHYxUsLISGEbl1f88BxF0jYIAe2D3RneHCwmBAS6GDbQrdvrAuuWCc5uzvnBgaqEUJiW8jGFbPl7O7oFwBk/lEI4Q82CkBgZ2NDcMVcOe0Ohhkv5hIyGmY/yhOyyRLLetRLyGiQN9gQuLu56UnZYjjX3QgrkNEgb44gZONK4Xz7NVGhjAZ1FLLFtDtdlNEwH+86R/e2tlJUSLvTAxkTpgClc+RKoTs9k2kPEoEH29sChNCdmmQ0SEQgBLmaZTRafwxPgYwJFTkVMt2K35Sb6KIlZMxvAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWklEQVR4Xt2Xv2vVUBTHe5BHSAive4u1tViplf6QWiu1P6TWWlsstXTo0MHBwcFBcHBwcBAcHATBoUPBQXAoCA6C4CA4iP/VMd9zPXn33Zu80iTvpXjgA4+QnPO5Jyc3eX19/0cQt6g9iM89aHDjoaFmKTIiewE39hMODDVJkZFQkUcJjxOehEKPbyP5Ek9DDp6FfHl0lC+NjAgXh4aELktRKgGB4HnCi4RXEV8dH+crY2MipWIQBV2SorRY8NJIBG8S3kY8NTEhqBQQUYuKpUiKoKAWD9/HHH6I+fr0FF+bnBRUKngdZVKRFEkhLQqBGzMzbeCYioXvomywgISSUpQWcyWUm7Oz6e/wMM7mqJ2CUuQlEj7m8CmHz81MCkiRrN4r4JJRDETHOXxpSjeRf3p4+DRSRujW3Jwk8RLngXNdvrZAPsxaISGsBAmW5uc5+tZsYRXoiH1NAvIgJ57E0kKri4sc/ew3/HD4fjIrCwtpd7CFFBbCbVOhu8vLHP/p5/h3O9EvBxX/B66FEHJhC8EuXloICSF07/aKB467QMIGObB9oDsXBgeLCSGBDrYtdP/OquCKdZKzu3N+YKAaISS2hWxcMVvO7o5+AUDmlEIIf7BRAAJba2uCK+bKaXcwzHgxl5DRMPtRnpBNlljWo15CRoO8wYbA9vq6J2WL4Vx3I6xARoO8OYKQjSuF8+3XRIUyGtRRyBbT7nRRRsN8vOsc7WxspKiQdqcHMiZMAUrnyJVCd3om0x4kArubmwKE0J2aZDRIRCAEuZplNFp/DM+AjAkVORMy3Yq/Y7o1rJo/qOoAAAAASUVORK5CYII=",
     "wiki_name": "Square stone (Green)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Square_stone#Green",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 19200,
     "name": "Potato with cheese",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-24",
     "duplicate": true,
     "examine": "A baked potato with butter and cheese.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDUlEQVR4Xu2WwUsUURzH9/0Hc5rLXgbm8ODBghePHj0VXTxERB48FMgeDCkzWPDgwYNQFHQQIcJDhIgihArGIihaS1m5aLQQEUREiHgQkT186/sbnjs+dUWdEYP5wpdh3jDf3+d9Z3bYXC5TpkyZ/kspnOwLk8Jgn4+hhz6GS9GR5wO9Pko9PvqLHsae5C8KSuHVozymnwWYGw1QHo+8MBFg/nmAmZFArvFYfhGkDaXQ1eFh8mkeH2ZD1JY0fq1qfFvWWHsTYvlliIWxQHznuodb1zwBagkIlrgiGA75/lZjs2qwuWKws2rwZ83gR0WjMh6Kizc9Aepoz6G1kEvjnWrAbH8x2K5E3v1kUN+4KsetdSNtfZxqANH2vhtXorbc5DMogqF/vtfSCL332WD4vi+uV1vlnK1tvA5xt9MTKAvGe9lWAo9PSSCDv85oaYWD69XCPowArbfJOturzWnc6/LEBLNwCQCp/V0ylLtnM2wjDkM/fsCWCtip/XuXyhr9tz2xBaMTASIIwziE7Qz1HgSxtut8l34vapS6fbGFYk4iQAxjKH9Ngz2Nwa65br31zmCgeBjIwpwLiEEMbwbjAtHNgNwpp1AExOA41HHmdeuUgCgloc2AXBAXJvr2nPtxxaVkwFFALkgcxgVJCMZKyTAXxG3FOkWQuNz/Osc7ZZCG4rs+ye69mTJlukz6C9YMZn6iwhHVAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACD0lEQVR4Xu2WMUjcUBzG7xHCkfCIi1OXClIHh7ZKwaGl3KCIWhQOHBwchAoKXQqCUJxEBFFwKK04CDcIFURboUqLVGoL5YZCoYMgOBQHwclBEG766vcPz4uveqImUiEffIS8kO//e19y4TKZVKlSpbqVUrjYNyaFng4XvV0u+vLhkefdrS7yzS46cw5GBrI3BaUw9jyL6RceZoc8FMZDz094mBv28OalJ9d4LLzykoZSaKp3MDmYxeqMj+KCxvaaxs9FjfU5H4ujPuZHPPGT+w4a6xwBelhTkwRUCMMhv5Y1djcC7C4FOFgL8Gc9wO8PGivjvjjX4AhQ/d0MqqsySbxTZZj97wH2V0Iffg5Q2rwnx73NQNr6NFUGos19D2rDtuzkKyiEobc+ammEPjpupa/dFZc2quWcrX177aPlkSNQBoz3sq0YHp+SQAb/eKulFQ4ufak6gRGgr3dkne0VZzXamhwxwQxcDEDqZJcM5e7ZDNuIwtD9z1yBPCgev0sFjc7HjtiA0bEAEYRhHMJ2eltPgxibdb5LO+808k9dsYFiTixADGMof009zeXBtrluvPc+QHfuXyADcy0gBjG8EowNRFcCsqdcQiEQg6NQ55nXjRMCopSEVgKyQWyY8Ntz7ccVlZIBZwHZIFEYGyQmGCMlw2wQuxXjBEGisv/rnO+EQcqK7voi2/emSpXqf9Jf5doQWGAdIXQAAAAASUVORK5CYII=",
     "wiki_name": "Potato with cheese",
     "wiki_url": "https://oldschool.runescape.wiki/w/Potato_with_cheese",
     "equipment": null,

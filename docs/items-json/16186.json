@@ -1,7 +1,7 @@
 {
     "id": 16186,
     "name": "Skeleton champion scroll",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-12-12",
     "duplicate": true,
     "examine": "It's a challenge from the Skeleton Champion!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACK0lEQVR4Xs2X3U4CMRCF7ZvwCD6cMTHxznjhhZooERURBARFEEQQUYkaE19rzGk97FBx1bW6O8nJsvx0v56ZTsvCQqIw4pSJMHJeLstJoZAFKCOD1rn0z5rSOCpaoMVcLn2oUbstw4tWdoDgDoBuO533tKWaOgdULx7aOgIYHIvA/h3OATWPS1I72LdQBINQX7Nw8xQsjLSrVWlVKhYILgHKB0PhXzUbclmrWUCkdjK4lpfxWF4nk5BQRnqn9SkUnGL6CKbFdEKAgu66XQsUaDEYO3NAYfYAQ0+i5sHBtfLenhU+I0wAIGNn99DvW/ufRjfyfDuyswYk4HQ6deEDppTPS3FnJ5Q782FwhfD+fa9nU+O7p10L6g4eSBjocTj8IEDDMTZOFLSuuWDuaBg8GK/j5MPAqUDuRDAEQXriVNhale31ZQuk20MwdzhrPhCAn2l3Y8Vqc21p6k5AIAejQVAjcUL9sCkSRp8Kfgjkt3YzA8LGFifUDmHYmxLD8JyDAXHPlcJV85UIgyUPEL2qfgiDmAXSvQTvQdw8PxO+g98ABFdOLAEMwtiB2G0xIEQwfQ9wX1ziBOGOn9AdhLHtnTs2ihFgPhClnSMMQeDWL2EY/pnF7ewayncQgrME4UEtAIwLDhQN6MBYV7q2fDikTgP5YwcLH4xi4/PB/hyIocEA42+cuAZN13dDg+mjasDdPFkQjFCpuPMxXEfn3+qUYRgufRlwJ4pMwYSON1w7iRzY0lAXAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMUlEQVR4Xs2X2y5DQRSGzZt4BI8hLiTuxIULXCBNHYrGoVTRpqhTnUUjIi685JJ/jb9dnVaxDd0r+bO7e5j9zb/WrJkODCQKJ16pCCf7+bxsZLNpgHJycbAvZ3slKa7kFGhocLD/UFeVitTL5fQAwR0A3VSrH2nra+o80PbyktYRwOBYC+zf4TxQaW1VthYXFIpgEOqrHa6booWTyuamlNfXFQguASoEQ+Gf7BblsFBQQKS2cXEur3e38tZoxIRycryz3YSCU0wfwayYTghQ0P3RkQJFWgxOZw4ozB5g6ElUNzi4ls9kVPiMMBGAnM7u8fRU7X++upSXm2udNSABZ9NpCx8wq/PzkpudjeVOdxhcIbz/UKtpakL3rGtR3cEDCQM91esdAjQcY+NEQduai+aOhcGD8bqXQhg4FcmdFgxBkJ5eyk6PyczEiALZ9hDNHc6aDwTgZ5qbHFVNjQ833YkI5GEsCGqkl1A/bIqEsaeCHwKFrd21gbCx9RJqhzDsTYlheM7BgLjnSuGq+UqEwZIHiF1VP4RBtAPZXoL3IG6enwnfwW8AgisnlgAG4XQgdlsMCBHM3gM8FJc4QbjjJ3QH4bS9c8dGMQIsBKKsc4QhCNz6JQwjPLP4nd1ChQ5CcJYgPKhFgPHBgVoDejDWla2tEA6ps0Dh2NEiBKPY+EKwPwdiWDDAhBsnrlHT9d2wYPaoGnE3TxYEI1Rf3OkM39H5t7rPMAyfvhS404pUwcSOd0hV92i2SkrwAAAAAElFTkSuQmCC",
     "wiki_name": "Skeleton champion scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton_champion_scroll",
     "equipment": null,

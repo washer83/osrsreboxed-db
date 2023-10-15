@@ -1,7 +1,7 @@
 {
     "id": 14500,
     "name": "Crossbow",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "This fires crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACF0lEQVR4Xu2Wa0sCQRiFd/5B3/si+EEIBBGWkBCSkJAWKRIiw0iiCyXSBSEqpKALUZFWRBHRT33zzPY667S7qa1uRAcOIq6zj2fOO65h/H0JUg5dgirLU7SYH5f+BXCC1hbSEqaQM2k6PUaZVEw6JChBm8XJNtBsNklWJiHB8FkiEhkmlKCLWoGq5ewXIIYZOtDN4QLtrU5TaS7VBgoJBhLUrBeptp6TPdKB9KsHLEF3x4v0cr5CRxVL9ghAoabzeLIkYbBlPGkhpQMJOtickYUuFyaCSsd5iPVmbBcORJQ5oCILspIGjY0a9Hi13ZfRG4w4H4I/gGEJysZtKD0BP2OyOKGA0mHZKZlRG4gX9TOuO92dlf1BmZ2HoL56HxI0bxqUjikg/YpOCapX8/LcQToo8/3lFjXONj7TC0T6tvlJyFTQHWeZA4ZSKflDeY85Q3WXcleyu+QP5Z6OAlBQnd/rWwqKS64WV+nwfxbDOIHeH/YHByUdV2AoMj/3eD/rCHpr7g4GCkWHrfHWa+s9n8rfP+sIem3seAD3LRuKjYcwFBm9mUhGu7iZoOfbajtd5R/Jnj4YQEgHWxWPjbrcyN1P1xUyMSgR24FA4W+CgbBdmEIYN3IzeoctxlaXpkbktc7p9U/2WykgbJkEibqbB4G7x3Ym5t27nqQW1G/uZx0iIBhbarGvPfFy4BBe0n+xn/Xv/uvP6AO2TFXOgfwghQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACD0lEQVR4Xu2W60sCQRTFd+hDJKKEUmSoaWiUkCYlRS/BLIKgQgp6EBWJJUQRRH/+rTPbddZxd32tbUQHDiKusz/PnDuuYfx9CVL2XYLKqwnKZ6ekfwGcoI3lmITJpaOUioUoPh2U9glK0HZhtgW0kIxQJj4pwfBZYW7uJ6EEXR3mqFJKdgAxzI8D3R0v0/56ioqL0y0gn2AgQY1agQ4307JHOpB+9Ygl6OE0T6+Xa3RSzsgeAcjXdJpnKxIGW8aT5lM6kKCj7XlZ6FJuxqt0rIdYf8Z24UBEmT0qsqBMxKDQuEHNm92BjN5gxPkQHAKGJSgZNqH0BNyMyeKEPEqHZaYUDZhAvKibcd15dUH2B2W2HoL66gNI0FLUoFhQAelXtEtQrZKV5w7SQZkfr3eofrH1nZ4n0rfNTUKmgu5Yy+wxlErJHcp5zBmqt5R7ktkldyj7dBSAgmr/3sBSUFxytbhKh/+zGMYK9PF0MDoo6bACQ5H5ucf5WUfQe6M6GigUHc5Mfb1+vedTufuzjqC3+p4D8MAyodh4CEOR0ZuZSKCHmwl6ua+00lUeSub0wQBCOtiqcHDc5kb2fr4tUxSDMmHaEyj8TTAQtgtTCONGdkbvsMXY6mJiTF5rnV73ZLtKAWHLJEjA3jwI3D22NTHn3vUltaB+czfrEB7BmFKLdfbEyZ5DOEn/xW7Wv/uvP6NPbiIHOEvCup4AAAAASUVORK5CYII=",
     "wiki_name": "Crossbow",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crossbow",
     "equipment": null,

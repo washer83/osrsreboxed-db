@@ -1,7 +1,7 @@
 {
     "id": 28051,
     "name": "Dragon 2h sword (cr)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": false,
     "examine": "A two-handed Dragon Sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZUlEQVR4Xu2W62rCQBCFnTfxEUpBREIgIYiUgFQqFSuVRlFDTaWp0halUCj0tafMLJsNq21/ZVbQA8tCLszHmTPZ1GqnLUD7iiMRCGA7CHi37woLMPR9hrnt9Rjool53BXUYxhGQgRn2+67d2YdxCGRg7gcDBtKhdtAuM01lGA0iDkMgetkw9tMVy8BcRdEZxpICOhqYtNVkGMejTVITlXkt3Eb6jHLmjnKGYDaB52q0lQNlmLfQd+UKsBO0CCb3vaJNgjDGkaRxySAERDCfnUgeZjYe48tyyYVnzUaRl++4UywFXLkAJ6MRvj6vcJWmXFTnhdqkQyzoEOB1HON2vWYonZdDIAIwWoCLJGFXPtphASLoii3Am26XXXrPc9w8ZewW7UK5KUu17OFuyMW/djsGoTxl83nhkv1WRQI+j2jCTGHTLuGWAf/lPU6ne4XLIRaDoZbo745g4b8k3pL/dVQwZ/2iH97KYBLR6BS9AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYUlEQVR4Xu2W62rCQBCFnWeoKElI1AYUa/FSbKrY1IhNlbagFAqFvv9zTJlZNhtWa39lVqgHloVcmI8zZ7Kp1f63AO0rjkQggK0g4N2+KyzA0PcZ5rbfZ6Bxu+0K6jiMIyADMxoMXLtzCOMQyMDcDYcMpEPtoF1mmsowGkQchkD0smHspyuWgbmOoguMJQV0NjBps8EwjkebpCYq85q4i/QZ5cwd5QzBbAPP1WgrB8owb6HvyhVgJ2gRTO57RZsEYYwjSf2KQQiIYD47kTzMfDrFl+WSC88b9SIv33GnWAq4cgE+TCb4+rzGdZpyUZ0XapMOsaBDgL04xt1mw1A6L8dABGC0AB+ThF35aIUFiKArtgBvul126T3PcbvK2C3ahXJTlmrZ/XjExb/2ewahPGWLReGS/VZFAj6PaMJMYdMu4ZYB/+U9zWYHhcshFoOhlujvjmDhUxJvyd86K5iLftEPf98wwvBncUcAAAAASUVORK5CYII=",
     "wiki_name": "Dragon 2h sword (cr)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_2h_sword_(cr)",
     "equipment": {

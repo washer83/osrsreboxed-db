@@ -1,7 +1,7 @@
 {
     "id": 8021,
     "name": "Enchant onyx",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-31",
     "duplicate": false,
     "examine": "A tablet containing a magic spell.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeElEQVR4Xu3X2UojQRgFYPtNcuetb+GFIooyoqK4oCPjgss47hKXcRzXuEXHzBCGGQQvfAhfxRf55ZScpvq3utOVyo1gwcE2aVNfTlV3YlPTxwgakTQmDRmRzE5OyvTEhMmXsTH5PDJiMj40ZDI6MCDD/X0mg729Jn09PfKpq8uku6PDpAGoSBampuTrzHScb3OzJjjGcwjARANMNLBEAtbZ1haCiuKJbQiyMj9vsra4GAe/83wbBxgaDERFsrG0FE+QBWlueY5jw9gcYDYKS9fe2uqDimR3fT0G2RAbY0N0COOy2ijsLU+UG5QGwXl2NIxtEYU9BRRBLYVCLVQSlIbREB37XKKwp7DRsXR1gexlckF0W/p5noO/52bn0nFz5wIVV1djkAtjA54eC4loHI/xWlw6tOQFYkP2UmkMAbz5IRqmW+LSoaW6Qa52XBgNc7XEpQOId+5coO+bG4kX8sFolG4WS4fN7Q3KakdPnpY0lDfoR3FLtpaXg0BpGLxRgHCOF4hXmo3icS1U2sbGT4BwpXmDsLGzWspCuTBBoJ/bRbOParWkUXzMBeIxNjVA+PjIDTra2anZkobZENcbCAKd7O1ltuSCuZ7X7dQNOtvff9OSBuiJddLOxd0aIHzA5gaVDg7etAQUYfaELoh+TINw2XuBLg8PEy0BhaYQ4FzAvCEI34tyg+7OS4mWEMCICwHiswwgfAXJDXqoVuW2dGZaAgpBW0gokF9rickBwojk/nfFoMqnJ3J9fGSCpUTQHgIw0T5gTwzHK+p/5U7+/bqVvzc3Ui2XTf5cXUnl4sIsLdA+8DoxHPpf4fAEYF4HX6CR0XO8i/ECO2V4LTGehm8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACe0lEQVR4Xu3X3U4TQRwFcPbShBveAEKoQQwUUrAG+TCAgBgEKiIi34gIlQ/RNCHGeMEN7+ET8UJ/c6Y5m9l/Z7c7nd6QOMkJS7t0fj0zuy0dHf9H0IikPWnLiGRmYkKmx8dNJstleTE2ZvK8VDJ5Njwso8Uhk5HBQZOhgQF52t9v8qRQMGkDKpJXU1Oy8HI6zuvZGRMc4zkEYKIBJhpYIgF73NsbgoriiW0I8mZuzuTt/Hwc/M7zbRxgaDAQFcnq4mI8QRaks+s+jg1jc4DZKCxdX0+PDyqSDysrMciG2BgbokMYl9VGYW95otygNAjOs6NhbIso7CmgCCp2dzdDJUFpGA3Rsc8lCnsKGx1L1xLIXiYXRLeln+c5+Htudi4dN3cu0PrycgxyYWzA37tHiWgcj/FaXDq05AViQ/ZSaQwBvPkhGqZb4tKhpZZBrnZcGA1ztcSlA4h37lygj2uriRfywWiUbhZLh83tDcpqR0+eljSUN+jTu4pUlpaCQGkYvFGAcI4XiFeajeJxM1TaxsZPgHCleYOwsbNaykK5MEGgnffrZh81a0mj+JgLxGNsaoDw8ZEbtLex0bQlDbMhrjcQBDrY3MxsyQVzPa/baRl0tLXV0JIG6Il10s7F3RogfMDmBh1vbze0BBRh9oQuiH5Mg3DZe4G+7u4mWgIKTSHAuYB5QxC+F+UGXX05TrSEAEZcCBCfZQDhK0hu0G2tJhefj0xLQCFoCwkF8mstMTlAGJH8+XFtUN8OD+Rsf88ES4mgPQRgon3AnhiOOur39yv5dXkhN+fnUqtWTX6ensr1yYlZWqB94C1iOPS/wuEJwNQHX6Cd0XM8iPEPEA1RT4D4A30AAAAASUVORK5CYII=",
     "wiki_name": "Enchant onyx",
     "wiki_url": "https://oldschool.runescape.wiki/w/Enchant_onyx",
     "equipment": null,

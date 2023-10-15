@@ -1,7 +1,7 @@
 {
     "id": 16617,
     "name": "Rock pick",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-07-09",
     "duplicate": true,
     "examine": "A small pick for digging.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xs2W2U7CQBSGnTfgqjfc+Ai+gzHGxJiYkBgkEsEgRJCIuICIQUXEHTdAwLjGK9/x6JnJ0Gk7tFSY4p/8oeky881/zrSMjbkWAas9lz55s3ZjsRVQCaQ++E2l0tP3WxrUdzRo5fzQKfjhtcg8ZCgCJ8X9viwDuiqX4f78fFhpEdjLZiGXycDWegp2NtL0GM/JbAZCnx2WaHr16yto390NAkYowGYyCelEAtZWViAWDkM0FKK/8UiEnkutrtLrl2nNAMShcAEXR0dQq1Zpjz0/PMBnu+UWjNBJcDKcGAGWF4OwtLAAwUBAGEy3CCRC4bOnpQNausfLC2jd1uCt0YCvThu+39/dQfXyxPi4wSKQmBKen52epkmbS/fx1OzuSjZGHzJPbITgIlBOaBSolrECzUxO0jJj02PpsMER5KVeNyxOH29gyYHQPFGEwk1hLp2rdPqXHMi4ekJ78LhQoKXDBsfSKQAiUIxqtkDivbhjeekQznrPwHIHhLu0lM/T0inrHxkQHluB2P34OlGWTn7Z1wWqJhkQ2n71BA52d9UAbYeMQDwl58nsgP8sOVDvchnldN2lCGSCvi5QKaYDKVq9kwikAvZA5icUSw6EHjkQ7jQONLJyxed9tkDmJxSKQHTOR4HQ2NgcCHeax0AMRgQS+wjtIdDvd2iGwciAMCWP+4dAcEoOxMvmYTpcOpQIxFMaARCK/QPkUP8AiH+D2KdDLNvIgHSxtDCdfwKkp+XxDnOWKpgfH9ECzdhXNIIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNUlEQVR4Xs2We0/CMBTFbcjit1Ax0cSQCBgRiSIYRHwFEUVERcEHvgBFNBoxxv/82Fdvm7JuK4OJHZ7khGWP9tdzbzeGhhyLgNWuS5/8/vLCYiugEkh98Iujo46+WdOgtqFBY2sYnjLD8Jpl/mMoAofZnZ4sAzorFODm9PSv0iKwnUrBVjIJa8tx2FhJ0GM8J7MZCH2yn6Pp1c7PoHl93Q8YoQCrsRgkolFYmp+HyOwshINB+rs4N0fPxRcW6PVyQjMAcShcQCmfh0qxSHvs+fYWPh4bTsEInQQnw4kRIBTww8z0NPh9PmEw3SKQCIXPHu/t0tLdlUvQuKrAW70On09N+Gq1nEF1cmBszGARSEwJz094vTRpc+neH+7bu5KN0YPMExshuAgUohoFukxagcZHRmiZsemxdNjgCPJSrRoWp4/Xt+RAaJ4oQuGmMJfOUTq9Sw5kXD2hPXiQydDSYYNj6RQAEciGNVsg8V7csbx0CGe9p285A8JdmkunaemU9Y8MCI+tQOx+fJ0oSycd8rSBijEGhLZfPYHdzU01QOtBIxBPqftkdsC/lhyoc7mM6nbdoQgk/Z42UC6iAylafTcRiPvsgcxPKJYcCD1wINxpHGhg5Vqc8tgCmZ9QKALhSQ8FQmNjcyDcaS4DMRgRSOwjtItAP9+hcQYjA8KUXO4fAv5RORAvm4vpcOlQIhBPaQBAKPYPkEP9AyD+DWKfDrFsAwPSxdLCdP4JkJ6Wyzusu1TBfAMWyIyLHvbXWwAAAABJRU5ErkJggg==",
     "wiki_name": "Rock pick",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rock_pick",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 2312,
     "name": "Burnt bread",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Nice crispy bread.  Possibly too crispy.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xs3W7UsUURTH8d2/wzcLvgiEYAkkJARDQoL+oorogYqioqhXFSUWrRZWImoPColpTwQ9SP/Oze8Mv/XM2bM2007hhcPOztzhfPacuXe20dj/o5niiK7/89FML2bOpPnp01k8e3gqzd0/mYUQ64vX0ruFq2nt5ZUA5X/EwPAcJBQghcesPr+cXj29WEjMd675KKIqIZtp4dHZHhSfQBQCrcxdSItPzmVz+YxAzLfo7a2Z9H3j3t+hBOJY1RHozfylDKS5/UDc93NzOv361NmJ2QxEjnarlYXP7kZedv1qgUgagZY657sgjiPQxtL1AohjgXx2N5qFNpBIDzffPYjkIMDYlhAWtLVysz6QqsS5CMQ87js8OpoOjoykA8PDqTU0VEB9fG1BnWogPRceRHIPYh73HBkby0CH2u0MRQhFfH57qwD68f7B4CDOAxKKSjL/2MREOjo+3oNSpQSrFUQAsCDmArFRBrT94XEXUxlkUVq+hCpDcirjI3qeIpDP3mfkfWf1RCBVxifn2J4n/lQhnzkY+R5EhSIQ19USPsEouW0VMCoYgsym6LO7kS/5CKSq2SqoMr5tgBTCfFu/Ww+I4Pzxycmeyvj2AKAqHkObawFpjzkxNZWB7PLWXqOwEIthNW4u3zCg2S6mFIgVVgbkN0ELsbs01eG1YStUsjqMXZBtm1rWD+QhwlAdQLw2agOpShEowtg3vUBfVm8XQEL57MHIQb5tqpJAtjoW4/8LAeJvx9e1O10Qe1CFfagIsm3jHNeFIaiOWsTW4EFUZ2AQq6wfSO8vG2yYYARinm1XbSDfNs6rBSTUv0mB9N7jPs0FxJIvgHb2oMr7UNQ2C+J4L5B9fmoBRW2zIK7ZvyUWxDz7/AwIYhSfkX5hMTY8iE3RghQVQI2GtvW9wgNt2OenFlDZ4ZFlsIrduf9peGQU/p59PX4Dnz3t6phckJYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACy0lEQVR4Xs3W7UsUURTH8d1XkoQhSZKSadD7/pOKoqKiqKiod1EUIkUPIj0hiGlUKARiImUEvYiiqL/sxneG33rm7BmbaafwwmFnZ+5wPnvO3Dvbam3/0U5xRNf/+WinZ1PH0pPJo1nM3DmSpm8dzkKIlbkL6e3s+bT8/FyA8j+iZ3gOEgqQwmOWnp5NL2dOFxLznWs+iqhayHaavXu8C8UnEIVAC9On0tz9E9lcPiMQ8y36+/pU+rp68+9QAnGs6gj0+vGZDKS5ZSDu+7Y2mX5uPEi/Nh5lIHIcGh/Pwmd3Iy+7frVAJI1A8w9PdkAcR6DV+YsFEMcC+exutAttIJEebr57EMlBgLEtISxoffFycyBViXMRiHnct2doKO0aGEg7+/vTjr6+AurDqysdEFELpOfCg0juQczjnr3Dwxlo9+BghiKEIj6+uVoEvbvdO4jzgISikszfPzqa9o2MdKFUKcEaBREALIi5QGxUAf14f6+DqQ2yKC1fQpUhOZXxET1PEchnLxl531k9EUiV8ck5tueJP1XIZw5GvgdRoQjEdbWETzBKblsFjApGILsp+uxu5Es+AqlqtgqqjG8bIIUwX1ZuNAMiOH9gbKyrMr49AKiKx9DmRkDaYw5OTGQgu7y11ygsxGJYjWsvLnVA7NLCVAKxwqqA/CZoIXaXpjq8NmyFKlaHsQmybVPLykAeIgzVAcRrozGQqhSBIox90wv0aelaASSUzx6MHOTbpioJZKtjMf6/ECD+dnxevt4BsQfV2IeKINs2znFdGILqqEVsDR5EdXoGscrKQHp/2WDDBCMQ82y7GgP5tnFeLSCh/k0KpPce92kuIJa8BbEH1d6HorZZEMdbgezz0wgoapsFcc3+LbEg5tnnp0cQo/iMlIXF2PAgNkULUtQAtVra1rcKD7Rhn59GQFWHR1bBKjbn/qfhkVH4e7b1+A1a9v7SBRRiBQAAAABJRU5ErkJggg==",
     "wiki_name": "Burnt bread",
     "wiki_url": "https://oldschool.runescape.wiki/w/Burnt_bread",
     "equipment": null,

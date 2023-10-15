@@ -1,7 +1,7 @@
 {
     "id": 15088,
     "name": "Ring of wealth scroll",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-09-18",
     "duplicate": true,
     "examine": "Use on a Ring of Wealth to imbue the ring.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTUlEQVR4XtWXfUsbQRCHs9/Ej9DvUEqRSv9pqWhQUCEt9YVoolFTw0kaq02DqagIIiLi5xz5bZjN3GSvd7vXkjrwkHvZ456buezsVSovMwyNmXoYSraXqLNVpfbGwv8gZmjQrlH/YI1OW6vU212hbmN5WmKGbnpbdN3dsEBMU7ycclze2MwYCUmpy+N1ixablEvD110kX+kyqcZIGbr9UXdIGR9aDgyPPjvk8fNvo3fx1cxMiJRxWZEgW1omD34YZOes9ckRlSVGCgHO3N3ZdiqTGi43ZJApZOfX4bwlIkuVCi4YXWSoW1+mZHPJCUEG3Pcb9DBoWh7P9+hp2LLbOMdCnK3fnUVHlNA4xkIM9oFPUGZHwtf0dlbKCw1asymGB+/otLlaiP7emtuWMpFChn42Zy0+KXDRnrNcHb13DPZrFsgwLFU6OywkKSLFxwCPA6WFTnbeTgjlSflkMLZ0uSDjI09KZ4XHlc5Ot/7GSchtLaSlfDJ/TUhTROpPMgFCk40x2XydoqiU3NdC+q4ZYez0bjuy6EOY4NpfFiwhUj6ChViAZ9oQ8qSiysVTvO7YEi0iwYNwe8gS0nfNiJGMvnkRpIzsaWgRsnUEC+kFFqMFNLy0kOXmJgsgFtFMjV3Ea7C4zwPSLMXbEJXdHauDYCF8TTD4ugBFpCCBX7lc5XOd9aojUAgxOQdl4RMCeAC5j6livzZviRAarxDzyBLUpT7Z/UjfGx8sUUIh4RPkkvFHJQuxzD8V0iHF8G/Diw2hqcjI0CWdqoyMdEmLxTN9OUcP1eqXjAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSUlEQVR4XtWXfUsbQRCHs1+kvmH/0KJGRIW0VTGaaESjMZLGtxi0FaUUCkUoFD/6yG/DbOYme73bPSXtwEPuZY97buays1cq/Z9haMjYw1B7Z5la22Vqbi7+C2KG+s0K9Q7X6bKxRt29VerUVsYlZuhHd5u+dzYtENPkL6cclzU2NQZCUurhbMOixUblkvB196ef6aFdjpEy9POi6pAyPrQcuDv56JDHb48H7+LS5GSIlHFZkSBbWiYLfhhk56rxwRGVJUYKAc7cr6udRCY1XG7IIFPIzs3RgiUiS6USLhhcZKhTXaH21rITggx46tXod79u+XO7T89fG3Yb51iIs/WtteSIEhrGUIjBPvAJyuxI+Jru7mpxoX5jOsHd4Qxd1tdy0dtfd9tSJlLI0HV92uKTAvfNWcvjyXtH/6BigQzDUoWzw0KSPFJ8DPA4UFjofHdqRChLyieDsYXLBRkfWVI6KzyucHY61QknIbe1kJbyybyakCaP1N9kAoRGG2N7612CvFJyXwvpu6aEsdO77ciiD2GCa35atIRI+QgWYgGeaUPIkooqF0/xumNLtIgED8LtIU1I3zUlBjL65nmQMrKnoUXI1hEspBdYjBbQ8NJClpubLIBYRDM1dhGvweI+C0izFG9DVHZ3rA6ChfA1weDrAuSRggR+5XKVz7U2yo5AIcToHJSGTwjgAeQ+poqDyoIlQmi4QswiTVCX+nxvnr7U5ixRQiHhE+SS8UclC7HMmwrpkGL4t+HFhtBYZGToko5VRkaypPniBTOVUdAdQw9mAAAAAElFTkSuQmCC",
     "wiki_name": "Ring of wealth scroll",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ring_of_wealth_scroll",
     "equipment": null,

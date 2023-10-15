@@ -1,7 +1,7 @@
 {
     "id": 6900,
     "name": "Icosahedron",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-04",
     "duplicate": false,
     "examine": "A blue icosahedron.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQklEQVR4Xu3W0WsScQAHcO8/+D3dy70c+HAgCCIMiePAMcaIydhQFB2KU5yy6fBaIkKCsGqDtljFNlgLpKIYFcUoImJERUREREQEPfSw/pBvv/u5s5t6yrq7p/mF7+v54Xu/+6HLNcwwZzccTldHw2Hlyh/UG0eo1o5Qqf7GcuUXyhd+YEn9huLSFywUPyG/8AHz+bfI5g6dRHEQpeesRoy6/NMUE/TfYSCfKDqBoiD3AQT3U1YdU1a/m2KCvtuYTT5xYiUj5jHtPquGKZW/mmIU3xZk7w0nVuI6MA8giPdYF0ufT2BG/c1jzA7DnPNcQyTatHMlDtPKux6YJu0eqynGex0BzyqmZ3bsXElbxwyzC17cZjXDjHhW4JcuYTK0acdKHKbkQ1OMvsxc9hVScy+QTD3rifFLNUxMXLVjJW2dbozxzBgx8cQ+orH77MzMhHfbGK9bhVcsYXSsbnUlDdTCaIe3sPgR+cJ75ObfIJN73RcTmrqJ85MbbBkNI4lZyMpFqytx7LPuhUlnXiKVPmD3TD+MtooSrEKWVQQCBesg4yuygnGRcBtjEdT6kozn5b8wJGR1HT0cBd0CL2zSrrPzkph9hFj8ISKxu30xhMS7MPaAjjG8sEZ7uY0JR/bYpTcYM27XOno0VAvDCw3wfB2Er/XEEJI0xdgMOokhfIVWbWPGxhsmGMXudfRwXRjCF2nzFJEZiHEE1InRb2CPWIAkpOEWErRRA2bEqXX0dP5fHlyH1vkX/QdO085nDDPMmcxfD5DzGasJkgAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQUlEQVR4Xu3W72sSYQAHcB+Oh+PkUIbDuJP9argxFXWiU5luyryWCELSYP2CfjAqosFiwaKIglFEQVEEQRRBFAQRBBEEQfSqN70a/T/fnnvc2U09Zd3dq/mF79vzw/eee9DjGWSQgxuC/dXVEKye/IPG8R3U6juo1n5jufoLlSM/sKR9Q2npCxZKn1BY+ID5wlvk8q/cRBFI8lNeM0Zb/mmJCQWuc1ByfNwNFAN5H0P0PuQ1MBXtuyUmNHQNs6kHbqxkxtxn3ebVMeXKV0uMOnQFiv+iGyuRNswdiNIt3sXy5z2YkcCNXcw6xxzynUU0tuXkSgTT6rsumC3WTV5LjP8Cgr7TmJ5Zd3IlfR0rzAaodJXXCjPsW0VAPobJ8JoTKxFMKa8tMcYyc7kXSM89Qyr9qCsmINcxMXHKiZX0dTox5jNjxiSS24jFb/MzMxPZaGH8Xg1+qYyR0YbdlXRQE6Mf3uLiRxSK75Gff4Ns/mVPTHjqEg5PnufL6BhZykFRj9pdifDPuhsmk32OdOYJv2d6YfRV1FANiqIhGCzaB5lfkR2MR4i0MDZBzS/JfF7+CyOE7a5jhDDQZVBxjfUcPy/J2XuIJ+4iGr/ZEyMIiQ6MM6BdDBXPsJ5oYSLRTX7p9ceMObWOER3VxFBxBZQ2INB6V4wgpCwxDoP2YgRaZdVamNGxFQuM6vQ6RkgHRqAl1gJDZPtiXAG1Y4wb2CcVIYsZeMUka8yEGXZrHSPt/5f716V1/sX4gf20/RmDDHIg8xdEPXlmC77h/QAAAABJRU5ErkJggg==",
     "wiki_name": "Icosahedron",
     "wiki_url": "https://oldschool.runescape.wiki/w/Icosahedron",
     "equipment": null,

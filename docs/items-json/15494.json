@@ -1,7 +1,7 @@
 {
     "id": 15494,
     "name": "Fish offcuts",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "Slices of inedible fish.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xu2Wz0tUURTHvf+JO1dCm1ZujHAxJMKQKCUGKaZkipVmmohiRBARERER0bpwIaaJOIOav3CcJh3FycpFiOaPCi3Jdt/4ntdx7hs3Fe/NuPDAlze8mXnvc8/5nnNvVtZRZDwMkspoOBDHcnJwPDcXFcFgJqEMgidPoK2mGrca6lFWeEp0rqgoE1AGod5ejA0Ooq7srEsdF2ucrGVnpwvKINz3EjNjY5iLRBCbnJTrQiyGe83XcPvKZXTV16UrSwbToyOYfxPF8tI7/NzdFZBEPI7F2be439KMO41XJVM+ZinZQbVnSsU3hfn5COTl4cfODr5vb2Npfh6JuTk8aG2RLCmMx0AOxPXKSjEuS0HD0rilgQCKCwoEjr95v7CwnyXfYAa6uzHU04Ph/n4xL7NTXVKCquLT0t42nJ1FH2AYRkxLxaamEI/OyOeG8nLxh8Kxo5g9yicYZ5XRiXHxxKflZfza2xOxJDTz7PS0+ITm1Y4iqAKlPvE/wwFhObh6vqCp4jxaL1TJfXaTimDMGDvqblOjQOmE9gjIuFLfealWJi8zoOa1PfIxkcCHxUVpd0LZg9ADIIPHHe141N6Gh203pG155T01rpqXssFseQbT9+I5xoeGEHk9iqnh4X3ZxmUZmTktn748ValP/4c4uEJ6grPk29YWvmxsiKm1o1g+iub1YUswMmU57CiuWsXvvm5uCtD62prsT+wmGlc7ipli5jyCMmJQXa2unKJ57QG3vrqKzysrYlqFIhAX4ZFnjJiSpuVLbKlxbQPbpdTfabk8gGEYjAy8wrObXXja1YknnR0iGla3AkpLqS/mVY8VHsIwjOxJE6GQdNRkOOzqJN0GVEkg578ewzCMtDMPUxz/PC7wXKOnPNtP6jEHxAmPYTTcrU7Tcq+iYW2xowjlzpJP4R5kDhiNrtJNM21AB8M5XHG70OOnT5752zD7Z+FUkAzAaBwakGQcGpCj+BO/AUHQPn0/nZYyAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xu2W0UsUURTGve+CBL2IlLKhYIqpRCppJlpphrZoixFBRBARRBDRP1D4JJImFKKIlYqIYraJ7CJqUsQ+RaFEIhaBWCBhf8AX35mOe2d9qZjZ9cEDH7PM7s787jnfOfempe1FysMgrpSGA7EvPR37MzJQlp+fSiiD/IMHEKyqxKW6WpTkHhIdzctLBZRBX2cnhp48Rk1JsUutJ6oEqDgnJ1lQBv1dDzE5NISZiQmER0flOhsO41rjWVw+fQpttTXJypLB+NNBRF9OIbb4Gj83NwVkIRLB3PQrXG9qxJX6M5IpH7MU76DqI0Xim9ysLAQyM/FjYwPf19exGI1ifmYGN5qbJEsK4zGQA3GuvFyMy1LQsDRuUSCAguxsgeNv3szObmfJN5ie9nb0dnRgoLtbzMvsVBYWoqLgsLS3DWdn0QcYhhHTUuGxMUReTMrnutJS8YfCsaOYPconGGeVUyPD4on3sRh+bW2JWBKaeXp8XHxC82pHEVSBEp/4n+GAsBxcPV/QUHYMzccr5D67SUUwZowddbWhXqB0QnsEZFypD52slsnLDKh5bY+8W5jH27k5aXdC2YPQAyCD260tuNUSxM3geWlbXnlPjavmpWwwW57BdD24j+HeXkw8f4axgYFt2cZlGZk5LZ++PFGJT/+H2LlCeoKz5NvaGr6srIiptaNYPorm9WFLMDJlOeworlrF776urgrQyvKy7E/sJhpXO4qZYuY8gjJiUF2trpyiee0B93lpCZ8+fhDTKhSBuAiPPGPElDQtX2JLjWsb2C6l/k7L5QEMw2Cw5xHuXWzD3bYQ7oQuiGhY3QooLaW+mFc9VngIwzCyJ4309UlHjfb3uzpJtwFVHMj5r8cwDCPtzMMUxz+PCzzX6CnP9pN6zAFxwmMYDXer07Tcq2hYW+woQrmz5FO4B5kDRqOrdNNMGtDOcA5X3C70+OmTZ/42zPZZOBEkBTAauwYkHrsGZC/+xG/Lx9Ijj+3ZJwAAAABJRU5ErkJggg==",
     "wiki_name": "Fish offcuts",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fish_offcuts",
     "equipment": null,

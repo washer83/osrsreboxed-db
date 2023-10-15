@@ -1,7 +1,7 @@
 {
     "id": 20275,
     "name": "Gnomish firelighter",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "Fill it with firelighters to make pretty fire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu2XbWtSYRjHPd9EOC8O+Ko3MiQCY4iIMpLJRIeijk0QkzaxVsYwzNiqIfUu+hZR9KJeVBSjB0YxemDF6IExxhh9hKv+1+E65z5HC9KjFeyCP0ePx3P/7v/1cNTnO4qj+KdCI6f+StgAueRJmktH6XRhiurz0+OEsiFS8RNUSEWonI1TJZewYJbn4/z5Mb9/lFAmRGJygjJTYXYEMHBFgM6Ukgzz+JGf7t8DzMhcMkGS0RC7Aph2p+gAgjuA2Xim08MHJgwcGoFLNow402rnWQIkqXq9qdPTJ2OAgSuAWWnlHAKMpGr7g0HPN3Srvmx5FpqVIsB06xmHpJjhzpXFFLvTruepWc3Q2XKKIQHrEZQTBmkSkFsXClaLY0GkCu68fKHTpeopapYT1CjFLDAPus0JI0C3LxZZndUSv5dUff1isDuNfIyWZqNUy0SoOjPJQOLYEC71wqxem6Or6wvUvVnh1+gu1A9SdbAfYHcioRBLBSomj7N7AjYAVG+aVIfUeQMYcUdgwsGgQypMLRcZJHXaLweeAFxvpKl7LkOHBwGGgTsBn69HKgzqaXCg+EQPxOXaNK3VZxjmxvks7e0a9HG7PwiE7wkMBuVSIUrV7ORgQHfv+HmwYZ6gUN+/02nnk8FufN4x5QZQhc0AptP4WWcVc3IPAYTQePRvvtLp7ZYpFKnUiBtAFdKMNgcMNgIgd7oGAEJo1lBDHWEhALkBVKH28B2BkXkEd4aEQWj8pJZpi5pAKgCGgkcX4nESCwetZxzgW4s5hsHUBpD6E2QIGITGdiNtmL6oJ6QRC67UZmm5kuYuAqx0E5xZby5w4aMJ3O64V/jD0Hh3uCl2igWwaxQ0ugutjtraeqPz+91vBu3vGfT9MMDXSe145A5C4xsKFBYQKGl/zCKMAAivIXHHw1RJaNwZsFyFgltuKBwhnOvnjvvOQ4QNxU9uBUodlDhCOOdxIfcL+0eWpFCFgiOQwAB6hDBm2De34dRixxGQODemfxp29INza6Tu/C5k4X5yX/tfxw9gf7ABwL8WQQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCklEQVR4Xu2X3YsSYRTGnUuHwStZKUlXxQ3XRV3xY5cVMWxXrKWMxbCN7WMR6jL6S6LoKrqJoqAoIhaKgqKgDyiKgmJhL5aC/o1TzxnOzDujBeloBXvgYXQc5/29z/kY9fl2Yif+qdDIqb8SNkA+tYfmMjHaV5yixvz0OKFsiHRiNxXTUarkElTNJy2Y5fkEf56bnBwllAmRjExQdirMjgAGrgjQ/nKKYa5f89PlS/5RumSCpGIhdgUwndWSAwjuAOb2LZ2uXjFh4NAIXLJhxJl2p8ASIEnVww2dbt4YAwxcAcxKO+8QYCRVL18YdPeObtWXLc9Cs1IEmG4j65AUM9w5vphmdzqNArVqWTpQSTMkYD2CcsIgTQJy7nDRanEsiFTBnfv3dDpa20utSpKa5bgF5kG3OWEE6PyREmt1rczvJVUfPxjsTrMQp6XZGNWzUarNRBhIHBvCpV6YtVNzdHJ9gbpnq/wa3YX6Qaq2twLsTjQUYqlApdQudk/ABoDqTZPqkDpvACPuCEw4GHRIhanno4OkTvvlwBOA080MdQ9m6et2gGHgTsDn65EKg3oaHCgx0QNxrD5NJxozDHPmUI42vxj0+lV/EAjfExgMyqVijGq5yGBAFy/4ebBhnqBQnz/T6e0bg914/86UG0AVNgOY1ebPOquak3sIIITGo3/jgU5Pn5hCkUqNuAFUIc1oc8BgIwByp2sAIIRmDTXUERYCkBtAFWoP3xEYmUdwZ0gYhMZPapm2qAmkAmAoeHQhHifxcNB6xgG+vZhnGExtAKk/QYaAQWhsN9KG6Yt6Qhqx4Ep9lparGe4iwEo3wZn11gIXPprA7Y57hT8MjXeHm2KnWAC7RkGju9DqqK3Hj3R+//mTQVubBn3/FuDrpHY8cgeh8Q0FCgsIlLQ/ZhFGAITXkLjjYaokNO4MWK5CwS03FI4QzvVzx33nIcKG4ie3AqUOShwhnPO4kPuF/SNLUqhCwRFIYAA9Qhgz7JvbcGqx4whInBvTPw07+sG5NVJ3fheycD+5r/2v4wd20g0C5prGdgAAAABJRU5ErkJggg==",
     "wiki_name": "Gnomish firelighter (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gnomish_firelighter#Uncharged",
     "equipment": null,

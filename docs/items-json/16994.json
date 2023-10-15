@@ -1,7 +1,7 @@
 {
     "id": 16994,
     "name": "Mirror",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-07-13",
     "duplicate": true,
     "examine": "A small mirror, probably used for grooming.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUUlEQVR4Xu2WwUrDQBRFO3/gyo2bgItAoRAKEqQUhC5EBFEoiIKgC8GFm676eV36WU/uhJs8xxjH5mXqIhfOJg15h5k7QyeTMWMOGic/kzxOVuWpZznPpJydeIr82JNYysntxVSuFrkHUh+7XQ3FEkhV27FeTT2Q0iKJpZw8XM5qQoE2sJWNlKmYk6froiYc/BtYrTw7spJy8nIz9+wjA9AxSOFbRZb1lXLyenfmhcJBsbD4pkIgHBQLyg/MhN7WZS8hwJNp0CMn7/fnXiocEgtleOJMVglS4aAYKKNLbSb0VynK6EIbyDCNVNcW8q7iBYoTNogMi43jr6X4nL/xvgIs8SAyAMO2z8tvK9UmVZ0mU5nqg1qGzwDENo+LVjEtYiaDD3cPCf+QNRiKIN0y+k0tGKLf65F4mQT5KgMOKIM0Bf4HMsxgxdw/AxRzzJik+QTkkAT/XikKNQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSklEQVR4Xu2WwUrDQBRFO4hIJbSUSqQtlKqgSEGLUMGF4KYrf7If4D8+uRNu8hxjHJuXqYtcOJs05B1m7gwdDPr0OWqc/EzyOFnm5575dCj5+MwzyU49iaWc3C1Gcj3LPJD62O9LKJZAqtiO9XLkgZQWSSzl5PFqXBIK1IGtrKRMxZw83UxKwsG/gdXKhidWUk6eb6eeQ2QAOgYpfGuzWrWVcvJyf+GFwkGxsPimQiAcFAvKD8yEXtd5KyHAk2nQIydvD5deKhwSC2V44kxWCVLhoBgoo0ttJvRXKcroQhvIMJVU0xbyruIFihPWiQyLjeOvpficv/G+AixxJzIAw963828rVSdVnCZTmeKDWobPAMR2m1mtmBYxk8GHm4eEf8gqDEWQZhn9phYM0e+1SLxMgnyVAUeUQaoC/wMZprNiHp4OitmnT9J8Au70o2BHx2fTAAAAAElFTkSuQmCC",
     "wiki_name": "Mirror",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mirror",
     "equipment": null,

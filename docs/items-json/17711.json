@@ -1,7 +1,7 @@
 {
     "id": 17711,
     "name": "Elemental ore",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-06-02",
     "duplicate": true,
     "examine": "This needs refining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xu2W3UsUURjGPf/BXM3N3HgXdCVBSEigiIi4iNKSuLFghillgsliIoqBRIFQUXgRXQRBEPQ/nvid4Zl55+yHI+2uN73wMvtx5szvPOd53zMTE/9j6OF8mbcezrdXHvjd9Vm/15qPoCzoWICdby7e99vNhwHm3UEzPHRqcjJc2+mp30zP/bP0InxeTzqjhsrVEYyAyLVkL8A8T9/7w+ybP8/+BKgSeCThKjACWkjavpUcB5iD9MqfZL/8WfY7KGUVHMFWui5lpA4Pf5V+8UfZjwBEvkw/FWPw3JvtZX/2YsW/3VsdLpRWrZWjzm566TvZd3+c/SwStfi/MTsVlAXkw+Fjf9lZD4A3gIrlrUpdwuRjUYeHo06c/E8haKs/Hm34q9N2VBADw/nFmbthVavz9/zG8nQw8tO1mR6ryiHZGtRRxovgXoAEQ34+btUBcn5u+k4oa/WZ/faC72wthav6jrZqKdkKRo4BpKDGMRfeEYyA2LrqArsiV0d9BojXm4vBjFz5boEwM+pgZltR1VW7cB8P/3ryJMBwRa3e44vIzUdKHSBQh9Vx5bsFaiYHAYi+Q5ZVVZ1XZkYVAV0DQ7jgGdKqc7LT8Bf7j4JKQFkgqgsIGdhWlp2XBWFiAdXwTwlDRditsqvjuwWiEwtIzZCsGjufn5Spa6kDiCrKbpVWRqKWBVJnRhmOChIgvgPFNgpK99SAIfIzivLE0FKHrWJVSgAtkPzTD6hUqVSrBgzhKqUudagMwfBZLb+c0BUNUdvF1qkh0hY48Un8JqgakR+a1sj4RiBKFIuBSNSQh7jy21yy4RvJTvFKot9rqEO4wjckvhEEYDbtFmhr+cw2AaT/pA79SWfcjYCYWCUeg1gIUj5jvHyllL/oUSgj02sbawMxMdkLpDRiFQZPWV/ZcSiD6QUTV9014YIy/UD0EKrQwth3o+rKc7NbZeI5y7F9o/um+CEYXy9Y8pkW0P2Q3vN1jxsQg2/KD8kYSCd2r3sGz/fPkVeVBVKPGvIrad1wRcOU34CxB+WIlOgXeWsQEFsFjH2ViO8YQ1T7UWzaePRYIq6YW4UZV/wFMhYJ8tcK2cIAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADJUlEQVR4Xu2W3UsUURjGPQzD3EQQhWHiN6vYhm4LZpKWISaLIaIYSBQIRhR4EXTRRRddBP3ZJ35neGbeOfvhSLvrTS+8zH6cOfM7z3ne98zExP8Yejhf5q2H8+3lh35nbdrvtmYjKAs6FmDnmwsP/FbzUYB5v98MD23Nz4drOz3xG+mZf56eh89rSWfUULk6ghEQuZrsBpgX6Qd/kH3zZ9mfAFUCjyRcBUZAc0nbt5KjALOfXvnj7Jc/zX4HpayCI9hK16WM1OHhr9Mv/jD7EYDIV+mnYgyee7u15E9fLvt3uyvDhdKqtXLU2UkvfCf77o+yn0WiFv83pu8FZQH5ePDEX3TWAuANoGJ5q1KXMPlY1OHhqBMn/1MI2urLw3V/ddKOCmJgOL8wdTesamX2vl9fmgxGfrY61WNVOSRbgzrKeBHcC5BgyM9HrTpAzs9M3gllrT6z157znc3FcFXf0VYtJpvByDGAFNQ45sI7ghEQW1ddYFfk6qjPAPFmYyGYkSvfLRBmRh3MbCuqumoX7uPhX4+fBhiuqNV7fBG5+UipAwTqsDqufLdAzWQ/ANF3yLKqqvPKzKgioGtgCBc8Q1p1jrcb/nzvcVAJKAtEdQEhA9vKsvOyIEwsoBr+KWGoCLtVdnV8t0B0YgGpGZJVY+fzkzJ1LXUAUUXZrdLKSNSyQOrMKMNRQQLEd6DYRkHpnhowRH5GUZ4YWuqwVaxKCaAFkn/6AZUqlWrVgCFcpdSlDpUhGD6r5ZcTuqIharvYOjVE2gInPonfBFUj8kPTGhnfCESJYjEQiRryEFd+m0nWfSPZLl5J9HsNdQhX+IbEN4IAzKbdAm0tn9kmgPSf1KE/6Yy7ERATq8RjEAtBymeMl6+U8hc9CmVkem1jbSAmJnuBlEaswuAp6ys7DmUwvWDiqrsmXFCmH4geQhVaGPtuVF15bnarTDxnObZvdN8UPwTj6wVLPtMCuh/Se77ucQNi8E35IRkD6cTudc/g+f458qqyQOpRQ34lrRuuaJjyGzD2oByREv0ibw0CYquAsa8S8R1jiGo/ik0bjx5LxBVzqzDjir83BGmkI49OngAAAABJRU5ErkJggg==",
     "wiki_name": "Elemental ore",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elemental_ore",
     "equipment": null,

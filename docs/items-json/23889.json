@@ -1,7 +1,7 @@
 {
     "id": 23889,
     "name": "Crystal body (basic)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": false,
     "examine": "A not so sturdy piece of armour with a little protection from crystalline creatures.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjUlEQVR4Xu2V0UtaYRjGPf/BrraLdSFECAMhBBkyGmu7CLYYW4NkyTZa5LQlYas0Z+ZMzUQ7pdMZmmZhaOhEwl1st/1fz3zf8EyPXrTMw2A+8ODhwPH78bzP930q1UAD/b8S8HfuqwRE4glsBrZhdzgxa7bg7sQ41JMTGH41iWHjS2hM01i0f4LR9AYPHz/pN5SA6nkdYvIA/nAEKy53B4zHH8Sa24M5ixV6vYGBRtXqfkEJMAQ22NH9JIJREU7PpgTj9vkZiPxiahq3dNp+ALV3Qu91SA5FYwiJMbi8WzzGQGQXbq8fH6w2HuVtg16CuqFeCbwQjYB6QZ0x7Hg5ofs+FzsYFuHfjsAXDMPrD2F94wunRWMkKAJKZLJYdrowZXyNO0NDvUAJODktcwpLqw7MWz+2AVFKOqedYQiMfrWW97g3/1aCIqDU0TH2Umksr7kwY3rXyxgFfK/Vkc4VEAjtYs5s7Qo0al9AWIxDazMzEFkzO8PdIqBCqYJ46pCBF2x2jIxoekup1W1An1cYSLdqYygGkkF179BlQtdMSaX687EgJdMKQyNpgtC4eGQNGHLr4nLL17mGBDyIbLVBkQtnFSSzOU6paYKjkfXQl6tKwHh6H2OxHR5fsVJFqVLDYb7ASY3tBRmWEqNiKwL0KCXywuXaOfKFM06M4HInRcSSGQmo565cTZdAPy4ucFQo8Q6kMVJi9P5bJt8BJP+HG1YDKBFB/ecvBmruOEqIUssen/LVoTgQ9YbG1Xom0TOlRSc2Xb6KAVGpi+UqL07JtO46eha/HvBVoxAQSWgDkh+UBPf02XNlgajE1Bn5VcJQjcNycUnRhEid14HcCmz5dsmvgm6WfzPQQAP9K/oN2ul+MOZpSycAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACj0lEQVR4Xu2V/09SURjGOWvlchRrOpg2mv5AW19s0NRqmsYIzUGJRMgg0TtjBCQGOcIVBZrFdEyHlaPa/Kk1/8on3tdxgws/mMhdWzzbM+7udjmfPe9zztFo2mrr/5XA37mlEogkVuCXFuGYcWNk3IqOfiPOmvrRedWEzhtXoLVcx4TjISxDwzBe6ms1lMDe933EU6uYD0fwyOOtg/HNS3B5fRi12qDX9zCQuY/AWiIBg9/Njr5MQYouwe3zyzDeuQUGIl8bMONUl64VQLWd6PY4ZIeiCYTiCXgCQR6jFInB61/APdskj/K0oVuGOqFeCV6IRkC9oM4Ygk84If3sNFsKL2F+MYI5KYzAQgiPZ59yWjRGgiKglUwWTrcHA5abONPR0QyUwMetIqcwNT2DMZu9BohS6nLaGYbA6Fd39xbO3xmUoQgovbaB5fQbOF0eDA7dbmaMAl9L+3iby0MKxTA6bmsIdME+hvCLJHTWEQYia4fN3C0C2tz+jGT6PQPfn3RAqz3XXErVrgFyPWCgrikrQzGQAqpxhw4TOmZKGs2fj4WcTDUMjaQCQuPikZVhyNWLK61c5xgS6JF8NVDk/M4uUtkcp1QxwdHImujLUSVgTIbR+zzI4yt82cP2bgnv1jc5qd5QgGEpMSq2KkAXl5/xwsXSD3zY3OHECC73qYBEKiMDNd2Vo+kQ6NvBAdby27wDaYyUGL1/nVmvA1L+wwmrDBSTsP/zFwNVdhwlRKllN7b46lAdiHpD46o+k+iZ0qITmy5f1YCo1IXiHi9OyVTvOnqOv1rlq0YlIJKoAVIelARnuqzKlq9IcImpM8qrhKHKh+XElKoJkeqvA6VV2PK1Ul4Fjaz8pq222vpX9BvSKhzYK6jk9AAAAABJRU5ErkJggg==",
     "wiki_name": "Crystal body (basic)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_body_(basic)",
     "equipment": {

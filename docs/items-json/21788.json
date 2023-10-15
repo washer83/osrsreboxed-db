@@ -1,7 +1,7 @@
 {
     "id": 21788,
     "name": "Obelisk",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpklEQVR4XtWXT0sCYRDGnc/hZcFDIARLICEhGBIShiRJYpJkkkmaZGZmWHQJPPaNJ555mXV3KTpEO9vAXITl/fHMM3/MZH4VxPFfDIP4fjTilEARvy2XPB4M+KBcTgMU8dN0ylfdLh9Vq7yVy1lCEb8uFqLOZafDh5UK7/i+APmeZwFF/HA75pt+ny/O2qLQfqlkC9RuNvm4VhP/7BWLopBh2ShQ57rXEx+hdApkoBLxx3rN7y8rMTbgoJh2mwkQPAR1AHJSr4uPTIEmw6GUCWAKY2hs5yFn4E2aAqFM+rgDMAZCy0cfJ2l/MyD4JlVAWBfqHU1TIMwf7DPMIvgJw3G3ULADAgwSYGh5pBEQ8ePdRA4zbHtdIaeNRmTJxr/64yBRJL7LwgolrlLYQzA4fHTealmUDLG5h6AMYFCq7XzeDuh5Ngv2mQKZnh+r+TwAwtTGDPKyWQsg12UoGToNUDB2uNMS7jJ3eqDltcNgZpQN5jZYsO7PIaDU1HpfA8jgSHMdFi+VXo264xICcvPnKw+pUgqWoI+iG/67THRa62M/Zfy7fxuf6ie3aR2/b1gAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoklEQVR4XtWXXUsCYRCFnStJwpAkSck0yTDDjzA1zDTMzAzDopvA2/7/P5g48zLr7mJ0Ee1sA3MjLO/DmTMfJhK/CuLwL4ZB/DAacUygiN+XSx4PBnxcKMQBivh5OuXrTodPy2XeTaUsoYjfFgtRp9du80mxyPuZjAC1SiULKOLHuzHf9vt81WqKQkf5vC1Qs17ns0pF/HOYy4lChmUjT52bbld8hNIpkIFKxJ/rNX+8rsTYgINi2m0mQPAQ1AHIebUqPjIFmgyHUiaAKYyhsZ2HnIE3aQqEMunjDsAYCC0ffJyk/c2A4JtYAWFdqHc0TYEwf7DPMIvgJwzHg2zWDggwSICh5ZFGQMRP9xM5zLDtdYVc1GqBJRv+6o+DRJHwLvMrFLlKfg/B4PDRZaNhUTLE5h6CMoBBqfbSaTugl9nM22cKZHp+rOZzDwhTGzNoJ5m0AHJdhpKh0wAFY/s7LeIuc6cHWl47DGZG2WBugwXr/hwCSk2t9zWADI4012HhUunVqDsuIiA3f7Z5SJVSsAh9FNzw32Wk01of+ynD3/3b+AIRPHDV4qqqhgAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

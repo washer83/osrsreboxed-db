@@ -1,7 +1,7 @@
 {
     "id": 20746,
     "name": "Undead combat dummy",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDUlEQVR4Xu2WaytEURSG7X/iJ0hJmhRpkpLUiA5NzTSZxKQhjAynMeN+SUpKUhNKbiFJEqGkkEvyQa7l8jcWax37OOdwvjnLB/PW+2F2ndlP71p7r52WllJKKAGa2SQ3/NlFRS4yE5SA3pgKY91VJo8mKnUrShkBud15HFACBuNxGO/z2trnU8DjKQFvVQUBZaSnOwklYHLID5HaXPB6MqC/vRxGYgptHAoG9bJhShLGcaCJAR80BV0mGHQiGjUkwgKDElQWBJIwEgBLaSwRAwxKA2oIuKiBZTpthzPQup+EruvVzzU2CTpVCOQvz9SBJu53yImrFVNKDNKAQr4cHQjTmXrYI2NK7EBYKiOQhFp5PtZ//ylQ7GyBYNBrLycQv1zm7CNBpwt7qFrJoo3H77Zh/fVUd+fFEmdK34E2385NZgcaUit0INzcCtR/s8ELpEYi0BKup1HxE9Dkw66ekvVrB6RNe4SqDQTo7tl4PTMZ19STOa6UvoYrnjJrQ6NHb7cgejTLASSgs7mU5lhHOB9qvNnUL3jUp58OyNZ0HAT6eF74C+iWxmeHHLC4jvdP8nGfkqmZH4S6xWGedKLhYkg0u2kzPGmYkjz6VrOkgxAyFYSTQ9YIYLT1X35RGkBPpNBQCkEPNEzsa6axSEsHN8cSGYHUxhKaazI1h1Mxyq437NYZZNcbdusp/Ru9AzZUTCa37yo2AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDUlEQVR4Xu2W3ysEURTH3T9BREssCrVk2NpttflRlrDKMtj120oppURKkQeJJEpKHkiSUh6QUFKeJMKTH3/O4Zxxx8wwb+Z4sN/6Puyt2fvpe8695yYlJZQQSoBmNskNf3ZenovMBCWgp02Fka4yk4djpboVpYiA3O5MDigBA9EojPZ6be3zKeDxFIC3rISASnNynIQSMB73Q7gyA7yeZOhrKYahdoU2rg4G9bJhShLGcaCxfh/UB10mGHQsEjEkwgKDElQWBJIwEgBLaSwRAwxKA6oNuKiBZTrNBzPQtDcFndcrn2tsEnSqEMhfnKIDjd1vk2NXy6aUGKQBVfvSdSBMZ/Jxl4wpsQNhqYxAEmr5+Uj//adA7WcLBINefTmB6OUSZx8JOl3YQ+VKKm08ercFa6+nujsuFjlT+g608XZuMjtQXC3RgXBzK1DfzTovkBoOQ2OohkbFT0ATDzt6StavHZA27RGqMhCgu2f97cxkXFOP57hS+hqueMqsDY0evt2EyOEsB5CAjoZCmmOtoSyo8KZRv+BRn37aJ1vTcRDo43nhz6ZbGp8dcsDiOt4/U497lEzF/ABULQzypBMJ5UOswU2b4UnDlOTRt5olHYSQqSCcHLJGAKOt//KL0gC6w7mGUgh6oGFiXzONRVo6uDmWyAik1hXQXJOpOZyKUXa9YbfOILvesFtP6N/oHQAgAyQxiCxsAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

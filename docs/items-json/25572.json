@@ -1,7 +1,7 @@
 {
     "id": 25572,
     "name": "Damp egg",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2021-03-24",
     "duplicate": true,
     "examine": "This egg appears to have been for a swim recently. It probably wouldn't taste very nice.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs3W70tTYRQH8O2f6I1vBF8HEURvhQiJehEUhQiRRSVUIw3FnIypmKw0Fc1+zGzM4TRZNmQt08FkTSv7YSX9Oye/z+Xcnfvs2dzcNXzgcO/u7r3PZ+ec+9x5PId/eMkcpu8PfHhpKRqgRKRXxeJrPy1M96hgxPryMGWTjyjzLmRA6T+iZrgFYhRAHDpm7e0QfXgz6JgYn/GdHk5UVUgvJWeDRShsAeFgUHphgJbn+tS52JpAOF+idzai9CsX3h+KQdjn7DDoY+KhAvG5pUC47k8+Qn+/xHdjXoEwx7H6ehX67Nqw0s6/mkGY1ARKxfttEPZNoFxqxAHCPoP02bXhdZQBE3Fz47MOwuRAcHlLgTbSY+6BOEs4ZgJxJhmErOmgzysSFK8OxH2hgzC5DpINXQ70dXXcAfr9aaZ2EI4DxCj51OwF2lqbcBeEQCkZhPNS4+0UH7xFHS1NNsoEAv5ndsoG7WzGbEzVIInCzSXoWyxIi6Hb5L9+js43HreQJUDb2WdGkD57iWGVATc3gfBd5nkXbc0GVIZCvkvUdqHRvgaZLAKtv9wvyFqDkKFyoM2IXwVgL3quOrKkg3CNAyQWRX12bVg3M4EQuDnOyU0/UNlZD3dTeqKDEo/v0HD7ZZWlow11VgZFdlwFMQrBoO14n52d5bF7tDDURq8C11RzN9QdOTiQzBK2DPoxF6T8TA+tTnVSctSn+ijc20q+5tNGUP79EwGatzEVgfCEmED8OsA7icu28vQ+LY3cpdjATdVHzU0ni0DIDl4bMkMVZgejANL7iB9lBqFcWIfw2Ef7bxhBXC68NlwDMQrHMQGD0MycHZSru/UsXTx1oqhcAGGVliBG6bMbhgUylU2C+NHnZp7saqHOK2fUMfmm5/O/ZyZtENagKtYhJ0iWTYKwxXHrVxZC9hr3T80gPGV7gTAZjvE7jtcp2WtcLtdAetlwXILkXw7GMIjPBQiPvAO0uwZVvQ6ZyiZB2C8Hkv3jCshUNgnCd/JviQTxe4zLVSMIw9mopULvHw4dhEVRgjiqAHk8vKyXCx0oQ/aPK6BKh46sBMtROPc/DR1pCv2aQz3+Adi6sO9qrHqCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3W70tTYRQH8O1FCL7pRdEbobSIoCITyoqSiqWhSJtoKiaWlon2O82S1XAlwzKEYRlWCpaYWNkPKqMo6i878X0u5+7c47O5uWv4wOFud8/u89k55z53gcDaH0Gyh+3zVR9BGonW08OBOhOJ2xEa6gubYMRMsp2mR8/S1OM2C0r/iLzhDohRAHFozOSjVnqWaPEsjPf4TIcXlRMySKP3GpagcASEg0FPh5opOdho5uJoA2G+RP+aj9KP2d6VoRiE15wdBj0fPmNAPDcdCN/7OTdAfxbi9HfhgQFhjb3FxSb06mo4aedfzSAsagON3W9yQXhtA82OdXhAeM0gvboaQU8ZsBA3N95rEBYHgsubDjQ/3ukfiLOEczYQZ5JByJoGvZ+46IIQOYG4LzQIi2uQbOhMoA8vurygN/35g3AeIEbJu2Y50KfJbn9BCJSSQZg31lVJ8ZYjVFVW4qJsIOC/TV92Qb/fxVxMziCJwsUl6HOsgRJtRylycDvtKNrgINOAFl9dtYL06mmGUwZc3AbCZ5PXaujj3XqTobbQbqrYWeR+B5nUoO8zN1YKcvYgZCgT6O2diAnArof3e7KkQfiOBMlNUa+uhnMxGwiBi2PObN8pk53XvbU03l1Fw+eOUXvlHpOl9YUFZo7Mjq8gRiEYtBhvdLOT7DxBQ60VdKv+gGnuwoJ1qweSWcKRQV8HT9Ncf5heXqmm0Qsh00c368opVLrFCpp7ct4FYZdmTFYg3CE2ED8O8Ezisk1cOkkjHccp1nzY9FFpyaYlIGQHjw2ZoSyzg5EC6T7iW5lBKBf2Idz20aZDVhCXC48N30CMwnkswCA0M2cH5aot30a7Nm9cUi6AsEtLEKP06pbhgGxlkyC+9bmZe2rKqHrfVnNOPul5/pepHheEPSiHfcgLkmWTIBxx3vmVqZC9xv2TNwh32XIgLIZz/IzjfUr2GpfLN5AuG85LkPzLwRgG8VyAcMtLEPagnPchW9kkCK8zgWT/+AKylU2C8Jn8WyJB/BzjcuUJwvA2arrQ/cOhQdgUJYgjB1AgwNt6ptBAGbJ/fAFlOzQyGyxHau5/GhppC/2dNT3+Aa96r82kXrRKAAAAAElFTkSuQmCC",
     "wiki_name": "Damp egg",
     "wiki_url": "https://oldschool.runescape.wiki/w/Damp_egg",
     "equipment": null,

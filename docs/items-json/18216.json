@@ -1,7 +1,7 @@
 {
     "id": 18216,
     "name": "Stick",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-01-31",
     "duplicate": true,
     "examine": "For playing fetch with.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABLklEQVR4Xu2WUQcCURCF9/6T/Qm9JElskpUSqyXFskoiIvr/JueO2Xu7pbdm9qHDWOWmz5kzdzbL/uqFHIUyl6N6NaX1fETzycAaytFpV/pq6wU11Yz2m8IKytHlsPIgAiNtG+S5r/QXP5brYFIQMxhkxxhE5HyLYiCj3EAMg/CGAPN3BlCuA0HBIUwYnstiGLmlInZB6tZuPIzydIUbGCG+Nmt6nLd0P1YeCJ8VQ82OwAX8MSDwxN0TgyqAQHzpxU6IG6kjKjCyDlCf3FCAEDFMVY4/QiiCiDi8KUh6SknsjoyxIYjofT+lJxTFUwV3JD+GQGGqZDeZZ0detHoBAxBpl3mr4nYZuvMKIrvJDAYA8X6KgdLTP5bzyxKvDyhxytAd6B3CEIbVC4i/vugJ5QRAZVpjjSgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABK0lEQVR4Xu2WUQrCQAxE3SMIomhRW8VCLWgRigoiCIL3P1FkNqRd1+KfST86EIqy4mMy2XQ0GtQLOWrLXI7K7YJ2qymt5mNrKEeXQ+arLtd0KpZ0zBMrKEe3autBBEbaVqWpr/gXf5ZrYGIQMxhkxxhE5HyLQiCj3EAMg/C2AebvDKBcA4KCQ5gwPDfJJHBLReyC1KPOPYzydLU3MEJ8P+3odd3T81x4IHxWDDU7Ahfwx4DAE3dPCKoAAvGlFzohbsSOqMDIOkB1uaEAIWKYIpt1QiiCiDi8MUh8SknsjoyxIYjoez/FJxTFUwV3JD+GQO1UyW4yz468aPUCBiDSLvNWhe0ydOcTRHaTGQwAwv0UAsWn/yznlyVeH1DilKE70DeEIQyrFxCDfugNsB0Xk7xjg/kAAAAASUVORK5CYII=",
     "wiki_name": "Stick (item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Stick_(item)",
     "equipment": null,

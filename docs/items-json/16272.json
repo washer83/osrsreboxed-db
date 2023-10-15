@@ -1,7 +1,7 @@
 {
     "id": 16272,
     "name": "Shears",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "For shearing sheep.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+UlEQVR4Xt2Wa0sCQRSGd/6BP8FvQRBEECEiFBISiiRJYVKUkkqWZGZmN8zuNwoi6N+eemc6OrOtfml3jA4c0F3Z8/C8ZxYd5/+XINV/ogSdNpu0X61qUCOBU1YuT07oqF6nnVLpG0jQwe6ObWOC3h4e6P6iQ512mw73aj0YfGagyXDYBpSgj9cXerm5odvOuREXw/B3a0DvT4/0fHUl4zpuNH7YsQ6EuB67XSMuHaZWqdgFer27k3Gdt1oSBEs9cqDrs9NeXADSYfjEWQNCZIgLIF52LAIJORQQiAuGdCCArK2s0EI8bgNIyIEAAgCOeyGfp2gk0tsZvQETIJCC2S4WJRBswM7Gao7mYjEDQG/3U3wqFdPW+roE4v0AkKV4TPXYEUQDILR+PZfNBh2PoHIyRIWEauxJeXNTmkD3TSig5UwmSDt9mLV4iHKzIVqKOjQ95tBSOu0yoYD06+6n+VDeQKkZh+anHMMOGidtMZm0DwSY2IQCcv8mlUjYBWI7iM3rPoADAvp6z6RDxkDdznjYBPKK0/3EX1YfyMvOMCCO02dLCki3w8M4LgZy7xff9x3Iy46+zDow/0aPMzAgtoPuD/pp0G3HZyCUkAMxTD89DKTvj3t3AoDhGvT3wTSovygDhFHFQ8xBKjIGsgYzvAbZG2F52/uH9Qkm82gcpExeUwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9UlEQVR4Xt2W20sCURCH9+BTEPVQFBqZJhldyIouRppF2Z3udjcrLIge+v+fpn7nNDpnXXtp9xgNDOiu7Hx8vzmLnvf/S5HpP1GKTvf2aLtUElAdgTNWrk9O6LBcpvXV1W8gRbsb666NKXqr1ejhskKVoyPa39pswOAzA82mUi6gFH281Kl+d0f3F+dWXAzD350BvT890vPNjY7reGenxY5zIMT1eHVlxSVhNotFt0Cv1aqO6/zgQINgqTsOdHt22ogLQBKGT5wzIESGuAASZMchkNJDAYG4YEgCAWR+ZoZGk0kXQEoPBBAAcNyX5+YoPjjY2BnZgIkQyMCs5fMaCDZgZ3E2R8OJhAUg2/+UkMrEtLKwoIF4PwDkKB5bPXYE0QAILa/npqaijkdRIROj5bRp7ElhaUmbQDdNGKDpiYko7TRh5pMxyg3FaDLuUX+3R5PZrM+EAZLX/U8LoYKBxgY8GunzLDtonLTxTMY9EGASvQbI/5uxdNotENtBbEH3ARwR0Nd7JhuzBko7PV02UFCc/if+sppAQXZ+AuI4Q7ZkgKQdHsZxMZB/v/h+6EBBduQyS2D+jYwzMiC2g24OajXotxMyEErpgRgmTw8Dyf3x704EMFzt/j7YBuWLMkIYUzzEHmQiYyBnMD9XO3sdrGB7/7A+AZG1CnpNjMxZAAAAAElFTkSuQmCC",
     "wiki_name": "Shears",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shears",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 12464,
     "name": "Mutated Terrorbird",
-    "last_updated": "2023-09-20",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": true,
     "release_date": "2023-09-13",
@@ -19,7 +19,7 @@
     "poisonous": false,
     "venomous": false,
     "immune_poison": true,
-    "immune_venom": false,
+    "immune_venom": true,
     "attributes": [],
     "category": [
         "warped creatures"
@@ -34,7 +34,7 @@
         "duradel"
     ],
     "duplicate": false,
-    "examine": "",
+    "examine": "Looks even nastier than the normal ones.",
     "wiki_name": "Mutated Terrorbird",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mutated_Terrorbird",
     "attack_level": 90,

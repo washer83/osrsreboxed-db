@@ -1,7 +1,7 @@
 {
     "id": 4015,
     "name": "Monkey bar",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-06",
     "duplicate": true,
     "examine": "It's a monkey bar. It looks highly nutritious.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADA0lEQVR4Xs3WTWsTURTG8eQbuHLTTcBFoFAogSJZCAUREUUEwS66ciG4ceFCECtSKyoVFUVRUNFSxbRK1VJqfWkhpba+IVYtfp1r/zM8kzO3NzHTjNILh5lM7uT8cu7LTKGw9VvRhSP0/T9vRfdy/JybGjsbxfNHQ27ywZkohFicuerq01fcwqvRAMr/Ex3DY5BQgBQ+Zv7FZffm2cVUYj7znR9pVCZk0U0/Ht6A4ghEIdDc5AU38/R81JdjCER/i15bGXc/lu5vDiUQ56qOQO+mLkUg9W0G4r5fy2Pu9+faekxEIHL0lkpR+Nm9Fpdd/1ogkoZAs7WRBMR5CLQ0ey0F4lwgP7vXiqlhIJEmN599EMlBaHibgVbmbuQHUpW4FgKpkgJRNR/06a0F1bKBNC98EMl9kPpxXyvQl/c3U6CfHx52DuI6IKFUSe45trs7WUEh0Nf5W/mCCAAWRD/6jwzsdMNH+tzR/rLb29uVwISh7/f6nQS09vFJgskMsih+3ILoe+pgxQ1Ud7jThyrJuY5C0Xe1fjcI8rM3afE/ZD40A9nKMFxU5uT+Xjd0uC91Tb+1unhvs6B4D6JCzUChygzuKifXgHEOqFre7iqlbdE9Cchsin52r8VLPgQiALVbGYACbahQJyChtLRJfGJfT1SJ/u6upEqa0KqMgnuoai4gWyW+Gx2sRtUBpWE6vqcnAoYgBBN6+fV1A5pIMG2BWGEhkH3FEEhzhepQLYvRkqc6PDZshdqsDq0B8ueRNjsekoKBUYQwVAcQj43cQEJxnQSASKKKMYmJAxUSpF/OBGKXtiCh/OyBFoNCwxYCsfJULUJDa0H0/7ZwOwGxB2XYh9IgO2wWxJHreqRoW/BBwDsGscr+BiKZfQeyIM01DVduIH/YuG5BJLcg7VXcp76AWPIp0PoelHkfCg2bBXHeCmTnTy6g0LBZEN/Z1xILop+dPx2CaI1V0yr8+aPwQWyKFqTIACoUtK23Ch9ow86fXEDtNh/ZDlbR6Pufmo8MhX/Plm5/AEVPbQbE6SSLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xs3W3UsUYRTH8V0ixFgUWUlIKCsqiJC8CbrooosugiAjyagwKiqKCKIoRIpeRHpDEHuhQsEQEykjiIqiqL/sie8sv/HM6dlt153CBw4zO/PMns+e52W2UFj5rRjiEbv/z1sxPBo5HB4MH0pi7EZ/GL12MAkhZidOhZnxk2H68VAE5X9E0/AKSChACo+ZengiPB87lknMZ+75yKIaQhbD+M2BP1AcgSgEejp6NEzcPpL05RgD0d+ivy+MhK9zV5eHEohzVUegl/ePJyD1rQbiuW/zw+Hn4p3wa/FeAiLHzp6eJHx21ypl168WiKQx0OTdwRTEeQw0N3k6A+JcIJ/dtWJmGEikyc1nDyI5CA1vNdDCs7P5gVQlrsVAqqRAVM2D3r04l4KIhkCaFx5Ecg9SP56rBXr/6nwW9OZ68yCuAxJKleSZ3evb0hUUA32YupAviABgQfSj/2Dv2jCwozPs6i6FjR0tKUwY+n6auZSCfry9lWIaBlkUX25B9N2/tRx6u9aEA9vK6bmOQtH38+vLUZDPXqVVfiHzoRrIVobhojL7NneE/u2dmWv6ri+zV5YLquxBVKgaKFaZvnWl9BowzgF1lVaHcuuq5BmB7Kbos7tWWfIxEAGo3soAFMhXqCmQUFraJN67qT2pRHdbS1olTWhVRsEzVDUXkK0S94b6upLqgNIw7dnQngBjEIIJPf/kTApilxamLhArLAayfzEE0lyhOlTLYrTkqQ6vDVuhOqtDWwL5eaTNjpekYGAUMQzVAcRrIzeQUFwnASCSqGJMYmJLuTX5bF+sArFLW5BQPnukVUCxYYuBWHmqFqGhtSD6f5y+mILYgxrYh7IgO2wWxJHreqVoW/Ag4E2DWGV/A5HM/geyIM01DVduID9sXLcgkluQ9iqeU19ALHkLYg9qeB+KDZsFcV4LZOdPLqDYsFkQ9+zfEguin50/TYJoS6umVvj5o/AgNkULUjQAKhS0rdcKD7Rh508uoHqbR9aDVSz1/U/NI2Phn1nR7TfZWXAjSC8F7gAAAABJRU5ErkJggg==",
     "wiki_name": "Monkey bar",
     "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_bar",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 11268,
     "name": "Dummy",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACD0lEQVR4Xu2V6UrDUBCFvW/iI/gI2iWtLyGKe7RGBekPF9z3pW51qVq1oigi6G/fbcyZOEmapFg0Nwh64NBb7pD57szcpKXlX39Piho7UTlJzd5e9mBPD7u/q8t1glCK5opF2liYp9L6Oq3Nz/Ea3lpcpJ3lZd6fHBlJolqKAZAUybHO53Lsznze9crsDO/PTE3pBFO0t7rKEEvT02QYBuU+nRd/wokRJ9UDXIxQituDU2fTaTIyGTKyWYYSCxwD2jCyxh4qhlnDc9paW+OAUnS8vcXVydhAdVBB+8AY1o4DkMDEBoQKoQWAETNUlKV69m8mleKDxFgdyKuQHwhOdbSHLFCYORzkcHMzbiDIgUL5gwBRxrwBRl4DGoCg5qAAUt7d4dslVz7G+fFL0XihwFB3lXM6Le1R5eCALo+O6ObkhGpnp3R/UeEWTVgWWyOMSLkwBXPY9ZhpkmW/BCfHLbIKo641tUrkwJzvlziROTDQ0JpbBTkwaJEkC0L4YQREGwxmo1ou+1rwNVDwKTHJgUF16lugaKivL9IagRwYODwPivq7uyOtCciDwY2KTlIPhf9h8Fik6OHqki03KjqJB+SPCcf9SB6Mf4gbJ9FWFciDCQ9xYzUT800peqxW2c3CaJSi59tberq+5g+jAAWjEpKi97c3eqnVvhjixKTo9eG+ySFOTFpvy/f0q2B+gz4AaAicdaN1BAAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu2V207CQBCG3TfxEbwgBJPKWRPChSAoclDOgoqgohJEDBqjiRfyBD7r2H832xZaAtFuY6J/8oeFnXS+nZkta2v/+ntitNieSiQNBgLcmt/PvenzGfYQilEmmaTjg306OTqiUjbD13All6NaPs/3d0IhL6rFOACSIjnW8WiU4rEYbcPxOO3oLuyl+X46kVAJxqhRLHKIw1SKouEwxSIR4aiwhOPW14iT1QOci1CMtwenDm1pFA4GKaKfHFCGJVxEgOETv2EPFcOs4Tkb6+tuQDE6r1Z4dYKaNgM1YwuchEEcgCSMa0CoEFoAGGkkc7IEAyQOgIO4WB3IrJAVCNY2AzbL6mHmcJDTctltIEhAofzzAE7GvAFGvgYUAEGrQQHkol7jt0teeRfnxyp9lnQgQD1eX1Gv2aB+u023Z2d03+3Sw2WPJjd93qKWDgQrhJFiBky1VDRc06tS10FOG3VqVo4NK2qVlIC5ap3wRCW8rRdYcasgAYMWyWTzEFYYCaIMBrMx6HQsLVgONP8UlyRgUJ3ZFjAqZLOOVggkYGD7PDA62N11tCIgEwY3yjnJLBS+28FdEaPnu1tueaOck5hA1hh73I9kwliHeHESZVWBTBj7EC/WKjHfFKOXwYB7VRiFYvQ2GtHrcMj/GCXQfJRHYvQ5ndL7eLxkiD0To4+nyYpD7JmU3pbv6VfB/AZ9AbkTXVRk21vmAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

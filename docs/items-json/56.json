@@ -1,7 +1,7 @@
 {
     "id": 56,
     "name": "Oak longbow (u)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "An unstrung oak longbow; I need a bowstring for this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBElEQVR4XtWXQQsBYRCGd/7Bnvayly1/wP9xc3BykyKllEQpSm3aFBJFiaRclIuLi/yj0TR9sV/u83pu+83l6f1mZ3aDIAdx/tkU4kuWsErBiBGPGxGfp1BiKrLoxThixURF6uUQS8xJ9GvRDzEjOZeWL3Zfu3MjvsUmrU/j67kpxM2K9haIkKDXd1saX9sH4mop5M0QMKXXsYCSkqAD9LkHk8o6MT92YFJpO7KfTXl0HAC9eYIOzuscTGrWBRsHcnVAQgLxKQW7NlnAcCkdJtpLfsUI4u0IrLll1zkpv2oE8WoAlpIsXyflV41QKaiU5GvASflVI3THSUIgKelfC4zMX/MGaLzHxHrrng8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBElEQVR4XtWXQQsBYRCG92vbNn7F/gRODi5uUpJSSqIUhy3SliIpDhxEKeWo3NzclH83GtPX2i/3eT23NZend2ZnludlMJR9VsXQJcmRSMGIGRrVAzpPocREZNENccQKUfSRqJV8LDEr0asGP8SU5Gxarth9beWU+BaLm+ngy++qGGqUZbZAhBhp322p3LYUQ5WiT5sBYEqvYx4lJUYW6HMPJpW0Q3rswKQmrUB/N2WRdQD05jGyOK9zMKlZB2wdcOuAhBhDpzFY2/gAw6V0iGWW3IoShrZDsOHmW2el3KoShlZ9sJT4+Fopt6qESEGlxF8DVsqtKiE3jhMCSUn+tcDI/DVvMMy1IAz99E0AAAAASUVORK5CYII=",
     "wiki_name": "Oak longbow (u)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Oak_longbow_(u)",
     "equipment": null,

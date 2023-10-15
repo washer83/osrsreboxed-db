@@ -1,7 +1,7 @@
 {
     "id": 12328,
     "name": "The Forsaken Assassin",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": true,
     "release_date": "2023-07-26",
@@ -18,7 +18,7 @@
     "poisonous": false,
     "venomous": false,
     "immune_poison": true,
-    "immune_venom": false,
+    "immune_venom": true,
     "attributes": [
         "spectral"
     ],

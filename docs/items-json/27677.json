@@ -1,7 +1,7 @@
 {
     "id": 27677,
     "name": "Accursed sceptre (au)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-01-25",
     "duplicate": true,
     "examine": "A mighty sceptre used in long forgotten battles.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xs3VbUsUURQH8N1v4keQQEJCMCQkDEmSxCTIIIQEqQgLtTAjSymR8kVkD6uZq9VWJmYPCoqtFhL0IL7oy5z83+E/njne3XbdKbxwmJk79+797bkPk0js/ZIUf/je//OSlNfjVyWT6nHx4km3TD/sckHE8uxtWZoZlMU3Ax6U/RMlwwMQUQAxLGbh1U15//xGZGA8452NKKooZFJmnvbuQOEKCIOg+enrMjt5zbXF1QdCe43eWB2XHyuju0MRhHtmh6CPmX4HYttcIPT7lU3J5tf0Vkw5EMYoLytzYUc3JUg7/zVBGNQHmkv3hSDc60wwVubuREC4J8iObkoyMg0YiIsbzxYEOBDAcPAL7e0u2lpb5XRLi5xsanL1sYGYJdT5QGiHfqdONMuVs3dl6NKzHRn68mFYgdLFgbguLAiDWxDaoc/RujrpbR/ZAdE7TIN+fn5cOgj1ABHFTKLP4Zoa6eu47+6XP6Wkq/OM/N7MhrDBi2PuGhsIAYAGcUGjz77ycjlQWSkHq6pkcX5UXk4OSc/lthCENUXQxtpEiCkapFHcvhakF3R6bECONzTI28yIrC1Nyno2kxdkR89Rgh/HYPlA+mhgH0CO1Na6TE2kboX12HG7BAVnEDL0NxCziD7NjY1u2hB43l9RIf3nH0l327DbfajjotaHoh3dlGDL+0AIHwj1BByrrw8zAhiyhMCCjw1EFAIgnLgA4Z4LWk8Z+nGb6/i+/KB0kM4SrhqEdmjfea7DXZlFghjIZPbdkAJNhZiCQNg5PhA/mARpDDKUC4S2q/PDkQwVmB2UbZBdR6gnyGJygZAdgPDZiA1EFOoxgJ0mDdKZ1KD1hXsREFF2dE8JQL5pC35gG4P3hYCQ0W+LIyEIZ1AR51AURBTqD1VXhxhueTtdFoTslAzC7tEg1OFLju8U7jEABuMnw4K41jhdsYEQeMaBh1OYmSGInww9XQThNwjClo+Ats6gos8hPW2oYz1BuM8H0usnFpCdNqwXDcI734JGoJ1ePyWCUKJHfq6w64dhQTgUNYhRBCiR4LGeLyxQh14/sYAKLRZZCJax3fY/FYv0he2zp8sfpuxUxFt5F/8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3VbUsUURQH8N2PIEmSkmmSYYYPQUYg+cKKsEAtychSSpTyTYQ9+ECmJaYVkphFhUIhZlZS0IsoCnvT1zrxv8N/PHO8u+26U3jhMDN37t3723MfJpHY+iUp/vC9/+clKY+Gz8jUYKuLidstMn6j2QURizOX5PV0lyw87vSg7J/IGR6AiAKIYTHzDy/I84nzkYHxjHc2oqiskEmZvtO2AYUrIAyC5sbPyczoWdcWVx8I7TX6x8qwfFvq3xyKINwzOwS9nOxwILZNBUK/78uDsrY6Jr9W7zsQxqgpKXFhRzclSDv/NUEY1AeavdcegnCvM8FYmr0cAeGeIDu6KcnINGAgLm48WxDgQADDwY83NLior6uTQ7W1cqCqytXHBmKWUOcDoR36HaypltNHrkj3ybsbMvTxRW8IQmQF4rqwIAxuQWiHPnvLyqStoW8DRO+wCOjtrdxBqAeIKGYSfXYXF0t74zV3v/hqQJqbDsvvtXchrOvEkLvGBkIAoEFc0OizLS9PdhQUyM7CQpmf65cHo93Seqo+BGFNEfTzw0iIyRqkUdy+FqQX9NhQp+yvqJAnk33y/s2ofFqeSguyo6cowY9jsHQgfTSwDyB7SktdpkYGLob12HGbBAVnEDL0NxCziD7VlZVu2hB43p6fLx3HbkpLfY/bfajjotaHoh3dlGDL+0AIHwj1BOwrLw8zAhiyhMCCjw1EFAIgnLgA4Z4LWk8Z+nGb6/i6eD13kM4SrhqEdmjfdLTRXZlFghjI5PLT7hCEU5qYjEDYOT4QP5gEaQwylAqEtivPeiIZyjA7KOsgu45QT5DFpAIhOwDhsxEbiCjUYwA7TRqkM6lBn+evRkBE2dE9JQD5pi34gXUM3mcCQka/LPSFIJxBWZxDURBRqN9VVBRiuOXtdFkQspMzCLtHg1CHLzm+U7jHABiMnwwL4lrjdMUGQuAZBx5OYWaGIH4y9HQRhN8gCFteg3AGZX0O6WlDHesJwn06kF4/sYDstGG9aBDe+RY0Au30+skRhBI98lOFXT8MC8KhqEGMLECJBI/1dGGBOvT6iQWUabHITLCM9bb/qVikL2yfLV3+AD1XZA2QQnZ4AAAAAElFTkSuQmCC",
     "wiki_name": "Accursed sceptre (a) (Uncharged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Accursed_sceptre_(a)#Uncharged",
     "equipment": null,

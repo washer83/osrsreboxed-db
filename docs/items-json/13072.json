@@ -1,7 +1,7 @@
 {
     "id": 13072,
     "name": "Elite void top",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-05",
     "duplicate": false,
     "examine": "Superior torso armour from the order of the Void Knights.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADXElEQVR4Xu2V7UtUURDGvX+HXxb8sCAIS7DIIgsrIovsIi4uyiaCGihkRCZGpoGRiVmmEYlppahpmqaZpqai5hu+ZL7hZpqoYfRfPDmznPV4NLuJ65f2geGu13vm/u4zc+aEhAQV1P8pDYfjX+6duTQ442yIjbYgKtIEU4SRX2YMC+MwhIZy0D35GYPBd0/NdkodfGVWRhIyUl1ISXbAnRDLcFnp6biVm4v7d4pQXVmBptoa//9kqHCj4Swc03DBZEJEeDg7cDnDiaw0By6l2JHmiUVqUjQ8iTY/yNvGRvS+aYM73gqXw4K4GDNirCZYLRHHuqi+7S/SEGWxINJs9kNRIhnEaY/kF3a9akJfezuGursxPjDgBxEwMpCAovwmA7mmS/s9YLMh2mplKArhEgERzMTgIAMQyLuWZvR3dGC45z1Genv5Xlt9PYNYzEYOsV6FUt/8B2n7XxnDULJDlOjb6irmJyc4pkdG2BEC+djZyTAE2f26Ba11dairqkJFSQnuFhQcyUOh0yUNCQ7HIXdEsp+7u1hfWcHizAyW5+ewMD2NufFxzIyNYnJoCInx8Rjs6kJPWyvaGxoYqLK0FPduF3IOOZcMpRIo0niRWCh/1d7ODrzLy1j5PA/v0hJfCc7jdiPJ5WK40b4P7BY1d/PzWjx9+IB3oMipOqWzdBovECES/NjeZocIZmNtjeFWFxawMDWFpdlZdo2uY/19XDrqo5rHlSgvLva7TbnETpObW1fp1Njd2sKm18sw2xsb/JuAyB0qX9pFD2Y/jfl7i5pdlE3NJUInjE/iYd8CjSG+r39lIGpughGuTA0PsyPUzNRD1Oh0pfn0pKzs0MvVUN+rU/tAm5vsCsGsLX7hHiIY2nG0EWhnVj0qR+OzagZrefmC//5nJ/RLY3eoj2R3qFxUNmrYwrw8bmIqE01w+i2A1GxnIM1fKnKHwAjw194eUpOTuWFp5hTl5zMYxc2cnMACUalEM1OpaOfQzKIgh8QRc+PaVVzPzsaVzMzAAsnzhGAIkGaRGJDU3LTt5Tmjc9acRr4Dl4JcUgeoGurwC5hLslMqgBri+QDtMiEfkNNu560uDmLRS8JF+QANIAzJdwBTnAQV4FKpOnoMHBfn4M6B5PF/UqjrggrqvPQb8oWen/gWRawAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYUlEQVR4Xu2V/y9VcRjHnZ/s2h27686da77eYdc1FxvaWNpKpjXRpiWTkrSWJn0zE0likhRJZcwkzIxJMmOGLLNGZk0/9Me88zx3n+v4kA5z/dJ9b8/OdZzPc17n/Tyf5+Ph4ZZb/6cUbI293DtwKQgL9UdQgAl+vgYYfPT8Mr2XF4fO05OD7qmf0ekc9+Rs+9TmVyYnRiExzorYaAtsEUEMl5yQgLNpabh0Phsl1wpRdafU+T81lLdedxCOKThiMMDH25sdOJYYhuR4C47GhiDeHoS4qADYI/2dIM8qK9FaVwdbuBlWiwmhgUYEmg0wm3x2dFF+2z+kwM9kgq/R6ISiRGqQsBBffuHzR1Voq69HZ3Mz+t69dYIIGDWQgKL8McHBWqE2esDfHwFmM0NRCJcIiGD6OzoYgEBePK5Ge0MDulpeobu1le/VlZcziMmo5xDrZSj5zX+RsvGVgQyldogSfZuZwdhAP8dQdzc7QiDvGxsZhiBfPqlBbVkZyoqLUZibiwuZmdvyUGh0SUGExbLFHZHs19oaFqanMTE8jKlPoxgfGsJoXx+GP/RgoLMTkeHh6GhqQsvTWtRXVDBQUV4eLp7L4hzqXGoomUCSwovEQvVXra+uYn5qCtOfxzA3OclXgrPbbIiyWhmup+01u0XNXX3vLm5eucw7UOSUndJYOoUXiBAJfq6ssEMEszg7y3Az4+MYHxzE5MgIu0bX3vY3XDrqo9LrRSjIyXG6TbnETlM3t6bSybG2vIyl+TmGWVlc5N8ERO5Q+eJj7Bj52OvsLWp2UTY5lwiNMA6Jhx0LFIb4vvCVgai5CUa4MtjVxY5QM1MPUaPTlebTjfz8LS+XQ36vRin4sbTErhDM7MQX7iGCoR1HG4F25q2rBXh4u4TBah7c57/37IR2KewO9ZHaHSoXlY0aNis9nZuYykQTnH4LIDnbAUhxlorcITAC/L2+jrjoaG5YmjnZGRkMRnEmNdW1QFQq0cxUKto5NLMoyCFxxJw+eQKnUlJwPCnJtUDqeUIwBEizSAxIam7a9uo5o3HW7EeOA5eCXJIHqBzy8HOZS2qnZAA5xPMu2mVCDqCwkBDe6uIgFr0kXFQfoC6EITkOYIrdoFxcKlnbj4Gd4hDc2ZR6/O8W8jq33Dos/QEp3B3jwZ0KnQAAAABJRU5ErkJggg==",
     "wiki_name": "Elite void top (Normal)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elite_void_top#Normal",
     "equipment": {

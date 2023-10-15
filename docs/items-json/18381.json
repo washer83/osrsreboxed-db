@@ -1,7 +1,7 @@
 {
     "id": 18381,
     "name": "Spined body",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-01",
     "duplicate": true,
     "examine": "A constant reminder that I'm above a Dagannoth in the food chain.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xu2WbUsbQRDH3c/RNwFfCIFAEIJIKEQkSIiIkqCkweADMaKp1PpQa4OItbUiot946n+v/7u5zV6ajYW+cWDI3e3O7G9nZmczNfUmrxYj7pf/IIQw8v3mm4RDhc4fKS6Efk++DWtiv7XVGvqWPAdLBKAh+M5vq6t1WV5ekmq1IguV91Iuz8dzAUOgYi4Xf3sFlB9gs71hHeO31WpKo7HiBZudLcrMzLTkcu9SMICLAIPF2AWxMHRnpy0HB7vS621Lt9ux71lgtdqihQPY3FxJCoV8Cs5daQwxduF+f0+Ojvbl8/GhVTzjmwsGJdj6+toQnI5aksIgMXJ+fiSXlydWLy6O5fS0H0P5wHS0XCgqUxoYJSPX119t3eD36uqLVUABUoMRimA+KIJpRdQCoIzc31/L3d2V1R+3AwsHAEBlgUHdSCEqAKMSkDomlJHLflceH2/l4eHGKgABMBicxSnUUFQXiqeSgNTlxUrIiTNy8ZKCs/1tq09PP60CAosifT4wjmsoRIGnEdpeq0uzXk0Buat7xFiQk72O1U+7m1YB4UZGpwvPqCXCsI7wjvGdl+eJgQjycfuDdFsN2VipWUimD7Wli56wANVgiA5s4RN+JgbCYlgAO2OHJZAudJ0+Rk4D1SrlP4VrrA3mYRygQUBYBCmBUzpEXSFqbnTYqwDENAJobWlBqupugx39osgDgCDGOqUhgZBKX3RYWyxq2CItlflSbI9UwwbjqK0AIBOHloYaCHWlo6N7E4FQJ0hXuaSvCmPnIV3sQWMDwRBAyd+FpBUAyBcdnjwAMV2lYiG2xyZYPwFAUf1gAfYTFwh11Guvp2A0EE4V01XMzyT26pCgYY4NhOPZaa5Yx9ipPinsT4edDdtX3OhAdbry01GqoJjvhx0pw0DJTow8P/+yXRtF7UsXUoJLFrWHm51/N+gXfchN51+ilAZKN7AICL1IF7QLhLTgdOJG10CMqo5SEBBCTwMC4cJFP9Hd2QeEwkWd4N+i3hBqT0dpbCAaDRtE49gtnOMZu4bqNDOy7oZwQnWUhv17JXKUdpaMwWkWEDbi1p5rP9p/hnCif3LaaZZm2WvfvvGJxHWapa7dm/xL+Q1Y5vKmusjuRwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPklEQVR4Xu2WbUsbQRDH3VdFkUgwKGnQaETFJBgj0Rh8SrHWh4amQYLaWhERv/83mPrf9H83t9mz2VjoGweG3N3uzP52ZnY2ExPv8mYx4n75D0IIIzfX3yUcKnT+q+JC6Pf427DG9js7taFv8XOwDAA0BN/5bX19RVZXl6VYLMhC4aPk8/PRXMAQaGtpKfr2Big/wHZ90zrGb61WkXJ5zQs2O5uV6ekpmZz8kIAB3AAwWIxdEAtDm826HB3tycHBrrRaDfueBlYqLVo4gM3N5WRmJpOAc1caQYxduN3el5OTQ/lyemwVz/jmgkEJVq1uDMHpqMUpDBIjl5cn0u2eWe10TuX8vB1B+cB0tFwoKlMaGCUj/f43Wzf4vbr6ahVQgNRghCKYD4pgWhG1ACgj9/d9ubu7svrjtmfhAACoNDCoGylEBWBUAlJHhDLSbbfk8fFWHh6urQIQAL3eRZRCDUV1oXgqCUhdXSyEnDgjnZcUXBzuWn16+mkVEFgU6fOBcVxDIQo8jdD6xopUVooJIHd1jxgLcrbfsPp5b9sqINzI6HThGbVEGNYR3jHefHkeG4ggn3a3pFUry+ZayUIyfagtXfSEBagGQ3RgC5/wMzYQFsMC2Bk7LIF0oev0MXIaqFTI/ylcY20wD+MADQLCIkgJnNIh6gpRc6PDXgUgphFAG8sLUlR3G+zoF0UeAAQx1ikNCYRU+qLD2mJRwxZpKcznInukGjYYR20FAJkotDTUQKgrHR3dmwiEOkG68jl9VRg7D+liDxoZCIYAiv8uxK0AQL7o8OQBiOnKZWcie2yC9RMANKgfLMB+4gKhjg7q1QSMBsKpYrqymenYXh0SNMyRgXA8G5U16xg71SeF/em4sWn7ihsdqE5XZmoyssV8P+yrMgwU78TI8/Mv27VR1L50ISW4ZFF7uNn5d4N+0YfcdP4lSkmgZAMbAKEX6YJ2gZAWnE7c6BqIUdVRCgJC6GlAIFy46Ce6O/uAULioE/xb1BtC7ekojQxEo2GDwTh2C+d4xq6hOs2MrLshnFAdpWH/Xhk4SjqLx+A0DQgbcWvPtX/df4pwon9y0mmaptlr377xscR1mqau3bv8S/kNVQwDTYjmvuoAAAAASUVORK5CYII=",
     "wiki_name": "Spined body",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spined_body",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 2676,
     "name": "Guthix kiteshield",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-05-05",
     "duplicate": true,
     "examine": "Rune kiteshield in the colours of Guthix.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xs3WXUsUURgH8NlvsFdzMzcLfoG+QhdeJUHYjcRK2oUgBUkvlKZsmWVhYRhebGKLxq5bmYmYvSgkpr0R9CJ9ndP8n5nn7DnPnokddwoPPOzszBnOb55znjPjeYe/5ZQ7XNf/ecuplYUxtVy5RvHs8Yiqzw1TMGJ7bUq9X72rtl7ecaDkQ7QNj0CMAohDYjZf3Favn05YA+M/rsmwUamQObW6WGpC4RcQDgZt1MfVWvU69cWvC4T+Jnp/b0H92Hl0MBSDcMzZYdDb5VsE4r5JINz3a7eifn+uhbFEIIxxpFCgkKOLFqWdn5pBGJRB/KQArdduaBCOXaCd9XsWCMcMkqOLlrOmAQPx4sZ/gNDHnwyUPx3QMRA8vUmgvY3p7ECcJZzToFJgoUwQsiZBn96YoFo6EK8LCeJq8kd91dU3qI6fOUfBKM6WC/Tl3QML9PPDfPsgnOfsMOjEwHnVPXiBIljp0DCECfq6OZMtCIFr+SE7OwxClvzZggrmwqh2qOC5jUMwaP/jE41JDTJRruxo0EwIKRdU75VxHcFijKs3gBIkR09ojfXAoKTsaFCYneLlkgXqG57QEVQw+IFA0R6EDEkQZ0eieLqSQMiQNWXGpihHFy0qeQmi7Jz1qbqo3G8GNiicrlMXxyyQxsRT9X27nA0IQaCrvjrWO9BUXbQXzbpBtHaqGYIQhCnm1dGTRdXZc9pC+VPRxkjVVbYXtVlpu6/uG6AljWkJhAprGQRMOF09QyOUISxcHfG6wc6O14aZoRazg9YAMQrnvK48rSETRNmJMQxCZvpHJ60yBwivjWxBnR5lyQLFU8UYBvHeg/vwVQAQdmkTxCg5uqNFINe0ed1RlgCihSyywwsaIPTH6wIgfHZ823qoQdiDUuxDNsisNlpL/fmo9MPsmJgkELLTNghV5gLxizV/yaepMiuL3l+IeDfm7GQKktOG8/K72BW4j/sChJK3QOEelHofck0bD4InxjF/3iLwauEXMe4z108mINe0mSBcMz9LTBD6meunTRBa8zS4wsSYIUHYFE0QRwqQ5/G2/reQQDPM9ZMJqNUmka1gORp9/1OTSFfIew51+wN7qvpPo7a+lwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADN0lEQVR4Xs3WbUsUURQH8FmWYVi/QyiEQfbCWkx7IVKQ9ECkaZZZFhYWBr5Ykkqs2GqxB0MQe6BCIRATKSPoRRRFfbLb/s/suXvu8U7sulN44bCzM3e4vzn33jMTBNu/ZYw/fNf/ecuYuZlB82T6FMXsrX5TmuqjYMTKwph5N3/JLD+76EHph2gYHoMYBRCHxiw9vWBezY44A+M/rulwUXUhM2b+7ulNKPwCwsGgF6Vhs1A8Q33x6wOhv0T/WJ8x31ZvbA3FIBxzdhj05vF5AnHfJBDu+742bX5t3De/Nx4SCGPsbWmh0KOrFqedn5pBGJRB/KQALT44a0E49oFWFy87IBwzSI+uWsaZBgzEixv/AUKfcDQy4XhEx0Dw9CaB1l+OpwfiLOGcBQ1FDkqCkDUN+vj6qgUh6gLxutAg3k3hQGhaO3vMrgOHKBjF2fKBPr295oLe32wchPOcHQbt7j5s2nqOUERzTRaGkKDPSxPpghC4lu11s8MgZCmczJloqhzFJhM9cnEIBv38cM9i6gZJlC87FjRRhhRypuPEsI3oTgVXqgI1SI+e0KrrgUFJ2bGgcnbyx4ccUGffiI3odm6roLgGIUMaxNnRKJ6uJBAyJKdMFkU9umrxltcgys7BkHYXbfdzkQsqT9e+o4MOyGIqU/V1pZAOCEGgk6HZ2dG9aXdRLZr0g2jtFFMEIQiTz5ode/KmuX2/gwrH4sJIu6vgLmq509aeX7EgVGnG1ATCDqsZBEx5utp7+ylDWLg2KusGlR2vDZmhGrODVgUxCueC1iytIQmi7FQwDEJmugZGnW0OEF4b6YKaA8qSA6pMFWMYxLUH9+GrACBUaQlilB7d02KQb9qCtjhLANFCVtnhBQ0Q+uN1ARA+O74sX7cg1KA66pALkruN1lJXNt765exITBII2WkYhF3mA/GLNXsspKmSO4veX4hKNebspArS04bz+rvYF7iP+wKELS9BqEF11yHftPEgeGIc8+ctAq8WfhHjPrl+UgH5pk2CcE1+lkgQ+sn10yAIbfM0+EJiZGgQiqIEcdQBCgIu638LDZQh108qoFqbRtaC5aj2/U9NI32h79nW7Q+jUAbhb1yHYgAAAABJRU5ErkJggg==",
     "wiki_name": "Guthix kiteshield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Guthix_kiteshield",
     "equipment": null,

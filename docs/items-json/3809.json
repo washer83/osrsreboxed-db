@@ -1,7 +1,7 @@
 {
     "id": 3809,
     "name": "Bronze bolts",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-01-04",
     "duplicate": true,
     "examine": "Bronze crossbow bolts.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABg0lEQVR4Xu2WMUsDQRCF9/6BVZo0VwuC2FikEVKICGJlYSXY+B/s9C/YprGUtPl9K++Od/t23ItKZs+AebBsZnO5+ebN3JEQDqquJtqTiaUATbw6n0V7lj5XlwVo4uLkqItP27bbJwZMAFi3i1k8bsMQ313MfwDoph6ACR8u55IsjwkDwOWZArqpTwggJrhf5kAaE0gLcAd6vG67ihViDIgFKKA7kG0RAMcALKA7zNNN7066eZ+Qyce+rwaE6jk7BLBuYV4mABqvfiy2j7vz/OTu6NNDd0rA+E0VGCSzrdBk2NEuC1yhVdB2d0rtssCOQGV34IbGOtxlYBel94g+WVjbZsUCOwE1cb1+75YOLs++a5+zOykxKn99ec5g4A7PeK4OVnWHrWGMz5vNxxBbaKy8nTsrJUelq9XbAIQd84R2KBAANK7wNyMNs7arBERHGON6njsChcDhTDdOuy6eEcjC2vvuLB1M3XX1V5bdc3Xp98pfDXsA9LXVfw5E7RXMQf9Wn/2gRrA8cR7GAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgElEQVR4Xu2WwUoDMRCGd5FSerEHQSjCUivUiwcvghffwZs+g/eevNsH6ANH/oRJ/oxJVTpZC/aHkJ10u/Pln8m2XXdSc/VOr4wsBujd6nLi9Fq6bi4N0LvF/MzH98uln0cGTAAYt4uJO591Mb67mv4A0EwBQBI+XE8pWR4LDACHCwY0U0gIoJhgyIE4FiDegDnQ483M75ghakCyAQY0B9IlAmANQAOawzytgzvp4SGhJK993gwIu5feEQDtFvplBKD67muxPu7G/ZO7w6dH3CkB4ztNYJBMl4KTYUa5NHCDUkH73SmVSwMbApXdgRscc3OXgU2U3iN8sjD29YoGNgLq3Xb77gc3rqx9Vz5jd1Ji7Pz15TmDgTuyJuvsYFN3pDQS43q3+4ixhsbIy3mwUnLsdLN5i0A+yRB+6RkIABw3+JuRmpnLVQISRyTG/fFeO6Cuk+ZMD04zD1kTIA2rn3uwuDF55hHuLLtn6tLvlb8ajgDoa6n/HEh0VDAn/Vt9AsPfCBPW5aSJAAAAAElFTkSuQmCC",
     "wiki_name": "Bronze bolts (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_bolts#Unpoisoned",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 27962,
     "name": "Ranged xp",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABo0lEQVR4Xu2UzUrDQBSFO2+QVTbZDGQhdOUL9Al0Ly666UIXulTQXUFBQUFFFFFBUVEURSmKioo/KMUfilIE8WWOnIRLpgmWtqZIYQ5c0oRJ7jfn3GkmY2VlZdXxUog/+UcpTE+5aDNUox9XWF3xsLggQFKpSmF2ppEGCs9lH9dXGqUTjf09D5sbHsbHnDrvNC2F1xc/aCQ1OiINauvxQePyQuP8TOPwwMP2lof1NQ+TE64BFa+mFO349kaj/OSj8hbWe8VH9SO8yjOuJRTXEur4yMPuTugSI+RcEWx4yEE+7xgba0rxHakA5LMaAgkIYQlzfxcCcROnpRCK0Ylb83Nu4BgdZKyDAy1AdWsNs/iB76+uAIoOCZAJw+jYkI1Nl+Q3IQW6v68FqKQitzhj4o7AMDIZbLqzvOQGB4OVzWZqHCcU3UsFSuaIDpnumHHxb4AgjKq3J4LhekITmPdRAn9S5BIbmO4wLomqWHRRKDjI5UIgiV4qJRiRClySYy/uSFRyujgrEpc0r53NVJU8jb9VmwCSip/GehV/18rKysqq0/UDcvq9cSJHIiQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xu2U0UcEURjF9xpjzMj+Afu0pNfKvuxDUY9FeiqKoihJkhRFSZKSpJQkKUkpSkmWUvQQ/VsnZ67P3J3V2t1mZbmHz+yMO/P97jnf3VTKysrKquGlEH/yj1IYHXFRZ6hKP64wP+dhekqApBKVwvhYJQ0UHh8CnJ/52N/zsbnhYXnJQ3+fU+adqqXw/BSEjaR6e6RBcd3e+Dg98XF85GN7y8PqiofFBQ/DQ64BFa+qFO348sLH/V2Awouu10KA9zd9lWdcSyiuJdTujof1Ne0SI+RcEay7y0Eu5xgbq0rxHakQ5PNDAwkIYQlzfaWBuInDAw3F6MStyQk3dIwOMtbOjhqg2rNZmMUPfH81hVB0SIBMGEbHhmxsuiS/CSnQba01QJUqcoszJu4IDCOTwaY7szNueDBY6XSqyHFC0b1EoGSO6JDpjhkX/wYIwqhamiMYric0gXkfJfAnRS6xgekO45KoBgdc5PMOMhkNJNFLJQQjUqFLcuzFHYlKThdnReKS5sWzmahKT+NvVSeAUsVPY7mKv2tlZWVl1ej6AXihjCGnFBVZAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1517,
     "name": "Maple logs",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-03-25",
     "duplicate": false,
     "examine": "Logs cut from a maple tree.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu2WTUsCURSG5/6DWbV2F7SSIEREMFy0KIQokAI3ggjhIqOioECCFkGLCIKgTf/0xjuXV88c78zcdEghD7yg83HPc8/XnSja2MbWzoyd10rMOT+qRfakEdmzVmx77dj2D+JVQJkUxPg4tqOO0/DQAVUrlWWhdNizBaf33djenDoBiCoJyCShxm4h7BwRYBRwD7uHQwAARkqClQBk7MtF3b6OGvb9qmkfz7cSaWcShM/I5yAC7W4vVUfGft3tT6Ud5cFoMAIhqktEKQ006fl3z2u47xOB2GWAKQXo47qVgioCkUCoM9TgEtGBpYE+bx1QqAArC5rpWqCGZm0sgUKgmE6AcPawSwE07lbtoLPzGygzHWRQCIyE4CAEBAQgiOvxPkdAAZixk/5eUiscZnBCINn6EI8D7Vi+q7sQG9DwOVDGPg/rCdDbZTOZP1yUMHQsJXfvg9DF7wPKKHRjvx/aSWoAIIHw+2lQm/7ngjIaPggNwxQHA8n0IEp0zmsA086KlFVzQUBIF2cOgQAhi5vziItnSYMsBAQIpEwC6dYPAdIQUhyUAZPbHaYEQop4uGa1vwbJgmFUCMKvhpzo0GYnPIsaoyALSEPpa7KjXHunlRMdafMv6rT5IlAEQOda2rvX0i+kgZhSwmRBaMfBzsNsBsWUISJFEHqVks1BAQQRWRGENn809FN/amsD8u/tB9G09+AxciyMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDUlEQVR4Xu2W3UsCQRTFHZbeIohCUUmMSKjAxBcRJHzIqIigKIIegh6CoIegt/76ibPL0bvXmd3JXVLICwd0P+b+5n7NViprW9vKmbHzWoolzg+rFXtcr9jTZmT7rcgO9qNlQJkUxOQosuNOotFBAtRrt4tC6bD7Bae33chenSQCEFUSkIlDjd1C2DkiwCjgHnYPhwAAjJQEKwHI2Jezmn0d1+37RcPe9zZiaWcShM/I5yAC7WwWqiNjv272ptKOsmA0GIEQ1QJRSgM99t275zXcd4lA7DLAlAL0cdlMQeWBSCDUGWqwQHRgaaDP6wQoVICVBc10LVBDszaWQCFQTCdAOHvYpQCadLftsLP1GygzHWRQCIyE4CAEBAQgiOvxPkdADpixD4PduFY4zOCEQLL1IR4H2rF8V3chNqDhM6CMfR7VYqC380Y8f7goYehYSu7eBaGL3wXkKXRjv+9acWoAIIHw+2lYnf7ngjIaLggNwxQHA8n0IEp0zmsA087y5Ku5ICCkizOHQICQxc15xMV90iALAQECKZNAuvVDgDSEFAdlwORODlMCIUU8XH3tr0F8MIwKQfjVkBEd2uyEZ1FjFPiANJS+Jjsqae+0MqIjbf5FnTZXBPIA6FxLe3da+oX5M03WkQ9COw52HmYzKKYMEcmD0KuUbAkUQBCRJUFoc0dDP/WntjIg/95+AER1Q5kgA1eUAAAAAElFTkSuQmCC",
     "wiki_name": "Maple logs",
     "wiki_url": "https://oldschool.runescape.wiki/w/Maple_logs",
     "equipment": null,

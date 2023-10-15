@@ -1,7 +1,7 @@
 {
     "id": 8104,
     "name": "Gilded decoration",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB60lEQVR4Xu2WwUrDQBCGu2/QUy65BHIoFIRQKFKKUClSpKVUFKFIhSqlHoqgUFBEwZsHDz6ABx/Ak2ffbfTf+CfrtoXUbjzlh2FJszvzdWZnN6VSoUKFskhJas61rnMlo25Dhp1tOWrX11iXSUrG/eYazpVcDvdkcrCj59ergTSjMMO6TIqdXxy2pNOoaue79coK53EGr086v2BC39PjVuivWJdZSu7Oe9o5YeAcjtN/nNr8dD8BATTMXIMR86Ig+CuUkptxVwehY9MQhOVA8F4z0iOemUl7jTMg2zGMAQFGAwxBAWivcQKE/YNAtnOWAeV8qXjyVvXlPfL187LMEsYJEDqMALQrvyzzoCz3gaeBXg0gNALaftCquYKhVAKEEgAKARFkZgA9G0CAwByWzyEMpeRxOpDZcTvpIBPo9ttMIMwBvA1ke91ASh4mfZ0pGwhls4GQTViuQDiPbKCpAfQUpkCftSDJUq5A6BrsD3bc2Q8QymYCITvc0DxAnQOxjRkE7Tzyysk+ItBHFGeHTUB4+LC9bqAYCBcsgBAIXcTTGb/BCMLs4H1uXYaS8cY3oTDSCMb3ZnYcwlDxeYQs8JwhlG3mxZpDdqj4M4R7wyxb+jmyaDnBUIsB7cDLzPbiVHawfwtcqFAhx/oC3acgMHaoUwUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5ElEQVR4Xu2W30oCQRTGHWRZVsRYlMQk00SlP2BJWIKBEAVCRBR010UXvUEXvUGXPUHPeuqb7dudRoW1ZrvaDw7DujPn/DxnzswWCrly5UojJYk517rOlYy6dRl2NuWgVVtjXSopGfcbazhXcjHckcnelp5fqwTSCEsp1qVS5Px8vymdekU7366VVziPMnh13PkBU/I9PW6U/BXrUkvJ7VlPOycMnMNx8o8Tm5/sxiCAhplrMGLeUbv9Wygl1+OuDkLHpiEIy4HgvUaoRzwzk/YaZ0C2YxgDAowGGIIC0F7jBAj7B4Fs5ywDyvlc9uS14stb6OvnZZkljBMgdBgBaJd+UeZBUe4CTwO9GEBoBLT9oFl1BUOpGAglABQCIsjMAHoygACBOSyfQxhKycN0ILPDVtxBJtDNl5lAmAN4G8j2+gcpuZ/0daZsIJTNBkI2YZkC4TyygaYG0GMpAfqoBnGWMgVC12B/sONOv4FQNhMI2eGG5gHqHIhtzCBo55FXjPcRgd7DKDtsAsLDh+31D4qAcMECCIHQRTyd8RuMIMwO3mfWZSgZb3wTCiONYHxvZschDBWdR8gCzxlC2WZerBlkh4o+Q7g3zLIlnyOLlhEMtRjQDrzMbC9OZQf7t8C5cuVyrE/a6cHtyIUpVQAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

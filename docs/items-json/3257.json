@@ -1,7 +1,7 @@
 {
     "id": 3257,
     "name": "Gnome",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaklEQVR4Xu3TQUvDMBQH8PUb7OR5H8EvJAiCOyjiFGVOkMrwIAo6xKIoMnA4UDwMlSHiQUQ8KCJ4U7/LX15q7JKmWcQm6cE/PCgkbX68vJZKv0qApLwnQLk68lMFQImgAqDUoNFKxRcqDfLcJTXIIyob5AmlB3lAmYEcDvk/aFiGgzhKftNSzEGOumQGKtecdSlAO5xIAzLKASoGFQiVgLJQb6dNXO/Os2vjIEvzFM+PDnPVqmG/MY5Oc9I2SBxmFejjsoXbvUVE9TF016oM4gwk13tvE5/9CM+dkKHO1qdsgvQYqpeTEE/HK3jtruImWsD5xvT3MCco+at/iDmI6u6gjt7WTArktEu0TpjH9jLuD5dwsT1rG0TJRvHDH44aDNTfmXMBoqhRyYEBuzIC8TmyDKKkUeKBcWccdYhHRMkH0jPv2OCewS/kHD1I3sfX1XtyiSmIYh3DI16H7kDdWo4xBzlM/CflfSVf6AsxmAURJ5EAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbElEQVR4Xu3TQUvDMBQH8JXh99hHEEEQHCjoFGU4QSfDgygoQ6QoKLKDDHdQPA1UGAh6EkTYRQTx4lnxU/3lpcYuaZpFbJIe/MODQtLmx8trofCrBIjLewIUyyM/lQOUCMoBSg0aLZV8oZIgz11Sgzyi0kGeUHqQB5QZyOGQ/4OGZTiIo+Q3LcUc5KhLZqBixVmXArTqE0lASjlARaAcoWJQGurtrIGbvXl2bRxkaZ6i+dFhrpsVHNTG0W5M2gaJw6wCfVw1cbe/iLA6hs56mUGcgeR6727hsxfiub3KUOcbUzZBegzVy2kdTycreO2s4TZcwMXm9Pcwxyj5q3+IOYjq/rCK7vZMAuS0S7ROmH5rGQ9HS7jcmbUNoqSj+OGPxzUG6u3OuQBR1Kj4wIBdGYH4HFkGUZIo8cCoM446xCOi5APpmXdscM/gFzKOHiTv4+vqPZnEFESxjuERr0N3oG4tw5iDHCb6k7K+ki8heOTy+PeDowAAAABJRU5ErkJggg==",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

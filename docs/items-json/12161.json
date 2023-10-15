@@ -1,7 +1,7 @@
 {
     "id": 12161,
     "name": "Puzzle box (elite)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "I need to solve this!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACnUlEQVR4XtXWwUpbQRgFYO9LZJNNwIVQEESQICFwJchFEkJDQ0UhEA1iiW1pbemu0F03XfUh2qfwAQp9p7Fnwj85OXeu3LFJpQNnca+Q+fjnZMzW1v+1MlfOk63MvZkO3Xwy8Lk+7/s8IXABur25cb/zQcjstPCZjo99ysCNIRcgxmBCwAD5bdLwmYyOQs6Guc8GgAtMFcgwCKb0+aQRAtC43/UZFYc+ZWAycgnSDilIMQhPEBn02j4n+UFIImrZn7v5LIRR1iMFKQYT0h4e7LbcdqtRF5W5q3HXgxSDD0a02AxijIEYg+kAhH32Wi0fFcjK3LvLUQmEYzMQ9wfhUjPGeqSg3Z1mAOnukfUwiDcEhp+tQ1bqNYAy9+o09yBDcbH1OBiECekE+Ztmxe7sb6cfF3L3dbYS/aZZhxTEGISnjHB/dPfIytyHqxclkB0Xv+NSW4d4ejEMJpQAytzr814A6ZHpxOzG/j7v+uhtvRYQ+mOgXz9ehsQuR8QwmJKCAdKpHrV30voDDMKYMKGfsxDtkYLsguR3KDYXWneXlbm3k+NKEGMMhA2/XPZ89C5CdGLJIOtPrEMxEGP8NOjveh/ZV5+PTAWyMvfpeuwx+PD3HzshehdZjxjEGL6P+L3916/Rn8zdTosAYgympEAtdhVIMUnTQX8A4o0NxM82IUbG7iPGPAqE/gBkU+IeKUgnBhA/611kGeR79UE4MkwJML6LYiB+joVBjKrZH1vLn5YMQ+y3kRVbAZpWs+kzKIqQovOs7nSWa6mP4wC7GP2ZwPBwpdgxEGMSjyu+YjjEYIw767dXis0YA42LxW/oR4N4GU6BOjXAsPHz3n6p2IZZC0hXDIdU4f76uFJW1fQU9s9AumK4jR5XyuLppWDuAclrbCYQAnJwAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAClklEQVR4XtXW0WoTQRgF4O5FCCnFIi0pydK025BIXGlDIDaFmipqFS8F77zxzscQ36Ov4IUvOHom/JOTs7OSqYnFgXOxW8h8/HMyzc7O/7UyV82Drcy9mg7dfDLwuR73fR4QuADd3ty4n/kgZHZe+EzLE58qcGvIBYgxmBAwQH6ZNHwmo+OQi2HuswXgAlMHMgyCKX08a4QAVPa7PqPiyKcKTEYuQdohBSkG4Qkig17b5yw/DElELftzN5+FMMp6pCDFYELaw8P9ltttNdZFZe6q7HqQYvDBiBabQYwxEGMwHYCwz/j01EcFsjL35nJUAeHYDMT9QbjUjLEeKWh/rxlAuntk/RnEGwLDz9YhK/UGQJl7cZ57kKG42HocDMKEdIL8TbNidw52048Lufs8W4l+06xDCmIMwlNGuD+6e2Rl7t3V0wrIjovfcamtQzy9GAYTSgBl7uW4F0B6ZDoxu7G/zrs+eltvBIT+GOjHt2chscsRMQympGCAdKrH7b20/gCDMCZM6PssRHukILsg+R2KzYXW3WVl7vXkpBbEGANhw0+XPR+9ixCdWDLI+hPrUAzEGD8N+rveR/bV5yNTgazMfbguPQYf/vZ9J0TvIusRgxjD9xG/t//6a/Qnc7fTIoAYgykpUItdB1JM0nTQH4B4YwPxs02IkbH7iDH3AqE/ANmUuEcK0okBxM96F1kG+eP1QTgyTAkwvotiIH6OhUGMWrM/tpY/LRmG2G8jK7YCNK1m02dQFCFF59G601mupT6OA+z56PcEhkcrxY6BGJN4XPEVwyEGY9xFv71SbMYYqCwWv6HvDeJlOAXq1ADDxk96B5ViG2YjIF0xHFKH++vjSll101PYPwPpiuG2elwpi6eXgvkFDWZjLFhpTjgAAAAASUVORK5CYII=",
     "wiki_name": "Puzzle box (Tree (elite))",
     "wiki_url": "https://oldschool.runescape.wiki/w/Puzzle_box#Tree_(elite)",
     "equipment": null,

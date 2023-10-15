@@ -1,7 +1,7 @@
 {
     "id": 11236,
     "name": "Dark bow",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-11",
     "duplicate": true,
     "examine": "A bow from a darker dimension.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADFElEQVR4Xs3W20sUURwH8Nn/ZKGHQAgkkGVZhIXFh6UeNhBiH3yQwF58ieiCLqJJZmFZFIWttGLRamElYnZRWDHtRnST/p2T3xm+s7/57dnL7E7hgR9zOzO/z/7OmTPrOIe/xYw9bNf/eYuZl4tjZmWh4Mbz0qhZnh9xg4jttRlTWb1htl5dt6D0j+gY7oGIAoihMZsvrpk3z64GEuMY13QEUaGQMbP6eLwGhS0gDII2lifN2tMJty+2NhD6S/T+3qL5uVNsD0UQ9lkdgt6tTLkg9q0Hwn2/dxfMn8/lg1hyQcjRHY+7obOr5pWdv5ogJMU1DVovX/FB2LeBdtZvBkDYJ0hnVy0WGAYk4uTGtVJp0kchEZIDweGtB9rbuB0dSI597xEnAMI+K0kQqqZBn95KUDkciPMCiXA8O3vRhSDy6WMBYLHogZuBvry/EwD9+vCoPRArdPnSmQBkIJM0g30pMzXQby6cyvqoeqCvm3ejAyERzmMo8bYgfFg6aYazmYYgDO/3yn0ftP/xiY8JDZIoPJwgJEE/9B9MHXe36FcP9KPywArS2es079fj4Y1AXBrYnyBUsga0/bBdkLcGoULNQHLil4dOu1uc0yD0D4DEoqizq+bNExsIYQNx0o8O9ZiZ8ym/WjIiBRGFAAgrLhJgX67QEjByIm3GcxkzPX3OXTJwLhKQrBK2EoR+coVmFXEPnpPvTZiJfM7MzY35KA+05GNaAuENsYH4OZAguUJLEPrhWVinWDVZoRarg1YF6XnEV5kgHDcDnUx0u1t8NiIDEYXzmMgE4TrnD0GykkQNZ5M1FSJKZ7c0D2QbtnZB/aku03fUcfcBwhoUYh0KguSwSRBfeT1cNlAu0WV64h2AMFmbgfjK20Cca3hWoXDW/7vCIWsbpIcN5yVIT2iuVbgPfQnC9tvWvSroYA0KvQ7Zhk2CbK+8BAGMvnje7utbnYNswyZBuGab0Ah+xzDx0bdDEFrtt8gWev4wNAj/pSWIEQLkOFzWG4UGykAlAUJ1IgG12jSyFSyj2vc/NY20hb7nULe/DtB3xlP7fUMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGElEQVR4Xs3W7UsUURQG8N2PRRiR7LIurLIRSwht+EEC++CXiF5AF9Mks7CsKCIspUWkyBLpDUHshQoFQ0ykjCAqiqL+shvPHZ7xzNm7L7M7hhcOd3bm7tzfnnvnzMZi27/FjTtc17e8xc3TqT7zeLJgY7bYa2YmemwQsTI/YpbnLpilZ+cdKP0jGoZ7IKIAYmjM4pNz5tXs2cDE+IxrOoKoUMi4mbt7ugSFHhAGQS9mBs38/QE7Fr0LhPES/Wt9yvxYHa8PRRCOmR2C3jwasiCOLQfC936uTZo/G9Pm78ZDC8Ich9rabOjZVfPSzl9NECbFNQ1aeHDGB+HYBVpduBgA4ZggPbtq8cAyYCJublwrFgd9FCbC5EBwecuB1l9ejg4k175lZywAwjEzSRCypkEfX1/xQYhQIO4LTITPo6MnLASRT+8OAMdv99u+GujT26tB0Ps79YGYoVMnDwcgHZmk6WxNmaGOdnP8QNZHlQN9XrwWHQgT4TyWEk8Lwoelk6Y7m6kIwvJ+Xb7hg35/uOdjQoMkCjcnCJNgHMZ3pvbaHuPKgb69u+kE6dnLNO/X4+aVQCwNHE8QMqlB31du1QvyahAyVA0kN/5010Hb45wGYbwEyaKoZ1fN2ycuEMIF4qbv7Wo2I8dSfrZkRAoiCgEQKi4mwLGs0BLQsy9t+nMZMzx81JYMnIsEJLOEXoIwTlZoZhHfwX3yLQkzkM+ZsbE+HwUQqjQxNYHwhLhAfB1IkKzQEoRxuBfqFLMmM1RjdtA2QXof8VEmCJ+rgfYn9tger43IQEThPDYyQbjO/UOQzCRR3dlkSYaI0rM7mgdyLVu9oPZUk2nd5b2QAUINClGHgiC5bBLER14vlwuUSzSZ5h0NgLBZq4H4yLtA3Gu4V6FwxP+7wiWrG6SXDeclSG9o1ip8D2MJQv9l6boPQg0KXYdcyyZBrkdeggDGWNxv7fmlxkGuZZMgXHNtaATfY9j4GNsgCK30XeQKvX8YGoT/0hLECAGKxVjWK4UGykAmAUJ2IgHV2jSyFixjc+x/ahrpCv2dbd3+ASoHglvvT7fDAAAAAElFTkSuQmCC",
     "wiki_name": "Dark bow (Regular)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dark_bow#Regular",
     "equipment": null,

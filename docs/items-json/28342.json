@@ -1,7 +1,7 @@
 {
     "id": 28342,
     "name": "Musca powder",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "Mushroom in powder form.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyklEQVR4Xu2V70taYRzFu//EXgv7B8YgRsRgIyRiEUZipBhq+INpkjUrrST6YbQly5WupUVrQWtNahsyJGKERESv9mJ/z1nnuTx6K1fOH3sxPPBF0Hvv87nnnOexqamhhhpqqBwpuHv+idTF9qb7kJmzYH/GjOS4FfGgGUuBXkR9RkzZniJsfVJvKBWEEJyj1w58f2VDNh7AQWwQO7MupCbtAoxQBAqYWusFpeDrQj+yi+qcrLiQT7iRT4dwvDZagNqdd2Mj4sDqqAWLfhPGzI/h62mpdYQKcjG7GLpytuYRc5p0q7MZxlEyeAMq5u3AtKMNL/pa4TE8grOzuVZQCo6XB/Aj7hRzkfLifP25GAlHp7RQewsevBnqRNTVLvokofisBzpdtVCKAGFMEkoLxOj4Hd1jrCz79oQRb0cMeOkpuiSjqwkQYSSQXET2g9/TQUZ6GLUWgNaD3VgefCauZcEJVWXJi+cJY+DOkoswioi/C367/lagxHCXuJZQjI4vUaFLioiCi3BX7a14sB1zIrVgx+q0BUvhy/MmaISvv038ThACE2ZnyoStUBGIL0BXZ536Ss8nRfTj9PPl7vkQxJeUH5mkD7txN97N2wRI0NVRgGVvCMQDkkC7kV4BRZfSYz2iSyw4d510nA6V6ZKCn1t+nGUmkHs/guxmAN/SQwJqP+EVQNbuFhg7mtVD8Q4gOkUouqUFKROGUnBxGMHJx3EBRBB+5j+FxCcjGx5ox33dvcLb3jZ0R3aOPfrLqKRuPvhXbk64xtgYmd2o7parb6z+v0mXZGSyR/JMqghKu5Bc7PxgUji2segQLhn0DzUPV/9aOKXKLTski10R1FWpURIoOWMtOKcF1pZcQl0vNnfb1fuqUjHC0uUsQsmSy+i0R4C8v3hfFSoNopUidt+foiNUTYHK081NUcrd63fVVVonS8316xtq6L/XbzE2HeMOYa68AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACzUlEQVR4Xu2V30tTYRzGPRdd1G2SWOR0oaIbug3dHNvaZE6bilPH8Mdk5aiWjmWOKZIkSMsSKwoJkhICYRiF1GVX/WmPPu/h3Y5z6dqPLmIPfBls55z3c57ned/V1dVUU001FSMFF88/kbpYOtSN7RkztqZMSIxaEPObMO/rQthjwGTvTQQsN6oNpYIQgvPpvg0f7vViN+bDTrQfG9MOJCesAoxQBPIZG6sFpeDdXA92I+ocLDiQiTuRSY1hf2k4C7U568RK0IbFYTMiXiNGTNfh6WyodIQKPkatYujK9yWXmK8Jp5jD1QA+J/xnoKJuPUK2JtzpboSr/RrsrfWVglKw/7APX2J2MT+Tbhwt3xYj4eiUFio958KjgVaEHS2iTxKKzzI1N5cLpQgQxiShtECMjt/RPcbKsq+PG/B4qB13XTmXZHQVASKMBJKLyH7wezrISF+HLVmgZX8HHvTfEtey4IQqs+S584QxcGfJRRhF0NsGr1V3LlB8sE1cSyhGx5co0SVFRMFFuKvSCy6sR+1IzlmxGDJjPnBy3vgN8PQ0id8JQmDCbEwasTaWA+IL0NVpu67U80kR/Th8ebJ7nvnxNunFq4QHmzEnnsz2ChC/Q5+FZW8IxAOSQJvBLgFFl1IjnaJLLDh3nXScDhXpkoJfa1582x7H3tMh7K768D41IKC24m4BZOlogEFfrx6KFwDRKULRLS1IkTCUgh9vgjh4PiqACMLPzIsx8cnIBvtacOXypezbnjd0R3aOPfrLqKTOPvj33oxwjbExMqtB3S2n31j9f5Muychkj+SZVBKUdiG52NHOhHBsJWITLrXrrmoerv61cAqVW3ZIFrskqNNSoyRQYsqSdU4LrC25hMovNnfb6fvKUi7CwuXMQcmSy+i0R4C8P3dfGSoMopUidt+foiNURYGK09lNUcjd/LuqKq2ThSb/+ppq+u91DGM9nzzQUplFAAAAAElFTkSuQmCC",
     "wiki_name": "Musca powder",
     "wiki_url": "https://oldschool.runescape.wiki/w/Musca_powder",
     "equipment": null,

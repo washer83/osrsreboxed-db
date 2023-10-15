@@ -1,7 +1,7 @@
 {
     "id": 19198,
     "name": "Baked potato",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-24",
     "duplicate": true,
     "examine": "It'd taste even better with some toppings.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABM0lEQVR4Xu2WMQ8BMRiG239wk9kfkFgMNouJWAwiwmAgEQMREoPEYDD4zyfvNa9+euVOrlj6Jk9616Pfc18boVRMTEzMp9Gp5a8xEt22yuh3lBD7qZwpOOyqdNxLnsAc+YGYKTAdJOl8aFiO7LULOtZqUCx49EMArCd5+Izg85DHdgaW0o+i21k5KEgpbGcgKSODIvt5eSgFIMUz1azXq0gZGRQ4LpL0tKplYxE+sQBCeZnzupaNEnfulVgQISzEouCysde8l3M+MXYpiBAWYlFw3dlR4hOTHQoqxE6w+O2Qh89kl2R3AGUqCeEMYfEyQuyQb7ukkFvlg1ihoi75hLhd5rencncYnS3uCrnIM0QhVySADKNz2yYl3MMMviQiI/9SFPNFERv5xmVwvx8TExPzJnccKx4QIbTv7gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMElEQVR4Xu2WPQvCMBRFE4qzi+DgoCA6OPiF4KCIgyI6OAgODg7+/x9RuQ3XPNNoK4265MIhbap5py9BVComJibm0+jU8tcYiXZTZfRaSoj9VM4UHLRVOuomT2CO/EDMFJj2k3Q+MCyH9toFHWvUKRY8+iEA1pM8fEbwechjOwNL6UfR7awcFKQUtjOQlJFBkf28PJQCkOKZGnc6VaSMDAocF0l6WtWysQifWAChvMx5XctGiTv3SiyIEBZiUXDZ2GveyzmfGLsURAgLsSi47uwo8YnJDgUVYidY/HbIw2eyS7I7gDKVhHCGsHgZIXbIt11SyK3yQaxQUZd8Qtwu89tTuTuMzhZ3hVzkGaKQKxJAhtG5bZMS7mEGXxKRkX8pivmiiI184zK434+JiYl5kzvDO8NkvScOFgAAAABJRU5ErkJggg==",
     "wiki_name": "Baked potato",
     "wiki_url": "https://oldschool.runescape.wiki/w/Baked_potato",
     "equipment": null,

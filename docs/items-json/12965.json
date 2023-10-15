@@ -1,7 +1,7 @@
 {
     "id": 12965,
     "name": "Bronze trimmed set (lg)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2015-02-26",
     "duplicate": true,
     "examine": "A set containing a full helm, platebody, legs and kiteshield.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xs2XbWuSURjH9Rv0EfY6CEafIIgh4pDGpOGGkUozbIq5h0RFNFPb2mqFRLSosSK3YtVYaxENGmurXgQ9jN70Ya72P3fXvePxaN4+xC74c5/7nON9/c7TdS5ttqNvdtJL1951s9PLpQytLqaFnj9K0cqDpBBDbK/P0oe1Gdp6Na2BUgfRNrgBxFAAYqkw71+U6O2zQpVjvKNNVTWUJUg7rT3O1kDhCRAWA22u5Gn9aU70xVMHhP4y9P7eEn3fWWgNioFQ5tlhoHerRQHEfesB4Xc/dxfp15fKgZYFEHz09vQIqd4VM6adRy2PrB3JQCijrikYeRnwno2cpvzUOQqf76epsIcSkSFKxbyUiY9QdsIn2goJP11PBuhGOkhz2VGaz4XoTj4snmj3OI6Lb3UcKBJwU+zCAI2HBrVwAAMUQMqFSwIK9dVAFWtAvC90QMFhB4V8LhMOYIACEPpglhjm3nRUPHVAPz4+bA8IIwfIQslvSV0DwsgxK6rDf0kHtP/piQnTElA+1ieAsESyM5/zmFAycEqI33VAXtcJLZDqvY4Zx3SjctUEwkZlIHYsw8hAMlgHgIwYhBlSgXC6VKeNgG5nhvVAUlBUvStmHHkdEGILTpTqVAbSQXUdaPrKWdO5XNbVodxRIAh1xbhDxBYEwltpr+lQLuvqUGYgn7v3L9CyCdMUEE5YI6BydsR0KJd1dSjXAlWanR3YIRBDyUCIyNiocIYnpO4Zbuc+XQXCnVWc9Ahns8mhGhh1o+uXzIjUKKveNWYAycuGupkJp7gkAZQa66dM1E25y2fo9effWgGWxUD+gZPiW4hBFuJQNRCnpgyECzTq76N40EGTo05KXHRVAV4bHxQziNPFahsIp6weED6M2x53GqcgfNOjjVMPhAj0v1sa6xwQQ8lAgOB8iHMhGQb3HcOo6YcJdBCDLMch3bJ1QkjKWgJSlw2bG3VI7Hc25kSb/K8EZWQGEPpxUo++u29u0tetMn3bvt8KEKx2ZDrJMLJUoL3N+SoglgUgm43DeiOpgLIwkwDC7HQEqFlTIZuBZR32/U+mQuqk/uZI2x+SvZZTf+5YQwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xs2X+2uSURjHlX4voh+DNpUZmzGdlBozm2jukqDiNFNzbTUKIaILxRhFlzG6MVjrAkGDYKwxaj/1QxRF/dSf9cT3vDzvjsejeXmNPfDlPe85x/f5nNtzHm22vW920kvX3nOz0/PFLD1dyAgt303T0u2UEENsrM7Sh5UZWn9R0UCpg+ga3ABiKACxVJj3z8r0drlY4xjvaFNVC9UWpJ1W7k3XQeEJEBYDvV4q0OqDvOiLpw4I/WXoH9uL9G3zVmdQDIQyzw4DvXtSEkDctxEQfvd9a4F+7Tyk3zuPBRB8+Pr7hVTvihnTzqOWR9aNZCCUUdcSjLwMeM9Fj1Bh6jhFTgzQVMRDyegwpeNeyiZGKDfhF23FZIAupIJ0MROiuelRms+H6WohIp5o9zj2i29ZDhQNuil+cpDGw0NaOIABCiDV4mkBhXoZCGoLiPeFDijkc1DY7zLhAAYoAKEPZolhrldi4qkF+ninOyCMHCA3y4G21DMgjByzojr8l3RAPz/dN2E6AirE+wQQlkh25nfuE0oFDwvxuw7I6zqgBVK9NzDjmK49OmcCYaMyEDuWYWQgGcwCICMGYYZUIJwu1WkzoCtZnxZIDoqqd8WMI68DQmzBiVKdykA6qJ4DVc4eM53LZV0dypYCQagrJRwitiAQXs54TYdyWVeHMgP53QfFtxClGaYlIJywZkDV3IjpUC7r6lBWgTBDLc4ObBeIoWQgRGRsVDjDE1L3DLdzn54C4c4qTXqEs9nUcB2MutF1S8aRGmXVu8YMIHnZUDcz4RSXJIDSYwOUjbkpf+Yovfz8RyvAshgoMHhIfAsxqI04VAvEqSkD4QKNBfooEXLQ5KiTkqdcNYDnx4fEDOJ0sboGwilrBIQP47bHncYpCN/0aOPUAyEC/a+Vx6wDYigZCBCcD3EuJMPgvmMYgMjpBwMhBrUdh3TLZoWQlHUEpC4bNjfqkNhvrs2JNvlfCcrIDCD046QefbdeXaIv61X6unGjEyBY/ch0kmFkqUDbb+ZrgFhtANlsHNabSQWUhZkEEGbHEqBWTYVsBZa12/c/mQqpk/qbPW1/AdQKmUTfNcWTAAAAAElFTkSuQmCC",
     "wiki_name": "Bronze trimmed set (lg)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_trimmed_set_(lg)",
     "equipment": null,

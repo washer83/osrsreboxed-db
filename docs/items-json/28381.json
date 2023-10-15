@@ -1,7 +1,7 @@
 {
     "id": 28381,
     "name": "Perfected shadow torch schematic",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": true,
     "examine": "A design for a perfected shadow torch.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZ0lEQVR4Xu3W0UobURAG4Jw38RH6AgWLiIQEG2u6iiBoQzSJxtqYbKMxaaUiKraKIEIve1foO07zzzLbybjL7lo2tuDATzQR98ucOWe3UHiu58q1HD3Mk5Wj4v5XWtg5o/mNPZpda3CeEOeo1LmhytYJLdZGHIDm1ncZWKz3po1ytNw4ZdDNt3O6PvcZVd4c0OzmEb2qDWm+8WVa3XJU7t6GIN0l4BDAEKByhjlaOvxOXvuCvO0DqtY/0OizzwhBAaJhAGHWkBxgjhb9O1pt+QxBgNLdEZQAEQEhxfalGX6b1BV0Z3WnzyCv2Q07hLypvQ9/FogsqY6gStt9Hn5k4V2HNwOSAeWo8vE+BA2PWxygdGQJLSQqGoeUWwMGvZiZSUI58vwLHmYGjYMOYY6iUPbCUfn18wdHvwdUJtDK3tUECDtNB0D7nkQAiP0MkS49GlQdt9v+07hoTFTQHZmnl149aY4CjAbhFVsfKB3ZaYj8bi8eheWdOB5sRDoU06WHGAvCKa0hFoTXOBQ6I8eE7LSEJZsE6URBbNfiQBLBlDb6jMG9MAGECg4si+LTOkUEZzHSHWCK670JTAKoUAj+IIDhLMJpjSPAXjwpbxsHHDkypEOZMLo0DAFKxwJ0Vpq9CZDMEN/vxsslW95eM1X9+SYBDB2TrtkAg3kDSFDHgyajZNlS7K70ZbsmOA2UDmmU3HqAlQe6v8bosl0TnKBe7x7R8FMvjMwRMBlO6MeVxS13ThmFx150Sx8Vuju5gXRpWLV7RpX9kxCG4yD37sSVXU5e0vYoyyNHPiVLo4FTW6409U9h/vv6DdHuLAa3LyxMAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYUlEQVR4Xu3Wb0vbUBQG8N6vMXFqSy22VUTQWWytRVdtWlxtnUxEx/44BoOBr3072Mc+y3PiiSfHhCSOVAUPPFRbMb+ee+5NSqXXeq1Cy9HDPFk5Kh98paXuBS1s7tPceofzhDhHlf411XbOaHl7ygHo7cYeA8utwaxRjuqdcwb9+HZJ3y89RlW3xjS39YHmtye00Pk0q245qh79DEG6S8AhgCFAFQxztHJ8Q83eFTXaA1rZOaTpxyEjBAWIhgGEWUMKgDla9n7RanfEEAQo3R1BCRAREFLufTbDb5O5gu6s7R0zqNnxwg4xrPU+/FkgsqQ6gqq0Rzz8yNK7Pm8GJAfKUW34OwRNTrocoHRkCS0kLhqHVHfHDFpfXExDOWp6VzzMACHoEOYoDmUvHJe/f245+j2gcoHW9r9EQNhpOgDa9yQCQOxniHTp0aCG3277T5OiMXFBd2Se3jRbaXMUYCIg/5W3vo/SkZ2GyO/24nFY3on+YCPSoYQuxWAMCKe0hlgQXpNQ6IwcE7LTUpbMgFTiILZrSSCJYCqbI8bgXpgCQgUHlkXh4lkiOIuR7gBT3hhEMCmgUin4gwCGswinNY4Ae/HUtL0gd0eGdCgXRpeGIUDpPACorO6OIiCZIb7f+cslW95eM1Pdf5MAho5J12yAwbwBJKjJuMsoWbYMuyt72a4JTgOlQxHU3a0HWHmg+2+MLts1wQmq1juh6ekwjMwRMDlO6MeVxdX754zCYy+6pY8K3Z3CQLo0rHF0QbWDsxCG46Dw7iSVXU5e0t40zyNHMSVLo4EzW64s9awwL77+AVOMZd35TlHgAAAAAElFTkSuQmCC",
     "wiki_name": "Perfected shadow torch schematic",
     "wiki_url": "https://oldschool.runescape.wiki/w/Perfected_shadow_torch_schematic",
     "equipment": null,

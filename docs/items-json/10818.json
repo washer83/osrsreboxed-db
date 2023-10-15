@@ -1,7 +1,7 @@
 {
     "id": 10818,
     "name": "Yak-hide",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-06",
     "duplicate": false,
     "examine": "Thakkrad, of Neitiznot, can cure this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByElEQVR4Xu2VQUvDQBCF3X9S8CAIhVIooYRAQ5EgLcVAQCoUqiKCIHgTL+JJsSB4EAT1IGqpevEuHjx6FCz9O2PehGm2UREldSvkwWPTzdL5eDubnZrKlClTpn8nRckZg1K0UC1SBDURYBEIoOqVgmkoRYFX0tLR0zImRYVcbuhRSGPSi0dJNWuWKSi9uCInnx8+txrlv4SK+waFg5pDvlemZd8eei1weNTXjgkwTMLKM0DLd6nZqHBKrjXDcJgXo8nRU3iPcfQQpCLFhQABmHYwF0OFZoAwLS6OUbOAYE1Kp1HxH+swAiTfIYxISgCT1rcuPpm/kqL5UoktxT17lg0AuzjNxjtsj74GwLpTgIEUdXe2ybfLVLcsWl30aH2pxqNuSU0scMn5FLYLUvSwt0tPnQNquhUKHIehYEkqCSgGGBLDMwCxPjUo+OXkmF4vzqjthT1UdWlrxafNdoM2WnUGE1AYcxi5B8Nmx29svWxdssKPJVcE/HZ9Sf3uFfV7NzS469Hg/pYeD/e5V5ACIAUUTrGpP0oHS/r5qBOleH7KH0hsF3pQB0kVRpdeIC40CijXyFhBvlMS0OCF+5UMJ/SZJgom07j0DkdfpdpwpnBwAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByElEQVR4Xu2VzUrDQBSFO1sRi7SkJCW1sbQSArYU6g+IILgT3IgrxYILFy4ExY0olqK48Q0EFz6AawVR9MmuObfcZjoqoqSmQg4cJp0MvR9n7mQymVSpUqX6d1JkziQoRTOlHPWgRgKsBwKoanEyaShFgZfX0tHTSkyKGuVy34OQiUkv3kuqXrGSgtKLK3Ky2f5zs1b4S6iob1A4qDjkewWa8+2+FwOHR33tkADDJKwsAzR9l+q1IqfkWuMMh3kxmhw9hfcYBw9BLFJcCBCAaQVTEVRoBgjT4uIYNQsI1sR0GhX/sQ4jQPIdwoikBNC0vnXRyfyVFE3n82wp7tkTbADYuTE23mF79DUA1h0DDKSos75Gvl2gqmXRwqxHS40Kj7olNbHAmfMxbBek6Hpzg27b21R3ixQ4DkPBkpQJKAYYEsMzALE+Nij4fn+PHo8PqeWFPVRyaXXep5VWjZabVQYTUBhzGLkHw2bHb2y9bJ1Z4ceSKwJ+Ojuh584pvXTP6fWyS29XF3Szs8W9ghQAKaBwjE39UTqY6bvdNqf4cHTAH0hsF3pQB4kVRpdeICo0CCjXyFBBvpMJmOCF+5USTugzjRRMqmHpHd1mX8U0UyibAAAAAElFTkSuQmCC",
     "wiki_name": "Yak-hide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Yak-hide",
     "equipment": null,

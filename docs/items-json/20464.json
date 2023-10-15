@@ -1,7 +1,7 @@
 {
     "id": 20464,
     "name": "Dragon defender (broken)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": true,
     "examine": "A broken defensive weapon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACp0lEQVR4Xu2W70sTcRzH74sR7MHodHZTj8mJ2GRhDGHJiMHGkjFmw2FoKzZcwx+YGqKmadkwfBD2w8wgIpCCiOhB9CD6B/q/3n1/eNftbs3IO7cHveH94L43vp/XvT+f790k6b8IhBsuAVJQZIzIUiOhBMiSKuM2dZ4CjSkCKKxpTkMd95QElV4Fq5qMeQrD0mHWYRwGIhiKRI6JnmDyZp6nM3NklpBr6VyJRutsLlo1nstx6y1zKR2mekAEY9ksRjMZFCYmUCxO8WtX02FOxGI1ChCMpFJGMqXSDGKxxFFrXUnn99PrQGazdWYGlc9PIh4frgJxHGZ3uoxns9PYm5vB/p05Xlh3OpnEcDzOnc2OIZlMu5UKE8F6fgLRULAqkZ8RDU+DCh5qCj/abE4YiDUZ624OiKCcTlmKEHzZ2sSPQQ2aqnIzoEhkyH2YSrFQowjBx/trBowOpKoC1iUYXXaY5xc6cLi6bAMaCIVOA0iSzDAvKcxOrw/r3a18yB+XinzGFkazpjd4LTsugrf9nXjRp6DS047lgIxyh4xca0tV4Vxu3DA7cbodhiJ4R2H2+zo5zEqgDTeUFvjOCBh90L/vbPOXYTg8aEvIwUEnuNbuNWAWu9pwvf0szrVIlkIEXytbBoy+brZ1538QwYrmw0FQwMxTmFEK0yrZYZg/ba47nYZZBGsU5lXQj0cUZrbLgwyFsbeA4Nt2BZ8fbOD9vRXjnnW3E4pgo+c8DkMqhyn6Pbjs9dhawa7fLC0akK6m8+GigJlSvbjksbao+rdmSPv9E4vgbrcPu/R4F3we9NWFEfrTugMSME/o/+Echem0De+pimAh4MPr/g5clcW8NBCGieCAfhYSRzAuzsTfiGCPwjRBKkwEt/zeZkjFrIanYldTwTSDfgF9PfgyxBzj6AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiElEQVR4Xu2X0U/TUBjF+9F1o2OOEJYtbjLYCJubZCXLmDOM6SQEhgRRnBB8QRLMgiY+GaIxMTHGFxNfjH+Df+bxu+1aunYOAi3bgyc5D2ube3899/S2k6T/IhgeugyQsiJjQZaGCWWArIdk3GdrDFRUDKCluTmvoS66S0I7rKClynjEMCIdYRPGYyBCPBa7IHrC8pKmp1PvWiTkWzq3E4kBgxtLtVgo6DaXzKd0hAYBEYq5HPLz8yiXSqhUHui/fU1HeCaZ7DMBYSGTsZKpVutIJme6S+tLOud3bwLZLY4LCyhNW0YqNdsD4jnM0UoNx6srOGnU0XnY0Cc2nU2nMZtK6c7likins36lIkTY1kpIRCM9ifyJqXgdUfBcVfRHW/REgDiTcY7mgQi1bMYxCeH73i5+T6tQQyHdAigWi/sP066U+0xC+LLzxIIxgUIh1bq2dxxP5YZ5MxHAWWvDBTQZjd4EkCTZYToM8yosY2dc1kt+UK3oHWvmc7YdvJ89F+EDl7gTCeCAgTa5yLWAjIL1BjdcKCxaFk+caY+hCGcM85YtYFqcjhaQECYDxiz6r8N9fTOcmpp2JeRh0QlNTsOEWQvKuCcTgtI5jAn0o71nwZjH7XaOfAWRvte868I0GeYuwyh9YIS/7m57nYZdhBMGOeXOvGSYRnCMv/j6LQHh5/4LfHv2FJ+2Nq1zztGuKcLprSA+sgVMVRnDnS5M7xIQ3q+vWZC+pvM5asCscn/i5Fyi3mvtkO7z1xbhcELBMbuqECYHwhj613EPZMAc8fdwiWHGXeW9URE/ScZeUwz43onLiIvM6eS7MD524jISL0xlFFIRIjx2/CsYIoypoafi1kjBjIL+Aswyv54M8zY+AAAAAElFTkSuQmCC",
     "wiki_name": "Dragon defender (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_defender#Broken",
     "equipment": null,

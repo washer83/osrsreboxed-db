@@ -1,7 +1,7 @@
 {
     "id": 17596,
     "name": "Diary",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-18",
     "duplicate": true,
     "examine": "A diary belonging to Herbi Flax.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlElEQVR4XtXWv0oDQRAG8Ns3yCME0gmBELjCQrBJZbBJISm0CAgWWlgIgg+/MlnGnf1u9vbPbfT84IM0d/djZu9I1/3vGOs6ixi7u+7OnQHM2P2tw1BvelcP+3WcDqL2a9cQd1GgwzBIYjRYHIitTh4oBuNercJWoow97DxG9vNlO+gYSgNtlssSlMOUgLTGUNUgua5YESEnpoEYUwAKp6MVURoOV0gY/l14htKgHBwedgYVrszY492iCBRDIeZhvxqsDZ8OcRgJwiIEq6Fi02kCwiJIoiZjHu8dpgQUg6VA+HQlIQiLgFgZNIbJADnMGAiLEAlqNp1SlIZrMB1KCMIiQGvD6VDc20U3ez9t7NvTeoBKARGkYYpBdEP56f949kUUAnNA+NSRhF9neR4Y9/Xa//R0WATVQIyqmA7FnG8s16HhqDQtOUUC8nXaK18xHY7/e8k47bxoQC4B5coqp+PjLw7///JqEIg4PEMTpjMM41LA2KGePJ1UxoASxGeo6XRyogEZdPHp5ETC/hwjMytMi3wDoPusJJsxClcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkElEQVR4XtXWT0vDQBAF8Cy99WARA4IeWpB66KGKCMWDoAcPgge//5dZmS7TnX2Zzf7JVuODB70k+TGzCe26/x1jXWcRY9fX3bEzgBm7vXUY6k3v6mG/jtNB1H7lGuLOCnQYBkmMBosDsdXJA8Vg3Itl2EqUsbu1x8h+vV4NOobSQI+bTQnKYUpAWmOoapBcV6yIkBPTQIwpAIXT0YooDYcrJAz/LjxDaVAODg87gwpXZuzD3aIIFEMhZr9dDtaGT4c4jARhEYLVULHpNAFhESRRkzFP9w5TAorBUiB8upIQhEVArAwaw2SAHGYMhEWIBDWbTilKwzWYDiUEYRGgteF0KO7topt9HC7t+/NqgEoBEaRhikF0Q/np/3zxRRQCc0D41JGEX2d5Hhj3/dafetgtgmogRlVMh2KON5br0HBUmpacIgH5Ou2Vr5gOx/+9ZJx2XjQgl4ByZZXT8fEXh/9/eTUIRByeoQnTGYZxKWDsUE+eTipjQAniM9R0OjnRgAw6+3RyImF/jpGZFaZFfgB3aA+bkccHmAAAAABJRU5ErkJggg==",
     "wiki_name": "Diary (Shades of Mort'ton)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Diary_(Shades_of_Mort'ton)",
     "equipment": null,

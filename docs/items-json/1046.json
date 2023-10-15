@@ -1,7 +1,7 @@
 {
     "id": 1046,
     "name": "Purple partyhat",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-12-25",
     "duplicate": false,
     "examine": "A nice hat from a cracker.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvklEQVR4Xu2Vz2vUUBDH9/0duTzIIRAQvHj06M2/yYsURBARQUGKiEpRqfibqlS0WCylpQhSBIUigoiIiIiI9PDkM+lsZl/yskmlnnbgy+4meTOf+c6EHY1mMYv/Hi7EVw4wphVzYevYbkg/l7q+r3BhqfjYUYyogQ57Hz3nwubRLlii614jXHhUfAjLxZdE0qrgNKDNIymoKn/7vUa48Kz8Gh4UO+Fp8bml4F6xPaDm2CrnLFAb8L3ifeJeI5yAcOBx8Sm8KL+ZgjWMhZpM7MKr8pfAbBzaDevlnwYw+Wm6NxD7c7d4J5+TB50UGqsBVLkDELJAFpgm291vDSfj4pDu0cvyRxPGANVjawdaK38bl5zk1B3qBYQ7HNI9Wim/y2EKIAtlgfikuAKtlj/HvxUYx3F+0A7dyt/I/tg9UphYdmxdQHwnD/lo9Hb+tj/QQr4lljIq3SOsj2FU4tLx6tMCIHLwG5dxm7xM4Eb+uj/QlXxN3NE9AiYlgICwioEQK6CjYgLX843+QBf9shyioxggJeDjccVAjGox35YJ0HRvoHP+Ybiar0sCrNYi6kAMg+jeAlkopG8WQLgz71f6A53J7oRL/vnYJXZIO9UCbZB2XPo8DembxSLjDjDk7w10OluccIlkgDEWRBEUQyoA4jlAcIY3Sxf5sl+VlUA9gYjaJSwmmYJRAFEMWUgLQQOAMCZdZPYGkAv+iWgQ0KnsprjEvOnMglEIURQppEIg4HmWM5zFbRo875fGGgR0Mrsmo2PedBaD0TmiMFIIrlkQzugSA0GTqkFAJ7L5MJctSBJsbgNjFAgAxHdAWF5GxALjDHujMGf9/bEGABHVfw/icAqM4igFwpjYF4VgN1UDgUYjHq4O1HAqCwYE0vFwnfs0QCPqRqw6/z5CD3dBdik+/08wqYiTT1N8fhazOOj4C7ciHapudJckAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACxklEQVR4Xu2VwYdVcRTH32913eu6bVq1aTbt+1/aJBKJRCJGpGSojJRSGSkmpTRURk2GmMXQIi0iWkS0SIuIaBExq18+5zrvnve793ff706m1Tt8vffuvb9zPud7zvVGo1nM4r+H8+GVHYxpxZxf37vl48/Frm8rnF8qP/YUIxqg/XNzwXPOv9rTB0v03WuF87fLD365/BJJWhecBrS2OwZV5+++1wrn71df/c3yvb9Xfu4oWBdToPbYaucsUBfw9fJd5F4rnIBw4E75yT+svpmCDYyFmkzs/NPql8C82LXlV6s/LWDy03QyEPtzrXwrn5MHnRRStYFqdwBCFsgC02S3+53hZFwc0j16Uv1owVigZmzdQM+r38YlJzl1h5KAcIdDukePqu9ymALIQlkgPimuQCvVz/FvBcZxnB+0Q5eLDdkfu0cKE8qOrQ+I7+QhH41eKd6kAy0U62Ipo9I9wvoQRiUu7as/LQAiB79xGbfJywQuFq/Tgc4Wz8Qd3SNgYgIICKsQCLECOiomcKF4mQ50Kl+WQ3QUAsQEfDiuEIhRLRabMgGaTgY6nt/y54pVSYDVWkQdCGEQ3VsgC4X0zQIId+bzx+lAR7Or/nT+YOwSO6SdaoEuSDsufZ6G9M1ikXEHGPInAx3JFidcIhlgjAVRBIWQCoB4DhCc4c3SRT6Tr8hKoEQgonEJi0mmYBRAFEMW0kLQACCMSReZvQHkZH5XNAjocHZJXGLedGbBKIQoihRSIRDwPMsZzuI2DZ7Il8YaBHQwOy+jY950FoLROaIwUgiuWRDO6BIDQZOqQUAHsnl/KFuQJNjcBcYoEACI74CwvIyIBcYZ9kZhjuU3xhoARNT/PYjDMTCKoxgIY2JfFILdVA0EGo14uD7QwKksGBBIx8N17tMAjagboZr82wg93AfZp/D8P8HEIkw+TeH5Wcxip+MvblKmQIX8t78AAAAASUVORK5CYII=",
     "wiki_name": "Purple partyhat",
     "wiki_url": "https://oldschool.runescape.wiki/w/Purple_partyhat",
     "equipment": {

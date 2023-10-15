@@ -1,7 +1,7 @@
 {
     "id": 4340,
     "name": "Team-13 cape",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-02-22",
     "duplicate": true,
     "examine": "Ooohhh look at the pretty colours...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5klEQVR4Xs3W304TQRQG8PZNSHrR24aE+Bq+jBcoIVSCClFDApHEGm3AUAqiEKyVP40lBZQQIypqAokx3vAYA99svtkzhyl26dYwyZfubmeZX8/MDpvJXP+WNeGEvu95y5o3s8NmuTxks/Tijqk+u21DxPbaQ9NcnTCNlfEASv+IruERiCiAGI3Zen3fvF8c8wbGOb7T8VGJkFmzOjdyAYVPQBiC6tVRszZftH3xGQKhv0Qf7c2ar63S1VAE4ZjVIWhj+Z4FsW87EO77vls2P/cr51mwIIxR6Ouz0aOrFpWdv5ogDBoC1Sp3HQjHBOHvENSqPfJAOCZIj65a1psGDMTFjXMNwuBAcHpxzGkp3rrpjvfqk+mBWCVcC4FYSURD5HkMqiQDcV1oEAbXILmgNYjTFgJ923nePQjXASKKlWQfVuRPI997EAKABMkFjfv+fshbzO/NKBL1pfnEgY4+vnSYxCCJ4uOrQRqjUeh72JwJgvTobVpUegx2GYg79Nxov83JeoQhiBWyoO2nVwVFexAq9C+QxrAqCM4JQn8PJDZFPbpq0SMfAiESxCoCMz82YBHVBwP2GJHVSRVEFMIFimDQ43rehRh8AtkTkKwSFy8GxYCE/Hibs59cN68mbjgMQbvvHgvQgsN0BMKTEwJxejQGa+VXLWcxeNIQCUJ18G9DVqjD6qDFIDltuD4zWLBBBWRlgEHVTlsXMZyuT+spghBcR/YXcy6sEqeQC1m+ehB0sDXlgYjSowdaBJLThmsHSzkbYg5X4kgMplaD8NrxuTHtQNiDEuxDPkiiZAABDNPHdRUCoTpdg/CUaRDWEa5xM+TmVxoq2JRHYhD6yelKDaSfNlyXIF017lW4j30BwiPvgc73oMT7UGjaOAh+MQF8C8AuLkFy/aQCCk2bBOE7+VoiQegn10+XIDR/KtpFYmQ0CJuiBDEJQJkMt/XLooEycv2kAuq0aWQnWCbu+5+aRoai77nW7QxL3XUmv0xB5AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7klEQVR4Xs3W3UsUURjH8d3bxRtJuvau2/6NbiqpTOxFKgqKEHqhWMSw2rY3EWzNMFrJEBMpQYiSoteL6CIIuuuvmfie4Tf7zONZ23XX8MCPnZk94/nsc84cp1DY+a2YxBP7fttbMXk4dii5Xx4IqV4/mFSuHggRYnH6VLIwNZLMT56MoPyP6BiegoQCpHhM/cHx5El1ODcw53znk0e1hSwmU+OHN6D4BKII9LgylExPDIa+fMZA9LfojytjyfulK1tDCcSxqiPQ03vHAkh9m4G478NyOfmyejP5uno7gBhjb39/iB/dtbTs+tUCMWgMVLt1NANxLBB/R6Cl2ukciGOB/OiuFXPTwEBa3Jx7EIOD0PRyrGkZ3LcnO16ZPds9kKrEtRhIlSQeYs8FIm2BtC48iME9yC5oD9K0RUEvr3UO4jogoVRJ9VFFftV7th9EAFiQXdDc9/t5T8D8fJbGot4uXMxAn17dyDBtgyxKj68HeYxH0ffdi9EoyI/epKWlZ7DNQNqhx4d2hfyYSzECqUL0XV+8tFVQugdRoX+BPEZVIZwLRH8LspuiH9219JGPgYgFqYpgJob7AqJyoi8cE1udroKEIlqghEG/z/ZkEYZPkNsCslXS4mVQBhTk86NS+NS6uTuyO8MItDxzJgOxSwvTEognJwbS9HgMa+VbrRQwPGnEgqgO/zZshVqsDq0BstPG9dH9vSFUwFYGDFX7s7QRo+l6PXeueyDCdbJ6p5RFVdIUaiHbVw+B1urncyCh/OiRloLstHFtrVoKEWZ9shGLYWo9iNeON/MXMhB7UBv7UB5kUTZAgDF9WlcxENXpGMRT5kGsI65pM9Tmd3mgN6R8pAGin52uroH808Z1C/JV017FfeoLiEfegtiD2t6HYtOmQfjFAugtgF3cguz66QooNm0WxHf2tcSC6GfXT4cgWn4qmsVibDyITdGClDZAhYK29c3igTZ2/XQF1GrzyFawSqPvf2oeGYu/Z0e3v578iJnsvKfGAAAAAElFTkSuQmCC",
     "wiki_name": "Team-13 cape",
     "wiki_url": "https://oldschool.runescape.wiki/w/Team-13_cape",
     "equipment": null,

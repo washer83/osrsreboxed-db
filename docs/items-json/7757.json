@@ -1,7 +1,7 @@
 {
     "id": 7757,
     "name": "Paintbrush",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": true,
     "examine": "Try dipping it in paint and applying it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xs3Xi2oTURDG8eyb9BFE8OVUxAsqLVUURUFFSy2mVaqWUuOlxZTaekO8lb7Oaf+7fJvZ6WySTVbpgSGb3Unm13PmnNBO5+SPLMURPf/nI0uvFi+k1YXzebx4ci6tPDqbhxDb6/OpvzaXtl7PBij/R0wNL0BCAVJ4zObL6+nt86uVwrznmY8qqhEyS2tPLx5D8QpEIVBv5Upaf3Ypz+U1ApFv0ft7i+n3zsPJUAJxrdkR6P3qtRyk3DoQn/u7u5AOvnaPYjkHUePUzEwevrobxbTrrxaIohFoo3u5BHEdgXY2blRAXAvkq7uRVZaBQmpu3gMiRyCKg9Dy1oH2erfaA2mWuMfz3mm+JCtBmkmBmDUP+vLOgrrNQOoLD9Ju+nhmALINPQz07cPtCujPp8fTg7hvl0wzaXdkHej75p12QQQAQGps39B1IHJ/9u+VoP3PSyWmMcii+PIIJAx5daBf/fshyFevGcXhxZcPA/mGFoiZPAbafjApqDiDmKFRIN/Q5HHPg8ivgMyh6Ku7UWz5CEREINs/EYi8VkFCERTgxKUA176hBfLL1RrIzhKvFkSeb+g60O6bmwa03HyHRSD9HFiQ758IRC4/G3aGxpwdxgDk+0hbWSDejwJpufjZaA0kFPcpIBDPff/YmbQgTmkLEspXD0YBipZtUhD5P7buliDOoAbnUBVkl82CtOX9cnkQ8KlBNOsoEMWiHWZ7TcvVGsgvG/ctyDe0zio+p1xAbPkK6OgManwORctmQdGWtyDbP62AomWzIJ5FDU3oZ0PLNSWI4f+5i8P3j8KDOBQtSNEA1OnoWB8WHmjD9k8roHGHR46DVQxy/9PwyCj8Z070OATFxvdLZnNxmAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkUlEQVR4Xs3Xb0sUURTH8d2HPbYX4EvonWQUFRWGRUURQRSFSFIp0j8EMYsKJUNMJJVATAylXtmN7wy/2TOnM7s7u1N44TCzM2f2fvbec++wrdbxb+0UR3T/n7d2ej11Nr2cPJPF3OOxNPvwdBZCrC1MpNX5q2nlzXiA8j9iaHgOEgqQwmOWX11J7+culTrmM/d8lFG1kO00/+TcXyiOQBQCLc1eTAtPz2e5HCMQ+RZ9uDmVDtYfDIYSiHONjkAfX1zOQMqtAvHcz43J9Gv7Wfq9PZOB6OPU6GgWvnfX8mHXrxaITiPQ4vMLBYjzCLS+eK0E4lwg37tr7dI00JGKm8+AyBGIzkFoeqtAm+9uNAfSKHGN+0sjJ7KjQBpJgRg1D9r6cLMAEbVAqgsP0mr6fLIDsgXdDbTz6VYZ9PXR8CCu2ynTSNoVWQX6vny7WRABAJAK2xd0FYjcvdW7Bejo23SBqQ2yKL48AglDXhXox5d7Icj3XtHyzYsv7wbyBS0QI+lB+2v3BwXlexAj1AvkC5o8rnkQ+RZkN0Xfu2v5ko9ARASy9ROByGsUJBRBB+y4dMC5L2iB/HQ1BrKjxNGCyPMFXQXaeHu9ALFL115hEUivAwvy9ROByOW1YUeoz9GhdUC+jrSUBeJzL5Cmi9dGYyChuE4HAnHf148dSQtil7YgoXzvQctB0bQNCiJ/d+VOAWIPqrEPlUF22ixIS95PlwcBHxpEsfYC0Vm0wmytaboaA/lp47oF+YLWXsVzygXEkrcg9qDa+1A0bRYULXkLsvXTCCiaNgviXlTQhF4bmq4hQbTOX5Vu4etH4UFsihakqAFqtbStdwsPtGHrpxFQv80j+8EqOrn/qXlkFP6ZY93+APwK7E6RX/x9AAAAAElFTkSuQmCC",
     "wiki_name": "Paintbrush",
     "wiki_url": "https://oldschool.runescape.wiki/w/Paintbrush",
     "equipment": null,

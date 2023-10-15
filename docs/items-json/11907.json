@@ -1,7 +1,7 @@
 {
     "id": 11907,
     "name": "Trident of the seas",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-01-30",
     "duplicate": false,
     "examine": "A weapon from the deep.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhUlEQVR4XmNgGAUDDhj/Q/CgAIz/68rL/+ekpQ0WRzH+T09MBDvGQEFhIB0FiSZYyMAck5eRMRCOYvxfkpvzPzUuDsUxWcnJcD5EjG4AOSSQEzRytNE1lCAOkp455397Q93/soI8FEc1VFbSO5Ez/pdetAzsIAZvH5Roa62t+R8bHk7PqINEBygNJUVH/+9sbIBHESjUQGJ0cgzE0toosf/r66T/H+xV+H95pjLYYd1NTf+LsrP/uzo40M8xa2qk/5+bpvxfICHpP4OzKzxU0DFdHLO4TPr/6SlAx0THwh0DsxgbRjeBigCYY2LFwA4QCIvEcAy6ajqBUcdgA5AEOmgcI9bRM4gc09oBcQw0lAbeMaCsjeSQAXAMJCQ6ksUwHIOukg6A8f+WJgVICTwYHHNykvJ/sdqGweEYUN20s10BnoAH1DErqyCOYQgIHnjHHNyxHdKaQ2pYDZhj5k+b9r+3peW/j7v7wDtmclcXuFfg6ew80I6BAbo2oogDMIcMCscMJgAAQkdRCcuWvXMAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABg0lEQVR4XmNgGAUDDhj/Q/CgAIz/g729/ztYWw8WRzH+tzEzAzvGQEFhIB0FiSZYyMAc42xrOxCOYvzv4ejw39LEBMUxdhYWcD5EjG4AOSSQEzRytNE1lCAOYi8o+R8TEvzfy8UZxVGhfn70TuSM/9mrG8AOYlBWRYm2qKDA/0Z6evSMOkh0gNKQuaHh/7iwUHgUgUINJEYnx0AsDTJg/d8dzP5/SRLn/90FXGCHJYSH/3ezt/8vLy1NP8e0B7L/35rD9Z/Z1Pw/g5w8PFTQMV0cU+PF/n9jFtAxhkZwx8AsxobRTaAiAOYYI1awA5h19DEcg66aTmDUMdgAJIEOGsewxiYOIsdExUIcAw2lgXcMKGsjOWQAHAMJiVgLVgzHoKukA2D8PymcE1ICDwbHrMvg+s8aFDo4HAOqm2bGcMIT8IA6psUf4hgGda2Bd8yS6dMgrTmkhtWAOaY8J+d/UmTkf1VFxYF3TGZ8PLhXoCQnN9COgQG6NqKIAzCHDArHDCYAAAOKL3tYQ9sCAAAAAElFTkSuQmCC",
     "wiki_name": "Trident of the seas (Partially charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trident_of_the_seas#Partially_charged",
     "equipment": {

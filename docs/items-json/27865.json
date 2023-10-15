@@ -1,7 +1,7 @@
 {
     "id": 27865,
     "name": "Abyssal dagger (bh)(p+)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": false,
     "examine": "Something sharp and very poisonous from the body of a defeated Abyssal Sire.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xt2VsUvEMBjFm/+gU5YsgQ4HglAE8S9wc3NycHFxcXFwcBBuuOGGG4QDB1fhQBAEEQ5HJ/Gv+sxr+EyatuqQNMUHjzt6vcvv3vvSFMWoEhReyShBcq1pQlAGaKUaoFoDLKssjFxMCcjAyPkkgByMXCpSmyr3HAkLA986oJFTQgLOx7JoLO90DiBBWim6UCWdGZ9I+3ppPK9kfiAY7690SU+1qeyxIvU8+hxZKKTCvtGSXmtN+sUlNFJKgs49CDbqetszQNtZysraw8swqIdBlpXz+749OiKn01781AwtdtBhWXzDII2F5/VM0tak83kQfaDtbPjmnQQfGahrA7QyAP499zuKPjyYiECQS4gXRDIwwyGhEDxBOqw2DABQG6rCIHON+My/N1k6+PdYPKyNU/Kvu0SSwEAWaLPbrmPIfkUJYCBBD7/A+DOWKBVf3V0WwjBEApjuQy8EGIIJfymCRPOgg8OFQwgG9eclgrpp8EkdQvQnEjWd/iqwk4Z2Ux9AJBiWheKafP8FJpEsFJ9L/ATGwZkBhtVfX5hQ+K3EmijUTx65NitedMjh/f9WX75R7ET5OggSAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsElEQVR4Xt2VoU8DMRjFr7k0TS8LZIFgmcFgIBgMAoPAIEgmJiYmEBMIPGKCBIEgIZnA40j4Fz/6rvlor7tjiPZ64SUvW2639bf3vl6LolcJCq9klCC51DQgKAO0UDXQ6WSSG8rCyNmQgAyMnA4CyMHIuSK1qnLPkbAw8J0D6jklJOB8LIva8l7nABKklaJLVdK58Ym0r1fG00rmB4Lx/lqX9Dw2lT1VpF56nyMLhVTYt1rS21iTfnUJ9ZSSoAsPgo263vcM0HqUsrLm8DIM6mGQeeX8sW+PjsjpNBc/M0OLHXRYFj8wSGPmeTmStDbpfB1EH2g7G755J8FHBurGAC0MgH/Pw46iTw8mIhDkEuIFkQzMcEgoBE+QDqsJAwDUhqowyFwjPvPvTZYO/j0WD2vjlPzrLpEkMJAFWu026+iyX1ECGEjQ4xYYf8YSpeJrc5eFMAyRAGbzoRcCdMGEvxRBon7QweHCIQSD+vMSQZtp8EkdQrQnEjWd9iqwk7p2UxtAJBiWheKafP8FJpEsFJ9L/ATGwZkBhtVeX5hQ+K3EGijUb+65NitetMvh/f9W36K6sPdwNo05AAAAAElFTkSuQmCC",
     "wiki_name": "Abyssal dagger (bh) (Poison+)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_(bh)#Poison+",
     "equipment": {

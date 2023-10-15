@@ -1,7 +1,7 @@
 {
     "id": 1544,
     "name": "Key",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2001-09-23",
     "duplicate": false,
     "examine": "An orange key from Melzar's Maze.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxklEQVR4Xu2WvUvEMBjGm//gpi5dCh0CBcHF8cDNQXF3UFBBBZ2cREQOcVBQEBUXD1HE72/RQbhBRxHcRFAQEURERMRJOrzyNvSapul5SJM63AMvR5pr8uPJkyaGUVNNgQjEKzMRKE3ascoIKgrzsknBO8tnBRXCHBdseFqj8HXkgldqAe+8IwuoEEjMD0LxffU2/ipXMpDYpwEoOmml0gBUHcjuiAWFdlMlUGVXbhYduF+mfrgvpm0oDlow0JpTBZQMcr3gwPMGhcdV6gPdFh04GQtzhTApAiW7glv9at4pTyxWAJISTDLIXL8JB6MWXM4yGH5iscRR/yg5COZhps/0wyq6II6Qogh8n7oxmN7mHEz1mLA1zGAUuCCT3BmsiW62fbW5IoNBp163KbQ1hltXC4wIwpdGV1BxmPUhy/+m3C3RCFQmMEHhFQKXCj90olPiKCkqCoTOIMjDCoPA/o99179w8f9TCEWkk73vMXf4Nha2u5qUnUuBSHlyHgqffR66MN7JtjouHbYbqKEaCEXgbSf6IcRneGLn6xgAX9p2W7As0azIzynxbUViIRahNALIRPys4LVCU16qkfa8/K4M8vJ/9ANzvnerYjtgfwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4XmNgGAWjAAYY/2PiAQOM/+fGcWLgAXIUqmNuNvP8/zlTaqAchXBMfyjn/0v1PP/f9PH9/zlX9f/PRSYD4SiEg9DTD8hRyHIGCgr0cBRuB6HL0cFBqJbiw3RwEHEOaQ9k/x9qxEpLB+EPlf1FXP9PVPCAE/eSJM7/JW7s/x3UmGnlINwO2ZrD9f9aI8//8zU8YAcdKuH6Pykcka5AjqGig3CHCiirb8zigluMjmEOoZJjcDsk0571f3cw+/91GRDHIFuMjtFNJRNgdwgoPaTasoITK3oooJtARcD4/9tkPgzH2Cgz/0+0Zv3f4g9xDA1CARvAHjIgHGsByb50CxVsjgGF1J1Wnv/60oisSxfHoDsEGdMxVEAA0zENPuzgMuVYGQ+KowbEMTAMakKAogpU0KGHFLopVASoDgKFDMghZ6ogjgDJP+viAze4kNXR0FGMWC171AEJHWQ+CIP45oo0q5dggBFuObKjQGIve/j+R5pBsjoo6kB8ER4GWjsIBBj/P2hDLQhBYqAaW4of4gBkTLfcBosW1LSCvZ5C100jAEnE6I6iowOwAUZwWgE1K+iUXogBdE8vhMEApJfBAwDLiTDNdEv8GwAAAABJRU5ErkJggg==",
     "wiki_name": "Key (orange)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Key_(orange)",
     "equipment": null,

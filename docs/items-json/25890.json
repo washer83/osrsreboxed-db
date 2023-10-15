@@ -1,7 +1,7 @@
 {
     "id": 25890,
     "name": "Bow of faerdhinen (c)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2021-06-30",
     "duplicate": false,
     "examine": "A magical elven bow, corrupted through the addition of too many shards.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xu2XS0vDQBSFM3+iFLpJF12IhEqhBWvswxpqbGvswyJCpSg+qRbrQi0o+AA3bl24cqMrV/7CK3OHSeK13QiZZNEDB0KY4X6cuXdINC36YkDfhCgGCSMBEYJisHpmRQmKQX3cQKh8Lx8FKJGQhFnQdTRdpVACKF1Pu0B0hWIJoMxmZgY0RQJovmrMgCaIj7gA2rhzIJaKhTn2DHbf+i5QaikVhbFncP49hJOvgQsUYkJSDLov25hSdisL1tCKApg4Nu7KoOLaA6NWIgG1vFeA2nUdzL4JpeMygvHUqqM1sC6qaEVQDJoPLbR9tY4w+zuyuJcgf1bY+KL4zccIi/uByqcraAlEdwYohsdm2AYc9Wqg6+I7qXhYUp2OlAf0/voITXsReu0yvpNp0R0BSwDJnpHm30v+PqK7AhTDpvZ7/HmJ08WnT14Hyo+NunBQRDv3ThhAmiabVxQWV4I8svhcnACHot/3Ef9L4c51c3/SVAYq06INP8mmO5WBSwD5k+g8d9CNWwd/qbhbT21IZpPqoGiPTbOyi5QW8QNS+9fN9B/9AHZeaTjK7dliAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xu2XS0vDQBSFM5s+oBS0j0CltmntKzUYUwutigsttQhiKSJdaHHhThFc6UL0J7jz716Ze7lpHNuN0EkWPXAgDDPMx5l7h4xhRF8C1JEQJSCRTUCEoATUx/UoQQlw7h2EKp4UowBFCTGMWy6j1VkaRUA5J+cDqTM0i4DMfXMNtEQEtNnMrIEWSLY4AdlTG2LpWJhtL6D/fuQDpbfTUWh7AcPvEZx9DXygEBNiCei99anTPBPqk0YUwOjYpGtXNd9zMNVaRFDlgQW7MwdKpyWoXFQRTKbWvGlB47qJ1gQlwHvqoNt3bYTpuZafCicovzUWPm0+/hji5kGg6uUOmoHUlSuUwGPLtLNw7FUhmYwjhDWq6E6HNQd6fZxCq2KCZxdxjNNSV6xYBMQ1w5b/S8E6UletUAKLOujJ5zl2l+w+vg60H5tqa2ih7Vs7DCDD4OKljelK4COLb1Chh1RTrN/3kXylSOfd/J80tYFyWmrBL3LhcEsPFAMFk+i+dNF7Dy4+qaQ7zweQKqT0Qak1tszaLlJ1kyCg6uC8tf6jH+rQQNovakw5AAAAAElFTkSuQmCC",
     "wiki_name": "Bow of faerdhinen (c) (Cadarn)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)_(Cadarn)",
     "equipment": {

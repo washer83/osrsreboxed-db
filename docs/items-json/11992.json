@@ -1,7 +1,7 @@
 {
     "id": 11992,
     "name": "Lava scale",
-    "last_updated": "2023-09-20",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-03-27",
     "duplicate": false,
     "examine": "A scale from the hide of a lava dragon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4Xu2Vy0sCQRzHnb/Di7AHIQjtudkLe7/pEkUdoqik1MrKMm01e2wpEePWtmWxWB269Ed+cyc2N/XQZVeI+cCH3cPCfPjNDOtycTgcDudfQ1BfR6ks3BMIQOzoQKvfz96Np1cQnIwi0OVZ6Lk5PIe7oWdGoZ+NQ0kMMo245qYmFuT3eOyOIhgJBpnF4yDULRH3GyK002nQHRE00olCYphFORBUiTF9zExC2+oq2wuaHAeN9SK32AKammxMkKGyIqKw4INSnlZ63ofTcD8zs+iz8xwRvMnT0KQxaLtDNVEP6QmoqwGo6yJyS23Ir7fD43bbOSWCT2mUnZnns6lfMQN9fTVaY2wLuqNPUJb8KMkzNUHGdbdqc4wBQVErIX9F8X44WDfIuFmGNm+VCcHrywcKtxqykoyTZBaJQwnxvWPs7xxhO7KPzVAUobWwE9MxIXhUdVxf3uIim/8JOzpIIRaNsyBB8DoxHSsE9OYB8vkN0icXv2JWlzecnI6V6p9oxQbEfGMuXM/qbzkcDucPfAED5kFbp+nnVwAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABn0lEQVR4Xu2Vy0sCURhHuytJwpBETSsNE4pKSqSMqAxNy6xMErXSRKwse1JqET0WLbIgezkVIe37J385E5OaLdrMCHEPHO4sBu7hu3OZujoKhUKh/GsIfldUShs3q1RQKhRoksu5Z3ZtkErFjCJ4C+rxEtCikDajkLFw632yG1lHCxfXKJNxQX16vdBRBDqtlvN13wRmrw/5sAH51Q7cbZlwadcgl+jiokQIKsXwPnp1YDaMeE5ZkNvtx82oCrlkL65d6toEsd4tGXBrU+Nh24TzlU6chXQ4KU7qtKiA3xHBu98I5tCCK6uyOsrdhvy+GU/LBmR9Rlyv96BeIhFySgQf0U4wx0PIz2gqYlo1mirLYwQLSsR3waQHUQi3VwWx171cgWNYCPa2MogsxVHwVB4XH8TeLFaBj4qH4OjgAmuxbSzML8I768f01DwmJzxw2t0YH3NiZNiGYeuoGNPhIdjZTGE5FEPQH/kOc7vm4LBNckFSaYMY0ymHIB5NYjEQhc8brIgZsAyJOZ1yfv5ES9Yg5gt+49/8+S6FQqH8gU+J/BeHP+8UYAAAAABJRU5ErkJggg==",
     "wiki_name": "Lava scale",
     "wiki_url": "https://oldschool.runescape.wiki/w/Lava_scale",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 15598,
     "name": "Reward token",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": true,
     "examine": "Yellow reward token exchanged at Burgh de Rott.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpUlEQVR4Xu3X30tTYRgH8L3/hDe7OXAudts/0UUE0UUUFQluuA21UYklQ0QbVkOlmWUJM5f9YolYZj+sZA0LESGKiMDu/Eee9n0Oz9l7DlOsHtuIXviyMw/nnI/P+5xz3kUi/8e/Pwx5aYlhaGGqh9MiMEPlyTTN3+rmYLvJMEM3h07T44kUYxBsI3XYXqMyPBAyMXiKIQ8KSc67skPVBYcq8w4t33OofDtKxbEolUYTnLnxzkCUUIamLp8JoNaXXM7Gskuf37j0verSl2cZDkB9yUM0mDkSQF0fOMmgA46jiwJo86VLX1ddWnuYog9PHa4UKlSZ62TUZK7NR13pO8YYHKsEqmGu9tCNXBdjcHJUBxcGCjigXky309u7cVovp3lfpuMg9acP+yDB/CGo1j8j3T5ofChJowMJ7putlV768THGUwYUMKulBG086aKlWYeuZdto+PxRyl86ziiF6hhGAITYICC232dpezNGW2sxrlT1fpKnDPsAQnXsO0ylOoXhlI/CtoC+VbymRg+hIpgifAKFRl8sRgMIFQwu3giEzBZ6+c5CZVCRT6/rvbTyyKHcxXaNKZJhuAoCEpQNkucPAHfyGY5M6Uh/h9YUyTC1howHUAJCwhg0vDQ9jrFB4TP/xjB8izaKgICRACJNj30AKVan/oqwn8oCwjaqgNcEYt99UkFUVqk6hhanz/ISQ97o8s7CYx+vAKCkMgDZEOkvperU1zu7gQDBd/wd1bKrN5Y9wVGrjiwrwrFRiIAEtW8guchOkeWGDZLvyiAT+O9/NXKsKmgmH+fstKgKY+0KyX45VgGEEV5m7h5gpPEbYRRAkYicaC/BhQHCYwKfYVD43H9peNV6Xjzno5oM8qoKxKvSBf83W1NB9aG2ANMbLYXRGD8B7efsI9kYhhQAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACp0lEQVR4Xu3XTWsTURQG4NxFCTPkP1gUdKFoldKkJGkrUUu1EEq1hqqhLYZapdpFtNXiF4SgVCxW8ZNAsFIFpehCUFwILtR1/9Ax7xnO5M6QlqpHE8QLL5l0mJmn556ZuYlE/o9/fxjy0hLD0K3pPk6LwAyVptJUPtfLwXaTYYbOHttLNydTjEGwjdRhm43K8EDI5HAHQ64VkpxKyaEXtx2qlh1auuJQ6XyUiuNRmhtLcOYnugNRQhmaPr4vgHq96HJWl1z68NSlL8sufbyb4QA0kNxKw5ntAdTpoT0M6mhv10UB9O6BS58qLq1cT9HLOw5XChWqznczairX5qNODOxkDI5VAtUwJ/voTK6HMTg5qoMLAwUcUPdnOunZpTi9KaV5X6ZrCw2mt/kgwfwmqNY/o70+aOJoksaGEtw33x730/dXMZ4yoICpXE7QarmHFmcdOpVto5GDOyh/ZBejFKpjGAEQYoOAWHuepbW3Mfq6EuNKLV9N8pRhH0Cojn2HqVSnMJLyUdgW0Oeq19ToIVQEU4RPoNDoC8VoAKGCwcUbgZDZQj/fWagMKvL+Ub2XntxwKHe4U2OKZBiugoAEZYPk+QPAhXyGI1M6OtilNUUyTK0h4wGUgJAwBg0vTY9jbFD4zL8wDN+ijSIgYCSASNNjH0CK1am/IuynsoCwjSrgNYHYd59UEJVVqo6hhZn9vMSQN7q8s/DYxysAKKkMQDZE+kupOvX1zkYgQPAdf0e17OqNZ3dz1Kojy4pwbBQiIEH9MZBcZL3IcsMGyXdlkAn89z8bOVYVdDEf56y3qApj7QrJfjlWAYQRXmZuHGCk8RthFECRiJxoM8GFAcJjAp9hUPjcf2l41bpXPOCjmgzyqgrEw7lD/m+2poLqQ20BpjdaCqMxfgBArVC5l4gT/wAAAABJRU5ErkJggg==",
     "wiki_name": "Reward token (unobtainable item) (Yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Reward_token_(unobtainable_item)#Yellow",
     "equipment": null,

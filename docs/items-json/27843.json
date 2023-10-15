@@ -1,7 +1,7 @@
 {
     "id": 27843,
     "name": "Corrupted vesta's plateskirt (bh)",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": false,
     "examine": "A powerful plateskirt.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xu2X30uacRTGff+JXQe7Gwy66SIiMCJClEiUpEJphhmpkTPnj5zobKYL0ZmZ5cRaoSTEViPWBl30lz3rOe59VzF2s71vNztw6P168/3wnOd7zslk+h//PBT8OQ0NBQsLs3DPuzA768TMjB0OxxSmp62w2SZhsYwbDaXAPjkMp3UUdusYnFMTsE2aMWEehnlkCE8HngjQ4MCAUVAKjj82cHJygFarhnI5j62tNNLpGOLxsChlOND5eQeb1RXsVN+hVNpE7s0GkskIxixDUkIDgRT0eoeI5TwoZdfx/m0Mu8UNZGMByVwihNHxQTx//swIHyk4PW1LhuOLKLwO38vtTAT5jVU43WMYGRk2QiVFlGE+BKJSVIxQvoBLVGL5dFZJwfX1F9zcfEUk6bsHxLIRqpx7JUAenwMOl0VvlRRcXHRxdXWGaMovijDpnZ2thMBQIX9oDl7vvPQqHYEUeebdbks8lMgGRBECpCJ+ASIc1VpZc2tNUlegfC2gZSoXEgiaOL66KN+qqYMRD+yzZtico5I6+khBd7+Io9ommuWMlIjliqx4xENUiM+eihGSv6sK6aDSbcn2CloSiCUjQDT4QgMiYMg3B//CjIwVXUumwhzX8wJECHomGfZpQJnoMjyuKcw7rTLjdAViuQhzF0iF4Dc9xG+q452zC5SuQL0PJQ2qVclibzullU0Fon/W/G4NSleg8+Mqzg4rAkYoFUhtjPxLhVhCNXUEYvS3QfYh9qNGo4xiMSMrR6fTlJWE0z+TSfx86rq9sLuhYLuxikxpCZH0PJbW7HAtTMhedHBQEcBUKoqX4YDe6qih4LKzK4pUKgVRh+blfnR0uCfLGoEMUodxO89OajJGqAbNy2d+edlDu12XzZF9yCB1GH1z0y/0is/tkPz+7ZOUjWssIQ0HajarWF8Papd/PqqgXi+Jd3R+7g/j90D8ja/uEYAYfYC7l/NMbwWDS48DxInPxkdD88wZxy7OQWvgC1NDwUbBi+WIQ/YentvVHPZLaQ3QQBg1fv0f37/8/vkRgEwm9WL18ofnv4kfJRoZNi2z54IAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHElEQVR4Xu2X30uacRTGfS92sV0sBkGU9MuoUMNMdCVZKuXenKI509nMFuKc2W+auFqEixBiIxrBYrvoqv/zWc9x77uKsZvtfbvZgUPv15vvh+c833NOFsv/+Oeh4M9paijw+UbhGXNhdNSJkRE7HI4hDA8PYHCwHzZbj9lQCuz9HXAOdME+0A3nUC8G+63otXbA2tmORw8fCJC7r88sKAUHH7ZweLiDWq2KUimPpaU00ukY4vGIKGU60OlpA4uVaaxWXqNYXETu5TySSRXdtnYpoYlACprNPcRyXhSzc3j7Koa15XlkY0HJXCKMrp4naGt7bIaPFBwf1yUj8QkUXkRu5cqCivz8DJyebnR2dpihkiLKMO8CUSkqRih/0CUqsXwGq6Tg8vILrq6+Qk36bwGxbIQq5Z4LkNfvgMNlM1olBWdnR7i4OEE0FRBFmPTO6lJCYKhQIOzG+PiY9CoDgRR55kdHNfFQIhsURQiQUgMCRDiqNT3r0ZukoUD5alDPVC4sEDRxfGZCvjVTh1Qv7KNWDDq7JA30kYKP28vYry5it5SRErFc6rRXPESF+OypGCH5u6aQASpdl2yzoCeBWDICRENPdSAChv1uBHwjMlYMLZkGc7CeFyBC0DPJiF8HWohOwesawphzQGacoUAsF2FuAmkQ/KaH+E11xt12gTIUqPmuqEPVyllsrqT0smlA9M9swKNDGQp0elDByfs3AkYoDUhrjPxLhVhCLQ0EYrS2QfYh9qOtrRKWlzOycjQau7KScPpnMomfT92wF3YzFKxszSBTnISaHsPkrB0uX6/sRTs7ZQFMpaJ4FgkarY4WCs4ba6JIuVwQdWhe7kf7e5uyrBHIJHUY1/PssCpjhGrQvHzm5+dN1OvrsjmyD5mkDqNlbvqFXvF7HJLfv32SsnGNJaTpQLu7FczNhfTLP++XsbFRFO8Y/Nzvxu+B+Btf3T0AMVoANy/nmd4KhSbvB4gTn42PhuaZM45dnIPWxBemhYL5wjimVIfsPTzXKzlsF9M6oIkwWvz6P751+e3zPQBZLNrF2uV3z38TPwDR1ZQd6m4jvgAAAABJRU5ErkJggg==",
     "wiki_name": "Corrupted vesta's plateskirt (bh) (Activated)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_vesta's_plateskirt_(bh)#Activated",
     "equipment": {

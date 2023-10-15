@@ -1,7 +1,7 @@
 {
     "id": 20158,
     "name": "Gilded spear",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-06",
     "duplicate": false,
     "examine": "A rune tipped spear with gold plate.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABI0lEQVR4XuWXMQrCQBBFszewstkmna2NZ0ihWAUkhgQNiBZWIiIiEsQDeAALQRAEQRDvN/J3WVdzgMyAH2QhsXi8P8NqEPxXFFWfMAUgipI4Nmf1bc1RVKQpjYYJZYOBAWqHISeUokmeGyhniB3osdMGqhdF3ECKXvuQbhtNp4WmTivgB7pvNZ2Xmoqo8YFhAlL0LEO6rjWVWZMfBlU5O8wwiLVzWf1WVf1WTfGDfBgLqAorjg/sMMMg1g4GWURVmBsMsoiqAOLWnBkG8XamXQFVAQSDLKIqrDfs4GSGQfyai6jK2TnOBFSFbYIZzA8zDOLtiKjK2cGPLmY7ytxRbs2ZYRBvR0RVzo6Y68HZEQCD2Cti3mev6jv2L7EAOz6iYDjyBkVgIlZI+Cm4AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABIElEQVR4XuWXPQrCQBCFs4gsAUsPkCDaBMwP0SAoWImIICJBPIA3sLCwsBAsLAQvPPI2rKs5QGbAB7KQWHx8b4ZVz/uvKKo/YQpAFMVRZM7624ajqEhTGiUxZcOhAUqCgBNK0STPDZQ1xA702GkD1Q9DbiBFr71Pt42m00JTt+PxA923ms5LTUXY+sAwASl6lj5d15rKrM0Pg6qsHWYYpLJzWf1WVf9WQ3GDfBgLqAorjg/sMMMglR0MsoiqMDcYZBFVAcSuOTMM4uxMewKqAggGWURVWG/YwckMg7g1F1GVtXOcCagK2wQzmB9mGMTZEVGVtYMfXcx2lLmj7JozwyDOjoiqrB0x14O1IwAGqa6I+YC9qu9Uf4kF2HERBcORNzw1AxK/70DlAAAAAElFTkSuQmCC",
     "wiki_name": "Gilded spear",
     "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_spear",
     "equipment": {

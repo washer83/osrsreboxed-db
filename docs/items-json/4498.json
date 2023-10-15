@@ -1,7 +1,7 @@
 {
     "id": 4498,
     "name": "Rope",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-07",
     "duplicate": false,
     "examine": "It's the rope you're holding.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAxUlEQVR4Xu2QwQqCQBRF9U9ct4ogwkUgSAxhhKEEEgURkoS0CIIgCILot1+8kYlxjGoWuroH7mbmvnlHHQcAAAAAbeLS99h0P81Y4dItn9N1N6PLNqLzZkqnlZBJw6GMvsjs6CmSgNaRr81YU8nc93FD6phNKBMjioMBCb9Xu9ej5LifL8ZSiGeaf+ynYCXzOCQyLPUsU3nGi3gJL2ApvlPSKiyny5TL8N1XH8Ed/Z2/pLpM3/NkTIsaqtRVzP0AAAAAaIkXeAjxhrRSYNgAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAwklEQVR4Xu2QwQqCQBRF9QfaFAkJ5iQlaWBFREKGEARBiyAIov//jhdvZGIco5qFru6Bu5m5b95RxwEAAABAm7j0PTbdTzNWuHTLZ3TdTemyjei8mdBpJWTSYCCjLzI7eorEp3XkaTPWVDL3fdyQOmZjysSQYr9PwuvV7vUoOe7n85EU4pnmH/spWMk8DokMSz3LVJ7xIl7CC1iK75S0CsvpMuUiePfVR3BHf+cvqS6zDEMZ06KGKnUVcz8AAAAAWuIF8SXRGqhY8x8AAAAASUVORK5CYII=",
     "wiki_name": "Rope (animation item)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Rope_(animation_item)",
     "equipment": null,

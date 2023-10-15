@@ -1,7 +1,7 @@
 {
     "id": 1377,
     "name": "Dragon battleaxe",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "A vicious looking axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB5ElEQVR4XtXWwU7CQBAG4O4bcOLipYkv4AuQYIghBkMkEgkSiEJEIkjEqNGDiQcPvvXYv8t0d9tdgyy0dZI5kLbZj92ZaYPg/4egbBYWgr4Oq/S5zo+wSu9hxQLMFalQDEK+RLk6qNBinTmiTBCjbKCjMCwGxbsEEMNyBiFEAsKOAME7hcwBlC5W+Zt3Rd+tHECCrq/6dNnpJF3EEKSr8zxBrq4QtJhO6XY0SlCMwcLfEQKZLnRPkKB+1dWqgp7mcwN13mrF9wLAO5ZGeYOGEciOErSczQzUsNdLIFhULmyidgLiNFEi7iIckQ1lLqpQ2Wt/CkHjaFGkiVIY1AuOQkddtNvWHQXKG3QXLYzUYTqGO+f5YRGj7ieTGGVfWD/KrUOhkDrGnLwmajwYWHYpCDwxCHk8nMDwFM7+Y0Gvj8sEpebTTkMOO33gAYPdch2LjjptNHaNEgmEYQxCTdkXUyh3PXmFROmfEQzKjgP1DKP63a7jHq+Q7c6pg+yDUz4DFAboWbPpuMcjuIC5q/R0t7NE7enozNCBvy8kUerVUoqQL2N+AaevFhRR7d3c0Em9Xi4Upvge5tO2IehttYrrSXVe4TBV5PgyKMkRyiLH8R3XavsfCZuF/OpkTAlAiFJhZGyC+QHdqRbTLI1/3AAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3UlEQVR4XtXW30/CMBAH8DWEGPwTICJIxCCGX0HBIIJBjBrjg4kPPvj//xnnviu3tltrkMI2L7kHsi390N7dFgT/PwSlM7cQ9HVcps9NflTK9F4pWYCZIhWKQciXMNdHJVpuMkOUCWKUDTRoNPJB8S4BxLCMQQgRg7AjQPBOITMAJYtV/uZd0XcrA5Cg60GfrjqduIsYgnR1nifI1RWClrMZ3Y7HMYoxWPg7RCCThe4JEtQvu1pV0NNiYaAuWq3oXgB4x5Iob9AoBNlRglbzuYEa9XoxBIvKhU3UXkCcJkpEXYQjsqHMRRUqfe1PIWgSLoo0UQqDesFR6KjLdtu6o0B5g+7ChZE6TMdw5zw/LCPU/XQaoewL60e5cygUUseYk9dETYZDyy4FgScGIY+HExiewul/LOj1cRWj1Hzaa8hhpw88YLBbrmPRUWf1+r5RIoYwjEGoKftiCuWuJ6+QKP0zgkHpcaCeYVS/23Xc4xWy3Tl1kH1wymeAwgA9bzYd93gEFzB3lZ7udpaoAx2dGTrw94UkSr1aChHyZcwv4OTVnCKsvZsbOq3VioXCFD/AfNo1BL2t11E9qc7LHaaKHF8GBTlCWeQ4vpNq9fAjYbuQX52MKQAIUSiMjG0wP2jByn7ZciUBAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon battleaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_battleaxe",
     "equipment": {

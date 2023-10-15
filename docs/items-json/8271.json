@@ -1,7 +1,7 @@
 {
     "id": 8271,
     "name": "Adamantite armour",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwElEQVR4Xt2XTUsCYRSFff+BKzduBlq4EmYTIiEYMkQkwuBgaIz4QRhKogxCVIYDIUqbohCiVQRtWkYFQfuoRT/p5H2Hd/xYh3fowOEODMM83HPvfIRC/0cCngMhgWIkjL4WCQqUwGgt4gPpmsYNJfAQj6KnhYMD9DgFqvaqyJVzwYmtcdqQUFo0GgQogd1WEWWn4gMxRyckDDlpJrmBpjfP6EhkE4jpMaSsFOKpOFdsQoJs2hlZaY4My+DqkpA3NiqGBKLjlttC/aiO0mGJByhdTPtAFBXB5Pfz0Dd0DiCS8DtyMGjKSrHZHZsPqNAoyO1ScZk1U5oBSHhxmRl0R120hx3ZHYJTMCsHUk9nqgSkZoihOyQhIeZNYBQhExDJ+zBTkdEcMQORBJwLx4eidxozEGnWJaaH4rI8IDJtGQ23FyebZkBqrhjWfl4CY3ewAMIIQ1oEWj67YnkRKSD22cmmdRR3EhLIziVhba1zQQn0atu+CYhq2za4ohM4b+elh11LeuwUZD1rsvwOCTzfu7g52ZOe9G3cDiq4c6sYHdf4uvT9do2v1yt8vlzi532Cj6fxwvovX7ECqc2a+a9gfgHqdnbrbwWlBAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuUlEQVR4Xt2XS0sCcRTFvYiIIchAKCk5VijoSNrgKzAlVEQIKrOBEKVVURREy2jRqn0ULVr0DSLa9PVO3f8w42Md3qEDhzswDPPjnnvn4fP9HxFse0KEQsCPfijgFSjCaCngAhVTKWkown0kiF7I7x2gh1+gSq+CTCnjndjqh3UFFQoGvQBF2GwWUOqWXSDh6EjBsGPZmDQQQUtqiKajCGthxI04IvGIVGykQFbNpKo8R7qhS3WJ1I31sq6A+LhpNVHbq6G4W5QBShQSLhBHxTC57Ry0FU0CiEVuR3YGDVU5NrNtygHl63m1XU5c2WpWWQCI7LiySXRGHbSGbdUdhnNgFg7kPJ25MpAzQwLdYZGCmDaDcYRCQCz7w8yJjOdIGIhF6J52XSh+pwkDsSZdEnoozssGYvOW8XDbcYppAuTMlcDaT4swto5nQARhWLNA82cXLDsiB0h8dtIJDYWNqAIyMzEYa8tSUIRedd01A3FtmbpUdISTVk552DGUx928qkcNkd8hwtOdhcuDLeXrvombQRm3VgWj/apcl75eL/D5co6P5zN8v13h/XE8s/7zVyxAzmZN/FcwP+41PV1rCrymAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

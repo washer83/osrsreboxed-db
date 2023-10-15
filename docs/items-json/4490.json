@@ -1,7 +1,7 @@
 {
     "id": 4490,
     "name": "Mud",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-03-07",
     "duplicate": false,
     "examine": "Yuck, it's sticky, dirty mud.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1ElEQVR4Xu2VUUsCQRSFnT/Riy+Cb0IggYRIIEhIKGIogkSBhBQhPgRBEARBBP3qG2eW417v7K7rar20Bw6yunPnuzNnxkqlVKlSpSAnyf5zRRPfDtre8/6597TX8i4OVaghJ+v5paxmPXmcdL2X1xeyGHU83Lh7Jv12Y8/CEciw05ROs77PWCevi4G83F3J801/A0Y4rA6BWo1azsJRgxjPhvaAcvK+HMnb/XALDMYqAQhdEqhePdlROKr38TCWz6eJbwwrzQhkj/WKgTQUO0QRDYT3m7WaN7fFGiBfq6n/RE3dHMdbCiXnu7GrxK0LMxSbgcfvhMb33+uZd2EgDARUEhCWG4U4mQ47T6OF4rsWKGeWsoHYGZ65jfhOg+nrITwAoeMtT1U4SBuQ2FINqq8GC2YPAAG0LUEgO4ChxarpjGkoC6bzFh6AQgpXh9tpQ590Z6UB2Vlyym0CjODRaUD6voKPDOR8UYYYRXlqeJ9oIAuFlcI4DcTTVAAouocwKYziDCpCimAmrZLeOjaC9/WdVTA/2RfZab0aABFK50gDHQBDxQFOu8gIBNtg86Txv+pAmEj6mGMibBlB+VseHwVmW2FxTqCfs2wrHqxfLV6q1H/SD4Pt1EVUHlzlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0ElEQVR4Xu2VUUsCQRSFm4eQfDAkSUwwTVRSwYqQhApBCIIegiCIoP//L26cWY57vbO7rav10h44yOrOne/OnBkPDkqVKlUKcpLsP1c08U2/6T3rnXpPOg3v4lCFGnKymp3LctqRh3Hbe3F5JvNhy8ON2ifSa9a2LByBDFp1adWr24x18jLvy/PthTxd99ZghMPqEKhRO8pZOGoQ49nQFlBO3hZDeb0bbIDBWCUAoUsCVSuHPxSO6r3fj+Tjcewbw0ozAtljvWIgDcUOUUQD4f2rbteb22INkM/lxH+ipm6O4y2FkvPd2FXi1oUZis3A43dC4/uv1dS7MBAGAioJCMuNQpxMh52n0ULxXQuUM0vZQOwMz9xGfKfB9PUQHoDQ8ZanKhykDUhsqQbVV4MFsweAANqWIJAdwNBi1XTGNJQF03kLD0AhhavD7bShT7qz0oDsLDnl1gFG8Og0IH1fwXsGcr4oQ4yiPDW8TzSQhcJKYZwG4mkqABTdQ5gURnEGFSFFMJNWSW8dG8H7+s4qmJ/si+y4WgmACKVzpIF2gKHiAKddZASCbbB50vhftSNMJH3MMRG2jKD8LY/3ArOpsDgn0M9ZthV31q8WL1XqP+kbDDhRnCKXXJMAAAAASUVORK5CYII=",
     "wiki_name": "Mud",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mud",
     "equipment": null,

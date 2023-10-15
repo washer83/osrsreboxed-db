@@ -1,7 +1,7 @@
 {
     "id": 28,
     "name": "Insect repellent",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": false,
     "examine": "Drives away all known 6 legged creatures.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGUlEQVR4XtXW7StDURwH8J3/xOuV8lZStLQ0adqyWJORhzy9UEoppaSU5zQPixElouQhhCQvlIeVh39gipeMd3vqx+/enXPv3b1Jcc69fvWtbXe38+l3zu5vNtuvi4Ac00uG5NvtUOF0mo0iEPD5JESN18tABXl5ZqEUUIPfbx2Q2+ViMRmERQ+zHMTIIBPPEkUokK/YbSqo8KKLZiG5EYsiEAmFDLqi7ZTAc5UFqRbWbJ9YEAFnVakOpL5u/DmXIuDtdUFtk0cTZbuU7wk4R1nMgBvqhrzQMOKD4HC19LqyqwxKA4UqAPcuEajuq4DAoEdCNI7XsCAMoYgqby1RusXv1/Y1s/orJQwu3jxZCy3TfhZ8j11ClLvbCa4OB5Q1FTOYctj/pGQM3SIEtIUCuuA13Ers4sXREWwsLfHAYBFpIdwm7ERnOAiZTEaXj3gcXp6e4DEalUDrkQiv86MFtc/VQzqd1uX97Q2eYzEGWltcsBZoNTxvHdD54QGszM2KA6VSKV3ir68MdLa/D8szM9YBne7tssFrCdDJzg6Ep6bEgPCZk0wmNVGDHm5v4Hh7G+YnJ/iDcEwYgTAUdH9zDYdbWzA7Mc4XhE/qn4Durq7gYHMTQmOj/EB0dFBQIpGQYgSKXl6CI1jEMBxAWMQQpIbhNdxWHKycMbSItCCC1JOeBkGennJRGFo5f+QNIhAjF13wu+Te86/rE3X4ag8FBr5cAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKklEQVR4XtXWz2sTQRQH8Mw/EI9SJWk3SxLMljRZNLXUnwhCoQehIEhBUNMmSNu0FQ0R8SBiyKEULZoWUXoQT4ViNQdR/BtCDu0/UJriPSY2wjNvNzO7m11Koc7s+uALSTbLfHgz2Ref79hFQI/rpUNO+P0QliS3UQTUeFxDDCkKAyUGBtxCGaDhZNI7oKgss7gMwqKHWQ9idJCLZ4kiDEgnfp8JKrzool1Ib8SiCORnZhy6Yu2UwHPVBZkWtmyfWBAB6UzABjJfd/6cSxFQxmVIjMQsMbbL+J6Ac9TF3IzC2UkFhu/EIXV7UHsdudYPAfWkCcC9SwQGb4RBvRXTEOfTQywIQyiiQhdPG93i92vrzKyJiIbBxUczCbhwP8mC77FLiIpel0C+EoT+kVMMZhz2f1I6hm4RAi7NqrbgNdxK7OLHtVV4USjwwGARbSHcJuzE1cUU/Gm3bflZr8NOrQY/KhUN9Dyf53V+rKDL8+egfXBgy/7eHmxXqwz07NFDb4GeLi54B/Sh/AaezOfEgX63WrbUd3cZaH1lBR7PzXkH9P7VSzZ4PQF6t7wMD7JZMSB85jSbTUvMoO9fPsPbpSVYyEzzB+GYcAJhKOjb1icol0qQm0rzBeGT+iigr5ub8LpYhNl7d/mB6OigoF+NhhYnUGVjA4KpPobhAMIijiAzDK/htuJg5YyhRbQFEWSe9DQIio2FRGFo9fyRd4hAjF50wcPSe89/XX8BLaIZ3lkz5wQAAAAASUVORK5CYII=",
     "wiki_name": "Insect repellent",
     "wiki_url": "https://oldschool.runescape.wiki/w/Insect_repellent",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 988,
     "name": "Loop half of key",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2002-02-27",
     "duplicate": true,
     "examine": "The loop end of the mysterious Crystal Key. Can you find the other half?",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADAUlEQVR4Xs3W308TQRAH8Pbv6Ev/BP8LXnwnhEiMxBfhBYEgtpJaQoVCaQPFIFglQCzUoBJSUQIJBEEJMfEH8d8Z+O5ljtlxr/Toadhk0uveXObDzt6WWOzmjzi5w3X/n484vV8eoY2ltIm3r1O0/vKxCUYcbE3R/mae9j5MOFD6j2gZ7oEYBRCHxuy+e0afamNWYXzHPR02KhQyTpsrmb9Q+ASEg0Hb66O09eapycWnC4R8iT47Xqafh4vXQzEI17w6DNrZyBkQ5waB8NzvoyX6c1K9iDUDQo1byaQJXV0Nb9n5r2YQirpA9WrWB+HaBTqsFywQrhmkq6sRt9qAQry58V2DUBwIbi+uZWsQyDveLkUH4lXCnAvEK4nA811d96mz8x51dNw1gblvnyWoGg7E+0KDUFyD5IbGs8PDGUo/GaNkIkGVSpUGB9PmGvck6NeXV62DMA8Qo3glkYPnhoZGqLv7AfX2DvgIgPr7vfMrUhACAAniDY1nstlJSqVGqa/vEbW33zEQzGUyE9TWdtsHAnP2ddXHhAZJFL++LlCptEC5XNG0CyvS0/OQisV5A9EtkyBdPWB4bweKNQLxhmZQofCc8vlZGh8vUSKRtDA/DhauC/LOIKzQVSDkIL9crhjQ5NQc1Wp1C4JAvgUSh6Kurob3yrtACA1C/szMogHp9iCQj7xIQYxC8ImLAsgFYv7FikFJjDyhIwXJVcKnBjFCYvCMBh19nBagNR/TFAhvjgvEv09BIHxHWzUIufjZkCvU5OpgXIL0PsK8BOE775UgELcLPxuRgRiFeRRgEO7z28cYuZISdLo7a4EYpas7hgdyta0RCBEEQv73vbIPwhkU4hyyQbJtEsRnkMS4QIC3DMJbdhUIxTDnAvFe43ZFBtJtw7wEobhuF4M4FyC88hbo4gwKfQ652iZBuG4EkvsnEpCrbRKEe64NjUCe3D8tgjDs/4eDQu8fDg3CoShBHCFAsRgf641CA2XI/RMJqNmhkc1gOS5z/9PQSFfoZ270OAeXvZIGPQk85QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADBUlEQVR4Xs3W30sUURQH8N2nxf9CH3rVDCN7SV/MxLA12xRNV80W3QgT20SsKJOlXwiy/aBAIRATKSHoIYqi/rIT3zt8xzOnO+uuO4UXDjt75wzn4z137ppKHf+RFn/47v/zkZbnK0PydHnQRXkpK2t3LrkgYntjSt6v52XrxYQHZf+IhuEBiCiAGBaz+eyavCmPRgrjO+7ZiKLqQqZl/f6Vv1D4BIRB0Ku1Edl4eNXl4tMHQr5G/9hbkW87i0dDEYRrrg5B756MORBz40B47vvusvzafyS/9x87EGqcbG52YaubESw7/2qCUNQHqqwOhyBc+0A7lekICNcE2epmpCNtQCFubny3IBQHgu3FtW4NAnl7r28kB+IqYc4H4koi8HxHx1lpbz8jbW2nXWDu09tCCELUBeK+sCAUtyC9ofHswEBOBi+PSlMmI6XSqvT1Dbpr3IuAPtxtHIR5gIjiSiIHz/X3D0ln5znp7r4QIgDq7Q3Or0RBCAA0iBsazwwPT0o2OyI9PReltfWUg2Aul5uQlpYTIRCYnx8fhJi6QRrF19cHKhQWZGxsxrULK9LVdV5mZuYdxLZMg2z1mBG8HShWDcQNTdD09C3J5+dkfLwgmUxTBPN1e+GooOAMwgodBkIO8ovFkgNNTt2UcrkSgSCQr0H6ULTVzQheeR8IYUHIn51ddCDbHgTykZcoiCgET1wUQC4Q87fvOZTG6BM6UZBeJXxaEBEag2csaPfl9RCEU5qYmkB4c3wg/j7FgfAdbbUg5OJnQ69QjauDcQCy+wjzGoTv3CtxILYLPxuJgYjCPAoQhPt8+4jRK6lBnzfnIiCibHXPCEC+tlUDIeJAyP+yVQxBOIPqOIeiIN02DeIZpDE+EOANg/CWHQZCMcz5QNxrbFdiINs2zGsQitt2EcRcgPDKaxDOoLrPIV/bNAjX1UB6/yQC8rVNg3DPt6ERyNP7p0EQRvT/4biw+4dhQTgUNYhRByiV4rFeLSxQh94/iYBqHRZZC5ZxkPufhkX6wj5zrMcfkM+VGvwU754AAAAASUVORK5CYII=",
     "wiki_name": "Loop half of key",
     "wiki_url": "https://oldschool.runescape.wiki/w/Loop_half_of_key",
     "equipment": null,

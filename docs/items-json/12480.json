@@ -1,7 +1,7 @@
 {
     "id": 12480,
     "name": "Bandos platebody",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "Rune platebody in the colours of Bandos.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xu2WwWtaQRDG8/6DnnrJRfAgBAQRREQERURKJChKgxWlRqxijTRtmkrTBtvUkpK2hNBDoJdC/9Ap3zzGN299sfsacyg48IGsu7M/v53dcWtrE5u493DIr6Cx28bXGm7SaDJLsXSBdrJlSpaqPLbbGVC51aNS8ykVGm3K15o8Homn6GEkutCawNwkiULFJ8C87idZJhB0dJBgcEBtx+LrAnMoXWlS6lGDAQRENB0maa93SJXuyAcF4Tu4CEeDoDww63AoU22zNBSEz9jwdJzyAQkUNJukFi5pKJEAJSIRGyiHsvUuy4QSYcP66BXVBi8WUCaYuCRQAqYds3TJodzjfiAUBJiPL9MMBM2PMwtpOHFJoLRbAmXhkgujZUIBZn8yZTXGJyyBg2PiGgSXABcEZeVS/smQtEyozvScvrzJUOv4jJpHpywNZ7olLuFCAEofoRVUsT0mkQl29S63UPtkxgIYJBDilq4tFD+eh8NO/F+g3Dfi5+eCTzef8qzR/Jq6b+csuAUBbBUQHspYKsPHB7cA1t/foVY1RvWy9y6hlgLryR10eDNsgKSJXJHHJl9vqDe7pIP3FywBkyMUIP0c5PYaFI0nef2zD994DeZjHm7jShgv/EDyK55f/OCkEMBsgWS9BoKLeEQFyCQwIhgIRwbdFQhz5TjvBDQ4vwrlEI4kCAjzNKwVEBbiOguQ1FaYGgKQ3wWHL4HUT2a3ZgPkOiEOyQJJGHTLwgBhTWggWCu/xL/ATQjpR1O3Gd33bgMCeCggHIvchOUFXnsxYXTP039bNJCuIWsg1AeOANbrZH+DWQUkQu6QRb1c0NCvyyL9/l5aCWMCCVQ+vU2x6APOA/eROxSQnDMWCZBspHua1vVZjtsHehdaBNrDsBXnViENFnlQn/IOWQIhPIv1DTOFzq+F7o5Gir5lzvU2Xh6zAHJ7mjlZjwUlD9rIVHCeNYaZ/N422sT/EH8A9nywjohZsp8AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC1klEQVR4Xu2W8WtSURTH94gYE5mIoqios+FEjTnFnJKaw1ZrCa22ahmLVQxGvwz6Leh/P/E9j+M77/pm9zX3Q+CBL8j13nM/fu+597i2topV3Hs45FfQ2G3jSw03aSSRoWgqT5uZEiWKFR7bbvep1OxSsfGE8vUW5aoNHt+IJenhRmSmJYG5SeL5sk+AedVLsEwg6HA/zuCAWo/GlgXmUKrcoOSjOgMIiGgySNBO94DKnaEPCsJ3cBGOBkF5YNbhULrSYmkoCJ+x4cko6QMSKOhsnJy5pKFEArS3tWUD5VCm1mGZUCJsWBu+pGr/+QzKBBOXBErAtGOWLjmUfdwLhIIA8/FFioGg6VF6Jg0nLgmUdkugLFxyYbRMKMDsjies+uiYJXBwTFyD4BLggqCsXMrtDUjLhGpPzunL6zQ1j06pcXjC0nCmW+ISLgSg9BFaQRVaIxKZYFdvszO1jt+zAAYJhLilawvFj+fhoB37Fyj3jfj5Oe/Tzaccazi9ps6bKQtuQQBbBISHMppM8/HBLYD1djepWYlSreS9S6ilwHpyBx3eDBsgaTxb4LHx1xvqnl3S/rsLloDJEQqQfg6yO3WKxBK8/umHb7wG8zEPt3EhjBd+IPkVzy5+cFIIYLZAsl4DwUU8ogJkEhgRDIQjg+4KhLlynHcC6p9fhXIIRxIEhHka1goIC3GdBUhqK0wNAcjvgsOXQOonvV21AXKdEIdkgSQMumVhgLAmNBCslV/iX+AmhPSjqduM7nu3AQE8FBCORW7C/AKvvZgwuufpvy0aSNeQNRDqA0cA63Wyv8EsAhIhd8iini9o6NdlgX5/Ly6EMYEEKpdap2jkAeeB+8gdCkjOGYsESDbSPU3r+jTL7QO9Cy0C7WHQjHGrkAaLPKhPeYcsgRCexfqGmULn10J3RyNF3zLnehvPj1kAuT3NnKzHgpIHbWQqOM8Sw0x+bxut4n+IP7qAz5grjix+AAAAAElFTkSuQmCC",
     "wiki_name": "Bandos platebody",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_platebody",
     "equipment": {

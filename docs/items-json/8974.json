@@ -1,7 +1,7 @@
 {
     "id": 8974,
     "name": "Bowl of blue water",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-07-04",
     "duplicate": false,
     "examine": "A bowl of blue water.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xu2WzWsTQRjGu/+Bp1z2spBDoCcRREQERUREEcVgiaElKq2lRKkfaRtrSmpCbG1aQqOJxFCChUqwUgiVUiiUQkGKIIKI4EHEiydP/gGveWY6u5Nxd7O2UVHywkOyuzPz/N53PnY7Otrx/4VGO1PLgw/8vHiRliZ1qmUNWp4xaCVn0OqsQWsPLeFa1qUL+1oNp9Hs+GlauKc7wmw8Nmi90Cg8QztZ/d0HdgunUSWh03xSp2raGWazZEmGQQJOut136FehNCqP6ibQ4n3dEWZrzk+dT75TZ/EbBfJfKZD7TIGpj+TPvGOJoC8kA5UmzjGgvYbhBUqjwpDPBMKgGAQwzGzmEzec/ED+iffkT78lf+qNpfHXlnBdbyNAUGX8YszkzWNeqqRRbuyUCSSq02AsGya3LI29IiOxaQrX7D7a1auFJAK5L2w8rEkPVdJo+u5Jyl73MSBURzUUMo1HN7ji6/bCMwG3XS1UB4lifPi5VEmjzPAJE+gnU9l4ZI1raJWM2Iq98AxtRB+AIbF6tQDzNBekdL/PrUoaPYhbFTJNhbEwv7XMdaNmK31wif9HGzu4OhiWA4CSvU2AipmzdCd6xBpIMoaRfm2RK1p1l2gnw0ESGIDikT3uQJjbVOy4ZS4MBha4rs47q6/CJa7R3gEOswCgWNgDEKoUjRy0TK6UuS6XvAvtZUABVxd2V3nqPFWmgyaMIxC2I3YBOmAHYPp6Q/vJ1513VjjXKNyLFJhkOLyCnuW7mAcSxzpyqY4IjR1esqqFED1KnaHE4FH2svR1TdgrmOa/oSyXBFeb62EHIs4gJIxdVhrxCIQT2U0vSmE2/4DEMTE8cJhVEb+4xv2XlZ6GF6s4ocWhiOpgJ3sAQmgNnxROnxZehARkKABhuuDRZP2owacOL1C7z4tmkhMQUBhPBfEII4J3xkDyJ4ab5AQElJjqXYBYwTtyMKwBmKjVUKsiV2SH09M8VDB1raggYsG2pCpuoYKpO0k8++0gashgThB/BEQNFeCvQLSjHf9K/ACEr9sBknVJeAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xu2WzWsTQRjGu0hYNoReFEVFrYqKRpqmNGqpLRHrR9oSa0pqQkxtWiKNmkgwlIA9VAgW6aFS6aGHQg+FHoSCB0HwIHjwJAjevHr2f3jNM+PsTsbsZm2jouSFh2R3Z+b5ve987La1teL/C422p6YHH/hpoYsWJ3Rayhi0PG3QStag1RmD1u5ZwrWsc2d3NxtOo5nxEzR/S7eF2Xho0Hq+VniGdrL6u/fuFE6jckynubhOlaQ9zGbRkgyDBOx0vW//r0JpVBrVTaCF27otzNasl9offaP2wlfy5b6QL/uJfJMfyJt6yxJBX0gGKqZPM6Cujg43UBrlhzwmEAbFIIBhZtMfueHEe/Km35E3+Ya8ideWxl9ZwnW1jQBBlfGLMeNXD7upkkbZseMmkKhOjbFsGN+yNPaSjNimKVyz+2hXrRaS8N39zMbDmnRRJY2mbh6jzGUPA0J1VEMh03h0gyu6Xl94JuB+VAvVQaIYH34OVdIoNXzUBPrJVDYeWeMaWiUjslJfeIY2og/AkFi1WoB5nPVTst/jVCWN7kStCpmmwliYX1vmurJUV/rgIv+PNvXgqmBYDgCK9zYAKqRO0Y3wQWsgyRhG+qUFrnDFWaKdDAdJYACKhnY5A2FuE5EjlrkwGJjnujhnr74yl7hGexs4zAKAIkEXQKhSOLTPMrlQ4jpfdC+0lwEFXFXYXaXJM1Se8pswtkDYjtgF6IAdgOnrDewhT3fOXsFsrXAvlGeS4fAKepLrZB5IHOvIoToiNHZ4yao8CND9xEmKDR5iL0tPZ7q+/En+G8hwSXDPZ3vYgYgzCAljlxVHXALhRHbSs2KQzT8gcUwMDxxgVcQvrnH/Rbmn5sUqTmhxKKI62MkugBBazSeF3aeFGyEBGQpAmC54NFg/avCpwwu03udFI8kJCCiMp4K4hBHBO2Mg+RPDSXICAkpM9Q5ArOAdORjWAEzUaqhVkSuyzelpHCqYulZUELFgm1IVp1DB1J0knv12EDVkMDuIPwKihgrwVyBa0Yp/Jb4Drxkd9xNVSRoAAAAASUVORK5CYII=",
     "wiki_name": "Bowl of blue water",
     "wiki_url": "https://oldschool.runescape.wiki/w/Bowl_of_blue_water",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 14762,
     "name": "Steel pickaxe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2003-05-27",
     "duplicate": true,
     "examine": "Used for mining.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcElEQVR4Xu2Wz0sCQRiGZ/+TvQVBEEF0iI7dunUXRDJJC8xEzR+IEYEdEy8V3apz/+AX7w7Dzo6zu+rMsh/RCy8sy6z7+MyHjhB/KwElW2oCOtkTdHog6OxI0PmxKBrK/Parve906Gk6oZf5nN4Xi+jefhj6hpIva9Xrub27btGo26XH8Yg+3159A8UgV7XaWj3ckVsGS9PBQLPnnIBum026aTQSQJfVamp3QxHNEKqAYGvS6/kCW52RrMKODajfbkez9TybuYNh//OKF+h2bECYLRTXH8ulO1h2knZQ3ZwCUtuPUcC9n++vIqDsMKZBVczhRaUSgcGeWmt+qkOSQDqMvsoGB1MPw6FPS+l2zJV6TDjMmyco+VdhwuQB6VFgmz5nSdIOrtexk5Ztn9PibsdjtpudAsPYTskwSGzHdZA9hLEdFoP8byc7MRALO2q7cF5mYUcBMbCDyCMqg98dFQmEMgFC5GGKwXbFYQVTZn4Bh9jJJjaFfasAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbklEQVR4Xu2WQUsCQRiGZ49B1KEI6pKXLp06iBhmGmEmhmkWRgR2TbxVdI36A/3jL94dhp0ZZ3fNmWU/ohdeWJZZ9/GZDx0h/lYiMltqItrbFLS/JehgR9Dhrigayv72i73udunxdkzP0ym9zWbxvaNKJTSUfFm70cjt5VmbRr0ePdyM6OP1JTRQAnJary/V7XW5ZbB0Nxho9rwT0UWrRefNpgF0UquldmNNxDOEKiDYGvf7ocAWZySrsOMCuup04tl6mkz8wbD/ecULdDsuIMwWiuv3+dwfLDumHVQ3p4DU9mMUcO/767MIKDeMbVAVc3hcrcZgsKfW2p/qERNIh9FXueBg6n44DGkp3Y69Uo8Nh3kLBCX/KmyYPCA9Cuy3zzli2sH1MnbSsupzWvztBMxqs1NgGNspGQZJ7PgOcoAwtsNikP/tZCcBYmFHbRfOyyzsKCAGdhB5RGXwu6MigVAmQIg8TDHYriSsYMrMD2AEkKB4iPnDAAAAAElFTkSuQmCC",
     "wiki_name": "Steel pickaxe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_pickaxe",
     "equipment": null,

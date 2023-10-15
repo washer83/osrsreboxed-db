@@ -1,7 +1,7 @@
 {
     "id": 20436,
     "name": "Evil chicken wings",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": false,
     "examine": "I look evil and fowl in this.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABY0lEQVR4Xu2T3WrCQBCFzXN4k2uhEAoiUgSLFCkWUSoVK5UqSN//CaacyNHZDSGTZAMKe+BgcOfn29ndXi8qKiqqTInY3akuTdJ+3+yOAOuDlDkAVBgQGvWyNG0KFRYGjkBVvjsguOXFDge1WizkfTZrM6VETvu9/Gy3stts5GM+z4v9HY+5/YbaaPwyHsvv906+1uscBvn4rxUQYT6Xy+vuzodDbsCiIWJgNEYcmr9NpwUg5D8NBu2ACMMmnBqANAziCIRJEAjxGuh1MmkK5MKgmA+kYQikGxOIawQNDoTJEEjDcDqIxT0ikD5ODeV3rFARiHcIRkN9VJyOvtiM9e9Xw5fmAnHnGqjKjMVEy2uZdLmILMAifPZ1gfx6Gsg4paQAwd/nLDMDwTguDcRa7gYrdUviDvU3n24dA4ZA2piQeUpuAsebyGg4dNYs9uu5a0b5CbfvWju7qkmOWZ0Vjnpk/QNwHrcdnxY8pAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4Xu2TW2vCQBCFzZP0RZFKpYpWK7V4wRtqKfT//60pJ3J0dkPIJNmAwh44GNy5fDu722pFRUVF5SkRuxvVtclLu212Q4DlQfIcACoMCI16++m0KlRYGDgCFfnhgOCaFzsc1Pd8Lp+TSZ0pJfJzOMhxu5Xdei1fs1la7O9ySe031Ebj98FAzvudbJbLFAb5+K8WEGFWi8Vtd7+nU2rAoiFiYDRGHJp/jEYZIOR3O516QIRhE04NQBoGcQTCJAiEeA00Hg6rArkwKOYDaRgC6cYE4hpBgwNhMgTSMJwOYnGPCKSPU0P5HQuUBeIdgtFQHxWnoy82Y/37VfGluUDcuQYqMmMx0fxaJl0vIguwCJ99WSC/ngYyTinJQPD3tdczA8E4Lg3EWu4GC3VP4g71N59uGQOGQNqYkHlKbgLHm8hbv++sWezXc9eM8hPu36V2dlOVHLMaKxz1zPoHjBFELjbiqGcAAAAASUVORK5CYII=",
     "wiki_name": "Evil chicken wings",
     "wiki_url": "https://oldschool.runescape.wiki/w/Evil_chicken_wings",
     "equipment": {

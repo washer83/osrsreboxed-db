@@ -1,7 +1,7 @@
 {
     "id": 6368,
     "name": "Villager sandals",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "A brightly coloured pair of local sandals.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC/0lEQVR4Xs3WbUsUURQH8J0v4WuhL9C73vZOhIgiKQyKTKhXBglLkCZumVFUGD1RRolJq4WZyGalwoppWURW0te5+b+X/+y5xzvTjjOFFw4zO3Nmz2/v02yptPtbZMIRuv/PW2RmxgfM9Fi/jVfP+szUk4s2iFieu2nqszfM0pvrAZT+EbnhDkQUQAyNWXx9zbx7edUrjM+4p8NHZUJGZvb54DYUjoAwCJqfumLmXlRsLo4hEPIlenNt3PxYGd0ZiiCcs3cI+jA9bEHMTQLhuV+rY+b3enUrJi0INfa2ttrQ1VVz3c5fTRCKhkC16uUYhPMQaKV2ywPhnCBdXbXIGwYU4uTGZw1CcSA4vEmgtfmR4kDsJVwLgdiTBKHXNOjzewmqZgNxXmgQimuQnNBpoC8LdzzQz49P84NwHSCi2JPIwXNpoK+Ld4sFIQCQIOS5ZRuZlpY99hgCIfd7/UEM2vw0kW2FSZBE4cslCLkHjw+YtsO99hx5SaCN+sMgSFdPaO5X48uTQLh/vlIz3b1uckoQenIbaPnxTkFuD0IPaRALyx5i7NvfaY94ToKY74HEpqirq+aWvAaxKHqkf2Q9/nzk5JA9Hjrhcji5CcL5qZ5HcX4hIELKwwvxF8sA6li3G0JE5f6GPRLEIDoXSKLOXqiaM+WJOFDg6Gm/qOw9RHtH2Q4lMa6HJmNMUyCsEA3isHWdG7UhIdwSOFzosQOdfRaDIEbOIYJ09UBrgPQ8knsO8+T8Akii5DDitVEYiChcx8rCWxurBveR33NpxgaLd3Q14MhHLnZpCSJKVw80BwoNWxJIzi0Opdx/kP9t6V4Mwh6UYR/yQXLYJAhHXOfehHnFIcIzBAGeG4RV9jcQiuEaJzSHiHONvVMoSA8brkuQ/MuBycz3Hp5jLkCrb2/7oK09KPM+FBo2CcJ5GkjOn0JAoWGTINyTf0skiK8NDldOEFpjr0kLiZGhQfgvLUGMDKBSidt6WmigDDl/CgE12zSyGSyjkfufmkaGQj+zq9sf+ytjPVDf+XwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADB0lEQVR4Xs3W20sUURwH8J0HX/wDeunFhIoyUqJMqBeJhKWHNGW7GEWFRReii1QiSZZIZgiyXeiiYIiJ1EYQGUVRf9mJ7zl8z/7m15lpx5nCAz9mduY3+/vsuc2WSuu/RSYcofv/vEVmerTfTI302Zi83Wsmhg/bIGJx9oxZmDlt5h+fCqD0j8gNdyCiAGJozNyjk+b55IlYYXzGPR1xVCZkZGbuDvyBwhEQBkFPJ46Z2XsVm4tjCIR8if6+Mmq+Lt1cG4ognLN3CHr5cNCCmJsEwnPflkfMz9q4+VV7YEGo0dHSYkNXV811O381QSgaAlXvH/UgnIdAS9WzMRDOCdLVVYtiw4BCnNz4rEEoDgSHNwm08myoOBB7CddCIPYkQeg1DXr/4rwHITKBOC80CMU1SE7oNNCHVxfioLe38oNwHSCi2JPIwXNpoI9zF4sFIQCQIOS5ZRuZpqZmewyBkPt54YoH/Xg3lm2FSZBE4cslCLlbOvrNpm099hx5SaDVN1eDIF09oblfjS9PAuH+wUrVdPXc8b1EEHpSg74sXl8ryO1B6CENYmHZQ4wNG9vtEc9JEPMlSG6KurpqbslrEIuiR/qGav7z9t3H7XHrLpfDyU0Qzvd0X/P5hYAIKQ++9l8sA6idXW4IEZXLq/ZIEIPoXCCJ2n9o3Owrj/lAgR1740Vl7yFa28p2KIlBD2GXJqYhEFaIBnHYOg/csCEh3BI4XOixze29FoMgRs4hgnT1QKuD9DySew7z5PwCSKLkMOK1URiIKFzHysJbG6sG95HffWTaBou3ddbhyEcudmkJIkpXDzQHCg1bEkjOLQ6l3H+Q/2n+kgdhD8qwD8VBctgkCEdc596EecUhwjMEAZ4bhFX2NxCK4RonNIeIc429UyhIDxuuS5D8y4HJzPcenmMuQMtPzsVA2IMy70OhYZMgnKeB5PwpBBQaNgnCPfm3RIL42uBw5QSh1featJAYGRqE/9ISxMgAKpW4raeFBsqQ86cQUKNNIxvBMuq5/6lpZCj0M+u6/Qa3tnLi/L9PEAAAAABJRU5ErkJggg==",
     "wiki_name": "Villager sandals (yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Villager_sandals_(yellow)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 1752,
     "name": "Blue dragonhide",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "The scaly rough hide from a Blue Dragon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACv0lEQVR4Xs3WzU4UQRAH8N032JMXL/sIPgLEN/HCZS8cvIgxolGjUYOJJzVKkLigIiIiopBIEPxITPwgvk47/675d9fU9uzOsIOhk8rOzvRs/6aqp7dbrZPf2i4dqevH3tpudeGSW5m/6OPFkxm3/OiCDyJ212+7T2u33M7rmwmUfYix4QIiCiCGxWy/uuHeP79WGBjfcc1GEVUL2XZrTy8PoPAJCIOgzeWrbv3ZrO+LzxQI/TX68GDB/dp7eDQUQThmdgj6sHLdg9i3DIT7/uzPu7/f+lkseRDGONPt+rCjmyZp51MThEEtSD81+m70ryRBext3CiAcE2RHN61dKAMQnNz4ThARnVNTrtM554PnUqCDzbnmQMwSzgEkkOkseu70xMsAsjAGQF+3NKhfD8R5YUF8m4Dpnt3KMKs+dJZSgXu+f7xXAP3+/Hh8UMyMgLqTb3yMAiGLuLdREEJAPY/xn5NvBYbvCYhg8izmmQLm8MtiwNQGaVTMUC9EAGVZ0vOJyJDFEpAdvaTJZMQrXAbyg3vUVI6JmSiCYhaPCJLXFhnSoIiZVpNZZSnPRKp8zGAAqUXRjm6avPIWJJjz4UnjZFal0/Mpz5pG4Tc4qccCIQZBevCIisESxjnVCAhBjA3BxBLq8knG1JKQl0tASwFTCYQ3rApIo3T5IkiySMzP3QchQxWzgxZBumxlKBkQx7JQ2tIdC2gUiiC7PumwIKLs6IkmIFs2gHBuNCqN+bFzP4CwBtVYh4ogXTacK247UiCLknKNBcJbNgyEjZbemA1D4Tr6NwKyZcN5DeJukrBUYO+0/+5uEZStQbXXoVTZNAjHBCHw18I/YtwHMPs2AkqVTYNwTW9LNAj9uKlvAIQ2mPpUaIwOC8JeWoMYNUCtFpf1YWGBOpBJzp9GQFWbRVbBMmLf/9QsMhX2nhPd/gF2BJauxXXt4gAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACw0lEQVR4Xs3WTWsUQRAG4F0WkfwGieQnePOSw15yyElFUVFRVFTwJooSguJHiB+RSIxREjEghBiCxosHURT9Ze2+XfN2V9f27M5kJ5KGYmdnerafqerp7VZr/7e2y0fu+p63tluYPemez5zwMX/vuJu7c8wHERtLl93HxUtu/eXFDMo+xMhwAREFEMNiPry44N7Nn0sGxndcs5GiaiHbbvH+qT4UPgFhELQyd9YtPTzt++IzB0J/jf61Pet+bN7eHYogHDM7BK09O+9B7FsGwn0/t2bcn51H7u/OEw/CGEcmJnzY0U2TtPOpCcKgFqSfGn2XH5/JgjaXryQgHBNkRzetnZQBCE5ufCeIiM6BSdfpHPXBcznQ9ttrzYGYJZwDSCBTvei6g4eeBpCFMQD6sno9gBC1QJwXFsS3CZixw6s9zIIPnaVc4J6v72+koE93RwfFzAhobPyVj2EgZBH3NgpCCKjrMf5z/LXA8D0DEUyRxSJTwPz+/CBgaoM0KmaoGyKAelnS84nIkMUSkB29pMlkxCtcBvKDe9RkgYmZSEExi7sEyWuLDGlQxEypyayyVGQiVz5mkCC9KNrRTZNX3oIEMx2eNE5mVTo9n4qsaRR+g5N6JBCiH6QHj6gYLGGcU42AEMTYEEwsoS6fZEwtCUW5AMIqTUwlEN6wKiCN0uWLIMkiMd83boUMVcwOWgTpspWhZEAcy0JpS7cnoGEoguz6pMOCiLKjZ5qAbNkAwrnhqDzm2/rNAMIaVGMdSkG6bDiXbjtyIIuSco0Ewls2CISNlt6YDULhOvo3ArJlw3kN4m6SsFxg77T15moCwhpUex3KlU2DcEwQAn8t/CPGfQCzbyOgXNk0CNf0tkSD0I+b+gZAaP2pz4XG6LAg7KU1iFED1GpxWR8UFqgDmeT8aQRUtVlkFSwj9v1PzSJzYe/Z1+0fV3K7lIKB2asAAAAASUVORK5CYII=",
     "wiki_name": "Blue dragonhide",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blue_dragonhide",
     "equipment": null,

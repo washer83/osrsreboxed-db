@@ -1,7 +1,7 @@
 {
     "id": 24005,
     "name": "Elven boots",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": true,
     "examine": "Decorative elven boots.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiklEQVR4XtWW70sbQRCGvX+inwP5IAiCCEX8EKhIkWIoSgMiorQWqogVUVHRIpb+oP/1lneX5zI3d2n09mhwYNDkNjvPvu/c3M3NvcwoQj1nFkXYOPwcNr8clanPMwJMMG8PPobh8Ul4f/o1/lUCpmvK/wCVYNb29kugDxeXYfvsPIKR+lxXq3PligghmDc7u/F/FR9dXYedm9uwe3cfc+/bQ6kOyqFih9ZWYQajUdxYSvjU91ojAPqMa4BhK/u1gCoqlmCLTxXHSqwFSCpKTaVsVuq69l7q9WL6qv+IotxsUgpSEBZGp5+kpMClNEC+4pQoyh7xqZNbdaapqAR4dWu7LZCiCAfff1RSQJIedaSIPtPIPi241FkZDvOADn//ifnp5694N6GOAFREJxYk39m0DS1wrX298S4HSJGg9h8fG9WhgED1PVMcKK/O4mCQD+TVoYhOTAFdxzr/eLHqzK+sdgdk7yw1qAr0l5djAa3BOkCYPVYd1ncGRO+oiIBe9fuxADcA1gHj1ektLOQDUYjbV0V04qW19XhioADHuiZ1WNsSqA4jq1Sk6dQ0v1UJhQSvtRlACcb3BUA6tYBQCdsA4jcMQ62VSi0tq8I0zRMLxJ0my+x48P3mbfNVJ8QYRk3sgbCLHgJGdul3TcPT9xwKPUGlBMOmPKXZHPmtOlhl1WE8YBkWeyBfvSFSDwiIhyhA2tzbZWHsQbDLD0Wp+czBWAdCJWtX9XmUVLXq2GnugZ5hF5FeO6w63i4Lg1VWHTvNrV0tYIjxu69/HlU3HfecVQe7LFAGTApb1GZ102SxV9TbVf9dZrBZfdP02kGvMSIsUOcw02Osnp1XGS/z+fE0e2cUk+194fEXS4eDJYErUM4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiElEQVR4XtWWbUsbURCF3Q9+aChKsShEtElLLDagRmwV+kJLSyta0NIX2or//2fccu7l2czObozuXRocGDTZmzvPPWd2dpeW7mcUoZ4LiyIMj0/Cs9dvytTnBQEmmCdHL8Po7buw8/5D/KsETNeU/wEqwWxNDkugF5+/hN2PnyIYqc91tTpXrogQgtnc24//q/j49CzsnX8N+xeXMSffvpfqoBwqdmhtFaY/HseNpYRPfa81AqDPuAYYtrJfC6iiYgm2+FRxrMRagKSi1FTKZqWua++DwSCmr3pDFOVms1KQgrAwOv0sJQUupQHyFedEUfaIT53cqjNPRSXAG8932wIpinD063clBSTpUUeK6DON7NOCS5310SgP6PjqOuarP3/j3YQ6AlARnViQfGfTNrTAtfbx8GkOkCJBHf742agOBQSq75niQHl1Vvv9fCCvDkV0YgroOtb5x4tV5+H6RndA9s5Sg6pAb20tFtAarAOE2WPVYX1nQPSOighoudeLBbgBsA4Yr86DlZV8IApx+6qITvxoazueGCjAsa5JHda2BKrDyCoVaTo1zW9VQiHBa20GUILxfQGQTi0gVMI2gPgNw1BrpVJLy6owTfPEAnGnyTI7Hny/edt81RkxhVETeyDsooeAkV36XdPw9D2HQrdQKcGwKU9pNkd+qw5WWXUYD1iGxR7IV2+I1AMC4iEKkDb3dlkYexDs8kNRat5xMNaBUMnaVX0eJVWtOnaae6A72EWk1w6rjrfLwmCVVcdOc2tXCxhi+u7rn0fVTac9Z9XBLguUAZPCFrVZ3TRZ7BX1dtV/lxlsVt80vXbQa4wIC9Q5zPyYqmfnVcbLfH7czt4FxWx773n8AxcuoeT0YZACAAAAAElFTkSuQmCC",
     "wiki_name": "Elven boots",
     "wiki_url": "https://oldschool.runescape.wiki/w/Elven_boots",
     "equipment": null,

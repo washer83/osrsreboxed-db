@@ -1,7 +1,7 @@
 {
     "id": 27359,
     "name": "Masori assembler (broken)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-09-08",
     "duplicate": false,
     "examine": "A broken Masori Assembler.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xt2WQYvTQBTHk2+wJy+9BHoIFAKlEEIJhSwllJBQdumySygtslDw4EVB8CR+ABG/hQcRZF0pKiIqevEgHkRExIOIiIhIP8Az/5m+NJktCtpJFh/8yUwC8378582bGMb/Gyapb2oKgJj0/t5UPNWvFYdJH+bTXJi3LatOKOkM61QAvbs7qQNI1sk6vT0aC1mNRlVAWZJOh1zPo67vUy/YpiAMqR9FFO/s5DAVAZkikQrDQIMkoTd3VkAH48nSOW0hgRhGBYIYBhofHup2aT1QESadnhUg09ksVyUuQUV3uv2Q/OzpBoEYsxYv0rye1JU2FCY1si2wWi2y221yXDeHUIEwB9Di+Ujn1pWB2tn2QQyyDgi96VQAwZlagHDc0YN29/drBFoW9oXGVq6rzTOleqoUCEe/2KHhDhohA/18muRA6N7agdCt0Ye4Qw9HI9pLUwH05UFEP55IIL7btAPhPmOXijUUZOPP9yP6/jiuFqjlOCWXAASXAPRpHtG3RysgbJ/G5iiBmrZ9wiU0SRTzx+MBfX0Y5zAQO6TdJb7X4BIDwSXU0eLZ8ASQutKGQgIVoeAS+hJO2NE1i17ePKDXt1PxO6K5hhAmOVlNMBQLQFd2h3R83aJXt9IcqIKfNQnkZgmSDCLtejQLenQxGtDlYUzzGzUAIYlvN2m7ZZdcuhRHy9O0UtgxdAGVE+15rhDPXdsQjuHJIIknxxqAZEKo56x0rh/Q+bAvxvx94ncpDbZo5EsggLFL6qr/GGWHficAAoah2KENu2QYvOifVIQDFAOp61UaRbi/decXKjjDRZMRUukAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xt2WQYvTQBTHExYpKaGhNKSkYZttQrpsd9nYUll6ELwoCN7EDyDiF/EgHoTFlYLIIoIo4s2LBy/CwoIge1sQxIMgCEK/wzP/mb40yRYF7SSLD/7MTAIzP/7z5s1o2v8bOhW/VBQA0enj47Foi39LDp0+TcepML64sVEllHSGdS6Ajh+NqgCSebJMR/tDIaNWKwtIp2arRbbjUNt1qeOtk+f71A0CCjc3U5iSgHSxUBGGgXpRRB8eLoB2h6O5c8pCAjFMEQhiGGi4t6fapeVAWZh4fEmAjCeTVKW4BGXdaXd9cpPW9jzRZ83exGk+FWdaUehUMwwyGg0ym02ybDuFKAJhDKDZ64HKrcsDNZPtgxhkGRBq07kAgjOVAOG4owZt7exUCDRP7Ku1tVS36hdy+VQqEI5+tkLDHRRCBvr5MkqBUL2VA6Faow5xhe4PBrQdxwLoy9OAfryQQHy3KQfCfcYuZXPIS/qfnwT0/XlYLlDDsnIuAQguAeh0GtC3ZwsgbJ/C4iiB6qZ5xiUUSSTzyUGPvh6GKQzEDil3ie81uMRAcAl5NHvVPwNUnGlFIYGyUHAJdQknbP+2QW/v7dL7B7F4jijOIYROVpITDMUC0M2tPh3cMejd/TgFKuGxJoHsBCJKIOK2QxOvQ9eCHt3ohzS9WwEQFnHNOq03zJxL18NgfpoW8luaKqD8QtuOLcRj29SEY2gZJHJkXwGQXBDqWAtd7np0xe+KPv8fuW2KvTUauBIIYOxScdZ/jLxDvxMAAcNQ7NCKXdI0nvRPysIBioGK85UaWbi/decXB95Z8Y953ogAAAAASUVORK5CYII=",
     "wiki_name": "Masori assembler (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Masori_assembler#Broken",
     "equipment": null,

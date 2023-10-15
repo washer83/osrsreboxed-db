@@ -1,7 +1,7 @@
 {
     "id": 7447,
     "name": "Kitchen knife",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": false,
     "examine": "A sharp, dependable knife, for filleting meat.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4XmNgGAWjgBBg/I8uMkAA5BDG/621NWAaXZZOAOIIEO5sbIA7xkBBAYzRVdMQQBzR39b2v7up6X97Q93/5urqgXAMxCGTu7oGh2Om9nT/n9DR8b+3pQUeRQ2VlQPjGGyhMgCOwR9FdHcMMVFEN8dgC5W68nL6hwq6Y2ChUlNaSn/H4IqiquJi+jsGVxQNiGOwhQooiioKC+ntGBBgxBoqZQV5A+EYEGD8P62vFyVUSnJzBsoxIMD4f9mc2eCoAoVKUXb2wDoGFF1J0dH/w52VwQ4ZUMc0JJn+L40y+q8gLY3ikAFxTFOq+f/CcIP/0e7q/x2MpOGOQldJBwBs3WVZwh3jbi79X11BYKCiChEyid7q/32sQZYPWLqBOAaUZlL9tP4HO0AS8QClG2BvIN3yf0Ws0f+MQF0Mx6CrpgNg/F+dYPo/N2RQOAYGEF2WQeAYCBig9DIKSAIAPW2TlwcY4r4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xu2X30vCUBiGPXQxFlLERAkhlCioQFxQIlQmtWwpNlNbpqZZBBFd1R/Qf/7m2cGJp9mPi863iz1wGGzfxcP7fhc7sVhExE8wyG+I4CIMt1cN7yl/VYSQ4Ofuuu3L5DMZ78jT/4iQeOx2MXRd9FpN3DgOhYwQeR4MwiHzcj/EU7+PUafjV9Su12lkglIhkPm+IuUyv6lImUxQKs1qVX0qsswklYZtq5eZV9FlpaJeZl5FJDJBqfCKapalWobDAlO5OD2hkOEwvD6MZlI5Lx9TyXAYPt7fvKp4KmelEq0Mr6tgmsitLXoipDKtQgJ23oCuaTMiJDJuMQkrtwIzG0fa0HwpeVIB47+7o5Qvk01qiOsLVFVNk9lfj2NjVafcGyHDd6a4uYTttFhior0Z3wYOUqjtGjjcWv4iI08rgMHZS6C8EwqZCdMrSwhkBET7EvEnPgEFoFytRKUjHgAAAABJRU5ErkJggg==",
     "wiki_name": "Kitchen knife",
     "wiki_url": "https://oldschool.runescape.wiki/w/Kitchen_knife",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 27733,
     "name": "Crystal body",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-08",
     "duplicate": false,
     "examine": "Sturdier than it looks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADf0lEQVR4Xu2Wa09TQRCGOb/BxE+GEAkhIWBIE4INQlBUAjRVKthQU6A0QLmUiwWCQhC5eYmEi4DEu/GLiT9y7LN12u2hUo6iH0wnmRTOmZ159p3ZbcvKSvb/mSMZP6t5jfdkjmzEtmT+/uLPIsW9/+agRNqifwvKkRfDr2S1f01mQymJtQ/JHX9IGuuapam+TVobOqStMSDt/m4Z6UxIvGPYxPhrmgxQfUXFeULldr2d2JGV6KpMh2ZNQRsGHw9OGk8ExqTlSqtUXapyKffH5khXc48pRvFn8ZemdY8iywYKNWx1Ju9OG6dVANWW15rnKFlxsdIr1Mk56L4ezQMChrYtR54YT/XOG0UUBki870ZEbvvapf6yT3puDRaAcnsBezqwIYvhxyYx7UB2VYEdMzMAEQcUsQAx6MQxW6xhfnpbwtLR0GlmyD13PEM9gANXgxK61lMY6njmnVmsRSiI20AT4cU8JxYYNqEwtqK+ar9pMy1GSc2jICgJDENfYPAdOUi+MQqoCjgFOcIksGFG7qXygIChxcHWPtMiZos27YztmXzEKjRg5DwFRs1JJ9g3J0nnRE+UrVCiZ0Hi3TMSDYybdmgxgNxzV1fpM/mIs5W0gdwULnPkMHmcHWDaRxLkVRjUiQWTpqW8Y3CJo6BbJfIBpAeAEWCDZ1DHNscUpmi4PZ4tgCo8QxkA9ITxnjhawzMU4jkzRC7i7TweYTDHFI90jZodaxJtFVB80lLAKKQqoBb/0zI91nYu5uqMrbKtMBA+178uMw9WJNm3ZD43h54bZYADGDXca4ijzbyrrqj5PSAWs1vkzyVw5GFaCWAovj9xmHWONzO3NrBlgHR+dA3xtE2V8wDkZHdD4vwEmd0y3Hyv6RWBmnzSPtpGy/Jbk8nJBs8dCHV2x14bAOaGnQPIcy5APUUcd3sd0Po14hlI5+dkgvTlOXmUnRvAicX5G0BOGZdo+YXyvHV6YhkBhXVX/oU58nb2g+yM76dnYl3m0grYiZkVgPQ+0lOnJ48LkJs4/7dQJuf26K4s0fJ0rAeVHHmf+iR7EweyHtvMLtTE/FArBESL9X6iZW6FPs59MZtExan0Gk9Anxe+GiAUyl+YAbJvbBuINuPc3u6NfFv6LkdTx2aTs+l1HoCw3G+VXNKT707zYutOvi9iuqDQIvvdaV5snft9yUpWsn9pPwACcgst+LWJswAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADcElEQVR4Xu2W7U8TQRCHuUQjkEYwEAgQkLcSSoFCU14MFVJbypuEBgQRNIqCKCECihhN/GTivz3es3XavWulnKIfTCeZFO52Zp79zey2NTVV+//Mkbxf1YKuD2SOPJ/Zk7Wx9Z9FKvtUzz1JdE/+LShHXs++lZ2pZ7Iysioz/UkZahuWloZ2abvTJR3NvdLVEpae1ojMhVOSDM+aNW3ue2LHuruvE6q466PUO9me3JWl4ZV8QQsGz0SyxlODael034VuhXzK/bE50tceNcUo/ip5aFq3kdgyUKhhq5ONLhmnVQA11jaa5yhZd7M+KFTpHEQ64x4gYGjbVuKJ8dXYmlFEYYDE410J6W3ul6b6ZonenSgD5fcy9nT6hayPPzKJaQeyqwrsmJkBiHVAsRYgBp11zBYxzE+sc1zCbMKF8M8dz1AP4EEXdKRjtDzUWebcBGsRCuI20NzoQ4+zFhg2oTC2ok2hVtNmWoySmkdBUBIYhr7M4DtynD4xCqgKOAU5wiSwYWaGFjxAwNDigY6YaRGzRZuOH5yafKxVaMDIeQmMmiMH7vHmJOmc6ImyFbofXZbpSEbibnLaocUA8s9dQ32Tycc6W0kbyE/hM5Q6LQww7SMJ8ioM6kwOpExLecfgso6CfpXIB5AeAEaADV5BHdscU5iioz3ThQKowjOUAUBPGO9ZR2t4hkI8Z4bIxXo7T0AYzDHFx/qSZseaRFsFFJ+0FDAKqQqoxf+0TI+1nYu5umKrbCsPhC8mtiUzviGpWM587iX3jTLAAYwa/hjW0Wbehepu/x4QwewW+YsJHMnGNw0Mxc/mzwvO8WbmHk/sGiCdH41hPW1T5QIAOYXdkNibIL9bhpvvNb0iUJNP2kfbaJm3NfmcbPDagVDnJP3eADA37BxAnnMB6iniuNtxQOvXSGAgnZ/SBI58yF4U5gZw1uL8DSCnjEu09katJ05PLCOgsP7KvzDHnYmPsj/7RjbdAV50FbATMysA6X2kp05PHhcgN7H3t1A+58vkgeRoubs2gEqOnC98ksO5I3fHO4VATcwPtXJAtFjvJ1rmV+hi8YvZ5IY74Gk3JhDQ5+WvBgiFvIF5IPvGtoFoM87t7d/It9x3813JJufduABAWPG3SjFp6bvLvFJc6fsKpgHlgux3l3mlOP/7qlWtav/SfgCok1efMtp82gAAAABJRU5ErkJggg==",
     "wiki_name": "Crystal body (Trahaearn) (Active)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_body_(Trahaearn)#Active",
     "equipment": {

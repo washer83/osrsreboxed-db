@@ -1,7 +1,7 @@
 {
     "id": 17360,
     "name": "Snake corpse",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-15",
     "duplicate": true,
     "examine": "Like a snake only not alive.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xt1X/WsaQRDN/h355aA/FARBAiIiwomIiCIRRbmIEg3GkloolELpPz/dN+Nk9z5TT/NBBoag2b15++a92fPq6nOFoex8k0gWNdQJ29RsNTnrjfpzvjIoKV6tVji7gy4Nb4ec4+mYfj6sKIpmtFou6P4+ouVkyOtrQXBpUAJkELaoP+pz8ZktjFysFhSh+HZJf54eaL/f0G635vyxuaNJv3NplgyNuiE/eD0bcxGwoExoghEF/mSBIX89CqiebeOFQFlWbFsW4wGD+b6WwlvLBjKpI7RG2uO+A1MK9szWCRhtUbK4D8BP3a3AFNDNTe24r1QYuj2KFYCyijtgL4VhQO1Om4Lr6//ckwrDLYKLYOc03YZZg5DjrGWFAJoNe1T5Igcp0ToBBCGrIN1DDAOFw6AjiHa/nLMDi0DhefVatTyg7XzC7mrVpffaJoABO3DW4fDIVoebMIPyixkGHjZlUGavKQwrxmjKp65Vvh5PLqcE9fpZE6CKnWTo97cNHyYISulIALEQnx9guDX+9PUFDsYwvbOLidsmlnVdkw08N6QAHKaAtLAyFy8cB5RdTNbgkPlrcsOwYCHcJCDoBYNSHePvgWjT3/shGiwFSAdalsvQupFlrxW7EgyvLXaS6FDFnfxvQRi+JOEctChdwAna1xEGafoAbg8kAHaLQeeGOAN2dc5ykRQ1bnxcNRikjdR7kFxDAIxnqXNPBvT3sGPNoEWO5nT2eiEDQhv9ya5g8T2uIsyv0K49a2JjxvCLly0I20KUeCuE0/S1BG1QQEkwADK1QOZ2L0wCluJGOTkMT2RoCs5TYNAWmMMrCdqKjIORvVina7Aen9UMJQEhpDU+MLCmVwYKoli6iOH/YR3+AgyuJDCqrXVrTwxtQVHG2dEQcyg7AIR2a54FCqFF8zK5Xlny2VH95R/i1UO0BECw/TuDQcjrDNjRXyHvCAaBXy6NF7T25uGAfAAwEh8GyKeJf/4V7/A88Sh6AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xt1Xa2siQRDMfAoehyIRRRc1Khp84EYxGonJeXBwHBzc//81fVPddmb2mbiaB2logmZmu6a6qme9uPhaYSg93yXiRQ21gxY1mg3OWr32nG8MSopXKmXOTr9Dg5sB52gyol/3SwrDKS0Xc7q7C2kxHvD62+vrc4MSIP2gSb1hj4tPbWHkfDmnEMU3C/r7dE+73Zq22xXnz/UtjXvtc7NkaNgJ+MGr6YiLgAVlQhOMKPAnCwz5+0FAdW0bzwTKsmLbMh/1GcyPlRTeWDaQcR2hNdIe9x2YUrAntk7AaIvixX0AfupuBaaArq6qh32FwtDNQawAlFbcAXspDANqtVtUurx85Z5EGG4RXAQ7J+k2zBqEHGUtLQTQdNCl8rdSyrNeFQIIQlZBuocYBgqHQUcQ7W4xYwfmgcLzatVKcUCb2Zjd1axJ77VNAAN24Kz9/oGtDjdhBmUXMww8aMigTF+TG1aM4YRPXS1/P5xcTgnq9bMmQOU7ydCfxzUfplQqpCMBxEJ8foDh1vjT1xc4GMP0Ti8mbhtb1nVNOvDMkAJwmALSwspctHAUUHoxWYNDZq/JDMOChXDjgKAXDEp1jL8Hok1+74dosBAgHWhpLkPrhpa9ZuRKMLw230miQxV3/L85YfiShHPQomQBJ2hfRxikyQO4PZAA2M0HnRniDNjVOctFXNS48XHVYJDWE+9Bcg0BMJ6lzj0a0L/9ljWDFjmak9ntBgwIbfQnu4LF97iKML8Cu/akiY0Zwy9etiBsC1HirRBO09cStEEBxcEAyMQCmdm9MAlYihrl6DA8kaEpOE+BQVtgDq8kaCsyCkb2Yp2uwXp8VjMUBISQ1vjAwJpeGSiIYskihv+HdfgLMLiSwKi21q09MrQFeRllR0PMoewAENqteRIohBbNyvh6ZclnR/WXfYg3D9ESAMH2HwwGIa8zYEd/hXwgGAR+udRf0Nq7hwPyCcBIfBogXyb+A/Irfg6XueZgAAAAAElFTkSuQmCC",
     "wiki_name": "Snake corpse",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snake_corpse",
     "equipment": null,

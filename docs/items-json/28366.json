@@ -1,7 +1,7 @@
 {
     "id": 28366,
     "name": "Perfected shadow torch",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-07-26",
     "duplicate": false,
     "examine": "A torch that can pierce the Shadow Realm.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC0UlEQVR4Xs2US08TYRiF+X6GOzZuXBkXrowJ0cSFxkSMECUgbVMhhTZcCuVaiqVQLNcYlJlETfwNJlBmpmpMMAYVCWgDiaACCaWFpS6P3/vVdjpTdnY6nORkps1cnpz3vFNRURYxZH0qxHBxfhhn54dOCxRDrzwjYM5XVgqbryiDCkfEUC2N5oGM15VFDBf4iCrngwYom4AYHPI4/PL0Pxjd1KMyd0h/+VVpBFVSGJe5z/Ey0zn9p6dk+dYx1EpjuMNNfbnFfVOKoGb9FW7wI/0uhLF467JjIt+XxlHPXSdF4dvewANlQZwTbC4Vl/wIffJsHtCCXjF45AlhpxKHT40joC1iZCfJzxcFqPHlesEtgCExdMhT6FIVDGpLCHH3cwfUJZ4Qtxwr6Ex2RBbCkLIfvomEiih3WFMQ5CbA6ngcZ54Ois8AlTpXbPMTSiiGazvLmDs6wPP0PofSENE0DKkqOrhp/alT1Bvq0iXpYX5c5ieVQAyB2XFUfYnDtbsJb/oH5NQ+B0ogqGpwLik8LZWPT0EbHx8BWd6d3scxdE+P4UryNbypbbw8PsSL1B5mEgm0f1pHiIN18aSoS8bVL7kYIkdb6J+bFED+yYgYnSvzC08yKUzt7fKUEuhWEvAomthAC9NhaE5vIHq8hdU/x3mgzlhY+HpqFc8ONjHAvzXUIYIpXH3z0/5TDA3f36OVA/kz37D8O50H8o0GhdujIQHWHOopWHUL02n8uQLH7ke4DtYEFL3cGx5Ay3CfOJ4EYRlM00A36r6+QV3yLRp3Pgg4d3odgUwSzv3P5YDIKQtDdvf5hWtXFnB3TUX95juRmIVjMcsI4+rpwD1vE267G08cj/nuEssI4+jyobbFXQRhC0xDZytqmpxFIOa7LJIRpr7NU5SK+Q4LZYShvtiUCkmHoRHZmApJh8mNyKZUSDqMzamQjDA2plIo21Mp1mmB+Qv1JraT9QiJTQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xs2U2UtUcRzFvW89BEFvQYUtEEiYI27jkprLjAuOpslkObmSlkq2GGZY6UNUzzI/g6AoejBocfRu0mJgBjGBScGIMjpJz9E/cPr9ftPMnXvHt+bO9cDh3hnu8uF8z/empCRFAsLeFhKw13sFu7yXtguUgJ7JexwmIzWV23hFEhQ7IgF5ZCQKpL8uKRKwh45op25EYUALgARUkVton7z7D0Yz61GSO6S9PI1cxxEyhMPkGnZ7B/k5+09LyfStE1BEbqKAmvUlh9xAFhlG5rensNEj+x0LY/LWhcfE7KAupz5BRuEIfEaF/IqfM9hIKjXkDi5M3o8CmtArAU1knLtC9MEl+eBWpuFZ+Yo6aZqD6l+uFdwEGCYB52iJ3ZKIdmUWndSt8gxOUzspYD0Zi+lMeEQmwjCFP3xXVQkDioQe6k5Z4oD5Ph92TAzwzwArdaTYxickUAIO+KcwuLmG0dAKLqsK+qi7FBnNosTXn3WK9YZ16SDdusi4jE9KgGhBz3uwTyYoWF5EZXAJI8EA+hWVJqSgelZBL03LI4s4Kc1wINO7U9fbhuqus9g//xiVq36M/1rH7bUAhlUVTQt+dCsKWiQKJ4qG1U+4BLT8/IT6ix0cyNnRwkeXH1rGUCiI/sB3dMsqPJKKRlHlG2hiOvQjGHyL1s1FiH82o0CONjf3oVURY2uL6Hv4gHeIwcSuvvFp/ykBWV9eoGT9HZwbHzD1ez0KVHamkbui9RQHK2qqjVl1E9PJXnqNnOVp5K2qHIq9vNTdgOJmFz9uBWEaTGFDNWzvn8D28Rmy/S85nD04h5qNeeT+mE0GRERhGGa7y8md/mYCx9RHyFx4zhMzcSxG6WHyaiuRUVqINHv2luMx3p1g6WFyqsqQXmyPg7AEJstRgqOFuXEgxrtMkh4ms/x4XCrGO0yUHob1xaJUmDQYNiILU2HSYCIjsigVJg3G4lSY9DAWphIry1OJ13aB+Qv7i38Xe+HJawAAAABJRU5ErkJggg==",
     "wiki_name": "Perfected shadow torch",
     "wiki_url": "https://oldschool.runescape.wiki/w/Perfected_shadow_torch",
     "equipment": null,

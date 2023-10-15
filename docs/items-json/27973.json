@@ -1,7 +1,7 @@
 {
     "id": 27973,
     "name": "Corrupted statius's platebody (bh)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": true,
     "examine": "A powerful platebody.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMElEQVR4Xu2WXW8SQRSGmX/Sn9AbY0xjAheEEAhxAylpCYRCkEbEYKFUSm2ojZX0w4+Y6o03Xnpj4r0X/rMj79m8u7OLCMgaa9KTnMB+zMyz77xnZmKx27iNvx5GoslIwkjhQdLL4/2SZFNxTSeT0CzkklLdSko6ueFlNh2XZjUj9VJKnzmZe1FAGfn49kga1byXzdqmAhSdtJQKGakUc5qAdbIJBUF2mo702wUZ7m3Jo1pWYdbX1jTDoywRRt5fDqTVKEp7d1u67Yp0W3mpbOdUIYAp1OS63cipGoBCAmZ0UNb3oRSBwiMsGUbejPs+zCShUqmY0V8C7Xd2FBoAL4c7Mj6u6e/poCK1siPFfDoqIISRq7OeTh3gzkZPZDTYlcNeQ0Hwe/q8LRenXc3xyVP3nQkcgaBYpEDXr4c6dRjQBqJqR/2mnAxbeh//oSjMj2soB4Xi9+9EYWqECwR1bKBne3XptMqaUArXgMM1TM12uAe14Cl6KTzCkjENRDWYgIASqEB4i0DaZlRX00Ml3l9x6tzSB9S78wPPK7ZaVAZQ8AwHRvLeCkDhldU3NaHw5bgHA0MtTBmgoBDU2Li77vUBUFbmH5jbeCWMhY6dQg1AEAoGJxQqDAa3B8ZKzbZ4BpMDFH36zxYKo1XC9YYyc3BbJVshGBqD6to0GRRtdPtIpRQYH8lnyYS7hSyoklFf4KsoP+7ZQFTHNjiBoA6BqND3r6/ky6dDr/yXBsJA9lfZQHhmq4P3YGq8C+OGgdxB3aL4fN3Ttam8uZSPbEO7yU5/BQR1MMUAYmlzkw0OOt3nAkBGPlw81gw3xq89TTYQtxAAcbcPDur3hQ3YP4bMNbaRH9/OvarAFIQrzZ4qgCGpEKYLMEGPGG9VR6FwTYLhcUaaA+VOC6sMpg5/qW1kgOGaKrEyuQaxDeDRJ5UEOKaW5f+bqXOB7KqxO7Z3cjvtTRWDsjLZjoryPXwo1ZwDhJhlPnc5QKdM7mME4TQH2033GbbDHKBYjJ0FO0UEO56V0+38PvH86sVDVSmSQ1sYdlaG2/nhbiU8vK0MFE0YPeLi8H9DgBCzp/efxY2C+e/iJ7pZKucXfPeIAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKklEQVR4Xu2WXW9SQRCG2Z9gYjS1aSgQMEBDC6EFIhWJ2E/TUvthY21aq8aYRq+88torL/wHXvhLxz5zMucsB5Fij7EmnWQC52NnnvPuzO6mUjd2Y3/dnCTjiZiT8v106LvrVclnptWLuRn1ciEti/NpyaanQs9np6W9mJNmNaPPirm7SUA5+fh2R1qLpdDbjTkFqBSzUi3npF4pqANbzM8oCN5rF2WjW5b+yrw8bOQVZmF2Vj2eZQJz8v7VlnRaFekuL8hqty6rnZLUFwqqEGAKdXHdbRVUDaBwYPY3a/o+ShlQPMOE5uTN8UYEc+GoVK3k9NeA1ntLCg3Ai/6SHO829Pdwqy6NWlEqpWxSQJiTs6M1nTrgjvYey97WsmyvtRSE38NnXTk9XFU/Pnii7wBnQCiWKND5675OHQl9IFNtZ6MtB/2O3uc/ilL8XKMcCk3fu51EUWMBEOr4QE9XmtLr1NRRimvguKaobRz3UIuaslqKZ5jQhoFMDXMgUIIOpLYMSMfsN7XoUcnuX3HqgtYH6t3JZlgrvlqmDFDUjCXG7d4VgOIra1TUBsWXc48CRi2mDCgUQo2pO7fCGIBaZ/5BcbuwhVnoLChqAGFQFLhB0WEUuJ+YldrG8owiB5SY0bNLmdMusfXGZLbkvkq+QhQ0SXVtukjKGN0+MhkF5iPtWXom2EIuqZLTuuCrTH7u+UCmjl/gBoQ6BmQKff/6Ur582g7bf2IgEvlf5QPxzFeH9yhq3qVw40BB0qApPp+v6dpUm5uojuLHhSjor4BQhykGyFrbNtnBpMMxLwHk5MPpI/X4YH79afKBbAsByHb7waRRLDbg6BgytrCd/Ph2EnYFUxDvNH+qAMNNIaYLmMEaceGqTqPYmkTBc0YaAxVMi3UZRR3/Ur+QAePaVLLOtDXIxgBPTFMScKbW2v83UxcA+V3jB/Z3ct/9TZWk1pk2zhS19/hQU3MMEDaq+ILlgKDmto8ZiE3z4LjhmPFyGAOUSlmwwaDYYOBRPjwuisnzs+cPVKVEDm1x2FEeHxdZsJXY4e3KQMmY0yMuh/9rAoSNnt5/ZtcK5r+zn6z1b3UpEGEQAAAAAElFTkSuQmCC",
     "wiki_name": "Corrupted statius's platebody (bh) (Activated)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_statius's_platebody_(bh)#Activated",
     "equipment": null,

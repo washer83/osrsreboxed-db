@@ -1,7 +1,7 @@
 {
     "id": 11211,
     "name": "Magic beans",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-04",
     "duplicate": false,
     "examine": "A bag of magic beans.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB10lEQVR4Xu3WTUsCQRgHcOdzdFnoIHjqEhFdioiQJIykiCB6QRRpQcIQU2PLsjCCXhDp5SAeravULfpkT/xnnHWctlszG9gfll12xP3xPDuzE4n8Z3TDSL8TUgBhtJ0Y42d91GIEZC/pkLvu+KAJxwkDxWh/c5qquTkq7UTpcGucsqkBSv+14Qww18U4XeVjVEkLFCqFillEMcpuTNFRZpYahTi1vCSvUC0X42fLrRvG3JSWfJCXidoGCQzaVD9Y5K0C5vF0hbcMGIug75i7coKDcBR2ZzjAKkhi1FahOs3qMh8DGL+zBqrlF3wMEMAAhUphrNtu92eWOIAxBGLkufMco7ZKVgdA3O+9dIcghjCIAKmY57NVfgYI9zD20euZbpOMAKmtAkhtmazSa6fTb5nRCJDaKoAkSlYJqM/3NxtVEiA8WAW16ym/SirKMIjxNQYvNJ9N9yU6b5bp8uGYGk9eYJWMg7DGBIFQoSBQem3S5Hs0mPJ44MltkYPqrcqPIGtrkA5SZ1oQSP+nX8wwCm0LGYSITwceigMgHYN1yHC79DB/tVa/ZbjG/RB2ioj4cGJ3eOHG+D4I13L7arlCIuJhAoZdotwphoJRo8JCx6iRkD+BGZl8ARQCXEfxpdPjAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu3WTUsCQRgHcOcUhniKIqIyw6SMXqA3QaUFCUMwNbYsCyOICkGKOiTe7QMIde3Q93ziP+Os47TdmtnA/rDssiPuj+fZmZ1Q6D+jG0b6nYACCKPtxBg/66MWIyB7yTA5a2EPtBGLBYFitL85RdXcLJV2InS4NU7Z1ACl/9pwBpjrYpyu8lGqpAUKlULFLKIYZdcn6SgzQ41CnFpukleolovys+XWDWNuSoseyM1EbIMEBm2qHyzwVgHzeLrMWwaMRdB3zF05wUE4CrvTHGAVJDFqq1CdZnWJjwGM31kD1fLzHgYIYIBCpTDWbbf7M0scwBgCMXKdOY5RWyWrAyDu97rdIYghDCJAKub5bIWfAcI9jH30eqbbJCNAaqsAUlsmq/Ta6fRbZjQCpLYKIImSVQLq8/3NRpUECA9WQS/1lFclFWUYxPgagxeaz6b7Ep03y3T5cEyNJ9e3SsZBWGP8QKiQHyi9OmHyPRpMeTzw5LbIQfVW5UeQtTVIB6kzzQ+k/9MvZhiFtgUMQsSnAw/FAZCOwTpkuF16mLdaq98yXON+ADtFRHw4sTu8cKJ8H4RruX21XCER8TABwy5R7hQDwahRYYFj1EjIn8CMTL4ACJX0hMPr4rAAAAAASUVORK5CYII=",
     "wiki_name": "Magic beans",
     "wiki_url": "https://oldschool.runescape.wiki/w/Magic_beans",
     "equipment": null,

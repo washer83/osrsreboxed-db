@@ -1,7 +1,7 @@
 {
     "id": 19235,
     "name": "Death talisman",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": true,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACP0lEQVR4Xs2XV0sDQRSF3d/hS8AHQRCCICIiKCIiiCCKokGxYMGGDRsqURRjjy2JjaCxoAZRUMRnf9iVM+tkZ2ajsexscuAQlmUn3945906SleWIDDKdETKosqyMNpaWPqHSDmYBcacZzATiTg7mKpwFJMKodgnKqkB5aakNgtuTnc2sEcqE8M/M0PToKA339dFgTw/7xPXaop8B8MpxGK/Hw6yu9geJb2bQyd4erfoXaGFqit7f3hJub2mmxro6qqmqUvLjMIwY0OPdIG0tL9PK/JwEhCp0+nzU3NDAqiJCOA7DgW6jUdpfX2dAYmVEtzY1sSpxIHXFf8ig6ooKCSh+cUGxowgFAwEbyNjAAPV3dbEqAUpDiO1Az3e39HRzTZHgjg0IRqh7OzoYlBhkdeU/ymDhFIFe43F6vLqkaChkg+FGt4kV0gr0cn9HD7EYXZ+e0NnBAYW2txgEOg4jYHZ8nCaGBlmwXQNCjgB0Hg4zqMPNDXafdx0qJIbaQSDIDiUCYR6hSgg57k+ODFN3WxvV19Z+BlrLOSaHGwYQcoSZBBhMZmwZQo38qMeINigV7Dvn5uQwa9o6yBqSqVzg9boLw09vbA1cUlyccH5eXsIOdpl8MCYDUu8ns0PVSb014pelsrr6L2WGt6iwUPJXQOrTGmSkhBGh1Kc1SAZSIdA5aakSrP5oR5BFIBerBMl/bTiMCORwW/9EVqU4EK5xtqmzRn1Sm8y3l2cLB+LXDrX37yTPFRnEdZhkyhgQN/QBsOs+Q2qpRJYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xs2XV0sDQRSF3SdRRAmKQYMVFCyoESt2rKgodhR7ib2hErALakDEB0XQP+DfvHJmnezMbDSWnY0HDmFZdvLtnXPvJHFxjsgg0/9CBuX4fDQ/MfEBFXMwC4g7xmAmEHdkMFfhLCARRrVLUFYFsjIzbRDcCfHxzBqhTIixgQHq7+yk9qYmam1oYJ+4nh0fYwC8chymIjeXWV3tFxLfzKCDtTWaHh2hkb4+ent9Cbu6opxKi4qoIC9PyY/DMGJA91cDtDg5SVPDQxIQqlDr91N5SQmrigjhOAwHug4GaX1ujgGJlRFdWVbGqsSB1BX/IIPys7MloNDJCZ3u7VJgZsYG0tXSQs11daxKgNIQYjvQ4801PVxd0u7Ksg0IRqgba2oYlBhkdeVfymDhFIGeQyG6vzin4NaWDYYb3SZWSCvQ0+0t3Z2d0eXhAR1tbND20iKDQMdhBAx2d1NPWysLtmtAyBGAjnd2GNTmwjy7z7sOFRJD7SAQZIcSgTCPUCWEHPd7O9qpvqqKigsLPwKt5RyTww0DCDnCTAIMJjO2DKFGftRjRBuUCvaVkxITmTVtHWQNyWhO9XjcheGnN7YGzvB6w05JTg7bwS6TD8ZIQOr9SHaoOtG3RvyyaFZX/6HM8KanpUn+DEh9WoOMqDAilPq0BslAKgQ6JyZVgtUf7QiyCORilSD5rw2HEYEcbuvvyKoUB8I1zjZ11qhPapP59vJs4UD82qH2/pnkuSKDuA4TSf8GxA29A/VavtS8JaKgAAAAAElFTkSuQmCC",
     "wiki_name": "Death talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Death_talisman",
     "equipment": null,

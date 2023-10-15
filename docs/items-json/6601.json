@@ -1,7 +1,7 @@
 {
     "id": 6601,
     "name": "White mace",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-17",
     "duplicate": false,
     "examine": "A spiky mace.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABf0lEQVR4XuWUQUsCURSFff9gVrNp40/oX7iJVoFEJClIA5owaaGB4WIgFxlCMJQtJiioQEFKKBlaZbs24iL6NSfevF7z5rmNOw86cHZ3mI9zz32ZzP8RQ+xUJSBuLi/wOnnC53xODaUmEYNIS6DVbJYCSgCoVmFSB+q0Wvh4n5kBxGEkkAqVChAHqTlO5LfpNGFyIBVGB/LPevhaLCITXRpLwKhAHEZaAhGkxLCWy5kFtJ3Po1woJIBUGGkyoN1iEfuVCpquG/XppHOMwPfxeH+HWRj+mgyosVfFUb2Onufh9mqA5+Hwp8BJcxgSoH63i4cgQDgeR6moP9etf/3HYnA3LZw3bLyMRtRJ6GIorVvoVmyc1uylVPRpAjG0dkQ6KaYixVDdsNB3DYLplO1EOvoUocSq/END0jnYEkU2AoafOF/VoLlixqo4jDFFbpeW3xt9ikiixLw3apH1KUIxeE7yxFMEintz3U69yOKqeHcMOXMu8SobAiNlFIwQNcw3I2r02Wwa9HcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfklEQVR4XuWUT0sCURTFfQxDX0MXtQnsD6YIDRoyaSETWC4GcpFREChlm2kRLSoQF0IFUSG0zPatBDdB3+vEm9dr3jy3cedBB87uDvPj3HNfKvV/xBA5UQmIy7NTvD7c43MyoYZSk4hApCXQcjpNASUAVKswiQM1PQ8f72MzgDiMBFKhEgHiIBXHCf328hwzOZAKowN1D9v4mk5DE10ai8GoQBxGWgIRpMQwn8mYBbSazaKYy8WAVBhpMqD1fB6bpRLqrhv2aX9vF0Gng7uba4xHo1+TAdU2ytipVtH2fVyd9/DY7/8UOG4OQwJ03GrhNggwGg7DVNSf69a//mMxuEsWTmo2ngYD6iR0MRQWLLRKNg4q9kwq+jSBGLw1kU6CqUgxlBctHLkGwTSLdiwdfYpQYlXdbUPS2VoRRTYChp84X1WvPmfGqjiMMUVuFGbfG32KSKLEvDdqkfUpQjH4TvzEEwSKenPRSLzI4qp4dww5cy7xKhsCI2UUjBA1zDf11roJTFG3HQAAAABJRU5ErkJggg==",
     "wiki_name": "White mace",
     "wiki_url": "https://oldschool.runescape.wiki/w/White_mace",
     "equipment": {

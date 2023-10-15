@@ -1,7 +1,7 @@
 {
     "id": 21428,
     "name": "Wilderness cape",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2017-08-24",
     "duplicate": false,
     "examine": "A cape worn by fighters in the Wilderness Wars.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgElEQVR4Xu3VsUoDQRAG4Nyb5BF8BEEkiBYKIgRBAoIJElIIAcHKwsYiBgMBn8TKQkTEwsInWvl3+W9n584E5GYvhQM/t7dwtx+b2Uun81+tVeHStFqFu50eJmkRFjFEVGHZKsVsdbs+EsZ5/aRBVRdNF84KKtz9y3kZ4tKfJxsoxcxeL3weP0Y+EpcBVPjFTya7PhKD6+LzMoEQYwSKmLPrfde/6pUhhpEQUwx+ImJOp3v+insEkPn70HpXUAFDEK7EEJQJE3pAY9gzwAxuDvJh2BsM5oBiAy+/xiXm6XtidZrCrkgMxphDMz+8Dd3d8+BXTMOgsOg6DL838qNojuEurcPwQ2iK4VhjcLIkBvdmuyMBdePj8U4uDGs1Ru4OxhKk39RAhUX/gjEARQzCP02JQSTGcHcihpC63QEG8xrTMCgsKCF1GAJkDDCo0CsIYRrDewJk9NsaqADSGKQOo582qvR0bQRGgo5G29Z9sqqqIN0v+okMVT05LUFibQLkBwyDw3JkixwUAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfElEQVR4Xu3VsUoDQRAG4NxzCBojIqJgBAOCiQQCQsDCysLGIhJMEfBlLK0EQRArG59u5d/lv52dOxOQm70UDvzc3sLdfmxmL53Of7VWhUvTahXudnqQpEVYxBBRhWWrFNPvdn0kjPP6SYOqLpounBVUuPuX8zLEpT9PNlCKmb1e+Dx+jHwkLgOo8IsfT3Z8JAbXxedlAiHGCBQxZ9d77uRqtwwxjISYYvATEXM67fkr7hFA5u9D611BBQxBuBJDUCZM6AGNYc8AM7jZz4dhbzCYA4oNvPwal5in74nVaQq7IjEYYw7N/PA2dHfPg18xDYPCousw/N7Ij6I5hru0DsMPoSmGY43ByZIY3JvtjgTUjY/G27kwrNUYuTsYS5B+UwMVFv0LxgAUMQj/NCUGkRjD3YkYQup2BxjMa0zDoLCghNRhCJAxwKBCryCEaQzvCZDRb2ugAkhjkDqMftqo0tO1ERgJOhxtWffJqqqCdL/oJzJU9eS0BIm1CZAfjW1a0L9dBw8AAAAASUVORK5CYII=",
     "wiki_name": "Wilderness cape (Wilderness Wars) (Torvesta)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wilderness_cape_(Wilderness_Wars)#Torvesta",
     "equipment": null,

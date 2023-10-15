@@ -1,7 +1,7 @@
 {
     "id": 1166,
     "name": "Black full helm",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-02-13",
     "duplicate": true,
     "examine": "A full face helmet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4klEQVR4Xs3WS2sTURQH8Mk3mFU23QSyEAKFUCgSiuCmuLAbce3GjWsXLnziWxQVRVFQ0VKlaZWqpdT6aCGltr4QX8Wvc+3/Dv/JuWeOQyYZpRcOmczcyfnNvefeSRRt/1ZxdljX/3mruBdTp9zc5Akfzx4dd7MPjvkgYnXhquvMX3ErLy8bKP0QA8MTEFEAMTRm+fkl9/rphSAxvuOajhBVCFlx849PZ1D4BIRB0NLsObcwfcb3xacFQn+J3tyYcj/W7veHIgjHHB2C3s5d9CD2BQj3ahDu+7U+6X5/am/FjAehX7NW86Gzq5YMO5+aICS1QIvts/4an34k2p9BrS1eC0A4JkhnV60STAMSsbjxXYMABwj3TVRPut3xITccTWRAG0s3ygNxlHDOAnGa9sZH3Vh80IOqUSNAfXwjQe1iINaFBiG5BrEf7tsTH/GYRjSeAX1+dzMA/Xz/cHAQzgNEFEeS9TMeH/b1Y4G+LN8qF4QAQIJ0QdejXa4VH8iA0Pdb504K2vzwJMUUBkkUftwC4RprCNOmVxn6fu/cNUE6+19asnyRLA8kCxrTta96Ph2hDGj1Xr+gZA/CCOWBiEbsqNddbWjIh64d3hOAxKaos6uWLHkLhOCPo99Is+ljuNHwIInSo1MqiCgEEqDPWKuVhkQRJFGlguQocTcGAAl3jo4Go2RhCFp/dV2AZlJMTyCsHAvEvxgEIQDRGA3C6OC1IUeox9FB64J0HeF8HsiqIU4XXhulgYiyQNZ0WSDs0hJElM5utARkTRvOIYFEsYbyQPjb8XXldgrCHlRgHwpBctoIQgL0Q1Fbq0uCMDoDg7DK+gUl0xBOV2kgPW04TxD3IwnCdxY/+wKEJR+AtvagwvuQNW0ShGO+wxjcPHGfrJ9SQNa0SRCuyb8lOCYI/WT9DAhC6z51XkiMDA3CpihBjAKgKOK2nhcaKEPWTymgXptG9oJldPv+p6aRVuh7tnX7A7V4GCOtR0nCAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5UlEQVR4Xs3Wz2vUQBQH8FnCUlxkS2lxqT20Ij3oSbx48erBi1Yr/kZRUVFEEEUpRdFaiq1SKPUHKi1USi1FK4KoKIr+ZSPfCd/sy8szbHajdOCx2WSy75OZN5N1buO3irfDuv7PW8U/Hh/102OHQkzdGfGTtw6GIGJ57pxfmj3rF5+cMVD6ITqGxyCiAGJozMLMaf9i6mQqMb7jmo40qhCy4mfvHsmg8AkIg6Bnk8f93P2joS8+LRD6S/SPtXH/beVmeyiCcMzRIejVo1MBxL4A4V4Nwn3fV8f8r/UH/vf6wwBCv11DQyF0dtXiYedTE4SkFmh+4li4xqfvdTszqJX58ykQjgnS2VWrpKYBiVjc+K5BgAOE+4arh/1AtNd3u+EMaO35xfJAHCWcs0Ccpu3RAd8f7QmgqqunUO9fXkpAiEIg1oUGIbkGsR/u2xbtD5i6G8yAPry+nAa9vd05COcBIoojyfoZjPaF+rFAHxeulAtCACBBuqBrbqtvRLszIPT9vHQtAf18dy/BFAZJFH7cAuEaawjTplcZ+n55c90E6ex/afHyRbI8kCxoTNeO6olkhDTo6/KNdkHxHoQRygMRjdhcq/lNXV0hdO3wHgmSm6LOrlq85C0Qgj+Ofr09PSG66/UAkig9OqWCiEIgAfr0NxpJSBRBElUqSI4Sd2MAkHBLX19qlCwMQatPLyQg7NLEtATCyrFA/ItBEAIQjdEgjA5eG3KEWhwdtCZI1xHO54GsGuJ04bVRGogoC2RNlwXCLi1BROnsRotB1rThHBJIFGsoD4S/HZ8WryYg7EEF9qE0SE4bQUiAfihqa3VJEEanYxBWWbugeBrS01UaSE8bzhPE/UiC8J3Fz74AYclLEPagwvuQNW0ShGO+wxjcPHGfrJ9SQNa0SRCuyb8lOCYI/WT9dAhCaz51XkiMDA3CpihBjAIg57it54UGypD1Uwqo1aaRrWAZzb7/qWmkFfqeDd3+ABW6LroKQvwEAAAAAElFTkSuQmCC",
     "wiki_name": "Black full helm",
     "wiki_url": "https://oldschool.runescape.wiki/w/Black_full_helm",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 17240,
     "name": "Beam",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-22",
     "duplicate": true,
     "examine": "A wooden beam.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBUlEQVR4XuXXW0sCQRgGYPd3dCN0IQSCCBLdBRESSQiGkmJkkkmZpGaJimh2EjtYRAQR/dQvvhm+3dlpdj2tuxe9MFei+/C+sxf6fP8rGqiPJ9EgurYEsXU/pKLLkIkF4CixAsVk0G0UbwEhiQ0OycUDDFIvbEE1H2Wfh/x+N1C8FYRgKwjBVs7SQWgUt90G8VbkeUSMSyA+kTwPQirZELRKMVM7CwZxiDgPYeoHYR3jAoi3QvPIrXTKO+yI7RConNt0GmSeh1pBCLbSq8R1jAsgoxVxHhEjglRzOQTiE1m10siH4aaW0DFWIMTMCVJDqBWEtAoRhhFBdnPNCOIQFYIaQQieu/qujrECiW8XYSYE8S9YIQjSLUZgcJVkGCuQPJcImRgjIuQ2EIHnsZliGBXI6v5M2QpGs23jurQKL+09hpFB8v0RQTNMRNHgtpGDp27B1AZCXjtphpkWNMNEYgzQ++0pfA3P4WdUG4tRgWSM/KQJYwZ9DspTgehCzzGRHAP01j9hoO/nyh+MHWjOieRo0L/ch2E7z0Af9yU2mxVGBjnUihgziGazg9BZAAZjgEa9YwbCluwwDt4XVTjooXmo3yNEqSDyRAvAYAwQtYSocRj5VxyMBt2LLHvTxJZEiIsYjAadaoa1hChqySMMxfirSy15iOExHmrgPMPIEd8izzFe5he65tf80mejIQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAElEQVR4XuXT3UsCQRQFcPcpCklCqYegtDDBxFTKDLMM07IEFc3MSuxDiiCCIPrzb9wZZvfuNLv5se4+dGCeZN0f58z6fP8rGqiPJ9EgsjIH0dV5SEYWIB31w0F8EQqJgNso3gJC4mscko35GaSa34BKLsJ+T4XDbqB4KwjBVhCCrZykAlArbLoN4q3I81CMSyA+kTwPQsqZJWgUo6Z2ZgziEDqPwFT3gjrGBRBvRcwjt9IqbbFD2xGgUnbdaZB5HtEKQrCVTjmmY1wAGa3QeSiGglRzOQTiE1m1UssF4eYsrmOsQIiZEqSGiFYQ0siHGIaC7OaaEMQhKoRoBCF4bqvbOsYKRL8ugRkRxB+wQghIuxCC/mWCYaxA8lwUMjKGIuQ2EIHnoZ5kGBXI6v6M2QpGs23jurgMz80dhpFB8v2hoAkmEtGgV8vCYztvagMhL60Uw4wLmmAiGgP01juGz8EpfA/P/sSoQDJGftOIMYM++qWxQOJCTzGRHAP02j1ioK+n8i+MHWjKieRo0L3YhUEzx0Dvd0U2mxVGBjnUCo0ZJGazg4gzAwzGAA07hwyELdlhHLwvqnDQfX1fv0eIUkHkiWaAwRgg0RKi/sLI/+JgNLg6z7AvjbZEIS5iMBq0KmnWEqJESx5hRPglxSNa8hDDY7zUwHmGkUO/Is8xXuYHjxggzRRVSl8AAAAASUVORK5CYII=",
     "wiki_name": "Beam",
     "wiki_url": "https://oldschool.runescape.wiki/w/Beam",
     "equipment": null,

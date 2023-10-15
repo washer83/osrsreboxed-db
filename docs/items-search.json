@@ -64295,6 +64295,12 @@
         "type": "normal",
         "duplicate": false
     },
+    "11628": {
+        "id": 11628,
+        "name": "Ava's device",
+        "type": "normal",
+        "duplicate": false
+    },
     "11640": {
         "id": 11640,
         "name": "Book of knowledge",
@@ -162586,5 +162592,65 @@
         "name": "Magic lamp (magic)",
         "type": "normal",
         "duplicate": false
+    },
+    "28591": {
+        "id": 28591,
+        "name": "Tainted essence chunk",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28592": {
+        "id": 28592,
+        "name": "Tainted essence chunk",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28593": {
+        "id": 28593,
+        "name": "Warped extract",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28594": {
+        "id": 28594,
+        "name": "Warped extract",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28595": {
+        "id": 28595,
+        "name": "Twisted extract",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28596": {
+        "id": 28596,
+        "name": "Twisted extract",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28597": {
+        "id": 28597,
+        "name": "Mangled extract",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28598": {
+        "id": 28598,
+        "name": "Mangled extract",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28599": {
+        "id": 28599,
+        "name": "Scarred extract",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28600": {
+        "id": 28600,
+        "name": "Scarred extract",
+        "type": "placeholder",
+        "duplicate": true
     }
 }

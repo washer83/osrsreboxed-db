@@ -1,7 +1,7 @@
 {
     "id": 28571,
     "name": "Trinket of undead",
-    "last_updated": "2023-09-20",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-08-23",
     "duplicate": true,
     "examine": "A magic rock! This one gives you random thralls.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xs3W3UsUURgG8N0rUcIQJQkvVCTDDL8wM4zoP7AoKiqKioK6C0MRMfoQqRRBzKJgxUBMxISgiyiK+stOPGd4ju95fafdacfwwMPOzpzZ89vzNVMo7P9SdHas63teim5u6oJ7OXneZ3binJt5NOpDxNriLfdh4aZbmb9hoPSfqBqegIgCiNGY0qvr7u3s1ahhfMc1nRiVCVl0C9MXd6HwCQhD0PLMFbf45JKvi08LhPoS/WNzyn1bH/s3FEE4Zu8Q9P7FNQ9i3TQQ7vu+Mel+bT91v7efexDa6Gtr89Gtq5J0O/81QWjUAi09uxxAOLZA60u3IxCOCdKtq1KMhgENcXLjuwahcSA4vGmgzTd38wOxl3BOguScKJdP7+4FEJIJxHmhQfjnBKHe0Y6OKEfa283U1tT4+hHo43j1IJwHCHWOdXZG0TgJ3BMQgqHE9d7ubne8qyuk1FgbooEAHairi0A/tx4HTGaQROHaQE9PCBFbq6s+Fgqgg/X1qSDdekpJJiJWDEH4fqKvNwQgQnSIygmU7EHoIYJw7tTgoM/J/v6AYuPlQI0NDRFIboq6dVWSJS9BOHd6aMiHIKLkMGmUBB1qasoHhO+YwGeGh02UBMihxESXoNaWlrDSqgahAYA0iiGIvWaB5BzCLk1MRSCsMIJ0L0mUhkkQtwWgDjc3+9/4uvYwDFmFvYOyA9K9dHZkJKAsmJzsRGGocD8eG7mBZC/JzVBGzy2i2DufS/cjEFG6daMkID1sXG1pAVb3FnsHrx1fVh4EEPagDPtQDJLLH+fwUEUD+MR5PlJwHyc/UJjMOIfnXtUgrLJyILzfyHcg7uQYPvQWjlE3V5AeNpyXIL5NEsQdnb9B0MbrOxEIe1DmfcgaNgnCsQVCcB/ArJsLyBo2CcI1+VoiQajHl/ocQCi7V5EViZHRILxLSxCTAVQocFv/WzRQRs6fXECVFo2sBMvs1P1PRSOt6Hv2dfkDJ5gWNRlKT9YAAAAASUVORK5CYII=",
     "wiki_name": "Trinket of undead",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trinket_of_undead",
     "equipment": null,

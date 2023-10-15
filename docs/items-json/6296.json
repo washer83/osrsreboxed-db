@@ -1,7 +1,7 @@
 {
     "id": 6296,
     "name": "Spider on shaft",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "A raw spider threaded onto an arrow shaft.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGklEQVR4Xs3V30tUQRQH8N3/wHdfFnoI9kmCiBChWEJCiaQFIVCIoHwoqDAkjdAkI8mwHxrYUotFq4WViZmlsGLaLyIr6d+Z/M7le/fMaVb3urdw4HDvzs7ufPacc2cTiZ0/ksYfvvf/+Uial+NXzFT+so3nj3rMZK7bBhFLMzdNcXrQLL664UHpH1E1PAARBRBDYxZeXDdvn11zNsZrvKfDRUVCJs30496/ULgCwiBobrLfzDzts2tx9YGwXqLXV8fNj+UH20MRhHtmh6B3UwMWxLXlQPjcr5W8+f25sBETFoQ96lIpG3p3NYK081cThE19oNnC1RCEex9oeXbIAeGeIL27GkmnDNiIzY3XGoTNgWB5y4FW54bjAzFLmPOBmEmCkDV8jwR9mpegQjQQ+0KDsLkGYb0GYe50psZBfXl/2wH9/PCwehDmAUIET0fSXMods1eCiEnXJhzQ14W78YIQKCUx7d0H7PXCneYQh+grtIYYBrL5vTgagtY/PgkxkUEShV9K0LnhJtMx0GhO9mYsbj6XsplpbKsLIcc7603r+Xp7v1a87wXp3cuM4AvRDxqE+a6xFgs61X/IYlo69pnOkSP2enbosF3DDDJDa0tj2wUFZxAy5APJ/mEczKZttpgdZA1X9g8+44DEoah3VyN45H0gBL+cTxrWD75ut9lqOrHH7M3sMrW7a0xPPmvauhrC7MQKIgoBEE5cZgllyp7ZbxEol84c1scKklnCVYPQLw1H0xaE18giPsNSEbTy5pYATYSYikB4wnwg/h1IELIiMT4Q1uJvQ2aowuxglEC6jzBPENbJww8N7wOxXPjbiA1EFObZyBpDkMykBOGUliCi9O6eEYB8ZZOgi82lMm0FQka/Ld4LQTiDIpxDLkiWjSCWDPMS4wMhO1WD8JRtBcJmmPOB2GssV2wgXTbMSxA21+UiiGsBwiPvgDbOoMjnkK9sEoT7zUCyf2IB+comQXjP19AIrJP9UyUIwz3+y4XuH4YG4VCUIEYEUCLBY32z0EAZsn9iAVU6NLISLKO09j8NjfSF/syOHn8A6+x3j92NOk4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADGUlEQVR4Xs3V7UsUURQG8F38IEUsRFFotGliYQsiIhGUUFBhCGlUJhlJir0TSEslUmSJ9IYk9oKFgiEmUkYQFUVRf9mN5w7PeOZ0VnfcKbxwmNm7d/f+9pwzd1Op1T/Szg7r/X8+0u7x4HH3cOCYj5Gb7W443+aDiJmxc256tNtNPTlroPSPKBkegIgCiKExk4/OuJcjpyMb4zXe0xFFxUKm3ejtE3+hcAWEQdDz4U43drfDr8XVAmG9RP+YH3TfZq+vDEUQ7pkdgl496PIgri0Ewue+zw24XwtD7vfCfQ/CHg1VVT707moEaeevJgibWqDxe6dCEO4t0Ox4TwSEe4L07mqkI2XARmxuvNYgbA4Ey1sINP+iLzkQs4Q5C8RMEoSs4Xsk6P3E+RCEiAViX2gQNtcgrNcgzO3LlkVQH15fiILe3igdhHmAEMHTkXZH87v8lSBiMuWpCOjj5KVkQQiUkpimti3+evhibYhDdAzVhxgGsvl5+moI+vnuToiJDZIo/FKCDvbVuOauarfnZNbjJvJrfGaqG9eHkIaWCld/qMLff3lzzQTp3QuM4AvRDxqE+db+Og/a27nNY+qaN7mWKzv89UDPdr+GGWSGvs70rxQUnEHIkAWS/cPYmsv4bDE7yBqu7B98RoLkoah3VyN45C0Qgl/OJw3ru582+WzV7N7gNmbXuvJ1Za79Vs41tlaG2UkURBQCIJy4zBLKlNu/2SNQLp05rE8UJLOEqwahXyp3ZjwIr5FFfIalImjuWW8IwilNTFEgPGEWiH8HEoSsSIwFwlr8bcgMFZkdjEWQ7iPME4R18vBDw1sglgt/G4mBiMI8G1ljCJKZlCCc0hJElN7dGAHIKpsEHaldLNNyIGT009TlEIQzKMY5FAXJshHEkmFeYiwQslMyCE/ZciBshjkLxF5juRID6bJhXoKwuS4XQVwLEB55CcIZFPscssomQbhfCiT7JxGQVTYJwntWQyOwTvZPiSCM6PFfKHT/MDQIh6IEMWKAUike60uFBsqQ/ZMIqNihkcVgGYtr/9PQSCv0Z1b1+AOrlYDIZ2mwUgAAAABJRU5ErkJggg==",
     "wiki_name": "Spider on shaft (raw)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spider_on_shaft_(raw)",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 4042,
     "name": "Hooded cloak",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2004-12-13",
     "duplicate": false,
     "examine": "The colours of Zamorak.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWUlEQVR4Xt2XwWrCQBCGs2/gI+SckxfxAXoopUUserXQFknpu3gRRJAefNOVNfyZ2dnJqc5E/GHIJpDs5zeTgFX1+AmxrNES4uZpUtRIUCG2r9icCkDTuvaGCvHrmTbvAPJr8g7DhHjcLvvNqUVkzRGog5ElYZyACObUvhdQAHOCScntHL4Xcf/5VsA4Ael2/n5WPZyjnXJuYAdA59+1L1ACgB2s0a507ghEMEN2eLuMgXQYDuRop4ThdpyBchispR0OZgikw2CdhpoDcRgzIP72SDsJCFDp3NwO//IO2eFHQzsh7j5eegDMh2YHw8yB5NNukLxVaAnWMMLtGLaL7HAAvoY5fKnN27WeN5kRzI+E0YDk0/6ZDmY5a65HlIRBm/igGwGlhAIIkNqAcxgjoBT656AZgzUHOxT6xR2UVk52tJCtISB5h3lgS8KNBoTwVo7UruHcFYxFLik4k+V4F3mXAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABU0lEQVR4Xt2XTYvCQAyGHfbuSTwufqCiXkREXVB/jCdBEAQP/vuRsbxNJpOe3KTLvhA6LbTz+CQt2On8/4RYVmsJcf39VVRLUCEexticCkCrwcAbKsTdkDavAPJr8g7DhHj7mdWbU4vImiNQBSNLwjgBEcz9MC+gAOYEk5Lbue6n8bKdFDBOQLqdx3FRwznaKecGdgD0PC19gRIA7GCNdqVzRyCCabLD22UMpMNwIEc7JQy34wyUw2At7XAwQyAdBus01ByIw5gB8bdH2klAgErn5nb4l7fJDj8a2gnxvBnVAJgPzQ6GmQPJp/1C8lahJVjDCLdj2C6ywwH4GubwpTZv17LfzYxgfiSMBiSf9mEqmFmv+z6iJAzaxAfdCCglFECA1AacwxgBpdA/B80YrDnYodAvrqC0crKjhWw1Ack7zANbEq41IIS3sqV2NedPwVjkBZ2aI8y2vj7RAAAAAElFTkSuQmCC",
     "wiki_name": "Hooded cloak (Zamorak)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Hooded_cloak#Zamorak",
     "equipment": {

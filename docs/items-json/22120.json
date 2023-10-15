@@ -1,7 +1,7 @@
 {
     "id": 22120,
     "name": "Wrath talisman",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xs2X7ytDURjH3X/Cm71ZeaGUWkpaUiQtJSWyRiRFXsyyyK/QiPnNMHcYLRsTlijy5z16zvXce87ZuMy5d771bd1u99zPnvN9nrNVVSmRBob/hTToaG2F3bW1T6iKg1lA5AqDGUDk0mCuwllAPIxsl6CsCrS1tBRBkL0eD7ODUAZEbGEB5qNRiExMQHh8nH3i9fZqjAFQ5QjG5/Uyy6uVIf6baZA+PobN2Ao0+/2CRwZC0N/TA12BgJQfxTB8QC+OErC/vg5NjY2mCWh0cBBCfX2sKjyEchgCus9k4GRnxwTgoXgwNAHJK/5BGnS2twtAhWwWcudn5ks3lpcYiF4dMk1gDoS4GOj14R5e7vJwljiEw3ichZeqMzsVEbaOD7K8cpnSWDh5oPdCAZ5vbyCj66Af7DMohMFuW5yeNoGGgkF3gN4eH+Apl4P8ZRqukkkGhQHHjiOomckwC7ZrQJgjBLpOpRjU6d4uu495WpmbY/MIW59gFAKhiqF4IJxHWKXE1ha7jzkaGx6G3u7uz0A7co6J4UYjEOYIZxLCYLhxy3BSY37kY8QxKBnsO9fW1DA7tHUoa0jaucHncxeGTm/cGjQ/oevr6kwr7DLxYCwFJN8vZUXVsd8a/mV2llf/pYzwyofmV0Dy0w5Is4XhoeSnHZAIJENg51SkSmj5RzsGmQdysUoo8a8NwfBAitv6J7IqRUB4jWebPGvkJx2T8e3F2UJAdK2ovX8nca6IIK7DlNK/AXFDH8qQFP3Sc4T5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOUlEQVR4Xs2X/StDURjH3R8k0rSIWOalKKbNNEla0YgQMS95mc3MzMuG0Mrr1FhJfiB/76PnXM+955yNGffe+da3dbvdcz97zvd5zlZRYYgUUP0vpECbwwGR1dVPqLKD6UDkMoOpQOTCYJbC6UA8jGyLoPQKtLa05EGQq6uqmE2EUiGW5+ZgdmICAn4/jI6MsE+83lpZZgBUOYLpb29nllf7hfhvpsBZIgGbS0FobmoSPNjvgb6eHujq6JDyYzAMH9DTvThE19agsaFBMwENeb3gcblYVXgIw2EIKJtOw344rAHwUDwYmoDkFf8gBTqdTgEod3UF1yfH2kvXFxcYSLLSo5nATAhxPtDrQxZe7jNwvBuD2MYGCy9VZ3o8IGwdH2R55V9KYeHkgd5zOXi+u4X00REkd6IMCmGw2+YnJzWgAbfbGqC3x0d4urmBzPkZXBwcMCgMOHYcQU2NjbJgWwaEOUKgy1SKQR1uR9h9zFNwZobNI2x9gjEQCJUPxQPhPMIqxUMhdh9zNOzzQW9392egTTnHxHCjEQhzhDMJYTDcuGU4qTE/8jFiGpQM9p1ra2qYTdo6lD4ki7nebrcWhk5v3Bo0P6HrbDbNBnaZeDAWApLvF7JB1Sm+NfzLillevUSp4ZUPza+A5KdNkFIUhoeSnzZBIpAMgZ1Tliqh5R/tGGQeyMIqocS/NgTDAxnc1j+RXikCwms82+RZIz9pmtRvL84WAqJrg9q7NIlzRQSxHKaQ/g2IFfoA3FOVNV0lkdcAAAAASUVORK5CYII=",
     "wiki_name": "Wrath talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Wrath_talisman",
     "equipment": null,

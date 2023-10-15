@@ -1,7 +1,7 @@
 {
     "id": 13071,
     "name": "Chompy chick",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-03-05",
     "duplicate": false,
     "examine": "A small boisterous bird, a delicacy for ogres.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADK0lEQVR4Xu2W70tTURzGd/6DXvXGN8JeCANBBkOGDCYSIpNwbCC3seEabjI3mU63pTY215Ytl8utuVqmZrG0lmWk/YK06EU/1YrCl/0lT51z3e68Wi/aDyN84OFezr3c74fnnO+5RyI5UllFwPufEEFq0gGn7eRhQ/Gp/Nh5hWe5CGprasDp1YcFRRAZaAWnqYfPKEfcpUI61gePU4+2FkW1oQhWUiZMBzrg7VahR1uPC3YlYmNWBLxGcDo+pYba2mpBEeQSBkyNtMNhUEIuOwazpg5Dp+QI25RQqeqrD5Q+p4avRw5dq5QVj4/b4PcaYOxshkxGQaoKRJVvc97v3l7G4uIwQmOmAkyVgSQSoSjB5qcUlu/7YbG0HkY6YhFsb2UQi1khl0tZUkJ6VRdf+OuXm4hP2pBM9DJfjFrgduv+AHbQWMki2Nl5gO/flvDxQ5KBpNN9mLnej/m5QfjPGqDVKtmYAMAD6j0W0VjJItjanGYQRkMzNtYnkEo5kLnmYqb3NqsGSm0LurpOMLg8SN4Hw/2V+K5Sc5rCR5ezfiRjvQUg6vWXUQYSCBixthpCNutjoOZwP3MxIL0vsRGElv+8fQMvVs5jIePBVNSOdLwPs9NuBkBN4eh1ZJhjadKF7wx59oCVZZvIt/yb55fw+mkMj5aCDKQY6vaMF4tzw6zzaFIcp2YbJ7XF50BvcLAc6RSLMJiNtQl2vbswUoCaudKP7KwPD+8EkMuNIhw2s/UklR4vuGzpCCIMJg/0ZDnMIOj5iE5h7tYoG3t8b4xtBXZ7eyGhCsDkxUPRqaOmCzyTcLFpo9O4vhrF+40EYhEr25voGqogTF6EpUHTmb86yK70hzsePI3QqImlRCE9Lj1UTVU7DfBd16TgExA7GTbA59RA384f4KoAREUwYBN+sMWmY5EzevSY1AgOdeyCVkxCCrTgwQnw79CUZHUS5gpBEbhsWowMcZjwd8KoV4qK7YK4OzEZ4ArAigb+nf3gJYlA1yZBR5sMLWopGuU1qJMeKypE0G1UwPzreKtqlDAIAbZinbZ/Ae8t9PvnFYDhJV7A4kLiZ+LnR/ov9RPWDJuRYRbx7wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLUlEQVR4Xu2W709SURzGuXPNyRyuwWTCNJGZAzavMCQciDBRFFhqBBJmJGkFqZRlTvs1zUxzNVtWq9aWzVqvaq2yZvXCzf6A/qInz7nCxav1IuDams/27N6dc8f3s+ec7+FIJHvKqRhw/ifEYKjfCZf94G5Dcan8XH+Fp7M9KCosBGtQ7xYUg55WDVhtCfwmOQbcKiRjzfC6DKiqUIgNxWBhyIzhYA18DSo06kpwwqFErNuGoM8EVs+lVFdZKRYUg7m4EWc7q+E0KiGXFcCiLUZ7nRwRuxIqVYn4QMljavgb5dBrpLT4QK8dAZ8RptpyyGRFYgMRpdqc87u3ZzA93YFwtzkNIzKQRMIXZbDyaRDzdwKwWjW7kY5QDFa/XEQsZoNcLqVJ8emJLq7w929XMNBvRyLeRH0yaoXHo/8D2E5jWYvBj/W7WFubwccPCQqSTDZj9FILJsbbEDhihE6npGM8AAdo8FoFY1mLweeVYQphMpZj+WUfhgadGLngpibvdpsWSl0F6usPULgUSMo7w/2VuK5Ss9r0j85PBpCINaWBiJdeRClIMGjCw8Uwpib9FNQSaaHOBCTvWTYC3/JfVy/j+cJxXBvx4mzUgeTpZowNeygAMYEjz84OlqZJNr4r7N0ClpNjItXyb56dwusnMdy/FaIgmVA3Rn2YHu+gnUeSYlk1PTiJrX4nmkJtuUgnUwyFWX7UR58zVzvTUKPnWjA15se9m0cxN9uFSMRC95NUui/tnKXDi6EwKaDH8xEKQe5HZAnnrnfRsQe3u+lR4HBUpxPKA0xKHBRZOmKywUfibrpsZBmXFqN4vxxHrMdGzyayh/IIkxJD0yDpTJxvo0/yh9sbOoRwl5mmRCC9bgNUZaLdBriuK1NwCQidiBjhd2lhqOYucCIAETFotWu2LAm/NBu3zMMGNJrVCLXXbILmTXwKpODOCXDfkJRkxRLqPEExcNt16Gxn0ReohcmgFBTbBPHUoj/IpoEV+7lvtoNnJQb6KglqqmSoUEtRKi9EsbQgoxCDBpMClo3rrapUQiF42Lx12vYNvLXQ7+fzAMNJuIGFhYRzwvk9/Zf6BbV6PVB/WMV4AAAAAElFTkSuQmCC",
     "wiki_name": "Chompy chick",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chompy_chick",
     "equipment": null,

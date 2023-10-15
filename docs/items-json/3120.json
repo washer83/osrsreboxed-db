@@ -1,7 +1,7 @@
 {
     "id": 3120,
     "name": "Adamant claws",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-08-09",
     "duplicate": true,
     "examine": "A set of fighting claws.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADHklEQVR4Xs3X/UtTURgH8O0/8Td/EvxFZD8MDBEZG8JYKBoTbYhQBIEEURG9UFFUFEVCRYpF08JKxOxFYWLaG5GV9O+c/J7L9+45j2e2u93CAw/37u7cns+e82aJxP5vSeMP3/f/vCXNy5mzZn76jI3nU6fN3MNTNohYW7xuKgvXzOqrqx6U/hFNwwMQUQAxNGblxRXz5tklJzE+4zsdLioSMmkWHp/bhcIVEAZBy3MXzeLT87Yvrj4Q+kv09uaM+bH+oDEUQbhndQh6N3/Zgti3Fgjv/dqYNr8/l3di1oKQo72lxYbOrlpQdv5qgpDUB1oqXwhBuPeB1pduOCDcE6Szq5Z0hgGJOLnxWZbdF7VAm8u34gPhlzNh12CX6S31muyhbBj94/1m4OigDYmToE9vJagcDcR5QZB9sbvddOY6Tfpg2oL6hvucIGj0xGgYEvXl/W0H9PPDo8ZA+NyaajVt6TbTkekwqXxqV4UAQpUYvgp9XbkTP4hV8lVIgoYnRmwQhgXwvXIvBG1/fBJiIoOIAgYVAgih55CsDkEStlWZ9IJ09hqtumLkPJKByV2YKDjPSidLdu7I6iBQoa21+42Cgj0IFfKBDhS7Tc9Ijx223JGcfcYdXSIkDHuXAxKbos6uWrDkNQjPMZlRFYCIIYgowPEe/g1ZnVhBEgVMdjwbYgpjBZM/nLeTmgC8J1dXrCBZJVzxPZIDw+VOEHCEadDG65sCNBti6gJhhflA/BMjM5Cxq0lCWB3OGQlCdXBsyArVWR20KkjPIzxHAibHrjx0bMipDKJ4vBiiOFw4NmIDEYXnSIBTG0lkRXiGca7p+YNdWoKI0tk9LQD5hs0Hwr7DyqBauMqTnv2/rd4NQdiDIuxDLkgOmwThiudyiIiTIMCbBmGV/Q2EZFx1PNUlTg5XbCA9bHguQZgv3J2xIXL+4D32BQhL3gHt7EGR9yHfsEkQ7gniDs2DmKuRfWMB+YZNgvCd/F+JBKGfnD9NgtCqB+ReITEyNAibogQxIoASCW7re4UGypDzJxZQvU0j68Eyqn3/U9NIX+h39nX7Ax6SDkxUVvB2AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADIUlEQVR4Xs3X/UtTURgH8O13QQRxMMmXjQlbomuoLZAiCCQIKoqKiqKiopAgikKk6EWkNwSxFyoUDDGRMoKoKIr6y574nvG9e+7jme1ut/DAw727O7fz2XPOeY4lEpu/JcUfvu//eUvK48lD8nDioIvpmwdk6vp+F0QszZ6RxZnTsvDklAdlf0TT8AqIKIAYFjP/6KS8mD4eGhif8Z2NMCoSMikztw6vQ+EKCIOgZ1PHZPbOEdcXVx8I/TX6x+qkfFu+1hiKINwzOwS9enDCgdi3FgjvfV+ZkF9rd+X32n0HwhjFnh4XdnTTKmnnryYIg/pAc/eOBiDc+0DLc2dDINwTZEc3LRmaBgzExY3POu2+qAVafX4+PhB+OQfsHOyU3nKvZLdlg+gf7ZeBXYMuNE6D3r+8EIAQkUBcFwThWVtXm3TkOiS9Ne1AfUN9oSBoZO9IEBr14fXFMOjtjcZA+NySapHWdKu0Z9ollU+tyxBAyBLDl6GP85fiBzFLvgxp0NDYsAvCsAE+L44HoJ/vbgeYyCCigEGGAELYNaSzQ5CGfXlzxQuyo9do1R2j15EOLO7CWCH0rLyv7NaOzg4CGfq6dLVRUKUGIUM+0JZSl3QPd7tpy+3MuWes6BqhYahdGqSLoh3dtMqWtyA8x2JGVgAihiCiAMd7+Dd0dmIFaRQw2dFsgCnsKEh+e94tagLwnt5dsYJ0lnDF9xgcGG53goAjzIJWnp4LQKjSxNQFwg7zgfgnRmYg43aThjA7XDMahOzg2NAZqjM7aFWQXUd4jgE4OKpycXcxlBlEaU8pQHG6cGzEBiIKzzEATm0MojPCM4xrza4fVGkNIsqO7mkVkG/afCDUHWYG2cJVn/Ts/2nhcgBCDYpQh8IgPW0ahCue6ykiToMAbxqEXfY3EAbjruOprnF6umID2WnDcw3CemF1RkHk+sF77AsQtrwGoQZFrkO+adMg3BPECs2DmLuRfWMB+aZNg/Cd/l+JBqGfXj9NgtCqB+RGoTE6LAhFUYMYEUCJBMv6RmGBOvT6iQVUb7PIerCMat//1CzSF/adTd3+AH13Hyv0k1wnAAAAAElFTkSuQmCC",
     "wiki_name": "Adamant claws",
     "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_claws",
     "equipment": null,

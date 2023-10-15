@@ -1,7 +1,7 @@
 {
     "id": 8132,
     "name": "Guard dog",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": false,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcUlEQVR4Xu2Vz0sbQRTHM/9B714CPQSEgJeQQwkkiISQIJUGZJFIophI0oqpVbQtkh4qXvyBgngpvXj0JIgeCqV/2et+3+TtzO5GpGaSUMgXHjs7O7PvM2/em0kkpppqqv9SirTZ7xOTot7WJm03an0oRfub6xHAsUrRt26HIVIzr6iay/E7+ueSyUlAKbrsHTBEJZslr5Cnz50N2m02JhElRfXKAt2cH9PeapVq8wVtpUIQoRFESRI2bg+3twxw8alNP752KZdO0H59mVpL5VFsmXaaTc34jpIxQ/+vuzs6fr9G5x9bdH2wRT8Pdxjsw/KiayBFpUwqZm+zs/ycn3vN7d/39xwh5A3evXyazTGQCpw8BSTt6ptZujo9Yfvz+EBnR0dBfyaV6G/tUFKcA/XiAht+LhDRNpzCEBF++gtA2ds55iCpFVeLAIkF1ePbeqlIrXI5ZO3FCo8rZTIhkCFhIEU7K+9o21sKALByaePQQwTFACcGGMwbMnfsPTYwSMpes8YwNhCihzF4SnUhMhiDeegfAkhxtdh7jp+2qxU+R2BwLkBf1jz+Lgbg750GnXSb/G6fPS8EgjQUTls4R2TwY5y00sY3r5hnIIyRKGLLDjdWeAEwBzCQLnHZJokO+nEv2dGDyZbYJvMEKOrhH6UdA0qiIY6QG+FV6y2N9jkGghTnicCII1QOQDWgHhevIpN3zoHCK+/3+4ce7iwNNU4g3zEuTBMN8804GgwklShjw/NfLOM4uko7X+xImhF6Lq4UE00HGgQTlq7IOJD+hijjjsul0+6gnpeOxGCH5ih4fnFO9bRD6R/0baQau8Nx6i/5lVxequTJGQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbUlEQVR4Xu2VwUsbQRTGM/QgLSFBCIEmRE1CFBtwm9BEJTFp0dS2iG3R9qB4iQr1IJ7Em1ePHqTtqeDB//O535u83dndiGgmCYV88NjZ2Zl9v3nz3kwsNtFEE/2XUqTNfB+bFO2ur9FGvdqDUrS1thICHKkU/ey0GSI+9YLKmQy/o//t3Nw4oBSd7G4zRCmdJieXpa/tVfrcqI8jSopqpVm6PD6gL+/KVJ3JaSvkvAgNIUqSsFH7fXXFAL8+tej8e4cyyRht1ZaouVgcxpZpp+n4lOvoZcTQ/+/6mg7eL9Pxxyadba/Txc4mg31YmrcNpKiQikdsIZ3g58z0K27f3txwhJA3eHeySTbLQMpz8hCQtMuvE3R62GW7+/uHjvb3vf5UPNbb2oGkOAdq+Vk2/Fwgwm04hSEi/HQXgLI3c8xCUiuuFgES86rHtZVCnprFYsBa8yUeV0ilAiADwkCKNitvaMNZ9ACwcmnj0EMExQAnBhjMGzB3gvePwCApfzSqDGMCIXoYg6dUFyKDMZiH/gGAFFeLuef4aatc4nMEBucC9G3Z4e9iAN5r16nbafC7efY8EwjSUDht4RyRwY9x0kob35x8loEwRqKILdtZrfACYBZgIF3isk0SHfTjXjKjB5MtMU3mCVDYwxOlHQNKoiGOkBvBVestDfdZBoIU54nAiCNUDkA1oB4XrSI/76wDBVfe63cPPdxZGmqUQK5jXJh+NPxvvqP+QFKJMjY4/9nyHYdXaeaLGUl/hJ6LK8WPpgX1gwlKV2QUSH9DlHHHZZJJe1CPS0eiv0P/KHh8cVb1sEPp7/dtqBq5w1HqHrTV+mRlQ0LIAAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

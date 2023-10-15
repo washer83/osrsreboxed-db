@@ -1,7 +1,7 @@
 {
     "id": 15329,
     "name": "Strange book",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-06-06",
     "duplicate": true,
     "examine": "A tatty old book belonging to the Wise Old Man of Draynor Village.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACXUlEQVR4Xu3WQWsTURDA8bxv4MlLL7kVCkIoSCilYBCRUOlFEXootIgikoOKUhSVVqUHS2jxQwjtpVYapSaS1tj20A818n/LbKcvMW2yT7sHB4YNYdn325nZ3Vco/I/o4STJXIST+7NXZeHueF5QTh7OlfOEclKbn8gTysmTe5MZUFHnz8nioyl59mCyD6p/cv5UuRgL5eRl7VqKajY/pwlq7nbJH1kULGjO43ybXKdULPoMVxgwnLx+XElRFhTiLMomaAWFVx8inCw9ve5R/UA2bWvBlEsjsUDJDACiQrSChaiGZojRCoFhxkpjl9NZyghy8u75jRRDdXQhHWodbNK2jFTM6upbX6XBnsquOMFoq2wbLKgXimO1Muoxa2srHqRP2RBVOo2xrbKgXigF8btefy+zM1e6ZmhAUDIvFmOrE6J6gUgwQAD9FYxmCApRigFC6kAPjQFiMfp2DkF/QlElIHemx7JgiJOXn2IUNAgKCDlavJQFQyTfK0VwDJ+yfjAwzEwkDOHSBakQmPU301J/VZUPL6qysnjT/9ernfpU0apIGCLZXnCn3DGLsTAVOj7unMKR2lqS83nnZJyZMJItAihtmQ64VuXoqC0fl2/5pGJku92Q77tb0mhs+gopKLz6EJFsMVic1lAFXVj/J8Hu7X2VX52mHB7+kIODluzvf5NW60v6aYgEIro3ViQ4kArTdxOVAQKw83PXD3RkUKGg/bepMPuhJXWgt7c/yc7ORsz5OTssTCvF0W5HolfnPGFh+iRqCy8EpGFhVAjUhYI0LOyfzc95IleYWPEbD+SIOWJikrYAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWUlEQVR4Xu3W30sUURTA8b1EhCDGUmxoWLZSDxUYC0oShQ8phmBU9AsfksWgP6OH6CVUcCWqZWMRW0V88S888r3DGY93t83dueo8dOAwyzLM/cw5Z2ZuofA/ooeTJHMRTqYnrsrU/St5QTl5XCnlCeVkZvJanlBOZh8OZ0BFnT8nC09GZP7RcBdU9+T8kdJALJST5zPXU1S9vpomqMrdoj+yKFjQnMf5NrnOg7Exn+EKPYaTl09HU5QFhTiLsglaQeHV+wgnr+dueFQ3kE3bWjCl4qVYoGQGAFEhWsFCVEMzxGiFwDBjxaGL6SxlBDl59+xmiqE6upAOtQ42aVtGKmZ5+a2vUm9PZVscYbRVtg0W1AnFsTw66DErK0sepE9ZH1U6jrGtsqBOKAXxu1p9LxN3LrfNUI+gZF4sxlYnRHUCkWCAADoVjGYIClGKAULqQPeNAWIx+nYOQX9DUSUg98aHsmCIo5efYhTUCwoIOThwIQuGSL5XiuAYPmXdYGCYmUgYwqULUiEwH1+NS/VFWT4slmVp4Zb/r1M79amiVZEwRLK94E65YxZjYSp0cNA6hiO1tSTn887JODNhJFsEUNoyHXCtyv5+Uz69ue2TipHNZk1+/fwmtdpXXyEFhVfvI5ItBovTGqqgC+v/JNitrU3ZadVlb++37O42ZHv7uzQa6+mnIRKIaN9YkeBAKkzfTVQGCMDWnx9+oCODCgXtv02F2Q8tqQO9tvZZNja+xJyff4eFaaU42u1I9OqcJCxMn0Rt4bmANCyMCoE6V5CGhZ3Z/JwkcoWJFYdoDecUSv743AAAAABJRU5ErkJggg==",
     "wiki_name": "Strange book",
     "wiki_url": "https://oldschool.runescape.wiki/w/Strange_book",
     "equipment": null,

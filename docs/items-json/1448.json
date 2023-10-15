@@ -1,7 +1,7 @@
 {
     "id": 1448,
     "name": "Mind talisman",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiElEQVR4Xs2XwU4TURSGZ96AFZtuJmFhwooXIMFFwwJCQiQ2QCRWIhIohIoVK5UUrFBbUAQsaCUFqhiwMZpo2Lj0AUx8A7fGGOMDHPOf6Z2597bYoDNT/uRPM9PemW/+e+65U8PwRCbZPhcy6VvhAuWXlqpQTQdzgYSbDGYDCdcHCxTOBZJhdAcE5SbwNd9WAyEc72lh+whlQ6STSboTj9P0+DjFxsb4E8cPF9MMIJITMB2Wxdav9g+Sn8yk4sYGraQXaGFujm7PTDPIjWiUrg4N0uX+furt7tbqx2MYuUCfP1mnTymLHtxLMRASCYcNmhgdpWvDwzQ4MEDhri4FwnMYAXRUKtFmLkdrmQwnhCkDzK2pGE/Z9ZERuhKJMLAA0q/4HzLpx267AlQ5OKDysx1az2b5HFICEFK6OTnppAQoKxSqpuqZaoE+HB/R+9eHnACM4r0/P0+pRILBxHlYAHmYkkm/91Wgk0qF3r16SaVCgQqP1ujx8rIzdXdnZ3nqACMn5CvQxzfH9LZcpsMXRdrd2mIouZ4EFAo7MCDUEYD2t7cZ6ulq3qknrDoUN5a+gPEQCDLp115tYQsg9COkJIocPQkr7VJfX7WgfdnHTPpedKFgAKGO0JMAg+LGlKFBon4udnYqv/cF6mepnS3f6G/ODrWyfZo6yG2SjVyOhYKFSfS2sL/k2tifFy3HexMhxx6uMnVjrAekf1/PHqXTeGrkmzWyfvUzyi7ek6Sl+DQgfbQPMp296DQYGUof7YNcIFiHyERam5MSrL+04zVUBgowJUj9ayNgZKDNqNtn9NE+yU1KAOEYGy5ghANMyTDsp1d7iwASxx4t77NJ7SsqSOAw9XRuQILQHzkHV1G1TkPmAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xs2X304TQRTGd0NIU2J4AIgpxECCmFIMVgwCNVixYioVASvWVjQIWFFTSQl/FBOkiTFeaLj02lcw8S18AuOFiYnvcMx3trM7My026OyWL/nS7Laz+9tvzpzZWpYR2eT4WMimb8UTVJifr0I1HcwDEm4ymAMkXB8sUDgPSIbRHRCUl8DXQlsNhHDyVAvbRygHYjadpuvJJE2MjlJiZIQ/cXxvbpYBRHICJtbVxdav9g+Sn8ym0vIy3b01QzNTU3Tt8gSDXIzH6VxsgM709VFPd7dWP4Zh5AJ9/miJPmXCdOdmhoGQSCRi0djwMJ0fHKSB/n6KdHYqEMZhBNBeuUwr+TwtZrOcEKYMMFcvJXjKLgwN0dlolIEFkH7F/5BNP9bbFaDK1hZtP3tKS7kcn0NKAEJKV8bH3ZQAFQ6FqqkaUy3Qhzd79P71LicAo3hvT09TJpViMHEeFkAGU7Lp96YKdFCp0LtXL6lcLNKTB4v0cGHBnbobk5M8dYCRE/IV6OP+Pr3d2aHdFyVaX11lKLmeBBQKOzAg1BGANtfWGOrx/YJbT1h1KG4sfQFjEAiy6ddGbWELIPQjpCSKHD0JK+10b2+1oH3Zx2z6XvKgYAChjtCTAIPixpShQaJ+TnZ0KL/3BepnuZ0t3+hvzsVa2T5NHeQ1yUbeToSChUn1tLC/5NvYn+fCrjfGQq4NrjJ1Y6wHpH9fz4bSaTw18s0aWb/6EeUU70E6rPgwIH20D7LdvegwGBlKH+2DPCBYh8hGW5uTEqy/tOM1VAYKMCVI/WsjYGSglbjXZ/TRPslLSgDhGBsuYIQDTMmynKdXe4sAEseGlvfRpPYVFSRwmHo6NiBB6A9sH9aFLg3jKgAAAABJRU5ErkJggg==",
     "wiki_name": "Mind talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mind_talisman",
     "equipment": null,

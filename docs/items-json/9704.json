@@ -1,7 +1,7 @@
 {
     "id": 9704,
     "name": "Training shield",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-27",
     "duplicate": false,
     "examine": "Made of flimsy painted wood.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADPklEQVR4Xu3W7UuTURgGcM9/4p/Qtz70pT5ERBKIgVgomJShJYpiliIz0TQzbNjQls2cutSZr2u+kqIpmi11ovkW9pfced3znmfPdDr3qAUdOJ9E9uO6r3OeExf3f5m6FAX2X7EU3c+ppfwSxx7qXGGKsgvqqc/VTp6uTkYVV3adJ0zRJ6eT+j+6GDTS0xNEPXvlOWuYovQHFdTb1sogr9vNoPHBAUY9rehgVPWb8bOCKXK3tPC4Bjs7aKi7m0Z7e+mLx0OTQ16aHh1lVFntAFW8HqLn9WMazHScoluphTwu6Q9AY/39DJoaHuaUHpe1Maqkqpth5XVeqrSOGFIzBaeos7k5rD8ATXg/M6ig9AOD0Kd1v582VlZoc3WVYRglcEjthW0iVpyilPRiBh3UH4DyipsYVFTuCgNtra3R9vpP+rWxzigZJ1Lbx0W1FHU4HCH9AQj9AQj9wbgKLU4GrS7+YJARs7O5STtbW/R7e5s3MLWNUwy6EB9/XJSiOxmlDDL2Rwqd+8QeBKE/AB2Ujg5COi8bJoOYqEDt7+yH9gcgGRf6s7zwjdaWlhh0GEbvUdSYtMxycr1vOrA/AOUUNUQFwok7MebazQxqtb9lEPoDkLE/+rh8s7Pk/77AIIzLiEGZjaMy/mqEpchhs0UFWpybiwiKaVR2q/VIEDD6uIKg5WUGmTQqrKNB+OIDI+ksfJ1m0IrPFwaKeVQJSVlHglBmYJAOML6ZGVqanw+CUGhgjLfzidK5cj2Vkm7nh4D0U5aVb+VxAcNl3sWg0ALCpSigGEeFpejipQS6kZjJnwtnY0MY6GGhbf9k7WEwLhx5uaUBkg/rCW5j41J0+WoKJSbnhoEy8+p4XFJkwSAdFFpAOGECiiEdfQXuoeS0opCbWsos6QgG6WBc8tkQEHaM6ehLcUqp9ywMwsNexiXpCEbSkVvaUtMXgjENhC4hJTxdpcxyK0tvgOHTtYvBCRMQPrQmpiNL8YlDSugPQEgHzwz8IDbeP3ghYpdW9zAG2+R09BV4oN3NruKUMDY59vJkBUpgQOHvp5COvgIoJIXxZTyq4cQEpz/QgDrFdPSlv4Mj7zPABJb80HG28X//+fUHrYaoOrATbF4AAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQUlEQVR4Xu3W/y/VURgHcOefaGutpZo22pCZtEQNY7orJrIrkmbdiRHpTvIl6ZqEuEkxVs1oZqx0M2OGxMyq9Rc99X6u5zr3c3277ge1dbbzk9l97f28z/mcoKD/y9SlyL3/iqXofGIhpWTY11AHClOUkFpM7Y8byOlwMCo913GQMEXPamvpxZNGBvW2tnpQ12879xumKOaClZ7X1zGou7mZQQNdnYy6am1iVP7dgf2CKWquqeFxdT1top6WFupra6O3TicN9ryi4b4+RmUXdpL1Tg/dKO7XYKbjFJ2OSuNxSX8A6u/oYNDQm9ec0uXsekZl5LUwLKeom3JtvYbUTMEpclRX+/QHoPfdLxmUmvmQQejT4swMLc3O0vLcHMMwSuCQ2s3Sd4HiFEXEpDNoo/4AlJxexSBLTqMPaGVhnlYXv9L3pW+MknEitXWcX0tRk93u1R+A0B+A0B+MKy2rlkFzk18YZMT8WF6mnysr9Gt1lTcwheVDDIoMDt4pStGZ2EwGGfsjhU66UuEBoT8AbZSODkI6t8oGPRi/QA33KzftD0AyLvRn+tNHmp+aYtBmGL1HfmOi43Ko8UHVhv0BKNFS5hcIJ27XmOOnYqmu4h6D0B+AjP3Rx+UaHaWZzxMMwriMGJTZOCrjr26xFNlLSvwCTY6NbQkKaFSVNtu2IGD0cQloYXqaQSaNCmt7EL74wEg6Ex+GGTTrcvmAAh5VSFj8tiCUGRikA4xrZISmxsc9IBQaGOPtvKt0jp6IorDIFC+QfsriU2w8LmC4zH8wKLSAcCkKKMBRYSk6dDiETobG8efiUXmZD+hiWun6yVrDYFw48nJLAyQf1l3cxsal6MixCAoNT/IBxSUX8bikyIJBOii0gHDCBBRAOvpy30Ph0Ravm1rKLOkIBulgXPLZEBB2gOnoS3FKUeeyGISHvYxL0hGMpCO39LWCdi+MaSB0CSnh6SpllltZegMM0gEGJ0xA+NCamI4sxScOKaE/ACEdPDPwg9h4/+CFiJ2Z38oYbJPT0Zf7gXY2IY9Twtjk2MuTFSiBAYW/70E6+nKjkBTGF3upgBMTnP5AA2oP09GX/g7eeu8Dxr3kh3ayjf/7z6/f0J707PQEi6UAAAAASUVORK5CYII=",
     "wiki_name": "Training shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Training_shield",
     "equipment": {

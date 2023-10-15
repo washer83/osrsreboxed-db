@@ -1,7 +1,7 @@
 {
     "id": 15600,
     "name": "Reward token",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-03-28",
     "duplicate": true,
     "examine": "Blue reward token exchanged at Burgh de Rott.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqklEQVR4Xu3X30sUURQH8L3/hC++DPiwr9JL9NCDhIQYsoEUFQUqrZK2VLLusi3LrKa27Eqr2VKQtEQQEhH9AIkKWSgkAhEiooRe+zNO93umM3NnWMXq1i7hhS876zAzH889M3M3Ftsf//9Q5KUthqLHtQlOm8AUrd4co0e3xjnYbjFM0bJ7hh4ujjIGwTYSwPYaK8MDIYuF0wx5UE1ynN7X5BxteOl5QZ2HV6nzUJ3q5RHO/YXzoVhCKapNnw2huvree+n/QF0DHyme+EpueZOKlS0GpZN9VEgNhFA38qcY1O04dlEMOrapIZ8oO93QsA1dqXVyjqzRlPuGUR0Haz5qLj3IGBxrCaQx8xO0NHOBMTg5qoMLA8U4jUplntJk/iXlrr3jfamhXsqO9fsgwfwhSPfP7LgPWnCTVM6P6J55S/NLXyh+/BtPGVDApAuv6OrcBvdTx4EKFS8nqJQ5wSgL1VGMAAgxQUAsr2xTfPC7Rm1zpTLuOk8Z9gGE6ph3mJXqVIujPgrbAkITY9rQQ6gIGhqf3FO60Z2eZyGEFQwu3gyE3KtOepVJfP45ZVt+L+FRMDN1zsYUyVBcBQEJygTxXaX7CIDbpRRHpnQ2O2RrimQoup4bDqEEhEQxaHhpehxjgqJn/o2h+BZtFh+kMRJApOmxDyCL1QleEeZTWUDYRhXkVWHefVJBVNZSdRQ9uXORlxjyRpd3Fh77eAUAFVSnEYJIf1mqTrDe2Q0ECL7j76iWWb1K7iTHWnVkWRGNiUIEJKi/BpKL7BRZbpgg+W4ZpEL//a9GjrUKWikNc3ZaVEWxZoVkvxxrAYQRXWbuHmCk8ZthLIBiMTnRXoILA4THBD6joOi5/9HwqvX87iUf1WKQV1Ug1upX/N9sLQUFw9oCzN5oK4yN8QMOmdM7gAYKOAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrElEQVR4Xu3X70tTYRQH8D0vRCZ7FxQEpik5wiiL8AfTNFbJ3GCNuWn+GJs0NGPUi6RBEAQSQVAUFAQJQkKBEPRCCnoRRIQv+gf6a07P99zO3b2XKVYnN6IHvuzOy73343nOvfdZKPR//PvDkJOmGIYeVMY4TQIztHpthO5fH+Vgu8EwQ8u503RvcZgxCLaRGmyvURkOCFnM9jHkbjnGCXesUfjohpP2p9R6eJVaD1WpWhzk3FkY8kUJZagydcaHaut666T7HbX1fKRI9CvliluUL71nUCLWRdl4jw91NXOKQX2dnbooBh3bspBPlJp6ZWGbtlLrFD7yjCYm1xjVcrDiomYTvYzBsUogi5kbo6Xpc4zByVEdXBgoxllUPPmIxjMvKH3lDe+L93dQaqTbBQnmD0G2f2ZGXdDCZIyKmUHbM69pbukLRY5/4ykDCphE9iVdnt3kfmo5UKL8xSgVkicYpVAdwwiAEC8IiOWVbYr0freoba5UMrfOU4Z9AKE63jtMpTrl/LCLwraA0MSYNvQQKoKGxif3lG30cPtjH0IFg4vXAyG3y+NOZaKff07ZB7eX8CiYnjirMUUyDFdBQILygviusn0EwI1CnCNTOpPq15oiGYbm0wM+lICQIAYNL02PY7yg4Jl/Yxi+RevFBVmMBBBpeuwDSLE6tVeE96ksIGyjCvKq8N59UkFUVqk6hh7ePM9LDHmjyzsLj328AoCqVWfDB5H+UqpObb2zGwgQfMffUS1v9Urpkxy16siyIhgvChGQoP4aSC6yU2S54QXJd2WQ8f33vxo5VhW0Uhjg7LSoCmK9FZL9cqwCCCO4zNw9wEjj18MogEIhOdFeggsDhMcEPoOg4Ln3aTjVenLrgotqMMipKhDPq5fc32wNBdWG2gJMbzQVRmP8AALpNp4QN4K0AAAAAElFTkSuQmCC",
     "wiki_name": "Reward token (unobtainable item) (Blue)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Reward_token_(unobtainable_item)#Blue",
     "equipment": null,

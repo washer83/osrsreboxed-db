@@ -1,7 +1,7 @@
 {
     "id": 28019,
     "name": "Dragon dagger (cr)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": false,
     "examine": "A powerful dagger.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABJ0lEQVR4Xu2UwUrDQBRF+/6knxCEIkUKLSGEkBASKhYtFmuxgq0bEbpSBMGFKxHEz71yZ5ySBnE5bxY5EAizOtx33+v1Ojo6/kPQflFEMBmNEJCU4CmZGKGo39eWsum8F1k4QkWa4vu0CkFIkIzHeEljfE1LbSHByXBohN7yNCwh9uezLjSFBMeDQVhClOF2uZF9VLmWkOAoivYyWRxrCfEK24/pUITbRRn3ThlPQmIEqtymwH9e5tcsORDxJEPsvaHQWV3j6uJ8n4rnMTWRA6GbxQJ3qxUeNptfMe8IpmVpRCh0u1xiu1777o7D9oYiTkKhyE3EjIqptEusIsN0rudzzUSaiOnN826nuVEOu1mK5W0juJzN8Hi/DSEdh+o2/U1QMh0h8QMHCO5Q/YmzcQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABJElEQVR4Xu2UQUvDQBCFOz+hWCy2NGkSkpAqtZVaKxVbLyL0pgiCB0+CIPj/b0/erlvSID3u7CEfBMKePt68mU6npaXlGILmiyKC0WCAgKQEz/HICM3GY20pm85HnoYjlCcJfs7LEIQE8XCI1yTC96TQFhKc9ftG6D1LwhJif76qXFNIcNrrhSVEGW6XG9lnmWkJCU663b1MGkVaQrzC9mM6FOF2Uca9U8aTkBiBMrMp8J+X+S2ND0Q8yRB7byh0UVW4nl3uU/E8pjpyIHS7WOB+tcLjZvMn5h3BpCiMCIXulkts12vf3XHY3lDESSgUuY6YUTGVZolVZJjOzXyumUgdMb152e00N8phN0uxvE0EV9Mpnh62IaTjUN2m/wlKpiUkfgEXXc3xVASuMgAAAABJRU5ErkJggg==",
     "wiki_name": "Dragon dagger (cr) (Unpoisoned)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_dagger_(cr)#Unpoisoned",
     "equipment": {

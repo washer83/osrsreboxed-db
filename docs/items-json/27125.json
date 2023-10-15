@@ -1,7 +1,7 @@
 {
     "id": 27125,
     "name": "Dagon'hai robe top (or)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-07-06",
     "duplicate": false,
     "examine": "A robe worn by members of the Dagon'hai, tastefully decorated.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADYElEQVR4Xu2WXWsTURCGc/5BrnqzNwu5WAgUlkIIIQRaSgkhISQ0NKQhpWkpFhWhIH5SKFr8okopWCUUKbUoBaEiogiCCN54I/4Cb730J4x95zi7ZzdoN3EVxA4Mu9mcnfOcmTnv2UTixP4fUxT0v25BACeZDHj4//DbMZqe4MrkODmpFE+etSxyR0bYw2AY0xhN/ykwRefH83RxokBrxUmqlctUchwq2DZDmWDw0XSagSYNjxFKZwUwuN6plGimXvegMNnuqkUb5zQM4AAEr/1wAXKPFhCOPoQpzooAbdUr1Go0aLpapUqxSI/XLDq8bdGTaxbdOqOzM+a6fG25o+wAB2wMWVKckRvlIq1OTbD3Zuo0P9tiKIC82LBp56q+vrxn0/qyD9XNjFFnzGUgZC6GLPlA10tTDLTbatByLstQvUsW2UcTvd60GQh9g9IBCM8xDlBo7pjKFgRC6e5PVymfy9HZfI4zglIBDFAH6xZtXxhhmKVshjcCoJAls5fCswxgQSD5vdOcpolCgT4+StGbLQ0ifYQGB+xKIc/jTagYshTsIb06xVnam21wpr4cOvRpL0Ufera3uwCDUmEsNgKgkLHYgJAdBBWgB40a9xIaPJvJsKOJMTlgMLmMxbt4jmdo7liAEBBp94MpLhvAIAN3qyVPGlAu9IsA4T9kF+/HAoRJEAx6YgKhbPDNWpmBMSmyiF4JbnEdAyX8TSDFk0g/SDA4+ga+0G6zHmGXoakhlCjf5fkkpe2ENz6GkvnqjOxAR2TV8M/7KQ/q3bYWROwwbHmIJK6dkn/yIxbioJR+nIFMr0oaFEHMT4uvrxz2pbk5hnr/UEPhfJOtv9Lyx6MP0VuyMD9WJNMrMoGQahPo29s0nV5cpFPdrgfVaTa5fIB6dlOfaxiLHkM8xBItGvAY6QdCIDkcpVGjujS9aNEQx0gQSFQ2CJRI4HqcCxA2h0gCYsmHWwQgxaoMjZEtDWGTYBGDGKb7ByKKeKJXcpzoLP7SFB3Mtehpp+k51Fj6YBig/faMB4R7iCnARPmPiafo+UKHoaA98j0DR0Bfi6Ka4jMPQOgfiQlHGX1F/6kp7xvGhIFKy32EVRmmGETcBBogXv9OMd1v2KjWH2PgeOHdEvbw+OMs/H7Yw+NP7J+07+BciBnOrf2SAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADW0lEQVR4Xu2W32oTURDGcwhh2RBSQkNCUtI2CU1INyRtSNMWrApSEBWVQtFiVaoUClIlUKRQKQoFLyoIohdeCF4I3nkn+BC+gC/ga4x+c5zds1s0m7oKYgeGzZ+zc347882cjcVO7P8xRX7/6+YHSMXjPg/+H7w7QtMbXBkfo1QyyZvnLIsyiQR7EAxrnJH0nwJTdH6sQBdLRVotj1O9WqVKKkVF22YoEww+kk4z0LjhEULprAAG19tTFWo2Gi4UNttdsWjjnIYBHIDg9R8uQDOTk1FAKc6KAG01pqjtODRdq9FUuUyPVi06vGXR42sW3TyjszOayfC1nRlhBzhgI8iS4ozcqJZpZaLE3m82aG6mzVAAeb5h085VfX1x16a1JQ+qlx2lzmiGgZC5CLLkAV2vTDDQbtuhpXyOofqXLLK/b/Rq02Yg6AalAxB+xzpAQdwRlc0PhNLdm65RIZ+ns4U8ZwSlAhigDtYs2r6QYJjFXJYbAVDIkqml4C5DmB9Ivu+0pqlULNKHh0l6vaVBREcQOGCXiwVeb0JFkCW/hvTTKc7S3ozDmfp8mKKPe0l637fd7gIMSoW1aARAIWORASE7CCpA9506awkCz2Wz7BAxNgcMNpe1uBe/4zeIOxIgBETavWCKywYwjIE7tYo7GlAu6EWA8B+yi/sjAcImCIZ5YgKhbPDNepWBsSmyCK34W1zHQAl/E0jxJqIHCQaHbuDzs7M8j9BlEDUGJcp3eS5OaTvmro+gZN50RnYwR+Sp4Z/2ky7U2209ENFhaHkMSVw7Fe/kRyzEQSm9OEOZfioRKIKYrxZfXqbYF7tdhnr3QEPhfJPWX25766FDaEsezIsVyvQTmUBItQn09U2aTi8s0Klez4XqtFpcPkA9XdfnGtZCY4iHWDKLhjxGjgIhkByOItSwLqKXWXSMY8QPJFPWDxSL4TrIBQjNISMBseTFLQSQ4qmMGSMtjcEmwUIGMUzrB0MU8WReyXGis/hLU3TQbdOTTst1TGPRwXGA9mebLhA+Y5gCTCb/gHiKns13GAqzR95n4AjozaKwpvjMAxD0IzHhKKM30X9qyn2HMWEwpeVziKcyTDGIuAk0RLyjnWK6J9iwdjTG0PGC3RL04PpBFrw/6MH1J/ZP2jfQ9vMalw+UZwAAAABJRU5ErkJggg==",
     "wiki_name": "Dagon'hai robe top (or)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dagon'hai_robe_top_(or)",
     "equipment": {

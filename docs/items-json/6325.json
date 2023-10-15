@@ -1,7 +1,7 @@
 {
     "id": 6325,
     "name": "Snakeskin chaps",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-08-09",
     "duplicate": true,
     "examine": "Made from 100% real snake.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADM0lEQVR4Xs3WbUtUQRTA8d1vIvQFRIjoRZBIiCjRgrSYFNpSG1v7ppBiE7GioqhIioKKEovUwkrE7EFhxbQnoifp60z+53Jmzx1nZde9hQOHvXd2rvPbc2bmmkpt/ZY24Qh9/89b2rwcGzJTo4M2nj86ayYflGwIYnHmmilPXzULr64EUP6PaBgegQQFSMLHzL+4bN48uxibmHu+8yOOqguZNtOPh9eh+AQiIaC5yQtm5uk5O5bPEIjxGr26MmZ+Lt3fHEpAXEt2BPRu6pIFydhqIJ77vTxq/nweX4sJC2KO5qYmG/7sXovSLr9aQEwaAs2On3cgrkOgpdnrMRDXAvJn91o6VgYmksXNvQ9ichBgdEl80MrczeRAkiX6QiDG8Vwu126jr2/POtintxo0Xh9I1oUPYnIfxDjBdLRvtwHoYG+rOdyfcbAv70dioF8fHjYOoh+QoMgk40ulIyZ/tNNiJEOAenp2m97eTpPZ12rHJQoiAGgQYwcH8+bM6ZxDca9B3d277Ljv5TsOtPrxicPUDdIo2b4aBKSra4dFAeLz1MlDrnyMYeyP8t0gyJ+9Sovqzu6pBtLZAUKAGxjoN8XiAZPP77d9DrR4b7Og6AwiQ9VAjBkeOubKRFAmuT5eyNrPlpZtdizPxEDqUPRn91q05UMgApBkr1DocuVhvQiO7FDCbLbDZSdRkKDkrCme2Osy0dbWbINs6ewImh+QKEhnSTBkhmAH0Uc2WLxkiuwIRALQ8usbCjThMDWB2GE+SDBMToDJZHbaa50txvGMBpEdXhs6QzVmh1YB6bLRT1Y49EDIvQ76WGcaJOXitZEYSLJDFli8ggGmT2X6Ka1+0wvo6/ytGEhQ/uyBFoF02eiTbR39kehesgVGTuMQiH87vi3cdiDOoDrOoThIoySkdDozBOXyQWSnYRC7zAexjugLZYsDU84pQIzT5UoM5O82+uX9JeWRl65gBCRjAbHlY6C1M6jucyhUNpmEX8z1RiC9fhIBhcqmQXyn/y3RIMbp9dMgiFZZwBuFxujwQRyKGiRRByiVkmN9o/CBOvT6SQRUa/ORtWAlKmP/U/ORofCf2dLtL37wQ8QqEZQ5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNklEQVR4Xs3W+0tUQRTA8d1f+y2MgkLzgcViqBtpRpu1vxRSsIlSUVFUVBQRRFGIFD1EeiGIPahQMMREygiioijqL5v4zuXMnjvOLnvdWzhw2Htn5zqfPWdmrpnM6m9ZE47Q9/+8Zc2T0SHzaGTQxvitw2bsRsmGIOYmz5jZidNm5umpAMr/EXXDI5CgAEn4mOnHJ83L8eOxibnnOz/iqETIrJm4PbwMxScQCQE9HztmJu8esWP5DIEYr9E/F0fN9/nrK0MJiGvJjoBePzxhQTK2EojnfiyMmN9L98yfpQcWxBzdzc02/Nm9FqVdfrWAmDQEmrp/1IG4DoHmp87GQFwLyJ/da9lYGZhIFjf3PojJQYDRJfFBiy/OpweSLNEXAjGO5/r6Wmz09GxeBvvw6oIDEYlAsi58EJP7IMYJprVlnQ1A2/ONZmdvzsE+vrkYB727WT+IfkCCIpOML5V2mcLuNouRDAHq6tpk8vk2k9vaaMelCiIAaBBjBwcL5tDBPofiXoM6OjbacV9mrzjQr/d3HCYxSKNk+2oQkPb29RYFiM8D+3e48jGGsV/fXg2C/NkrtKju7J5KIJ0dIAS4gYFeUyx2m0Jhm+0T0Le5aysFRWcQGaoEYszw0B5XJoIyyfXe/k772dCwxo7lGQ3Sh6I/u9eiLR8CEYAke/397a48rBfBkR1K2NnZ6rKTKkhQctYU921xmWhqWmuDbOnsCJofkCpIZ0kwZIZgB9FHNli8ZIrsCEQC0MKzcw7EKS2YmkDsMB8kGCYnwORyG+y1zhbjeEaDyA6vDZ2hGrNDK4N02egnKxx6IOReB32sMw2ScvHaSA0k2SELLF7BANOnMv2UVr/pBfRp+lIMJCh/9kCLQLps9Mm2jv5IdC/ZAiOncQjEvx2fZy47EGdQgnMoDtIoCSmdzgxBuXwQ2akbxC7zQawj+kLZ4sCUcwoQ43S5UgP5u41+eX9JeeSlKxgByVhAbHkN4gxKfA6FyiaT8Iu5rgbS6ycVUKhsGsR3+t8SDWKcXj91gmjlBVwtNEaHD+JQ1CCJBKBMRo71auEDdej1kwqo1uYja8FKlMf+p+YjQ+E/s6rbX7LAR3lMFeamAAAAAElFTkSuQmCC",
     "wiki_name": "Snakeskin chaps",
     "wiki_url": "https://oldschool.runescape.wiki/w/Snakeskin_chaps",
     "equipment": null,

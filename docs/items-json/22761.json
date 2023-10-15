@@ -1,7 +1,7 @@
 {
     "id": 22761,
     "name": "Dinh's hammer",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-01-10",
     "duplicate": false,
     "examine": "Very good for hitting things!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeElEQVR4Xu2WT0sbURTF875BVrOZzYALoSAUoYhIwCIihSKUBkIKSgcxhmYajHGMY/6QmqipNmopuigtuCtKbG2qtaKFdlXafqjbnvuYwZla6CIzk5YeOIsMIe/HuSfvTiTyX/++BLkdmLwHys/Tk5OOG2tKUFCCkveTpGqqk0Q2nXbZSKXYm82+IKAETT2YovG74zRya4RqxSIt5nKOF2azLgcA9TORhSxtra5S1bKoUig4Lpmm46V8nlPa3VFob6/fLyhBbw5Vatbr9PhRldaqFU7Ia4DOPzRoLpPhEb58IYGua1qnoQS1DlSGQkIby8sM5TXSwfgAhLFZi71+AAFmgN61BxmqfaQxFNKyjWSQEEYGEBvKhuk4EA57fSihkNJxW6PtRoO9Ui6xAYWEAAWYek3+/TsMAwna3WzySN4eDdD7k0FO6fREc/UJ5Y4n4wwzo+v+pYMDjw/26fnTbe6ODXRxLoHsdDJzGdJndEpMJOiaFvErHUjQaatFO082uDuAQCJICLAAwpisqkXGvEFmPEq5O1G60SuhvL/WIQl6tr7ulPn8bIh7ZI8K3UGZC5UCWYmoAxXr8xkKiWBsHy+GOCEbSB4qXb6nMBQMqNF+n6Gusl1e2RlB1QnFAUNavi7cy4e7QS5LQsFnHzQufOxmzD+oP5Oguq7Q508a78B0Nt0dUN+/9ZBZMhkqZaS6A6pYKzpQeIXpCijcU1dDhQYmofJLeYbCrT48Oky52Wi4ULg8baj9Vyrvv7HbY+FCYXTYhyg5ksLLHJ7/en0EJkFfv/RwUlhF9m0fKhAuy9JK2XmLwIIOcWzQ71eQ95uBybt+QoX5q/UD6ZlkBfJ5IRwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACdUlEQVR4Xu2W3WvTYBjF+1JCyBjuYrKxDvchONBCO8YMk6420nVd1pH1w7p2W93sZCJjF4KC3sq0fjs3h4wxL8RLUfwLHz3PS8ISJ3jRJFU8cC4aSt8f5zl9n0Qi//XvS5Dbgcl7oPx8ZXLScWNVCQpKUPJyklRNdZLIptMuG6kUe6PZEwSUoKmrUzR2aYyGzg9RrVikhVzO8fxM1uUAoH4mMp+l2ysrVLUsqhQKjkum6Xgxn+eUtrcUevSw1y8oQS+fq9Ss1+nmjSqtXq9wQl4DdO6aQbOZDI/wwX0JND4y0m4oQa2nKkMhofWlJYbyGulgfADC2KyFbj+AANNH73b7Gerta42hkJZtJIOEMDKA2FA2TNuBcNiLZxIKKe3tarTZaLCXyyU2oJAQoABTr8m/f5thIEHbG00eyZtXffR+v59TOtjXXH1CuePJOMNM67p/6eDAvSc7dO/OJnfHBjo+kkB2OpnZDOnTOiUmEnRGi/iVDiTooNWirVvr3B1AIBEkBFgAYUxW1SJjziAzHqXcxSid7ZZQ3l9rkwTdXVtzynx0OMA9skeF7qDMhUqBrETUgYr1+AyFRDC2j8cDnJANJA+VLo8rDAUDarjXZ6jTbJdXdkZQdUJxwJCWrwv35OFukJOSUPDhB40LHzsX8w/qzySoriv0+ZPGOzCdTXcG1PdvXWSWTIZKGanOgCrWig4UXmE6Agr31OlQoYFJqPxinqFwqw8OD1JuJhouFC5PG2rnscr7b/TCaLhQGB32IUqOpPAyh+e/Xh+BSdDXL12cFFaRfduHCoTLsrRcdt4isKBDHBv0+xXk/WZg8q6fUGH+av0A8gf/jCykM0IAAAAASUVORK5CYII=",
     "wiki_name": "Dinh's hammer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dinh's_hammer",
     "equipment": null,

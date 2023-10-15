@@ -1,7 +1,7 @@
 {
     "id": 309,
     "name": "Fly fishing rod",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2001-06-11",
     "duplicate": false,
     "examine": "Useful for catching salmon or trout.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4Xs2WwUsCQRTGnf9gT3v27KlLdAihDh7CiCRJRIQUUkGTTA2Mgg4dOnQI+oNf/mZ47nMvnWbswTDr7uH9/L7vzW6lkrSclO8csJzcnFXkn0A5GbcyqVUD0FG1mhIKBawKTt6GuTROCpiEQE4W3axkjZNuIzsMDEr0LwprFLB+dCCrZu1sZw3rY5Lv1Eqgjs2Kk3Uv27OGfXiVzKr9rLzf5765WsPa3GVyeZrEqtCMrCjAfpCdfM1DlvR3RKCQC7LCvye8Cmet0iw9Tad+BbAoFdQhK8e1iofjwFNr1D7NklUogkpBHQB0kghyWR2eW4hoMOQCABvksjo8TxZknSSuP6e5D7K1hnuJxjyoA4A2J0e2ObsFjAhDbadmNJLrZtM3s1OmgLwyEr2vnMwnE7lttXwzzZGqw/pehCzpeEeFWT3MpN/p7CmBOhZIj4HI6jh5fpzLsNeT83rdNyO0dsxZ2JcgyE5elksZDwY7q7AFdewZw06QUSyiVU5e12sfYqxSIJSguQKxOAbsoRgBaNtks/HhxCobZHJiYbhnlYkAQ4XcYFW33fb7zyr3SqAO+VEgACNbpeW8VcBwTZDL6uj7LLI6torzBXVUCRaKoRSQkT8rylWMOc0VqAyYSCEqKGSb2/eZgiSC0SpUYOccUrUSgxRVqBA+SxPb9Ff9K5hQKWB+AanvF0tT6guyAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBElEQVR4Xs2WwUsCQRTGd1j20EUIIsgIo6gwQ1MoiRQNM7WDUdChQ4cOHfr//4BXvxme+9xLpxl9MMy6e3g/v+97s5tlSctJ9c4Gy8nlYSZbAuVk0MylthOAro+PU0KhgFXByVu/kMZ+CZMQyMm0k1escdJp5JuBQYneSWmNAtZ3N2TVuJWvrGF9DIuVWgnUsVlxsujma9aw98+TWbWelfe7wjdXa1jLm1zODpJYFZqRFQVYD7KTr0nIkv6OCBRyQVb494RX4axVmqWn0civABalgjpkZa+WeTgOPLVG7dMsWYUiqBTUAUAniSBX1eG5hYgGQy4AsEGuqsPzZEHWSeL6c1T4IFtruJdozIM6AGhzcmSbs1vAiDDU39Tc38vF6alvZqdMAXllJHpfOZkMh3LVbPpmmiNVh/U9DVnS8Y4KM38YS6/dXlMCdSyQHgOR1XHy/DiRfrcrR/W6b0Zo7ZizsC9BkJ28zGYyuL1dWYUtqGPPGHaCjGIRrXLyulj4EGOVAqEEzRWIxTFgD8UIQH9NlksfTqyyQSYnFoZ7VpkIMFTIDVZ1Wi2//8wLrwTqkB8FAjCyVVrOWwUM1wS5qo6+zyKrY6s8X1BHlWChGEoBGfmzolrlmNNcgaqAiRSigkK2uX2fKUgiGK1SBXbOIVUrMUhZpQrhszSxTf/VVsGESgHzC18V1E6/+M9zAAAAAElFTkSuQmCC",
     "wiki_name": "Fly fishing rod",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fly_fishing_rod",
     "equipment": null,

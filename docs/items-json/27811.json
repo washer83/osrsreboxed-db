@@ -1,7 +1,7 @@
 {
     "id": 27811,
     "name": "Dragon candle dagger",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-22",
     "duplicate": true,
     "examine": "A candle lit by the fire of a dragon.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEElEQVR4Xs3UT0gbQRQG8Myxh8KCZC9LYGAPC9JD8WRPpScRAhYsSBtEYxHFFlH8A9qmRAhVwUOsIiIiYkHQKpYcKkKwCoWighcPgoIUbx5Ljx4+9+1jXJt6bGbmgyEQsuTH995OIqElApXfGIzAYKYGFqEERtqS6GxybEEJjLYnsT6QwvOnD21ACbzLJrExnMLumET9owemUQIfXifxLZdCpoEbeixldCp/qTG82Nk075FhjAqNyYp2KALLPZ4t7Qis9cUYgyAeUWlIovyeEEbbEUgHCeyMSvwYizGGQAIddQ5KrySOPvomMTyi/icOtl56+J6VOJ8OTI1KoNlNIP/MvcUcd2tr5+61z610eQ6mGlxstMSYs14t7YT3SY5fYTp538WIdFDwY8xRFzejoR2BoYyDtUL4x3MSxcDFRAihT8KU22OMglQRQxHIdYQ7Munh52I4ki8BFmq96NyHqXz6P0fg7QsHE29cbBfDP1/2cbzi4/durRkMNTM3HI5mnMe1Py8jELWkHUOtfM57UTOEoXGphghUZQy/HeoU+3lnCHOw5ONk1cfpuo/zTYZUHdPa6ES7Qm/TzKCLnU88HoJcbAW4LP0LqRqGEIVuF1O9vC/lWW6F2rja1gZRYRAtrbpnaE9+fQ2iN0kj5G74FqYRKcyfvb8xlU9oiIj2xBKMisD1YdoWjIpVGI5VGJO5AXIXrPihrMqlAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEElEQVR4Xs3WwUtUURQG8Lk871zu4+HGoFWiwWyU0gJ1oyma5YhMJUwx1AizGDJDLAhRdNHCFJHQRQUuBjUEF0HlwlW7FuEiCFr3DwT9A60+33mH27OppXPv/eAxMMzj/fjOeZfJZKxEoP4bhxGoDEt4hBKYvpFFoafJF5TAzM0stgoKvbnAB5TA43wWr24rfCxrtJ4jkFOUwJOJLN7eUxi+xA11t7UlV/0vLYYXO3+F98gxxoRH5UE7FIGFa8qXdgRWrqcYhyAe0WZeo3ZHu25HIBdlsH1L4+BuinEEEuhrCbDZrXF4P3SJ4RGNng+w0aWw26tx/DByNSqBDplB8YL8gzkasNbO6WOfW+lXASrtEmuXU8yXESvtxOfJJL/CdBVDiYIOUApTzGE/N2OhHREf/QFWSvGDZzWqkUQ5htAnYWo9KcZAGoihCEz2xTsypfDuWTyS1QhPm1Vy/Q9Tf/cZR2CoM0B5UOJ1NX74YoijpRA/d5rdYKiZ2fF4NA94XPtzOgFRS9Yx1MpyUSXNEIbGZRoiUIMx5t8cX9VR3hnCvJ8P8el5iM8vQhyvM6ThmKsXg2RX6G16NCaxPc3jIcjXjQjft/6FNAxDiNKARGWE96U2w61QGz/eWIOYMIiW1pwztCffXkbJm2QRcjp8CtOIDObX3t+Y+jssRCR74gnGROD3h5wvGBOvMByvMC5zAinwgKzvesKaAAAAAElFTkSuQmCC",
     "wiki_name": "Dragon candle dagger",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_candle_dagger",
     "equipment": null,

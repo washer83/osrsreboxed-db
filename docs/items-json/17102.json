@@ -1,7 +1,7 @@
 {
     "id": 17102,
     "name": "Blessed axe",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-12-12",
     "duplicate": true,
     "examine": "It radiates purity but can still lop off heads.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu2WQUsCURDH932DPb2LFz9CV28bIRKKtKwEEoIYYVRKUkkRgocOHToEQYfyEATdvPftJmam0d3NzMRZ38E/zGGXB+/H/Of/3vO8jVRkIFlrlYFBy8L9qYWnSwsv17kU3KxSlYHhkYXHHsO8D3NQqZxQlcvtH4X/laEM3B1zd0a33J0wPKeKoguq2n6fvqt7HQL6GL1qQRm4afrw0LXw3LfUnWKxOekQAmAJoAB9jscEtJXPrxoqaRd+FwohbO80oFQ6nNgkUJkAyTC/DZLDHAR16haCxbulCGTg6iBpl2zCGzEYQskwS6kBYdzRLhnmKQxLwKRLCBaHWTmQpEvs+n0DQzCSLhWYXp3tkrNnPhCKLVSAQXHc59k1S4usWVIcdxzmv+1Sl4F26FPcF7dLVRz3/9qlKI57+uxJr8pIBhq7PsVdroq1d+esxnF3YJhRPD94GDphVxR4FHdn7JK4O2MXXhcYdwfsQvF1gXF3wq5W1af5iR+G6VUZajo/ztglzw0H7BKpvmeWk1MwG33rC7ctp3UrnCrSAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkklEQVR4Xu2Wv04CQRDGb3PZ8AgUFwUkQO4wQUkImuAfokQlxhgSCgsLCwsLCyOFhYUtT+DjjpkZB+5ORCTMsQVfMsVdNtlf5ptvdz1vIxUZSNZaZWDQtnB/YuHp0sLLdS4FN6tUZWB4aOGxxzDvwxxUKsdU5XLnR+F/ZSgDd0fcndEtdycMz6mi6IKqvtun72qtS0Afo1ctKAM3LR8eziw89y11p1BoTTqEAFgCKECf4zEB7RWLq4ZK2oXf+XwIW9tNKJUOJjYJVCZAMsxvg+QwB0GDuoVg8W4pAhm42k/aJZvwRgyGUDLMUmpAGHe0S4Z5CsMSMOkSgsVhVg4k6RK7ft/AEIykSwWm12C75OyZD4RiCxVgUBz3eXbN0iJrlhTHHYf5b7vUZaAT+hT3xe1SFcf9v3YpiuOePnvSqzKSgeaOT3GXq2Lt3Tmtc9wdGGYUzw8ehk7YFQUexd0ZuyTuztiF1wXG3QG7UHxdYNydsKtd9Wl+4odhelWGms6PM3bJc8MBu0Sq75nl5BTMRt/6AhpGbSYvC78DAAAAAElFTkSuQmCC",
     "wiki_name": "Blessed axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Blessed_axe",
     "equipment": null,

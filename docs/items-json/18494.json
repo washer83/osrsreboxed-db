@@ -1,7 +1,7 @@
 {
     "id": 18494,
     "name": "Graceful boots",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-02-04",
     "duplicate": true,
     "examine": "For your graceful feet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACp0lEQVR4Xu2WbUuTYRTHd30TP8IIJCQEQ0LCkCRpmCTZKMOiN0UNETF7IlOZKUuUUtNaimYlZlmGJkUUkZX08GlO/M7N2WytdW/eqzc7cMBdT+d3/c+5zm0oVLKSlSybOckc+Y/m5GzvhHhQRQHL91AP6MLoglydfBE0VOZt/R7upHN4XnrureqecFmZz32+zEnXyCM5H78rbZ03fEI5OdMzllIocCBue3n8qVyZWM4jgEut93cJ3+YkNpCUi2NLeaTAgwCob3pdjrf3BQ9F2gwo9629ukNVUhafeysH6+tlT1VVjj0FWToFpy8Na039CmfBvBQDc7SpSY41N8vhSER2V1bqmr+rm5c5mVn7pjAopgrMvlEFdpaXp8COHGpMwZjvqqgoHhAAqNU/81oDA7AjHNaA0dh17UEGMvjwvaa6+9ZicYBQhBSYAr3JNYWj8Jk/UFengK0tLdIWjeoafjc2NOhcOrWBmNPbA0PAgfl3CmhAJ7uGtD0wNvJkQ9VEmXP9k9LaEZfIiVjQKnkKAGQKAYZi+2pqtI4AJkVDjz9I8uVXufN8U1vG1sYaIBDmtJhR5/azz/Jg/YeqwFOnfjoSc6oY88BMrWzK6NInBWwfnA4ayOtH16ZWtFgBmn31XZVAGT4XKIEi9J/x5S86x7rEwkcdo1EGVEdOg1lKTCHq5P6qFxTYU90JVYwXiDIGdHNxQ1UCjIcQAJQHZApxWwICAxRqmAr7a2tVCQqbeeZwSyFg6a5fsDnZW12tweyTYAFJG8FQgTFeGcW/tT2Y8wgCagNOXxJANEYOBICUUNjcnL9xxoGyfz9YC5x1cH5zjn3ftlHk6e8Wt+NggtjNzQnOPIpu3ZPNgdkGUCiUPuD3w7O5rc/lmTEKtsyD/+SZ+0pWsn9pPwEVdvZiv6wy+wAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACq0lEQVR4Xu2W7UtUURCH9/wJkiQpmSYZZqwaZhuZBX0oakHEyt7IVDZTMhEp0crKRDGpEHtDspBKIogIoiIxkvq/Jp65zO622XZ3vVtfduDA3vM2z/nNnDkbCuUtb3lbzZyk9vxHc3KoY0Q8qJyAZbqpB3R8cEbOXJsPGir1tH43d9LaPy3tNxd0TW1Zmc91vszJ0YF7ciR2Q5paL/iEcnKwfSiuUOBAnPbU8GM5PTKXgQMXn+/vEL7NSbR7TE4MPcwgBB4EQJ3ji7KnuTN4KMJmQOlP7eUdqhKy81NvZXtVlWwqKUmzJitLhODAyX7NqV/hzJkXYmB21dXJ7vp62REOy8biYp3zd3UzMicTL1YUBsVwGpt8owqsLyyMg+2srYnDWNtQVJQ7IABQq2vitToGYF1BgTqMRM9pDTKQnrvvNdRtl2dzA4QihMAU6Bh7qXAkPuPbKisVsLGhQZoiEZ3Dd011tY4lQhuIOT09MDjsnn6ngAa071ivlgf6Bh58VjVR5nDXdWlsiUl4bzRolTwFADKFAEOxLeXlmkcAE6Le+x/k1vNvcvXpspaM5MIaIBDmNJlR58qTJbmz+ENV4KqTPy19U6oY48CMzn+VwUdfFLC5ZzxoIK8enR19pskK0OSr76oEyvBcoASKUH+G55Z0jHkXZz5qH4UyoDxy6sxCYgqRJ7cXVvQ3sPvb+lQxbiDKGNCl2U+qEmBchACgPCBTiNPiEBigUMNU2FpRoUqQ2IwzRrMQApao+lmbk82lperMngRzSNhwhgr0cctI/uTyYI1LEFAZcHqTAKIwsiEAhITE5uT8ptEPlP39YC5wVsH5Zh9739aQ5Il3i9OxMU7s5NZwzjiKJq9ZrQGzBqBQKLHB75uv1mx+upbqI2tL3fhPLXVd3vL2L+0nY3SOZMIPNTcAAAAASUVORK5CYII=",
     "wiki_name": "Graceful boots (Piscarilius) (Inventory)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Piscarilius)#Inventory",
     "equipment": null,

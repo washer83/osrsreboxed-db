@@ -1,7 +1,7 @@
 {
     "id": 11209,
     "name": "Shrunk ogleroot",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-06-04",
     "duplicate": true,
     "examine": "A shrunk ogleroot! How odd...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRUlEQVR4Xu1V70uTYRTd80/0pS9CHwRBECFEhqCIiDhC8aWhsVDHmswZjvljzJSpaGatLEVBK0MN08LMDLMQpTQoK6eO+aM0sz/k1L2vj77NVMh37kNdGIM9DzvnOfeecw2G//VvlkD4L1EqIiJgdhn5O/z0hEugNs0G29ncHTICCTEx0SIl0JbtZkIlSQqUuHQknIqNlkoCXTleJuRLt8OZbEZ+fCZSYhKjoZJAn9LAhPxZLibkMhbAkpCNrFh1jk6c0PetGaytjiAQ6MbbN35UGC0oSjyHnLjU6BDa3p7F+voYlhbvY272Jp6N+tDTXQ6fzwKrNfMk50h10o/tOXxZH8fy0gO8m2vD87F69Pa6UVd7YVehCKukEimoMPJnJTSMUHAQnz52YGa6lRXqaC9Fefme/cP/QccSaGlx/QKzwGbLg8mUisVAD0KhR1j43MnqyHYVFmZE2v4Cd0yVaM50ojqlkANQUTIYjFSigX44UI3rrVZ4U4vZ/uQ2sj8pqTMpge7cK0yoNesyB6AEJAU+vL/NrersdLL96ZzsL91GairOZL1aKLC1Nc1OCgYHuDWkRmOGgy1OSlHrfHUlrFhgoYvPn47UsZqSHN0jcjq0cCdr1kYRXO7j4dW2jlYFJXP6mSQGo/NwNSVxnRJ8L2vI2lowOSsERMlMhEhN7R1KbyJExHVKcIGNrxNs7XAw2Q4JlHQ6fp+a1D5yX39/Fdpu2VHjzT9uYKouIpBvm1McgtpZ0q4KIqRVc36+HVNT13ie7t11oeVq8W4+HSMwBWcNvZgIbWxMcu7Q8P5pVUg1ZVC+nGjC4KCHw5LSW6rzl2RkCd5Vm5uvd5cpkdSuisaGiwwm1aT7pA6RoTjQSR1tCayuPNmnwOPhGgak11M6SzWJGBEisn7/JXg8Zj7XQR1ZgrOG5keuileTzZzOBOh25zFYWVkBk6KWvhhvYLJVlcrOEOumjizB4Uevp3QmQBrWpqYizcvV9spV4nCYfiOiIxkqAbv9PJMhdYaGvKzA/pcL+G9UIDcn7Q9nupcKVuowHwGoqqnjzBxWAp5q6xGAqpoHn+taAvX1pSgu2rNx+A21DlIvIqU66nBCBsNhZxGoyCvwE9ZhbCfZsI9hAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSUlEQVR4Xu1V60vTYRjd+yGiCEUMRcU7S3QxbaRuNOckx7wMZt7RzFpJKSbYTcIyLDEw7GJgWBgWlNmHLlQqmqJpSZYW9gedfJ6fr/6aN8jf3Id6YAz2vuyc9zzPOY9O97/+zRLw/sVPRUQEjI4w/vY+3eYSKIy0wLI3cYmMQEpMjL9ICdTEO5lQRogBhoAoBO3Y4y+VBBoS3EyoJMoKe6gRyYGxCN8V7A+VBJoNZUzIE+dgQo6wFJiC4hG3R5mjbSf088dTTE91YHioEc+feZATZkJa8D4kBET4h9DCQj9mvtzB6MglvOg/idudxTjXmI2SEhPM5tjtnCPFSb8WBjAz04XR0ct4OVCDe3dL0dTkRFHhgWWFfKzSkqVzwvgzOdmOifFWvH9Xhyd91axQXW0msrNX7O/9DxqWQFWVYxHMBIslCXp9BEaGz2Ny4gYGP9SzOrJdqanRvra/wBl9Lipj7cgPT+UANBiiGYxUooG+1pKP49VmuCPS2f7kNrI/KakxKYHGxCNMqDruMAegBCQFXr86za06W29n+9M52V+6jdQ02EO1aqHA/HwfO2l8rIVbQ2qUR9vY4qQUta64KIMVGxps4PNbHUWspiRH94icBi1UsubzdCfGPjbz8KpbR6uCkjlqdwiD0bm3mpK4RgmuyppFa6vB5KwQECUzESI11XcovYkQEdcowQVmv3aztb3BZDskUMjOwFVqUvvIfVev5KHmlBUF7uStBqbiIgKZm+vlEFTPknpVECG1mm/f1OJx7zGep4sXHKg6mr6cT1sITMFZQy8mQt9mezh3aHjXWhVSTRmUD7orcL3VxWFJ6S3V+UsysgTvqrnvj5aXKZFUr4rysoMMJtWk+6QOkaE40EgddQlMfbq5SoH29gIGpNdTOks1iRgRIrIezyG4XEY+10AdWYKzhuZHroqHPZWczgTodCYxWFZWCpOilt7vKmOyebmGpSHWTB1ZgsOPXk/pTIA0rBUVaaqXK+2Vq8Rm0/9BREMyVAJW634mQ+q0tblZgdUvF/CcyEFiQuQaZ5qXApZpM24CqKip4cxsVAKufPMmgIqa659rWgKlpZlIT1uxsfcNpdZTzyelOGpjQjrdRmc+KN8r8BsfmfF7ujy0cQAAAABJRU5ErkJggg==",
     "wiki_name": "Shrunk ogleroot",
     "wiki_url": "https://oldschool.runescape.wiki/w/Shrunk_ogleroot",
     "equipment": null,

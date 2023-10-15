@@ -1,7 +1,7 @@
 {
     "id": 27759,
     "name": "Crystal body (inactive)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-02-08",
     "duplicate": false,
     "examine": "Sturdier than it looks.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADU0lEQVR4Xu2W60uTYRTAff+DIOiLIZLIYGSM0bChhrcYumE2tdF0tk2WSmqZSiMLL6kV0ceg//a033k927N3axe7fAgPHN5tz3PO8zuX57zr6bmW/0888bVT6XZ/V+LJ3m5a8rnpy0Paa+x+SKKRO38LypPTo1V59XJectkpmZqMSN/tmxIauCHRsK/x6C0ZH+6VxHRU18dH7+kebCP9/X8Sqhb1xceCbK6nJLP0UA90YdC55ANVoIAxoJr+tngaNYeSjeMPOXn3NiMbpVmF4mCDYV/6cVwV2MHB2wrEmtl3CdXYB6mJ/jqg9+WsHLxZ0tKRKcpHRgxmMT2qCtDdcJ8C4cPsa1BBbSK7O2kp5hPqeCQe1uhxzpMGxTnZKe8/VSiyVCrOaKOzj4xhq4CUs9LQ2GxtzukaPg0yqE2hLk7yGnU2M6mRA8dhLlB5I1qn7GEvNsDMzsQkMdZbl1Xg2ccazW63zxQYmr5J43tycrSiEVESnijRNwPaLUaqQGSFAymPldl65+gwq35caDKItoAx4Xqv6MyhhKh7zQ3moBSV7dUhKSyGtByWAQMiS24z4489QBGgZcuAghQB8eTrRanawPSKZclgyM7G8lC15xYSA9pPfDYgyxL+AGIdeBsLHWTHFU8PtyxwIAcAwm/A2AH8DsTyfEhLrRfhEshuFftZt3J2CYN4DTAGaVAoAGSQg7gQZMwOtuwEfVHGDkvliu8E50RrTtDz/bgc78QUjqc7mygnB9vsMRv2EUgpE65mrWsgi8gi9R34zi1TvN/Qs+PnOp+4TdubSQ3CHYIGlEldKUO1FLuRGtDhVkwzYZkBhP18pq+4lS6Q2bHniiVrDaSlqrzTANDxUIkcQH6nj2y6B4Fo7MaMdyT1TRgsGeWxV4jdOJ6AMbeYNY1/PXwgSubevuDJvxBPPp8VpXyQkfW1pDyZi9c5ZvJSrroRUGlWlO/2ugkCnZ8WZO/1QqWkEzI2MtRNliqD8dOaHJafKZAZVpu6Ui7tn8tpbUBkFGUMMPyCQN++vNAg87lHMjXR8ZRGfGOA1gqJgKEP5E5sF4oxgdJHwUB+fN9RW4JMJYe7AUJq/1VqThvXWmk7u8b1NmIGzYzctVbazi64fi3Xci3/Un4Ct1Cq4d+8vuwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADQ0lEQVR4Xu2W208TURCH2agpkkolbUqAUNvAilwsFEppFQhYUVBURJAAatBXH/z/n8Z+s0z3dFvbLl4eTCeZLPTcvvnNnNkdGhrY/2eeBN6vxZ0fyzx58+qx1CqF60N6ezZ7TzLpkb8F5cnniw052FuUSjkv+VxahhO3JTlyS9KjgY+n78hUNiGzhYyO56bGdA5rV/L5PwkVRv31y1Op7zyS0vK0HujC4PMPx9WBAsaAQv9t8zRqDkWNy7OKnLwvye62r1AcbDDMW1qYUAc2mUwoEGO2PiZUex3403dbgD4el+Xd4bKmDqVIH4oYTHFpSh2g+6lhBWIPWx9CRb2Dvd5fks3arG48OZHS6NmcJwXK5qhz/HZFoVBpe9PXQmceirEWQIAoaNa8qM/rGHsaZNQ7Ql2erWvU5VJOIweOw1ygw610izOHuawBxvezUphMtKgKPPMYo9jt9pkDQ9F3KHxPzj6saUSkhCdO9J2A9jbGmkCowoGkx9JstXN+WtZ9XGgUxLvAmDWgTta055BC3L3mBnNQS8tuOSWVxaSmwxQwIFRyi5n9mAMUAZpaBhSliJgnV5+eNAuYWjGVDAZ1tkqpZs0tFEa0nlSBayBTif0AYhx4awt9qOOap4ebChzIAYDwGzB2AL8DUZpLaqqBNyC7Vcxn3NIZEwbz2mAM0qBwAFCQg7gQKGYHmzrRvUhjn6lyLdiEzYnWNsEv9sflpJ5ROJ5ubyKdHGy9x9Ywj0BqxdGmarGBLCKLNNgg2NyU4v2GX11WtT9xm541FCMItwkaUNG/kUKhxG6kBnS0k1ElTBlAmM/f1BW30gWydcy5Ycq6A6EO7zQAuD1EDiC/U0fW3aNAFHa74n1ZaxFGU0Z67BViN44nYPQtek37p0cARMrc2xc9+RfW+PY535DDg6JsVme0b7gb03lJl9sCKFac/+11EwW6aKj68vmCrK4E77UYKtEYq3LEO6gBZAttY9IFkHVrA0JRnDZAEFGgb41vKYJcX30guenwtRE9vYMFiwGqXn+yhgsDILdju1C0CZw6igby43tdTo9XNUh/JhsHCAu/VcJN28e6ea917eM9zBZ0WuSOdfNe66LjAxvYwP6l/QRD9Qp5ksWJGQAAAABJRU5ErkJggg==",
     "wiki_name": "Crystal body (Crwys) (Inactive)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_body_(Crwys)#Inactive",
     "equipment": {

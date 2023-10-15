@@ -1,7 +1,7 @@
 {
     "id": 7381,
     "name": "Green d'hide chaps (t)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2006-02-20",
     "duplicate": true,
     "examine": "Made from 100% real dragonhide. With colourful trim!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC8UlEQVR4Xs3Wv08UQRQH8Ln/YKttaC6xu8rmSksLg52VBQ0NjQ0mFP6MaBQ0ajQaTfxJ0HigASUEUTmSIwj+ivEX8d8Z5ztzb+/Nuwe3yy2GSV522ZtjPvtm5s0Zs/9bxeqhfb7nrWJfT5+3c1Nnfbx6esbOPjrtgxBri9dta+GaXX1zVUHJl+gbHkCEAohCYprzE/bdy8vRwPgbn8mIUYWQFbvw7EIXCldAKAi0PHvJLr4Y931x1UDoz9Fbm9P21/rD3aEIhHvKDoE+zF3xIOq7HQjf+7MxZf9+abiY8SCMcbBa9SFHFy2knd6aQBiUg/gbUyw1Lqqg9aUbEQj3BJKji1aJpgEIWtz4m0AecMhYU3dRY9F+GQnaXL5VHoiyhGcclBxPrDksUO45plGCPr/noEYxEK0LCcKbR6BhBzqWhEz1AH1duR2Bfn980j8IzwFCeNCJ1CZDDnQ0sTVjssBnEvSteadcEAJTGYFG0zBtDpSeS6MscQwy+qN1LwNtfXqeYQqDOAr/PAKNOdCp1IP8ldaSAvrZuq+C5OjbtM4W7gkaCyBg0gOpDxW09mC3oLBtkaGeoPZ04To4Mugx1RoGiUHoH4FYUZSjixa2vAZCdIEwTW7b+93GaxIDITulggiFwACouFGGUIeAcNfqwICPPQPxLOGaB6RlaOPtTQaayTC5QNhhGoiOg51A2rZHXxwbPEM5s4PWAcl1RNU3Ag2x7a6AaLpwbJQGIhSeY4AINNwGYUETSFk/qNIcRCg5utICSJs2FTSShrMMOw31SAGh//fVuxkINahAHYpBfNo4KDtc2VnmM6Wsn75B2GW9QBjMg3CW0YmPwFoS66c0kJw2POcgLHT0n2hO2tHHJ33Uj9T9M+oLELZ8BHI1qHAd0qaNg3APEI4TfIcH7UbqWwpImzYOwmf8ZwnuqZqjH18/fYLQun+4a8ExPCQIRZGDKAqAjKGyvlNIIA++fkoB5W0SmQdL0en7n5pEaiG/s6/bPzCyHvmWhGKLAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC9UlEQVR4Xs3Wy2sUQRAH4FmGIayHPe3Ji8HgxYuSSy45eImQi29UNCoqKooI4osQFI0h+CIQ4gOVDURCDEEjgqgoiv5l7fyqt2ara2uzM9mJpKGY2dne9DfV3dWJos3fKs4O6/sNbxX3dOKwezx+kGL6zgE3dXM/BSMWZ8+6hZkzbv7ZaQOlX6JnuAcxCiAOjWk8GXOvpk8EA+MzvtMRogohK27m7pE2FK6AcDDoxdRxN3v/KPXF1QKhv0T/WplwP5ZurA/FINxzdhj05tFJAnHfTiD87ufyuPuz+sD9XX1IIIyxu7+fQo+umk87vzWDMKgEyTfmmJs8ZoKW5s4FINwzSI+uWiWYBiB4ceMzgwiwNXJRPY2aiObLaNDKywvlgThLeCZB8a7YRdsUKn2OadSgj68vZiBEIRCvCw3CmwegoRS0M/aZ6gL69PZSCHp/u3cQngOEINCexMWDKWhH7GpRlAW+06DPjcvlghCYygA0kvhpS0HJoSTIksQgo18Xrmag3x/uZZjCIInCHw9AoyloX0IguvJaMkDf3l0zQXr0Dq21hbuCRj0ImGRLQmGBvi9eXy/Ib1tkqCuoOV24DgwPEKZaq7aB0F+CZFHUo6vmt7wFQrSBME3ptqfdJmuSACE7pYIYhcAAqLhBhlCHgEiv1b4+ig0DySzhmgdkZWj5+fkMhCrNmFwg7DALxMfBWiBr26Mvjg2ZoZzZQWuB9Dri6huABsV2N0A8XTg2SgMxCs8xQAAaaoKwoBlkrB9UaQlilB7daB5kTZsJGk78WYadhnpkgND/y/yVDIQaVKAOhSA5bRKUHa7iLKNMGeunZxB2WTcQBiMQzjI+8RFYS2r9lAbS04bnEoSFjv5jjVNu5NZeivr2Oj3jvgBhy0sQalDhOmRNmwThHiAcJ/iNDN6N3LcUkDVtEoTv5L8luOdqjn5y/fQIQgvfuFNIjAwNQlGUII4CoCjisr5WaKAMuX5KAeVtGpkHy9Hq+5+aRlqhf7Op2z95+z2IrpVygAAAAABJRU5ErkJggg==",
     "wiki_name": "Green d'hide chaps (t)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Green_d'hide_chaps_(t)",
     "equipment": null,

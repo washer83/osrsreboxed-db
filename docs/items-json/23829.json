@@ -1,7 +1,7 @@
 {
     "id": 23829,
     "name": "Corrupted shards",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2019-07-25",
     "duplicate": true,
     "examine": "Shards of corrupted crystal, used to craft items within the Gauntlet.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABt0lEQVR4Xu2VP0sDMRiHL9+gU5dbAjcc3OTmJOhQilhEqSgiFayrH8QP4SC4CoK4CIIIgoOLIO4u4igOzrFv6u/y3tv709oIDvnBA20uTZ68Sa5RFBISEsKjjKMqTc+9RZlbvW5ZitoVk7o+5c+9RZnHpJ8DoQWtxaTKvKf75ixesfxRtYoyu61ECPFtdH0hdRov+5Zyk5AMgAC2CHD5p2RLSM0tNlmdwY+MFDlqZRZ69pUdlkp5ECtWBzIvyY6lTuhG9yxcjITmOPSTMhABx+1FCxdDBUjqWq9ZMBZJXelVC7VNXorauEqA87hTQMr0I3fISegzG+ZCAEKXujtrlZS5iLuNcBnibvT5Xm/k0HfOR3ZQEJqySsq8pQMLDcJXyHlINi29KLY8J9sFmc6oDYcZUNWklJy9ImOp13TPwlfJheggkwzaeGXkAgAJETNWiaJyoTIxLoiXJK8O2jnUhioRv3hxjlclxYiT0WAA/VAdLiRHRJVoByBU3q8i/C+CC+HG8KssZaoncud0ZiGk7L9LIrdLjlHM+Df14lNEngt+PnDjphNyY8l2j/G0ap/5VzIhISEN+QZsGGBMYlx8ggAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtUlEQVR4Xu2VvUpDMRiGTyjlkEM5o4MibZUqVvGnSHX0RrwLBwd3BwfBzUFwEByc3AQHL8FN8AYEJy8h9kt9T758Pac/NoJDXnigzUmTJ1+S0ySJiYmJ4VHGUZVJz4NFmVu9ZllM6hWTuj7lz4NFmcesWwCh3VZLTKrMe2PfnKXLlj+qli+zU8uEEN9G1xdSp+lSaCk3CckACGCLAJd/yjaF1Nxio9Xp/chIkaNabqFnX/lhqVQAMb86kHnJti3jhG50x8LFSGiOQz8qAxFwXF+wcDFUgKSu9aoFY5HUlV6xUNvopRgbVwlwnjY9pEw30Z7QZ35QCAEIXer2rFVS5iJtT4TLEHeDz/d6vYC+cz7yvic0ZZWUeWv0LDQIXyHnIduwdJLU8pxteTLNQRsOM6CqSSk5e0WGUq+NPQtfJReig0wyaOOVkQsAJETMWCWKKoTKxLggXpK8OmjnUBuqRPzixTlclRQjTgaDAfRDdbiQHBFVoh2AUHm/ivC/CC6EG8OvspSpnsid05mFkLL/LoncLjmGn+FvxotPEXku+PnAjZtOyI0l2wMm0KpD5l/JxMTETMg3cIEVGYzPdXgAAAAASUVORK5CYII=",
     "wiki_name": "Corrupted shards",
     "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_shards",
     "equipment": null,

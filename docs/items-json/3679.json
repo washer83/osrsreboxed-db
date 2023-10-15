@@ -1,7 +1,7 @@
 {
     "id": 3679,
     "name": "Flamtaer hammer",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-10-26",
     "duplicate": true,
     "examine": "An exquisitely shaped tool specially designed for fixing temples.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADRUlEQVR4Xs3V+0tUQRQH8N3/xN+CfopgiYjAkJAwRDGMTRKXUCNEKiFjjUV7qlmYvSjLxKLVwkrE7KGwYtqL6CX9Oye/c/nenXucdffqLRw47H3MvfPZM+fOxGJbv8XFHa77/7zF5eVYRiZHz5l4/qhLJh6kTRCxMD0gual+mX/V50DpP7FpuAciCiCGxsy9uCJvnl0KDIxz3NMRRIVCxmXqcfcaFH4BYRA0O3FBpp/2mL74dYHQ30avLI/Jz8XhjaEIwjGzQ9C7ycsGxL6FQHju99Ko/PmcXY1xA8IYO8rKTOjRVfPSzn9NEAZ1gWay530Qjl2gxZlrARCOCdKjqxYPTAMGYnHj3AYRDgSntxBoeXYwOhCzhGsEoV99ba1fEzYIWdOgT29tUDYciHWhQfjnAKFPTflOOVSRkLaWFmlubPRRhUBf3t8IgH59GNk8CNcJOlq1W9rqK6Q9uV8ynZ1FQV/nbkYLQmAqcT9ZuUtS1XsMqOvYQbl4ok5uD1w191wgTPH33B0ftPLxiY8JDSKKtYJpQnaO15XL6YZKOZuqkoFTh+Veumld0I/cXSdIj16geYPj5QDh+EB5wtQNstNcu9dMFTCZ5mqTIfQBHM8gk2tAC/c3CvI+ZWQIL8d5YnuZ7EtsMyCN6WmtMX0wpQDhOQ1C3QVA1qKoR1fN++Q1qDWVkqYjSZMdTFemvcGAUD+oIyCZIQ1CdiIFEYUvqa+nWwZ7e01WmBmEjcJzeroiAxHFOkIMDw1JduShOeYKjWMUOVEatPT6ugUa9zElgfCFuEDcDggDnHudjcJyYKOQHWwbdoZKzA5aHmRPGwbmp4xNEoPg3AZxabBRCPTFthEZiChcR/oJwn170cQxp5YorFmEIeyV2rtWtHkg17SVCsJ1vAf1hH3ODlzHGhRiHQqC7GmzQfjFdRtjg1hrZ062+8EMhQahWIuBMCC/MA1ireFd6Y4Of+NlDW0YpKcN122QLmjue3iOfVk73+Zv5UGra1Dodcg1bTZIf/IaxPUHfbEGbRrkmjYbhHuugkZw20DhRwBCy3+m64WuH4YGYVG0QYwQoFiMy/p6oYF2cP9CdiIBldo0shQsI9/3PzWNdIV+Zku3vzmsbAEutnE5AAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSUlEQVR4Xs3V+0tUQRQH8N0fg+iXlqIk0yRlTVJDl0QLYSshgzW27Km1RWYPorAMkaJMpBeC2IMKBUNMpIwgKoyi/rIT37l8786eZt297i0cOOx9zL3z2TPnzkQiq79FxR2u+/+8ReXJcFoeDR02MXa7S0ZvpkwQMTuRkZnxMzL9tNeB0n+iZLgHIgoghsZMPT4tL8dO5gyMc9zTkYsKhIzK+J0jf6HwCwiDoOejx2XiXrfpi18XCP1t9I+FYVmaG1gZiiAcMzsEvX54yoDYNx8Iz32fH5Jfi/fl9+IDA8IYDRUVJvToqnlp578mCIO6QJMjx3wQjl2guclzOSAcE6RHVy2aMw0YiMWNcxtEOBCc3nyghRcXwgMxS7hGEPrVxeN+TdggZE2DPrzq80GIQCDWhQbhnwOEPjVl62VHeUzaW1ulpanJR+UDfXxzMRf0brB0EK4TtKtqo7TXlUuyfqukOzsLgj5NXQoXhMBU4n595QZJVG8yoK7d2+XE3lq5kjlr7rlAmOIvM1d90M/3d31MYBBRrBVME7Kzp7ZMDjRWyqFElWT275TrqeZlQV/fXnOC9Oh5mjc4Xg4QjreVxUzdIDst8c1mqoBJt1SbDKEP4HgGmdSgb7M3VgryPmVkCC/HeWzdGtkSW2tAGtPdVmP6YEoBwnMahLqzQfaiqEdXzfvkNagtkZDmhnqTHUxXOtloQKgf1BGQzJAGITuhgojCl9TbfVT6enpMVpgZhI3Cc3q6QgMRxTpCDPT3y8jgLXPMFRrHKHKiNGj+2XkfhFWamKJA+EJcIG4HhAHOvc5GYTmwUcgOtg07Q0VmBy0LsqcNA/NTxiaJQXBug7g02CgE+mLbCA1EFK4j/QThvr1o4phTSxTWLMIQ9krtXSvYPJBr2ooF4Treg3rCPmcHrmMNCrAO5YLsabNB+MV1G2ODWGsH9yX9YIYCg1CshUAYkF+YBrHW8K5UR4e/8bKGVgzS04brNkgXNPc9PMe+rJ3P05d9ENagwOuQa9pskP7kNYjrD/piDSoZ5Jo2G4R7roJGcNtA4YcAQst+psuFrh+GBmFRtEGMAKBIhMv6cqGBdnD/QnZCARXbNLIYLCPb9z81jXSFfmZVtz/yvm93prDQLgAAAABJRU5ErkJggg==",
     "wiki_name": "Flamtaer hammer",
     "wiki_url": "https://oldschool.runescape.wiki/w/Flamtaer_hammer",
     "equipment": null,

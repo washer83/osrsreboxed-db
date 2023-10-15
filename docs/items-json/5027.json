@@ -1,7 +1,7 @@
 {
     "id": 5027,
     "name": "Woven top",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2005-05-31",
     "duplicate": true,
     "examine": "Yellow top, too small for me.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADMklEQVR4Xs3XC0sUURQH8N1v4kfoO0REFBEURUWQhRmlYsJmpohmWoqllm0PzZZVWh9sKmJWKimmvYhe0tc5+b/Lf/bM8e6yq1N44bCzM3e4vz3n3juzsdjeb3Hxh+/6P29xmU63SjbV4mLqRbNMDN90QcTqXK+szPbI8ky3B2V/xK7hORBRADEsZunVHXkz2RkaGN9xzUYYVRYyLrOjbdtQ+ASEQdDCRIfMvWx3ffHpA6G/Rm9upOXn2tDOUAThmNkh6F22y4HYtxAI9/1eT8mfz5mtGHcgjLGvosKFHd20XNr5qwnCoD7QfOZWAMKxD7Q2fy8EwjFBdnTT4qEyYCBObny3IF0GRCHQxkJ/dCBmyQ6OeNpzXgY6zkhX0wlpbTi67ToCoE9vNShTHojzQoNwfuzRJUn1X3SIwc6z0td2WrpbTjpMe+KYNNcfkRu1hyVx5ZA0VB+UuqoDUlO53937ZXEgBPr1YWT3oEyy2oGGeislefecF4UsaRhBX5ceRg+aeHJZ0g+q5HnfBZclnane1lMOdbvxuAvikCXc+30lGYA2P44FmLJBROH81NDVoGxAIVMWhWDGACPox8pjL8iOXqDlV4wGZYdrXNmQJaKYLaAwuRksJeaSA60+2ykotwchQxY0m6pzZUOWgNIwlhBzi/OrIEhtinZ003JLvhBofvSaKxuyhACMOJ0xlBKB8mFiRwoiCtcWJxOubEAhUwgfjoGyYbVFBtJZwrX32UaXJaKKwZAhlAz3rb++r0DjAaYkEFZYIdDy1HUHmh6pdahiMMwngvDY0BkqMTtoeZCdRziP63Pp+gDkw7BsGoTHRmQgogham2kKgXwYPl7QHw9j7NIaRJQd3dNyIF/ZCMLS94HsagMIjxDc8215MABhDypjHwqDdNkIshjOGY3hDo5lzzeAHYOwyoqBNCaX9nBoFJb9rjNEkC0bztv3Yr5zY+Pkc88CseRDoK09qOx9yFc2gvAqimMM7gPhPryQsW8kIF/ZNAjX9L8SDUI/vtRHAELbPi98oTE6LAibogYxygDFYtzWi4UF6kAmAUJ2IgGV2iyyFCwj3/c/NYv0hb1nT7e/tZdNeUrPSdUAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADOElEQVR4Xs3XDUsUURQG4N0/UlZUUFEWZElWiiZshimWmZZimZplH2aWLEqWLZYliH3Qh5IhJlJGEBVFUb/sxHuXdzxzvLvsulN44bCzM3O5z55z753ZWGztt7j4w3f9n7e4jCcb5MFgvYvUrToZ7T/ugoi5yXaZnWiTmUetHpT9EQXD0yCiAGJYzPTDM/I81RwaGN9xzUYYlRcyLhNDJ1ag8AkIg6Cno00yeafR3YtPHwj3a/TPxaR8n7+xOhRBOGZ2CHo51uJAvDcTCP1+LAzK76UR+bN0z4EwRnFRkQs7umnptPNXE4RBfaCpu6cCEI59oPmpcyEQjgmyo5sWD5UBA3Fy47sF6TIgMoEWn12IDsQs2cER19r2SldTsbTUbpeG6i0rriMA+vCiMwAh8gJxXmgQzg9fOiC3O/c7RE/zbuk4uUta63c4TGNiq9RVbZZjFZskcWijVJdtkMrS9VJess71/fiqKwx6N1A4aKS3zIH62kuk9+weLwpZ0jCCPk1fjB40evWgJLtL5WbHPpclnan2hp0OdbpmmwvikCX0/TJ7OQD9ej8cYPIGEYXzqb7DQdmAQqYsCsGMAUbQ17dXvCA7eoa2vGI0aKy/3JUNWSKK2QIKk5vBUmIuoe+3ueurBaX3IGTIgiYGK13ZkCWgNIwlxNzi/MoE0puiHd209JLPBJoaOuLKhiwhACNOZwylRKB8mNiRgojCtdf3E65sQCFTCB+OgbJhtUUG0lnCtTdjNS5LRGWDIUMoGfotPDkfgLBLE5MTCCssE2g6ddSBxgcqHCobDPOJIDw2dIZyzA7aMsjOI5zH9clkVQDyYVg2DcJjIzIQUQTNP64NgXwYPl5wPx7G2KU1iCg7uqelQb6yEYSl7wPZ1QYQHiHo83mmJwBhD8pjHwqDdNkIshjOGY3hDo5lzzeAVYOwyrKBNCad9nBoFJZ9wRkiyJYN5+17Md+5sXHyuWeBWPIahD0o733IVzaC8CqKYwzuA6EfXsh4byQgX9k0CNf0vxINwn18qY8AhLZyXvhCY3RYEDZFDWLkAYrFuK1nCwvUgUwChOxEAsq1WWQuWMbyvf+pWaQvbJ813f4CiwFO23/a/sQAAAAASUVORK5CYII=",
     "wiki_name": "Woven top (yellow)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Woven_top_(yellow)",
     "equipment": null,

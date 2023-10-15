@@ -1,7 +1,7 @@
 {
     "id": 15520,
     "name": "Zamorak mix(2)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2007-07-03",
     "duplicate": true,
     "examine": "Two doses of fishy Zamorak brew.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADKElEQVR4Xt2X3UuTcRTHff4TIWQ6X7ap+MJ0bnObbuboQgw1TKfb2qSLIFC6kHXRhXUZFlSEhBQGolgqZU5tSWq+lyT5kmhZlmmm0uW33/k9bHPRRcGePdWBL3thPM/n+Z5zfucsLu7/CQFhyR4CLpzTo7XFjs62qr8BSsBgVx1GelzouFXBgdTx8XJBiWkioKFuJ+7dOCln6gSkpKiQnJzKgUjt18uRmJgMjSZTDigBOTla5OUXcJiBTgfuXCtDTq4W2ex7GVInoLDQxGSGyRSUBQZDIfJ1enmAioqKmawoLhZFnwmMXJMFqKTkOFdzsw8+30U0NjbBbLZAm6eTA4hC4CkqLbVjrreOpzDYZQQjC5DFUgS73Y4Vfz2vJxlhKARYrTYO9PG5m9ePQqGUo+UpBBTojbyGNkfdeP/MhZstZXJ1GIXA25zqZyPgwruAE8N3qzikIjHmLgnQanU8XVtjZ/Bp3M1S5sLyoAP9t8uh1mTE2iVyx4z1py7sTnrxdcqLnRcefBlQYqHvFNqunOAjJEYuCcjKysVCfy2H2J/14mBO1J5fiQ99Ckx3VyA1VR0rl0R33gzUMggPDhjQ4VxY5NJ6jwJXfSVISpLcJYFPcn97JZb9DuzPhIHIocP5hpBLq10KpKVppHaJBqoZL3trsDbixLeZyJQR0PeAkru01q3A5SYzkpQpUrkk7j80qxYf1bA2d7Fi9mBv2sPAvFz7sw3YmRSLm9L2+v4xqFTpUrkkwMhm1XRPNZYGa3mb77KbE9RRoN2phgigS+cNfImTwCVx/5l/WI3V4Xp8HnfxLhNd8oZER8BGwB0ComVNpU5HQoIimlAC9OwEpu6afXAab9kg3RpzMSg3tifc/DWo7QkPVobqQkA6NkoyMrNDaYtS6sQ1g4BoIaMOo9m1OSqK3pOoruiwfNXvwFmnjQPRKKFVN8p1FHaIA7ERQV3GNeTkgEtPHOxscmDxsQMdrZV8gzSz1YQeRKINUixq2n9sNluErL8Q/c5oNEVM/6gD0dPSjWioHlVwpxb36vBurdMZpIIJRvBP4O9LQhgxgjf4E/18jX82fgBWAuPVXK/hiQAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTUlEQVR4Xt2X60tTcRjH/b2N4dty01xeK5221NzaRec83ra5tp25NxG9qDcViSBUZkFSYIghkSmIdwrNLkpNKzWhG7USI9KMCrup2cWE/oBv5/db21LfFLid6oEvh8HY+Zzv8zy/811Y2P9TBAGJXgRWToa9OxJw8pDyb4AiaK5RobNOg+PlqQxok1wuFpS3TRSorVaNY2UpYraOIDo6BlFRcgZEdXR/MqSyKMTHbxADikChUCItLZPBNFVn4vC+JChSlEhO9s5SiFtHoNXqodXpodNlQafPhl6QWq1FerpKHKCcnFzkGHNhNHJM9DOFo66JAlRQUIjCwiJUVFSisvIISkvLBJcMUG7OEAOIFmEtMpnMGGpwsBb6tozCiAJkMBhhNlvg6bCxeRIRhhZBbi4nAJnx6pKdzU9ERKQYK0+LIDNzK5ujyR4Hnl+w4cAuo1gbRouwNafz86zLjonubeioymeQUmlUqF0iUCrTwXF5eH2Zx1SvQ7ja4Wk14+xBA2LjEkPtEmEHIXVm+poTM+4SfLjK411TOEbqOVTs1rJXSIhcItiYlIqRRpMA4cCXG058vVnCNNcajhdnJHCfMkAujw2VS4Rt071mCxYGecwPOvFtqAQLwyXC1clcelonwR5XBmSytcF2ibA3eXtVATztxYIrAaD5QQrk8rv0uEYC+bq4YLtE2OE33FCEJ+ds+Hyd/9kypx/o+/lw5tJYrQQ7LQpERkYHyyVv/snKMuBOkwnjXTbM9fP4NMALYE4BjM6RC9Nul79tt0+sQkxMfLBcItBo9OivK8CDFhNeXrRj1s3jY/9ioNklQNtNChbiguCSN/8M1RditMOKqSt2tmUUaG7A6deM24nxbrsfiIa1mNgErF4jXUkoApVKw7Zr4LQA1G5lB+GbXjve9jmEa0Dv+3iMdm7zA6VnqJC4PtnfthVqnTdm0MOQBrJHwoZN9tiXaUJwhh6WtxqtsFk4BkRfJTTqrvAcBRyiQJ42K9syqrFOGwN82FqM+y3FuNtcjOpyE0uQ2dk57EGClCC9Q03zT15e/iJx3HLR72k0ukVv/xUHok9Lb0Qz0FL5c7XgoC9bZ2xRBwvGV7/+h/89BRHGW74b/ImW/sY/Wz8Ao+Oz2xJtaW8AAAAASUVORK5CYII=",
     "wiki_name": "Zamorak mix (2 dose)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_mix#2_dose",
     "equipment": null,

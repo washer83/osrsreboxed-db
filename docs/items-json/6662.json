@@ -1,7 +1,7 @@
 {
     "id": 6662,
     "name": "Broken fishing rod",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2005-10-24",
     "duplicate": false,
     "examine": "This fishing rod seems to have been bitten in half...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu2Wv0vDQBTH8/6DTLd0KXRwdXNwEaSIRIKhYinSYgttBGOxYIpCAw4KDg5ODk7+p8+8O48014YkYu5u6Ace5He+ee/73sVxdtQGUD1iEMDhqYtCVNVoFMC3W4Zfj62t8XLDML5yMbpwMQxcnPiNiwf+0mTCtjxsMz6XLBdP1y4uBkIwiaVs944cPDt0sHvg/F3U+5zxB9P2frtdGKrAssjuq434eipL2VepIstCvb8GgB8LtuYTKxCeGnQtE0VmlR5QzxpA+Ina3aosfSct3s5WiaJxUKXzNCJMni0vVgB8kmedp4YRROfRkvA8FUsGmV5Od/VqDUBhhv5hItdF/KLQoikFyIxl+9oA3mXS1Fk2gJdO80QH7hHZ9pul0VoyURJVkHpVw2LyZpWCNGZhHcDpaITDfh97vo+hl/4BnqTeOS7OToMAPtxFPKSoyyDIidEu6DVZ4SqOMZrNMByPca/TMSVGIkQt7+d47nmmxRBpi6fdRN6xQIxE61yphlVidvzyAynTYcLd9xbSAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgUlEQVR4Xu2WTUvDQBCGM4SlUDwLIthqMJIqrZbaUhoxUgumiNCABwUPHjx68Oa/HzO7Lmm2DUnE7O6hDwzkO29m3pmN4+yoDaB6xCCAwxMXhaiq0SiAb7cMvx5bW+PlhmF85WJ07mIYuDjxGxcP/KXJhG152GZ8Llkunq5dXAyEYBJL2e4dOnh64GBn3/m7qPc54w+m7ctutzBUgWWR3Vcb8fVUlrKvUkWWhXp/DQA/FmzNJ1YgPDXoWCaKzCo9oJ41gPATtbtVWfpOWrydrRJF46BK52lEmDxbXqwA+CTPOk8NI4jOoyXheSqWDDK9nO7q1RqAwgz9w0Sui/hFoUVTCpAZy/a1AbzLpKmzbAAvneaJDtwjsu03S6O1ZKIkqiD1qobF5M0qBWnMwjqA09EIh/0+9nwfQy/9AzxOvXNUnJ0GAXy4i3hIURdBkBOjXdBrssJVHGM0m2E4HuNeu21KjESIWt7P8czzTIsh0hZPu4m8Y4EYida5Ug2rxOz45QdnzT4w/Zi5AwAAAABJRU5ErkJggg==",
     "wiki_name": "Broken fishing rod",
     "wiki_url": "https://oldschool.runescape.wiki/w/Broken_fishing_rod",
     "equipment": null,

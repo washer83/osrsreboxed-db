@@ -1,7 +1,7 @@
 {
     "id": 6898,
     "name": "Cylinder",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-01-04",
     "duplicate": false,
     "examine": "A green cylinder.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABg0lEQVR4Xt3YsU7DMBAG4PoNPHnxYikvwM7IxMbEwIRggKEMHRgYkBg6MDAg8cDGF9vp5XKOrOouSJz0L22qfP3PVdXudv9nTOSz+eQb2ys3z6UdszHORHfjuqOMMtHf+WVul8GgixA0UAlzH+ahMAbnrtVaMjE8hikLHAWipuB8KaAS6HmYoZo4AoOWhFHpIH/5DMLpgZWW6lkSOk8F9DKcsoKjKIXDnUHum6B6YKUlQVDCHP0Ecj8hDodhTA+somRBgEEgjFqFJZB9Uzo/IwaBemDuPX26XkXPT8J8LNtpBq6Baz/9+Dpoxx6kQcy62GAMhLQjC2qsqwk6arWT3mUXqGLwulI7di8NwuvqAZV2tllXC8S1I78umA5QfZxpR39dGEUfW2lHH0Sj3w7MGSDUjn36KxBup4JQO9uC6vOlnWld8u3UYT5lGMK1A+t6yL/LFEAwpo3h2tmrg2DQ+iiGtAPXKpwfbvKNWBDzNaGMyZNvQv9UOGUzCB3cAg299tz5BXRxL/e+R+4iAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgUlEQVR4Xt3YsWrDMBAG4AghhP0GXUro0qVDltIOCaRDhi4dCh0ydOjQoe//AKrOkpzz+WREuHOhB/+SOPjLfwoh2Wz+z5jAZ/VJN7a3bpobO2RlnAnu3jVHGWWC3/l5HubBoN12q4GKmMduGgpjcO5OrSUTuuduzAxHgagpOF8KqAg69BNUFUdg0JIwKh7kL59AOC2w3FI5S0LnKYNe+ksWcBSlcLgTyH0TVAsstyQIipizH0Hupwv9qR/SAisoWRBgEAijFmERZN+Uzs+AQaAWmHuPn65X0fMTMR/zdqqBa+DaTz+8DtqxJ2kQsy42GAMh7ciCKuuqgs5a7cR32QQqGLyu2I49SoPwulpAuZ111lUDce3IrwumAVQeZ9rRXxdG0ccW2tEH0ei3A3MFCLVj938Fwu0UEGpnXVB5Prczrku+nTLMpwxDuHZgXU/pd5kCCMbUMVw7R3UQDFofxZB24FqF88NNuhELYr4mlDFp0k3onwqXrAahg1ugoddeO79Doq6GdRB3/wAAAABJRU5ErkJggg==",
     "wiki_name": "Cylinder",
     "wiki_url": "https://oldschool.runescape.wiki/w/Cylinder",
     "equipment": null,

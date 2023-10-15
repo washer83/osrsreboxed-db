@@ -1,7 +1,7 @@
 {
     "id": 27853,
     "name": "Dark bow (bh)",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2023-05-24",
     "duplicate": false,
     "examine": "A bow from an even darker dimension.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB10lEQVR4Xu2XUUsCQRDHbz+HL4IPgRBIICEhGBIShiRJYhAkEkqkEEmWXaJIx5XEFWIh1kv2Padmt+X2bk8Icm976A/DcjuH++O/u+OcYfzrVyLgn9EoAk+PHdAIhQt7Yz2ZpGMiGvVBKYckYNtnMB5fwVoiAavxOB0302kJEmM26wvPysQWWInFaEQjEQq2lcnATi4HlVIJ9otF2CsUYP5u0XdH9+cqoQh0u8dw2amB1W9JriDYdjZL4Q7LZTg6qFBXMSdv6dLkAnAoXIwt6OZ283nq2HDYVA1kGCKA65ScQ7dwC5UDeSVDiTl0KWQg1NcNHLCz4p+vV6s6gFBBUMyh2xszADYU+aHYOXI6F7pcQslQeONOarXvOU1OjYZiQWRQc9uCjztbAAsKZZKhxGg3T6HVaFDnXp5N+pfkOGxrvb+zVHmheI3idQprFFZzfhN5KD5rfqe8OQ719jqAyeQ6DJdQBB6s9oKFvBWdO6TYJdQiKNZTYYcQIgzXYii8hRzIm1OuICgCG6mULiAUAccWD6/bCrsRukQoQjtPdAnBsC5ph+I9Oo5867RuH8JgaIZBETDNOv1oEIH8b4UoBoTjdNr7W0D9XuMvAKE4hPbz44pD/ATmE3cZi8N5VgGXAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0klEQVR4Xu2X7UsCQRDGbz9JEoYkSUqmSYYZKkFioJFIJBnZpYl0XEkchUghvXxK+tenZrfl9l6EIPfWDz0wLLdzuD+e3R3nNO1ffxIB94xCEXh8aINCKFzYGWuxGB3L6bQLSjokAdM8gdHoAlajUViJROi4kUh4IDFeX66FZ2liCyyHwzSWQiEKtplMwnYmA6VCAfbyedjN5WD6YdB3h3enMqEIdDqHcN6ugtFrelxBsK1UisLtF4twUC5RVzHn3dK5yQbgULgYW9DO7WSz1LHBoCEbSNNEANspbw7dwi2UDuSUF0rMoUsBA6G+b2CfnRX3fK1SUQGE8oNiDt1c6T6wgcgNxc6R1T5T5RLKC4U37qha/ZlT5NRwIBZEBjU1Dfi8NQUwv5AmL5QYrcYxNOt16tzzk07/kiyLba3zd+YqJxSvUbxOYY3Cas5vIg/JZ83tlDPHod7f+jAeXwbhEorAvdGasZCzonOHJLuEmgXFeirsEAKE4ZoNhbeQAzlz0uUHRWA9HlcFhCJgmeLhtVthOwKXCEVo54kuIRjWJeVQvEfHkW+d0u1DGAzFMCgCul6jHw0ikPutAMWAcJxMuosF1OvWFwEIxSGUnx9bHOI3MF8gPl0pob/8pwAAAABJRU5ErkJggg==",
     "wiki_name": "Dark bow (bh)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Dark_bow_(bh)",
     "equipment": {

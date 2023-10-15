@@ -1,7 +1,7 @@
 {
     "id": 12144,
     "name": "Clue scroll (elite)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": true,
     "examine": "A clue!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3klEQVR4Xt2WT2sTURTF875BV9l0M9DFQCBQCiJFCoKLbqQoDYgWS1uJFkxLSqoLxVKLWkqrJISGhrT+FylSLBURUReC4MqVn8GVH+LquY/75s3LJEwbk5FeOEzazH3zm3PfmUwqdXxKkVaiJRCKfv/M0K8ffpJQit5sXqeX5ausuVyWvu17DDTo4djTUvS2Pke71VnW/uZlOqhN0ofGFJWX00m4pGivVmBnAASY9/VJ8vv7jEM9dkkZd0JAXgDkdnS5FL2uXDNALkx8oH+WTGXGhY0NoKfrV+j5w7xJndvRXIpTuXjxVMzzW1YAA2EjQ4B5Ub1p1BpM/x+plGRKOt0zY1R4VAIj7nzd8ujzrtazyiIrANP69HiGHd2rTnAfJMmMP2pTze5Uli4Zd74fDDAMjtCTcikkwKAHjwn0iJDYIwBFu9NYnTbuCAiEvwGx82iBhXM/bk9zIuVhurM2w2u92y7Sl1cy5lil2FoXpn5fj0vGJCPDEbJhROjHjaEPUHjAPriRMw7FcEnPHosgUZAsjjvEqARIxuU6I5J+OAogfJb1Y8PgorKQRNweFTZuK5jGerEJBq6gDzdog8SCQTM2nAgwAoQ7lCTJpgVQFIwACQyOh3AFpeheaZznK8KiAgTXbBBxRYAAE+WO/fA8BAxK0dL8GN1dOEcToz6nQ2BqKzqyLoztTBSM7JsjwEgpKhdH6PbUCRo92U/D2TSnCmoHAm2tzTeNCq5CAuReLUYpHsHs+SzlxzI0MujxRobagbgwMir0deQOAM4MDdDGnTQtl9LskkTUhnBhXCCkqUMYKX1xvHQ1v3jp72wIqLZa4J8F7DmkUoAw5g5GFZR9cffu7O8AwlrRr7IuUFR/R9VusRDYXyAIyYwCcnu7WgJWGB+m/FmdzCG/LzkgXeFkbty6kCSQotzpTCiZ+BXHwzUhIJTil32kMuOnzN5qtwd7UMHrqoAkCKPrvwHpRv0Bebklbk2ZKoEAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC2klEQVR4Xt2WT2sTURTF8yihpIQEabFYQdqFFRvQVvrHoMWUpqS6USy1qKW0SgihhIbQqigqQhHFgooIgnQnuHDrzu/h2m9y7bmP++bNm0mYNk1GvHCYtJn75jfnvjOZROL/KUVasZZAKPrzK0O/f6bjhFL0evMavShfYc3lsvR9L8VA48PD3YZS9K4+R7vVWdbe5iX6UJukz40pKi8n43BJ0ZtagZ0BEGA+1Scp3dtjHOqyS8q44wNKeUBuR4dL0avKVQPkwkQHOrZkKjMubGwAPVm/TM8e5E3q3I5gKU7l4sVTEc9vWh4MhI0MAeZ59YZRczD9f6RSkinpdM+MUP5RCYy4820rRfu7Wk8riywPTOvroxl29G11gvsgSWb0UZsKulNZGjfu/HjfxzA4Qo/LJZ8Agx48JtAjQmKPABTuTmN12rgjIBD+BsTOwwUWzv2yPc2JlIfpztoMr/Vxu0j7L2XMkUqxtS5M/Z4el4xJRoYjZMOI0I8bQx+g8IC9fz1nHIrgkp49FkGiIFkcd4hRCZCMy3VGJP1wFED4LOtHhsFFZSGJuD0qbNxmMI31YgAGrqAPN2iDRIJBMzacCDAChDuUJMmmBVAYjAAJDI6HcAWl6G5pjOcrwqICBNdsEHFFgAAT5o798DwEDErR0vwo3Vk4RxMjaU6HwNRWdGRdGNuZMBjZN0eAkVJULg7RrakBGjnZS4PZJKcKagUCba3NB0YFVyEBcq8WoRSPYPZ8lvKjGRo6keKNDLUCcWFkVOhryx0AnOnvo43bSVouJdkliagN4cK4QEhTmzBS+uJ46Qq+eOnvbAiotlrgnwXsOaRSgDDmNkbllX1x9+7s7wDCWtGvsi5QWH9b1WoxH9gBEIRkhgG5vR0tASuMDVL+rE5mf7onPiBd/mRu3LwQJ5Ci3OmML5n4FcfDNSYglOKXfaQyk06YvdVqD3ahvNdVAYkRRtc/A9KJ+gvaCIHkVFnB7wAAAABJRU5ErkJggg==",
     "wiki_name": "Clue scroll (elite)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
     "equipment": null,

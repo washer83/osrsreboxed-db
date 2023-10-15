@@ -1,7 +1,7 @@
 {
     "id": 10842,
     "name": "Decapitated head",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2007-02-06",
     "duplicate": false,
     "examine": "The head of the Troll King...nice!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3ElEQVR4Xu2VwU8aURDGff9B772QcDDpyVtjGpI2pvFgY2pqaqyp0TZNe+mhMcRY0SAFKqCCiICsdJG1UA0xLTE9+59N+YbO8nYlaUQWPHSSL4+3u2/nxzfz3o6M/A/PQtF1DS0U7aQeUWYvYCu7HxgWlKLE9jhDyAiYw9xj1oChFMWi4wwAmMjWQxsKEqAxn28QUMoGQLkwQgCEBMgoPfHCpW4vbLsjQHr/iEvl4wm7l/rokqLN1dUu/1LZyQUIjsi1itmGAbQnQE4oRbvRKKUiES4JEgMEvzECBnBYEwoGvQMSqMRWmDLb26x0PM4CDCCs6lO+/zW8ScEHfpanQBBA8nu7dLiTYh0kk7YEEg4CBnCv5+a6lLznuA4ElfYzrGImbQvz8NioLQH8vLJCbxYW+gXVHaicyzlk5vN0UiiQdVTkEXMjm2UnAYY175eXbwvVHQZCYujUKLFqxwbVv5XpzDRZmANMoKAv6+t/gXqGcu4wHUhPfl6psBrVKuvCsli4Blg4KCWNbYQocG+kVyj3lu/M0cySBC4gKSB/1WsONX/U+TqewRo0O3ZgIhHuBUo/FBU3J+Y4f1ACgdH7R5wSl+AgYPE8dt9bv4/VaFRpyX//plBOoPDaGs/lHHLDfBz1ce/opby8PGMnP7Tu6UoeJCkU2+D33vCMkgWKrYY7sB1ASCQw6BUk+tQ6e6TJce/q6jc1m3WGFaWLaYqkIhQM9XiKdxYoth3bWEoGh2SHQYCSxIDTZZ6ZlDWyFE/H6dnkpA1zYyBnKBsGvQEX9DJBReuIjJpB5XqZISrnFaq2eqZwUqCXMzP0fGqqXzAScpY4JdtfBAjrwqLTn9/5pMYn5MX0tMMd95t7Dvl3upBEPyBlx71bXKSlV/M0PzvrhTv/CmV/SgCCz4W44y6Xe6WHoRgArgBG3EG5BuyOHh0ocWeIMBKKnXG7435qwKHuijt63CmYdtwpmNvEHxL1xSrhSAarAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xu2V709SYRTHedaLJnNtvclFq3Qum9n80dRqqxe9aI65mWhIQPxQURENRCSGgBEx2VxrzPUX+I+e+B471+de2RrIBV50tu8ennvvc8+H7znPcx2O/2FbKLqunoWi9eh92tp0GYrvuHoFpSgcGmIIGQGzl3jA6jKUooB/iAEA41u7Z0BBAjQ9PNwNKGUAoFwYIQBCAnSYfmiHS81eeOmOAOn9Iy5ljx4ZvdRBlxStLi42+ZfKSC5AcESu5XOXMIC2BcgMpWjD76eoz8clQWKA4DdGwAAOazxut31AAhVe89J2KMSKBYMswACiWHjM9z9/XCX3HSfLViAIIF82N2hvPcrajUQMCSQcBAzgXkxONil523EdCErvbLNSWzFDmHvvDhoSwA8LC/RyZqZTUM2BsomESbn9fTpOJql4kOIR80w8zk4CDGvezM/fFKo5DITE0MlhmlU+ylDla5aquRwLc4AJFPRpefkvUNtQ5h2mA+nJT/N5Vq1QYJ2VSixcAywclJIGVjzkuuVoF8q65a/maGZJAheQFJC/vpdNqv+o8HU8gzVoduzAcNjbDpR+KCpuTsxx/qAEAqP3jzglLsFBwOJ57L5XzgFWrVagOeftVqHMQN6lJZ7LOWSFeTc4wL2jl/L8vMpOvm3c0xXZjZAnsMLvbfGMkgWKrYY7sB1ASCQw6BUket84e6TJce/i4jfV6xWGFcVSMfJFfeT2tHmKXy1QbDu2sZQMDskOgwAliQGnK1fNUTwTp2AsSE9GRgyYloHMoQwY9AZc0MsEpYoHlClnKFvJMkT+NE+FRs8kj5P0fHycno6OdgpGQs4Ss2T7iwBROivRyc9vfFLjE/JsbMzkjvXNbYf8O11Ioh+QsuNez87S3PQUTU1M2OHOv0IZnxKA4HMh7ljLZV1pYygGgCuAEXdQri67o8cVlLjTQxgJxc5Y3bE+1eVQ/eKOHn0Fcxl9BXOT+ANENiXo6za5cwAAAABJRU5ErkJggg==",
     "wiki_name": "Decapitated head (The Fremennik Isles)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Decapitated_head_(The_Fremennik_Isles)",
     "equipment": null,

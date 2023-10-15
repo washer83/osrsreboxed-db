@@ -1,7 +1,7 @@
 {
     "id": 747,
     "name": "Glowing dagger",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2003-08-20",
     "duplicate": false,
     "examine": "A black obsidian dagger. It has a strange aura about it - and it seems to be glowing!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrElEQVR4Xs3Vz0sCQRQHcOfv8OCWB6HTXiOCBekQwtLSkuwhXQQj8NatY2CKP7KspAhF6GD0V758s8zuzLgWgftmHzwQV3Y+fN/btVAgLwb6NwaLQam0BzlAIYBBs9mG5fKbf7YtyxQqSuX2bgDT6UeMMQBKUkHMYPBsFoOpIGb2/gm93iNY1r6JUUWpCMyx63PMYvFlIp0EIjDYBkalpoIjEhgDo4og8ohkzHy+okwnSWU4fIkhhzUP7teYfv+JKh11RDpGpBOGVxTpqCNKw2A6eI0MI54iHUM8qu0YAep2H/ioCNL5GyOPKsN0kv8iGaOPSixxxukwcJwTBYHteAFvGYNvYmxMJtN0yuVKDBFLqyeDPRq9bmAyAWFCMkZG4JOE1yaTNwoMFgPPu+AoeYFFj8czaLWuqTBYDBqNNrjuOUeJvRGNGAEiwGAx6HRuIAhCqNXONpJKA+l32HGtD7GPoFKxoV6/5Khq9ZTvTRomY1CCwbasA/D9gO+U3DhOgnRUTLGIh0UvyLTOOB0Vox+6rfW77Kg2MQSH/lYsFaP/irhI9uJ/lStMXuoH5nNCPjC71JcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xs3VQUsCQRQHcOckigSeQjdMEjY2w42wQydvHVzwYOCla5ai4opUJGbHPPSdX73Zxp0Zd4vAeeODB+rKzo//e6uZDHkx0D+xWAxKJQf2AIUABkHQhdXqk7++qFZtoaJUenf3MJutNhgLoDgVxIxGz3YxmApiwvk7DAbz7/dHNkYVpSIwZbfOMcvl2kY6MURgsC2MSk0FRyQw0aiix5wMgwfKI5Ixi8UHZTpxKuPxywZyWPPg4XEGw+ET1SKrI9IxIp0guKVIRx1REgbTwWtkGPEU6Rh1VMYXOR0jQP1++DMq4+n8jRGjare7Jhc5/i+SMfqoxBIbToeB4xwrCGzH83nLGPwlxsYUy2WD6eTzhQ1ELK2eDPZk8sohMsYICBOSMTICnyS8FoZvFBgsBp53zlHyAoueThfQ6fSoMFgMms1rcN0zjhJ7IxoxAkSAwWLQat2A719BrXa6lVQSSL/DjotBsViCQqEIjcYlR1UqJ3xvkjCGQTEGO5c7gHrd5zslN46TIB0Vk83m+KFpbTgdFaMfmtb6XXZU2xiCQ38rlojRv0VcJHvxv9orzL7UF0g9+pRoZz9wAAAAAElFTkSuQmCC",
     "wiki_name": "Glowing dagger",
     "wiki_url": "https://oldschool.runescape.wiki/w/Glowing_dagger",
     "equipment": {

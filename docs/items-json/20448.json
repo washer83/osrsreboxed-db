@@ -1,7 +1,7 @@
 {
     "id": 20448,
     "name": "Fire max cape (broken)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2016-07-21",
     "duplicate": true,
     "examine": "This cape is broken.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiElEQVR4Xu2WS28SURTHGf0CXekCpSAvOy3pVEVKUEIpj8orgVIow8MWaCEtrRA1Rq2GxMSdSdO4cufClTt3fgW/1N8593aGobpwAXc2nuTk3gsD5zfn/M+912b7b3M1CX+fW2IShu0iOIiE2o2Fy7klJuHb+SsGoDidbPz187tpLdy0jBRiU0A/vn62FuhifIRYOGiU7OPrU8g2mxVlkzA+jqJTTUP2O9FrVnA26uGkrRpAgrMk4f1JAu/U+3g7qDFh75WTOKhvWwcUCgbR21HYeE9REJBlrK/acf0aL59woIF9gcFUQg7spO5iO3QL+ZgXfrdbNBDPzqAaZqOakVHc8KAUvI1IOIxxb9MaICoTubrhQnnNjkrKxz7/cJS0Boh8L3oHjwM3sRtzGYCkJYFAEitLv7TCgDoFGY2kG+qm1zqgZ4UAhvuPOFDCw7yRWbIO6LQZwnHGz9s+4UO/oqDx0GGUsRB0wGm3M6irv56xSSxQP83FS96vrKG/+wCtFAckb0RdBpCALHEoXdiH5VW00x481cpI6y9nRdZlgoAmMBSYALqafrppL+oRJ1vrzwgDItGagejoaMe9aOR519F3JGrLgPbjbnSSHtQyy1NAAjpNQmvLx7Si64fgWtq6q7V8dUu2AEhr8VaOB6LgVJaaph0qF811oNL6IkraNjB3ILNYafw0eoJ6dpllygxEczps5wxExu85h6UAC3r+PKud9HyHZtnK8nLq4Dr81X+ZsUnsekHBLl7mUAsvGkCFuP8SYOKUoTlmSbvED9LGmw/zS6jnVhjQSI3gRZO7GWSOMLpN3v5NO6aJ2mFsBYKy8qfxYJPSkR8UuaCFw0ybUL38m5m1MkuY3zHs6KYZK9IKAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACeUlEQVR4Xu2W3W/SUBjGqcSQLVhWPldKx76cAhvgAoEiED4G20RhICIUJWObQJbo4q3R6JXXXvpf+Cc+ck5p6aYXXkB745O8OecQ4P31fZ9zeiyW/1qqGPx9booYHKVCUEAYxO5bZ3NTxODrqEYB4pubdPz187tubbimFdkTbgH9+HRtLtCknYfgc2st69fLYC0WM9rG4Nv5Y6SjW2DtK8ge7qNZyaKYimtABleJwZerGD6fijgrxKixk5EgpCdh84C8bjdGtQ06ujgODpZFOszBes8koILNSmHaoTW08zxaYRYvpHXYV1eNBlKqU4j66NgrCTiTvGg8coD3+fAqu2EOEGkTiV7SidbOA3RyCmA3HzQHiMQg6kRu147XCacGSLxkIBBD2zKu+inQZZlHX3JBTnvMA/qQ9+OmF6JAF0kXjTdF3jyg9y93cZ3xKNs+6cGkJkLeY7U21qe7bsVmo1B3f71gMTTRKK0kJjF+HsS4sY1Bxqt9Jsc4DciAKilQqrFHz0QMM1NzVwN0/bEZorvMIKA5DEmseuhSmp5F+xxdq98xDIiYVg9EXh3DhAf9iqgBEVObBnSecGGYdqFbUlqmAhmw0xgMcl7qFdU/BO5tVcRVfh2domACUGoKVOI1INKWzgFH20XmKlArwqEZViq5VCC9Wcl4UdmGXBZopfRAZE5etksGIlKuqaOTAE367ngH8uyEJutuWdSA9PB3/2XBYuj1giSbnD5EN7KmAdWf+mcA8yAVWmKVppf4wpb25DdZL+SjAAWqxHmcHCqhB1kijKr50zdSAroHDu0oMKgqf0pJNm8dCSmkGNpwmNsy1C//Jr1XFgnzG5enshLLfkOGAAAAAElFTkSuQmCC",
     "wiki_name": "Fire max cape (Broken)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fire_max_cape#Broken",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 28202,
     "name": "Steel 2h axe",
-    "last_updated": "2023-08-03",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2023-06-28",
     "duplicate": false,
     "examine": "A woodcutter's axe.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNUlEQVR4Xs2W3WsaURDFc/+JPi/kIZCnEAihlIClFAlKaOhCEFFiJCpqRLsxaj5kk2jMB1vFhBCQUEoopX/lqTPLbu4u26fmej0wL7Lu/Dhz5t5dWHhTCYR/0SiBWqmEOYISqBYKEpRcWiRQzud9qG+VCo4tC883DV1QAsl43Ifqtlq4v73FZDxmoBXD0ANVzOVweFDFwO5ieHXFpWl0AinTZKDTZhN3FxdcTq/HFQSbCZxAfW8b3Vqa3aG6Obe5wnBPo6FqKBfmpJrCUdHkZpQjGh0F2+50GJBgHr87fqYU5Upg0XjHMM5JwR8JAbUbDQ53/+yUHRpdXweAwm96Iwm8X11Cv5mTGgnsZ7PsELlDY6MMEYxiIIHlJYNhJoO6786XRAJ76TSfRxRwGhcdATMBInceL6sBd2QgGhPByKUIaOrO6iLWP61g8HIUACIIGcRzzisFgZ4GednAh8019H5YEU2iAeQKvu+/5DYhGHvi5iaqiUIAWYJHFEuuI25uoOm4a66wYZRerR+dFVHqplHvuyv+L3cUSuBgd4uvA9okb5vCuQj/S5EEXwMP5xXpm0YLCGn6sZVJ4q6Tx8vwdaU1gJAE8jtx2I0Mnvo1HTmRJZDZ/oh2eYdH9WvU8oHCT85AAmZiA9b+Vx6Vlxut7tBG0UVJo/o9but1J7UV87fqp3Oo3x0Ksgf05+FYrzubsTVeczoACUi7O7vmZw7zpZXF2C7rdMdT9OdC+KmZyoOYC5h50l+KggS+Q1rr3QAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMklEQVR4Xs2W7UsiURTGux/2gxHBUrRs0m4mtrQDuYqZ4WuoTabYi1lp9sKshQURFMvCQixE//eT5wwz3RlmP23X6wPni4xzfjznOffOxMS7SsD/i0YJlPN5jBGUQCmblaDk0iKBQibjQm0Vi9g1Tfw6r+qCEohFIi5Uq17HzcUFHgcDBvqxuKgHKpdOY3uzhN5hC/3TUy5NoxOIGwYD7ddquDw+5rI6HS4v2EjgBCrrK2iVE+wO1flRm8sPd3/VVw1lw+yV4tjJGdyMckSjo2C3m00GJJi7n5abKUW5EpgMfWAYay/rjoSAGtUqh7t7sM8OXZ+deYD8b3onCXyamUK3lpYaCWykUuwQuUNjowwRjGIggempEMM89CquO9+iUawnEnweUcBpXHQEjASI3Lk7KXnckYFoTAQjlyKgoTszk5j78hG9px0PEEHIII5zTikI9DDI0yF8XppF57cZ0CQYQC7v+/5LdhOCaT/YuQlqohBAluARhWNziBjzqFn2mitsGKQ3668Ocsi3Eqh07RX/lzsKJbC5tszXAW2Ss03+XPj/pUiCr4Hbo6L0TaMFhDT82ErGcNnM4Kn/ttIaQEgCmdUI2tUk7rtlHTmRJZBcWUCjsMqj+ntdd4H8T45AAkZ0HubGdx6Vkxut7tBG0UVJo3oeNPS6E18Ou1v1x9rW7w4F2QF6ud3V685SeJbXnA5AAtLuzprxlcN8YqYwOCzodMdR8OeC/6mRyoEYC5hx0itWE7vpmIQWnQAAAABJRU5ErkJggg==",
     "wiki_name": "Steel 2h axe",
     "wiki_url": "https://oldschool.runescape.wiki/w/Steel_2h_axe",
     "equipment": {

@@ -1,7 +1,7 @@
 {
     "id": 18884,
     "name": "Lit torch",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2002-09-09",
     "duplicate": true,
     "examine": "A lit home-made torch.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbUlEQVR4Xs2WsUrDUBSGe97AKUuWgEOgIIiLODiUIFICErG0pKElGixBVOjgIIgIDg4OCq7iK/gSPoUv88u5l5PG7Ln3fFAupAl8/Of8aQeDXiF0r3iCRQifWWjO7reOIXw/ighhN4rMp3uXYzYiCmQsakSU4n2R2xA+zgMN7RKUtevnLcLvV6whIZuMkoQI4yTBYjZDfcwSIuYFQpamKOc5LoqikXpfe1lsQj6ZNIlcVdU/KRld96mesGPi8yaN8DC1i3y9WuFyuTRSjoUYQnUU4e50G095jOdiaCRu69ok5ViIMD8Mm3RY5mUxxGtppXh8m3H2DiHZ2TLp3J/FJh2R4VN2ShJykBKhHIVYn2xG1ZZp//VwIjPeC0yL2qPqynSf6hGbTntUXmWy/cAssgIZxtZc9sa7zPTAjkqFDNecWyUy8hL0IMOQaZXsDZ9e0+Gac8UVyDBkfqt4RCpkuOJKZATSJCOokrG4kvkDNLw95Tco4MoAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZklEQVR4Xs2WwUrDQBCGO0gIkVAPgoJgrA0YtKVpSqORElGkBy+CiODBgwc9eBdfwgfxTXytsTPLJHHv2Z0PwkLT0I9/5m87GPQKoP2KJ0gE8DML+bTvOgbw+1FEAOejEV/2uxzTiiiQMagRUYr3Re4C+HEeaGiXoKxdP28R/n7FGhIyyShJCHCcJLiYzbA+jjpiXgDM0hTLeY4XRdFIva+9LDZgPpk0iVxV1T8pGZ39VE+YMdF5k0b4MDWLfL1a4eVyyVKOhQjA6ijCu9NtfMpjfC6GLHFb15yUY6HNhx2ETTok87IY4mtppGh87Th7BzDZ2eJ07s9iTkdk6JSdkoQcpARYHoa4PmlH1ZXp/vVwIjPeDbhF3VHZMvZTPWLS6Y7Kq0y2F/AiK5AhTM1lb7zLTPfNqFTIUM2pVSIjX4IeZAjgVsne0Ok1Hao5VVyBDAH8W0UjUiFDFVciI4AmGUGVjMGVzB+OXRREAAWlWgAAAABJRU5ErkJggg==",
     "wiki_name": "Torch (Lit)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Torch#Lit",
     "equipment": null,

@@ -1,7 +1,7 @@
 {
     "id": 12821,
     "name": "Spectral spirit shield",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-10-16",
     "duplicate": false,
     "examine": "An ethereal shield with a spectral sigil attached to it.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC4ElEQVR4Xs2Wy09TURDGe5cumrg1bkiMgZiChUKhFIpoRU0IbjQaozFqJJgatL5Cd7jDnStYaWOiwQeEpkktsSWl4iPqHzXyzbnTezi1r9uXXzJpoD1zfvebOWeux1NTFqlolZrKZ1Fw6CYN+i7bSVwnsmVRaPgOhYPzbnNZNDF6jxMM9V+h3mMzLsHUmrHAbRtogf/29/Q0mGd/0ZnJJxSNPKXp8EOGG/Ffp77j5zWw2gGXRwO3GGh85G4JxhXQIW/UjnP7cYG83lk6Nf6AN/H1ztLAiYvk911iB4dPXqPAwNUDERy8cQCoCRhR+RMz2OE5ftrJsZhd1gUuLUqCjQEAEAayo0UwHo8kcZJZ7FIkdF8Dmi8DQXn/BWTuUqcs7XSZstgRARIYHUSipUBIcvSIv6xkCJRrKrRIxe2sgrFB0EdtA8KmSASn+vvmuHFREvz/Z6FAv4q79D2fp3w6TeuvXzFMJaAm+0f1CDZGWaoFoBAolwCZUE3CQBaXoxoQvsfnj50d+pbL8ekyoSSaLBVk8Wa1gODi769FLpv0knkXtcAdyAHSQwcCzJ+9PXYHMLvZz1TIZLhE6DVEi2AgBYT7RQCmw/HS3QN3MErQOzjyaOpcKkXbm5uUeveWD4EOZGZ3IdVDGBlyzGemEnQ2slSaa9I/6B1E5tNHSr9fpw/JJCVXV0vrKkfDUgv121kiGnnGwF+2trhvJAADODiV3dhgt96srdHLlRV68XyZlhMJWorH6VEs5g7KrL+AwSUAyeySHpPhWU8A1hVUuRwgQMgwlTmG7+VBqoX+O3OHBqTejwCDhjcne6Ob1Pu7CrLo9MTj0oUo7ujTXYDMlW2S88qBSa8DSV804k6TUqWSu0gHMnvGXNkGqSZGueS9Wk5Xh12BlDPijnoZU+50BQauAAaf0jtd6BfIYkcECM6YIB2HESDzfukgCKTKJECmK+av2yznaJsgXYAR/TcgjroN8hdBvUDwAJ7zOAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC40lEQVR4Xs2W70tTYRTH97Be1CtxTKdjc9e1Zc2iRHoRERKlUMgoYkWRSkTSC/FdDXpRYKGIicEyoTEZZhYRRX/had/z7Nx796y57d796AuHse0+5/nc7znPj0CgqRTp6JR85VMUH52jkfDVahLPiapSlIjOkxW74zWXomT8HicYHbpGgwOTHsH0mLHobQYaj9/l75csq808lUFnk0/o3OmndMZ6zHCxyA0KDVxwgTUPuByP3mIgK5a1YTwBqWCmGucrcZGCwSlKW494kvDgFA2HLlMkfIUdjEauU3R4piZiIzdrgHzAiOrfmMFOTPPbJsdy7BzKgNKiJJgYAAABkESHYAIBSeIkU+xSKvHABgJMHUilvP8CMmdpUcq1ukwpdkSAbBg3iEQngZDk1MlIXckQKFc68ZAO9z4xjICgj7oGhEmRCE4Nhaa5cVES/P6zXKZfXw7oe6lEpZ0dWnv5Qjd1AyCf/aN7BBOjLMcFoBAolwCZUD5hIMXlOA4I/+Pzx/4+fSsWeXWZUBI+SwUpnqwZEFz8/fWQyya9ZO5FHXAHcoDcUQNUgflzdMTuAOZg9yOVCwUuEXoN0SEYSANhfxGAifFFe++BOzhK0DtY8mjq4vY27W1u0vs3r3kRuIHM7B6kewhHhizzyfRzyqSW7XNN+ge9gyisr9OHt2v0Lp+n/MqKPa5xtC090L07S2RSzxj489YW940EYAAHp3Y3NtitV6urtLywQIv3c5TLZml+dpbmZnRvmTM2lVl/AYNLehXqs0t6TA7PVgKwnqDq5QbK2oepnGP4X17kuHA/Z87QhvT9CDBoePNkb3eSVp9rIEUTySV7QxR33Ke7AJkjuyTnyqHvPg6Q9EU77viULpXsRW4gs2fMkV2QbmKUS+7Vsrp67AqknRF3cBkTd/oCA1cYpvIpvdOHfoEUOyJAcMYE6T1MFcjcX3oIAukyCZDpivl0l+UsbROkDzCi/wbEUb9B/gJPD+O8S9NZAwAAAABJRU5ErkJggg==",
     "wiki_name": "Spectral spirit shield",
     "wiki_url": "https://oldschool.runescape.wiki/w/Spectral_spirit_shield",
     "equipment": {

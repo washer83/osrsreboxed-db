@@ -1,7 +1,7 @@
 {
     "id": 8296,
     "name": "Large map",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": true,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": null,
     "duplicate": true,
     "examine": null,
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoUlEQVR4Xr2X20oDMRCG2zfpI/gePpEHRH0Cr1SoFA8XVkWLiN4JBUUQEa1IRRB8lMisnTr+mexms5MNfOx26Ob/MptcbKfT6ug6rBgPCojnfG91dh89/EnKOOuvuK2lxTknu8ulsNBCrxcj1S0ekgEIBtQlSciCl/G2B9WThXAirV7G2/3gH6ZCPBnWNAFNxkwIJ8SaZPp4XIC/uWYmJEOoJoMkn88Xc2Qti5C2cilQRjahUDeqYCGeN1mIqNORr8mNB3ansZDcM1XhxPf0tiCrEHdJinBwiOxChOwOCiDZhFKlWIj+S1ImQjQJvjKU0fZPViHsjLahtTrX+ECYC2GHZCjW/zozLK5SxlQIjz52wa8N3cfTqa2QtoekRAg+WXRFqWQhAruDwRwu7xle0PvDoXsd7zQXkt1BgZCERHZ5ctfPI4ShGiyBr95MSAsrg58PYSYUG1hFI6E6K0fw84kZDdbShGLBQKpxF0KQTGMhGUhfq7TSy/11LwxDQ2ByYPwKUSCtkgKvDjbc9dGmFxgTjLMnDj+0peDwwMDWgmfjB3vdb2PFrEbeAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xr2Xz0rDQBCH2zcp+AI+iX9Q9Am8iYJKEfUiSkELgujVgx4UPBQPolARWvDiwWeKTOyU8bezm81mNgsfSafJ/r6dbA7pdFod3QIrxoMC4rk4WJ2dRw93khCDvZVia2lhzvnuchAWWuz1YqS65U0yAMGAuiQJWfB2v+1A9WQhnEirh/h46v/DVIgnw5omoMmYCeGEWJNMRqcl+JtrZkIyhGoySPL1ejlH1rIIaSuXAiGyCfm6UQUL8bzJQkSdjnyPbx2wO42F5J6pCid+JnclWYW4S1KEg31kFyJkd1AAySaUKsVCdC1JmQjRJPjIUEbbP1mFsDPahtbqXOMXwlwIOyRDsc7/TUdn5VHKmArhq49dwBoJTV8GtkLaHpISPvjNoiNKJQsR2B0M5nB5zvCCPp+Pi/eHneZCsjso4JOQyC6PH/fzCGGoBkvgozcT0sJC8P0+zIRiA6toJFRn5Qh+PjHD/lqaUCwYSDXugg+SaSwkA+lrlVZ6dbjuhGGoD0z2jD8hCqRVUuD10UZxc7LpBMYE4+yJww1tKdg/MLC14Nn4BbSNcCffG5b4AAAAAElFTkSuQmCC",
     "wiki_name": null,
     "wiki_url": null,
     "equipment": null,

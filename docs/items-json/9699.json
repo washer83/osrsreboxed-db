@@ -1,7 +1,7 @@
 {
     "id": 9699,
     "name": "Fire rune",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-09-20",
     "duplicate": false,
     "examine": "A fire rune.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC7UlEQVR4Xu2W/0tTYRTGff+O/TLwh2AQjEBCQjAkJAxJksQkySSTNMnMzPzCMjPTzGU2bctmzjLXzIii6J878ryX83Luq5vuvvf+Eh144A623Q/Pec5535qaf7MUVafIyntBanycHo+M0IO7gzTY10d3enuNbvf0aN3q7jaKAMoDefEkRc+mJml6bIweDQ/T/YEBraH+fiMAQgC53tFBne3t+rfJeDwsKEVvFhZoaXaWnqem6enEBE2Ojmqgh/eGfGIQQFxpbTUtA0xIQIoyr5YoPT9PizMz2h20Cw4BCrJBLjU308WmJh9IaDDZ12l6+3KRlufmTLugciDnGxqicAWlKLeyYtyR7YI7CDSAkBnAnKuvpzPJZBSuoBRtrK763AEQO4SWsUMSiJ3xy7kU5TMZnzsMhAzJUEsgtAq60NiohQzFYzFXKEUf19a0O+vpZe2ODQSXjgKCrra1mWfOkkPrFBXerfvcARDG/agMYeSxFOXe4cV4uaXFtNAJRrrDQHAnm4iZ7HCYJYzczje7unS7ztbVBQVStJvPa2cAY08WYCCeLDwDBttZwmD0AYN2IUOnE4ngQHAHE8W5gSvIC8NAyAw/S3ckzI1rnbpdyM+p2togQIpKW1uHXEFwJYwtdoc/MwzOLSxHtIsnrGqgz+9zvmmynTmJGAbtQn6wIAMDff+0rfODaXIFwmGKdsn8VA30s7irQ438MJT9wuPEQDzuAd1BKfpdKtGPLzs6R0GhAMTtcsgPStGfvT0NhEmTUPZLKwmhxpa2xz0Q0N/9fQ2EaeMtfVIo7CAeec5PwHGXpejX16IGkkcHQ8lTXl47ePSxh3j/OOaHy2sbpm3nw0ZVUFiONpBDu2R50/atUNATt53LloWSFzS4BCA5YY7uyPKg4FRxc1MvTBy25aBwlNhAIbkjy7vlsVMMxTcACVUJyP5Xp/L+0AMDEDJlA+FeBCAcsgDi74fsjr8k2HFikMhgZMmXVZL9u/8VZh0AUJbEcfmrjEkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xu2W7UtUURDGPZ+WJDYkSVIyTTLM8CXMDDMNMzPDl8zMzDQzMzNtM1vMtDDbxexDFBL0z048c5nL3JO7uvfc+yUaeOAu7O798cwzc05R0b9ZhgpTbOW9YHRggAZ7e+nW9S7qam+na21tvq62trKutLT4igHKA3l8f5Qe3h2mkf5+utPTQzc7O1ndHR2+AAgB5GJDAzXW1/Nvm6qqooIy9GJqimbGx+nRvRF6MDREw319DHT7RndAAgKI87W1fssAExGQoVdPZ2hucpKmx8bYHbQLDgEKskHOVlfTmcrKAEhkMKnnc/TyyTTNTkz47YJygZwqL4/DFZShlfl53x3dLriDQAMImQHMybIyOl5SEocrKEOrCwsBdwAkDqFl4pAGEmeCci5D6cXFgDsChAzpUGsgtAo6XVHBQoaOJBKuUIbeLy2xO8vPZtkdGwgu7QcEXair858lSw6tM/Th9XLAHQBh3PfLEEYeS1HvHVmM52pq/BY6wWh3BAjupJIJPzsSZg2jt/Pl5mZu14nS0rBAhrbTaXYGMPZkAQaSycIzYLCdNQxGHzBoFzJ0LJkMDwR3MFGSG7iCvAgMhMzIs3ZHw1xqauR2IT9Hi4vDABnKrq//5QqCq2FsiTvyWWBwbmE5ol0yYQUDfXq7Epgm25nDSGDQLuQHCzI00LePm5wfTJMrEA5TtEvnp2CgH1+2OdTIj0DZLzxIAiTjHtIdlKG9bJa+f97iHIWFApC0yyE/KEO/dnYYCJOmoeyX5hNCjS1tj3sooN+7uwyEaZMtfVgo7CAZeclPyHHXZehnJsNA+ugQKH3K62uHjD72kOwfx/xIeW3DtG29Wy0ICsvRBnJoly5v2r5ubPDEbb5J5YTSFzS4BCA9YY7u6PKg4FRmbY0XJg7bXFA4SmygiNzR5d3yxCmBkhuAhsoHZP+rU3l/6IEBCJmygXAvAhAOWQDJ9yN2J1ga7CAJSGwwuvTL8sn+3f+Ksv4Aacvu1CoryA4AAAAASUVORK5CYII=",
     "wiki_name": "Fire rune (The Slug Menace)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Fire_rune_(The_Slug_Menace)",
     "equipment": null,

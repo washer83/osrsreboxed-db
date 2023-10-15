@@ -1,7 +1,7 @@
 {
     "id": 11807,
     "name": "Saradomin godsword",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2013-10-17",
     "duplicate": true,
     "examine": "A gracious, heavy sword.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADC0lEQVR4Xs2W3U4TURDHu2/CI/guXpsYEq8aiZFEEjSmalQ01iDUVltrKzUsRRGhqaDQpATBrxhACXde+CRH/mfz385Oj80uXQ2TTObs+ej8dmbObDOZ0y+ecatr/Z+LZ5bnrpul+jWrr2pXTfPZpFVCbLUemO7KfdN5e88BpV9iaPAAiFAAomqYzTd3zfri7YhjPGNNaxQqEaRnVhq5PihYgFAJtNa8ZVrzN+xeWBcQ9kvow905c7BdORkUgTBmdAj0YemOBeJeFxCj+nOnbo6++Me6YIEwf2ZkxKr2riQIO9+aQHDqAmr7N0MgjCUQfqtcfmmtBMKYQNq7Ei+SBjhiceNZA8E5IACDsxIIz8VizdRqzXSBGCXMuYCwD+darY61iBrsk6cNUyq9MPl8UQH5yYBYFxoIzjWQLGicpVYq82ZmhkXrma8bjyJAPz4+Hx4I8wAiFCPJPTi7t39k6vXFMCqspW+bs+kCQQEggXRB46zvr9q6kTDYu9cthkCHn4Iij33DJJCEwo+7gAgDkFwuKGZ57bF3v1tyAmnvf5Eg73CmgTAPIFh2aAJVq761iGQf0Fb5pECBI0RIA2FtbOyKtRMTwTNtoVC1Fuc0EF4gAiSaovauJHg7FxCUERofnwxBoLjesNijgRCdVIEIBYWD7XY+BJmamrY3Kpu9HALinE5XakAySrASqP36sbmUPdeXOhfQzruHAmghhIkFhJvjApKfg9+/DsyF82fDSCGFMmW6fnbXpiMRihkdSA9I1xE/B9CN1aADyw7NOpNATNfn9ykCEQprqBlGA+uyaWIsIymB0KUlEKG0d4cEQK60Ya06O2otnMQFQs197xRCIPSgBH0oCkQozC83LloLB3CEeQnjAgL40EC4ZRqIEeIbwxk/GRoIZ2W6UgPSacO8BGJBy3QRiHsBhCsfATruQYn7kCttEgjjQUCyflIBcqVNAmHNVdBQfjaYriGBIL1/fYNU1w9VA6EpSiBqAqBMhm19kGpAqbJ+UgGKKxoyDiy1t/c/iYZ0qT5zquUPS26RqdFVCAcAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADE0lEQVR4Xs2WXWsTURCGk3/Sa69EEPEqSMWCvaiiVVGrGLG2MUZjjCHWSk1D/KhUQ/xASwOVUkvRiiCtVJR6652/aOQ9y7uZnR7LplmlA8OcPR+ZZ2fmzCaV2v2SFr/61v+5pGVm4oQ8rh532qgck/rtIaeEWGxekoXZi9J+esEDZV+iZ/AAiFAAolqY+Sfn5XXjbMQxnrFmNQrVFWRaZidPboGCBQiVQC/rZ6Q5dcrthfUBYb+G/r4yIRtLpZ1BEQhjRodAbx+dc0Dc6wNiVL8tV2Vz9YH8XJ12QJjf29fn1Ho3EoSdb00gOPUBtWqnQyCMNRB+q1i876wGwphA1ruRdCQNcMTixrMFgnNAAAZnNRCe8/mKVCr1ZIEYJcz5gLAP55rNtrOIGuyNm/ekULgr2ez1CBC0KyDWhQWCcwukCxpnqaXSlIyNsWjT8mnuahTo/Z3egTAPIEIxktyDs2vrm1KtNsKosJY+z48nCwQFgAayBY2ztdpzVzcaBnvXFvIh0I8PQZHHvmEaSEPhx31AhAHI8HBQzPraY+/6u4IXyHr/iwR5hzMLhHkAwbJDE6hcrjmLSFqgr4vFnQIFjhAhC4S1/v6jzg4OBs+0uVzZWZyzQHgBDaSbovVuJHg7HxCUERoYGApBoLjesNhjgRCdRIEIBYWDpVY2BBkZGXU3KpM5EgLinE1XYkA6SrAaqPXwmhzO7NuSOh/Q8ovLIRC6NGFiAeHm+ID05+D3rw05uH9PGCmkUKfM1s/KqyuRCMWMDqQDZOuInwPo3LNbzuoOzTrTQEzXxzejyQERCmuoGUYD67ppYqwjqYHQpTUQoax3jwRAvrRhrTx+wFk4iQuEmvvSzoVA6EFd9KEoEKEwPzN5yFk4gCPMaxgfEMB7BsIts0CMEN8YzvjJsEA4q9OVGJBNG+Y1EAtap4tA3AsgXHkNhB7UdR/ypU0DYbwdkK6fRIB8adNAWPMVNJSfDaarRyBI51/fdmrrh2qB0BQ1ELULoFSKbX07tYBadf0kAhRXLGQcWGpn738SC+lTe2ZXyx/K9Js47gTXbgAAAABJRU5ErkJggg==",
     "wiki_name": "Saradomin godsword",
     "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_godsword",
     "equipment": null,

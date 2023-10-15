@@ -1,7 +1,7 @@
 {
     "id": 12410,
     "name": "Iorwerth camp teleport",
-    "last_updated": "2023-06-10",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2014-06-12",
     "duplicate": false,
     "examine": "Teleports you to the Iorwerth Camp.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB60lEQVR4Xu2VXUsCQRiFnX/itRD0NyKIoCAqgj7IhEISMSJCKvogKkoqIayoKCKii4guuui3TZyRo69vs+qotBAeOLg77sz7zJnZ2USir77+v4ytO3YZe7o5ae+OFmzlYE6AxQpp7MPJon05z9jyzowDuzmcrzkGQGPfyiv243rVXmxNO6irvdkaGNKT/g3oc1cy9r2StaXilBeIxj2N/2m29TBVYz9vc14gJOIDkpYgUQ4EM/brPt8xkIbSSwxjf+4XxtuFMvb7aa0roGZQHA9GrcFkshmUcR0ez9IdAw2kUs4SCv3w5soxCdMSCAM9l5aaArGgNmE0EGBgnHEYt00YyLiir5fLkUC6qA9GAqEPEgfQ8cZECAxkXGecQxqGs/UV1m00lwqJ41oC6coeGVcQnXEOSSDONARIpgMXsyPh6RCIyyVhaF0Uz2gYJsp08CuBdOUI1YEkDDektATSCXFPcblw5uB6OzcaAlR93VFAwjAdgjB+FMa9bxnlZsbksB9xHwzEgeT3SA4uoWRaBNJ9mA6BdvNjYUDcIzxFaR+UNFPSEwA4gQrpoVAgSH+RG633E5OSQHKZewCUSPCV9FkDylQJQpieAbVSO5AE/RMgnzSkD3Q9M+yA8C2rtsWgKMB6W8xqBOzrH+kH591RzQ4xfKAAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4Xu2VbUsCQRSFnT9gf0EKCgrKgt4wKTARI4iQil6IikIqhJCKKCiCiD4F0ac+9FsnzsjR621WHZUWwgMHd8educ+cmZ1NJAYa6P/L2IZjl7Gnm1P27mjBVg/mBFiskMY+nCzal/OsrezMOLCbw/m6YwA09q2yYj+uV+3F1rSDutqbrYMhPenfgD73JGPfqzlbLqW9QDTuafxPs62PqRr7eZv3AiERH5C0BIlyIJixX/eFroE0lF5iGPtzvzjRKZSx309rPQG1guJ4MGqlU6lWUMZ1eDzLdA00lEw6Syj0w5srxyRMWyAM9FxeagnEgtqE0UCAgXHGYdwOYSDjir5eLkcC6aI+GAmEPkgcQMcbkyEwkHGdcQ5pGM7WV1i30VwqJI5rCaQre2RcQXTGOSSBONMQIJkOXMqNhqdDIC6XhKF1UTyjYZgo08GvBNKVI9QAkjDckNISSCfEPcXlwpmD6+38WAhQ7XVHAQnDdAjC+FEY975llJsZk8N+xH0wEAeS3yM5uISSaRFI92E6BNotjIcBcY/wFKV9UNJMSU8A4AQqZoZDgSD9RW623k9MSgLJZe4DUCLBV9JnDShTJQhh+gbUTp1AEvRPgHzSkD7Q9eyIA8K3rNYWg6IAG20xqxlwoH+kH4EJlAxFQFlyAAAAAElFTkSuQmCC",
     "wiki_name": "Iorwerth camp teleport",
     "wiki_url": "https://oldschool.runescape.wiki/w/Iorwerth_camp_teleport",
     "equipment": null,

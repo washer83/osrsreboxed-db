@@ -1,7 +1,7 @@
 {
     "id": 26890,
     "name": "Portal talisman (fire)",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2022-03-23",
     "duplicate": false,
     "examine": "A talisman bound to the Fire Altar.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLUlEQVR4XtWXwU4CMRCG2efwwiP4MCQGExNPXPRkwoGAiYlKjIogIiCoIBpQ5IAknvTdav7ibLvTBdpd1+gkf2DbzsxHd6a7pFL/0zzhrsTME3s7O85KEMoTb6Oh6Nbr1iKg9XQ6CShPzJ5HRtJl+hUg7JKuw2LRF59LGAgWLFgA6kCqZpQAkyBQKqUSmEC7uVwA4odglrVtcA4QB4WCXzNbGxtStv7mvGFmaysnTyaHAHK8X/JBJutr/vdsJiOhtjezUro/j21xLARbW6+Jp25HCiA6AAciKIzhE776LdY71aLo50B3jYYUB3q8actEHIBf0xiA1C4poHatGtihlUAPrZaUDgQYSsQB+Bhd0+3jQNfnZ+5AAIBDKZ+X0ndHB+DXfIyg0IGRgXrNphjedn0nAAHSBoivISCKBaDmRcUd6KXXE6P7OwmG+uGJwgA6lzVjzdXpqaidnIhquSwqR0dSkYAAAiCC4olcRCAQwJyLGkCoGbrnEE9iK0Dg3NJjRQKiLnt/HUvxRLaix8q4348HBJEDxBPZioAQg4BQa05AYQfjx3RqJLMRwcQCovOEAwGSJ1wk3BaC4Y8OZ6DwF6w5VNjhx0Vr8APCgCi2BRAs+HqAxcphPvY5m/lJw0Qgi/wXx19gtMhcrAIBijQZDKSo9nhC5W/G5vMOZr7PyPPpGwbi86oGE7HoQDF2YZn9wb9B+pFgo18BclHCQDCzbVcpZietNt6yNuIxbOwL8VLH2MOh0ScAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMElEQVR4XtWXTU/CQBCG25Nn/4F3EiUmnjjgycSLERMTlRAVv1ARREWCGoMfgRNq4tH4W9e8i9Pdzraw21qjk7yB7u7MPGxntsXz/qf5wl2ZmS+WikVnZQjli5eHnris1axFQPmZmSygfPH29GgkHadfAcIu6dpYXQ3E5zIGgoULFoA6kKoZJcBkCOR5KoEJtFgohCB+CGZc24bnALG+shLUzPzsrJStvzlvmNnaysmXySGAbK2VApDB9FTwfS6Xk1AL+Tkp3Z/HtjgWwq2t18T9RUsKIDoAByIojOETvvot1jvVouhHQO2TEykOdHfelIk4AL+mMQCpXVJAzYP90A5NBLppNKR0IMBQIg7Ax+iabh8HOt3dcQcCABxKy8tS+u7oAPyajxEUOjAxUKdeF72ry8AJQIC0AeJrCIhiAehsr+oO9NzpiMfrtgRD/fBEUQCto0NjzfH2tjisVMR+uSyqm5tSiYAAAiCC4olcRCAQwJyLGkCoGbrnEE9iK0Dg3NJjJQKiLnvv96V4IlvRY6Xf7aYDgsgB4olsRUCIQUCoNSegqIPxYzg0ktmIYFIB0XnCgQDJE8YJt4Vg+KPDGSj6BWsEFXX4cdEa/IAoIIptAQQLvx5gsXIYjX2+vgZJo0Qgcf7x8WOMFpmLVSBAkQa3t1JUezyh8jdj83kHM99n5Pn0DQPxeVWDmVhyoBS7MM7+4N8g/Uiw0a8AuShjIJjZtpOUspMmG29ZG/EYNvYFl+ToRy0jEjMAAAAASUVORK5CYII=",
     "wiki_name": "Portal talisman (fire)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Portal_talisman_(fire)",
     "equipment": null,

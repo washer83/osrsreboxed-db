@@ -1,7 +1,7 @@
 {
     "id": 22115,
     "name": "Mythical cape",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2018-01-04",
     "duplicate": true,
     "examine": "The cape worn by members of the Myths' Guild.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACgUlEQVR4Xt2W0WpTQRCGu2/SR/A9vFQUFUEt6oUKIiJFRERKpaBEQaRFakNSjU0TG2NjWpOQxrQJsaWI9MrLXljwJUa+Wcdz6v3uqS4Mu+y5mO/88+/sjo39e8PJ3zsZDifdRkOOEJSTdr3+G+hIQHmQxnJZinOzWUM5OTv5TE7enJZyPi/vikUFOjY+ngWUhzlxY0qOT0xKs1KR3eFQVstLsVXyJTpzJyenbs3IubvPFYb4vrcntdeLMVVyslatyvvSG5l9mtMytWo1LZXtLy0syOXpQkyVnHxaWVEAAkUIwIbdrpZts9WSSw/nY548n6j0al6PPCfs58GB/Njfl6szJdlqt7U3Xbg/p9BRoLxHvLFP334sFx+8lGtPlmVna1O+fO4pFKqZxyKp5WTQ6ciVR4vybWdbvo5GWjJKxz5QwJy/9+KP8aNCAbPd78vuYCD99XUNUwoFmSlvYLWcJjVFKJnNndUP6qWN5kedzegcigQsyEigLABALUwNAOoQZnJgmQP2qwRq1NtQVUiOwWkDABoQRu+tNVOlC6KU0yT4hqQY2/wDJGCAskfpaKB8AxTgYFAkSEMBYnsGhvkpI52eme8TU/lwUOYPgwIAIMqIGuyhDjAoBRitAfWCQZHcZv7+eq6qCens7Nk9aFD4ykweyOje5CjC5QsIwZoAAJD0vRj41DGclqr+tqQwKFIpFDQAoHNzH0YEYvjTZy8CgnKZoQ0KtTB9IA+lh1fJygWEnTBTzaBYR1OJpwi+AcRKhCoYnFMJFC+HaED0n/TFypr3N5DWybmAeTFEKBvDgyTHOnl5sgaKC9l8FEEl/6g7nCiBtPVh6AxGOrmtM4P5b8YvW8xaS/HgzvkAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACh0lEQVR4Xt2WUUuUQRSGnX8idGeRJlRGQgUREkJEhIghFBtBEEqgJpuWZrupmeVmVssui9kqy7JhIV0EXvYDvAkv+i0nnjOdvs/uZz7rwOEbZi/Os+9558y0tf174eTvnQzDSa1UkkME5aSyvPwb6FBAeZBSoSAPR0eyhnLS1X9Hjl4cksLkpCxMTSlQV3t7FlAepuPCoBzp6ZfVYlF2mk1ZeToXWyXfos7LOTl2aVhOXLmrMOT33V15/mg6pkpO1ubn5cXMYxm5ndM2lZeWtFW2PzcxIWeG8jFVcvJ+cVEBSBQhAWvWatq2zXJZTg+MxTx5vtDs+JgeeU7Yz/19+bG3J73DM7JVqehsOnltVKGjQHmPeGMf77spp67fl3O3CvJla1M+fdxQKFQzj0VSy0mjWpWzN6bl2+dt+dpqactoHftAAdN99d4f40eFAma7XpedRkPq795qmlIoyJf2BlbLaVFThJbZt7rySr20vvpav2Z0DkUCFiQSKEsAUAtTA4A6pJkcWPVguHmVQLU+rKsqFMfgjAEADQijb6y9SbUuiFJOi+AbimJs8w+QgAHKHq1jgPIboAAHg6JAGgoQ2zMwzE8bmfR8+b1n8EE4KPOHQQEAEG1EDfZQBxiUAozRgHrBoChuX/79+dwzLchkZ8/uQYPCV2byQEb3JkcRLl9ASNYkAICk78XAp45w2qqXT2YVBkWK+bwmAExu7sOIQIQ/ffYiIGmXGdqgUAvTB/JQOrxK1i4g7ISZagbFOppKPEXwDSDWIlTB4JxKoHg5RANi/qQvVta8v4G0Sc4FzIshQtsID5Ic6+TlyRooLmTzUQSV/KPuYKEE0tYHoTOIdHFbZwbz38QvxsT2sUXFaU0AAAAASUVORK5CYII=",
     "wiki_name": "Mythical cape",
     "wiki_url": "https://oldschool.runescape.wiki/w/Mythical_cape",
     "equipment": null,

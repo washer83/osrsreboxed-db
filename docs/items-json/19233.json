@@ -1,7 +1,7 @@
 {
     "id": 19233,
     "name": "Chaos talisman",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -26,7 +26,7 @@
     "release_date": "2004-03-29",
     "duplicate": true,
     "examine": "A mysterious power emanates from the talisman...",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcklEQVR4Xt3X0UtTURwH8Hv/A5/2spcLPQQ+9daTsB7ElxBESeZIspGOZtLSNCNlydSpmWtbMzTbcuFwRaAYMpII6g/opX+g14iI/oBf/H7Xc+45515G6Ll34g++DC/bPR9/53fv3QzjfJYJclpaJvzYvwgrc3M8LYbZIBXVQpgD8kKlom1Bw5zZUTHeMF/KQTxIpWAskYDR4WF6ZYtjWNcY5pJlUdSznaDE/8yEzXweFtOzMDs1BZN3xwgyMjQENwaicK2nB652dXEwgrRjxAHdeJaD1UwG5mceEeioaPHcjMUg2tcHnZEIR/iCYaDdchkKy8sEwg4h4kujwUG3Bgfhen8/dckBGYY2zK+P7RKoXqnAVrEIuWyWjiHCCocJxWCsS3hc3upTlxt0UN+F2qstKD1dhbWFBWm7MDjYrEsMpKk7WCb8/SyDPrytw15th7r0/MmKCzRxZxRux+PUpcBA76tV2Hm5ScMtzlN6ehoejo8TKtAOvdveJtDr9XV4kVvj88SuOtw2HGofQFgm/Plko3ojBi0ggnDrcJ4YCu9JOEO93d3HA+3LI8OEnw2nUxgElUsl2jbELD1O05bdSybp5nilo0N6vy+o30ftFHGhZskmQzw+bB1W84enmGo67MJoBsmY+7E2+F67AN/e2Pm6YfFUZsI8GjHiQLq/WiBIRKkg9hltGHUL1CBGBYthEC2Y/xlcdVGvqGc+Ydmgw5zFo2IwnZfte5L6aR/KlJ5NKiSTCLm6pJ7Bh/IeZPwaKoIC7BKW/EuCYURQ4F3yAuFxfOAWJkI8gXbJKwzE/tZ8VTUv9VK2F9Z+rzl9nRlIEPUPBQ5y0oDRNKwAAAAASUVORK5CYII=",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACcklEQVR4Xt3X0UtTURwH8HuRMSbhYw+O0D0oqOFcmBpzbWJLy1DSlkxdmqm5pYaYLTPDxBb0IGIERkj0Uv9Cb/0P/QXRgyD4P/zk97uec8859zJCz72LfvBleNnu+fg7v3vvZhj/Z5kgp6Jlwq/dCzA1OspTYZgFUlEVhNkgN1Q6WuU3zJ4dFeMO86RsxJ10GnoTCUjF4/TKFsewrjFMW309RT3bGUr8z0xYmZ+HiXsjMDIwALdv9BKku6MDrrZF4XJTEzREIhyMIO0YcUCXH8/BdDYLY8N3CXRQCPF0xmIQbWmBunCYIzzBMNB2sQj5yUkCYYcQ8e3TPgdda2+HK62t1CUbZBjaMH8+10ig0toarBYKMJfL0TFEhIJBQjEY6xIel7f63OUE7b3dhq3nq7D4aBpmxsel7cLgYLMuMZCm7mCZcPxVBn0olWDnzSZ16cnDKQeovycF17u6qEu+gd5vbMDmsxUabnGeMoODMNTXRyhfO/RufZ1AL5eW4OnsDJ8ndtXhtuFQewDCMuHoi4VqDhu0gAjCrcN5Yii8J+EMNTc2ng60J48ME37v253CIKi4sEDbhpgH9zO0ZTeTSbo5Xqqtld7vCerwoIYiLlQuuWSAx4Otwyr/8BTzKhN0YDSDZMytWBX83KqGH6+tfF8O8bwYDvJoxIgD6fxqgSARpYLYZ7Rh1C1QgxgVLIZBtGD+ZnDVRd2invmMZYE+zoZ4VAym7qJ1T1I/7UGZ0rNJhWQTAUeX1DN4UO6DjF9DRZCPXcKSf0kwjAjyvUtuIDyOD9x8f4DH1y65hYHY35qvqvKlXsrWwtrvNeevfwbiR50AWwnxrz7kV6MAAAAASUVORK5CYII=",
     "wiki_name": "Chaos talisman",
     "wiki_url": "https://oldschool.runescape.wiki/w/Chaos_talisman",
     "equipment": null,

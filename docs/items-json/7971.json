@@ -1,7 +1,7 @@
 {
     "id": 7971,
     "name": "Longer pulley beam",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2006-05-22",
     "duplicate": false,
     "examine": "A very long beam with a pulley attached.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPUlEQVR4Xt2X30siURzFu/9Jb8FCEEEsyxIES0QkYSiKhuEPzKFUMtOsCZm2jNp1N+3HQ730FlEbtH/h2T13uDV7d5Qg5woduG/O3A/fc74HZ2TkfUug/zEqASs2jvpaFBv5JaylQyikFpCOzSIRnkE0NG0SSiATHkMlNQFnKwV7I4FqIfIMlkvOSTD+bmJ01ASUQCk5jkZuEt/3cmg1MmhuLqNRikuwUnZRghkCEshHPqCWnsTX4kdctNbR2S/geDeLg/qKnBZtJJgxIE7HXp1CezeOk+0YDqsR7FfCsIshNKwFbObmUM4YscwNMq063UtIoKNaVAI1y4sSqLY6L4EUTOBAtKpV/iSBOB0CcToE4nQIZAyGW8XcdJvJvnYZsIoScKwpXDjLfe0yNB1KoF39LKfzGrv0pwcs1y5Ox88u3aqAgdw11+1SVhmH4Zqzc04qL5ulYGiRt28Ch2Ejs3MIQ6v8YKzkjLncqM5RudFtKq58MTcd1TnMjVpx1TfGrWJuvCH2WmU4xJSQuVGd4zcdozC0ypubocLofUOreuVGf3rA6t03XpihrjitGtqK61bpuVFW/XsCkRviXm3sBXJ2LKzn48imlhCPuOHW3/ZGuTYxN94C1DuHQFfdJs7bO/hxtIV8+uXP+4Ctc/uGMHrn6ECXHRvd9jZurg9w+q0Ox7aCmZAC8oNQXw6/bn/i8a6Dp/sOfj+cSbCAJkSJ56x4P1+4UWrF/U5AMEr/X6hf7Hf0twxU+mXGLv6rP2su+vfLsFzZAAAAAElFTkSuQmCC",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACO0lEQVR4Xt2X308aQRzE3fdGYzQ2rYnVGiQCgZPIr8gpBBFBomdARYi0tCBVX9qnvjZp2qZJ03952tnL6nV7kCbllsRJ9o27/eQ7851wMzOPWwLjj1EJ2LE51Haj2M9tYjcVQj65jlTsBRLhZURDz01CCaTDT1BOzuPsMAlnP4FKPnIPlrXWJBh/Z62umoASKFpzqGcX8Po0i3Y9jcbBFurFuAQrZjYkmCEggVxkFtXUAi4KS7ht72FwnsfVSQat2racFm0kmDEgTsfZWUTvJI7uUQyXlQjOy2E4hRDq9joOsmsopY1Y5gaZVvVPExKoU41KoEZpQwJVd15KIAUTOBCtapeeSiBOh0CcDoE4HQIZg+FWMTfDhjXWLgNWUQJNexG3Z1tj7TI0HUqgV3kmp/MvdulPT1iuXZyOn126VQEDuWuu26WsMg7DNWfndMsPm6VgaJG3bwKHYSOzcwhDq/xgbGvZXG5U56jc6DYVtlfMTUd1DnOjVlz1jXGrmBtviL1WGQ4xJWRuVOf4TccoDK3y5maqMHrf0KpRudGfnrBG940XZqorTqumtuK6VXpulFV/nkDkhnhUG3uBmsc29nJxZJKbiEfccOtv+0+5NjE33gLUO4dA74cN3PSO8aZziFzq4c/7hK1z+4YweufoQHfXDoa9I3z80EL/VQ1Nxw5mQgrID0J9OXz79BbfPw/w48s1fn59J8ECmhAl7rPi/XzhRqkV9zsBwSj9faF+sd/R3zJR6ZcZu/i3fgH/eHVVsO9RPQAAAABJRU5ErkJggg==",
     "wiki_name": "Longer pulley beam",
     "wiki_url": "https://oldschool.runescape.wiki/w/Longer_pulley_beam",
     "equipment": null,

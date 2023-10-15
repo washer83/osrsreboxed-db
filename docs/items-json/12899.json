@@ -1,7 +1,7 @@
 {
     "id": 12899,
     "name": "Trident of the swamp",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-10-15",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -26,7 +26,7 @@
     "release_date": "2015-01-08",
     "duplicate": false,
     "examine": "A toxic weapon from the deep.",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/ElEQVR4XuWXT2saQRiHfb9BT3vxknNPueWaHkOkIAE9SAQLwYBBFAmJYmRNbWPSmlrSroIticR4MASJUS9ByJ+uoTUGc8wWQvIJ+hF+ZWdda0zprTMLeeBlZ4dZ3od3ZmdnbbanCeHvba6YiQmv7bsw7glh6X2/zRVCNp1mifPZD9ja2BgIBSWjf3xsjKcUIZNKscSmzBt7mV0DktHPUYgQi0RY0lm3eyg5QVVL8EsyTyGC9us5Wh/Xsa0oLLGymWHXH9/3kUwGBjLchA5ScVTfJnC4JqOYyzEB7UbF8XGBv8xeYgmOyQmWWI/u5SGuujWcnu4gFpvjO1W9XhML3gimJh3QtAvc3naZzEW7jFBolmd1COdnRQR9i7jsVB+F3+/iKaNDqNU+odlQ0Kh/Zu1CQYacmIfX+5K/TKWSQamURk6JY8ZpG6wfMzjK6BCrhuOFE45pQ8YUGI7Rp/4ThKNaEq5pj6hqDEP4qdXhcb56VJXRkZwg3N+diK7KMISlea7fpH/xRya6/Ky/foRhyMiyhHDIkBE0ZcZbpMusxCUsBATLXPcKTKatZvtTJExGh/D1Sxhz7odnGWEy6rdNdDpboquiQ2i11tlubAmZaCCJfD5oBRmdhxufcBn9LOz3+QZCoyM4QliTE3i3umqd6pj/VBaQMbGUjIFImd+3dJb8mLL+WAAAAABJRU5ErkJggg==",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACAElEQVR4XuWX20sbQRSHc5DFtz76IoIoESISVEJEiERIQhAlIWYTjRptY21RcwEvKEGiLwoiSLy8iT54j4qXNsXS9zYvFf0r+m/86s5m1xh9dWbBDw47OzvL+TgzO8yaTO8TwuttrmiJCf2VC1DvCR7pU7HNFcKXaJQlTo19xvjIiC7kktT+5tpanlKEWCTCEmsyA5VL7OqU1H6OQgS/18uStlqtJckJudMMHFKIpxCh8O8D9r4OYy4eZ4kTozF2vbpcQTjs1GW4Ca1GAlgbDGJ9SEY6mWQCf37nsLMzxV9mMdgNc3UVS6xE/vs6fuSzODyYh9/fzneqbm+30Wnzoq7ajELhAnd/80zm/GwJbncrz+oQjo/ScNm78O1m7UU4HE08ZRQI2ewEtrcS2NqcZO3pqRDkYAdstgb+MivLMWQyUSQTATRaTPr60YKjjAKxaphrLDDXqzKaQGmUv/VGEDayYTTVt4iqRimPG2BhEy2WthdVKR/JCcLD/b7oqpRC6O6QdaHyp5x5kvH1VBTXjzBUmZAsweNWZQRNmfoVKTK9AQmdTsEyv35OM5mz3FhxioTJKBBmZzxotz4/ywiTOT0Zxc31uOiqKBD2dofZbmwIGZ8zjFTKZQQZhecbn3AZ5SzssNt1ofIRHCEMyUF87OszTnW0fyoDyGgYSkZFpMx/JUFvE8xDEn4AAAAASUVORK5CYII=",
     "wiki_name": "Trident of the swamp (Charged)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trident_of_the_swamp#Charged",
     "equipment": {
