@@ -34349,23 +34349,11 @@
         "type": "normal",
         "duplicate": false
     },
-    "6021": {
-        "id": 6021,
-        "name": "Leaves",
-        "type": "noted",
-        "duplicate": true
-    },
     "6022": {
         "id": 6022,
         "name": "Oak leaves",
         "type": "normal",
         "duplicate": false
-    },
-    "6023": {
-        "id": 6023,
-        "name": "Oak leaves",
-        "type": "noted",
-        "duplicate": true
     },
     "6024": {
         "id": 6024,
@@ -34373,23 +34361,11 @@
         "type": "normal",
         "duplicate": false
     },
-    "6025": {
-        "id": 6025,
-        "name": "Willow leaves",
-        "type": "noted",
-        "duplicate": true
-    },
     "6026": {
         "id": 6026,
         "name": "Yew leaves",
         "type": "normal",
         "duplicate": false
-    },
-    "6027": {
-        "id": 6027,
-        "name": "Yew leaves",
-        "type": "noted",
-        "duplicate": true
     },
     "6028": {
         "id": 6028,
@@ -34397,23 +34373,11 @@
         "type": "normal",
         "duplicate": false
     },
-    "6029": {
-        "id": 6029,
-        "name": "Maple leaves",
-        "type": "noted",
-        "duplicate": true
-    },
     "6030": {
         "id": 6030,
         "name": "Magic leaves",
         "type": "normal",
         "duplicate": false
-    },
-    "6031": {
-        "id": 6031,
-        "name": "Magic leaves",
-        "type": "noted",
-        "duplicate": true
     },
     "6032": {
         "id": 6032,
@@ -149085,7 +149049,7 @@
         "id": 26276,
         "name": "Notes",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "26277": {
         "id": 26277,
@@ -160135,13 +160099,13 @@
     },
     "28177": {
         "id": 28177,
-        "name": "Axe handle",
+        "name": "Felling axe handle",
         "type": "normal",
         "duplicate": false
     },
     "28178": {
         "id": 28178,
-        "name": "Axe handle",
+        "name": "Felling axe handle",
         "type": "placeholder",
         "duplicate": true
     },
@@ -160249,199 +160213,187 @@
     },
     "28196": {
         "id": 28196,
-        "name": "Bronze 2h axe",
+        "name": "Bronze felling axe",
         "type": "normal",
         "duplicate": false
     },
     "28197": {
         "id": 28197,
-        "name": "Bronze 2h axe",
+        "name": "Bronze felling axe",
         "type": "noted",
         "duplicate": true
     },
     "28198": {
         "id": 28198,
-        "name": "Bronze 2h axe",
+        "name": "Bronze felling axe",
         "type": "placeholder",
         "duplicate": true
     },
     "28199": {
         "id": 28199,
-        "name": "Iron 2h axe",
+        "name": "Iron felling axe",
         "type": "normal",
         "duplicate": false
     },
     "28200": {
         "id": 28200,
-        "name": "Iron 2h axe",
+        "name": "Iron felling axe",
         "type": "noted",
         "duplicate": true
     },
     "28201": {
         "id": 28201,
-        "name": "Iron 2h axe",
+        "name": "Iron felling axe",
         "type": "placeholder",
         "duplicate": true
     },
     "28202": {
         "id": 28202,
-        "name": "Steel 2h axe",
+        "name": "Steel felling axe",
         "type": "normal",
         "duplicate": false
     },
     "28203": {
         "id": 28203,
-        "name": "Steel 2h axe",
+        "name": "Steel felling axe",
         "type": "noted",
         "duplicate": true
     },
     "28204": {
         "id": 28204,
-        "name": "Steel 2h axe",
+        "name": "Steel felling axe",
         "type": "placeholder",
         "duplicate": true
     },
     "28205": {
         "id": 28205,
-        "name": "Black 2h axe",
+        "name": "Black felling axe",
         "type": "normal",
         "duplicate": false
     },
     "28206": {
         "id": 28206,
-        "name": "Black 2h axe",
+        "name": "Black felling axe",
         "type": "noted",
         "duplicate": true
     },
     "28207": {
         "id": 28207,
-        "name": "Black 2h axe",
+        "name": "Black felling axe",
         "type": "placeholder",
         "duplicate": true
     },
     "28208": {
         "id": 28208,
-        "name": "Mithril 2h axe",
+        "name": "Mithril felling axe",
         "type": "normal",
         "duplicate": false
     },
     "28209": {
         "id": 28209,
-        "name": "Mithril 2h axe",
+        "name": "Mithril felling axe",
         "type": "noted",
         "duplicate": true
     },
     "28210": {
         "id": 28210,
-        "name": "Mithril 2h axe",
+        "name": "Mithril felling axe",
         "type": "placeholder",
         "duplicate": true
     },
     "28211": {
         "id": 28211,
-        "name": "Adamant 2h axe",
+        "name": "Adamant felling axe",
         "type": "normal",
         "duplicate": false
     },
     "28212": {
         "id": 28212,
-        "name": "Adamant 2h axe",
+        "name": "Adamant felling axe",
         "type": "noted",
         "duplicate": true
     },
     "28213": {
         "id": 28213,
-        "name": "Adamant 2h axe",
+        "name": "Adamant felling axe",
         "type": "placeholder",
         "duplicate": true
     },
     "28214": {
         "id": 28214,
-        "name": "Rune 2h axe",
+        "name": "Rune felling axe",
         "type": "normal",
         "duplicate": false
     },
     "28215": {
         "id": 28215,
-        "name": "Rune 2h axe",
+        "name": "Rune felling axe",
         "type": "noted",
         "duplicate": true
     },
     "28216": {
         "id": 28216,
-        "name": "Rune 2h axe",
+        "name": "Rune felling axe",
         "type": "placeholder",
         "duplicate": true
     },
     "28217": {
         "id": 28217,
-        "name": "Dragon 2h axe",
+        "name": "Dragon felling axe",
         "type": "normal",
         "duplicate": false
     },
     "28218": {
         "id": 28218,
-        "name": "Dragon 2h axe",
+        "name": "Dragon felling axe",
         "type": "noted",
         "duplicate": true
     },
     "28219": {
         "id": 28219,
-        "name": "Dragon 2h axe",
+        "name": "Dragon felling axe",
         "type": "placeholder",
         "duplicate": true
     },
     "28220": {
         "id": 28220,
-        "name": "Crystal 2h axe",
+        "name": "Crystal felling axe",
         "type": "normal",
         "duplicate": false
     },
-    "28221": {
-        "id": 28221,
-        "name": "Crystal 2h axe",
-        "type": "noted",
-        "duplicate": true
-    },
     "28222": {
         "id": 28222,
-        "name": "Crystal 2h axe",
+        "name": "Crystal felling axe",
         "type": "placeholder",
         "duplicate": true
     },
     "28223": {
         "id": 28223,
-        "name": "Crystal 2h axe",
+        "name": "Crystal felling axe (inactive)",
         "type": "normal",
         "duplicate": false
     },
-    "28224": {
-        "id": 28224,
-        "name": "Crystal 2h axe",
-        "type": "noted",
-        "duplicate": true
-    },
     "28225": {
         "id": 28225,
-        "name": "Crystal 2h axe",
+        "name": "Crystal felling axe (inactive)",
         "type": "placeholder",
         "duplicate": true
     },
     "28226": {
         "id": 28226,
-        "name": "3rd age 2h axe",
+        "name": "3rd age felling axe",
         "type": "normal",
         "duplicate": false
     },
     "28227": {
         "id": 28227,
-        "name": "3rd age 2h axe",
+        "name": "3rd age felling axe",
         "type": "noted",
         "duplicate": true
     },
     "28228": {
         "id": 28228,
-        "name": "3rd age 2h axe",
+        "name": "3rd age felling axe",
         "type": "placeholder",
         "duplicate": true
     },
@@ -162652,5 +162604,395 @@
         "name": "Scarred extract",
         "type": "placeholder",
         "duplicate": true
+    },
+    "28601": {
+        "id": 28601,
+        "name": "Cobweb cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28602": {
+        "id": 28602,
+        "name": "Cobweb cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28603": {
+        "id": 28603,
+        "name": "Spider hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28604": {
+        "id": 28604,
+        "name": "Spider hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28605": {
+        "id": 28605,
+        "name": "Spider hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28606": {
+        "id": 28606,
+        "name": "Spider hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28607": {
+        "id": 28607,
+        "name": "Spider hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28608": {
+        "id": 28608,
+        "name": "Spider hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28609": {
+        "id": 28609,
+        "name": "Spider hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28610": {
+        "id": 28610,
+        "name": "Spider hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28611": {
+        "id": 28611,
+        "name": "Spider hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28612": {
+        "id": 28612,
+        "name": "Spider hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28613": {
+        "id": 28613,
+        "name": "Cape pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28614": {
+        "id": 28614,
+        "name": "Cape pouch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28615": {
+        "id": 28615,
+        "name": "Felling axe handle",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28616": {
+        "id": 28616,
+        "name": "Pheasant cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28617": {
+        "id": 28617,
+        "name": "Pheasant cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28618": {
+        "id": 28618,
+        "name": "Pheasant boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28619": {
+        "id": 28619,
+        "name": "Pheasant boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28620": {
+        "id": 28620,
+        "name": "Pheasant hat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28621": {
+        "id": 28621,
+        "name": "Pheasant hat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28622": {
+        "id": 28622,
+        "name": "Pheasant legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28623": {
+        "id": 28623,
+        "name": "Pheasant legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28624": {
+        "id": 28624,
+        "name": "Pheasant tail feathers",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28625": {
+        "id": 28625,
+        "name": "Pheasant tail feathers",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28626": {
+        "id": 28626,
+        "name": "Fox whistle",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28627": {
+        "id": 28627,
+        "name": "Fox whistle",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28628": {
+        "id": 28628,
+        "name": "Sawmill voucher",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28629": {
+        "id": 28629,
+        "name": "Sawmill voucher",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28630": {
+        "id": 28630,
+        "name": "Twitcher's gloves",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28631": {
+        "id": 28631,
+        "name": "Twitcher's gloves",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28644": {
+        "id": 28644,
+        "name": "Smoker fuel",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28645": {
+        "id": 28645,
+        "name": "Smoker fuel",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28646": {
+        "id": 28646,
+        "name": "Smoker canister",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28647": {
+        "id": 28647,
+        "name": "Smoker canister",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28648": {
+        "id": 28648,
+        "name": "Mulch",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28649": {
+        "id": 28649,
+        "name": "Mulch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28650": {
+        "id": 28650,
+        "name": "Packed mulch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28651": {
+        "id": 28651,
+        "name": "Crystal charm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28652": {
+        "id": 28652,
+        "name": "Crystal charm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28653": {
+        "id": 28653,
+        "name": "Petal circlet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28654": {
+        "id": 28654,
+        "name": "Petal circlet",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28655": {
+        "id": 28655,
+        "name": "Petal garland",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28656": {
+        "id": 28656,
+        "name": "Petal garland",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28657": {
+        "id": 28657,
+        "name": "Padded spoon",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28658": {
+        "id": 28658,
+        "name": "Padded spoon",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28659": {
+        "id": 28659,
+        "name": "Egg cushion",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28660": {
+        "id": 28660,
+        "name": "Egg cushion",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28661": {
+        "id": 28661,
+        "name": "Pheasant egg",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28662": {
+        "id": 28662,
+        "name": "Pheasant egg",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28663": {
+        "id": 28663,
+        "name": "Golden pheasant egg",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28664": {
+        "id": 28664,
+        "name": "Golden pheasant egg",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28665": {
+        "id": 28665,
+        "name": "Trap disarmer",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28666": {
+        "id": 28666,
+        "name": "Trap disarmer",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28667": {
+        "id": 28667,
+        "name": "Trap disarmer blueprint",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28668": {
+        "id": 28668,
+        "name": "Trap disarmer blueprint",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28669": {
+        "id": 28669,
+        "name": "Pheasant",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28670": {
+        "id": 28670,
+        "name": "Fox",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28671": {
+        "id": 28671,
+        "name": "Web cloak",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28672": {
+        "id": 28672,
+        "name": "Fancier boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28673": {
+        "id": 28673,
+        "name": "Fancier boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28674": {
+        "id": 28674,
+        "name": "Sturdy beehive parts",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28675": {
+        "id": 28675,
+        "name": "Sturdy beehive parts",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28676": {
+        "id": 28676,
+        "name": "Beehive (style 1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28677": {
+        "id": 28677,
+        "name": "Beehive (style 2)",
+        "type": "normal",
+        "duplicate": false
     }
 }

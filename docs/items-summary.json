@@ -53921,7 +53921,7 @@
     },
     "28177": {
         "id": 28177,
-        "name": "Axe handle"
+        "name": "Felling axe handle"
     },
     "28179": {
         "id": 28179,
@@ -53953,47 +53953,47 @@
     },
     "28196": {
         "id": 28196,
-        "name": "Bronze 2h axe"
+        "name": "Bronze felling axe"
     },
     "28199": {
         "id": 28199,
-        "name": "Iron 2h axe"
+        "name": "Iron felling axe"
     },
     "28202": {
         "id": 28202,
-        "name": "Steel 2h axe"
+        "name": "Steel felling axe"
     },
     "28205": {
         "id": 28205,
-        "name": "Black 2h axe"
+        "name": "Black felling axe"
     },
     "28208": {
         "id": 28208,
-        "name": "Mithril 2h axe"
+        "name": "Mithril felling axe"
     },
     "28211": {
         "id": 28211,
-        "name": "Adamant 2h axe"
+        "name": "Adamant felling axe"
     },
     "28214": {
         "id": 28214,
-        "name": "Rune 2h axe"
+        "name": "Rune felling axe"
     },
     "28217": {
         "id": 28217,
-        "name": "Dragon 2h axe"
+        "name": "Dragon felling axe"
     },
     "28220": {
         "id": 28220,
-        "name": "Crystal 2h axe"
+        "name": "Crystal felling axe"
     },
     "28223": {
         "id": 28223,
-        "name": "Crystal 2h axe"
+        "name": "Crystal felling axe (inactive)"
     },
     "28226": {
         "id": 28226,
-        "name": "3rd age 2h axe"
+        "name": "3rd age felling axe"
     },
     "28229": {
         "id": 28229,
@@ -55034,5 +55034,149 @@
     "28599": {
         "id": 28599,
         "name": "Scarred extract"
+    },
+    "28601": {
+        "id": 28601,
+        "name": "Cobweb cape"
+    },
+    "28603": {
+        "id": 28603,
+        "name": "Spider hat"
+    },
+    "28605": {
+        "id": 28605,
+        "name": "Spider hat"
+    },
+    "28607": {
+        "id": 28607,
+        "name": "Spider hat"
+    },
+    "28609": {
+        "id": 28609,
+        "name": "Spider hat"
+    },
+    "28611": {
+        "id": 28611,
+        "name": "Spider hat"
+    },
+    "28613": {
+        "id": 28613,
+        "name": "Cape pouch"
+    },
+    "28616": {
+        "id": 28616,
+        "name": "Pheasant cape"
+    },
+    "28618": {
+        "id": 28618,
+        "name": "Pheasant boots"
+    },
+    "28620": {
+        "id": 28620,
+        "name": "Pheasant hat"
+    },
+    "28622": {
+        "id": 28622,
+        "name": "Pheasant legs"
+    },
+    "28624": {
+        "id": 28624,
+        "name": "Pheasant tail feathers"
+    },
+    "28626": {
+        "id": 28626,
+        "name": "Fox whistle"
+    },
+    "28628": {
+        "id": 28628,
+        "name": "Sawmill voucher"
+    },
+    "28630": {
+        "id": 28630,
+        "name": "Twitcher's gloves"
+    },
+    "28644": {
+        "id": 28644,
+        "name": "Smoker fuel"
+    },
+    "28646": {
+        "id": 28646,
+        "name": "Smoker canister"
+    },
+    "28648": {
+        "id": 28648,
+        "name": "Mulch"
+    },
+    "28649": {
+        "id": 28649,
+        "name": "Mulch"
+    },
+    "28650": {
+        "id": 28650,
+        "name": "Packed mulch"
+    },
+    "28651": {
+        "id": 28651,
+        "name": "Crystal charm"
+    },
+    "28653": {
+        "id": 28653,
+        "name": "Petal circlet"
+    },
+    "28655": {
+        "id": 28655,
+        "name": "Petal garland"
+    },
+    "28657": {
+        "id": 28657,
+        "name": "Padded spoon"
+    },
+    "28659": {
+        "id": 28659,
+        "name": "Egg cushion"
+    },
+    "28661": {
+        "id": 28661,
+        "name": "Pheasant egg"
+    },
+    "28663": {
+        "id": 28663,
+        "name": "Golden pheasant egg"
+    },
+    "28665": {
+        "id": 28665,
+        "name": "Trap disarmer"
+    },
+    "28667": {
+        "id": 28667,
+        "name": "Trap disarmer blueprint"
+    },
+    "28669": {
+        "id": 28669,
+        "name": "Pheasant"
+    },
+    "28670": {
+        "id": 28670,
+        "name": "Fox"
+    },
+    "28671": {
+        "id": 28671,
+        "name": "Web cloak"
+    },
+    "28672": {
+        "id": 28672,
+        "name": "Fancier boots"
+    },
+    "28674": {
+        "id": 28674,
+        "name": "Sturdy beehive parts"
+    },
+    "28676": {
+        "id": 28676,
+        "name": "Beehive (style 1)"
+    },
+    "28677": {
+        "id": 28677,
+        "name": "Beehive (style 2)"
     }
 }
