@@ -1,16 +1,16 @@
 {
     "id": 10986,
     "name": "Barbarian",
-    "last_updated": "2021-09-24",
+    "last_updated": "2023-12-03",
     "incomplete": true,
     "members": true,
     "release_date": "2021-06-16",
     "combat_level": 15,
     "size": 1,
     "hitpoints": 24,
-    "max_hit": 1,
+    "max_hit": 2,
     "attack_type": [
-        "crush"
+        "ranged"
     ],
     "attack_speed": 4,
     "aggressive": false,

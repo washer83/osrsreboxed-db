@@ -1,7 +1,7 @@
 {
     "id": 791,
     "name": "Suqah",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-12-03",
     "incomplete": true,
     "members": true,
     "release_date": "2006-07-24",
@@ -30,10 +30,10 @@
         "nieve",
         "duradel"
     ],
-    "duplicate": true,
+    "duplicate": false,
     "examine": "A strange creature unique to Lunar Isle.",
-    "wiki_name": "Suqah",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Suqah",
+    "wiki_name": "Suqah (5)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Suqah#5",
     "attack_level": 95,
     "strength_level": 95,
     "defence_level": 95,

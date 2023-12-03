@@ -1,7 +1,7 @@
 {
     "id": 1139,
     "name": "Bronze med helm",
-    "last_updated": "2023-10-15",
+    "last_updated": "2023-12-03",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -39,7 +39,7 @@
         "defence_slash": 4,
         "defence_crush": 2,
         "defence_magic": -1,
-        "defence_ranged": 4,
+        "defence_ranged": 3,
         "melee_strength": 0,
         "ranged_strength": 0,
         "magic_damage": 0,

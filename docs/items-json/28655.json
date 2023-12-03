@@ -1,7 +1,7 @@
 {
     "id": 28655,
     "name": "Petal garland",
-    "last_updated": "2023-11-01",
+    "last_updated": "2023-12-03",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -44,7 +44,7 @@
         "ranged_strength": 0,
         "magic_damage": 0,
         "prayer": 0,
-        "slot": "head",
+        "slot": "neck",
         "requirements": null
     },
     "weapon": null

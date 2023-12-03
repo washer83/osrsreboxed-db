@@ -1,7 +1,7 @@
 {
     "id": 27641,
     "name": "Saturated heart",
-    "last_updated": "2023-10-15",
+    "last_updated": "2023-12-03",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 240000,
     "highalch": 360000,
     "weight": 0.45,
-    "buy_limit": null,
+    "buy_limit": 8,
     "quest_item": false,
     "release_date": "2023-01-11",
     "duplicate": false,

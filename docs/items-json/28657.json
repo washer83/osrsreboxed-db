@@ -1,7 +1,7 @@
 {
     "id": 28657,
     "name": "Padded spoon",
-    "last_updated": "2023-11-01",
+    "last_updated": "2023-12-03",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -21,7 +21,7 @@
     "lowalch": 400,
     "highalch": 600,
     "weight": 0.0,
-    "buy_limit": null,
+    "buy_limit": 100,
     "quest_item": false,
     "release_date": "2023-10-25",
     "duplicate": false,

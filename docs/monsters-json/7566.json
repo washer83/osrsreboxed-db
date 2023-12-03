@@ -1,7 +1,7 @@
 {
     "id": 7566,
     "name": "Vasa Nistirio",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-12-03",
     "incomplete": true,
     "members": true,
     "release_date": null,
@@ -46,7 +46,7 @@
     "defence_slash": 190,
     "defence_crush": 50,
     "defence_magic": 400,
-    "defence_ranged": 60,
+    "defence_ranged": 40,
     "drops": [
         {
             "id": 20888,

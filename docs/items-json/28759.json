@@ -1,0 +1,77 @@
+{
+    "id": 28759,
+    "name": "Trailblazer reloaded steel trophy",
+    "last_updated": "2023-12-03",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28760,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-11-15",
+    "duplicate": false,
+    "examine": "A Steel Trophy awarded for participating in Leagues IV: Trailblazer Reloaded.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACf0lEQVR4XtWXf0tTURjHPYxx2ZArkjRSMk0yzEAFMwMNw4KWMDQzUzLN0soUG2hL0H6YTcjIKPon6EX0d2+hd+ML+LbvM8/d2WmB2T1tfeHL7s45d+ez5zz3OedWVf3/Uvi9ncueUOFEQwNqfF98pLZWfLSuTj7tsSFDKsT9b/BiacQ8T1wdj4tLAdk+lkjIPSFCKZzr7MDZtjacam6WyJQCskFM6z8UEpTCuleDZ56PlZzT+16KVot5zXb2c1wyEsPx+noxo6MdiaYEqLOp6W+h8kB7D/0if48nApvtVyL5ZbUd9ebcAPGa/hMgndiECQ1Ie++HL568PhK06WsbiHmmgUKCoQpAnJg2ofR3HbWBHBCTnMluA9m/fEgVA5kgJmRZgW4ND2MslaocIA3BR91cMp1D/wRIP2EaxoyM7qdZh0ygkBOaUkHhO0gdSuWAdAWnQ46OlpKKbELZQIQ+2dgo2wvHa4ccHVP5CTSYCcS2UhAOYfLK/3gBjLnD/Wx1YeEXEPtepzLBPrzexPLcfVzo7t5vK6tU7lixIo5E+8RlhlJ4fHcGo0NDck5ynMQHlZLDW4XAUApnWlsDILu3DFI43dJSKUAKm09XsXRvtnKAvu7uIv1gPoiSPcKxCtWYfruxgY9vtrCVyeDqpQGc7+oq6ncMqPDuxXO8f/VSID5ls/i8vY3s2hrmp6YwOzGB2zdGce3yIC729qKjvV3ePBxCKZn4y86OgBCKcIxSZnFRlo01iUeSkWRSwAb7+9HX0+MW6s7NMcyMjwdAXK71J8uyn3ELeTQ9LUvH2sTdn+9kjhM+nxs8xnKJWKXNaPAt184j5wXT3FxL2dz1DwvzE4bEmIC+dHjDAAAAAElFTkSuQmCC",
+    "wiki_name": "Trailblazer reloaded steel trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_steel_trophy",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

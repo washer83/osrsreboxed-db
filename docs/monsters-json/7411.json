@@ -1,7 +1,7 @@
 {
     "id": 7411,
     "name": "Nechryarch",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-12-03",
     "incomplete": false,
     "members": true,
     "release_date": "2016-09-15",
@@ -16,7 +16,7 @@
     "aggressive": false,
     "poisonous": false,
     "venomous": false,
-    "immune_poison": false,
+    "immune_poison": true,
     "immune_venom": true,
     "attributes": [
         "demon"

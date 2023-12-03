@@ -1,7 +1,7 @@
 {
     "id": 10397,
     "name": "Spiked Turoth",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-12-03",
     "incomplete": false,
     "members": true,
     "release_date": "2020-07-23",
@@ -16,8 +16,8 @@
     "aggressive": false,
     "poisonous": false,
     "venomous": false,
-    "immune_poison": false,
-    "immune_venom": false,
+    "immune_poison": true,
+    "immune_venom": true,
     "attributes": [
         "leafy"
     ],
