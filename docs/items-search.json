@@ -163642,5 +163642,29 @@
         "name": "Trailblazer reloaded relic hunter (t3) armour set",
         "type": "placeholder",
         "duplicate": true
+    },
+    "28786": {
+        "id": 28786,
+        "name": "Icy jumper",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28787": {
+        "id": 28787,
+        "name": "Icy jumper",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28788": {
+        "id": 28788,
+        "name": "Snowglobe helmet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28789": {
+        "id": 28789,
+        "name": "Snowglobe helmet",
+        "type": "placeholder",
+        "duplicate": true
     }
 }

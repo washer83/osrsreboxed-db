@@ -1,7 +1,7 @@
 {
     "id": 25416,
     "name": "Bloodbark legs",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-01-05",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 32000,
     "highalch": 48000,
     "weight": 3.628,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2021-01-27",
     "duplicate": false,

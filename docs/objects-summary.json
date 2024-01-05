@@ -97578,5 +97578,41 @@
     "50000": {
         "id": 50000,
         "name": "Steps"
+    },
+    "50001": {
+        "id": 50001,
+        "name": "Beacon"
+    },
+    "50034": {
+        "id": 50034,
+        "name": "Tree"
+    },
+    "50035": {
+        "id": 50035,
+        "name": "Tree stump"
+    },
+    "50036": {
+        "id": 50036,
+        "name": "Snow shark"
+    },
+    "50042": {
+        "id": 50042,
+        "name": "Candycane"
+    },
+    "50043": {
+        "id": 50043,
+        "name": "Candycane"
+    },
+    "50044": {
+        "id": 50044,
+        "name": "Candycane"
+    },
+    "50045": {
+        "id": 50045,
+        "name": "Candycane"
+    },
+    "50046": {
+        "id": 50046,
+        "name": "Snowman"
     }
 }

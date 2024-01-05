@@ -1,14 +1,14 @@
 {
     "id": 7563,
     "name": "Muttadile",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-01-05",
     "incomplete": true,
     "members": true,
     "release_date": "2018-05-17",
     "combat_level": 0,
     "size": 5,
     "hitpoints": 375,
-    "max_hit": null,
+    "max_hit": 106,
     "attack_type": [
         "melee",
         "ranged",

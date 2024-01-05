@@ -1,7 +1,7 @@
 {
     "id": 28763,
     "name": "Trailblazer reloaded bronze trophy",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-01-05",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -16,23 +16,23 @@
     "placeholder": false,
     "equipable": true,
     "equipable_by_player": true,
-    "equipable_weapon": true,
+    "equipable_weapon": false,
     "cost": 1,
     "lowalch": 0,
     "highalch": 0,
     "weight": 1.5,
     "buy_limit": null,
     "quest_item": false,
-    "release_date": "2023-11-15",
+    "release_date": "2023-11-29",
     "duplicate": false,
     "examine": "A Bronze Trophy awarded for participating in Leagues IV: Trailblazer Reloaded.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4Xu2Xz2rCQBDGE5YQDBIRxWKFaoVaqoXagpRCS714yEWw4KGF3nvpodBDD32zvkLfxgeYMruOnexqjPnnxQ8+yI6T7I/NuLOxLEM2KO+iXfNjy4bR8Ar6vd4SKp5r1aoRCzuxbPh2K/Dl+vC59MfS705ZGq8xjjmYOxEuVHwfbnsCrtoCzpoWtBsWHFctqPsW+CUrDZQCWrz5hn+8o5V5HIHKnicnJyMMNz532OkkgTKBcIyOAiq5rlwJ3QSYGRBevzzNpDkUz4kCIqcCwtqgSRFk8etLExSHRI/zBqKV0IEIikzjvQDx16bH9gI0n05hFgSqdrQVKwSIFzRNjlC8fiheKJBewFjwfIy/5/4vIyAOFeVAlCKBCCYxELUFvvmhN22M0wiglDAk1RB1qHVAjXrdgFgHpM+ws9RDFNgmIOzw1Dx1070ZrE5YHIzXDXZ3jAXXQnZ2ytFBMoXh4mDcHIhD5AaiKzyhCaTnFywFlPK8k6UOQNukgFKeCLPUAWibbLi/ENm2iGRSm+Jk4MFly4WTmoBaWciYnpmz/kHQo1NXAp03Heg2HAlGOQXA2fD66MDzgwPzO2Wsn/FAGF+s4Qabm2y46aqJ0f2WtQLQP5szP3psltlco1xIk+XNNY71++PoD9q+y8iJ1ingAAAAAElFTkSuQmCC",
     "wiki_name": "Trailblazer reloaded bronze trophy",
     "wiki_url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_bronze_trophy",
     "equipment": {
-        "attack_stab": -100,
-        "attack_slash": -100,
-        "attack_crush": -50,
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
         "attack_magic": 0,
         "attack_ranged": 0,
         "defence_stab": 0,
@@ -40,38 +40,12 @@
         "defence_crush": 0,
         "defence_magic": 0,
         "defence_ranged": 0,
-        "melee_strength": -10,
+        "melee_strength": 0,
         "ranged_strength": 0,
         "magic_damage": 0,
         "prayer": 0,
-        "slot": "2h",
+        "slot": "shield",
         "requirements": null
     },
-    "weapon": {
-        "attack_speed": 4,
-        "weapon_type": "blunt",
-        "stances": [
-            {
-                "combat_style": "pound",
-                "attack_type": "crush",
-                "attack_style": "accurate",
-                "experience": "attack",
-                "boosts": null
-            },
-            {
-                "combat_style": "pummel",
-                "attack_type": "crush",
-                "attack_style": "aggressive",
-                "experience": "strength",
-                "boosts": null
-            },
-            {
-                "combat_style": "block",
-                "attack_type": "crush",
-                "attack_style": "defensive",
-                "experience": "defence",
-                "boosts": null
-            }
-        ]
-    }
+    "weapon": null
 }
