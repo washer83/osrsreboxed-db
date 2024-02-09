@@ -1,7 +1,7 @@
 {
     "id": 8372,
     "name": "Verzik Vitur",
-    "last_updated": "2023-08-03",
+    "last_updated": "2024-02-09",
     "incomplete": true,
     "members": true,
     "release_date": "2021-06-03",
@@ -12,7 +12,7 @@
     "attack_type": [
         "magic"
     ],
-    "attack_speed": 12,
+    "attack_speed": 14,
     "aggressive": false,
     "poisonous": false,
     "venomous": false,

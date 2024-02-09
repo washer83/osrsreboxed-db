@@ -1,9 +1,9 @@
 {
     "id": 23082,
     "name": "Antique lamp",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-02-09",
     "incomplete": false,
-    "members": true,
+    "members": false,
     "tradeable": false,
     "tradeable_on_ge": false,
     "stackable": false,
@@ -26,9 +26,9 @@
     "release_date": "2019-02-07",
     "duplicate": false,
     "examine": "I love rubbing things!",
-    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACDElEQVR4XmNgGAWjYBSMgiEPGP+jiwwgYPwfZCD7n8aOItZwxv+p1sr/482VoA6CYaoCxv9F9oJEWMD4f3aU+f+eIKP/jd56/0tctf5n26v9d1WXxKOHZMD4/0qp0v+zRYpwHKrPg+Y4CJ4abvq/M9Dwf5u/wf9qD+3/hc6a/zNsVcHRh3AUOiYJMIIdsDtd7v++TLn/pwvkwY67Xq70/1al0v871cpgGsQHYZDaI7nyYLWbkqT/L42W+j8jRPx/n7/Y/1pX4f95toL/Y4z4/vtp8fy3VeT876AmTp6j0PGDGuX/j+uUwQ4COfBiiSLYscfz5P8fzIY4HuQJkKNWxEr9nxch+X9KkPj/Lh+x/5XOwv+zrQXBIQiKViNZWFIgARgoKPxHxiAD3jSrgR0GCiFQyIAcAwsdkGO2psj+Xx0v/X9RJGoogdh5Dur/K9y0wWmtxU//v7oYH+mOwgSQ0AKFEiiEQI6Bhc6ONFmM0GnxFAFnjAgT+f887MwoIQ5yFCitUcVRsHQECiHk0FmXAElDs8Mk/7d7if0vdRT+n27J/19HnB3uEFAI1XnqgEMMxEfEAEUAkqZAoYQcOrDogkUVyDGualz/5fghoQOLehimkmNggBEeSrDQAUUXLKpguctCnvM/HzsDkoNQ0ye6qRQCzNyIC9PIAZgAPTfiw+h6R8EoGAWjYBQMdQAA8/qGspwrI18AAAAASUVORK5CYII=",
-    "wiki_name": "Antique lamp (Architectural Alliance)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Antique_lamp_(Architectural_Alliance)",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB20lEQVR4Xu2T2S8DURjFzZN48uLFk6aeLA+ViCWpIILyIMRWS4UWsRdNaRpraoklliCNIEKaWiPiHzxyLneMaTRKG5Hck3yZ6fTO3N895/vS0pSUlJT+vTSYn/yhNFR3OpFiqO9+XEPz2DgaPYPvQLKSKuOJ422gIRiJYvLoGEObW3AtLqF9xocSR0OcdxKWhsB1BP6LS71sVdUmuLfif+OHRxjZ3UP/agjOuXm0TEyhsr3DAGWuhPS2ydj+gdho9vRMwNGFpZs7rNw9iOtC9FY849rp8KnuUN/yqg7lGHDrYIV2O3JtRSiuq/8ZlLkIsv74JK4Emb+8gu/8QgB7T8ICnofwbGzqUK3eaTSNjKK214WK1jbhIKHzy8oTh7JZLDAWP7Dz/ILQ/aNwiM4QRrpDmOHtXbjXNtATXECHzy9cqu/rF/cs9hfhuS6noCBxqFh9uMUYCSPdYQ/x9HShKxAUjc2p42AQKj0j45PjXE8HkwIl+4iRGd1hXHSBcTGqmu4e2JtbkG216iA8ANfRMf7+SOBX0kR0dIlA0h0Zl4yKMHklpcjMytI3N7qUJBgpTbjEPiKQbGYZlZwu9oqMS27+uTeTqthp/KpSBBAr8zTGK/O7SkpKSkr/Xa8q/LCarBFzJgAAAABJRU5ErkJggg==",
+    "wiki_name": "Antique lamp (A Kingdom Divided) (1)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Antique_lamp_(A_Kingdom_Divided)#1",
     "equipment": null,
     "weapon": null
 }

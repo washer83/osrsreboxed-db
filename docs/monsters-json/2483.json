@@ -1,7 +1,7 @@
 {
     "id": 2483,
     "name": "Minotaur",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-02-09",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -47,7 +47,7 @@
     "defence_stab": -10,
     "defence_slash": -10,
     "defence_crush": -10,
-    "defence_magic": 21,
+    "defence_magic": -21,
     "defence_ranged": -10,
     "drops": [
         {

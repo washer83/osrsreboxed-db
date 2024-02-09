@@ -75482,7 +75482,7 @@
     "13564": {
         "id": 13564,
         "name": "Shayzien supply crate",
-        "type": "noted",
+        "type": "normal",
         "duplicate": true
     },
     "13565": {
@@ -104702,7 +104702,7 @@
     "18459": {
         "id": 18459,
         "name": "Shayzien medpack",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18460": {
@@ -104750,7 +104750,7 @@
     "18467": {
         "id": 18467,
         "name": "Sulphurous fertiliser",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18468": {
@@ -105278,187 +105278,187 @@
     "18555": {
         "id": 18555,
         "name": "Shayzien supply gloves (1)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18556": {
         "id": 18556,
         "name": "Shayzien supply boots (1)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18557": {
         "id": 18557,
         "name": "Shayzien supply helm (1)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18558": {
         "id": 18558,
         "name": "Shayzien supply greaves (1)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18559": {
         "id": 18559,
         "name": "Shayzien supply platebody (1)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18560": {
         "id": 18560,
         "name": "Shayzien supply gloves (2)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18561": {
         "id": 18561,
         "name": "Shayzien supply boots (2)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18562": {
         "id": 18562,
         "name": "Shayzien supply helm (2)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18563": {
         "id": 18563,
         "name": "Shayzien supply greaves (2)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18564": {
         "id": 18564,
         "name": "Shayzien supply platebody (2)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18565": {
         "id": 18565,
         "name": "Shayzien supply gloves (3)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18566": {
         "id": 18566,
         "name": "Shayzien supply boots (3)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18567": {
         "id": 18567,
         "name": "Shayzien supply helm (3)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18568": {
         "id": 18568,
         "name": "Shayzien supply greaves (3)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18569": {
         "id": 18569,
         "name": "Shayzien supply platebody (3)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18570": {
         "id": 18570,
         "name": "Shayzien supply gloves (4)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18571": {
         "id": 18571,
         "name": "Shayzien supply boots (4)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18572": {
         "id": 18572,
         "name": "Shayzien supply helm (4)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18573": {
         "id": 18573,
         "name": "Shayzien supply greaves (4)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18574": {
         "id": 18574,
         "name": "Shayzien supply platebody (4)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18575": {
         "id": 18575,
         "name": "Shayzien supply gloves (5)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18576": {
         "id": 18576,
         "name": "Shayzien supply boots (5)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18577": {
         "id": 18577,
         "name": "Shayzien supply helm (5)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18578": {
         "id": 18578,
         "name": "Shayzien supply greaves (5)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18579": {
         "id": 18579,
         "name": "Shayzien supply platebody (5)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18580": {
         "id": 18580,
         "name": "Shayzien supply crate",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18581": {
         "id": 18581,
         "name": "Shayzien supply set (1)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18582": {
         "id": 18582,
         "name": "Shayzien supply set (2)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18583": {
         "id": 18583,
         "name": "Shayzien supply set (3)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18584": {
         "id": 18584,
         "name": "Shayzien supply set (4)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18585": {
         "id": 18585,
         "name": "Shayzien supply set (5)",
-        "type": "placeholder",
+        "type": "normal",
         "duplicate": true
     },
     "18586": {
@@ -123589,7 +123589,7 @@
     },
     "21759": {
         "id": 21759,
-        "name": "Hosidius favour certificate",
+        "name": "Certificate",
         "type": "normal",
         "duplicate": false
     },
@@ -123685,7 +123685,7 @@
     },
     "21775": {
         "id": 21775,
-        "name": "Piscarilius favour certificate",
+        "name": "Certificate",
         "type": "normal",
         "duplicate": false
     },
@@ -127153,13 +127153,13 @@
     },
     "22365": {
         "id": 22365,
-        "name": "Shayzien favour certificate",
+        "name": "Certificate",
         "type": "normal",
         "duplicate": false
     },
     "22367": {
         "id": 22367,
-        "name": "Kourend favour certificate",
+        "name": "Certificate",
         "type": "normal",
         "duplicate": false
     },
@@ -129241,7 +129241,7 @@
     },
     "22760": {
         "id": 22760,
-        "name": "Lovakengj favour certificate",
+        "name": "Certificate",
         "type": "normal",
         "duplicate": false
     },
@@ -129343,7 +129343,7 @@
     },
     "22777": {
         "id": 22777,
-        "name": "Arceuus favour certificate",
+        "name": "Certificate",
         "type": "normal",
         "duplicate": false
     },
@@ -163664,6 +163664,84 @@
     "28789": {
         "id": 28789,
         "name": "Snowglobe helmet",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28790": {
+        "id": 28790,
+        "name": "Kourend castle teleport",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28791": {
+        "id": 28791,
+        "name": "Kourend castle teleport",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28792": {
+        "id": 28792,
+        "name": "Bone mace",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28793": {
+        "id": 28793,
+        "name": "Bone mace",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28794": {
+        "id": 28794,
+        "name": "Bone shortbow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28795": {
+        "id": 28795,
+        "name": "Bone shortbow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28796": {
+        "id": 28796,
+        "name": "Bone staff",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28797": {
+        "id": 28797,
+        "name": "Bone staff",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28798": {
+        "id": 28798,
+        "name": "Scurrius' spine",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28799": {
+        "id": 28799,
+        "name": "Scurrius' spine",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28800": {
+        "id": 28800,
+        "name": "Antique lamp",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28801": {
+        "id": 28801,
+        "name": "Scurry",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28802": {
+        "id": 28802,
+        "name": "Scurry",
         "type": "placeholder",
         "duplicate": true
     }

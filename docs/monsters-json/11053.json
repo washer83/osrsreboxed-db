@@ -1,9 +1,9 @@
 {
     "id": 11053,
     "name": "Woman",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-02-09",
     "incomplete": true,
-    "members": true,
+    "members": false,
     "release_date": "2021-06-16",
     "combat_level": 2,
     "size": 1,

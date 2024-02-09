@@ -1,7 +1,7 @@
 {
     "id": 11290,
     "name": "Spiritual Warrior",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-02-09",
     "incomplete": false,
     "members": true,
     "release_date": "2022-01-05",
@@ -47,7 +47,7 @@
     "strength_bonus": 0,
     "attack_magic": 0,
     "magic_bonus": 0,
-    "attack_ranged": 0,
+    "attack_ranged": 110,
     "ranged_bonus": 0,
     "defence_stab": 100,
     "defence_slash": 100,

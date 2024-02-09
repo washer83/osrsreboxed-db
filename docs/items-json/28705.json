@@ -1,7 +1,7 @@
 {
     "id": 28705,
     "name": "Trailblazer reloaded home teleport scroll",
-    "last_updated": "2023-12-03",
+    "last_updated": "2024-02-09",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 10000,
     "highalch": 15000,
     "weight": 0.1,
-    "buy_limit": null,
+    "buy_limit": 5,
     "quest_item": false,
     "release_date": "2023-11-29",
     "duplicate": false,

@@ -34411,6 +34411,10 @@
         "id": 13563,
         "name": "Shayzien supply crate"
     },
+    "13564": {
+        "id": 13564,
+        "name": "Shayzien supply crate"
+    },
     "13565": {
         "id": 13565,
         "name": "Shayzien supply set (1)"
@@ -34890,6 +34894,138 @@
     "17152": {
         "id": 17152,
         "name": "Dead orb"
+    },
+    "18459": {
+        "id": 18459,
+        "name": "Shayzien medpack"
+    },
+    "18467": {
+        "id": 18467,
+        "name": "Sulphurous fertiliser"
+    },
+    "18555": {
+        "id": 18555,
+        "name": "Shayzien supply gloves (1)"
+    },
+    "18556": {
+        "id": 18556,
+        "name": "Shayzien supply boots (1)"
+    },
+    "18557": {
+        "id": 18557,
+        "name": "Shayzien supply helm (1)"
+    },
+    "18558": {
+        "id": 18558,
+        "name": "Shayzien supply greaves (1)"
+    },
+    "18559": {
+        "id": 18559,
+        "name": "Shayzien supply platebody (1)"
+    },
+    "18560": {
+        "id": 18560,
+        "name": "Shayzien supply gloves (2)"
+    },
+    "18561": {
+        "id": 18561,
+        "name": "Shayzien supply boots (2)"
+    },
+    "18562": {
+        "id": 18562,
+        "name": "Shayzien supply helm (2)"
+    },
+    "18563": {
+        "id": 18563,
+        "name": "Shayzien supply greaves (2)"
+    },
+    "18564": {
+        "id": 18564,
+        "name": "Shayzien supply platebody (2)"
+    },
+    "18565": {
+        "id": 18565,
+        "name": "Shayzien supply gloves (3)"
+    },
+    "18566": {
+        "id": 18566,
+        "name": "Shayzien supply boots (3)"
+    },
+    "18567": {
+        "id": 18567,
+        "name": "Shayzien supply helm (3)"
+    },
+    "18568": {
+        "id": 18568,
+        "name": "Shayzien supply greaves (3)"
+    },
+    "18569": {
+        "id": 18569,
+        "name": "Shayzien supply platebody (3)"
+    },
+    "18570": {
+        "id": 18570,
+        "name": "Shayzien supply gloves (4)"
+    },
+    "18571": {
+        "id": 18571,
+        "name": "Shayzien supply boots (4)"
+    },
+    "18572": {
+        "id": 18572,
+        "name": "Shayzien supply helm (4)"
+    },
+    "18573": {
+        "id": 18573,
+        "name": "Shayzien supply greaves (4)"
+    },
+    "18574": {
+        "id": 18574,
+        "name": "Shayzien supply platebody (4)"
+    },
+    "18575": {
+        "id": 18575,
+        "name": "Shayzien supply gloves (5)"
+    },
+    "18576": {
+        "id": 18576,
+        "name": "Shayzien supply boots (5)"
+    },
+    "18577": {
+        "id": 18577,
+        "name": "Shayzien supply helm (5)"
+    },
+    "18578": {
+        "id": 18578,
+        "name": "Shayzien supply greaves (5)"
+    },
+    "18579": {
+        "id": 18579,
+        "name": "Shayzien supply platebody (5)"
+    },
+    "18580": {
+        "id": 18580,
+        "name": "Shayzien supply crate"
+    },
+    "18581": {
+        "id": 18581,
+        "name": "Shayzien supply set (1)"
+    },
+    "18582": {
+        "id": 18582,
+        "name": "Shayzien supply set (2)"
+    },
+    "18583": {
+        "id": 18583,
+        "name": "Shayzien supply set (3)"
+    },
+    "18584": {
+        "id": 18584,
+        "name": "Shayzien supply set (4)"
+    },
+    "18585": {
+        "id": 18585,
+        "name": "Shayzien supply set (5)"
     },
     "19473": {
         "id": 19473,
@@ -40181,7 +40317,7 @@
     },
     "21759": {
         "id": 21759,
-        "name": "Hosidius favour certificate"
+        "name": "Certificate"
     },
     "21760": {
         "id": 21760,
@@ -40217,7 +40353,7 @@
     },
     "21775": {
         "id": 21775,
-        "name": "Piscarilius favour certificate"
+        "name": "Certificate"
     },
     "21776": {
         "id": 21776,
@@ -41449,11 +41585,11 @@
     },
     "22365": {
         "id": 22365,
-        "name": "Shayzien favour certificate"
+        "name": "Certificate"
     },
     "22367": {
         "id": 22367,
-        "name": "Kourend favour certificate"
+        "name": "Certificate"
     },
     "22368": {
         "id": 22368,
@@ -42177,7 +42313,7 @@
     },
     "22760": {
         "id": 22760,
-        "name": "Lovakengj favour certificate"
+        "name": "Certificate"
     },
     "22761": {
         "id": 22761,
@@ -42241,7 +42377,7 @@
     },
     "22777": {
         "id": 22777,
-        "name": "Arceuus favour certificate"
+        "name": "Certificate"
     },
     "22780": {
         "id": 22780,
@@ -55358,5 +55494,33 @@
     "28788": {
         "id": 28788,
         "name": "Snowglobe helmet"
+    },
+    "28790": {
+        "id": 28790,
+        "name": "Kourend castle teleport"
+    },
+    "28792": {
+        "id": 28792,
+        "name": "Bone mace"
+    },
+    "28794": {
+        "id": 28794,
+        "name": "Bone shortbow"
+    },
+    "28796": {
+        "id": 28796,
+        "name": "Bone staff"
+    },
+    "28798": {
+        "id": 28798,
+        "name": "Scurrius' spine"
+    },
+    "28800": {
+        "id": 28800,
+        "name": "Antique lamp"
+    },
+    "28801": {
+        "id": 28801,
+        "name": "Scurry"
     }
 }

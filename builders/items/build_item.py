@@ -581,6 +581,12 @@ class BuildItem:
         else:
             self.item_dict["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+        if "equipable_by_player" not in self.item_dict:
+            self.item_dict["equipable_by_player"] = False
+
+        if "equipable_weapon" not in self.item_dict:
+            self.item_dict["equipable_weapon"] = False
+
         # Create an ItemProperties object
         item_properties = ItemProperties(**self.item_dict)
 

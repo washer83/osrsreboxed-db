@@ -32101,15 +32101,19 @@
     },
     "14203": {
         "id": 14203,
-        "name": "Stone block"
+        "name": "Broken bars"
     },
     "14204": {
         "id": 14204,
-        "name": "Stone block"
+        "name": "Sewage water"
     },
     "14205": {
         "id": 14205,
-        "name": "Stone block"
+        "name": "Food Pile"
+    },
+    "14206": {
+        "id": 14206,
+        "name": "Food Pile"
     },
     "14209": {
         "id": 14209,
@@ -56783,14 +56787,6 @@
         "id": 27122,
         "name": ""
     },
-    "27123": {
-        "id": 27123,
-        "name": "Dead mushroom ring"
-    },
-    "27124": {
-        "id": 27124,
-        "name": "Fairy ring"
-    },
     "27199": {
         "id": 27199,
         "name": "Stairs"
@@ -57573,7 +57569,7 @@
     },
     "27554": {
         "id": 27554,
-        "name": "Cooling chest"
+        "name": "Chest"
     },
     "27555": {
         "id": 27555,
@@ -97579,9 +97575,29 @@
         "id": 50000,
         "name": "Steps"
     },
-    "50001": {
-        "id": 50001,
-        "name": "Beacon"
+    "50003": {
+        "id": 50003,
+        "name": "Corpse"
+    },
+    "50004": {
+        "id": 50004,
+        "name": "Corpse"
+    },
+    "50007": {
+        "id": 50007,
+        "name": "Roots"
+    },
+    "50008": {
+        "id": 50008,
+        "name": "Roots"
+    },
+    "50009": {
+        "id": 50009,
+        "name": "Roots"
+    },
+    "50019": {
+        "id": 50019,
+        "name": "Big egg"
     },
     "50034": {
         "id": 50034,
@@ -97614,5 +97630,73 @@
     "50046": {
         "id": 50046,
         "name": "Snowman"
+    },
+    "50047": {
+        "id": 50047,
+        "name": "Poll booth"
+    },
+    "50048": {
+        "id": 50048,
+        "name": "Door"
+    },
+    "50049": {
+        "id": 50049,
+        "name": "Door"
+    },
+    "50050": {
+        "id": 50050,
+        "name": "Door"
+    },
+    "50051": {
+        "id": 50051,
+        "name": "Gate"
+    },
+    "50052": {
+        "id": 50052,
+        "name": "Gate"
+    },
+    "50053": {
+        "id": 50053,
+        "name": "Gate"
+    },
+    "50059": {
+        "id": 50059,
+        "name": "Spooky cauldron"
+    },
+    "50060": {
+        "id": 50060,
+        "name": "Crate"
+    },
+    "50061": {
+        "id": 50061,
+        "name": "Bank booth"
+    },
+    "50063": {
+        "id": 50063,
+        "name": "Gangplank"
+    },
+    "50064": {
+        "id": 50064,
+        "name": "Gangplank"
+    },
+    "50065": {
+        "id": 50065,
+        "name": "Gangplank"
+    },
+    "50066": {
+        "id": 50066,
+        "name": "Gangplank"
+    },
+    "50072": {
+        "id": 50072,
+        "name": "Ladder"
+    },
+    "50073": {
+        "id": 50073,
+        "name": "Ladder"
+    },
+    "50074": {
+        "id": 50074,
+        "name": "Dying tree"
     }
 }

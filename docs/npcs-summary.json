@@ -24347,17 +24347,9 @@
         "id": 6769,
         "name": "Osten"
     },
-    "6770": {
-        "id": 6770,
-        "name": "Arcis"
-    },
     "6771": {
         "id": 6771,
         "name": "Drew"
-    },
-    "6772": {
-        "id": 6772,
-        "name": "Lovada"
     },
     "6773": {
         "id": 6773,
@@ -24379,21 +24371,9 @@
         "id": 6779,
         "name": "Maze Guardian"
     },
-    "6780": {
-        "id": 6780,
-        "name": "Piliar"
-    },
-    "6781": {
-        "id": 6781,
-        "name": "Shayda"
-    },
     "6784": {
         "id": 6784,
         "name": "Fishing spot"
-    },
-    "6785": {
-        "id": 6785,
-        "name": "Hosa"
     },
     "6792": {
         "id": 6792,
@@ -24882,10 +24862,6 @@
     "6922": {
         "id": 6922,
         "name": "Konoo"
-    },
-    "6923": {
-        "id": 6923,
-        "name": "Clerk"
     },
     "6926": {
         "id": 6926,
@@ -25495,26 +25471,6 @@
         "id": 7082,
         "name": "Banker"
     },
-    "7083": {
-        "id": 7083,
-        "name": "Armourer (tier 1)"
-    },
-    "7084": {
-        "id": 7084,
-        "name": "Armourer (tier 2)"
-    },
-    "7085": {
-        "id": 7085,
-        "name": "Armourer (tier 3)"
-    },
-    "7086": {
-        "id": 7086,
-        "name": "Armourer (tier 4)"
-    },
-    "7087": {
-        "id": 7087,
-        "name": "Armourer (tier 5)"
-    },
     "7088": {
         "id": 7088,
         "name": "Munty"
@@ -25931,44 +25887,52 @@
         "id": 7216,
         "name": "Maniacal monkey"
     },
-    "7217": {
-        "id": 7217,
-        "name": "Miriam"
-    },
-    "7218": {
-        "id": 7218,
-        "name": "Miriam"
-    },
     "7219": {
         "id": 7219,
-        "name": "Traxi"
+        "name": "Scurry"
     },
     "7220": {
         "id": 7220,
-        "name": "Traxi"
+        "name": "Rat Boss Test NPC"
     },
     "7221": {
         "id": 7221,
-        "name": "Raeli"
+        "name": "Scurrius"
     },
     "7222": {
         "id": 7222,
-        "name": "Raeli"
+        "name": "Scurrius"
     },
     "7223": {
         "id": 7223,
-        "name": "Mogrim"
+        "name": "Giant rat"
     },
     "7224": {
         "id": 7224,
-        "name": "Mogrim"
-    },
-    "7225": {
-        "id": 7225,
-        "name": "Loinur"
+        "name": ""
     },
     "7226": {
         "id": 7226,
+        "name": "Historian Aldo"
+    },
+    "7227": {
+        "id": 7227,
+        "name": "Miriam"
+    },
+    "7228": {
+        "id": 7228,
+        "name": "Traxi"
+    },
+    "7229": {
+        "id": 7229,
+        "name": "Raeli"
+    },
+    "7230": {
+        "id": 7230,
+        "name": "Mogrim"
+    },
+    "7231": {
+        "id": 7231,
         "name": "Loinur"
     },
     "7232": {
@@ -27273,10 +27237,14 @@
     },
     "7615": {
         "id": 7615,
-        "name": "Stuliette"
+        "name": "Historian Aldo"
     },
     "7616": {
         "id": 7616,
+        "name": "Scurry"
+    },
+    "7619": {
+        "id": 7619,
         "name": "Stuliette"
     },
     "7620": {
@@ -41571,21 +41539,13 @@
         "id": 12605,
         "name": "Goose"
     },
-    "12606": {
-        "id": 12606,
-        "name": "Jack Frost"
-    },
     "12607": {
         "id": 12607,
-        "name": "Jack Frost"
+        "name": "Lava dragon"
     },
     "12608": {
         "id": 12608,
-        "name": "Jack Frost"
-    },
-    "12609": {
-        "id": 12609,
-        "name": "Jack Frost"
+        "name": "Lava dragon"
     },
     "12610": {
         "id": 12610,
@@ -41622,5 +41582,337 @@
     "12629": {
         "id": 12629,
         "name": "Jack Frost"
+    },
+    "12630": {
+        "id": 12630,
+        "name": "Trader Stan"
+    },
+    "12631": {
+        "id": 12631,
+        "name": "Trader Stan"
+    },
+    "12632": {
+        "id": 12632,
+        "name": "Trader Crewmember"
+    },
+    "12633": {
+        "id": 12633,
+        "name": "Trader Crewmember"
+    },
+    "12634": {
+        "id": 12634,
+        "name": "Trader Crewmember"
+    },
+    "12635": {
+        "id": 12635,
+        "name": "Trader Crewmember"
+    },
+    "12636": {
+        "id": 12636,
+        "name": "Trader Crewmember"
+    },
+    "12637": {
+        "id": 12637,
+        "name": "Trader Crewmember"
+    },
+    "12638": {
+        "id": 12638,
+        "name": "Trader Crewmember"
+    },
+    "12639": {
+        "id": 12639,
+        "name": "Trader Crewmember"
+    },
+    "12640": {
+        "id": 12640,
+        "name": "Trader Crewmember"
+    },
+    "12641": {
+        "id": 12641,
+        "name": "Trader Crewmember"
+    },
+    "12642": {
+        "id": 12642,
+        "name": "Trader Crewmember"
+    },
+    "12643": {
+        "id": 12643,
+        "name": "Trader Crewmember"
+    },
+    "12644": {
+        "id": 12644,
+        "name": "Alina"
+    },
+    "12645": {
+        "id": 12645,
+        "name": "Alina"
+    },
+    "12646": {
+        "id": 12646,
+        "name": "Noah"
+    },
+    "12647": {
+        "id": 12647,
+        "name": "Noah"
+    },
+    "12648": {
+        "id": 12648,
+        "name": "Sergeant Tobyn"
+    },
+    "12649": {
+        "id": 12649,
+        "name": "Sergeant Tobyn"
+    },
+    "12650": {
+        "id": 12650,
+        "name": "Prince Itzla Arkan"
+    },
+    "12651": {
+        "id": 12651,
+        "name": "Prince Itzla Arkan"
+    },
+    "12652": {
+        "id": 12652,
+        "name": "Servius, Teokan of Ralos"
+    },
+    "12653": {
+        "id": 12653,
+        "name": "Furia Tullus"
+    },
+    "12654": {
+        "id": 12654,
+        "name": "Ennius Tullus"
+    },
+    "12655": {
+        "id": 12655,
+        "name": "Knight of Varlamore"
+    },
+    "12656": {
+        "id": 12656,
+        "name": "Knight of Varlamore"
+    },
+    "12657": {
+        "id": 12657,
+        "name": "Knight of Varlamore"
+    },
+    "12658": {
+        "id": 12658,
+        "name": "Knight of Varlamore"
+    },
+    "12659": {
+        "id": 12659,
+        "name": "Knight of Varlamore"
+    },
+    "12660": {
+        "id": 12660,
+        "name": "Knight of Varlamore"
+    },
+    "12661": {
+        "id": 12661,
+        "name": "Guard"
+    },
+    "12662": {
+        "id": 12662,
+        "name": "Guard"
+    },
+    "12663": {
+        "id": 12663,
+        "name": "Bandit"
+    },
+    "12664": {
+        "id": 12664,
+        "name": "Bandit"
+    },
+    "12665": {
+        "id": 12665,
+        "name": "Bandit"
+    },
+    "12666": {
+        "id": 12666,
+        "name": "Bandit"
+    },
+    "12667": {
+        "id": 12667,
+        "name": "Bandit"
+    },
+    "12668": {
+        "id": 12668,
+        "name": "Guard"
+    },
+    "12669": {
+        "id": 12669,
+        "name": "Guard"
+    },
+    "12670": {
+        "id": 12670,
+        "name": "Guard"
+    },
+    "12671": {
+        "id": 12671,
+        "name": "Guard"
+    },
+    "12672": {
+        "id": 12672,
+        "name": "Guard"
+    },
+    "12673": {
+        "id": 12673,
+        "name": "Guard"
+    },
+    "12674": {
+        "id": 12674,
+        "name": "Guard"
+    },
+    "12675": {
+        "id": 12675,
+        "name": "Guard"
+    },
+    "12676": {
+        "id": 12676,
+        "name": "Guard"
+    },
+    "12677": {
+        "id": 12677,
+        "name": "Guard"
+    },
+    "12678": {
+        "id": 12678,
+        "name": "Guard"
+    },
+    "12679": {
+        "id": 12679,
+        "name": "Guard"
+    },
+    "12680": {
+        "id": 12680,
+        "name": "Guard"
+    },
+    "12681": {
+        "id": 12681,
+        "name": "Guard"
+    },
+    "12682": {
+        "id": 12682,
+        "name": "Guard"
+    },
+    "12683": {
+        "id": 12683,
+        "name": "Guard"
+    },
+    "12684": {
+        "id": 12684,
+        "name": "Guard"
+    },
+    "12685": {
+        "id": 12685,
+        "name": "Guard"
+    },
+    "12686": {
+        "id": 12686,
+        "name": "Guard"
+    },
+    "12687": {
+        "id": 12687,
+        "name": "Guard"
+    },
+    "12688": {
+        "id": 12688,
+        "name": "Guard"
+    },
+    "12689": {
+        "id": 12689,
+        "name": "Guard"
+    },
+    "12690": {
+        "id": 12690,
+        "name": "Guard"
+    },
+    "12691": {
+        "id": 12691,
+        "name": "Guard"
+    },
+    "12692": {
+        "id": 12692,
+        "name": "Guard"
+    },
+    "12693": {
+        "id": 12693,
+        "name": "Guard"
+    },
+    "12694": {
+        "id": 12694,
+        "name": "Guard"
+    },
+    "12695": {
+        "id": 12695,
+        "name": "Guard"
+    },
+    "12696": {
+        "id": 12696,
+        "name": "Guard"
+    },
+    "12697": {
+        "id": 12697,
+        "name": "Guard"
+    },
+    "12698": {
+        "id": 12698,
+        "name": "King Roald"
+    },
+    "12699": {
+        "id": 12699,
+        "name": "Aeonisig Raispher"
+    },
+    "12700": {
+        "id": 12700,
+        "name": "Hosa"
+    },
+    "12701": {
+        "id": 12701,
+        "name": "Lovada"
+    },
+    "12702": {
+        "id": 12702,
+        "name": "Ferain"
+    },
+    "12703": {
+        "id": 12703,
+        "name": "Elnes"
+    },
+    "12704": {
+        "id": 12704,
+        "name": "Hordal"
+    },
+    "12705": {
+        "id": 12705,
+        "name": "Buneir"
+    },
+    "12706": {
+        "id": 12706,
+        "name": "Lassin"
+    },
+    "12707": {
+        "id": 12707,
+        "name": "Hatna"
+    },
+    "12708": {
+        "id": 12708,
+        "name": "Dwarf"
+    },
+    "12709": {
+        "id": 12709,
+        "name": "Dwarf"
+    },
+    "12710": {
+        "id": 12710,
+        "name": "Dwarf"
+    },
+    "12711": {
+        "id": 12711,
+        "name": "Dwarf"
+    },
+    "12712": {
+        "id": 12712,
+        "name": "Dwarf"
     }
 }

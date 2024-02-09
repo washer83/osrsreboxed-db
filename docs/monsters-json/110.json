@@ -1,7 +1,7 @@
 {
     "id": 110,
     "name": "Wolf",
-    "last_updated": "2023-09-20",
+    "last_updated": "2024-02-09",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -13,7 +13,7 @@
         "stab"
     ],
     "attack_speed": 4,
-    "aggressive": true,
+    "aggressive": false,
     "poisonous": false,
     "venomous": false,
     "immune_poison": false,

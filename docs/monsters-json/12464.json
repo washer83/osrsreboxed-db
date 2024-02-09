@@ -1,7 +1,7 @@
 {
     "id": 12464,
     "name": "Mutated Terrorbird",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-02-09",
     "incomplete": true,
     "members": true,
     "release_date": "2023-09-13",
@@ -10,7 +10,6 @@
     "hitpoints": 320,
     "max_hit": 16,
     "attack_type": [
-        "melee",
         "crush",
         "ranged"
     ],

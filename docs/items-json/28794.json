@@ -1,0 +1,77 @@
+{
+    "id": 28794,
+    "name": "Bone shortbow",
+    "last_updated": "2024-02-09",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28795,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-01-24",
+    "duplicate": false,
+    "examine": "A shortbow made out of yew and Scurrius' spine, but still effective.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu2WS0tCQRiGG0IOtmkhtGiRZrRSMiLLhWUhmeABo4uYliEiaWFSdEOiohtRILSoIGoRtGjbqp/3xszkOTJdaKEzJ/CBbzdzzsP7Dd9MW1uLFj9BwMsSEKylQnB0dlhFiuD5cgV+r/NTSLkUF1qIDuF6dw6e/m7VUlzoYmvGSGjQ5WIlrpQAwdtdkSVTL6JIhkLwdL6EndyUISSukAjBazWHo/WY6jbVILg/TiGfCFojnZerLCqrUeukEwjYkdJHrJEOlfF6NDgc7aqF+JzxD2twu20q28VFDgoa9FgfSmkbsrOmkLi6yRBsZzVsZjQUk1yiVgrS4TJUpD6R+hJ3NBFitGYxpuy8mO0Ih52GiGQZU4K2hqYSifTC5+v60iJxZ4PhEnv5aZyV47ipJNh8GQvaMRHqkZGKmQStQnKc3dInJR3V/Xk8nKaZEJ0xdOjVhMSvNAh+EeqTA1iOj6KcCTMR+o6hydweJpkQfUpIPDPEuAx/K0lnhuD9cYOlI/70uxJ3Nwlprfg7lpJp8R/4AKaqHfPqTL/+AAAAAElFTkSuQmCC",
+    "wiki_name": "Bone shortbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bone_shortbow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 69,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "bow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

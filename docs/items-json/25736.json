@@ -1,7 +1,7 @@
 {
     "id": 25736,
     "name": "Holy scythe of vitur",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-02-09",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -31,7 +31,7 @@
     "wiki_url": "https://oldschool.runescape.wiki/w/Holy_scythe_of_vitur#Charged",
     "equipment": {
         "attack_stab": 70,
-        "attack_slash": 110,
+        "attack_slash": 125,
         "attack_crush": 30,
         "attack_magic": -6,
         "attack_ranged": 0,

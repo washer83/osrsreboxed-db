@@ -1,7 +1,7 @@
 {
     "id": 12214,
     "name": "The Leviathan",
-    "last_updated": "2023-11-01",
+    "last_updated": "2024-02-09",
     "incomplete": true,
     "members": true,
     "release_date": "2023-07-26",
@@ -11,6 +11,7 @@
     "max_hit": 86,
     "attack_type": [
         "melee",
+        "ranged",
         "magic"
     ],
     "attack_speed": null,
