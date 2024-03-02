@@ -28011,10 +28011,6 @@
         "id": 11159,
         "name": "Hunter kit"
     },
-    "11164": {
-        "id": 11164,
-        "name": "Restored shield"
-    },
     "11165": {
         "id": 11165,
         "name": "Phoenix crossbow"
@@ -55522,5 +55518,61 @@
     "28801": {
         "id": 28801,
         "name": "Scurry"
+    },
+    "28803": {
+        "id": 28803,
+        "name": "Grubby key"
+    },
+    "28804": {
+        "id": 28804,
+        "name": "Bottle"
+    },
+    "28805": {
+        "id": 28805,
+        "name": "Bottle of mist"
+    },
+    "28806": {
+        "id": 28806,
+        "name": "Imbued barronite"
+    },
+    "28807": {
+        "id": 28807,
+        "name": "Shield of arrav"
+    },
+    "28808": {
+        "id": 28808,
+        "name": "List of elders"
+    },
+    "28809": {
+        "id": 28809,
+        "name": "Elias white"
+    },
+    "28810": {
+        "id": 28810,
+        "name": "Zombie axe"
+    },
+    "28813": {
+        "id": 28813,
+        "name": "Broken zombie axe"
+    },
+    "28816": {
+        "id": 28816,
+        "name": "Stone tablet"
+    },
+    "28817": {
+        "id": 28817,
+        "name": "Granite tablet"
+    },
+    "28818": {
+        "id": 28818,
+        "name": "Slate tablet"
+    },
+    "28819": {
+        "id": 28819,
+        "name": "Shale tablet"
+    },
+    "28820": {
+        "id": 28820,
+        "name": "Antique lamp"
     }
 }

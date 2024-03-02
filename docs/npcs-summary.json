@@ -1895,14 +1895,6 @@
         "id": 487,
         "name": "Bloodveld"
     },
-    "488": {
-        "id": 488,
-        "name": "Storm Cloud"
-    },
-    "489": {
-        "id": 489,
-        "name": "Storm Cloud"
-    },
     "491": {
         "id": 491,
         "name": "Entomologist"
@@ -24985,11 +24977,7 @@
     },
     "6957": {
         "id": 6957,
-        "name": "Chief Farmer"
-    },
-    "6958": {
-        "id": 6958,
-        "name": "Farmer's wife"
+        "name": "Dale"
     },
     "6959": {
         "id": 6959,
@@ -40015,10 +40003,6 @@
         "id": 12104,
         "name": "Cassim"
     },
-    "12105": {
-        "id": 12105,
-        "name": "Elias White"
-    },
     "12107": {
         "id": 12107,
         "name": "Skeleton Hellhound"
@@ -41549,39 +41533,79 @@
     },
     "12610": {
         "id": 12610,
-        "name": "Anti-Santa"
+        "name": "Elias White"
+    },
+    "12611": {
+        "id": 12611,
+        "name": "Elias White"
+    },
+    "12612": {
+        "id": 12612,
+        "name": "Arrav"
     },
     "12613": {
         "id": 12613,
-        "name": "Anti-Santa"
+        "name": "Arrav"
     },
     "12614": {
         "id": 12614,
-        "name": "Anti-Santa"
+        "name": "Zemouregal"
+    },
+    "12615": {
+        "id": 12615,
+        "name": "Zemouregal"
+    },
+    "12617": {
+        "id": 12617,
+        "name": "Sharathteerk"
+    },
+    "12618": {
+        "id": 12618,
+        "name": "Monk of Zamorak"
+    },
+    "12619": {
+        "id": 12619,
+        "name": "Monk of Zamorak"
+    },
+    "12620": {
+        "id": 12620,
+        "name": "Aeonisig Raispher"
+    },
+    "12621": {
+        "id": 12621,
+        "name": "King Roald"
+    },
+    "12622": {
+        "id": 12622,
+        "name": "Sir Prysin"
     },
     "12623": {
         "id": 12623,
-        "name": "Goblin"
+        "name": "Ambassador Ferrnook"
     },
     "12624": {
         "id": 12624,
-        "name": "Goblin"
+        "name": "Queen Ellamaria"
     },
     "12625": {
         "id": 12625,
-        "name": "Goblin"
+        "name": "Queen Ellamaria"
     },
     "12626": {
         "id": 12626,
-        "name": "Goblin"
+        "name": "Reldo"
     },
     "12627": {
         "id": 12627,
-        "name": "Goblin"
+        "name": "Captain Rovin"
+    },
+    "12628": {
+        "id": 12628,
+        "name": "Treznor"
     },
     "12629": {
         "id": 12629,
-        "name": "Jack Frost"
+        "name": "Dimintheis"
     },
     "12630": {
         "id": 12630,
@@ -41914,5 +41938,193 @@
     "12712": {
         "id": 12712,
         "name": "Dwarf"
+    },
+    "12713": {
+        "id": 12713,
+        "name": "Guard"
+    },
+    "12714": {
+        "id": 12714,
+        "name": "Guard"
+    },
+    "12715": {
+        "id": 12715,
+        "name": "Guard"
+    },
+    "12716": {
+        "id": 12716,
+        "name": "Guard"
+    },
+    "12717": {
+        "id": 12717,
+        "name": "Guard"
+    },
+    "12718": {
+        "id": 12718,
+        "name": "Guard"
+    },
+    "12719": {
+        "id": 12719,
+        "name": "Guard"
+    },
+    "12720": {
+        "id": 12720,
+        "name": "Armoured zombie"
+    },
+    "12721": {
+        "id": 12721,
+        "name": "Armoured zombie"
+    },
+    "12722": {
+        "id": 12722,
+        "name": "Armoured zombie"
+    },
+    "12723": {
+        "id": 12723,
+        "name": "Armoured zombie"
+    },
+    "12724": {
+        "id": 12724,
+        "name": "Armoured zombie"
+    },
+    "12725": {
+        "id": 12725,
+        "name": "Armoured zombie"
+    },
+    "12726": {
+        "id": 12726,
+        "name": "Armoured zombie"
+    },
+    "12727": {
+        "id": 12727,
+        "name": "Armoured zombie"
+    },
+    "12728": {
+        "id": 12728,
+        "name": "Armoured zombie"
+    },
+    "12729": {
+        "id": 12729,
+        "name": "Armoured zombie"
+    },
+    "12730": {
+        "id": 12730,
+        "name": "Armoured zombie"
+    },
+    "12731": {
+        "id": 12731,
+        "name": "Armoured zombie"
+    },
+    "12732": {
+        "id": 12732,
+        "name": "Armoured zombie"
+    },
+    "12733": {
+        "id": 12733,
+        "name": "Armoured zombie"
+    },
+    "12734": {
+        "id": 12734,
+        "name": "Armoured zombie"
+    },
+    "12735": {
+        "id": 12735,
+        "name": "Armoured zombie"
+    },
+    "12736": {
+        "id": 12736,
+        "name": "Armoured zombie"
+    },
+    "12737": {
+        "id": 12737,
+        "name": "Armoured zombie"
+    },
+    "12738": {
+        "id": 12738,
+        "name": "Armoured zombie"
+    },
+    "12739": {
+        "id": 12739,
+        "name": "Armoured zombie"
+    },
+    "12740": {
+        "id": 12740,
+        "name": "Armoured zombie"
+    },
+    "12741": {
+        "id": 12741,
+        "name": "Armoured zombie"
+    },
+    "12742": {
+        "id": 12742,
+        "name": "Armoured zombie"
+    },
+    "12743": {
+        "id": 12743,
+        "name": "Armoured zombie"
+    },
+    "12744": {
+        "id": 12744,
+        "name": "Armoured zombie"
+    },
+    "12745": {
+        "id": 12745,
+        "name": "Armoured zombie"
+    },
+    "12746": {
+        "id": 12746,
+        "name": "Armoured zombie"
+    },
+    "12747": {
+        "id": 12747,
+        "name": "Armoured zombie"
+    },
+    "12748": {
+        "id": 12748,
+        "name": "Armoured zombie"
+    },
+    "12749": {
+        "id": 12749,
+        "name": "Armoured zombie"
+    },
+    "12755": {
+        "id": 12755,
+        "name": "Armoured zombie"
+    },
+    "12756": {
+        "id": 12756,
+        "name": "Armoured zombie"
+    },
+    "12757": {
+        "id": 12757,
+        "name": "Armoured zombie"
+    },
+    "12758": {
+        "id": 12758,
+        "name": "Armoured zombie"
+    },
+    "12759": {
+        "id": 12759,
+        "name": "Armoured zombie"
+    },
+    "12760": {
+        "id": 12760,
+        "name": "Armoured zombie"
+    },
+    "12761": {
+        "id": 12761,
+        "name": "Armoured zombie"
+    },
+    "12762": {
+        "id": 12762,
+        "name": "Armoured zombie"
+    },
+    "12763": {
+        "id": 12763,
+        "name": "Armoured zombie"
+    },
+    "12764": {
+        "id": 12764,
+        "name": "Armoured zombie"
     }
 }

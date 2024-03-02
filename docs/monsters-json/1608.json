@@ -1,7 +1,7 @@
 {
     "id": 1608,
     "name": "Kolodion",
-    "last_updated": "2020-12-25",
+    "last_updated": "2024-03-02",
     "incomplete": true,
     "members": true,
     "release_date": "2003-09-22",
@@ -16,7 +16,7 @@
     "aggressive": true,
     "poisonous": true,
     "venomous": false,
-    "immune_poison": true,
+    "immune_poison": false,
     "immune_venom": false,
     "attributes": [],
     "category": [],

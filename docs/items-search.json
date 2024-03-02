@@ -62351,12 +62351,6 @@
         "type": "normal",
         "duplicate": true
     },
-    "11164": {
-        "id": 11164,
-        "name": "Restored shield",
-        "type": "normal",
-        "duplicate": false
-    },
     "11165": {
         "id": 11165,
         "name": "Phoenix crossbow",
@@ -101150,12 +101144,6 @@
     "17867": {
         "id": 17867,
         "name": "Broken shield",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "17868": {
-        "id": 17868,
-        "name": "Restored shield",
         "type": "placeholder",
         "duplicate": true
     },
@@ -160115,23 +160103,11 @@
         "type": "normal",
         "duplicate": false
     },
-    "28180": {
-        "id": 28180,
-        "name": "Leprechaun charm",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "28181": {
         "id": 28181,
         "name": "Clover insignia",
         "type": "normal",
         "duplicate": false
-    },
-    "28182": {
-        "id": 28182,
-        "name": "Clover insignia",
-        "type": "placeholder",
-        "duplicate": true
     },
     "28183": {
         "id": 28183,
@@ -160145,47 +160121,11 @@
         "type": "normal",
         "duplicate": false
     },
-    "28185": {
-        "id": 28185,
-        "name": "Bee on a stick",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "28186": {
-        "id": 28186,
-        "name": "Bee on a stick",
-        "type": "normal",
-        "duplicate": true
-    },
-    "28187": {
-        "id": 28187,
-        "name": "Bee on a stick",
-        "type": "normal",
-        "duplicate": true
-    },
-    "28188": {
-        "id": 28188,
-        "name": "Bee on a stick",
-        "type": "normal",
-        "duplicate": true
-    },
-    "28189": {
-        "id": 28189,
-        "name": "Bee on a stick",
-        "type": "normal",
-        "duplicate": true
-    },
     "28190": {
         "id": 28190,
         "name": "Powdered pollen",
         "type": "normal",
         "duplicate": false
-    },
-    "28191": {
-        "id": 28191,
-        "name": "Powdered pollen",
-        "type": "placeholder",
-        "duplicate": true
     },
     "28192": {
         "id": 28192,
@@ -162797,23 +162737,11 @@
         "type": "normal",
         "duplicate": false
     },
-    "28645": {
-        "id": 28645,
-        "name": "Smoker fuel",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "28646": {
         "id": 28646,
         "name": "Smoker canister",
         "type": "normal",
         "duplicate": false
-    },
-    "28647": {
-        "id": 28647,
-        "name": "Smoker canister",
-        "type": "placeholder",
-        "duplicate": true
     },
     "28648": {
         "id": 28648,
@@ -162839,23 +162767,11 @@
         "type": "normal",
         "duplicate": false
     },
-    "28652": {
-        "id": 28652,
-        "name": "Crystal charm",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "28653": {
         "id": 28653,
         "name": "Petal circlet",
         "type": "normal",
         "duplicate": false
-    },
-    "28654": {
-        "id": 28654,
-        "name": "Petal circlet",
-        "type": "placeholder",
-        "duplicate": true
     },
     "28655": {
         "id": 28655,
@@ -162875,23 +162791,11 @@
         "type": "normal",
         "duplicate": false
     },
-    "28658": {
-        "id": 28658,
-        "name": "Padded spoon",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "28659": {
         "id": 28659,
         "name": "Egg cushion",
         "type": "normal",
         "duplicate": false
-    },
-    "28660": {
-        "id": 28660,
-        "name": "Egg cushion",
-        "type": "placeholder",
-        "duplicate": true
     },
     "28661": {
         "id": 28661,
@@ -162923,23 +162827,11 @@
         "type": "normal",
         "duplicate": false
     },
-    "28666": {
-        "id": 28666,
-        "name": "Trap disarmer",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "28667": {
         "id": 28667,
         "name": "Trap disarmer blueprint",
         "type": "normal",
         "duplicate": false
-    },
-    "28668": {
-        "id": 28668,
-        "name": "Trap disarmer blueprint",
-        "type": "placeholder",
-        "duplicate": true
     },
     "28669": {
         "id": 28669,
@@ -163744,5 +163636,113 @@
         "name": "Scurry",
         "type": "placeholder",
         "duplicate": true
+    },
+    "28803": {
+        "id": 28803,
+        "name": "Grubby key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28804": {
+        "id": 28804,
+        "name": "Bottle",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28805": {
+        "id": 28805,
+        "name": "Bottle of mist",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28806": {
+        "id": 28806,
+        "name": "Imbued barronite",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28807": {
+        "id": 28807,
+        "name": "Shield of arrav",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28808": {
+        "id": 28808,
+        "name": "List of elders",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28809": {
+        "id": 28809,
+        "name": "Elias white",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28810": {
+        "id": 28810,
+        "name": "Zombie axe",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28811": {
+        "id": 28811,
+        "name": "Zombie axe",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28812": {
+        "id": 28812,
+        "name": "Zombie axe",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28813": {
+        "id": 28813,
+        "name": "Broken zombie axe",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28814": {
+        "id": 28814,
+        "name": "Broken zombie axe",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28815": {
+        "id": 28815,
+        "name": "Broken zombie axe",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28816": {
+        "id": 28816,
+        "name": "Stone tablet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28817": {
+        "id": 28817,
+        "name": "Granite tablet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28818": {
+        "id": 28818,
+        "name": "Slate tablet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28819": {
+        "id": 28819,
+        "name": "Shale tablet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28820": {
+        "id": 28820,
+        "name": "Antique lamp",
+        "type": "normal",
+        "duplicate": false
     }
 }

@@ -1,7 +1,7 @@
 {
     "id": 460,
     "name": "Desert Lizard",
-    "last_updated": "2022-12-31",
+    "last_updated": "2024-03-02",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-24",
@@ -13,7 +13,7 @@
         "crush"
     ],
     "attack_speed": 4,
-    "aggressive": false,
+    "aggressive": true,
     "poisonous": false,
     "venomous": false,
     "immune_poison": false,
