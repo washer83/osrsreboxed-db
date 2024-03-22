@@ -1,0 +1,77 @@
+{
+    "id": 28919,
+    "name": "Tonalztics of ralos (uncharged)",
+    "last_updated": "2024-03-22",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 28920,
+    "linked_id_placeholder": 28921,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 150000,
+    "lowalch": 60000,
+    "highalch": 90000,
+    "weight": 3.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-03-20",
+    "duplicate": false,
+    "examine": "A rebounding throwing weapon of devastating proportions.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7UlEQVR4Xu2VDWvCMBCGzX8Yg1lWP0DBD6wO5xTndDh1jsHY//8xN94clyZt7YfWjUFfOOqWpPfkveRaq1WqVOnPpCiMP5eixXRKm+WS3l83OaCyxktRXihF38djynipyoJS9DgOaLta6bFxs3ltKEUPoxE9z2YRKA6MvcznBqZEIPsA2y4o6ne72gUkhhOAeppMaNjrGfdKdofLAhcQsmM7gsHAJJd5gMLz63BIAYpuMLd4oQ2FgDMoC54AQMjcWz8gr7syzkU3IRsNN1hQvEN2A4klEf4GlJ3oxhtQvbPQT8wVhzHfjv16rQNrkh3MJU4KCJQIyeSFAn3XnunA74bnaQcxFyEw9gYuPPAuUPyFivwe3zYBbPu+cTUKcQFMCIIdJ98gF8YGwny7H50JIeKzIyDSd5BASiYwrju8ttNq6TVyXsI4S+yKnVhC+g9gBaY13Dtz7ut1DSSX4ONtq3tVtIlGs6ZImevs1txtioBp9LfUDo76/ygTQLBW2oM4C6cAh9/SQgpDJdddmY6MBNKnJD53u5irpyL5/SmKT+azId8r2a0kAJCUxXY2Ldz3FxaXDCWxYaScKFMJTa+I+ObZ3zd3p0qDhmW7uhgISU9/QBkq7MxXF5+VuDvunPTx0pWdLGu8dP1qskr/TT+fke1hGyVkHgAAAABJRU5ErkJggg==",
+    "wiki_name": "Tonalztics of ralos (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tonalztics_of_ralos#Uncharged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 115,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 55,
+        "magic_damage": 0,
+        "prayer": 2,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

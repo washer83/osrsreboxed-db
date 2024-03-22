@@ -1,14 +1,14 @@
 {
     "id": 6348,
     "name": "Fareed",
-    "last_updated": "2023-08-03",
+    "last_updated": "2024-03-22",
     "incomplete": true,
     "members": true,
     "release_date": "2005-04-18",
     "combat_level": 167,
     "size": 1,
     "hitpoints": 130,
-    "max_hit": 36,
+    "max_hit": 37,
     "attack_type": [
         "slash",
         "magic"

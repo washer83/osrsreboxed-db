@@ -5999,6 +5999,10 @@
         "id": 2716,
         "name": "Table"
     },
+    "2717": {
+        "id": 2717,
+        "name": "Chart"
+    },
     "2718": {
         "id": 2718,
         "name": "Dead bat"
@@ -76877,7 +76881,7 @@
     },
     "36688": {
         "id": 36688,
-        "name": "Mahogany"
+        "name": "Mahogany tree"
     },
     "36689": {
         "id": 36689,
@@ -93625,7 +93629,7 @@
     },
     "47926": {
         "id": 47926,
-        "name": "Water Pump"
+        "name": "Water pump"
     },
     "47927": {
         "id": 47927,
@@ -94037,7 +94041,7 @@
     },
     "48170": {
         "id": 48170,
-        "name": "Water Pump"
+        "name": "Water pump"
     },
     "48171": {
         "id": 48171,
@@ -98722,5 +98726,2701 @@
     "50654": {
         "id": 50654,
         "name": "Door"
+    },
+    "50698": {
+        "id": 50698,
+        "name": "Furnace"
+    },
+    "50699": {
+        "id": 50699,
+        "name": "Struggling sapling"
+    },
+    "50700": {
+        "id": 50700,
+        "name": "Struggling sapling"
+    },
+    "50701": {
+        "id": 50701,
+        "name": "Thriving sapling"
+    },
+    "50702": {
+        "id": 50702,
+        "name": "Nothing"
+    },
+    "50706": {
+        "id": 50706,
+        "name": "Mounted Dizana's Max Cape"
+    },
+    "50707": {
+        "id": 50707,
+        "name": "Portal Nexus"
+    },
+    "50708": {
+        "id": 50708,
+        "name": "Portal Nexus"
+    },
+    "50709": {
+        "id": 50709,
+        "name": "Portal Nexus"
+    },
+    "50710": {
+        "id": 50710,
+        "name": "Basic Jewellery Box"
+    },
+    "50711": {
+        "id": 50711,
+        "name": "Fancy Jewellery Box"
+    },
+    "50712": {
+        "id": 50712,
+        "name": "Ornate Jewellery Box"
+    },
+    "50713": {
+        "id": 50713,
+        "name": "Civitas illa Fortis Portal"
+    },
+    "50714": {
+        "id": 50714,
+        "name": "Civitas illa Fortis Portal"
+    },
+    "50715": {
+        "id": 50715,
+        "name": "Civitas illa Fortis Portal"
+    },
+    "50716": {
+        "id": 50716,
+        "name": "Net trap"
+    },
+    "50717": {
+        "id": 50717,
+        "name": "Net trap"
+    },
+    "50718": {
+        "id": 50718,
+        "name": "Net trap"
+    },
+    "50719": {
+        "id": 50719,
+        "name": "Net trap"
+    },
+    "50720": {
+        "id": 50720,
+        "name": "Young tree"
+    },
+    "50721": {
+        "id": 50721,
+        "name": "Young tree"
+    },
+    "50722": {
+        "id": 50722,
+        "name": "Young tree"
+    },
+    "50723": {
+        "id": 50723,
+        "name": "Net trap"
+    },
+    "50724": {
+        "id": 50724,
+        "name": "Deadfall"
+    },
+    "50725": {
+        "id": 50725,
+        "name": "Deadfall"
+    },
+    "50726": {
+        "id": 50726,
+        "name": "Boulder"
+    },
+    "50727": {
+        "id": 50727,
+        "name": "Shaking box"
+    },
+    "50728": {
+        "id": 50728,
+        "name": "Box trap"
+    },
+    "50729": {
+        "id": 50729,
+        "name": "Box trap"
+    },
+    "50730": {
+        "id": 50730,
+        "name": "Box trap"
+    },
+    "50731": {
+        "id": 50731,
+        "name": "Box trap"
+    },
+    "50732": {
+        "id": 50732,
+        "name": "Potter's Wheel"
+    },
+    "50733": {
+        "id": 50733,
+        "name": "Sand pit"
+    },
+    "50734": {
+        "id": 50734,
+        "name": "Gangplank"
+    },
+    "50735": {
+        "id": 50735,
+        "name": "Gangplank"
+    },
+    "50736": {
+        "id": 50736,
+        "name": "Gangplank"
+    },
+    "50737": {
+        "id": 50737,
+        "name": "Gangplank"
+    },
+    "50741": {
+        "id": 50741,
+        "name": "Rewards Chest"
+    },
+    "50746": {
+        "id": 50746,
+        "name": "Molten Sand"
+    },
+    "50747": {
+        "id": 50747,
+        "name": "Colosseum scoreboard"
+    },
+    "50748": {
+        "id": 50748,
+        "name": "Bank chest"
+    },
+    "50749": {
+        "id": 50749,
+        "name": "Colosseum entrance"
+    },
+    "50750": {
+        "id": 50750,
+        "name": "Stairs"
+    },
+    "50751": {
+        "id": 50751,
+        "name": "Entrance"
+    },
+    "50752": {
+        "id": 50752,
+        "name": "Gate"
+    },
+    "50825": {
+        "id": 50825,
+        "name": "Colosseum entrance"
+    },
+    "50826": {
+        "id": 50826,
+        "name": "Colosseum entrance"
+    },
+    "50855": {
+        "id": 50855,
+        "name": "Building Supplies"
+    },
+    "50856": {
+        "id": 50856,
+        "name": "Building Supplies"
+    },
+    "50857": {
+        "id": 50857,
+        "name": "Building Supplies"
+    },
+    "50858": {
+        "id": 50858,
+        "name": "Camp spot"
+    },
+    "50859": {
+        "id": 50859,
+        "name": "Staircase"
+    },
+    "50860": {
+        "id": 50860,
+        "name": "Staircase"
+    },
+    "50861": {
+        "id": 50861,
+        "name": "Gate"
+    },
+    "50862": {
+        "id": 50862,
+        "name": "Gate"
+    },
+    "50863": {
+        "id": 50863,
+        "name": "Chest"
+    },
+    "50864": {
+        "id": 50864,
+        "name": "Chest"
+    },
+    "50865": {
+        "id": 50865,
+        "name": "Chest"
+    },
+    "50866": {
+        "id": 50866,
+        "name": "Chest"
+    },
+    "50867": {
+        "id": 50867,
+        "name": "Chest"
+    },
+    "50868": {
+        "id": 50868,
+        "name": "Chest"
+    },
+    "50869": {
+        "id": 50869,
+        "name": "Chest"
+    },
+    "50870": {
+        "id": 50870,
+        "name": "Crate"
+    },
+    "50871": {
+        "id": 50871,
+        "name": "Crates"
+    },
+    "50872": {
+        "id": 50872,
+        "name": "Gate"
+    },
+    "50873": {
+        "id": 50873,
+        "name": "Torch"
+    },
+    "50874": {
+        "id": 50874,
+        "name": "Rocks"
+    },
+    "50875": {
+        "id": 50875,
+        "name": "Landing Site"
+    },
+    "50879": {
+        "id": 50879,
+        "name": "Pile of equipment"
+    },
+    "50880": {
+        "id": 50880,
+        "name": "Pile of equipment"
+    },
+    "50881": {
+        "id": 50881,
+        "name": "Equipment"
+    },
+    "50887": {
+        "id": 50887,
+        "name": "Orange tree"
+    },
+    "50888": {
+        "id": 50888,
+        "name": "Orange tree"
+    },
+    "50889": {
+        "id": 50889,
+        "name": "Tree stump"
+    },
+    "50890": {
+        "id": 50890,
+        "name": "Lily pad"
+    },
+    "50892": {
+        "id": 50892,
+        "name": "Lily pad"
+    },
+    "50893": {
+        "id": 50893,
+        "name": "Bed"
+    },
+    "50894": {
+        "id": 50894,
+        "name": "Bed"
+    },
+    "50895": {
+        "id": 50895,
+        "name": "Chest"
+    },
+    "50896": {
+        "id": 50896,
+        "name": "Chest"
+    },
+    "50897": {
+        "id": 50897,
+        "name": "Capybara Dung"
+    },
+    "50898": {
+        "id": 50898,
+        "name": "Capybara Dung"
+    },
+    "50899": {
+        "id": 50899,
+        "name": "Capybara Dung"
+    },
+    "50900": {
+        "id": 50900,
+        "name": "Capybara Dung"
+    },
+    "50901": {
+        "id": 50901,
+        "name": "Bank booth"
+    },
+    "50902": {
+        "id": 50902,
+        "name": "Bank Deposit Box"
+    },
+    "50905": {
+        "id": 50905,
+        "name": "Barrel"
+    },
+    "50935": {
+        "id": 50935,
+        "name": "Tropical tree"
+    },
+    "50936": {
+        "id": 50936,
+        "name": "Tropical tree"
+    },
+    "50937": {
+        "id": 50937,
+        "name": "Tropical tree"
+    },
+    "50938": {
+        "id": 50938,
+        "name": "Tropical leaves"
+    },
+    "50939": {
+        "id": 50939,
+        "name": "Fern"
+    },
+    "50940": {
+        "id": 50940,
+        "name": "Tree"
+    },
+    "50941": {
+        "id": 50941,
+        "name": "Tree"
+    },
+    "50942": {
+        "id": 50942,
+        "name": "Mushroom"
+    },
+    "51005": {
+        "id": 51005,
+        "name": "Door"
+    },
+    "51006": {
+        "id": 51006,
+        "name": "Door"
+    },
+    "51034": {
+        "id": 51034,
+        "name": "Water"
+    },
+    "51035": {
+        "id": 51035,
+        "name": "Water"
+    },
+    "51051": {
+        "id": 51051,
+        "name": "Brazier"
+    },
+    "51052": {
+        "id": 51052,
+        "name": "Burning brazier"
+    },
+    "51053": {
+        "id": 51053,
+        "name": "Moonfire"
+    },
+    "51054": {
+        "id": 51054,
+        "name": "Moonfire"
+    },
+    "51085": {
+        "id": 51085,
+        "name": "Sunflower"
+    },
+    "51086": {
+        "id": 51086,
+        "name": "Sunflower"
+    },
+    "51268": {
+        "id": 51268,
+        "name": "Drip"
+    },
+    "51270": {
+        "id": 51270,
+        "name": "Blood"
+    },
+    "51271": {
+        "id": 51271,
+        "name": "Blood"
+    },
+    "51309": {
+        "id": 51309,
+        "name": "Statue"
+    },
+    "51310": {
+        "id": 51310,
+        "name": "Statue"
+    },
+    "51311": {
+        "id": 51311,
+        "name": "Statue"
+    },
+    "51312": {
+        "id": 51312,
+        "name": "Blue Moon Brazier"
+    },
+    "51329": {
+        "id": 51329,
+        "name": "Statue"
+    },
+    "51330": {
+        "id": 51330,
+        "name": "Statue"
+    },
+    "51331": {
+        "id": 51331,
+        "name": "Statue"
+    },
+    "51332": {
+        "id": 51332,
+        "name": "Statue"
+    },
+    "51333": {
+        "id": 51333,
+        "name": "Statue"
+    },
+    "51334": {
+        "id": 51334,
+        "name": "Statue"
+    },
+    "51335": {
+        "id": 51335,
+        "name": "Statue"
+    },
+    "51336": {
+        "id": 51336,
+        "name": "Statue"
+    },
+    "51337": {
+        "id": 51337,
+        "name": "Statue"
+    },
+    "51338": {
+        "id": 51338,
+        "name": "Statue"
+    },
+    "51339": {
+        "id": 51339,
+        "name": "Statue"
+    },
+    "51340": {
+        "id": 51340,
+        "name": "Statue"
+    },
+    "51341": {
+        "id": 51341,
+        "name": "Statue"
+    },
+    "51342": {
+        "id": 51342,
+        "name": "Brazier"
+    },
+    "51343": {
+        "id": 51343,
+        "name": "Brazier"
+    },
+    "51344": {
+        "id": 51344,
+        "name": "Brazier"
+    },
+    "51345": {
+        "id": 51345,
+        "name": "Brazier"
+    },
+    "51346": {
+        "id": 51346,
+        "name": "Lunar Chest"
+    },
+    "51347": {
+        "id": 51347,
+        "name": "Lunar Chest"
+    },
+    "51358": {
+        "id": 51358,
+        "name": "Bush"
+    },
+    "51359": {
+        "id": 51359,
+        "name": "Rock"
+    },
+    "51360": {
+        "id": 51360,
+        "name": "Lizard trap"
+    },
+    "51361": {
+        "id": 51361,
+        "name": "Lizard trap"
+    },
+    "51362": {
+        "id": 51362,
+        "name": "Cooking stove"
+    },
+    "51364": {
+        "id": 51364,
+        "name": "Camp barrier"
+    },
+    "51365": {
+        "id": 51365,
+        "name": "Grubby sapling"
+    },
+    "51368": {
+        "id": 51368,
+        "name": "Fishing spot"
+    },
+    "51369": {
+        "id": 51369,
+        "name": "Fishing spot"
+    },
+    "51370": {
+        "id": 51370,
+        "name": "Stream"
+    },
+    "51371": {
+        "id": 51371,
+        "name": "Supply crates"
+    },
+    "51372": {
+        "id": 51372,
+        "name": "Statue"
+    },
+    "51373": {
+        "id": 51373,
+        "name": "Statue"
+    },
+    "51374": {
+        "id": 51374,
+        "name": "Statue"
+    },
+    "51375": {
+        "id": 51375,
+        "name": "Entrance"
+    },
+    "51376": {
+        "id": 51376,
+        "name": "Entrance"
+    },
+    "51377": {
+        "id": 51377,
+        "name": "Entrance"
+    },
+    "51378": {
+        "id": 51378,
+        "name": "Entrance"
+    },
+    "51379": {
+        "id": 51379,
+        "name": "Monolith"
+    },
+    "51380": {
+        "id": 51380,
+        "name": "Blood Mural"
+    },
+    "51381": {
+        "id": 51381,
+        "name": "Ancient gate"
+    },
+    "51382": {
+        "id": 51382,
+        "name": "Blue Mural"
+    },
+    "51383": {
+        "id": 51383,
+        "name": "Ancient gate"
+    },
+    "51384": {
+        "id": 51384,
+        "name": "Eclipse Mural"
+    },
+    "51385": {
+        "id": 51385,
+        "name": "Ancient gate"
+    },
+    "51386": {
+        "id": 51386,
+        "name": "Ancient gate"
+    },
+    "51387": {
+        "id": 51387,
+        "name": "Ancient gate"
+    },
+    "51388": {
+        "id": 51388,
+        "name": "Ancient gate"
+    },
+    "51389": {
+        "id": 51389,
+        "name": "Ancient gate"
+    },
+    "51390": {
+        "id": 51390,
+        "name": "Ancient gate"
+    },
+    "51391": {
+        "id": 51391,
+        "name": "Ancient gate"
+    },
+    "51392": {
+        "id": 51392,
+        "name": "Ancient gate"
+    },
+    "51393": {
+        "id": 51393,
+        "name": "Ancient gate"
+    },
+    "51398": {
+        "id": 51398,
+        "name": "Chain"
+    },
+    "51400": {
+        "id": 51400,
+        "name": "Carving"
+    },
+    "51401": {
+        "id": 51401,
+        "name": "Carving"
+    },
+    "51424": {
+        "id": 51424,
+        "name": "Ancient fountainhead"
+    },
+    "51425": {
+        "id": 51425,
+        "name": "Ancient fountainhead"
+    },
+    "51426": {
+        "id": 51426,
+        "name": "Ancient fountainhead"
+    },
+    "51427": {
+        "id": 51427,
+        "name": "Ancient fountainhead"
+    },
+    "51428": {
+        "id": 51428,
+        "name": "Ancient fountainhead"
+    },
+    "51429": {
+        "id": 51429,
+        "name": "Ancient fountainhead"
+    },
+    "51430": {
+        "id": 51430,
+        "name": "Ancient fountainhead"
+    },
+    "51431": {
+        "id": 51431,
+        "name": "Ancient fountainhead"
+    },
+    "51464": {
+        "id": 51464,
+        "name": "Tree"
+    },
+    "51484": {
+        "id": 51484,
+        "name": "Waterfall"
+    },
+    "51485": {
+        "id": 51485,
+        "name": "Calcified rocks"
+    },
+    "51486": {
+        "id": 51486,
+        "name": "Rocks"
+    },
+    "51487": {
+        "id": 51487,
+        "name": "Calcified rocks"
+    },
+    "51488": {
+        "id": 51488,
+        "name": "Rocks"
+    },
+    "51489": {
+        "id": 51489,
+        "name": "Calcified rocks"
+    },
+    "51490": {
+        "id": 51490,
+        "name": "Rocks"
+    },
+    "51491": {
+        "id": 51491,
+        "name": "Calcified rocks"
+    },
+    "51492": {
+        "id": 51492,
+        "name": "Rocks"
+    },
+    "51495": {
+        "id": 51495,
+        "name": "Barrel"
+    },
+    "51496": {
+        "id": 51496,
+        "name": "Forge"
+    },
+    "51497": {
+        "id": 51497,
+        "name": "Forge"
+    },
+    "51498": {
+        "id": 51498,
+        "name": "Workbench"
+    },
+    "51501": {
+        "id": 51501,
+        "name": "Anvil"
+    },
+    "51502": {
+        "id": 51502,
+        "name": "Anvil"
+    },
+    "51503": {
+        "id": 51503,
+        "name": "Rock pile"
+    },
+    "51504": {
+        "id": 51504,
+        "name": "Hammer"
+    },
+    "51505": {
+        "id": 51505,
+        "name": "Mine cart"
+    },
+    "51506": {
+        "id": 51506,
+        "name": "Mine cart"
+    },
+    "51509": {
+        "id": 51509,
+        "name": "Furnace"
+    },
+    "51510": {
+        "id": 51510,
+        "name": "Dispenser"
+    },
+    "51511": {
+        "id": 51511,
+        "name": "Boiler"
+    },
+    "51514": {
+        "id": 51514,
+        "name": "Crusher"
+    },
+    "51515": {
+        "id": 51515,
+        "name": "Bank table"
+    },
+    "51516": {
+        "id": 51516,
+        "name": "Bank table"
+    },
+    "51517": {
+        "id": 51517,
+        "name": "Gold"
+    },
+    "51518": {
+        "id": 51518,
+        "name": "Vanity dresser"
+    },
+    "51519": {
+        "id": 51519,
+        "name": "Vanity dresser"
+    },
+    "51520": {
+        "id": 51520,
+        "name": "Shelves"
+    },
+    "51521": {
+        "id": 51521,
+        "name": "Shelves"
+    },
+    "51523": {
+        "id": 51523,
+        "name": "Chair"
+    },
+    "51524": {
+        "id": 51524,
+        "name": "Broom"
+    },
+    "51525": {
+        "id": 51525,
+        "name": "Hanging meat"
+    },
+    "51526": {
+        "id": 51526,
+        "name": "Hanging meat"
+    },
+    "51527": {
+        "id": 51527,
+        "name": "Chair"
+    },
+    "51528": {
+        "id": 51528,
+        "name": "Double bed"
+    },
+    "51529": {
+        "id": 51529,
+        "name": "Chair"
+    },
+    "51530": {
+        "id": 51530,
+        "name": "Chair"
+    },
+    "51531": {
+        "id": 51531,
+        "name": "Table"
+    },
+    "51532": {
+        "id": 51532,
+        "name": "Table"
+    },
+    "51533": {
+        "id": 51533,
+        "name": "Table"
+    },
+    "51534": {
+        "id": 51534,
+        "name": "Table"
+    },
+    "51535": {
+        "id": 51535,
+        "name": "Table"
+    },
+    "51536": {
+        "id": 51536,
+        "name": "Table"
+    },
+    "51537": {
+        "id": 51537,
+        "name": "Lamp"
+    },
+    "51538": {
+        "id": 51538,
+        "name": "Bed"
+    },
+    "51539": {
+        "id": 51539,
+        "name": "Bed"
+    },
+    "51540": {
+        "id": 51540,
+        "name": "Stove"
+    },
+    "51541": {
+        "id": 51541,
+        "name": "Cabinet"
+    },
+    "51542": {
+        "id": 51542,
+        "name": "Cabinet"
+    },
+    "51543": {
+        "id": 51543,
+        "name": "Shelves"
+    },
+    "51544": {
+        "id": 51544,
+        "name": "Shelves"
+    },
+    "51545": {
+        "id": 51545,
+        "name": "Shelves"
+    },
+    "51546": {
+        "id": 51546,
+        "name": "Shelves"
+    },
+    "51547": {
+        "id": 51547,
+        "name": "Market stall"
+    },
+    "51548": {
+        "id": 51548,
+        "name": "Crate"
+    },
+    "51549": {
+        "id": 51549,
+        "name": "Crate"
+    },
+    "51550": {
+        "id": 51550,
+        "name": "Crates"
+    },
+    "51551": {
+        "id": 51551,
+        "name": "Stairs"
+    },
+    "51554": {
+        "id": 51554,
+        "name": "Stairs"
+    },
+    "51555": {
+        "id": 51555,
+        "name": "Stairs"
+    },
+    "51556": {
+        "id": 51556,
+        "name": "Stairs"
+    },
+    "51557": {
+        "id": 51557,
+        "name": "Market stall"
+    },
+    "51558": {
+        "id": 51558,
+        "name": "Jewellery stall"
+    },
+    "51559": {
+        "id": 51559,
+        "name": "Baker's stall"
+    },
+    "51560": {
+        "id": 51560,
+        "name": "Herbalist stall"
+    },
+    "51561": {
+        "id": 51561,
+        "name": "Pickaxe stall"
+    },
+    "51562": {
+        "id": 51562,
+        "name": "Bar"
+    },
+    "51563": {
+        "id": 51563,
+        "name": "Barrel"
+    },
+    "51564": {
+        "id": 51564,
+        "name": "Barrel"
+    },
+    "51565": {
+        "id": 51565,
+        "name": "Barrel of ale"
+    },
+    "51566": {
+        "id": 51566,
+        "name": "Brewing vat"
+    },
+    "51567": {
+        "id": 51567,
+        "name": "Brewing vat"
+    },
+    "51569": {
+        "id": 51569,
+        "name": "Brewing vat"
+    },
+    "51570": {
+        "id": 51570,
+        "name": "Bunk bed"
+    },
+    "51571": {
+        "id": 51571,
+        "name": "The Lost Pickaxe"
+    },
+    "51572": {
+        "id": 51572,
+        "name": "Posters & notices"
+    },
+    "51573": {
+        "id": 51573,
+        "name": "Pickaxe of the Lost"
+    },
+    "51574": {
+        "id": 51574,
+        "name": "Pickaxe of the Lost"
+    },
+    "51575": {
+        "id": 51575,
+        "name": "Pickaxe of the Lost"
+    },
+    "51576": {
+        "id": 51576,
+        "name": "Pickaxe of the Lost"
+    },
+    "51577": {
+        "id": 51577,
+        "name": "Moonlight Antelope Trophy"
+    },
+    "51578": {
+        "id": 51578,
+        "name": "Brazier"
+    },
+    "51579": {
+        "id": 51579,
+        "name": "Mysterious glow"
+    },
+    "51581": {
+        "id": 51581,
+        "name": "Fire"
+    },
+    "51582": {
+        "id": 51582,
+        "name": "Fire"
+    },
+    "51583": {
+        "id": 51583,
+        "name": "Statue"
+    },
+    "51584": {
+        "id": 51584,
+        "name": "Statue"
+    },
+    "51587": {
+        "id": 51587,
+        "name": "Waterlily"
+    },
+    "51588": {
+        "id": 51588,
+        "name": "Waterlily"
+    },
+    "51589": {
+        "id": 51589,
+        "name": "Waterlily"
+    },
+    "51616": {
+        "id": 51616,
+        "name": "Guildmaster's chest"
+    },
+    "51617": {
+        "id": 51617,
+        "name": "Guildmaster's chest"
+    },
+    "51618": {
+        "id": 51618,
+        "name": "Bookshelf"
+    },
+    "51641": {
+        "id": 51641,
+        "name": "Stairs"
+    },
+    "51642": {
+        "id": 51642,
+        "name": "Stairs"
+    },
+    "51643": {
+        "id": 51643,
+        "name": "Rope"
+    },
+    "51644": {
+        "id": 51644,
+        "name": "Rope"
+    },
+    "51660": {
+        "id": 51660,
+        "name": "Cave Entrance"
+    },
+    "51661": {
+        "id": 51661,
+        "name": "Haystack"
+    },
+    "51662": {
+        "id": 51662,
+        "name": "Sack"
+    },
+    "51720": {
+        "id": 51720,
+        "name": "Beer taps"
+    },
+    "51722": {
+        "id": 51722,
+        "name": "Table"
+    },
+    "51723": {
+        "id": 51723,
+        "name": "Table"
+    },
+    "51724": {
+        "id": 51724,
+        "name": "Stool"
+    },
+    "51725": {
+        "id": 51725,
+        "name": "Stool"
+    },
+    "51726": {
+        "id": 51726,
+        "name": "Stool"
+    },
+    "51727": {
+        "id": 51727,
+        "name": "Stool"
+    },
+    "51728": {
+        "id": 51728,
+        "name": "Fire"
+    },
+    "51729": {
+        "id": 51729,
+        "name": "Fire"
+    },
+    "51730": {
+        "id": 51730,
+        "name": "Table"
+    },
+    "51731": {
+        "id": 51731,
+        "name": "Lantern"
+    },
+    "51732": {
+        "id": 51732,
+        "name": "Chair"
+    },
+    "51733": {
+        "id": 51733,
+        "name": "Bookshelf"
+    },
+    "51734": {
+        "id": 51734,
+        "name": "Bookshelf"
+    },
+    "51735": {
+        "id": 51735,
+        "name": "Bookshelf"
+    },
+    "51736": {
+        "id": 51736,
+        "name": "Bookshelf"
+    },
+    "51746": {
+        "id": 51746,
+        "name": "Roots"
+    },
+    "51748": {
+        "id": 51748,
+        "name": "Food basket"
+    },
+    "51749": {
+        "id": 51749,
+        "name": "Empty Food basket"
+    },
+    "51750": {
+        "id": 51750,
+        "name": "Food basket"
+    },
+    "51751": {
+        "id": 51751,
+        "name": "Empty Food Pot"
+    },
+    "51752": {
+        "id": 51752,
+        "name": "Food Barrel"
+    },
+    "51753": {
+        "id": 51753,
+        "name": "Empty Food Barrel"
+    },
+    "51754": {
+        "id": 51754,
+        "name": "Food basket"
+    },
+    "51755": {
+        "id": 51755,
+        "name": "Empty Food basket"
+    },
+    "51756": {
+        "id": 51756,
+        "name": "Table"
+    },
+    "51757": {
+        "id": 51757,
+        "name": "Quetzal Nest"
+    },
+    "51758": {
+        "id": 51758,
+        "name": "Landing Spot"
+    },
+    "51759": {
+        "id": 51759,
+        "name": "Torch"
+    },
+    "51760": {
+        "id": 51760,
+        "name": "Cave"
+    },
+    "51761": {
+        "id": 51761,
+        "name": "Cave"
+    },
+    "51762": {
+        "id": 51762,
+        "name": "Tree"
+    },
+    "51763": {
+        "id": 51763,
+        "name": "Tree stump"
+    },
+    "51764": {
+        "id": 51764,
+        "name": "Tree"
+    },
+    "51765": {
+        "id": 51765,
+        "name": "Tree stump"
+    },
+    "51766": {
+        "id": 51766,
+        "name": "Dead tree"
+    },
+    "51767": {
+        "id": 51767,
+        "name": "Tree stump"
+    },
+    "51768": {
+        "id": 51768,
+        "name": "Acacia tree"
+    },
+    "51769": {
+        "id": 51769,
+        "name": "Acacia tree"
+    },
+    "51770": {
+        "id": 51770,
+        "name": "Stonepine tree"
+    },
+    "51771": {
+        "id": 51771,
+        "name": "Stonepine tree"
+    },
+    "51772": {
+        "id": 51772,
+        "name": "Oak tree"
+    },
+    "51773": {
+        "id": 51773,
+        "name": "Tree stump"
+    },
+    "51787": {
+        "id": 51787,
+        "name": "Roots"
+    },
+    "51788": {
+        "id": 51788,
+        "name": "Roots"
+    },
+    "51789": {
+        "id": 51789,
+        "name": "Roots"
+    },
+    "51790": {
+        "id": 51790,
+        "name": "Rockslide"
+    },
+    "51791": {
+        "id": 51791,
+        "name": "Rockslide"
+    },
+    "51792": {
+        "id": 51792,
+        "name": "Rockslide"
+    },
+    "51793": {
+        "id": 51793,
+        "name": "Rockslide"
+    },
+    "51794": {
+        "id": 51794,
+        "name": "Rockslide"
+    },
+    "51795": {
+        "id": 51795,
+        "name": "Rockslide"
+    },
+    "51796": {
+        "id": 51796,
+        "name": "Rockslide"
+    },
+    "51797": {
+        "id": 51797,
+        "name": "Rockslide"
+    },
+    "51818": {
+        "id": 51818,
+        "name": "Spikey bush"
+    },
+    "51819": {
+        "id": 51819,
+        "name": "Spikey bush"
+    },
+    "51822": {
+        "id": 51822,
+        "name": "Sunflowers"
+    },
+    "51824": {
+        "id": 51824,
+        "name": "Sunflowers"
+    },
+    "51829": {
+        "id": 51829,
+        "name": "Sweetcorn"
+    },
+    "51830": {
+        "id": 51830,
+        "name": "Sweetcorn"
+    },
+    "51831": {
+        "id": 51831,
+        "name": "Sweetcorn"
+    },
+    "51832": {
+        "id": 51832,
+        "name": "Sweetcorn"
+    },
+    "51833": {
+        "id": 51833,
+        "name": "Scarecrow"
+    },
+    "51834": {
+        "id": 51834,
+        "name": "Scarecrow"
+    },
+    "51835": {
+        "id": 51835,
+        "name": "Cabbage"
+    },
+    "51836": {
+        "id": 51836,
+        "name": "Cabbage"
+    },
+    "51837": {
+        "id": 51837,
+        "name": "Onion"
+    },
+    "51838": {
+        "id": 51838,
+        "name": "Onion"
+    },
+    "51839": {
+        "id": 51839,
+        "name": "Wheat"
+    },
+    "51840": {
+        "id": 51840,
+        "name": "Stolen cabbage"
+    },
+    "51842": {
+        "id": 51842,
+        "name": "Bed"
+    },
+    "51843": {
+        "id": 51843,
+        "name": "Chair"
+    },
+    "51850": {
+        "id": 51850,
+        "name": "Rockslide"
+    },
+    "51851": {
+        "id": 51851,
+        "name": "Rockslide"
+    },
+    "51852": {
+        "id": 51852,
+        "name": "Cave Entrance"
+    },
+    "51853": {
+        "id": 51853,
+        "name": "Orange tree"
+    },
+    "51854": {
+        "id": 51854,
+        "name": "Staircase"
+    },
+    "51855": {
+        "id": 51855,
+        "name": "Staircase"
+    },
+    "51856": {
+        "id": 51856,
+        "name": "Staircase"
+    },
+    "51869": {
+        "id": 51869,
+        "name": "Shrine"
+    },
+    "51870": {
+        "id": 51870,
+        "name": "Shrine"
+    },
+    "51871": {
+        "id": 51871,
+        "name": "Shrine"
+    },
+    "51872": {
+        "id": 51872,
+        "name": "Cave"
+    },
+    "51873": {
+        "id": 51873,
+        "name": "Cave"
+    },
+    "51874": {
+        "id": 51874,
+        "name": "Ravine"
+    },
+    "51875": {
+        "id": 51875,
+        "name": "Wolf Den"
+    },
+    "51876": {
+        "id": 51876,
+        "name": "Statue of Quoatlos"
+    },
+    "51877": {
+        "id": 51877,
+        "name": "Statue of Quoatlos"
+    },
+    "51878": {
+        "id": 51878,
+        "name": "Statue of Quoatlos"
+    },
+    "51879": {
+        "id": 51879,
+        "name": "Statue of Quoatlos"
+    },
+    "51880": {
+        "id": 51880,
+        "name": "Statue of Quoatlos"
+    },
+    "51881": {
+        "id": 51881,
+        "name": "Statue of Xerna"
+    },
+    "51882": {
+        "id": 51882,
+        "name": "Statue of Xerna"
+    },
+    "51883": {
+        "id": 51883,
+        "name": "Statue of Xerna"
+    },
+    "51884": {
+        "id": 51884,
+        "name": "Statue of Xerna"
+    },
+    "51885": {
+        "id": 51885,
+        "name": "Statue of Atlazora"
+    },
+    "51886": {
+        "id": 51886,
+        "name": "Statue of Atlazora"
+    },
+    "51887": {
+        "id": 51887,
+        "name": "Statue of Atlazora"
+    },
+    "51888": {
+        "id": 51888,
+        "name": "Statue of Atlazora"
+    },
+    "51889": {
+        "id": 51889,
+        "name": "Statue of Marhuitz"
+    },
+    "51890": {
+        "id": 51890,
+        "name": "Statue of Marhuitz"
+    },
+    "51891": {
+        "id": 51891,
+        "name": "Statue of Marhuitz"
+    },
+    "51892": {
+        "id": 51892,
+        "name": "Statue of Dizana"
+    },
+    "51893": {
+        "id": 51893,
+        "name": "Statue of Dizana"
+    },
+    "51894": {
+        "id": 51894,
+        "name": "Statue of Dizana"
+    },
+    "51895": {
+        "id": 51895,
+        "name": "Statue of Dizana"
+    },
+    "51896": {
+        "id": 51896,
+        "name": "Statue of Taur"
+    },
+    "51897": {
+        "id": 51897,
+        "name": "Statue of Taur"
+    },
+    "51898": {
+        "id": 51898,
+        "name": "Statue of Taur"
+    },
+    "51899": {
+        "id": 51899,
+        "name": "Statue of Taur"
+    },
+    "51900": {
+        "id": 51900,
+        "name": "Banner"
+    },
+    "51901": {
+        "id": 51901,
+        "name": "Banner"
+    },
+    "51902": {
+        "id": 51902,
+        "name": "Banner"
+    },
+    "51903": {
+        "id": 51903,
+        "name": "Banner"
+    },
+    "51904": {
+        "id": 51904,
+        "name": "Banner"
+    },
+    "51905": {
+        "id": 51905,
+        "name": "Banner"
+    },
+    "51906": {
+        "id": 51906,
+        "name": "Brazier"
+    },
+    "51907": {
+        "id": 51907,
+        "name": "Brazier"
+    },
+    "51931": {
+        "id": 51931,
+        "name": "Rocks"
+    },
+    "51932": {
+        "id": 51932,
+        "name": "Market stall"
+    },
+    "51933": {
+        "id": 51933,
+        "name": "Silk stall"
+    },
+    "51934": {
+        "id": 51934,
+        "name": "Fur stall"
+    },
+    "51935": {
+        "id": 51935,
+        "name": "Gem stall"
+    },
+    "51936": {
+        "id": 51936,
+        "name": "Spice stall"
+    },
+    "51937": {
+        "id": 51937,
+        "name": "Baker's stall"
+    },
+    "51998": {
+        "id": 51998,
+        "name": "Locked Door"
+    },
+    "51999": {
+        "id": 51999,
+        "name": "Door"
+    },
+    "52000": {
+        "id": 52000,
+        "name": "Window"
+    },
+    "52001": {
+        "id": 52001,
+        "name": "Window"
+    },
+    "52002": {
+        "id": 52002,
+        "name": "Wardrobe"
+    },
+    "52003": {
+        "id": 52003,
+        "name": "Chest"
+    },
+    "52004": {
+        "id": 52004,
+        "name": "Glass case"
+    },
+    "52005": {
+        "id": 52005,
+        "name": "Chest"
+    },
+    "52006": {
+        "id": 52006,
+        "name": "Chest"
+    },
+    "52007": {
+        "id": 52007,
+        "name": "Chest"
+    },
+    "52008": {
+        "id": 52008,
+        "name": "Chest"
+    },
+    "52009": {
+        "id": 52009,
+        "name": "Wardrobe"
+    },
+    "52010": {
+        "id": 52010,
+        "name": "Wardrobe"
+    },
+    "52011": {
+        "id": 52011,
+        "name": "Jewellery case"
+    },
+    "52012": {
+        "id": 52012,
+        "name": "Staircase"
+    },
+    "52013": {
+        "id": 52013,
+        "name": "Staircase"
+    },
+    "52158": {
+        "id": 52158,
+        "name": "Gate"
+    },
+    "52159": {
+        "id": 52159,
+        "name": "Gate"
+    },
+    "52388": {
+        "id": 52388,
+        "name": "Door"
+    },
+    "52389": {
+        "id": 52389,
+        "name": "Door"
+    },
+    "52390": {
+        "id": 52390,
+        "name": "Door"
+    },
+    "52392": {
+        "id": 52392,
+        "name": "Table"
+    },
+    "52393": {
+        "id": 52393,
+        "name": "Table"
+    },
+    "52394": {
+        "id": 52394,
+        "name": "Bird bath"
+    },
+    "52395": {
+        "id": 52395,
+        "name": "Bench"
+    },
+    "52396": {
+        "id": 52396,
+        "name": "Bank table"
+    },
+    "52397": {
+        "id": 52397,
+        "name": "Bank table"
+    },
+    "52398": {
+        "id": 52398,
+        "name": "Table"
+    },
+    "52402": {
+        "id": 52402,
+        "name": "Plant Pot"
+    },
+    "52403": {
+        "id": 52403,
+        "name": "Plant Pot"
+    },
+    "52404": {
+        "id": 52404,
+        "name": "Plant Pot"
+    },
+    "52405": {
+        "id": 52405,
+        "name": "Shrine of Ralos"
+    },
+    "52406": {
+        "id": 52406,
+        "name": "Flowers"
+    },
+    "52407": {
+        "id": 52407,
+        "name": "Flowers"
+    },
+    "52410": {
+        "id": 52410,
+        "name": "Shrine of Ralos"
+    },
+    "52412": {
+        "id": 52412,
+        "name": "Shrine of Ranul"
+    },
+    "52413": {
+        "id": 52413,
+        "name": "Shrine of Ralos"
+    },
+    "52414": {
+        "id": 52414,
+        "name": "Shrine of Ranul"
+    },
+    "52415": {
+        "id": 52415,
+        "name": "Bookshelf"
+    },
+    "52416": {
+        "id": 52416,
+        "name": "Bookshelf"
+    },
+    "52417": {
+        "id": 52417,
+        "name": "Bookshelf"
+    },
+    "52418": {
+        "id": 52418,
+        "name": "Bookshelf"
+    },
+    "52419": {
+        "id": 52419,
+        "name": "Shrine"
+    },
+    "52420": {
+        "id": 52420,
+        "name": "Shrine"
+    },
+    "52421": {
+        "id": 52421,
+        "name": "Shrine"
+    },
+    "52422": {
+        "id": 52422,
+        "name": "Shrine"
+    },
+    "52423": {
+        "id": 52423,
+        "name": "Shrine"
+    },
+    "52424": {
+        "id": 52424,
+        "name": "Shrine"
+    },
+    "52425": {
+        "id": 52425,
+        "name": "Barrel"
+    },
+    "52426": {
+        "id": 52426,
+        "name": "Barrel"
+    },
+    "52427": {
+        "id": 52427,
+        "name": "Barrel"
+    },
+    "52428": {
+        "id": 52428,
+        "name": "Barrel"
+    },
+    "52429": {
+        "id": 52429,
+        "name": "Ale Barrel"
+    },
+    "52430": {
+        "id": 52430,
+        "name": "Barrel"
+    },
+    "52431": {
+        "id": 52431,
+        "name": "Crate"
+    },
+    "52432": {
+        "id": 52432,
+        "name": "Crates"
+    },
+    "52433": {
+        "id": 52433,
+        "name": "Boardgame"
+    },
+    "52434": {
+        "id": 52434,
+        "name": "Boardgame"
+    },
+    "52436": {
+        "id": 52436,
+        "name": "Pillow"
+    },
+    "52437": {
+        "id": 52437,
+        "name": "Pillows"
+    },
+    "52439": {
+        "id": 52439,
+        "name": "Suit of Armour"
+    },
+    "52440": {
+        "id": 52440,
+        "name": "Suit of Armour"
+    },
+    "52441": {
+        "id": 52441,
+        "name": "Suit of Armour"
+    },
+    "52442": {
+        "id": 52442,
+        "name": "Suit of Armour"
+    },
+    "52443": {
+        "id": 52443,
+        "name": "Suit of Armour"
+    },
+    "52444": {
+        "id": 52444,
+        "name": "Suit of Armour"
+    },
+    "52445": {
+        "id": 52445,
+        "name": "Suit of Armour"
+    },
+    "52446": {
+        "id": 52446,
+        "name": "Suit of Armour"
+    },
+    "52447": {
+        "id": 52447,
+        "name": "Fountain"
+    },
+    "52448": {
+        "id": 52448,
+        "name": "Cypress Tree"
+    },
+    "52449": {
+        "id": 52449,
+        "name": "Cypress Tree"
+    },
+    "52450": {
+        "id": 52450,
+        "name": "Cypress Tree"
+    },
+    "52451": {
+        "id": 52451,
+        "name": "Cypress Tree"
+    },
+    "52452": {
+        "id": 52452,
+        "name": "Wheelbarrow"
+    },
+    "52453": {
+        "id": 52453,
+        "name": "Bed"
+    },
+    "52454": {
+        "id": 52454,
+        "name": "Bench"
+    },
+    "52455": {
+        "id": 52455,
+        "name": "Chair"
+    },
+    "52456": {
+        "id": 52456,
+        "name": "Chair"
+    },
+    "52457": {
+        "id": 52457,
+        "name": "Table"
+    },
+    "52458": {
+        "id": 52458,
+        "name": "Table"
+    },
+    "52459": {
+        "id": 52459,
+        "name": "Table"
+    },
+    "52460": {
+        "id": 52460,
+        "name": "Table"
+    },
+    "52461": {
+        "id": 52461,
+        "name": "Table"
+    },
+    "52462": {
+        "id": 52462,
+        "name": "Table"
+    },
+    "52463": {
+        "id": 52463,
+        "name": "Table"
+    },
+    "52465": {
+        "id": 52465,
+        "name": "Shelves"
+    },
+    "52466": {
+        "id": 52466,
+        "name": "Shelves"
+    },
+    "52485": {
+        "id": 52485,
+        "name": "Stairs"
+    },
+    "52486": {
+        "id": 52486,
+        "name": "Open trapdoor"
+    },
+    "52487": {
+        "id": 52487,
+        "name": "Tunnel"
+    },
+    "52488": {
+        "id": 52488,
+        "name": "Brazier"
+    },
+    "52489": {
+        "id": 52489,
+        "name": "Brazier"
+    },
+    "52490": {
+        "id": 52490,
+        "name": "Pillar"
+    },
+    "52509": {
+        "id": 52509,
+        "name": "Potted fan"
+    },
+    "52510": {
+        "id": 52510,
+        "name": "Potted fan"
+    },
+    "52511": {
+        "id": 52511,
+        "name": "Potted fan"
+    },
+    "52512": {
+        "id": 52512,
+        "name": "Potted fan"
+    },
+    "52513": {
+        "id": 52513,
+        "name": "Royal throne"
+    },
+    "52514": {
+        "id": 52514,
+        "name": "Throne"
+    },
+    "52568": {
+        "id": 52568,
+        "name": "Pillar"
+    },
+    "52570": {
+        "id": 52570,
+        "name": "Death's domain"
+    },
+    "52571": {
+        "id": 52571,
+        "name": "Beds"
+    },
+    "52572": {
+        "id": 52572,
+        "name": "Beds"
+    },
+    "52573": {
+        "id": 52573,
+        "name": "Rug"
+    },
+    "52574": {
+        "id": 52574,
+        "name": "Rug"
+    },
+    "52575": {
+        "id": 52575,
+        "name": "Rug"
+    },
+    "52577": {
+        "id": 52577,
+        "name": "Bookshelf"
+    },
+    "52578": {
+        "id": 52578,
+        "name": "Bookshelf"
+    },
+    "52579": {
+        "id": 52579,
+        "name": "Book"
+    },
+    "52580": {
+        "id": 52580,
+        "name": "Ancient fountainhead"
+    },
+    "52581": {
+        "id": 52581,
+        "name": "Plushie"
+    },
+    "52582": {
+        "id": 52582,
+        "name": "Sacks"
+    },
+    "52583": {
+        "id": 52583,
+        "name": "Sacks"
+    },
+    "52584": {
+        "id": 52584,
+        "name": "Drummer"
+    },
+    "52586": {
+        "id": 52586,
+        "name": "Mill"
+    },
+    "52587": {
+        "id": 52587,
+        "name": "Mill"
+    },
+    "52588": {
+        "id": 52588,
+        "name": "Mill"
+    },
+    "52589": {
+        "id": 52589,
+        "name": "Mill"
+    },
+    "52590": {
+        "id": 52590,
+        "name": "Flour bin"
+    },
+    "52591": {
+        "id": 52591,
+        "name": "Hopper"
+    },
+    "52592": {
+        "id": 52592,
+        "name": "Hopper controls"
+    },
+    "52593": {
+        "id": 52593,
+        "name": "Sails"
+    },
+    "52594": {
+        "id": 52594,
+        "name": "Door"
+    },
+    "52595": {
+        "id": 52595,
+        "name": "Door"
+    },
+    "52596": {
+        "id": 52596,
+        "name": "Door"
+    },
+    "52597": {
+        "id": 52597,
+        "name": "Door"
+    },
+    "52598": {
+        "id": 52598,
+        "name": "Door"
+    },
+    "52599": {
+        "id": 52599,
+        "name": "Door"
+    },
+    "52600": {
+        "id": 52600,
+        "name": "Door"
+    },
+    "52601": {
+        "id": 52601,
+        "name": "Door"
+    },
+    "52602": {
+        "id": 52602,
+        "name": "Door"
+    },
+    "52603": {
+        "id": 52603,
+        "name": "Door"
+    },
+    "52604": {
+        "id": 52604,
+        "name": "Door"
+    },
+    "52605": {
+        "id": 52605,
+        "name": "Door"
+    },
+    "52606": {
+        "id": 52606,
+        "name": "Door"
+    },
+    "52607": {
+        "id": 52607,
+        "name": "Door"
+    },
+    "52608": {
+        "id": 52608,
+        "name": "Door"
+    },
+    "52609": {
+        "id": 52609,
+        "name": "Door"
+    },
+    "52610": {
+        "id": 52610,
+        "name": "Door"
+    },
+    "52611": {
+        "id": 52611,
+        "name": "Door"
+    },
+    "52612": {
+        "id": 52612,
+        "name": "Door"
+    },
+    "52613": {
+        "id": 52613,
+        "name": "Door"
+    },
+    "52614": {
+        "id": 52614,
+        "name": "Ladder"
+    },
+    "52615": {
+        "id": 52615,
+        "name": "Ladder"
+    },
+    "52616": {
+        "id": 52616,
+        "name": "Ladder"
+    },
+    "52617": {
+        "id": 52617,
+        "name": "Ladder"
+    },
+    "52618": {
+        "id": 52618,
+        "name": "Ladder"
+    },
+    "52619": {
+        "id": 52619,
+        "name": "Ladder"
+    },
+    "52620": {
+        "id": 52620,
+        "name": "Ladder"
+    },
+    "52621": {
+        "id": 52621,
+        "name": "Ladder"
+    },
+    "52622": {
+        "id": 52622,
+        "name": "Ladder"
+    },
+    "52623": {
+        "id": 52623,
+        "name": "Ladder"
+    },
+    "52624": {
+        "id": 52624,
+        "name": "Ladder"
+    },
+    "52625": {
+        "id": 52625,
+        "name": "Ladder"
+    },
+    "52626": {
+        "id": 52626,
+        "name": "Staircase"
+    },
+    "52627": {
+        "id": 52627,
+        "name": "Staircase"
+    },
+    "52628": {
+        "id": 52628,
+        "name": "Staircase"
+    },
+    "52629": {
+        "id": 52629,
+        "name": "Staircase"
+    },
+    "52630": {
+        "id": 52630,
+        "name": "Staircase"
+    },
+    "52631": {
+        "id": 52631,
+        "name": "Staircase"
+    },
+    "52632": {
+        "id": 52632,
+        "name": "Staircase"
+    },
+    "52633": {
+        "id": 52633,
+        "name": "Staircase"
+    },
+    "52634": {
+        "id": 52634,
+        "name": "Staircase"
+    },
+    "52635": {
+        "id": 52635,
+        "name": "Staircase"
+    },
+    "52636": {
+        "id": 52636,
+        "name": "Staircase"
+    },
+    "52637": {
+        "id": 52637,
+        "name": "Staircase"
+    },
+    "52638": {
+        "id": 52638,
+        "name": "Staircase"
+    },
+    "52639": {
+        "id": 52639,
+        "name": "Staircase"
+    },
+    "52640": {
+        "id": 52640,
+        "name": "Staircase"
+    },
+    "52641": {
+        "id": 52641,
+        "name": "Staircase"
+    },
+    "52642": {
+        "id": 52642,
+        "name": "Staircase"
+    },
+    "52643": {
+        "id": 52643,
+        "name": "Staircase"
+    },
+    "52644": {
+        "id": 52644,
+        "name": "Staircase"
+    },
+    "52645": {
+        "id": 52645,
+        "name": "Dummy"
+    },
+    "52646": {
+        "id": 52646,
+        "name": "Water pump"
+    },
+    "52647": {
+        "id": 52647,
+        "name": "Oven"
+    },
+    "52648": {
+        "id": 52648,
+        "name": "Oven"
+    },
+    "52683": {
+        "id": 52683,
+        "name": "Fishing boat"
+    },
+    "52684": {
+        "id": 52684,
+        "name": "Fishing boat"
+    },
+    "52685": {
+        "id": 52685,
+        "name": "Fishing boat"
+    },
+    "52690": {
+        "id": 52690,
+        "name": "Crane"
+    },
+    "52691": {
+        "id": 52691,
+        "name": "Empty display"
+    },
+    "52692": {
+        "id": 52692,
+        "name": "Empty display"
+    },
+    "52693": {
+        "id": 52693,
+        "name": "Empty display"
+    },
+    "52694": {
+        "id": 52694,
+        "name": "Dizana's Quiver"
+    },
+    "52695": {
+        "id": 52695,
+        "name": "Crown of Ralos"
+    },
+    "52696": {
+        "id": 52696,
+        "name": "Cloak of Ranul"
+    },
+    "52697": {
+        "id": 52697,
+        "name": "Empty Display"
+    },
+    "52698": {
+        "id": 52698,
+        "name": "Kualti Daggers"
+    },
+    "52699": {
+        "id": 52699,
+        "name": "Kualti Daggers"
+    },
+    "52700": {
+        "id": 52700,
+        "name": "Kualti Dagger"
+    },
+    "52701": {
+        "id": 52701,
+        "name": "Kourend Shield"
+    },
+    "52702": {
+        "id": 52702,
+        "name": "Royal Accord of Twill"
+    },
+    "52703": {
+        "id": 52703,
+        "name": "Icon of Ralos"
+    },
+    "52704": {
+        "id": 52704,
+        "name": "Column of Kourend"
+    },
+    "52705": {
+        "id": 52705,
+        "name": "Column of Imafore's Betrayal"
+    },
+    "52706": {
+        "id": 52706,
+        "name": "Empty display"
+    },
+    "52707": {
+        "id": 52707,
+        "name": "Armour of the Cloud Titan"
+    },
+    "52708": {
+        "id": 52708,
+        "name": "Old One Statue"
+    },
+    "52709": {
+        "id": 52709,
+        "name": "Fang of the Colossal Wyrm"
+    },
+    "52710": {
+        "id": 52710,
+        "name": "Statue of Taur"
+    },
+    "52711": {
+        "id": 52711,
+        "name": "Statue of Dizana"
+    },
+    "52712": {
+        "id": 52712,
+        "name": "Statue of Xerna"
+    },
+    "52713": {
+        "id": 52713,
+        "name": "Statue of Marhuitz"
+    },
+    "52714": {
+        "id": 52714,
+        "name": "Statue of Atlazora"
+    },
+    "52715": {
+        "id": 52715,
+        "name": "Statue of Quoatlos"
+    },
+    "52716": {
+        "id": 52716,
+        "name": "Statue of King Maximus"
+    },
+    "52717": {
+        "id": 52717,
+        "name": "Statue of Queen Zyanyi"
+    },
+    "52718": {
+        "id": 52718,
+        "name": "Statue of Queen Zyanyi"
+    },
+    "52719": {
+        "id": 52719,
+        "name": "Statue of Queen Zyanyi"
+    },
+    "52720": {
+        "id": 52720,
+        "name": "Statue of Queen Zyanyi"
+    },
+    "52721": {
+        "id": 52721,
+        "name": "Statue of Prince Itzla"
+    },
+    "52722": {
+        "id": 52722,
+        "name": "Statue of Prince Itzla"
+    },
+    "52723": {
+        "id": 52723,
+        "name": "Statue of Prince Itzla"
+    },
+    "52724": {
+        "id": 52724,
+        "name": "Statue of Freja"
+    },
+    "52725": {
+        "id": 52725,
+        "name": "Statue of Freja"
+    },
+    "52726": {
+        "id": 52726,
+        "name": "Statue of Freja"
+    },
+    "52727": {
+        "id": 52727,
+        "name": "Statue of Emperor Imafore"
+    },
+    "52728": {
+        "id": 52728,
+        "name": "Statue of Emperor Imafore"
+    },
+    "52729": {
+        "id": 52729,
+        "name": "Statue of Emperor Imafore"
+    },
+    "52730": {
+        "id": 52730,
+        "name": "Statue of Taur"
+    },
+    "52731": {
+        "id": 52731,
+        "name": "Statue of Taur"
+    },
+    "52732": {
+        "id": 52732,
+        "name": "Statue of Taur"
+    },
+    "52733": {
+        "id": 52733,
+        "name": "Statue of Dizana"
+    },
+    "52734": {
+        "id": 52734,
+        "name": "Statue of Dizana"
+    },
+    "52735": {
+        "id": 52735,
+        "name": "Statue of Dizana"
+    },
+    "52736": {
+        "id": 52736,
+        "name": "Statue of King Maximus"
+    },
+    "52737": {
+        "id": 52737,
+        "name": "Statue of King Maximus"
+    },
+    "52738": {
+        "id": 52738,
+        "name": "Statue of King Maximus"
+    },
+    "52739": {
+        "id": 52739,
+        "name": "Statue of Quoatlos"
+    },
+    "52740": {
+        "id": 52740,
+        "name": "Statue of Quoatlos"
+    },
+    "52741": {
+        "id": 52741,
+        "name": "Statue of Atlazora"
+    },
+    "52742": {
+        "id": 52742,
+        "name": "Statue of Atlazora"
+    },
+    "52791": {
+        "id": 52791,
+        "name": "Bed"
+    },
+    "52792": {
+        "id": 52792,
+        "name": "Wardrobe"
+    },
+    "52797": {
+        "id": 52797,
+        "name": "Libation bowl"
+    },
+    "52798": {
+        "id": 52798,
+        "name": "Libation bowl"
+    },
+    "52799": {
+        "id": 52799,
+        "name": "Exposed altar"
+    },
+    "52800": {
+        "id": 52800,
+        "name": "Exposed altar"
+    },
+    "52801": {
+        "id": 52801,
+        "name": "Shrine"
+    },
+    "52806": {
+        "id": 52806,
+        "name": "Bookshelf"
+    },
+    "52807": {
+        "id": 52807,
+        "name": "Bookshelf"
+    },
+    "52808": {
+        "id": 52808,
+        "name": "Cave"
+    },
+    "52809": {
+        "id": 52809,
+        "name": "Pipes"
+    },
+    "52813": {
+        "id": 52813,
+        "name": "Chest"
+    },
+    "52814": {
+        "id": 52814,
+        "name": "Chest"
+    },
+    "52815": {
+        "id": 52815,
+        "name": "Landing Site"
+    },
+    "52816": {
+        "id": 52816,
+        "name": "Unbuilt Landing Site"
+    },
+    "52821": {
+        "id": 52821,
+        "name": "Gate"
+    },
+    "52822": {
+        "id": 52822,
+        "name": "Chicken coop"
+    },
+    "52823": {
+        "id": 52823,
+        "name": "Tree"
+    },
+    "52911": {
+        "id": 52911,
+        "name": "Box"
+    },
+    "52912": {
+        "id": 52912,
+        "name": "Stairs"
+    },
+    "52913": {
+        "id": 52913,
+        "name": "Stairs"
+    },
+    "52914": {
+        "id": 52914,
+        "name": "Statue"
+    },
+    "52915": {
+        "id": 52915,
+        "name": "Big chest"
+    },
+    "52916": {
+        "id": 52916,
+        "name": "Torch"
+    },
+    "53002": {
+        "id": 53002,
+        "name": "Stairs"
+    },
+    "53003": {
+        "id": 53003,
+        "name": "Stairs"
+    },
+    "53004": {
+        "id": 53004,
+        "name": "Stairs"
+    },
+    "53005": {
+        "id": 53005,
+        "name": "Dummy"
+    },
+    "53011": {
+        "id": 53011,
+        "name": "Cat bed"
+    },
+    "53012": {
+        "id": 53012,
+        "name": "Cat bed"
+    },
+    "53014": {
+        "id": 53014,
+        "name": "Bank chest"
+    },
+    "53015": {
+        "id": 53015,
+        "name": "Bank chest"
+    },
+    "53016": {
+        "id": 53016,
+        "name": "Libation bowl"
+    },
+    "53017": {
+        "id": 53017,
+        "name": "Libation bowl"
+    },
+    "53020": {
+        "id": 53020,
+        "name": "Leafy bush"
+    },
+    "53021": {
+        "id": 53021,
+        "name": "Leafy bush"
+    },
+    "53022": {
+        "id": 53022,
+        "name": "Rough-looking bush"
+    },
+    "53023": {
+        "id": 53023,
+        "name": "Rough-looking bush"
+    },
+    "53024": {
+        "id": 53024,
+        "name": "Collapsed trap"
     }
 }
