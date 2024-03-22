@@ -1,7 +1,7 @@
 {
     "id": 7661,
     "name": "Mummy",
-    "last_updated": "2021-08-05",
+    "last_updated": "2024-03-22",
     "incomplete": true,
     "members": true,
     "release_date": "2005-04-26",
@@ -19,9 +19,7 @@
     "venomous": false,
     "immune_poison": false,
     "immune_venom": false,
-    "attributes": [
-        "undead"
-    ],
+    "attributes": [],
     "category": [],
     "slayer_monster": false,
     "slayer_level": null,

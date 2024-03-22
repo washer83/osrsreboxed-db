@@ -19147,7 +19147,7 @@
     },
     "3251": {
         "id": 3251,
-        "name": "Knight of ardougne",
+        "name": "Knight",
         "type": "normal",
         "duplicate": false
     },
@@ -163744,5 +163744,3635 @@
         "name": "Antique lamp",
         "type": "normal",
         "duplicate": false
+    },
+    "28821": {
+        "id": 28821,
+        "name": "Wealthy citizen",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28822": {
+        "id": 28822,
+        "name": "Coin pouch",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28823": {
+        "id": 28823,
+        "name": "Lesser nagua",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28824": {
+        "id": 28824,
+        "name": "Civitas illa fortis teleport",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28825": {
+        "id": 28825,
+        "name": "Civitas illa fortis teleport",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28826": {
+        "id": 28826,
+        "name": "Dizana's quiver (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28827": {
+        "id": 28827,
+        "name": "Dizana's quiver (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28828": {
+        "id": 28828,
+        "name": "Blessed dizana's quiver (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28829": {
+        "id": 28829,
+        "name": "Blessed dizana's quiver (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28830": {
+        "id": 28830,
+        "name": "Dizana's max cape (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28831": {
+        "id": 28831,
+        "name": "Immature tecu salamander",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28832": {
+        "id": 28832,
+        "name": "Immature tecu salamander",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28833": {
+        "id": 28833,
+        "name": "Immature tecu salamander",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28834": {
+        "id": 28834,
+        "name": "Tecu salamander",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28835": {
+        "id": 28835,
+        "name": "Tecu salamander",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28836": {
+        "id": 28836,
+        "name": "Tecu salamander",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28837": {
+        "id": 28837,
+        "name": "Irit tar",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28838": {
+        "id": 28838,
+        "name": "Irit tar",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28839": {
+        "id": 28839,
+        "name": "Wood camo top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28840": {
+        "id": 28840,
+        "name": "Wood camo top",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28841": {
+        "id": 28841,
+        "name": "Wood camo top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28842": {
+        "id": 28842,
+        "name": "Wood camo legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28843": {
+        "id": 28843,
+        "name": "Wood camo legs",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28844": {
+        "id": 28844,
+        "name": "Wood camo legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28845": {
+        "id": 28845,
+        "name": "Jungle camo top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28846": {
+        "id": 28846,
+        "name": "Jungle camo top",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28847": {
+        "id": 28847,
+        "name": "Jungle camo top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28848": {
+        "id": 28848,
+        "name": "Jungle camo legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28849": {
+        "id": 28849,
+        "name": "Jungle camo legs",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28850": {
+        "id": 28850,
+        "name": "Jungle camo legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28851": {
+        "id": 28851,
+        "name": "Desert camo top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28852": {
+        "id": 28852,
+        "name": "Desert camo top",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28853": {
+        "id": 28853,
+        "name": "Desert camo top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28854": {
+        "id": 28854,
+        "name": "Desert camo legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28855": {
+        "id": 28855,
+        "name": "Desert camo legs",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28856": {
+        "id": 28856,
+        "name": "Desert camo legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28857": {
+        "id": 28857,
+        "name": "Polar camo top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28858": {
+        "id": 28858,
+        "name": "Polar camo top",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28859": {
+        "id": 28859,
+        "name": "Polar camo top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28860": {
+        "id": 28860,
+        "name": "Polar camo legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28861": {
+        "id": 28861,
+        "name": "Polar camo legs",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28862": {
+        "id": 28862,
+        "name": "Polar camo legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28863": {
+        "id": 28863,
+        "name": "Sunlight moth",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28864": {
+        "id": 28864,
+        "name": "Moonlight moth",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28865": {
+        "id": 28865,
+        "name": "Pyre fox",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28866": {
+        "id": 28866,
+        "name": "Embertailed jerboa",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28867": {
+        "id": 28867,
+        "name": "Sunlight antelope",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28868": {
+        "id": 28868,
+        "name": "Moonlight antelope",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28869": {
+        "id": 28869,
+        "name": "Hunters' sunlight crossbow",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28870": {
+        "id": 28870,
+        "name": "Hunters' sunlight crossbow",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28871": {
+        "id": 28871,
+        "name": "Hunters' sunlight crossbow",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28872": {
+        "id": 28872,
+        "name": "Sunlight antler bolts",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28873": {
+        "id": 28873,
+        "name": "Sunlight antler bolts",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28874": {
+        "id": 28874,
+        "name": "Sunlight antler bolts",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28875": {
+        "id": 28875,
+        "name": "Sunlight antler bolts",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28876": {
+        "id": 28876,
+        "name": "Sunlight antler bolts",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28877": {
+        "id": 28877,
+        "name": "Sunlight antler bolts",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28878": {
+        "id": 28878,
+        "name": "Moonlight antler bolts",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28879": {
+        "id": 28879,
+        "name": "Moonlight antler bolts",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28880": {
+        "id": 28880,
+        "name": "Moonlight antler bolts",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28881": {
+        "id": 28881,
+        "name": "Moonlight antler bolts",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28882": {
+        "id": 28882,
+        "name": "Moonlight antler bolts",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28883": {
+        "id": 28883,
+        "name": "Moonlight antler bolts",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28884": {
+        "id": 28884,
+        "name": "Sunlight antler",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28885": {
+        "id": 28885,
+        "name": "Sunlight antler",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28886": {
+        "id": 28886,
+        "name": "Sunlight antler",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28887": {
+        "id": 28887,
+        "name": "Moonlight antler",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28888": {
+        "id": 28888,
+        "name": "Moonlight antler",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28889": {
+        "id": 28889,
+        "name": "Moonlight antler",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28890": {
+        "id": 28890,
+        "name": "Sunlight moth",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28891": {
+        "id": 28891,
+        "name": "Sunlight moth",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28892": {
+        "id": 28892,
+        "name": "Sunlight moth",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28893": {
+        "id": 28893,
+        "name": "Moonlight moth",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28894": {
+        "id": 28894,
+        "name": "Moonlight moth",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28895": {
+        "id": 28895,
+        "name": "Moonlight moth",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28896": {
+        "id": 28896,
+        "name": "Rum",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28897": {
+        "id": 28897,
+        "name": "Rum",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28898": {
+        "id": 28898,
+        "name": "Rum",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28899": {
+        "id": 28899,
+        "name": "Wyrmling bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28900": {
+        "id": 28900,
+        "name": "Wyrmling bones",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28901": {
+        "id": 28901,
+        "name": "Wyrmling bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28902": {
+        "id": 28902,
+        "name": "Dizana's max cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28903": {
+        "id": 28903,
+        "name": "Dizana's max cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28904": {
+        "id": 28904,
+        "name": "Dizana's max hood",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28905": {
+        "id": 28905,
+        "name": "Dizana's max hood",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28906": {
+        "id": 28906,
+        "name": "Dizana's max cape (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28907": {
+        "id": 28907,
+        "name": "Challenge scroll (medium)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28908": {
+        "id": 28908,
+        "name": "Clue scroll (medium)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28909": {
+        "id": 28909,
+        "name": "Clue scroll (medium)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28910": {
+        "id": 28910,
+        "name": "Clue scroll (elite)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28911": {
+        "id": 28911,
+        "name": "Clue scroll (elite)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28912": {
+        "id": 28912,
+        "name": "Clue scroll (elite)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28913": {
+        "id": 28913,
+        "name": "Clue scroll (easy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28914": {
+        "id": 28914,
+        "name": "Clue scroll (easy)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28915": {
+        "id": 28915,
+        "name": "Clue scroll (hard)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28916": {
+        "id": 28916,
+        "name": "Clue scroll (hard)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28917": {
+        "id": 28917,
+        "name": "Puzzle box (hard)",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28918": {
+        "id": 28918,
+        "name": "Clue scroll (hard)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28919": {
+        "id": 28919,
+        "name": "Tonalztics of ralos (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28920": {
+        "id": 28920,
+        "name": "Tonalztics of ralos (uncharged)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28921": {
+        "id": 28921,
+        "name": "Tonalztics of ralos (uncharged)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28922": {
+        "id": 28922,
+        "name": "Tonalztics of ralos",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28923": {
+        "id": 28923,
+        "name": "Tonalztics of ralos",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28924": {
+        "id": 28924,
+        "name": "Sunfire splinters",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28925": {
+        "id": 28925,
+        "name": "Sunfire splinters",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28926": {
+        "id": 28926,
+        "name": "Sunfire splinters",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28927": {
+        "id": 28927,
+        "name": "Sunfire splinters",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28928": {
+        "id": 28928,
+        "name": "Sunfire splinters",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28929": {
+        "id": 28929,
+        "name": "Sunfire rune",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28930": {
+        "id": 28930,
+        "name": "Sunfire rune",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28931": {
+        "id": 28931,
+        "name": "Searing page",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28932": {
+        "id": 28932,
+        "name": "Searing page",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28933": {
+        "id": 28933,
+        "name": "Sunfire fanatic helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28934": {
+        "id": 28934,
+        "name": "Sunfire fanatic helm",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28935": {
+        "id": 28935,
+        "name": "Sunfire fanatic helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28936": {
+        "id": 28936,
+        "name": "Sunfire fanatic cuirass",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28937": {
+        "id": 28937,
+        "name": "Sunfire fanatic cuirass",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28938": {
+        "id": 28938,
+        "name": "Sunfire fanatic cuirass",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28939": {
+        "id": 28939,
+        "name": "Sunfire fanatic chausses",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28940": {
+        "id": 28940,
+        "name": "Sunfire fanatic chausses",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28941": {
+        "id": 28941,
+        "name": "Sunfire fanatic chausses",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28942": {
+        "id": 28942,
+        "name": "Echo crystal",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28943": {
+        "id": 28943,
+        "name": "Echo crystal",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28944": {
+        "id": 28944,
+        "name": "Echo crystal",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28945": {
+        "id": 28945,
+        "name": "Echo boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28946": {
+        "id": 28946,
+        "name": "Echo boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28947": {
+        "id": 28947,
+        "name": "Dizana's quiver (uncharged)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28948": {
+        "id": 28948,
+        "name": "Dizana's quiver (uncharged)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28949": {
+        "id": 28949,
+        "name": "Dizana's quiver (uncharged) (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28950": {
+        "id": 28950,
+        "name": "Dizana's quiver (uncharged) (l)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28951": {
+        "id": 28951,
+        "name": "Dizana's quiver",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28952": {
+        "id": 28952,
+        "name": "Dizana's quiver",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28953": {
+        "id": 28953,
+        "name": "Dizana's quiver (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28954": {
+        "id": 28954,
+        "name": "Dizana's quiver (l)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28955": {
+        "id": 28955,
+        "name": "Blessed dizana's quiver",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28956": {
+        "id": 28956,
+        "name": "Blessed dizana's quiver",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28957": {
+        "id": 28957,
+        "name": "Blessed dizana's quiver (l)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28958": {
+        "id": 28958,
+        "name": "Scrawled poem",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28959": {
+        "id": 28959,
+        "name": "Scrawled poem",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28960": {
+        "id": 28960,
+        "name": "Smol heredit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28961": {
+        "id": 28961,
+        "name": "Smol heredit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28962": {
+        "id": 28962,
+        "name": "Quetzin",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28963": {
+        "id": 28963,
+        "name": "Quetzin",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28964": {
+        "id": 28964,
+        "name": "Enchanted water talisman",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28965": {
+        "id": 28965,
+        "name": "Enchanted earth talisman",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28966": {
+        "id": 28966,
+        "name": "Infused water talisman",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28967": {
+        "id": 28967,
+        "name": "Infused earth talisman",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28968": {
+        "id": 28968,
+        "name": "Building supplies",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28969": {
+        "id": 28969,
+        "name": "Moss lizard tail",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28970": {
+        "id": 28970,
+        "name": "Bream scales",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28972": {
+        "id": 28972,
+        "name": "Varlamore invitation",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28973": {
+        "id": 28973,
+        "name": "Varlamore crest",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28974": {
+        "id": 28974,
+        "name": "Incriminating letter",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28975": {
+        "id": 28975,
+        "name": "Quetzal feed",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28976": {
+        "id": 28976,
+        "name": "Stolen amulet",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28977": {
+        "id": 28977,
+        "name": "Knight of varlamore",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28978": {
+        "id": 28978,
+        "name": "Smooth leaf",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28979": {
+        "id": 28979,
+        "name": "Sticky leaf",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28980": {
+        "id": 28980,
+        "name": "Makeshift poultice",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28981": {
+        "id": 28981,
+        "name": "Fur sample",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28982": {
+        "id": 28982,
+        "name": "Trimmed fur",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28983": {
+        "id": 28983,
+        "name": "Fox's report",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28984": {
+        "id": 28984,
+        "name": "Baby dragon bonemeal",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28985": {
+        "id": 28985,
+        "name": "Baby dragon bonemeal",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28986": {
+        "id": 28986,
+        "name": "Love letter",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28987": {
+        "id": 28987,
+        "name": "Plushy",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28988": {
+        "id": 28988,
+        "name": "Blue moon spear",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28989": {
+        "id": 28989,
+        "name": "Blue moon spear",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28990": {
+        "id": 28990,
+        "name": "Blue moon spear",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28991": {
+        "id": 28991,
+        "name": "Atlatl dart",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28992": {
+        "id": 28992,
+        "name": "Atlatl dart",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "28993": {
+        "id": 28993,
+        "name": "Atlatl dart",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28994": {
+        "id": 28994,
+        "name": "Atlatl dart",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28995": {
+        "id": 28995,
+        "name": "Atlatl dart",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28996": {
+        "id": 28996,
+        "name": "Atlatl dart",
+        "type": "normal",
+        "duplicate": true
+    },
+    "28997": {
+        "id": 28997,
+        "name": "Dual macuahuitl",
+        "type": "normal",
+        "duplicate": false
+    },
+    "28998": {
+        "id": 28998,
+        "name": "Dual macuahuitl",
+        "type": "noted",
+        "duplicate": true
+    },
+    "28999": {
+        "id": 28999,
+        "name": "Dual macuahuitl",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29000": {
+        "id": 29000,
+        "name": "Eclipse atlatl",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29001": {
+        "id": 29001,
+        "name": "Eclipse atlatl",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29002": {
+        "id": 29002,
+        "name": "Eclipse atlatl",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29004": {
+        "id": 29004,
+        "name": "Eclipse moon chestplate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29005": {
+        "id": 29005,
+        "name": "Eclipse moon chestplate",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29006": {
+        "id": 29006,
+        "name": "Eclipse moon chestplate",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29007": {
+        "id": 29007,
+        "name": "Eclipse moon tassets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29008": {
+        "id": 29008,
+        "name": "Eclipse moon tassets",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29009": {
+        "id": 29009,
+        "name": "Eclipse moon tassets",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29010": {
+        "id": 29010,
+        "name": "Eclipse moon helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29011": {
+        "id": 29011,
+        "name": "Eclipse moon helm",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29012": {
+        "id": 29012,
+        "name": "Eclipse moon helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29013": {
+        "id": 29013,
+        "name": "Blue moon chestplate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29014": {
+        "id": 29014,
+        "name": "Blue moon chestplate",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29015": {
+        "id": 29015,
+        "name": "Blue moon chestplate",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29016": {
+        "id": 29016,
+        "name": "Blue moon tassets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29017": {
+        "id": 29017,
+        "name": "Blue moon tassets",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29018": {
+        "id": 29018,
+        "name": "Blue moon tassets",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29019": {
+        "id": 29019,
+        "name": "Blue moon helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29020": {
+        "id": 29020,
+        "name": "Blue moon helm",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29021": {
+        "id": 29021,
+        "name": "Blue moon helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29022": {
+        "id": 29022,
+        "name": "Blood moon chestplate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29023": {
+        "id": 29023,
+        "name": "Blood moon chestplate",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29024": {
+        "id": 29024,
+        "name": "Blood moon chestplate",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29025": {
+        "id": 29025,
+        "name": "Blood moon tassets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29026": {
+        "id": 29026,
+        "name": "Blood moon tassets",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29027": {
+        "id": 29027,
+        "name": "Blood moon tassets",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29028": {
+        "id": 29028,
+        "name": "Blood moon helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29029": {
+        "id": 29029,
+        "name": "Blood moon helm",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29030": {
+        "id": 29030,
+        "name": "Blood moon helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29031": {
+        "id": 29031,
+        "name": "Eclipse moon chestplate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29032": {
+        "id": 29032,
+        "name": "Eclipse moon chestplate",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29033": {
+        "id": 29033,
+        "name": "Eclipse moon tassets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29034": {
+        "id": 29034,
+        "name": "Eclipse moon tassets",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29035": {
+        "id": 29035,
+        "name": "Eclipse moon helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29036": {
+        "id": 29036,
+        "name": "Eclipse moon helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29037": {
+        "id": 29037,
+        "name": "Blue moon chestplate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29038": {
+        "id": 29038,
+        "name": "Blue moon chestplate",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29039": {
+        "id": 29039,
+        "name": "Blue moon tassets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29040": {
+        "id": 29040,
+        "name": "Blue moon tassets",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29041": {
+        "id": 29041,
+        "name": "Blue moon helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29042": {
+        "id": 29042,
+        "name": "Blue moon helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29043": {
+        "id": 29043,
+        "name": "Blood moon chestplate",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29044": {
+        "id": 29044,
+        "name": "Blood moon chestplate",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29045": {
+        "id": 29045,
+        "name": "Blood moon tassets",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29046": {
+        "id": 29046,
+        "name": "Blood moon tassets",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29047": {
+        "id": 29047,
+        "name": "Blood moon helm",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29048": {
+        "id": 29048,
+        "name": "Blood moon helm",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29049": {
+        "id": 29049,
+        "name": "Eclipse moon chestplate (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29050": {
+        "id": 29050,
+        "name": "Eclipse moon chestplate (broken)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29051": {
+        "id": 29051,
+        "name": "Eclipse moon chestplate (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29052": {
+        "id": 29052,
+        "name": "Eclipse moon tassets (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29053": {
+        "id": 29053,
+        "name": "Eclipse moon tassets (broken)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29054": {
+        "id": 29054,
+        "name": "Eclipse moon tassets (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29055": {
+        "id": 29055,
+        "name": "Eclipse moon helm (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29056": {
+        "id": 29056,
+        "name": "Eclipse moon helm (broken)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29057": {
+        "id": 29057,
+        "name": "Eclipse moon helm (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29058": {
+        "id": 29058,
+        "name": "Blue moon chestplate (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29059": {
+        "id": 29059,
+        "name": "Blue moon chestplate (broken)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29060": {
+        "id": 29060,
+        "name": "Blue moon chestplate (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29061": {
+        "id": 29061,
+        "name": "Blue moon tassets (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29062": {
+        "id": 29062,
+        "name": "Blue moon tassets (broken)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29063": {
+        "id": 29063,
+        "name": "Blue moon tassets (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29064": {
+        "id": 29064,
+        "name": "Blue moon helm (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29065": {
+        "id": 29065,
+        "name": "Blue moon helm (broken)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29066": {
+        "id": 29066,
+        "name": "Blue moon helm (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29067": {
+        "id": 29067,
+        "name": "Blood moon chestplate (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29068": {
+        "id": 29068,
+        "name": "Blood moon chestplate (broken)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29069": {
+        "id": 29069,
+        "name": "Blood moon chestplate (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29070": {
+        "id": 29070,
+        "name": "Blood moon tassets (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29071": {
+        "id": 29071,
+        "name": "Blood moon tassets (broken)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29072": {
+        "id": 29072,
+        "name": "Blood moon tassets (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29073": {
+        "id": 29073,
+        "name": "Blood moon helm (broken)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29074": {
+        "id": 29074,
+        "name": "Blood moon helm (broken)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29075": {
+        "id": 29075,
+        "name": "Blood moon helm (broken)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29076": {
+        "id": 29076,
+        "name": "Raw moss lizard",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29077": {
+        "id": 29077,
+        "name": "Cooked moss lizard",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29078": {
+        "id": 29078,
+        "name": "Moonlight grub",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29079": {
+        "id": 29079,
+        "name": "Moonlight grub paste",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29080": {
+        "id": 29080,
+        "name": "Moonlight potion(4)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29081": {
+        "id": 29081,
+        "name": "Moonlight potion(3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29082": {
+        "id": 29082,
+        "name": "Moonlight potion(2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29083": {
+        "id": 29083,
+        "name": "Moonlight potion(1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29084": {
+        "id": 29084,
+        "name": "Sulphur blades",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29085": {
+        "id": 29085,
+        "name": "Sulphur blades",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29086": {
+        "id": 29086,
+        "name": "Sulphur blades",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29087": {
+        "id": 29087,
+        "name": "Sulphurous essence",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29088": {
+        "id": 29088,
+        "name": "Calcified deposit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29089": {
+        "id": 29089,
+        "name": "Calcified deposit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29090": {
+        "id": 29090,
+        "name": "Calcified moth",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29091": {
+        "id": 29091,
+        "name": "Calcified moth",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29093": {
+        "id": 29093,
+        "name": "Calcified moth",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29094": {
+        "id": 29094,
+        "name": "Calcified moth",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29095": {
+        "id": 29095,
+        "name": "Calcified moth",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29096": {
+        "id": 29096,
+        "name": "Calcified moth",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29097": {
+        "id": 29097,
+        "name": "Calcified moth",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29098": {
+        "id": 29098,
+        "name": "Not meat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29099": {
+        "id": 29099,
+        "name": "Not meat",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29100": {
+        "id": 29100,
+        "name": "Not meat",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29101": {
+        "id": 29101,
+        "name": "Raw barb-tailed kebbit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29102": {
+        "id": 29102,
+        "name": "Raw barb-tailed kebbit",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29103": {
+        "id": 29103,
+        "name": "Raw barb-tailed kebbit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29104": {
+        "id": 29104,
+        "name": "Raw wild kebbit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29105": {
+        "id": 29105,
+        "name": "Raw wild kebbit",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29106": {
+        "id": 29106,
+        "name": "Raw wild kebbit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29107": {
+        "id": 29107,
+        "name": "Raw dashing kebbit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29108": {
+        "id": 29108,
+        "name": "Raw dashing kebbit",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29109": {
+        "id": 29109,
+        "name": "Raw dashing kebbit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29110": {
+        "id": 29110,
+        "name": "Raw pyre fox",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29111": {
+        "id": 29111,
+        "name": "Raw pyre fox",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29112": {
+        "id": 29112,
+        "name": "Raw pyre fox",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29113": {
+        "id": 29113,
+        "name": "Raw moonlight antelope",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29114": {
+        "id": 29114,
+        "name": "Raw moonlight antelope",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29115": {
+        "id": 29115,
+        "name": "Raw moonlight antelope",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29116": {
+        "id": 29116,
+        "name": "Raw sunlight antelope",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29117": {
+        "id": 29117,
+        "name": "Raw sunlight antelope",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29118": {
+        "id": 29118,
+        "name": "Raw sunlight antelope",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29119": {
+        "id": 29119,
+        "name": "Raw graahk",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29120": {
+        "id": 29120,
+        "name": "Raw graahk",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29121": {
+        "id": 29121,
+        "name": "Raw graahk",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29122": {
+        "id": 29122,
+        "name": "Raw larupia",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29123": {
+        "id": 29123,
+        "name": "Raw larupia",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29124": {
+        "id": 29124,
+        "name": "Raw larupia",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29125": {
+        "id": 29125,
+        "name": "Raw kyatt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29126": {
+        "id": 29126,
+        "name": "Raw kyatt",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29127": {
+        "id": 29127,
+        "name": "Raw kyatt",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29128": {
+        "id": 29128,
+        "name": "Cooked wild kebbit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29129": {
+        "id": 29129,
+        "name": "Cooked wild kebbit",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29130": {
+        "id": 29130,
+        "name": "Cooked wild kebbit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29131": {
+        "id": 29131,
+        "name": "Cooked barb-tailed kebbit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29132": {
+        "id": 29132,
+        "name": "Cooked barb-tailed kebbit",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29133": {
+        "id": 29133,
+        "name": "Cooked barb-tailed kebbit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29134": {
+        "id": 29134,
+        "name": "Cooked dashing kebbit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29135": {
+        "id": 29135,
+        "name": "Cooked dashing kebbit",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29136": {
+        "id": 29136,
+        "name": "Cooked dashing kebbit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29137": {
+        "id": 29137,
+        "name": "Cooked pyre fox",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29138": {
+        "id": 29138,
+        "name": "Cooked pyre fox",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29139": {
+        "id": 29139,
+        "name": "Cooked pyre fox",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29140": {
+        "id": 29140,
+        "name": "Cooked sunlight antelope",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29141": {
+        "id": 29141,
+        "name": "Cooked sunlight antelope",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29142": {
+        "id": 29142,
+        "name": "Cooked sunlight antelope",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29143": {
+        "id": 29143,
+        "name": "Cooked moonlight antelope",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29144": {
+        "id": 29144,
+        "name": "Cooked moonlight antelope",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29145": {
+        "id": 29145,
+        "name": "Cooked moonlight antelope",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29146": {
+        "id": 29146,
+        "name": "Cooked larupia",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29147": {
+        "id": 29147,
+        "name": "Cooked larupia",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29148": {
+        "id": 29148,
+        "name": "Cooked larupia",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29149": {
+        "id": 29149,
+        "name": "Cooked graahk",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29150": {
+        "id": 29150,
+        "name": "Cooked graahk",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29151": {
+        "id": 29151,
+        "name": "Cooked graahk",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29152": {
+        "id": 29152,
+        "name": "Cooked kyatt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29153": {
+        "id": 29153,
+        "name": "Cooked kyatt",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29154": {
+        "id": 29154,
+        "name": "Cooked kyatt",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29155": {
+        "id": 29155,
+        "name": "Burnt kebbit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29156": {
+        "id": 29156,
+        "name": "Burnt kebbit",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29157": {
+        "id": 29157,
+        "name": "Burnt large beast",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29158": {
+        "id": 29158,
+        "name": "Burnt large beast",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29159": {
+        "id": 29159,
+        "name": "Burnt antelope",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29160": {
+        "id": 29160,
+        "name": "Burnt antelope",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29161": {
+        "id": 29161,
+        "name": "Burnt fox meat",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29162": {
+        "id": 29162,
+        "name": "Burnt fox meat",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29163": {
+        "id": 29163,
+        "name": "Fox fur",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29164": {
+        "id": 29164,
+        "name": "Fox fur",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29165": {
+        "id": 29165,
+        "name": "Fox fur",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29166": {
+        "id": 29166,
+        "name": "Jerboa tail",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29167": {
+        "id": 29167,
+        "name": "Jerboa tail",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29168": {
+        "id": 29168,
+        "name": "Sunlight antelope antler",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29169": {
+        "id": 29169,
+        "name": "Sunlight antelope antler",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29170": {
+        "id": 29170,
+        "name": "Sunlight antelope antler",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29171": {
+        "id": 29171,
+        "name": "Moonlight antelope antler",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29172": {
+        "id": 29172,
+        "name": "Moonlight antelope antler",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29173": {
+        "id": 29173,
+        "name": "Moonlight antelope antler",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29174": {
+        "id": 29174,
+        "name": "Moonlight antelope fur",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29175": {
+        "id": 29175,
+        "name": "Moonlight antelope fur",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29176": {
+        "id": 29176,
+        "name": "Moonlight antelope fur",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29177": {
+        "id": 29177,
+        "name": "Sunlight antelope fur",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29178": {
+        "id": 29178,
+        "name": "Sunlight antelope fur",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29179": {
+        "id": 29179,
+        "name": "Sunlight antelope fur",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29180": {
+        "id": 29180,
+        "name": "Sapphire glacialis mix (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29181": {
+        "id": 29181,
+        "name": "Sapphire glacialis mix (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29182": {
+        "id": 29182,
+        "name": "Sapphire glacialis mix (2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29183": {
+        "id": 29183,
+        "name": "Snowy knight mix (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29184": {
+        "id": 29184,
+        "name": "Snowy knight mix (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29185": {
+        "id": 29185,
+        "name": "Snowy knight mix (2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29186": {
+        "id": 29186,
+        "name": "Ruby harvest mix (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29187": {
+        "id": 29187,
+        "name": "Ruby harvest mix (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29188": {
+        "id": 29188,
+        "name": "Ruby harvest mix (2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29189": {
+        "id": 29189,
+        "name": "Black warlock mix (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29190": {
+        "id": 29190,
+        "name": "Black warlock mix (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29191": {
+        "id": 29191,
+        "name": "Black warlock mix (2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29192": {
+        "id": 29192,
+        "name": "Sunlight moth mix (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29193": {
+        "id": 29193,
+        "name": "Sunlight moth mix (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29194": {
+        "id": 29194,
+        "name": "Sunlight moth mix (2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29195": {
+        "id": 29195,
+        "name": "Moonlight moth mix (2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29196": {
+        "id": 29196,
+        "name": "Moonlight moth mix (2)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29197": {
+        "id": 29197,
+        "name": "Moonlight moth mix (2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29198": {
+        "id": 29198,
+        "name": "Sapphire glacialis mix (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29199": {
+        "id": 29199,
+        "name": "Sapphire glacialis mix (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29200": {
+        "id": 29200,
+        "name": "Sapphire glacialis mix (1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29201": {
+        "id": 29201,
+        "name": "Snowy knight mix (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29202": {
+        "id": 29202,
+        "name": "Snowy knight mix (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29203": {
+        "id": 29203,
+        "name": "Snowy knight mix (1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29204": {
+        "id": 29204,
+        "name": "Ruby harvest mix (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29205": {
+        "id": 29205,
+        "name": "Ruby harvest mix (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29206": {
+        "id": 29206,
+        "name": "Ruby harvest mix (1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29207": {
+        "id": 29207,
+        "name": "Black warlock mix (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29208": {
+        "id": 29208,
+        "name": "Black warlock mix (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29209": {
+        "id": 29209,
+        "name": "Black warlock mix (1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29210": {
+        "id": 29210,
+        "name": "Sunlight moth mix (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29211": {
+        "id": 29211,
+        "name": "Sunlight moth mix (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29212": {
+        "id": 29212,
+        "name": "Sunlight moth mix (1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29213": {
+        "id": 29213,
+        "name": "Moonlight moth mix (1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29214": {
+        "id": 29214,
+        "name": "Moonlight moth mix (1)",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29215": {
+        "id": 29215,
+        "name": "Moonlight moth mix (1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29216": {
+        "id": 29216,
+        "name": "Raw bream",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29217": {
+        "id": 29217,
+        "name": "Cooked bream",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29218": {
+        "id": 29218,
+        "name": "Jaguar fur",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29219": {
+        "id": 29219,
+        "name": "Jaguar fur",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29220": {
+        "id": 29220,
+        "name": "Jaguar fur",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29221": {
+        "id": 29221,
+        "name": "Chinchompa tuft",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29222": {
+        "id": 29222,
+        "name": "Tailfeathers",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29223": {
+        "id": 29223,
+        "name": "Kebbity tuft",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29224": {
+        "id": 29224,
+        "name": "Blue butterfly wing",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29225": {
+        "id": 29225,
+        "name": "Swamp lizard claw",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29226": {
+        "id": 29226,
+        "name": "Larupia ear",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29227": {
+        "id": 29227,
+        "name": "White butterfly wing",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29228": {
+        "id": 29228,
+        "name": "Large jerboa tail",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29229": {
+        "id": 29229,
+        "name": "Graahk horn spur",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29230": {
+        "id": 29230,
+        "name": "Black butterfly wing",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29231": {
+        "id": 29231,
+        "name": "Orange salamander claw",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29232": {
+        "id": 29232,
+        "name": "Kyatt tooth chip",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29233": {
+        "id": 29233,
+        "name": "Fox fluff",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29234": {
+        "id": 29234,
+        "name": "Red salamander claw",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29235": {
+        "id": 29235,
+        "name": "Red chinchompa tuft",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29236": {
+        "id": 29236,
+        "name": "Antelope hoof shard",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29237": {
+        "id": 29237,
+        "name": "Sunlight moth wing",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29238": {
+        "id": 29238,
+        "name": "Salamander claw",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29239": {
+        "id": 29239,
+        "name": "Herby tuft",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29240": {
+        "id": 29240,
+        "name": "Moonlight moth wing",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29241": {
+        "id": 29241,
+        "name": "Antelope hoof shard",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29242": {
+        "id": 29242,
+        "name": "Hunters' loot sack (basic)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29243": {
+        "id": 29243,
+        "name": "Hunters' loot sack (basic)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29244": {
+        "id": 29244,
+        "name": "Hunters' loot sack (tier 1)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29245": {
+        "id": 29245,
+        "name": "Hunters' loot sack (tier 1)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29246": {
+        "id": 29246,
+        "name": "Hunters' loot sack (tier 2)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29247": {
+        "id": 29247,
+        "name": "Hunters' loot sack (tier 2)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29248": {
+        "id": 29248,
+        "name": "Hunters' loot sack (tier 3)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29249": {
+        "id": 29249,
+        "name": "Hunters' loot sack (tier 3)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29250": {
+        "id": 29250,
+        "name": "Hunters' loot sack",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29251": {
+        "id": 29251,
+        "name": "Basic quetzal whistle blueprint",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29252": {
+        "id": 29252,
+        "name": "Basic quetzal whistle blueprint",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29253": {
+        "id": 29253,
+        "name": "Enhanced quetzal whistle blueprint",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29254": {
+        "id": 29254,
+        "name": "Enhanced quetzal whistle blueprint",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29255": {
+        "id": 29255,
+        "name": "Enhanced quetzal whistle blueprint",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29256": {
+        "id": 29256,
+        "name": "Perfected quetzal whistle blueprint",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29257": {
+        "id": 29257,
+        "name": "Perfected quetzal whistle blueprint",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29258": {
+        "id": 29258,
+        "name": "Perfected quetzal whistle blueprint",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29259": {
+        "id": 29259,
+        "name": "Torn enhanced quetzal whistle blueprint",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29260": {
+        "id": 29260,
+        "name": "Torn enhanced quetzal whistle blueprint",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29261": {
+        "id": 29261,
+        "name": "Torn perfected quetzal whistle blueprint",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29262": {
+        "id": 29262,
+        "name": "Torn perfected quetzal whistle blueprint",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29263": {
+        "id": 29263,
+        "name": "Guild hunter headwear",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29264": {
+        "id": 29264,
+        "name": "Guild hunter headwear",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29265": {
+        "id": 29265,
+        "name": "Guild hunter top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29266": {
+        "id": 29266,
+        "name": "Guild hunter top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29267": {
+        "id": 29267,
+        "name": "Guild hunter legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29268": {
+        "id": 29268,
+        "name": "Guild hunter legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29269": {
+        "id": 29269,
+        "name": "Guild hunter boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29270": {
+        "id": 29270,
+        "name": "Guild hunter boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29271": {
+        "id": 29271,
+        "name": "Basic quetzal whistle",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29272": {
+        "id": 29272,
+        "name": "Basic quetzal whistle",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29273": {
+        "id": 29273,
+        "name": "Enhanced quetzal whistle",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29274": {
+        "id": 29274,
+        "name": "Enhanced quetzal whistle",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29275": {
+        "id": 29275,
+        "name": "Perfected quetzal whistle",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29276": {
+        "id": 29276,
+        "name": "Perfected quetzal whistle",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29277": {
+        "id": 29277,
+        "name": "Trapper's tipple",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29278": {
+        "id": 29278,
+        "name": "Trapper's tipple",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29279": {
+        "id": 29279,
+        "name": "Trapper's tipple",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29280": {
+        "id": 29280,
+        "name": "Mixed hide top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29281": {
+        "id": 29281,
+        "name": "Mixed hide top",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29282": {
+        "id": 29282,
+        "name": "Mixed hide top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29283": {
+        "id": 29283,
+        "name": "Mixed hide legs",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29284": {
+        "id": 29284,
+        "name": "Mixed hide legs",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29285": {
+        "id": 29285,
+        "name": "Mixed hide legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29286": {
+        "id": 29286,
+        "name": "Mixed hide boots",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29287": {
+        "id": 29287,
+        "name": "Mixed hide boots",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29288": {
+        "id": 29288,
+        "name": "Mixed hide boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29289": {
+        "id": 29289,
+        "name": "Mixed hide cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29290": {
+        "id": 29290,
+        "name": "Mixed hide cape",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29291": {
+        "id": 29291,
+        "name": "Mixed hide cape",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29292": {
+        "id": 29292,
+        "name": "Mixed hide base",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29293": {
+        "id": 29293,
+        "name": "Mixed hide base",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29294": {
+        "id": 29294,
+        "name": "Mixed hide base",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29295": {
+        "id": 29295,
+        "name": "Small meat pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29296": {
+        "id": 29296,
+        "name": "Small meat pouch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29297": {
+        "id": 29297,
+        "name": "Large meat pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29298": {
+        "id": 29298,
+        "name": "Large meat pouch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29299": {
+        "id": 29299,
+        "name": "Small fur pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29300": {
+        "id": 29300,
+        "name": "Small fur pouch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29301": {
+        "id": 29301,
+        "name": "Medium fur pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29302": {
+        "id": 29302,
+        "name": "Medium fur pouch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29303": {
+        "id": 29303,
+        "name": "Large fur pouch",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29304": {
+        "id": 29304,
+        "name": "Large fur pouch",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29305": {
+        "id": 29305,
+        "name": "Hunter's spear",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29306": {
+        "id": 29306,
+        "name": "Hunter's spear",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29307": {
+        "id": 29307,
+        "name": "Quetzal feed",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29308": {
+        "id": 29308,
+        "name": "Quetzal feed",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29309": {
+        "id": 29309,
+        "name": "Huntsman's kit",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29310": {
+        "id": 29310,
+        "name": "Huntsman's kit",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29311": {
+        "id": 29311,
+        "name": "Hunter spear tips",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29312": {
+        "id": 29312,
+        "name": "Hunter spear tips",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29313": {
+        "id": 29313,
+        "name": "Hunter spear tips",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29314": {
+        "id": 29314,
+        "name": "Hunter spear tips",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29315": {
+        "id": 29315,
+        "name": "Hunter spear tips",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29316": {
+        "id": 29316,
+        "name": "Hunter spear tips",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29317": {
+        "id": 29317,
+        "name": "Tattered request note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29318": {
+        "id": 29318,
+        "name": "Tattered request note",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29319": {
+        "id": 29319,
+        "name": "Guild history excerpt",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29320": {
+        "id": 29320,
+        "name": "Guild history excerpt",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29321": {
+        "id": 29321,
+        "name": "Apatura's note",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29322": {
+        "id": 29322,
+        "name": "Apatura's note",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29323": {
+        "id": 29323,
+        "name": "Apatura's key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29324": {
+        "id": 29324,
+        "name": "Apatura's key",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29325": {
+        "id": 29325,
+        "name": "House keys",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29326": {
+        "id": 29326,
+        "name": "House keys",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29328": {
+        "id": 29328,
+        "name": "House keys",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29329": {
+        "id": 29329,
+        "name": "House keys",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29330": {
+        "id": 29330,
+        "name": "House keys",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29331": {
+        "id": 29331,
+        "name": "House keys",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29332": {
+        "id": 29332,
+        "name": "Valuables",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29333": {
+        "id": 29333,
+        "name": "Valuables",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29334": {
+        "id": 29334,
+        "name": "Valuables",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29335": {
+        "id": 29335,
+        "name": "Valuables",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29336": {
+        "id": 29336,
+        "name": "Valuables",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29337": {
+        "id": 29337,
+        "name": "Valuables",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29338": {
+        "id": 29338,
+        "name": "Blessed bone statuette",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29339": {
+        "id": 29339,
+        "name": "Blessed bone statuette",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29340": {
+        "id": 29340,
+        "name": "Blessed bone statuette",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29341": {
+        "id": 29341,
+        "name": "Blessed bone statuette",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29342": {
+        "id": 29342,
+        "name": "Blessed bone statuette",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29343": {
+        "id": 29343,
+        "name": "Blessed bone statuette",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29344": {
+        "id": 29344,
+        "name": "Blessed bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29345": {
+        "id": 29345,
+        "name": "Blessed bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29346": {
+        "id": 29346,
+        "name": "Blessd bat bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29347": {
+        "id": 29347,
+        "name": "Blessd bat bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29348": {
+        "id": 29348,
+        "name": "Blessed big bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29349": {
+        "id": 29349,
+        "name": "Blessed big bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29350": {
+        "id": 29350,
+        "name": "Blessed zogre bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29351": {
+        "id": 29351,
+        "name": "Blessed zogre bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29352": {
+        "id": 29352,
+        "name": "Blessed babydragon bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29353": {
+        "id": 29353,
+        "name": "Blessed babydragon bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29354": {
+        "id": 29354,
+        "name": "Blessed babywyrm bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29355": {
+        "id": 29355,
+        "name": "Blessed babywyrm bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29356": {
+        "id": 29356,
+        "name": "Blessed dragon bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29357": {
+        "id": 29357,
+        "name": "Blessed dragon bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29358": {
+        "id": 29358,
+        "name": "Blessed lava dragon bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29359": {
+        "id": 29359,
+        "name": "Blessed lava dragon bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29360": {
+        "id": 29360,
+        "name": "Blessed wyvern bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29361": {
+        "id": 29361,
+        "name": "Blessed wyvern bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29362": {
+        "id": 29362,
+        "name": "Blessed superior dragon bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29363": {
+        "id": 29363,
+        "name": "Blessed superior dragon bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29364": {
+        "id": 29364,
+        "name": "Blessed wyrm bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29365": {
+        "id": 29365,
+        "name": "Blessed wyrm bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29366": {
+        "id": 29366,
+        "name": "Blessed drake bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29367": {
+        "id": 29367,
+        "name": "Blessed drake bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29368": {
+        "id": 29368,
+        "name": "Blessed hydra bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29369": {
+        "id": 29369,
+        "name": "Blessed hydra bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29370": {
+        "id": 29370,
+        "name": "Blessed fayrg bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29371": {
+        "id": 29371,
+        "name": "Blessed fayrg bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29372": {
+        "id": 29372,
+        "name": "Blessed raurg bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29373": {
+        "id": 29373,
+        "name": "Blessed raurg bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29374": {
+        "id": 29374,
+        "name": "Blessed ourg bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29375": {
+        "id": 29375,
+        "name": "Blessed ourg bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29376": {
+        "id": 29376,
+        "name": "Dagannoth bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29377": {
+        "id": 29377,
+        "name": "Dagannoth bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29378": {
+        "id": 29378,
+        "name": "Sun-kissed bones",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29379": {
+        "id": 29379,
+        "name": "Sun-kissed bones",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29380": {
+        "id": 29380,
+        "name": "Sun-kissed bones",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29381": {
+        "id": 29381,
+        "name": "Blessed bone shards",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29382": {
+        "id": 29382,
+        "name": "Jug of sunfire wine",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29383": {
+        "id": 29383,
+        "name": "Jug of sunfire wine",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29384": {
+        "id": 29384,
+        "name": "Jug of blessed sunfire wine",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29385": {
+        "id": 29385,
+        "name": "Jug of blessed sunfire wine",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29386": {
+        "id": 29386,
+        "name": "Jug of blessed wine",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29387": {
+        "id": 29387,
+        "name": "Jug of blessed wine",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29388": {
+        "id": 29388,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29389": {
+        "id": 29389,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29390": {
+        "id": 29390,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29391": {
+        "id": 29391,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29392": {
+        "id": 29392,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29393": {
+        "id": 29393,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29394": {
+        "id": 29394,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29395": {
+        "id": 29395,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29396": {
+        "id": 29396,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29397": {
+        "id": 29397,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29398": {
+        "id": 29398,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29399": {
+        "id": 29399,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29400": {
+        "id": 29400,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29401": {
+        "id": 29401,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29402": {
+        "id": 29402,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29403": {
+        "id": 29403,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29404": {
+        "id": 29404,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29405": {
+        "id": 29405,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29406": {
+        "id": 29406,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29407": {
+        "id": 29407,
+        "name": "Token",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29408": {
+        "id": 29408,
+        "name": "A nice key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29409": {
+        "id": 29409,
+        "name": "Sunbeam ale",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29410": {
+        "id": 29410,
+        "name": "Sunbeam ale",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29411": {
+        "id": 29411,
+        "name": "Sunbeam ale",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29412": {
+        "id": 29412,
+        "name": "Steamforge brew",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29413": {
+        "id": 29413,
+        "name": "Steamforge brew",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29414": {
+        "id": 29414,
+        "name": "Steamforge brew",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29415": {
+        "id": 29415,
+        "name": "Eclipse wine",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29416": {
+        "id": 29416,
+        "name": "Eclipse wine",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29417": {
+        "id": 29417,
+        "name": "Eclipse wine",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29418": {
+        "id": 29418,
+        "name": "Moon-lite",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29419": {
+        "id": 29419,
+        "name": "Moon-lite",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29420": {
+        "id": 29420,
+        "name": "Moon-lite",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29421": {
+        "id": 29421,
+        "name": "Sun-shine",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29422": {
+        "id": 29422,
+        "name": "Sun-shine",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29423": {
+        "id": 29423,
+        "name": "Sun-shine",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29424": {
+        "id": 29424,
+        "name": "Sunfire fanatic armour set",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29425": {
+        "id": 29425,
+        "name": "Sunfire fanatic armour set",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29426": {
+        "id": 29426,
+        "name": "Sunfire fanatic armour set",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29427": {
+        "id": 29427,
+        "name": "Herbalist's notes",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29428": {
+        "id": 29428,
+        "name": "Chef's notes",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29429": {
+        "id": 29429,
+        "name": "Blessed bone shards",
+        "type": "placeholder",
+        "duplicate": true
     }
 }
