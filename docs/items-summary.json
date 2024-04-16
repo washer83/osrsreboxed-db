@@ -55721,7 +55721,7 @@
     },
     "28907": {
         "id": 28907,
-        "name": "Challenge scroll (medium)"
+        "name": "Clue scroll (medium)"
     },
     "28908": {
         "id": 28908,
@@ -56369,15 +56369,15 @@
     },
     "29244": {
         "id": 29244,
-        "name": "Hunters' loot sack (tier 1)"
+        "name": "Hunters' loot sack (adept)"
     },
     "29246": {
         "id": 29246,
-        "name": "Hunters' loot sack (tier 2)"
+        "name": "Hunters' loot sack (expert)"
     },
     "29248": {
         "id": 29248,
-        "name": "Hunters' loot sack (tier 3)"
+        "name": "Hunters' loot sack (master)"
     },
     "29250": {
         "id": 29250,
@@ -56533,7 +56533,7 @@
     },
     "29346": {
         "id": 29346,
-        "name": "Blessd bat bones"
+        "name": "Blessed bat bones"
     },
     "29348": {
         "id": 29348,
@@ -56730,5 +56730,61 @@
     "29428": {
         "id": 29428,
         "name": "Chef's notes"
+    },
+    "29431": {
+        "id": 29431,
+        "name": "Yolklore of ayaster"
+    },
+    "29433": {
+        "id": 29433,
+        "name": "Book of egg"
+    },
+    "29435": {
+        "id": 29435,
+        "name": "Book of egg"
+    },
+    "29437": {
+        "id": 29437,
+        "name": "Egg priest robe"
+    },
+    "29439": {
+        "id": 29439,
+        "name": "Egg priest robe top"
+    },
+    "29441": {
+        "id": 29441,
+        "name": "Egg priest necklace"
+    },
+    "29443": {
+        "id": 29443,
+        "name": "Egg priest mitre"
+    },
+    "29445": {
+        "id": 29445,
+        "name": "Easter egg (mined)"
+    },
+    "29446": {
+        "id": 29446,
+        "name": "Eggnappin' sack"
+    },
+    "29448": {
+        "id": 29448,
+        "name": "Imbued mage arena cape"
+    },
+    "29449": {
+        "id": 29449,
+        "name": "Zombie pirate key"
+    },
+    "29455": {
+        "id": 29455,
+        "name": "Teleport anchoring scroll"
+    },
+    "29458": {
+        "id": 29458,
+        "name": "Adamant seeds"
+    },
+    "29460": {
+        "id": 29460,
+        "name": "Wilderness agility ticket"
     }
 }

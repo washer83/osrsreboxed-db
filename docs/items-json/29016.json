@@ -1,7 +1,7 @@
 {
     "id": 29016,
     "name": "Blue moon tassets",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-04-16",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -38,7 +38,7 @@
         "defence_stab": 0,
         "defence_slash": 0,
         "defence_crush": 23,
-        "defence_magic": 22,
+        "defence_magic": 32,
         "defence_ranged": 0,
         "melee_strength": 1,
         "ranged_strength": 0,

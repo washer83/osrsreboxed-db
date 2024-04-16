@@ -1,7 +1,7 @@
 {
     "id": 28869,
     "name": "Hunters' sunlight crossbow",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-04-16",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 520,
     "highalch": 780,
     "weight": 6.0,
-    "buy_limit": null,
+    "buy_limit": 70,
     "quest_item": false,
     "release_date": "2024-03-20",
     "duplicate": false,

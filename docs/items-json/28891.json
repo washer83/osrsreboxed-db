@@ -1,7 +1,7 @@
 {
     "id": 28891,
     "name": "Sunlight moth",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-04-16",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -20,7 +20,7 @@
     "cost": 1,
     "lowalch": 0,
     "highalch": 0,
-    "weight": 0.0,
+    "weight": 0.02,
     "buy_limit": null,
     "quest_item": false,
     "release_date": "2024-03-20",

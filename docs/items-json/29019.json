@@ -1,7 +1,7 @@
 {
     "id": 29019,
     "name": "Blue moon helm",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-04-16",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -40,7 +40,7 @@
         "defence_crush": 10,
         "defence_magic": 6,
         "defence_ranged": 0,
-        "melee_strength": 2,
+        "melee_strength": 3,
         "ranged_strength": 0,
         "magic_damage": 0,
         "prayer": 0,

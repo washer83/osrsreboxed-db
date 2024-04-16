@@ -1,7 +1,7 @@
 {
     "id": 28991,
     "name": "Atlatl dart",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-04-16",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -21,7 +21,7 @@
     "lowalch": 196,
     "highalch": 294,
     "weight": 0.0,
-    "buy_limit": 100,
+    "buy_limit": 11000,
     "quest_item": false,
     "release_date": "2024-03-20",
     "duplicate": false,

@@ -1,7 +1,7 @@
 {
     "id": 29265,
     "name": "Guild hunter top",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-04-16",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -18,8 +18,8 @@
     "equipable_by_player": true,
     "equipable_weapon": false,
     "cost": 800,
-    "lowalch": 320,
-    "highalch": 480,
+    "lowalch": null,
+    "highalch": null,
     "weight": 1.36,
     "buy_limit": null,
     "quest_item": false,
@@ -44,7 +44,7 @@
         "ranged_strength": 0,
         "magic_damage": 0,
         "prayer": 0,
-        "slot": "head",
+        "slot": "body",
         "requirements": null
     },
     "weapon": null

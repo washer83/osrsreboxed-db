@@ -20781,7 +20781,7 @@
         "id": 3577,
         "name": "Clue scroll (hard)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "3578": {
         "id": 3578,
@@ -137625,7 +137625,7 @@
         "id": 24257,
         "name": "Unsealed letter",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "24258": {
         "id": 24258,
@@ -163755,7 +163755,7 @@
         "id": 28822,
         "name": "Coin pouch",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "28823": {
         "id": 28823,
@@ -164263,9 +164263,9 @@
     },
     "28907": {
         "id": 28907,
-        "name": "Challenge scroll (medium)",
+        "name": "Clue scroll (medium)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "28908": {
         "id": 28908,
@@ -166267,37 +166267,37 @@
     },
     "29244": {
         "id": 29244,
-        "name": "Hunters' loot sack (tier 1)",
+        "name": "Hunters' loot sack (adept)",
         "type": "normal",
         "duplicate": false
     },
     "29245": {
         "id": 29245,
-        "name": "Hunters' loot sack (tier 1)",
+        "name": "Hunters' loot sack (adept)",
         "type": "placeholder",
         "duplicate": true
     },
     "29246": {
         "id": 29246,
-        "name": "Hunters' loot sack (tier 2)",
+        "name": "Hunters' loot sack (expert)",
         "type": "normal",
         "duplicate": false
     },
     "29247": {
         "id": 29247,
-        "name": "Hunters' loot sack (tier 2)",
+        "name": "Hunters' loot sack (expert)",
         "type": "placeholder",
         "duplicate": true
     },
     "29248": {
         "id": 29248,
-        "name": "Hunters' loot sack (tier 3)",
+        "name": "Hunters' loot sack (master)",
         "type": "normal",
         "duplicate": false
     },
     "29249": {
         "id": 29249,
-        "name": "Hunters' loot sack (tier 3)",
+        "name": "Hunters' loot sack (master)",
         "type": "placeholder",
         "duplicate": true
     },
@@ -166873,13 +166873,13 @@
     },
     "29346": {
         "id": 29346,
-        "name": "Blessd bat bones",
+        "name": "Blessed bat bones",
         "type": "normal",
         "duplicate": false
     },
     "29347": {
         "id": 29347,
-        "name": "Blessd bat bones",
+        "name": "Blessed bat bones",
         "type": "placeholder",
         "duplicate": true
     },
@@ -167372,6 +167372,192 @@
     "29429": {
         "id": 29429,
         "name": "Blessed bone shards",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29431": {
+        "id": 29431,
+        "name": "Yolklore of ayaster",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29432": {
+        "id": 29432,
+        "name": "Yolklore of ayaster",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29433": {
+        "id": 29433,
+        "name": "Book of egg",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29434": {
+        "id": 29434,
+        "name": "Book of egg",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29435": {
+        "id": 29435,
+        "name": "Book of egg",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29436": {
+        "id": 29436,
+        "name": "Book of egg",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29437": {
+        "id": 29437,
+        "name": "Egg priest robe",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29438": {
+        "id": 29438,
+        "name": "Egg priest robe",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29439": {
+        "id": 29439,
+        "name": "Egg priest robe top",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29440": {
+        "id": 29440,
+        "name": "Egg priest robe top",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29441": {
+        "id": 29441,
+        "name": "Egg priest necklace",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29442": {
+        "id": 29442,
+        "name": "Egg priest necklace",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29443": {
+        "id": 29443,
+        "name": "Egg priest mitre",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29444": {
+        "id": 29444,
+        "name": "Egg priest mitre",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29445": {
+        "id": 29445,
+        "name": "Easter egg (mined)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29446": {
+        "id": 29446,
+        "name": "Eggnappin' sack",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29447": {
+        "id": 29447,
+        "name": "Eggnappin' sack",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29448": {
+        "id": 29448,
+        "name": "Imbued mage arena cape",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29449": {
+        "id": 29449,
+        "name": "Zombie pirate key",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29450": {
+        "id": 29450,
+        "name": "Zombie pirate key",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29451": {
+        "id": 29451,
+        "name": "Zombie pirate key",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29452": {
+        "id": 29452,
+        "name": "Zombie pirate key",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29453": {
+        "id": 29453,
+        "name": "Zombie pirate key",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29454": {
+        "id": 29454,
+        "name": "Zombie pirate key",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29455": {
+        "id": 29455,
+        "name": "Teleport anchoring scroll",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29456": {
+        "id": 29456,
+        "name": "Teleport anchoring scroll",
+        "type": "noted",
+        "duplicate": true
+    },
+    "29457": {
+        "id": 29457,
+        "name": "Teleport anchoring scroll",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29458": {
+        "id": 29458,
+        "name": "Adamant seeds",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29459": {
+        "id": 29459,
+        "name": "Adamant seeds",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29460": {
+        "id": 29460,
+        "name": "Wilderness agility ticket",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29461": {
+        "id": 29461,
+        "name": "Wilderness agility ticket",
         "type": "placeholder",
         "duplicate": true
     }

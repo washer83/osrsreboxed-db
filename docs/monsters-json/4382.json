@@ -1,7 +1,7 @@
 {
     "id": 4382,
     "name": "Ogre shaman",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-04-16",
     "incomplete": true,
     "members": true,
     "release_date": "2006-05-02",
@@ -23,7 +23,7 @@
     "slayer_xp": null,
     "slayer_masters": [],
     "duplicate": false,
-    "examine": "Seems intelligent... for an ogre",
+    "examine": "Seems intelligent... for an ogre.",
     "wiki_name": "Ogre shaman (Swan Song)",
     "wiki_url": "https://oldschool.runescape.wiki/w/Ogre_shaman_(Swan_Song)",
     "attack_level": 1,

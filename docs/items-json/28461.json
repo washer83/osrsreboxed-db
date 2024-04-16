@@ -1,7 +1,7 @@
 {
     "id": 28461,
     "name": "Abyssal observations",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-04-16",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -20,7 +20,7 @@
     "cost": 30,
     "lowalch": null,
     "highalch": null,
-    "weight": 0.001,
+    "weight": 0.226,
     "buy_limit": null,
     "quest_item": true,
     "release_date": "2023-07-26",

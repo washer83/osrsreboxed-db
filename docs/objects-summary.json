@@ -89011,10 +89011,6 @@
         "id": 44293,
         "name": "Table"
     },
-    "44294": {
-        "id": 44294,
-        "name": "Broken table"
-    },
     "44295": {
         "id": 44295,
         "name": "Table"
@@ -101422,5 +101418,333 @@
     "53024": {
         "id": 53024,
         "name": "Collapsed trap"
+    },
+    "53045": {
+        "id": 53045,
+        "name": "Crypt staircase"
+    },
+    "53046": {
+        "id": 53046,
+        "name": "Crypt staircase"
+    },
+    "53049": {
+        "id": 53049,
+        "name": "Unlit brazier"
+    },
+    "53050": {
+        "id": 53050,
+        "name": "Brazier"
+    },
+    "53054": {
+        "id": 53054,
+        "name": "Trail of chocolate"
+    },
+    "53055": {
+        "id": 53055,
+        "name": "Trail of chocolate"
+    },
+    "53056": {
+        "id": 53056,
+        "name": "Pile of chocolate"
+    },
+    "53062": {
+        "id": 53062,
+        "name": "Easter egg rock"
+    },
+    "53063": {
+        "id": 53063,
+        "name": "Easter egg rock"
+    },
+    "53064": {
+        "id": 53064,
+        "name": "Easter egg rock"
+    },
+    "53065": {
+        "id": 53065,
+        "name": "Easter egg rock"
+    },
+    "53066": {
+        "id": 53066,
+        "name": "Easter egg rock"
+    },
+    "53067": {
+        "id": 53067,
+        "name": "Easter egg rock"
+    },
+    "53068": {
+        "id": 53068,
+        "name": "Easter mine cart"
+    },
+    "53069": {
+        "id": 53069,
+        "name": "Easter mine cart"
+    },
+    "53072": {
+        "id": 53072,
+        "name": "Perch"
+    },
+    "53073": {
+        "id": 53073,
+        "name": "Pile of eggs"
+    },
+    "53074": {
+        "id": 53074,
+        "name": "Pile of eggs"
+    },
+    "53075": {
+        "id": 53075,
+        "name": "Pile of eggs"
+    },
+    "53076": {
+        "id": 53076,
+        "name": "Pile of eggs"
+    },
+    "53077": {
+        "id": 53077,
+        "name": "Crate"
+    },
+    "53078": {
+        "id": 53078,
+        "name": "Crate"
+    },
+    "53079": {
+        "id": 53079,
+        "name": "Crate"
+    },
+    "53080": {
+        "id": 53080,
+        "name": "Crate"
+    },
+    "53081": {
+        "id": 53081,
+        "name": "Crate"
+    },
+    "53082": {
+        "id": 53082,
+        "name": "Crate"
+    },
+    "53083": {
+        "id": 53083,
+        "name": "Giant egg"
+    },
+    "53084": {
+        "id": 53084,
+        "name": "Giant egg"
+    },
+    "53085": {
+        "id": 53085,
+        "name": "Stolen Eggs"
+    },
+    "53086": {
+        "id": 53086,
+        "name": "Stolen Eggs"
+    },
+    "53087": {
+        "id": 53087,
+        "name": "Stolen Eggs"
+    },
+    "53088": {
+        "id": 53088,
+        "name": "Pile of fake eggs"
+    },
+    "53089": {
+        "id": 53089,
+        "name": "Pile of fake eggs"
+    },
+    "53090": {
+        "id": 53090,
+        "name": "Pile of fake eggs"
+    },
+    "53091": {
+        "id": 53091,
+        "name": "Pile of fake eggs"
+    },
+    "53092": {
+        "id": 53092,
+        "name": "Giant display egg"
+    },
+    "53093": {
+        "id": 53093,
+        "name": "Giant display egg"
+    },
+    "53094": {
+        "id": 53094,
+        "name": "Display Eggs"
+    },
+    "53095": {
+        "id": 53095,
+        "name": "Display Eggs"
+    },
+    "53096": {
+        "id": 53096,
+        "name": "Display Eggs"
+    },
+    "53100": {
+        "id": 53100,
+        "name": "Door"
+    },
+    "53101": {
+        "id": 53101,
+        "name": "Door"
+    },
+    "53102": {
+        "id": 53102,
+        "name": "Door"
+    },
+    "53103": {
+        "id": 53103,
+        "name": "Door"
+    },
+    "53124": {
+        "id": 53124,
+        "name": "Altar"
+    },
+    "53125": {
+        "id": 53125,
+        "name": "Pillar"
+    },
+    "53126": {
+        "id": 53126,
+        "name": "Pillar"
+    },
+    "53132": {
+        "id": 53132,
+        "name": "Candles"
+    },
+    "53133": {
+        "id": 53133,
+        "name": "Candles"
+    },
+    "53136": {
+        "id": 53136,
+        "name": "Easter tree"
+    },
+    "53137": {
+        "id": 53137,
+        "name": "Bush"
+    },
+    "53138": {
+        "id": 53138,
+        "name": "Fallen Tree"
+    },
+    "53139": {
+        "id": 53139,
+        "name": "Fallen Tree"
+    },
+    "53140": {
+        "id": 53140,
+        "name": "Huge Mushroom"
+    },
+    "53141": {
+        "id": 53141,
+        "name": "Huge Mushroom"
+    },
+    "53142": {
+        "id": 53142,
+        "name": "Huge Mushroom"
+    },
+    "53143": {
+        "id": 53143,
+        "name": "Fungus"
+    },
+    "53144": {
+        "id": 53144,
+        "name": "Fungi"
+    },
+    "53146": {
+        "id": 53146,
+        "name": "Fungus"
+    },
+    "53147": {
+        "id": 53147,
+        "name": "Fungi"
+    },
+    "53149": {
+        "id": 53149,
+        "name": "Toadstool"
+    },
+    "53150": {
+        "id": 53150,
+        "name": "Toadstools"
+    },
+    "53152": {
+        "id": 53152,
+        "name": "Flowers"
+    },
+    "53153": {
+        "id": 53153,
+        "name": "Daisies"
+    },
+    "53154": {
+        "id": 53154,
+        "name": "Flower"
+    },
+    "53155": {
+        "id": 53155,
+        "name": "Plant"
+    },
+    "53156": {
+        "id": 53156,
+        "name": "Plant"
+    },
+    "53157": {
+        "id": 53157,
+        "name": "Plant"
+    },
+    "53158": {
+        "id": 53158,
+        "name": "Fern"
+    },
+    "53159": {
+        "id": 53159,
+        "name": "Fern"
+    },
+    "53164": {
+        "id": 53164,
+        "name": "Egg Plinth"
+    },
+    "53165": {
+        "id": 53165,
+        "name": "Egg Plinth"
+    },
+    "53170": {
+        "id": 53170,
+        "name": "Buffers"
+    },
+    "53186": {
+        "id": 53186,
+        "name": "Column"
+    },
+    "53187": {
+        "id": 53187,
+        "name": "Door"
+    },
+    "53188": {
+        "id": 53188,
+        "name": "Tree"
+    },
+    "53189": {
+        "id": 53189,
+        "name": "Tree stump"
+    },
+    "53190": {
+        "id": 53190,
+        "name": "Skeleton"
+    },
+    "53191": {
+        "id": 53191,
+        "name": "Skeleton"
+    },
+    "53192": {
+        "id": 53192,
+        "name": "Skeleton"
+    },
+    "53222": {
+        "id": 53222,
+        "name": "Zombie Pirate's Locker"
+    },
+    "53224": {
+        "id": 53224,
+        "name": "Agility dispenser"
     }
 }

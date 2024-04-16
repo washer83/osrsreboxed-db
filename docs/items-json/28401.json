@@ -1,7 +1,7 @@
 {
     "id": 28401,
     "name": "Mucky note",
-    "last_updated": "2023-10-15",
+    "last_updated": "2024-04-16",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -20,7 +20,7 @@
     "cost": 30,
     "lowalch": 12,
     "highalch": 18,
-    "weight": 0.003,
+    "weight": 0.028,
     "buy_limit": null,
     "quest_item": true,
     "release_date": "2023-07-26",

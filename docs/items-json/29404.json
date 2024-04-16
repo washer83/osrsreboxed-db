@@ -1,7 +1,7 @@
 {
     "id": 29404,
     "name": "Token",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-04-16",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -20,15 +20,15 @@
     "cost": 123,
     "lowalch": 49,
     "highalch": 73,
-    "weight": 0.0,
+    "weight": 0.123,
     "buy_limit": null,
     "quest_item": false,
     "release_date": "2024-03-20",
     "duplicate": true,
     "examine": "A small token.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA50lEQVR4Xu3VMQrCMBTG8RQJpSFURFGqS48g3sXBwQO4Ozq6Ozk6u7k5uTmIm+AgeJpn2hhso0gtfQ3C+8MDt/z4EMoYRVHU3+ZB/pylAYumnzsHqM8QR6jvkJpRxTE1oH7HIKPKg5BQ5UEhYyloGMdVojy49uXbY0XOYCoH3QcSbiVQCOskaZA5+1H7ZpLDWHCsdUxeupBBXdTvYyRg3xWw7QSwbgewVJh56MNEYUa8gbVONv1fSmDnSMKhJ2CnQBuFWbWCdJ3pcxnkdbJp1EmB7HVsSA0Yk/2FdwZ5lX3cKYSiKAqpB2cqMDtlpvSFAAAAAElFTkSuQmCC",
-    "wiki_name": "Token (Moons of Peril)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Token_(Moons_of_Peril)",
+    "wiki_name": "Token (Varlamore)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Token_(Varlamore)",
     "equipment": null,
     "weapon": null
 }
