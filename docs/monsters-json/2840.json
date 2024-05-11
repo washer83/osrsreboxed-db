@@ -1,7 +1,7 @@
 {
     "id": 2840,
     "name": "Earth warrior",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2002-12-12",
@@ -26,9 +26,7 @@
     "slayer_level": 1,
     "slayer_xp": 54.0,
     "slayer_masters": [
-        "krystilia",
-        "mazchna",
-        "vannaka"
+        "krystilia"
     ],
     "duplicate": false,
     "examine": "A strange, inhuman, elemental warrior.",

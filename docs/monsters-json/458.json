@@ -1,7 +1,7 @@
 {
     "id": 458,
     "name": "Lizard",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-24",
@@ -28,9 +28,7 @@
     "slayer_masters": [
         "turael",
         "spria",
-        "mazchna",
-        "vannaka",
-        "chaeldar"
+        "mazchna"
     ],
     "duplicate": false,
     "examine": "Run away, it's massive!",

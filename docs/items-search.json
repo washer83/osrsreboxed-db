@@ -57933,7 +57933,7 @@
         "id": 10200,
         "name": "Clue scroll (easy)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "10201": {
         "id": 10201,
@@ -113079,7 +113079,7 @@
         "id": 19858,
         "name": "Clue scroll (hard)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "19859": {
         "id": 19859,
@@ -131415,7 +131415,7 @@
         "id": 23138,
         "name": "Clue scroll (medium)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "23139": {
         "id": 23139,
@@ -131517,7 +131517,7 @@
         "id": 23155,
         "name": "Clue scroll (easy)",
         "type": "normal",
-        "duplicate": true
+        "duplicate": false
     },
     "23156": {
         "id": 23156,
@@ -163859,12 +163859,6 @@
         "type": "normal",
         "duplicate": false
     },
-    "28840": {
-        "id": 28840,
-        "name": "Wood camo top",
-        "type": "noted",
-        "duplicate": true
-    },
     "28841": {
         "id": 28841,
         "name": "Wood camo top",
@@ -163876,12 +163870,6 @@
         "name": "Wood camo legs",
         "type": "normal",
         "duplicate": false
-    },
-    "28843": {
-        "id": 28843,
-        "name": "Wood camo legs",
-        "type": "noted",
-        "duplicate": true
     },
     "28844": {
         "id": 28844,
@@ -163895,12 +163883,6 @@
         "type": "normal",
         "duplicate": false
     },
-    "28846": {
-        "id": 28846,
-        "name": "Jungle camo top",
-        "type": "noted",
-        "duplicate": true
-    },
     "28847": {
         "id": 28847,
         "name": "Jungle camo top",
@@ -163912,12 +163894,6 @@
         "name": "Jungle camo legs",
         "type": "normal",
         "duplicate": false
-    },
-    "28849": {
-        "id": 28849,
-        "name": "Jungle camo legs",
-        "type": "noted",
-        "duplicate": true
     },
     "28850": {
         "id": 28850,
@@ -163931,12 +163907,6 @@
         "type": "normal",
         "duplicate": false
     },
-    "28852": {
-        "id": 28852,
-        "name": "Desert camo top",
-        "type": "noted",
-        "duplicate": true
-    },
     "28853": {
         "id": 28853,
         "name": "Desert camo top",
@@ -163948,12 +163918,6 @@
         "name": "Desert camo legs",
         "type": "normal",
         "duplicate": false
-    },
-    "28855": {
-        "id": 28855,
-        "name": "Desert camo legs",
-        "type": "noted",
-        "duplicate": true
     },
     "28856": {
         "id": 28856,
@@ -163967,12 +163931,6 @@
         "type": "normal",
         "duplicate": false
     },
-    "28858": {
-        "id": 28858,
-        "name": "Polar camo top",
-        "type": "noted",
-        "duplicate": true
-    },
     "28859": {
         "id": 28859,
         "name": "Polar camo top",
@@ -163984,12 +163942,6 @@
         "name": "Polar camo legs",
         "type": "normal",
         "duplicate": false
-    },
-    "28861": {
-        "id": 28861,
-        "name": "Polar camo legs",
-        "type": "noted",
-        "duplicate": true
     },
     "28862": {
         "id": 28862,
@@ -167375,18 +167327,6 @@
         "type": "placeholder",
         "duplicate": true
     },
-    "29431": {
-        "id": 29431,
-        "name": "Yolklore of ayaster",
-        "type": "normal",
-        "duplicate": false
-    },
-    "29432": {
-        "id": 29432,
-        "name": "Yolklore of ayaster",
-        "type": "placeholder",
-        "duplicate": true
-    },
     "29433": {
         "id": 29433,
         "name": "Book of egg",
@@ -167456,24 +167396,6 @@
     "29444": {
         "id": 29444,
         "name": "Egg priest mitre",
-        "type": "placeholder",
-        "duplicate": true
-    },
-    "29445": {
-        "id": 29445,
-        "name": "Easter egg (mined)",
-        "type": "normal",
-        "duplicate": false
-    },
-    "29446": {
-        "id": 29446,
-        "name": "Eggnappin' sack",
-        "type": "normal",
-        "duplicate": false
-    },
-    "29447": {
-        "id": 29447,
-        "name": "Eggnappin' sack",
         "type": "placeholder",
         "duplicate": true
     },
@@ -167560,5 +167482,149 @@
         "name": "Wilderness agility ticket",
         "type": "placeholder",
         "duplicate": true
+    },
+    "29462": {
+        "id": 29462,
+        "name": "Small meat pouch (open)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29463": {
+        "id": 29463,
+        "name": "Small meat pouch (open)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29464": {
+        "id": 29464,
+        "name": "Large meat pouch (open)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29465": {
+        "id": 29465,
+        "name": "Large meat pouch (open)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29466": {
+        "id": 29466,
+        "name": "Small fur pouch (open)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29467": {
+        "id": 29467,
+        "name": "Small fur pouch (open)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29468": {
+        "id": 29468,
+        "name": "Medium fur pouch (open)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29469": {
+        "id": 29469,
+        "name": "Medium fur pouch (open)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29470": {
+        "id": 29470,
+        "name": "Large fur pouch (open)",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29471": {
+        "id": 29471,
+        "name": "Large fur pouch (open)",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29472": {
+        "id": 29472,
+        "name": "Prospector helmet",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29473": {
+        "id": 29473,
+        "name": "Prospector helmet",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29474": {
+        "id": 29474,
+        "name": "Prospector jacket",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29475": {
+        "id": 29475,
+        "name": "Prospector jacket",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29476": {
+        "id": 29476,
+        "name": "Prospector legs",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29477": {
+        "id": 29477,
+        "name": "Prospector legs",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29478": {
+        "id": 29478,
+        "name": "Prospector boots",
+        "type": "normal",
+        "duplicate": true
+    },
+    "29479": {
+        "id": 29479,
+        "name": "Prospector boots",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29480": {
+        "id": 29480,
+        "name": "Agility arena ticket",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29481": {
+        "id": 29481,
+        "name": "Agility arena ticket",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29482": {
+        "id": 29482,
+        "name": "Brimhaven voucher",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29483": {
+        "id": 29483,
+        "name": "Brimhaven voucher",
+        "type": "placeholder",
+        "duplicate": true
+    },
+    "29484": {
+        "id": 29484,
+        "name": "Agility xp",
+        "type": "normal",
+        "duplicate": false
+    },
+    "29485": {
+        "id": 29485,
+        "name": "Graceful recolour",
+        "type": "normal",
+        "duplicate": false
     }
 }

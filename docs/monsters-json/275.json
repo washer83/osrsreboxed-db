@@ -1,7 +1,7 @@
 {
     "id": 275,
     "name": "Steel dragon",
-    "last_updated": "2022-12-31",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2014-01-23",
@@ -30,7 +30,6 @@
     "slayer_level": 1,
     "slayer_xp": 220.5,
     "slayer_masters": [
-        "chaeldar",
         "konar",
         "nieve",
         "duradel"

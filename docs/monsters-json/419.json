@@ -1,7 +1,7 @@
 {
     "id": 419,
     "name": "Cockatrice",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-26",
@@ -27,8 +27,7 @@
     "slayer_xp": 37.0,
     "slayer_masters": [
         "mazchna",
-        "vannaka",
-        "chaeldar"
+        "vannaka"
     ],
     "duplicate": false,
     "examine": "The winged reptile.",

@@ -1,7 +1,7 @@
 {
     "id": 453,
     "name": "Crawling Hand",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-05-11",
     "incomplete": false,
     "members": true,
     "release_date": "2005-01-26",
@@ -30,8 +30,7 @@
     "slayer_masters": [
         "turael",
         "spria",
-        "mazchna",
-        "vannaka"
+        "mazchna"
     ],
     "duplicate": false,
     "examine": "Now THAT's handy.",

@@ -1,7 +1,7 @@
 {
     "id": 476,
     "name": "Wall beast",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2005-03-14",
@@ -26,9 +26,7 @@
     "slayer_level": 35,
     "slayer_xp": 105.0,
     "slayer_masters": [
-        "mazchna",
-        "vannaka",
-        "chaeldar"
+        "mazchna"
     ],
     "duplicate": false,
     "examine": "A big, scary hand!",

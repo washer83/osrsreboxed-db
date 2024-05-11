@@ -1,7 +1,7 @@
 {
     "id": 29059,
     "name": "Blue moon chestplate (broken)",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-05-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -20,7 +20,7 @@
     "cost": 290010,
     "lowalch": 116004,
     "highalch": 174006,
-    "weight": 12.0,
+    "weight": 3.175,
     "buy_limit": null,
     "quest_item": false,
     "release_date": "2024-03-20",

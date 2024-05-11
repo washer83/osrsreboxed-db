@@ -1,14 +1,14 @@
 {
     "id": 3020,
     "name": "Jungle spider",
-    "last_updated": "2022-12-31",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2003-01-27",
     "combat_level": 44,
     "size": 1,
     "hitpoints": 50,
-    "max_hit": 5,
+    "max_hit": 6,
     "attack_type": [
         "stab"
     ],

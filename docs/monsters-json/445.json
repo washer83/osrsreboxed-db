@@ -1,7 +1,7 @@
 {
     "id": 445,
     "name": "Infernal Mage",
-    "last_updated": "2021-07-12",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-26",
@@ -26,8 +26,7 @@
     "slayer_level": 45,
     "slayer_xp": 60.0,
     "slayer_masters": [
-        "vannaka",
-        "chaeldar"
+        "vannaka"
     ],
     "duplicate": true,
     "examine": "An evil magic user.",

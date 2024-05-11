@@ -1,7 +1,7 @@
 {
     "id": 28989,
     "name": "Blue moon spear",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-05-11",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -20,7 +20,7 @@
     "cost": 100000,
     "lowalch": 40000,
     "highalch": 60000,
-    "weight": 2.267,
+    "weight": 3.0,
     "buy_limit": null,
     "quest_item": false,
     "release_date": "2024-03-20",

@@ -1,7 +1,7 @@
 {
     "id": 3139,
     "name": "Pyrefiend",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-05-11",
     "incomplete": false,
     "members": true,
     "release_date": "2013-10-17",
@@ -31,8 +31,7 @@
     "slayer_xp": 45.0,
     "slayer_masters": [
         "mazchna",
-        "vannaka",
-        "chaeldar"
+        "vannaka"
     ],
     "duplicate": false,
     "examine": "A small fire demon.",

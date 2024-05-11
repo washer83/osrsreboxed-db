@@ -1,7 +1,7 @@
 {
     "id": 422,
     "name": "Rockslug",
-    "last_updated": "2021-09-24",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2005-03-14",
@@ -26,9 +26,7 @@
     "slayer_level": 20,
     "slayer_xp": 27.0,
     "slayer_masters": [
-        "mazchna",
-        "vannaka",
-        "chaeldar"
+        "mazchna"
     ],
     "duplicate": false,
     "examine": "The slime of evil.",

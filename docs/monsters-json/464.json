@@ -1,7 +1,7 @@
 {
     "id": 464,
     "name": "Harpie Bug Swarm",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2006-01-30",
@@ -26,8 +26,7 @@
     "slayer_level": 33,
     "slayer_xp": 25.0,
     "slayer_masters": [
-        "vannaka",
-        "chaeldar"
+        "vannaka"
     ],
     "duplicate": false,
     "examine": "A swarm of bugs.",

@@ -1,7 +1,7 @@
 {
     "id": 481,
     "name": "Cave bug",
-    "last_updated": "2023-04-25",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2005-03-14",
@@ -28,8 +28,7 @@
     "slayer_masters": [
         "turael",
         "spria",
-        "mazchna",
-        "vannaka"
+        "mazchna"
     ],
     "duplicate": false,
     "examine": "A nasty crawling critter.",

@@ -1,7 +1,7 @@
 {
     "id": 2592,
     "name": "Mogre",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-05-11",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-24",
@@ -28,8 +28,7 @@
     "slayer_xp": 48.0,
     "slayer_masters": [
         "mazchna",
-        "vannaka",
-        "chaeldar"
+        "vannaka"
     ],
     "duplicate": false,
     "examine": "An angry Ogre in a funny hat.",
