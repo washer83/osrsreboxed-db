@@ -53,6 +53,11 @@ def fetch():
         last_extraction_date = stream.read()
         last_extraction_date = last_extraction_date.strip()
         last_extraction_date = re.sub(RG, '', last_extraction_date)
+        
+        # Remove extra quotes if present
+        if last_extraction_date.startswith("'") and last_extraction_date.endswith("'"):
+            last_extraction_date = last_extraction_date[1:-1]
+        
         last_extraction_date = datetime.strptime(last_extraction_date, "%a %b %d %H:%M:%S %Y")
         last_extraction_date = last_extraction_date - timedelta(days=3)
     else:
