@@ -36,6 +36,8 @@ ITEM_DEFINITIONS = dict()
 NPC_DEFINITIONS = dict()
 OBJECT_DEFINITIONS = dict()
 
+print('looking for cache files here:')
+print(config.DATA_CACHE_PATH)
 all_cache_items = sorted(Path(config.DATA_CACHE_PATH / "item_defs").glob("*.json"),
                          key=lambda path: int(path.stem))
 if len(all_cache_items) == 0:
